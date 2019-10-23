@@ -4,46 +4,6 @@ title = "Theologicus"
 description = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"
 theme = "cupper"
 
-[build]
-publish = "public"
-command = "hugo --gc --minify"
-
-[context.production.environment]
-HUGO_VERSION = "0.59.0"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-command = "hugo --gc --minify --enableGitInfo"
-
-[context.split1.environment]
-HUGO_VERSION = "0.59.0"
-HUGO_ENV = "production"
-
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.59.0"
-
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.59.0"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
-
-[taxonomies]
-  tag = "tags"
-
-[permalinks]
-  post = "/:filename/"
-
-[imaging]
-  quality = 99
-
 [params]
   description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
   homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
