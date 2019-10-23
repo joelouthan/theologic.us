@@ -20,17 +20,17 @@ theme = "cupper"
     weight = 1
   [[menu.nav]]
     name = "Blog"
-    url = "/post/"
+    url = "/posts/"
     weight = 2
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
     weight = 3
   [[menu.nav]]
-    name = "About"
-    url = "/about/"
+    name = "Categories"
+    url = "/categories/"
     weight = 4
   [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
+    name = "About"
+    url = "/about/"
     weight = 5
