@@ -1,0 +1,4 @@
+baseURL = "http://theologic.us/"
+languageCode = "en-us"
+title = "Theologicus"
+theme = "cupper-hugo-theme"

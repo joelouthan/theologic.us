@@ -1,0 +1,138 @@
+---
+title: 'Here is Love: I Tell You This So That Your Joy May Be Full – Romans 8:1'
+author: Joe Louthan
+type: post
+date: 2012-11-05T15:00:53+00:00
+url: /theology/here-is-love-i-tell-you-this-so-that-your-joy-may-be-full-romans-81/
+dsq_thread_id:
+  - 2545247293
+categories:
+  - Theology
+tags:
+  - Here is Love
+  - The Epistle to the Romans
+
+---
+[<img class="alignright size-medium wp-image-1223" title="cross-backlit-x2" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=300%2C300" alt="" width="300" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=300%2C300 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?w=573 573w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]My abusing and the abuse done against me.
+
+My lies that I have told.
+
+The wicked thoughts in my head.
+
+My own foolishness.
+
+My sickness.
+
+The iniquities of my heart.
+
+The lusts that captured me for most of my life.
+
+The amount of pornography I have distributed in my lifetime.
+
+My disobedience.
+
+My distrust.
+
+My blasphemy.
+
+My anger.
+
+The poison from my tongue
+
+My hatred.
+
+My self-righteousness.
+
+My pride.
+
+This what defines me. This is what has tainted my blood as it courses through my veins. This what infects the air around me.
+
+I was destined for death. I was destined to die.
+
+**Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord!** 
+
+**So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin. [<sup>1</sup>][2]{#return-note-1213-1.simple-footnote}**
+
+I won’t be perfect. Temptations are still there. Pride is still there.
+
+But Christ is has started the work of making my heart and soul look like his.
+
+His work is perfect. My work is not.
+
+His work will be complete. My work will be finished.
+
+For all of my past, present, and future failures, sins, trespasses, and iniquities, there is no truth so eye-blurring beautiful, so life-giving, so death-destroying, so mercy-renewing, so grace abounding, so love overflowing as the complete, perfect, definite, and absolute truth as this one verse:
+
+> <p style="text-align: left;">
+>   <strong>There is therefore now no condemnation for those who are in Christ Jesus. <a class="simple-footnote" title="Romans 8:1" id="return-note-1213-2" href="#note-1213-2"><sup>2</sup></a></strong>
+> </p>
+
+Done and Amen.
+
+Either this is true or it is not true.
+
+Either it is 100% or it is nothing.
+
+Either this has pressed or moved your heart or it has not.
+
+I don&#8217;t know which side that you stand on. However, this may be the first time time you have heard this. This may be the millionth time you have heard it but you are understanding it _differently_.
+
+Trust in Christ.
+
+Believe in Christ.
+
+If you do, then know it is because His Holy Spirit dwells in you.
+
+Then it won&#8217;t be just you trying to justify yourself before God.
+
+At the end of days, you will stand in line before the Judge of judges. You see countless people in front of you giving their own testimony before God on what _they_ have done for God. You notice that there are no other witnesses that can give an account of _who _ they are before God. One right after the other, Jesus calmly gives the sentence, &#8216;**I never knew you; depart from me, you workers of lawlessness.**’ [<sup>3</sup>][3]{#return-note-1213-3.simple-footnote}
+
+There is fear. Yet, you starting to see more and more of His beautiful glory and you can&#8217;t wait to see just a little more. _That love!_ That love that was there the moment God saved you. There is that feeling-will-thought-idea-belief-emotion-knowledge-security-peace. The more you see of him, the more you long to see the face of the one who saved you from death to life.
+
+Now, you stand before the throne. You peer into the loveliest eyes you have ever seen. You glance at the face that is a beauty like no other.
+
+Your breath is taken. Your heart races. Your only rightful response is to fall to your needs and worship the King of kings and Lord of lords.
+
+In the back of your mind, you think a dreadful thought, &#8220;Who will bear witness for me?&#8221;
+
+At that precise moment, you hear a gentle, soothing, comforting, loving, merciful, and gracious familiar voice speak tenderly about you to you and yet boldly to the Throne, &#8220;This your son, O Father, by the Son as ransomed for Himself!&#8221;
+
+The Son stands, with crowns upon his head and robes that are dipped in blood, and turns to look upon the Father with a beaming smile, &#8220;What do you say, Father?&#8221;
+
+In an awe-struck and fear-trembling moment that shakes the heavens, His voice sonics booms to eternity and vehemently declares, &#8220;**This is my son in whom I am well-pleased!**&#8221;
+
+The Son of Man runs down from His throne, takes off his robe and covers you with it. He lifts you up, places his nail-pierced hands around your face and you get to peer into his face.
+
+Your soul is complete, finally, perfectly, and definitely satisfied.
+
+He brings you close and holds you. With one final act in this heavenly courtroom, with the Holy Spirit, the angels, the elders, the saints, and the Father looking upon you, Christ Jesus, the Gracious Almighty God justly declares:
+
+> **NO CONDEMNATION!**
+> 
+> Now enter into your sweet reward.
+
+Brothers and sisters, I tell you all these things that you joy may be full!
+
+To the whole world, I tell you all these things because that is love!
+
+<div class="simple-footnotes">
+  <p class="notes">
+    Notes:
+  </p>
+  
+  <ol>
+    <li id="note-1213-1">
+      Romans 7:24-25 <a href="#return-note-1213-1">&#8617;</a>
+    </li>
+    <li id="note-1213-2">
+      Romans 8:1 <a href="#return-note-1213-2">&#8617;</a>
+    </li>
+    <li id="note-1213-3">
+      Matthew 7:23 <a href="#return-note-1213-3">&#8617;</a>
+    </li>
+  </ol>
+</div>
+
+ [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg
+ [2]: #note-1213-1 "Romans 7:24-25"
+ [3]: #note-1213-3 "Matthew 7:23"
