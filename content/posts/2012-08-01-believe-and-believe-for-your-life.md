@@ -2,7 +2,7 @@
 title: Believe, and Believe for Your Life!
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/believe-and-believe-for-your-life/
 dsq_thread_id:
   - 1783091040

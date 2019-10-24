@@ -2,7 +2,7 @@
 title: Keeping Our Britches Lined With Footnotes
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/keeping-our-britches-lined-with-footnotes/
 dsq_thread_id:
   - 1779525927

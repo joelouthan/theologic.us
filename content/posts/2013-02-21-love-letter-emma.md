@@ -2,7 +2,7 @@
 title: 'Love Letter: Emma'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /prayer/love-letter-emma/
 dsq_thread_id:
   - 1766876896

@@ -2,7 +2,7 @@
 title: 'On the Incarnation: So That God Might Be Revealed to All'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-so-that-god-might-be-revealed-to-all/
 categories:
   - Quotes

@@ -2,7 +2,7 @@
 title: Mark 2:1-12 Jesus Forgives Our Sins
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-21-12-jesus-forgives-our-sins/
 dsq_thread_id:
   - 2276892925

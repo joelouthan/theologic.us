@@ -2,7 +2,7 @@
 title: Mark 1:29-34 Jesus Heals the Sick
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-129-34-jesus-heals-the-sick/
 dsq_thread_id:
   - 1796586378

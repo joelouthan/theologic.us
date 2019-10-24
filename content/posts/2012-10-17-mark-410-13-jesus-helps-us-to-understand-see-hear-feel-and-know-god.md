@@ -2,7 +2,7 @@
 title: Mark 4:10-13 Jesus Helps Us to Understand, See, Hear, Feel, and Know God
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-410-13-jesus-helps-us-to-understand-see-hear-feel-and-know-god/
 dsq_thread_id:
   - 3115835850

@@ -2,7 +2,7 @@
 title: When and When Not To Strive For Balance
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/when-and-when-not-to-strive-for-balance/
 dsq_thread_id:
   - 1900273810

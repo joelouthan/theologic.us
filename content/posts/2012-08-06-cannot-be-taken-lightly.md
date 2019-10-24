@@ -2,7 +2,7 @@
 title: Cannot Be Taken Lightly
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/cannot-be-taken-lightly/
 dsq_thread_id:
   - 2165098484

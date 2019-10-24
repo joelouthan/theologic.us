@@ -2,7 +2,7 @@
 title: 'Dangerous Calling: Where’s The Grace?'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/dangerous-calling-wheres-the-grace/
 dsq_thread_id:
   - 1945419827

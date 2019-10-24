@@ -2,7 +2,7 @@
 title: You Can’t Tell Me Philosophy Affects Us—Just Look at the Church
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/you-cant-tell-me-philosophy-affects-us-just-look-at-the-church/
 dsq_thread_id:
   - 2001857466

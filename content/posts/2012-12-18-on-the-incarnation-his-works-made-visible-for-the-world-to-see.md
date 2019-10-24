@@ -2,7 +2,7 @@
 title: 'On the Incarnation: His Works Made Visible For the World to See'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-his-works-made-visible-for-the-world-to-see/
 categories:
   - Quotes

@@ -2,7 +2,7 @@
 title: 'On the Incarnation: He Did Not Leave Us Like Brutes'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-he-did-not-leave-us-like-brutes/
 categories:
   - Quotes

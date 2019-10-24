@@ -2,7 +2,7 @@
 title: 'On the Incarnation: His Honor In Exchange For Our Destruction'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-his-honor-in-exchange-for-our-destruction/
 dsq_thread_id:
   - 2496713614

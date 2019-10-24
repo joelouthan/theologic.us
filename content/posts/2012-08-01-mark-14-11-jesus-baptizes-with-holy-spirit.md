@@ -2,7 +2,7 @@
 title: Mark 1:4-7 Jesus Baptizes With the Holy Spirit
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-14-11-jesus-baptizes-with-holy-spirit/
 dsq_thread_id:
   - 4133403837

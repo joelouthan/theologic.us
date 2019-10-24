@@ -2,7 +2,7 @@
 title: Mark 4:13-20 Jesus Sows, We Grow
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-413-20-jesus-sows-we-grow/
 dsq_thread_id:
   - 1766976888

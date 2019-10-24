@@ -2,7 +2,7 @@
 title: The Hidden Cry of the Soul
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/the-hidden-cry-of-the-soul/
 dsq_thread_id:
   - 4133379260

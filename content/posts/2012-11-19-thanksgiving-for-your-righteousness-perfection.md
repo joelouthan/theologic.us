@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Righteousness—Perfection
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /scriptures/thanksgiving-for-your-righteousness-perfection/
 dsq_thread_id:
   - 1820902841

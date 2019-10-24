@@ -2,7 +2,7 @@
 title: Let Me Control My Environment in Order To Make My Life Better
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/let-me-control-my-environment-in-order-to-make-my-life-better/
 dsq_thread_id:
   - 1786160995

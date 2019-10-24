@@ -2,7 +2,7 @@
 title: 'Devotions in Mark: An Introduction'
 author: Joe Louthan
 type: post
-date: 2012-07-25T14:00:03+00:00
+date: 2012-07-22T14:00:03+00:00
 url: /family-devotions/mark-an-introduction/
 dsq_thread_id:
   - 1766926362

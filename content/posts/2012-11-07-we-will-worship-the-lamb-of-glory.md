@@ -2,7 +2,7 @@
 title: We Will Worship The Lamb of Glory
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /doxology/we-will-worship-the-lamb-of-glory/
 categories:
   - Doxology

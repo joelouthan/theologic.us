@@ -2,7 +2,7 @@
 title: God is Not Hoping That You Will Be The Best That You Can Be
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/god-is-not-hoping-you-can-be-the-best-that-you-can-be/
 dsq_thread_id:
   - 2024499593

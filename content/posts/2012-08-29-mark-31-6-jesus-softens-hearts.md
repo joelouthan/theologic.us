@@ -2,7 +2,7 @@
 title: Mark 3:1-6 Jesus Softens Hearts
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-31-6-jesus-softens-hearts/
 dsq_thread_id:
   - 1823673366

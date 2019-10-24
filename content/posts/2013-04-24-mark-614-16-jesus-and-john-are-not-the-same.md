@@ -2,7 +2,7 @@
 title: Mark 6:14-16 Jesus and John Are Not The Same
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-614-16-jesus-and-john-are-not-the-same/
 dsq_thread_id:
   - 1841330768

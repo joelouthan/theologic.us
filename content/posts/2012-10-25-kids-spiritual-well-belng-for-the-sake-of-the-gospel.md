@@ -2,7 +2,7 @@
 title: Kids’ Spiritual Well-Being For ‘the Sake of the Gospel’?
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/kids-spiritual-well-belng-for-the-sake-of-the-gospel/
 dsq_thread_id:
   - 2002179140

@@ -2,7 +2,7 @@
 title: Benefits in the Person and Work of Christ
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/benefits-in-the-person-and-work-of-christ/
 dsq_thread_id:
   - 4391542502

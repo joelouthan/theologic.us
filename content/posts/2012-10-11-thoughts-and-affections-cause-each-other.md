@@ -2,7 +2,7 @@
 title: Thoughts and Affections Cause Each Other
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/thoughts-and-affections-cause-each-other/
 dsq_thread_id:
   - 1775729573

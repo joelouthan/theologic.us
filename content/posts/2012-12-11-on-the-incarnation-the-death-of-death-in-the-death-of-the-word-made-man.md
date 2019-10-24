@@ -2,7 +2,7 @@
 title: 'On the Incarnation: The Death of Death in the Death of the Word Made Man'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-the-death-of-death-in-the-death-of-the-word-made-man/
 categories:
   - Quotes

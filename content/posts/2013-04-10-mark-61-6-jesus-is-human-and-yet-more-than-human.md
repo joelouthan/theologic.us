@@ -2,7 +2,7 @@
 title: Mark 6:1-6 Jesus Is Human and Yet, More Than Human
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-61-6-jesus-is-human-and-yet-more-than-human/
 dsq_thread_id:
   - 1793045438

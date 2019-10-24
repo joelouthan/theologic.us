@@ -2,7 +2,7 @@
 title: Where Does The Gospel Start With?
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/where-does-the-good-news-start-with/
 categories:
   - Quotes

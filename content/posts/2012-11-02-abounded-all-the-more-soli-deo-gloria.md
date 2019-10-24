@@ -2,7 +2,7 @@
 title: 'Abounded All The More: Soli Deo Gloria'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /scriptures/abounded-all-the-more-soli-deo-gloria/
 dsq_thread_id:
   - 2073723306

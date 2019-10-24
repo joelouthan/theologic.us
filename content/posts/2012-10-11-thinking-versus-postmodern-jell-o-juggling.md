@@ -2,7 +2,7 @@
 title: Thinking versus Postmodern Jell-O Juggling
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/thinking-versus-postmodern-jell-o-juggling/
 dsq_thread_id:
   - 1776879711

@@ -2,7 +2,7 @@
 title: Left Up To Me, I Would Have Chosen Not God
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/left-up-to-me-i-would-have-chosen-not-god/
 categories:
   - Quotes

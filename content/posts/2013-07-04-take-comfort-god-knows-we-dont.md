@@ -2,7 +2,7 @@
 title: 'Take Comfort: God Knows We Don’t'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/take-comfort-god-knows-we-dont/
 dsq_thread_id:
   - 1783319434

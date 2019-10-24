@@ -2,7 +2,7 @@
 title: You Are So Good To Me
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /doxology/you-are-so-good-to-me/
 categories:
   - Doxology

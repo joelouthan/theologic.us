@@ -2,7 +2,7 @@
 title: The Legacy of Leading Your Family in Devotions
 author: Joe Louthan
 type: post
-date: 2012-07-25T19:00:25+00:00
+date: 2012-07-23T19:00:25+00:00
 url: /family-devotions/the-legacy-of-leading-your-family-in-devotions/
 dsq_thread_id:
   - 2299744091

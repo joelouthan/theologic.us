@@ -2,7 +2,7 @@
 title: The Ridiculous, Foolish Power of Christ Crucified
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 excerpt: 'The gospel of Christ: A stumbling block to the jews and folly to the Gentiles.'
 url: /preaching/ridiculous-foolish-power/
 dsq_thread_id:

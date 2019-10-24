@@ -2,7 +2,7 @@
 title: 'Psalms: I Need You To Tell Me'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /scriptures/i-need-you-to-tell-me/
 dsq_thread_id:
   - 4631463087

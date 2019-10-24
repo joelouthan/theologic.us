@@ -2,7 +2,7 @@
 title: The Weight of Our Sin Pales in Comparison
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/the-weight-of-our-sin-pales-in-comparison/
 dsq_thread_id:
   - 1831672329

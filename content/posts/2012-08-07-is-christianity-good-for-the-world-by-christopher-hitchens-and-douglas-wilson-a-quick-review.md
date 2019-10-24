@@ -2,7 +2,7 @@
 title: Is Christianity Good for the World? by Christopher Hitchens and Douglas Wilson, A Quick Review
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /books/is-christianity-good-for-the-world-by-christopher-hitchens-and-douglas-wilson-a-quick-review/
 dsq_thread_id:
   - 1995420921

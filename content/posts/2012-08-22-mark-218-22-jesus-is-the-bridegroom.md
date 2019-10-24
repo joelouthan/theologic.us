@@ -2,7 +2,7 @@
 title: Mark 2:18-22 Jesus is the Bridegroom
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-218-22-jesus-is-the-bridegroom/
 dsq_thread_id:
   - 1877313732

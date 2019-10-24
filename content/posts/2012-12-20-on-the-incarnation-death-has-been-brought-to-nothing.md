@@ -2,7 +2,7 @@
 title: 'On the Incarnation: Death Has Been Brought to Nothing'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-death-has-been-brought-to-nothing/
 dsq_thread_id:
   - 4880824366

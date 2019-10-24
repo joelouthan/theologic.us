@@ -2,7 +2,7 @@
 title: The Main Purpose of the Mind
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/the-main-purpose-of-the-mind/
 dsq_thread_id:
   - 1790376070

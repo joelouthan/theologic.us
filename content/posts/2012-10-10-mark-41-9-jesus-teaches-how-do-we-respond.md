@@ -2,7 +2,7 @@
 title: Mark 4:1-9 Jesus Teaches, How Do We Respond?
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-41-9-jesus-teaches-how-do-we-respond/
 dsq_thread_id:
   - 1914348590

@@ -2,7 +2,7 @@
 title: 'Influences: Love Song – Psalm 119'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 excerpt: |
   Psalm 119 is the love song to God for all time.
   

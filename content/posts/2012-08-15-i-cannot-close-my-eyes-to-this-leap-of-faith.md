@@ -2,7 +2,7 @@
 title: I Cannot Close My Eyes To This Leap of Faith
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/i-cannot-close-my-eyes-to-this-leap-of-faith/
 dsq_thread_id:
   - 2062374736

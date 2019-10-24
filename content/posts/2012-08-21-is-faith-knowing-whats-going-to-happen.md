@@ -2,7 +2,7 @@
 title: Is Faith Knowing What’s Going To Happen?
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/is-faith-knowing-whats-going-to-happen/
 dsq_thread_id:
   - 2093907663

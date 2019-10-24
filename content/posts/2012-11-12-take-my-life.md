@@ -2,7 +2,7 @@
 title: Take My Life
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /doxology/take-my-life/
 categories:
   - Doxology

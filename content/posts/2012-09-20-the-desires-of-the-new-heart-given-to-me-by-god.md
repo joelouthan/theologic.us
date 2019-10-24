@@ -2,7 +2,7 @@
 title: The Desires of the New Heart Given to Me By God
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /preaching/the-desires-of-the-new-heart-given-to-me-by-god/
 categories:
   - Preaching

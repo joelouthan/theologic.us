@@ -2,7 +2,7 @@
 title: 'Influences: I Know Nothing But Him'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/influences-i-know-nothing-but-him/
 dsq_thread_id:
   - 1821387923

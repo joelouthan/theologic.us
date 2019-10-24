@@ -2,7 +2,7 @@
 title: Mark 1:35-39 Jesus Prayed
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-135-39-jesus-prayed/
 dsq_thread_id:
   - 1768163143

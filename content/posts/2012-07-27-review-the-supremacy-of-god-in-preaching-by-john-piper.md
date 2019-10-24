@@ -2,7 +2,7 @@
 title: The Supremacy of God in Preaching by John Piper, A Thought
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /books/review-the-supremacy-of-god-in-preaching-by-john-piper/
 dsq_thread_id:
   - 1841055403

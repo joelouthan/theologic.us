@@ -2,7 +2,7 @@
 title: 'On the Incarnation: The Mystery That We Adore'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/on-the-incarnation-the-mystery-that-we-adore/
 dsq_thread_id:
   - 2170176416

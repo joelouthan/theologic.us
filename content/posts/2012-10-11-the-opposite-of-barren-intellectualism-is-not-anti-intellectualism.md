@@ -2,7 +2,7 @@
 title: The Opposite of Barren Intellectualism is not Anti-Intellectualism
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/the-opposite-of-barren-intellectualism-is-not-anti-intellectualism/
 dsq_thread_id:
   - 1781821414

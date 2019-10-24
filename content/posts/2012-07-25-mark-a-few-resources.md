@@ -2,7 +2,7 @@
 title: 'Devotions in Mark: A Few Resources'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-a-few-resources/
 dsq_thread_id:
   - 1841381252

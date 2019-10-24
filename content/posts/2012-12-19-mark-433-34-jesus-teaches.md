@@ -2,7 +2,7 @@
 title: Mark 4:33-34 Jesus Teaches
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-433-34-jesus-teaches/
 dsq_thread_id:
   - 1815368307

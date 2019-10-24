@@ -2,7 +2,7 @@
 title: 'Dangerous Calling: God Will Give Us What We Want'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/dangerous-calling/
 dsq_thread_id:
   - 1766876894

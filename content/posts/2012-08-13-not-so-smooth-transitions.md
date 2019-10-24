@@ -2,7 +2,7 @@
 title: Not-so-smooth Transitions
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-23T00:00:00+00:00
 url: /family-devotions/not-so-smooth-transitions/
 dsq_thread_id:
   - 1766972682

@@ -2,7 +2,7 @@
 title: A Pastor’s Promise
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /prayer/a-pastors-promise/
 dsq_thread_id:
   - 1889987224

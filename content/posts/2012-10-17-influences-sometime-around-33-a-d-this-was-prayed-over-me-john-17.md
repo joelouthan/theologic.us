@@ -2,7 +2,7 @@
 title: 'Influences: Sometime Around 33 A.D., This Was Prayed Over Me – John 17'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 excerpt: Romans 8:34 Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us.
 url: /scriptures/influences-sometime-around-33-a-d-this-was-prayed-over-me-john-17/
 categories:

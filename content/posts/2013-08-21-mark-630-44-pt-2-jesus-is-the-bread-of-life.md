@@ -2,7 +2,7 @@
 title: Mark 6:30-44 Pt. 2 Jesus is the Bread of Life
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-630-44-pt-2-jesus-is-the-bread-of-life/
 dsq_thread_id:
   - 1899428572

@@ -2,7 +2,7 @@
 title: 'Influences: Indeed He Says! Romans 9:22-26'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /theology/influences-indeed-he-says-romans-922-26/
 dsq_thread_id:
   - 2126741445

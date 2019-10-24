@@ -2,7 +2,7 @@
 title: 'Dangerous Calling: Blind to My True Condition'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/dangerous-calling-blind-to-my-true-condition/
 dsq_thread_id:
   - 1841359238

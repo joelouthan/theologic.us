@@ -2,7 +2,7 @@
 title: 'Dangerous Calling by Paul David Tripp: A Review'
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /books/dangerous-calling-by-paul-david-tripp-a-review/
 dsq_thread_id:
   - 2136814944

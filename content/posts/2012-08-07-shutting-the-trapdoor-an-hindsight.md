@@ -2,7 +2,7 @@
 title: Shutting the Trapdoor, An Hindsight
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /opinions/shutting-the-trapdoor-an-hindsight/
 categories:
   - Opinions

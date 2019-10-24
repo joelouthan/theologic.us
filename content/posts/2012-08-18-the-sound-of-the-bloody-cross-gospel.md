@@ -2,7 +2,7 @@
 title: The Sound of the Bloody Cross Gospel
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-24T00:00:00+00:00
 url: /quotes/the-sound-of-the-bloody-cross-gospel/
 dsq_thread_id:
   - 1830846677
