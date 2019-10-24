@@ -5,11 +5,11 @@ description = "No pen, no words, no image can express to you the loveliness of m
 theme = "cupper"
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+  description = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"
+  homeMetaContent = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "Jan 2, 2006"
+  dateFormat = "02 Jan 2006 15:04"
   codePenUser = "someUser"
   katex = true
 
