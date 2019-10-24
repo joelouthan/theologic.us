@@ -19,18 +19,34 @@ theme = "cupper"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Blog"
-    url = "/posts/"
+    name = "Here is Love: Expositions in Romans 8"
+    url = "/tags/here-is-love/"
     weight = 2
+  [[menu.nav]]
+    name = "Family Devotions in The Gospel of Mark"
+    url = "/categories/family-devotions/"
+    weight = 3
+  [[menu.nav]]
+    name = "Ordo Salutis: Devotions on Soteriology"
+    url = "/tags/ordo-salutis/"
+    weight = 4
+  [[menu.nav]]
+    name = "Thanksgiving: Scriptural Reference on Thanks"
+    url = "/tags/thanksgiving/"
+    weight = 5
+  [[menu.nav]]
+    name = "Now Sings My Souls: Prayers based on the Psalms"
+    url = "/tags/now-sings-my-soul/"
+    weight = 6
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
-    weight = 3
+    weight = 100
   [[menu.nav]]
     name = "Categories"
     url = "/categories/"
-    weight = 4
+    weight = 100
   [[menu.nav]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 1000
