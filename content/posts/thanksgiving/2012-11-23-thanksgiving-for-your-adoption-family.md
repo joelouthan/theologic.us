@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Adoption—Family
 author: Joe Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-11-23T00:00:00+00:00
 url: /scriptures/thanksgiving-for-your-adoption-family/
 categories:
   - Doxology

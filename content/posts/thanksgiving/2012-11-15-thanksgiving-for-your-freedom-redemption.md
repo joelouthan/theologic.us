@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Freedom—Redemption
 author: Joe Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-11-15T00:00:00+00:00
 url: /scriptures/thanksgiving-for-your-freedom-redemption/
 dsq_thread_id:
   - 2227677556

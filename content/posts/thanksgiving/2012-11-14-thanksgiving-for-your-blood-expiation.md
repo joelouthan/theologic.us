@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Blood—Expiation
 author: Joe Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-11-14T00:00:00+00:00
 url: /scriptures/thanksgiving-for-your-blood-expiation/
 dsq_thread_id:
   - 2314980325
