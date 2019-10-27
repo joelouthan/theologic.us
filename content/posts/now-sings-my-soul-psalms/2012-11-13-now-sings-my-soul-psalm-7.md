@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 7'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-11-13T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-7/
 categories:
   - Doxology

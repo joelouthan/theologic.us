@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:2b He Leads Me Beside Still Waters'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-19T12:00:40+00:00
 url: /prayer/now-sings-my-soul-psalm-232b-he-leads-me-beside-still-waters/

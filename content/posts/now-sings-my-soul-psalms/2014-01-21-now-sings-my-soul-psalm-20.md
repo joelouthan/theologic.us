@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 20'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2014-01-21T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-20/
 dsq_thread_id:
   - 2127840957

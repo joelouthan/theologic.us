@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: I Cannot Go On Without You – Romans 8:8'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2013-01-14T15:00:24+00:00
 url: /theology/here-is-love-i-cannot-go-on-without-you-romans-88-2/

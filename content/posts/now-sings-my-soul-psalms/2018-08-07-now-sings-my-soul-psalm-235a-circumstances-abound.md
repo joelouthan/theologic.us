@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:5a Circumstances Abound'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-07T12:00:58+00:00
 url: /prayer/now-sings-my-soul-psalm-235a-circumstances-abound/

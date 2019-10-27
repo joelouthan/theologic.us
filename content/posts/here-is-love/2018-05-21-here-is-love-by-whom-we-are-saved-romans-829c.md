@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: By Whom We Are Saved – Romans 8:29c'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-21T12:00:32+00:00
 url: /theology/here-is-love-by-whom-we-are-saved-romans-829c/

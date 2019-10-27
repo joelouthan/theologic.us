@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 11'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2013-01-15T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-11/
 categories:
   - Doxology

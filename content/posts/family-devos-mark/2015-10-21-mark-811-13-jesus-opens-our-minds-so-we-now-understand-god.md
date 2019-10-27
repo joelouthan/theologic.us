@@ -1,6 +1,6 @@
 ---
 title: Mark 8:11–13 Jesus Opens Our Minds So We Now Understand God
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2015-10-21T12:00:44+00:00
 url: /family-devotions/mark-811-13-jesus-opens-our-minds-so-we-now-understand-god/

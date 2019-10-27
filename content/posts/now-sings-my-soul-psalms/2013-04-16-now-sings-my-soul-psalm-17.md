@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 17'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2013-04-16T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-17/
 dsq_thread_id:
   - 1898910499

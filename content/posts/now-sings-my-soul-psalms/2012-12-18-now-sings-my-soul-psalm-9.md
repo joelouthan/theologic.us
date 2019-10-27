@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 9'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-12-18T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-9/
 categories:
   - Doxology

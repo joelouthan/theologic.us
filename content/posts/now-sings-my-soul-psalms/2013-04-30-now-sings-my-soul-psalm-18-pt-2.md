@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 18, Pt. 2'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2013-04-30T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-18-pt-2/
 dsq_thread_id:
   - 2117826397

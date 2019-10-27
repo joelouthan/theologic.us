@@ -1,6 +1,6 @@
 ---
 title: Extravagant
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-28T12:00:17+00:00
 url: /scriptual-prooftext-lyrics/extravagant/

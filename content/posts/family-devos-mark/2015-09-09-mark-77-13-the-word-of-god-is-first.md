@@ -1,6 +1,6 @@
 ---
 title: Mark 7:7-13 The Word of God is First
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2015-09-09T12:00:54+00:00
 url: /family-devotions/mark-77-13-the-word-of-god-is-first/

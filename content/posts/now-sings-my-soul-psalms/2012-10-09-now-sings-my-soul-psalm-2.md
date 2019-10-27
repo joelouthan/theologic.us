@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 2'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-10-09T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-2/
 dsq_thread_id:
   - 4631463434

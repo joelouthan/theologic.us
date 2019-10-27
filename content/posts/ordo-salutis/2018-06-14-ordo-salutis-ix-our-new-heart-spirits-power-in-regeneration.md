@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis IX: Our New Heart – Spirit’s Power in Regeneration'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-14T12:00:29+00:00
 url: /theology/ordo-salutis-ix-our-new-heart-spirits-power-in-regeneration/

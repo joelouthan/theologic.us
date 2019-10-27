@@ -1,6 +1,6 @@
 ---
 title: Mark 7:24-30 The Word of God Saves
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2015-09-23T12:00:47+00:00
 url: /family-devotions/mark-724-30-the-word-of-god-saves/

@@ -1,6 +1,6 @@
 ---
 title: Thanksgiving For Who You Are—You Are God Alone
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-11-05T00:00:00+00:00
 url: /scriptures/thanksgiving-for-who-you-are-you-are-god-alone/

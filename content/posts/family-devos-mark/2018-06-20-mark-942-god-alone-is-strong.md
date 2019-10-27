@@ -1,6 +1,6 @@
 ---
 title: 'Mark 9:42  God Alone Is Strong'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-20T12:00:16+00:00
 url: /family-devotions/mark-942-god-alone-is-strong/

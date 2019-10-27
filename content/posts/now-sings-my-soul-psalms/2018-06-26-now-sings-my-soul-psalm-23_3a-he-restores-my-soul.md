@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:3a He Restores My Soul'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-26T12:00:47+00:00
 url: /prayer/now-sings-my-soul-psalm-23_3a-he-restores-my-soul/

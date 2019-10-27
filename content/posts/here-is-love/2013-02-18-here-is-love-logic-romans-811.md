@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: Logic – Romans 8:11'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2013-02-18T15:00:18+00:00
 url: /theology/here-is-love-logic-romans-811/

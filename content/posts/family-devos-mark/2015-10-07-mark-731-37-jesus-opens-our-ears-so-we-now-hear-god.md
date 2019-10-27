@@ -1,6 +1,6 @@
 ---
 title: Mark 7:31-37 Jesus Opens Our Ears So We Now Hear God
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2015-10-07T12:00:00+00:00
 url: /family-devotions/mark-731-37-jesus-opens-our-ears-so-we-now-hear-god/

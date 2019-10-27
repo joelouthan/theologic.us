@@ -1,6 +1,6 @@
 ---
 title: Mark 3:31-35 Jesus is Family
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-331-35-jesus-is-family/

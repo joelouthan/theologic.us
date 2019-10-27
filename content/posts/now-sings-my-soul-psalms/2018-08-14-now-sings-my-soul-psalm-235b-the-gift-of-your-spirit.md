@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:5b The Gift of Your Spirit'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-14T12:00:16+00:00
 url: /prayer/3821/

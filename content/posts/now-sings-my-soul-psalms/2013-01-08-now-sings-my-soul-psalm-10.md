@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 10'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2013-01-08T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-10/
 dsq_thread_id:
   - 2372054088

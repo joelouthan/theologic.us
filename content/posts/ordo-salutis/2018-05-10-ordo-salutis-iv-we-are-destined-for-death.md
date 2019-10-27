@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis IV: We Are Destined For Death'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-10T12:00:53+00:00
 url: /theology/ordo-salutis-iv-we-are-destined-for-death/

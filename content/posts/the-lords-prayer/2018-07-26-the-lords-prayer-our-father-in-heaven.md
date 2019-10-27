@@ -1,6 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Our Father in Heaven'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-26T12:00:51+00:00
 url: /prayer/the-lords-prayer-our-father-in-heaven/

@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:4d The Comfort of Your Power'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-31T12:00:33+00:00
 url: /prayer/now-sings-my-soul-psalm-234d-the-comfort-of-your-power/

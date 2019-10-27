@@ -1,6 +1,6 @@
 ---
 title: In Christ Alone
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-11T12:00:46+00:00
 url: /scriptual-prooftext-lyrics/in-christ-alone/

@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis VI: Christ’s Perfect Work, We Are Justified'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-24T12:00:51+00:00
 url: /theology/ordo-salutis-vi-christs-perfect-work-we-are-justified/

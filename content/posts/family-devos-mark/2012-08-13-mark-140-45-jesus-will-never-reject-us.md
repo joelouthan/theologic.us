@@ -1,6 +1,6 @@
 ---
 title: Mark 1:40-45 Jesus Will Never Reject Us
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-140-45-jesus-will-never-reject-us/

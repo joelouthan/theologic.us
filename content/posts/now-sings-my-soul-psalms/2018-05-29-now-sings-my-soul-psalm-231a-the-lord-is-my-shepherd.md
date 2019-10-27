@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:1a The Lord Is My Shepherd'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-29T12:00:05+00:00
 url: /prayer/psalm-231a-the-lord-is-my-shepherd/

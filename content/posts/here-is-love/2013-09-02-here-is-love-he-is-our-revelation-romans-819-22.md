@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: He is Our Revelation – Romans 8:19-22'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2013-09-02T13:00:21+00:00
 url: /theology/here-is-love-he-is-our-revelation-romans-819-22/

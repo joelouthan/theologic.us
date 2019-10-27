@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: Here is Power – Romans 8:13'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2013-04-08T14:00:27+00:00
 url: /theology/here-is-love-here-is-power-romans-813/

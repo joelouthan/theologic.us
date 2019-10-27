@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis V: God Speaks To The Dead'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-17T12:00:15+00:00
 url: /theology/ordo-salutis-v-but-god-preaches-to-the-dead/

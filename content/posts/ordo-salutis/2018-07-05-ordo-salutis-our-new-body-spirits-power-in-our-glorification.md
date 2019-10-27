@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis XII: Our New Body – Spirit’s Power in Our Glorification'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-05T12:00:42+00:00
 url: /theology/our-new-body-spirits-power-in-our-glorification/

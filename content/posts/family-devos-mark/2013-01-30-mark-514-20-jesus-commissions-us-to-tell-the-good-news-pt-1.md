@@ -1,6 +1,6 @@
 ---
 title: Mark 5:14-20 Jesus Commissions Us to Tell The Good News, Pt 1
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-514-20-jesus-commissions-us-to-tell-the-good-news-pt-1/

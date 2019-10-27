@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: You Can’t Give a Dead Man Anything – Romans 8:12'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2013-03-04T15:00:06+00:00
 url: /theology/here-is-love-you-cant-give-a-dead-man-anything-romans-812/

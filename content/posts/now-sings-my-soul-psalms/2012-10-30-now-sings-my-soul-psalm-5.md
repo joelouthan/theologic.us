@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 5'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2012-10-30T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-5/
 dsq_thread_id:
   - 4631464885

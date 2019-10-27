@@ -1,6 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Do What He Does'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-19T12:00:20+00:00
 url: /prayer/do-what-he-does/

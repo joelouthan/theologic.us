@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:4c You Are With Me'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-24T12:00:36+00:00
 url: /prayer/now-sings-my-soul-psalm-234c-you-are-with-me/

@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: Precious in His Sight—Deuteronomy 7:6-8'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-09-12T14:00:03+00:00
 url: /theology/here-is-love-precious-in-his-sight/

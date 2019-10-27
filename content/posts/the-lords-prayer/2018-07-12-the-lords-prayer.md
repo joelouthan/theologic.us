@@ -1,6 +1,6 @@
 ---
 title: The Lord’s Prayer
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-12T12:00:55+00:00
 url: /prayer/the-lords-prayer/

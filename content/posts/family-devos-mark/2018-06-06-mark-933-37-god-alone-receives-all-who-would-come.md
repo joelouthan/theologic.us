@@ -1,6 +1,6 @@
 ---
 title: Mark 9:33-37 God Alone Receives All Who Would Come
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-06T12:00:11+00:00
 url: /family-devotions/mark-933-37-god-alone-receives-all-who-would-come/

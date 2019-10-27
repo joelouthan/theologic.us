@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 1'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-10-02T14:00:12+00:00
 url: /doxology/now-sings-my-soul-psalm-1/

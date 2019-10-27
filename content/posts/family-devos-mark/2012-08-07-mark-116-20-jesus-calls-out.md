@@ -1,6 +1,6 @@
 ---
 title: Mark 1:16-20 Jesus Calls Out
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-116-20-jesus-calls-out/

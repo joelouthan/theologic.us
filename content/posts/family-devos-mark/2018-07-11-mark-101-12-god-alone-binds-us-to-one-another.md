@@ -1,6 +1,6 @@
 ---
 title: Mark 10:1-12 God Alone Binds Us to One Another
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-11T12:00:22+00:00
 url: /family-devotions/mark-101-12-god-alone-binds-us-to-one-another/

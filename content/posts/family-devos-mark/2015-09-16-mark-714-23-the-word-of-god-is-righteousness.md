@@ -1,6 +1,6 @@
 ---
 title: Mark 7:14-23 The Word of God is Righteousness
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2015-09-16T12:00:18+00:00
 url: /family-devotions/mark-714-23-the-word-of-god-is-righteousness/

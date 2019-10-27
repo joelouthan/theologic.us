@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: With Him For Always—Romans 8:16'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2013-04-29T14:00:35+00:00
 url: /theology/here-is-love-with-him-for-always-romans-816/

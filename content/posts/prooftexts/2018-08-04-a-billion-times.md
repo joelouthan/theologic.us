@@ -1,6 +1,6 @@
 ---
 title: A Billion Times
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-04T12:00:24+00:00
 url: /scriptual-prooftext-lyrics/a-billion-times/

@@ -1,6 +1,6 @@
 ---
 title: 'Devotions in Mark: A Few Resources'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-a-few-resources/

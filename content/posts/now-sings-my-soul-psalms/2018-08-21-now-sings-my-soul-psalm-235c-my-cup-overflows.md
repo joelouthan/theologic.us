@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:5c My Cup Overflows'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-21T12:00:49+00:00
 url: /prayer/now-sings-my-soul-psalm-235c-my-cup-overflows/

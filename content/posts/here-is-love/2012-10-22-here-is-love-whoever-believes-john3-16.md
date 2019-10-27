@@ -1,6 +1,6 @@
 ---
 title: 'Here is Love: Whoever Believes—John 3:16'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-10-22T14:00:32+00:00
 url: /theology/here-is-love-whoever-believes-john3-16/

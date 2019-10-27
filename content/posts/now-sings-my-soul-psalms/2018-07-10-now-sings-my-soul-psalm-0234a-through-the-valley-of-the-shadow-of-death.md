@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:4a Through the Valley of the Shadow of Death'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-10T12:00:41+00:00
 url: /prayer/now-sings-my-soul-psalm-0234a-through-the-valley-of-the-shadow-of-death/

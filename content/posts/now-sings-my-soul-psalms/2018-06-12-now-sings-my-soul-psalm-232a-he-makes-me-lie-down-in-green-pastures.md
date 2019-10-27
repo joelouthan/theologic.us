@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:2a He makes me lie down in green pastures'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-12T12:00:25+00:00
 url: /prayer/now-sings-my-soul-psalm-232a-he-makes-me-lie-down-in-green-pastures/

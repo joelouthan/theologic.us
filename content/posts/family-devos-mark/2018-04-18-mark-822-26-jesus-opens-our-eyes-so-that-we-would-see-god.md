@@ -1,6 +1,6 @@
 ---
 title: Mark 8:22–26 Jesus Opens Our Eyes So That We Would See God
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-04-18T12:00:53+00:00
 url: /family-devotions/mark-822-26-jesus-opens-our-eyes-so-that-we-would-see-god/

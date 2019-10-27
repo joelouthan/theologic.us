@@ -1,6 +1,6 @@
 ---
 title: '​Here is Love: He is Our Hope – Romans 8:24-25'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2016-03-07T13:00:18+00:00
 url: /theology/​-here-is-love-he-is-our-hope-romans-823/

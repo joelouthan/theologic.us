@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:1b I Shall Not Want'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-05T12:00:11+00:00
 url: /prayer/now-sings-my-soul-psalm-231b-i-shall-not-want/

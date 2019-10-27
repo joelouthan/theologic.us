@@ -1,6 +1,6 @@
 ---
 title: A Reforming Catholic Confession with Scriptural Prooftexts
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-18T12:00:54+00:00
 url: /scriptual-prooftext-lyrics/a-reforming-catholic-confession-with-scriptural-prooftexts/

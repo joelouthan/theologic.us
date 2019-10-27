@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis II: The Weight of Sin'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-04-26T12:00:23+00:00
 url: /theology/ordo-salutis-ii-the-weight-of-sin/

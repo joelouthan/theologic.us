@@ -1,6 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Hallowed Be Your Name'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-02T12:00:37+00:00
 url: /prayer/the-lords-prayer-hallowed-be-your-name/

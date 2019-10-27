@@ -1,6 +1,6 @@
 ---
 title: 'Ordo Salutis VIII: Christ’s Finished Work, We Are Protected'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-06-07T12:00:56+00:00
 url: /theology/ordo-salutis-viii-christs-finished-work-we-are-protected/

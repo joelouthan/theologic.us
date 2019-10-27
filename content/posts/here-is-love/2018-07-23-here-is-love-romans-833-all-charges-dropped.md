@@ -1,6 +1,6 @@
 ---
-title: 'Here is Love: Romans 8:33 Let The Charges Pile Up!'
-author: Joe Louthan
+title: 'Here is Love: Let The Charges Pile Up! - Romans 8:33'
+author: Joseph Louthan
 type: post
 date: 2018-07-23T12:00:33+00:00
 url: /theology/here-is-love-romans-833-all-charges-dropped/

@@ -1,6 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Your Will Be Done'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-16T12:00:20+00:00
 url: /prayer/the-lords-prayer-your-will-be-done/

@@ -1,8 +1,8 @@
 ---
 title: 'Now Sings My Soul: Psalm 14'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
-date: 2012-07-24T00:00:00+00:00
+date: 2013-02-19T00:00:00+00:00
 url: /doxology/now-sings-my-soul-psalm-14/
 dsq_thread_id:
   - 2156092548

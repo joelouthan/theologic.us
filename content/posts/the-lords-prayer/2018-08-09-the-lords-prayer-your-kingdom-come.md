@@ -1,6 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Your Kingdom Come'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-08-09T12:00:01+00:00
 url: /prayer/the-lords-prayer-your-kingdom-come/

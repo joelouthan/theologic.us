@@ -1,6 +1,6 @@
 ---
 title: 'Devotions in Mark: An Introduction'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2012-07-22T14:00:03+00:00
 url: /family-devotions/mark-an-introduction/

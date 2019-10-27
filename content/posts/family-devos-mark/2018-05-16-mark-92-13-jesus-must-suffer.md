@@ -1,6 +1,6 @@
 ---
 title: Mark 9:2-13 Jesus Must Suffer
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-16T12:00:59+00:00
 url: /family-devotions/mark-92-13-jesus-must-suffer/

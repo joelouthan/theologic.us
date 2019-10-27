@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 22:19-21'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-05-08T12:00:50+00:00
 url: /prayer/now-sings-my-soul-psalm-2219-21/

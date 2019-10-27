@@ -1,6 +1,6 @@
 ---
-title: 'Here is Love: Romans 8:30c Justified'
-author: Joe Louthan
+title: 'Here is Love: Justified by God- Romans 8:30c'
+author: Joseph Louthan
 type: post
 date: 2018-06-25T12:00:22+00:00
 url: /theology/here-is-love-romans-830c-justified/

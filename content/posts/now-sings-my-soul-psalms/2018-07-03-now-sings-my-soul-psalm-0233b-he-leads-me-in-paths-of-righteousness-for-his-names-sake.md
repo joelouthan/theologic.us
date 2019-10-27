@@ -1,6 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:3b He leads me in paths of righteousness for his name’s sake'
-author: Joe Louthan
+author: Joseph Louthan
 type: post
 date: 2018-07-03T12:00:41+00:00
 url: /prayer/now-sings-my-soul-psalm-0233b-he-leads-me-in-paths-of-righteousness-for-his-names-sake/
