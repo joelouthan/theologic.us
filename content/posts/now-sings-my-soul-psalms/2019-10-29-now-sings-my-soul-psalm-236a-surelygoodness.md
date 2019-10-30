@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 23:6 Surely Goodness'
+title: 'Now Sings My Soul: Psalm 23:6a Surely Goodness'
 author: Joseph Louthan
 type: post
 date: 2019-10-29
