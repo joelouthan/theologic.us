@@ -43,7 +43,7 @@ theme = "cupper"
     url = "/tags/thanksgiving/"
     weight = 6
   [[menu.nav]]
-    name = "Now Sings My Souls: Prayers based on the Psalms"
+    name = "Now Sings My Soul: Prayers based on the Psalms"
     url = "/tags/now-sings-my-soul-psalms/"
     weight = 4
   [[menu.nav]]
