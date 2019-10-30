@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 <figure id="attachment_2056" style="width: 300px" class="wp-caption alignright"><img class="size-thumbnail wp-image-2056" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/06/William_Hogarth_-_A_Rakes_Progress_-_Plate_1_-_The_Young_Heir_Takes_Possession_Of_The_Misers_Effects.jpg?resize=300%2C266" alt="A Rake's Progress, Plate 1: The Young Heir Takes Possession Of The Miser's Effects by William Hogarth" width="300" height="266" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/06/William_Hogarth_-_A_Rakes_Progress_-_Plate_1_-_The_Young_Heir_Takes_Possession_Of_The_Misers_Effects.jpg?resize=300%2C266 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/06/William_Hogarth_-_A_Rakes_Progress_-_Plate_1_-_The_Young_Heir_Takes_Possession_Of_The_Misers_Effects.jpg?resize=400%2C355 400w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/06/William_Hogarth_-_A_Rakes_Progress_-_Plate_1_-_The_Young_Heir_Takes_Possession_Of_The_Misers_Effects.jpg?resize=600%2C533 600w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/06/William_Hogarth_-_A_Rakes_Progress_-_Plate_1_-_The_Young_Heir_Takes_Possession_Of_The_Misers_Effects.jpg?w=630 630w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><figcaption class="wp-caption-text">A Rake&#8217;s Progress, Plate 1: The Young Heir Takes Possession Of The Miser&#8217;s Effects by William Hogarth</figcaption></figure>

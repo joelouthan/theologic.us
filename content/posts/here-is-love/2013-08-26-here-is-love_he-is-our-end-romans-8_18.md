@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 [<img class="alignright size-thumbnail wp-image-2171" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=300%2C168" alt="muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video--387b85c789" width="300" height="168" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=300%2C168 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=400%2C224 400w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=600%2C337 600w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?w=950 950w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]_Why even bother?_

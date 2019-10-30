@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 [<img class="alignright size-medium wp-image-1369 hoverZoomLink" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?resize=300%2C271" alt="" width="300" height="271" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?resize=300%2C271 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?w=358 358w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]{.hoverZoomLink}There are 613 commandments in the Old Testament.

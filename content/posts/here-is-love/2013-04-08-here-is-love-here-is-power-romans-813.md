@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 <figure id="attachment_1930" style="width: 231px" class="wp-caption alignright">[<img class="size-medium wp-image-1930" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/the_zombie_king_by_rhazcrossbones-d3470ff.png?resize=231%2C300" alt="The Zombie King by *Rhazcrossbones" width="231" height="300" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">The Zombie King by *Rhazcrossbones</figcaption></figure>

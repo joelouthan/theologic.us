@@ -9,7 +9,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 And here is love: **&#8230; and those whom he called he also justified..**.

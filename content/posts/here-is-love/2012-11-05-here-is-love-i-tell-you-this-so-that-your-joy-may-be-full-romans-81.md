@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 [<img class="alignright size-medium wp-image-1223" title="cross-backlit-x2" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=300%2C300" alt="" width="300" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=300%2C300 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?w=573 573w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]My abusing and the abuse done against me.

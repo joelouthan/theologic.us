@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 [<img class="alignright" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/02/Thinking-Mind_of_Man.jpg?resize=300%2C300" alt="Thinking-Mind_of_Man" width="300" height="300" data-recalc-dims="1" />][1]

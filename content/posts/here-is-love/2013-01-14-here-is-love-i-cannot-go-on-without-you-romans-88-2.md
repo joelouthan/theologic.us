@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 <a href="http://theologic.us/theology/attachment/disconnected/" rel="attachment wp-att-1740"><img class="alignright size-medium wp-image-1740" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/disconnected.jpg?resize=300%2C202" alt="disconnected" width="300" height="202" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/disconnected.jpg?resize=300%2C202 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/disconnected.jpg?w=496 496w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Romans 8:8 **Those who are in the flesh cannot please God.**

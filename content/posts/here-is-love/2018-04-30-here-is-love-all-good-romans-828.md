@@ -9,7 +9,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 <span style="font-weight: 400;">Romans 8:28 </span>**And we know that for those who love God all things work together for good, for those who are called according to his purpose.**

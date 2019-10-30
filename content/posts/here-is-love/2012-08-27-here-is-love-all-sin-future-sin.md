@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 [<img class="alignright size-thumbnail wp-image-508" title="dark-rooms" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?zoom=2&resize=150%2C150 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?zoom=3&resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Here is love: **Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.**

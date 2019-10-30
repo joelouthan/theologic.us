@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 **[<img class="alignright size-medium wp-image-1898" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/r_shockwave027.jpg?resize=300%2C225" alt="r_shockwave027" width="300" height="225" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/r_shockwave027.jpg?resize=300%2C225 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/r_shockwave027.jpg?w=500 500w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]Romans 8:12 So then, brothers, we are debtors, not to the flesh, to live according to the flesh.**

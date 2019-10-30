@@ -10,7 +10,6 @@ categories:
   - Theology
 tags:
   - Here is Love
-  - The Epistle to the Romans
 
 ---
 <a href="http://theologic.us/theology/romans-87-here-is-love-despite-our-limitations/attachment/healingthebrokenmind/" rel="attachment wp-att-1697"><img class="alignright size-medium wp-image-1697" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/01/healingthebrokenmind.jpg?resize=300%2C210" alt="healingthebrokenmind" width="300" height="210" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/01/healingthebrokenmind.jpg?resize=300%2C210 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/01/healingthebrokenmind.jpg?w=404 404w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Romans 8:7 **For the mind that is set on the flesh is hostile to God, for it does not submit to God&#8217;s law; indeed, it cannot.**
