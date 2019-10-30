@@ -7,7 +7,7 @@ url: /family-devotions/mark-630-44-pt-2-jesus-is-the-bread-of-life/
 dsq_thread_id:
   - 1899428572
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

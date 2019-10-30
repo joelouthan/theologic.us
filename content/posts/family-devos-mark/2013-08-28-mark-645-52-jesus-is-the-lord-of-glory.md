@@ -7,7 +7,7 @@ url: /family-devotions/mark-645-52-jesus-is-the-lord-of-glory/
 dsq_thread_id:
   - 1767971764
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

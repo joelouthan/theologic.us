@@ -7,7 +7,7 @@ url: /family-devotions/mark-423-25-jesus-gives-more-do-we-receive/
 dsq_thread_id:
   - 3432742593
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

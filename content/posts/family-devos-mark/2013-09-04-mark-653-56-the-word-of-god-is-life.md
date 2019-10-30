@@ -7,7 +7,7 @@ url: /family-devotions/mark-653-56-the-word-of-god-is-life/
 dsq_thread_id:
   - 1766125714
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

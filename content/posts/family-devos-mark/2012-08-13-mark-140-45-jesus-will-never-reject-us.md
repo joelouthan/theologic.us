@@ -7,7 +7,7 @@ url: /family-devotions/mark-140-45-jesus-will-never-reject-us/
 dsq_thread_id:
   - 2453417591
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

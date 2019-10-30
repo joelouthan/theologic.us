@@ -7,7 +7,7 @@ url: /family-devotions/mark-617-29-jesus-cousin-dies/
 dsq_thread_id:
   - 1953529765
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

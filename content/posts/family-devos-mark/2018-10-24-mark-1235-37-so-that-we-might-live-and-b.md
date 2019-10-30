@@ -5,7 +5,7 @@ type: post
 date: 2018-10-24T12:00:04+00:00  
 url: /family-devotions/2018-10-24-mark-1235-37-so-that-we-might-live-and-b.md/  
 categories:  
-  - Family Devotions  
+  - Devotions  
 tags:  
   - 'Family Devotions: Mark'  
 draft: false  

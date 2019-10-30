@@ -5,7 +5,7 @@ type: post
 date: 2019-01-23T12:00:04+00:00
 url: /family-devotions/2019-01-23-mark-1432-42-every-step-is-joy-god-will.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

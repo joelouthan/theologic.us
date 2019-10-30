@@ -7,7 +7,7 @@ url: /family-devotions/mark-19-11-god-is-three-in-one-not-three/
 dsq_thread_id:
   - 1766967285
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

@@ -7,7 +7,7 @@ url: /family-devotions/mark-433-34-jesus-teaches/
 dsq_thread_id:
   - 1815368307
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

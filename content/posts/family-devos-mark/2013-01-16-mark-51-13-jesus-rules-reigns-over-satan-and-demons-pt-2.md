@@ -7,7 +7,7 @@ url: /family-devotions/mark-51-13-jesus-rules-reigns-over-satan-and-demons-pt-2/
 dsq_thread_id:
   - 1844918818
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

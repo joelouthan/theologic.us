@@ -5,7 +5,7 @@ type: post
 date: 2019-04-10T12:00:04+00:00
 url: /family-devotions/2019-04-10-mark-1614-20-all-that-god-has-done-for-u.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

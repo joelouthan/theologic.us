@@ -5,7 +5,7 @@ type: post
 date: 2018-12-28T12:00:04+00:00
 url: /family-devotions/2018-12-28-mark-14-10-11-every-step-is-joy-christ-will-be-betrayed-unto-death.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

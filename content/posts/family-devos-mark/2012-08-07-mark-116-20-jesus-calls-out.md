@@ -7,7 +7,7 @@ url: /family-devotions/mark-116-20-jesus-calls-out/
 dsq_thread_id:
   - 3309900217
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

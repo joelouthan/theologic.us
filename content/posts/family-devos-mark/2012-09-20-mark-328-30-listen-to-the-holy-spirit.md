@@ -7,7 +7,7 @@ url: /family-devotions/mark-328-30-listen-to-the-holy-spirit/
 dsq_thread_id:
   - 2196204049
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

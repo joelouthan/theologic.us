@@ -7,7 +7,7 @@ url: /family-devotions/mark-121-28-jesus-rules-and-reigns-over-satan-and-demons/
 dsq_thread_id:
   - 2510375566
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

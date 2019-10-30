@@ -7,7 +7,7 @@ url: /family-devotions/mark-410-13-jesus-helps-us-to-understand-see-hear-feel-an
 dsq_thread_id:
   - 3115835850
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

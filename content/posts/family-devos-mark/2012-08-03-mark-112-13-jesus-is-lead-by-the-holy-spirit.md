@@ -5,7 +5,7 @@ type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-112-13-jesus-is-lead-by-the-holy-spirit/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

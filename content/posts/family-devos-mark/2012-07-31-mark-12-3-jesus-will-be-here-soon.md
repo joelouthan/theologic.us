@@ -7,7 +7,7 @@ url: /family-devotions/mark-12-3-jesus-will-be-here-soon/
 dsq_thread_id:
   - 4133403097
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

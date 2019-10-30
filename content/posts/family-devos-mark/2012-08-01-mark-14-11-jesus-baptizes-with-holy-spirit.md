@@ -7,7 +7,7 @@ url: /family-devotions/mark-14-11-jesus-baptizes-with-holy-spirit/
 dsq_thread_id:
   - 4133403837
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

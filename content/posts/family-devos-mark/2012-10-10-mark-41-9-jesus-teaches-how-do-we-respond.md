@@ -7,7 +7,7 @@ url: /family-devotions/mark-41-9-jesus-teaches-how-do-we-respond/
 dsq_thread_id:
   - 1914348590
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

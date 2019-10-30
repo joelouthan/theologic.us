@@ -8,7 +8,7 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2015/10/alg-sl
 dsq_thread_id:
   - 4203252384
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

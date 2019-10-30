@@ -7,7 +7,7 @@ url: /family-devotions/mark-67-13-jesus-sends-us-out/
 dsq_thread_id:
   - 1822264718
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

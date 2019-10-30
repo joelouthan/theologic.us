@@ -5,7 +5,7 @@ type: post
 date: 2012-07-24T00:00:00+00:00
 url: /family-devotions/mark-36-21-jesus-is-on-mission-from-the-father/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

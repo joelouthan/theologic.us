@@ -8,7 +8,7 @@ dsq_thread_id:
   - 1841381252
 categories:
   - Books
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

@@ -7,7 +7,7 @@ url: /family-devotions/mark-31-6-jesus-softens-hearts/
 dsq_thread_id:
   - 1823673366
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

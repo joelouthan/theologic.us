@@ -7,7 +7,7 @@ url: /family-devotions/mark-521-24-jesus-hears-our-cries/
 dsq_thread_id:
   - 1945003670
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

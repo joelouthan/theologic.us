@@ -6,7 +6,7 @@ date: 2018-07-25T12:00:38+00:00
 url: /family-devotions/mark-1017-22-god-alone-receives-the-brokenhearted/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/DishonestSecondFawn-size_restricted.gif?resize=500%2C288
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

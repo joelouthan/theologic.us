@@ -5,7 +5,7 @@ type: post
 date: 2018-11-14T12:00:04+00:00
 url: /family-devotions/2018-11-14-mark-131-2-what-does-christ-want-our-sin.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

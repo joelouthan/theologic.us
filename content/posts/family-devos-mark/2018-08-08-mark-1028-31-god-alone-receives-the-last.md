@@ -6,7 +6,7 @@ date: 2018-08-08T12:00:04+00:00
 url: /family-devotions/mark-1028-31-god-alone-receives-the-last/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/bars.jpg?resize=825%2C510
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

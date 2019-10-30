@@ -7,7 +7,7 @@ url: /family-devotions/mark-435-41-jesus-is-lord-over-the-storm/
 dsq_thread_id:
   - 2222798953
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

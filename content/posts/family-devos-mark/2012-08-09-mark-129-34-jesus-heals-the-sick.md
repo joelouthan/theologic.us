@@ -7,7 +7,7 @@ url: /family-devotions/mark-129-34-jesus-heals-the-sick/
 dsq_thread_id:
   - 1796586378
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

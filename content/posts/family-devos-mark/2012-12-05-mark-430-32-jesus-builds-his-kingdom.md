@@ -7,7 +7,7 @@ url: /family-devotions/mark-430-32-jesus-builds-his-kingdom/
 dsq_thread_id:
   - 1782493105
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

@@ -7,7 +7,7 @@ url: /family-devotions/mark-413-20-jesus-sows-we-grow/
 dsq_thread_id:
   - 1766976888
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

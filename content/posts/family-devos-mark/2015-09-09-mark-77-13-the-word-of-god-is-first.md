@@ -8,7 +8,7 @@ featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/09/rebel-
 dsq_thread_id:
   - 4109493174
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

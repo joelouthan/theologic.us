@@ -7,7 +7,7 @@ url: /family-devotions/mark-614-16-jesus-and-john-are-not-the-same/
 dsq_thread_id:
   - 1841330768
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

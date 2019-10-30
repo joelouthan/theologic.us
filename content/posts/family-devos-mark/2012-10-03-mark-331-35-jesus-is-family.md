@@ -7,7 +7,7 @@ url: /family-devotions/mark-331-35-jesus-is-family/
 dsq_thread_id:
   - 1809429896
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

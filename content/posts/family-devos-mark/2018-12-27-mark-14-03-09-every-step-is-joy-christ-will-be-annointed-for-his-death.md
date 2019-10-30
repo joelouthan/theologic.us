@@ -5,7 +5,7 @@ type: post
 date: 2018-12-27T12:00:04+00:00
 url: /family-devotions/2018-12-27-mark-14-03-09-every-step-is-joy-christ-will-be-annointed-for-his-death.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

@@ -7,7 +7,7 @@ url: /family-devotions/mark-135-39-jesus-prayed/
 dsq_thread_id:
   - 1768163143
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

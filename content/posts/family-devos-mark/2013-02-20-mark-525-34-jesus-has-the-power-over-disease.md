@@ -7,7 +7,7 @@ url: /family-devotions/mark-525-34-jesus-has-the-power-over-disease/
 dsq_thread_id:
   - 1818876590
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

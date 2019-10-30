@@ -7,7 +7,7 @@ url: /family-devotions/mark-421-22-jesus-is-the-light/
 dsq_thread_id:
   - 1945006659
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

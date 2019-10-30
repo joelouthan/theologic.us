@@ -7,7 +7,7 @@ url: /family-devotions/mark-630-44-pt-1-jesus-is-the-giver-of-life/
 dsq_thread_id:
   - 1782281867
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

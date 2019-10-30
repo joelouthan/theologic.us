@@ -5,7 +5,7 @@ type: post
 date: 2018-10-17T12:00:04+00:00
 url: /family-devotions/2018-10-17-mark-1228-34-so-that-we-might-live-and-l.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

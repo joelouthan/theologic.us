@@ -7,7 +7,7 @@ url: /family-devotions/mark-213-17-jesus-is-the-good-doctor/
 dsq_thread_id:
   - 2043711368
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

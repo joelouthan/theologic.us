@@ -7,7 +7,7 @@ url: /family-devotions/mark-21-12-jesus-forgives-our-sins/
 dsq_thread_id:
   - 2276892925
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

@@ -7,7 +7,7 @@ url: /family-devotions/mark-61-6-jesus-is-human-and-yet-more-than-human/
 dsq_thread_id:
   - 1793045438
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

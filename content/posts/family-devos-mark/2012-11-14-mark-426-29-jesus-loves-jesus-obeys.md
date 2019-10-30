@@ -7,7 +7,7 @@ url: /family-devotions/mark-426-29-jesus-loves-jesus-obeys/
 dsq_thread_id:
   - 2589040812
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

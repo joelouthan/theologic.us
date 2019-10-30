@@ -7,7 +7,7 @@ url: /family-devotions/mark-an-introduction/
 dsq_thread_id:
   - 1766926362
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

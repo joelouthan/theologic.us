@@ -7,7 +7,7 @@ url: /family-devotions/kids-spiritual-well-belng-for-the-sake-of-the-gospel/
 dsq_thread_id:
   - 2002179140
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 ---

@@ -7,7 +7,7 @@ url: /family-devotions/mark-71-7-the-word-of-god-is-love/
 dsq_thread_id:
   - 2127858147
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

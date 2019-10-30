@@ -7,7 +7,7 @@ url: /family-devotions/mark-514-20-jesus-commissions-us-to-tell-the-good-news-pt
 dsq_thread_id:
   - 1766876892
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

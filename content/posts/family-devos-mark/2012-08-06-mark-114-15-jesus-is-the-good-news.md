@@ -7,7 +7,7 @@ url: /family-devotions/mark-114-15-jesus-is-the-good-news/
 dsq_thread_id:
   - 1849854562
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

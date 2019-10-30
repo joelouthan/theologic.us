@@ -6,7 +6,7 @@ date: 2018-07-04T12:00:20+00:00
 url: /family-devotions/mark-949-50-god-alone-is-our-source/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/hqdefault.jpg?resize=480%2C360
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

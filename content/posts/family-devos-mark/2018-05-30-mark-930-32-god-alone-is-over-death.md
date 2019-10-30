@@ -6,7 +6,7 @@ date: 2018-05-30T12:00:17+00:00
 url: /family-devotions/mark-930-32-god-alone-is-over-death/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/showImage.jpeg?resize=440%2C347
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

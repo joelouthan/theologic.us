@@ -6,7 +6,7 @@ date: 2018-06-06T12:00:11+00:00
 url: /family-devotions/mark-933-37-god-alone-receives-all-who-would-come/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/charles_lock_eastlake_Christ_Blessing_Little_Children.jpg?resize=596%2C458
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

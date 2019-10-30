@@ -5,7 +5,7 @@ type: post
 date: 2018-11-15T12:00:04+00:00
 url: /family-devotions/2018-11-15-mark-133-13-what-does-christ-want-our-he.md/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 draft: false

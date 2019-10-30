@@ -7,7 +7,7 @@ url: /family-devotions/mark-535-43-jesus-has-the-power-over-death/
 dsq_thread_id:
   - 1783402699
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

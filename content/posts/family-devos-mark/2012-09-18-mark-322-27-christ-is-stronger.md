@@ -7,7 +7,7 @@ url: /family-devotions/mark-322-27-christ-is-stronger/
 dsq_thread_id:
   - 1984606744
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 

@@ -7,7 +7,7 @@ url: /family-devotions/13-mark-223-28-jesus-is-our-rest/
 dsq_thread_id:
   - 1772638981
 categories:
-  - Family Devotions
+  - Devotions
 tags:
   - 'Family Devotions: Mark'
 
