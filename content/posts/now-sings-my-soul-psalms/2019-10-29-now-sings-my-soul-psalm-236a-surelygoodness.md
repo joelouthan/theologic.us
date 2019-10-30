@@ -10,11 +10,12 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
+<pre>
 <div style="font-variant: small-caps;">
 Great God,
 </div>
 
-<pre>I am reminded what Christ declared:  
+I am reminded what Christ declared:  
 You alone are good.
 
 You are the source of all good  
