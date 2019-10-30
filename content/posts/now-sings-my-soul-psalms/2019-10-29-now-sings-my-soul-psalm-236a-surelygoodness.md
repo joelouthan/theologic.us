@@ -36,8 +36,9 @@ Then because of who You are,
 
 I praise you for your goodness.
 
-I praise you because you define what good is  
-	and not by us.
+I praise you  
+    because you define what good is  
+    and we do not.
 
 Amen
 </pre>
