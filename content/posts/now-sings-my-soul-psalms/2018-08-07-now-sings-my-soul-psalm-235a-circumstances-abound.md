@@ -14,29 +14,41 @@ tags:
 <pre>
   My God,
   
-  I have been crushed and discarded a hundred times.
-  	But, I have warred against you thousand more.
+  I have been crushed and 
+    discarded a hundred times.
+  	But, I have warred against you 
+    thousand more.
   
-  Yet, you sent your Son to live and die for me.
-  	And now I live for you.
+  Yet, you sent your Son to live 
+    and die for me.
+  	
+  And now I live for you.
   
-  I will never understand why you saved me,
-  	but I only know that because I have sin much
-  	I have been forgiven much.
+  I will never understand 
+    why you saved me,
+  	but I only know that 
+    because I have sin much
+  	You have forgiven much.
   
-  Now I know you let me sit at your table,
-  	when I should been condemned for treason.
+  Now I know you let me sit 
+    at your table,
+  	when I should been 
+    condemned for treason.
   
   You knew I was an enemy,
-  	and you then declared me as your friend.
+  	and you then declared me 
+    as your friend.
   
   My God, remind me always that,
-  	I do not do battle against prisoners of war,
-  	but against the rulers who imprisoned them.
+  	I do not do battle 
+    against prisoners of war,
+  	but against the rulers 
+    who imprisoned them.
   
   Give me your almighty strength,
   	and your invincible armour,
-  	and let me help you set the captives free.
+  	and let me help 
+    you set the captives free.
   
   In your Son’s name I pray. Amen. 
 </pre>

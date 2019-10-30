@@ -1,0 +1,182 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"banner",
+				"banner_message"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jlouthan/Sites/theologic.us/config.toml",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/2012-07-25-mark-an-introduction.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/mark-111-11-so-that-we-might-live.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/tmp/files",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/tmp/new-dates",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/mark-111-11-so-that-we-might-live.html",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/tmp/mark-111-11-so-that-we-might-live.html",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/tmp/new-files",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/2012-08-22-mark-218-22-jesus-is-the-bridegroom.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/prooftexts/2018-07-28-extravagant.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2012-07-25-mark-an-introduction.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2012-07-25-mark-a-few-resources.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/no-dates.txt",
+		"/home/jlouthan/Sites/theologic.us/netlify.toml"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "theologic.us-.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

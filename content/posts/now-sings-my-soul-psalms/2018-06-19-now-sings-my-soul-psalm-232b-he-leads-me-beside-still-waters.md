@@ -17,9 +17,11 @@ tags:
   You are the fountain of true life. 
 
   I am dead without you. 
-  	It is not that I can find this water on my own. 
+  	It is not that 
+    I can find this water on my own. 
 
-  For I am lost. and, my soul is dried-up and dead. 
+  For I am lost
+    and, my soul is dried-up and dead. 
 
   I have no wisdom, 
   	strength, 
@@ -34,7 +36,7 @@ tags:
   My soul is no longer dried in sin 
   	but restored, 
   	covered, 
-  	and filled with your never-ending grace.
+  	and filled with your forever grace.
   
   God, please keep me close 
   	so that I stay refreshed 
