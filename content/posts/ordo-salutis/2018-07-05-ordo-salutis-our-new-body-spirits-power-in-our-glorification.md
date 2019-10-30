@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis XII: Our New Body – Spirit’s Power in Our Glorification'
 author: Joseph Louthan
-type: post
 date: 2018-07-05T12:00:42+00:00
-url: /theology/our-new-body-spirits-power-in-our-glorification/
+url: /ordo-salutis/our-new-body-spirits-power-in-our-glorification/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/boy-singing.jpg?resize=640%2C426
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 <p class="p1">
   Psalm 97:9 <b>For you, O LORD,<br /> </b><b>are most high over all the earth;<br /> </b><b>you are exalted far above all gods. </b>

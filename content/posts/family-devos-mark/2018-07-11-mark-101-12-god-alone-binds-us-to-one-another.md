@@ -8,7 +8,7 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/06/Jamie-
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 <p class="p1">

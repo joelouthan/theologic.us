@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 **[<img class="alignright size-full wp-image-2700" alt="pharisees2" src="https://i0.wp.com/theologic.us/wp-content/uploads/2014/01/pharisees2.jpg?resize=300%2C266" width="300" height="266" data-recalc-dims="1" />][1]Mark 7:1-6 ****Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem, they saw that some of his disciples ate with hands that were defiled, that is, unwashed. (For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, and when they come from the marketplace, they do not eat unless they wash. And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches.) And the Pharisees and the scribes asked him, “Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?” And he said to them, “Well did Isaiah prophesy of you hypocrites, as it is written,**

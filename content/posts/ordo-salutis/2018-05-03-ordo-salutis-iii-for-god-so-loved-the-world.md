@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis III: For God So Loved The World'
 author: Joseph Louthan
-type: post
 date: 2018-05-03T12:00:22+00:00
-url: /theology/ordo-salutis-iii-for-god-so-loved-the-world/
+url: /ordo-salutis/ordo-salutis-iii-for-god-so-loved-the-world/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/04/moses.jpg?resize=825%2C510
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 Now that we have established who we are in the sight of God, let us tackle the bigger, nay impossible question:
 

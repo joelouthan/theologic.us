@@ -3,44 +3,31 @@ title: 'Now Sings My Soul: Psalm 1'
 author: Joseph Louthan
 type: post
 date: 2012-10-02T14:00:12+00:00
-url: /doxology/now-sings-my-soul-psalm-1/
-dsq_thread_id:
-  - 2193681600
+url: /prayers/now-sings-my-soul-psalm-1/
 categories:
-  - Doxology
+  - Prayers
 tags:
-  - Now Sings My Soul
-  - Psalms
-
+  - 'Now Sings My Soul: Psalms'
 ---
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
 
-Like a child, I have fallen and all of my strength has left me.
+Like a child, I have fallen and all of my strength has left me.  
+As my precious Father, put me back up on my feet and hold my hands so I can learn to run to you.  
 
-As my precious Father, put me back up on my feet and hold my hands so I can learn to run to you.
+Give me your strength and might.  
+Give me your word and your promises.  
 
-Give me your strength and might.
+Oh, how you give to me. You give me your love and you see to it that I make it back  to you.  
 
-Give me your word and your promises.
+By only You will I be able to grow, mature and stand with you in your presence.  
+   
+I distinctly remember my life before Your life.  
+I remember disease, destruction, slavery, and death.  
 
-Oh, how you give to me. You give me your love and you see to it that I make it back  to you.
+My little heart and feeble mind wants to give up and turn my face back towards death.  
 
-By only You will I be able to grow, mature and stand with you in your presence.
+Then I would leave Life. I would step out of the fullness of joy. I would then settle for lesser pleasures. I would not have You.  
 
- 
-
-I distinctly remember my life before Your life.
-
-I remember disease, destruction, slavery, and death.
-
-My little heart and feeble mind wants to give up and turn my face back towards death.
-
-Then I would leave Life. I would step out of the fullness of joy. I would then settle for lesser pleasures. I would not have You.
-
-God, I am still weak like a little child. Give me your strength and love. Turn my heart towards you. Run towards me and pick me up once more.
-
-Psalm 1:1-8; 2 Corinthians 5:21; Romans 8:1-17; Psalm 16:11; Psalm 17:15
-
-**Series: **As a young believer, I have not had the chance to read all the way through the Bible. The Psalms and Proverbs will be the last books before I finish the Old Testament in Ezekiel, Daniel, then Isaiah. As I read through the Psalms, I was struck by the very _personal and intimate nature_ of the Psalms despite the deep theological, doctrinal, and Christocentric focus of the written songs themselves.  Using the Psalms as a mere template and an outline, how I would I respond? So doing just that, I began writing out prayers based on each of the Psalms.
+God, I am still weak like a little child. Give me your strength and love. Turn my heart towards you. Run towards me and pick me up once more.  

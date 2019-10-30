@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis VIII: Christ’s Finished Work, We Are Protected'
 author: Joseph Louthan
-type: post
 date: 2018-06-07T12:00:56+00:00
-url: /theology/ordo-salutis-viii-christs-finished-work-we-are-protected/
+url: /ordo-salutis/ordo-salutis-viii-christs-finished-work-we-are-protected/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/Francisco-de-Zurbar-ns-Ag-001.jpg?resize=825%2C510
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 This has been one of the most difficult chapters to write because there is so much to be packed into the doctrine of propitiation. The only way I could approach this is to start at the beginning and start at the high altitude and work our way down. To understand propitiation, we must understand God, his law, his love and his holiness.
 

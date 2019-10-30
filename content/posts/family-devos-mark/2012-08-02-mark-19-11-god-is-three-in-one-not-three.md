@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 **[<img class="alignright size-full wp-image-205" title="Trinity1s" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/Trinity1s.jpg?resize=300%2C300" alt="" width="300" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/Trinity1s.jpg?w=300 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/Trinity1s.jpg?resize=150%2C150 150w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]Mark 1:9-11 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, “You are my beloved Son; with you I am well pleased.”**

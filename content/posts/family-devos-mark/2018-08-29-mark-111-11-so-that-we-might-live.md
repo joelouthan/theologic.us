@@ -7,7 +7,7 @@ url: /family-devotions/mark-111-11-so-that-we-might-live/
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 

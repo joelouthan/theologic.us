@@ -7,7 +7,8 @@ url: /family-devotions/mark-1032-45-god-alone-receives-the-dead/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/08/AllCDCovers_gza_genius_liquid_swords_1995_retail_cd-back.jpg?resize=825%2C510
 categories:
   - Family Devotions
-
+tags:
+  - 'Family Devotions: Mark'
 ---
 <p class="p1">
   <span class="s1">Mark 10:32-34 <strong>And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. And they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him, saying, “See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.” </strong></span>

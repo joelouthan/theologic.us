@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 _[<img class="size-full wp-image-555 alignright" title="MosesPharaoh" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg?resize=300%2C342" width="300" height="342" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg?w=300 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg?resize=263%2C300 263w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]What does it mean to harden your heart?_

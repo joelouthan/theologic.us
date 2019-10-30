@@ -1,9 +1,8 @@
 ---
 title: 'Ordo Salutis I: The Overflowing Love of God'
 author: Joseph Louthan
-type: post
 date: 2018-04-19T12:00:48+00:00
-url: /theology/ordo-salutis-i-the-overflowing-love-of-god/
+url: /ordo-salutis/ordo-salutis-i-the-overflowing-love-of-god/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/04/Outtake_WinePour2.jpg?resize=825%2C510
 dsq_thread_id:
   - 6608336729
@@ -11,7 +10,6 @@ categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 > <p class="p1">
 >   <span class="s1">To proclaim ourselves as Christians to proclaim that we believe and trust upon Christ as our Saviour and Lord. </span>
@@ -22,7 +20,8 @@ tags:
 </p>
 
 <p class="p1">
-  <span class="s1">But how is it that we are actually come to salvation by God?  This is the question that the idea of the Latin term &#8220;<em>Ordo Salutis&#8221;</em> (or the Order of Salvation) attempts to answer.  If we have some knowledge of the Bible, the better question would no doubt be: </span>
+  <span class="s1">But how is it that we are actually come to salvation by God?  This is the question that the idea of the Latin term &#8220;<em> a type: manuscript&#8221;</em> (or the Order of Salvation) attempts to answer.  If we have some knowledge of the Bible, the better question would no doubt be: </span>
+layout: chapter
 </p>
 
 <p class="p2">

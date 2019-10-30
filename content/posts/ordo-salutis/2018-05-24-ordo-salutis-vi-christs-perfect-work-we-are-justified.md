@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis VI: Christ’s Perfect Work, We Are Justified'
 author: Joseph Louthan
-type: post
 date: 2018-05-24T12:00:51+00:00
-url: /theology/ordo-salutis-vi-christs-perfect-work-we-are-justified/
+url: /ordo-salutis/ordo-salutis-vi-christs-perfect-work-we-are-justified/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/b699ba3d87f56da6805179a1f8681fa2.jpg?resize=470%2C252
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 <p class="p1">
   Many people tried to say that the God of the Old Testament and the God of the New Testament are completely two different gods. Have you heard this argument? Why was God so angry? Why is Jesus so loving and kind? Was God in the Old Testament was the Father and then his Son took over in the New? I don’t understand a god that would punish people. I can only understand a god that loves.

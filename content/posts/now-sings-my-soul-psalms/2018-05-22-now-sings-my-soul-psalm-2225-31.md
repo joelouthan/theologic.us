@@ -6,13 +6,14 @@ date: 2018-05-22T12:00:16+00:00
 url: /prayer/now-sings-my-soul-psalm-2225-31/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/DETA-72.jpg?resize=825%2C510
 categories:
-  - Prayer
+  - Prayers
 tags:
-  - Now Sings My Soul
-  - Psalms
+  - 'Now Sings My Soul: Psalms'
 
 ---
-My Worthy Lord,
+<div style="font-variant: small-caps;">
+  My Worthy Lord,
+</div>
 
 Let my words and my songs be a sweetness to your ears.
 

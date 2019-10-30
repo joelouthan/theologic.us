@@ -3,18 +3,15 @@ title: 'Now Sings My Soul: Psalm 17'
 author: Joseph Louthan
 type: post
 date: 2013-04-16T00:00:00+00:00
-url: /doxology/now-sings-my-soul-psalm-17/
+url: /prayers/now-sings-my-soul-psalm-17/
 dsq_thread_id:
   - 1898910499
 categories:
-  - Doxology
+  - Prayers
 tags:
-  - Now Sings My Soul
-  - Psalms
+  - 'Now Sings My Soul: Psalms'
 
 ---
-<img class="alignright size-thumbnail wp-image-1969" alt="-pink-tulip" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/pink-tulip.jpg?resize=300%2C199" width="300" height="199" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/pink-tulip.jpg?resize=300%2C199 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/pink-tulip.jpg?resize=400%2C265 400w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/pink-tulip.jpg?resize=600%2C398 600w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/pink-tulip.jpg?w=1280 1280w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />
-
 <div style="font-variant: small-caps;">
   O Father,
 </div>
@@ -36,7 +33,4 @@ Now, I carry out your great commission. I go forward with the command to love yo
 I love you.
 
 In your Son’s beautiful name, I pray.
-
 Amen.
-
-<span style="color: #c0c0c0;"><strong>Series: </strong>As a young believer, I have not had the chance to read all the way through the Bible. The Psalms and Proverbs will be the last books before I finish the Old Testament in Ezekiel, Daniel, then Isaiah. As I read through the Psalms, I was struck by the very <em>personal and intimate nature</em> of the Psalms despite the deep theological, doctrinal, and Christocentric focus of the written songs themselves.  Using the Psalms as a mere template and an outline, how I would I respond? So doing just that, I began writing out prayers based on each of the Psalms.</span>

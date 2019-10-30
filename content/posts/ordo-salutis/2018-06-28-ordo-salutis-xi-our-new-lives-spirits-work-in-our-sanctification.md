@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis XI: Our New Lives – Spirit’s Work In Our Sanctification'
 author: Joseph Louthan
-type: post
 date: 2018-06-28T12:00:28+00:00
-url: /theology/ordo-salutis-xi-our-new-lives-spirits-work-in-our-sanctification/
+url: /ordo-salutis/ordo-salutis-xi-our-new-lives-spirits-work-in-our-sanctification/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/1f9739ac4679082108b416cc556b40b898c89c3f-e1474746732452.jpg?resize=825%2C510
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 <span lang="en-US">Isaiah 48:9–11</span> **<span lang="en-US">“For my name’s sake I defer my anger;<br /> </span><span lang="en-US">for the sake of my praise I restrain it for you,<br /> that I may not cut you off.<br /> </span> <span lang="en-US">Behold, I have refined you, but not as silver;<br /> I have tried you in the furnace of affliction.<br /> </span> <span lang="en-US">For my own sake, for my own sake, I do it,<br /> for how should my name be profaned?<br /> My glory I will not give to another.</span>**
 

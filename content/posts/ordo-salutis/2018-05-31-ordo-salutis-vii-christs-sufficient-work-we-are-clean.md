@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis VII: Christ’s Sufficient Work, We Are Clean'
 author: Joseph Louthan
-type: post
 date: 2018-05-31T12:00:27+00:00
-url: /theology/ordo-salutis-vii-christs-sufficient-work-we-are-clean/
+url: /ordo-salutis/ordo-salutis-vii-christs-sufficient-work-we-are-clean/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/unnamed.jpg?resize=512%2C340
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 This is the magnificence of the True God.
 

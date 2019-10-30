@@ -10,7 +10,7 @@ categories:
   - Books
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 Here just the very small list of resources on Mark that I have found most helpful.[<img class="alignright size-full wp-image-69" title="170px-Stmark" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/170px-Stmark.jpg?resize=170%2C460" width="170" height="460" data-recalc-dims="1" />][1]

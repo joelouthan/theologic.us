@@ -7,7 +7,7 @@ url: /family-devotions/2019-02-20-mark-151-5-every-step-is-joy-god-will-be.md/
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 draft: false
 ---
 

@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 1. _When we hardened our hearts against God&#8217;s love (we refuse to hear what God has to say, we refuse to believe what God has done), does God still love us?_

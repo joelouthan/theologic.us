@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 <div>

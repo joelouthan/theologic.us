@@ -3,15 +3,15 @@ title: 'Now Sings My Soul: Psalm 9'
 author: Joseph Louthan
 type: post
 date: 2012-12-18T00:00:00+00:00
-url: /doxology/now-sings-my-soul-psalm-9/
+url: /prayers/now-sings-my-soul-psalm-9/
 categories:
-  - Doxology
+  - Prayers
 tags:
-  - Now Sings My Soul
-  - Psalms
-
+  - 'Now Sings My Soul: Psalms'
 ---
-<a href="http://theologic.us/quotes/attachment/tumblr_mcoh7qqx031r2e70wo1_500/" rel="attachment wp-att-1655"><img class="alignright size-medium wp-image-1655" alt="peppermint tulips light blue sky" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/tumblr_mcoh7qqX031r2e70wo1_500.jpg?resize=300%2C225" width="300" height="225" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/tumblr_mcoh7qqX031r2e70wo1_500.jpg?resize=300%2C225 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/tumblr_mcoh7qqX031r2e70wo1_500.jpg?w=500 500w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Dear Lord,
+<div style="font-variant: small-caps;">
+  Dear Lord,
+</div>
 
 I will not and cannot list what I _think_ you have not done for me. That is preposterous! What you have done for me, in me, and through me is too great to even list. But I thank you so much. I thank you for you are absolutely good, absolutely merciful, absolutely gracious, and absolutely love. These I know of you and know you well.
 
@@ -30,7 +30,4 @@ I adore you.
 Thank you.
 
 In your Son’s incredible name I pray.
-
 Amen.
-
-**Series: **As a young believer, I have not had the chance to read all the way through the Bible. The Psalms and Proverbs will be the last books before I finish the Old Testament in Ezekiel, Daniel, then Isaiah. As I read through the Psalms, I was struck by the very _personal and intimate nature_ of the Psalms despite the deep theological, doctrinal, and Christocentric focus of the written songs themselves.  Using the Psalms as a mere template and an outline, how I would I respond? So doing just that, I began writing out prayers based on each of the Psalms.

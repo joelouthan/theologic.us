@@ -7,7 +7,7 @@ url: /family-devotions/2019-01-23-mark-1432-42-every-step-is-joy-god-will.md/
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 draft: false
 ---
 **Mark 14:32-42 And they went to a place called Gethsemane. And he said to his disciples, “Sit here while I pray.” And he took with him Peter and James and John, and began to be greatly distressed and troubled. And he said to them, “My soul is very sorrowful, even to death. Remain here and watch.” And going a little farther, he fell on the ground and prayed that, if it were possible, the hour might pass from him. And he said, “Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will.” And he came and found them sleeping, and he said to Peter, “Simon, are you asleep? Could you not watch one hour? Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.” And again he went away and prayed, saying the same words. And again he came and found them sleeping, for their eyes were very heavy, and they did not know what to answer him. And he came the third time and said to them, “Are you still sleeping and taking your rest? It is enough; the hour has come. The Son of Man is betrayed into the hands of sinners. Rise, let us be going; see, my betrayer is at hand.”**

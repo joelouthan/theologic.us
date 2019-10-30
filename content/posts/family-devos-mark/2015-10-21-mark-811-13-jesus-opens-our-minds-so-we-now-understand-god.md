@@ -10,7 +10,7 @@ dsq_thread_id:
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 
 ---
 Mark 8:11–13 **The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him. And he sighed deeply in his spirit and said, “Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation.” And he left them, got into the boat again, and went to the other side.**

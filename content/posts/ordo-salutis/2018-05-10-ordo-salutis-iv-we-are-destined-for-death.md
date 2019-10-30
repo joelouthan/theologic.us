@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis IV: We Are Destined For Death'
 author: Joseph Louthan
-type: post
 date: 2018-05-10T12:00:53+00:00
-url: /theology/ordo-salutis-iv-we-are-destined-for-death/
+url: /ordo-salutis/ordo-salutis-iv-we-are-destined-for-death/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/Death.jpg?resize=825%2C510
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 <p class="p1">
   <span class="s1"><b>&#8220;How does God determine who he will save and not save?&#8221;</b></span>

@@ -1,15 +1,13 @@
 ---
 title: 'Ordo Salutis X: Our New Inheritance – Spirit’s Witness in Our Adoption'
 author: Joseph Louthan
-type: post
 date: 2018-06-21T12:00:18+00:00
-url: /theology/ordo-salutis-ix-our-new-inheritance-spirits-witness-in-our-adoption/
+url: /ordo-salutis/ordo-salutis-ix-our-new-inheritance-spirits-witness-in-our-adoption/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/4kTa.gif?resize=500%2C243
 categories:
   - Theology
 tags:
   - Ordo Salutis
-
 ---
 <p class="p1">
   We have fully established that we are not <i>fully</i> alive despite being biologically alive. Throughout the Bible, starting in Genesis 2, God states that sin separates the soul of man from the spirit of God. And without God, we are dead.

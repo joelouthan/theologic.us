@@ -7,7 +7,7 @@ url: /family-devotions/2018-10-31-mark-1238-40-so-that-we-might-live-and-b.md/
 categories:
   - Family Devotions
 tags:
-  - The Gospel of Mark
+  - 'Family Devotions: Mark'
 draft: false
 ---
 **Mark 12:38–40 And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces and have the best seats in the synagogues and the places of honor at feasts, who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”**
