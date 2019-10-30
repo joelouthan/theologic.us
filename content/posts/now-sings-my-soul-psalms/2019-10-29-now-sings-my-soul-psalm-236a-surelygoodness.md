@@ -12,7 +12,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">
-  Great God,
+Great God,
 </div>
 
 I am reminded what Christ declared:
