@@ -14,11 +14,11 @@ draft: false
 Great God,
 </div>
 
-I am reminded what Christ declared:  
+<pre>I am reminded what Christ declared:  
 You alone are good.
 
 You are the source of all good  
-  but my heart flees and wanders from you
+but my heart flees and wanders from you
 
 But in your Word,  
 	you declared me holy  
@@ -39,3 +39,4 @@ I praise you because you define what good is
 	and not by us.
 
 Amen
+</pre>
