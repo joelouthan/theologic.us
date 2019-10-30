@@ -6,11 +6,15 @@ theme = "cupper"
 
 [params]
   description = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"
+  
   homeMetaContent = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"
-  footer = "Content copyrighted by [Joseph Louthan](/about/). Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
-  # For more date formats see https://gohugo.io/functions/format/
+  
+  footer = 'Copyright &#xA9; [Joseph Louthan](/about/). Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).'
+  
   dateFormat = "02 Jan 2006 15:04"
+  
   codePenUser = "joe"
+  
   katex = true
 
 [menu]

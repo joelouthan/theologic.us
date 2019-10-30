@@ -42,6 +42,12 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/jlouthan/Sites/theologic.us",
+		"/home/jlouthan/Sites/theologic.us/content",
+		"/home/jlouthan/Sites/theologic.us/content/posts"
+	],
 	"file_history":
 	[
 		"/home/jlouthan/Sites/theologic.us/config.toml",
@@ -174,7 +180,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 257.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
