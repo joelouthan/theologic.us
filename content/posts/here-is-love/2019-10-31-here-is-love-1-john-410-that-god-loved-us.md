@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: 1 John 4:10 That God Loved Us'
+title: 'Here is Love: That God Loved Us - 1 John 4:10'
 author: Joseph Louthan
 type: post
 date: 2019-10-31
