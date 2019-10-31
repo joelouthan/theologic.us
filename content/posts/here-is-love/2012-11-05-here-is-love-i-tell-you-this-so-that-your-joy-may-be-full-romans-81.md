@@ -12,7 +12,7 @@ tags:
   - Here is Love
 
 ---
-[<img class="alignright size-medium wp-image-1223" title="cross-backlit-x2" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=300%2C300" alt="" width="300" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=300%2C300 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/cross-backlit-x2.jpg?w=573 573w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]My abusing and the abuse done against me.
+My abusing and the abuse done against me.
 
 My lies that I have told.
 
@@ -90,7 +90,7 @@ There is fear. Yet, you starting to see more and more of His beautiful glory and
 
 Now, you stand before the throne. You peer into the loveliest eyes you have ever seen. You glance at the face that is a beauty like no other.
 
-Your breath is taken. Your heart races. Your only rightful response is to fall to your needs and worship the King of kings and Lord of lords.
+Your breath is taken. Your heart races. Your only rightful response is to fall to your knees and worship the King of kings and Lord of lords.
 
 In the back of your mind, you think a dreadful thought, &#8220;Who will bear witness for me?&#8221;
 

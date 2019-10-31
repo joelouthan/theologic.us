@@ -4,7 +4,6 @@ author: Joseph Louthan
 type: post
 date: 2018-08-27T12:00:21+00:00
 url: /theology/here-is-love-romans-838-39-the-breakdown/
-featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/11/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg?resize=825%2C510
 categories:
   - Theology
 tags:
@@ -15,7 +14,7 @@ tags:
 
 In the year of our 2018, we have Christians contending that their faith would be unshaken if the resurrection never took place. That argument is nothing new. For the orthodox Christian, this is not our first rodeo. Paul was already dealing with this argument thirty years after Jesus ascended to glory:
 
-Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain. [<sup>1</sup>][1]{#return-note-3891-1.simple-footnote}
+Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain. [<sup>1</sup>][1]
 
 Many people today and throughout history love to believe in the love of God, abide in the love of God and attempt to the best of their ability to live by the love of God. But they do that will no mindset or thought about Jesus Christ our Lord and Savior.
 
@@ -25,7 +24,7 @@ But if I change or disbelieve in sin, sin’s effects upon me and my life and th
 
 What I hope that you, the reader, realize is that there is no love of God apart from Jesus Christ our Lord.
 
-Sure, God has grace for the good and the evil, the just and the unjust. [<sup>2</sup>][2]{#return-note-3891-2.simple-footnote} And yes, we all know what John 3:16 says but let us look at the context of John 3:
+Sure, God has grace for the good and the evil, the just and the unjust. [<sup>2</sup>][2]
 
 **If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? No one has ascended into heaven except he who descended from heaven, the Son of Man. And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.**
 
@@ -37,40 +36,15 @@ Here is the rub: the world expects that that they will be saved because God love
 
 John goes on to say: 
 
-**Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.** [<sup>4</sup>][4]{#return-note-3891-4.simple-footnote}
+**Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.** [<sup>4</sup>][4]
 
 This verse (and with the rest of the Bible) flies in the face of what _the world thinks_ is the love of God.
 
 The love of God for you has to be through Jesus Christ the Lord and Savior in order for you to be saved to God. Apart from Jesus, you then remain under the wrath of God.
 
-To the Christian, the 8th chapter of Romans is a full-blown out description of Christ as the path of life, the fullness of joy and pleasures forevermore [<sup>5</sup>][5]{#return-note-3891-5.simple-footnote}. This is a book that cries out, “See what God has done! Come to Him, one who gives great love and sweet rest for your tiresome soul!”
+To the Christian, the 8th chapter of Romans is a full-blown out description of Christ as the path of life, the fullness of joy and pleasures forevermore [<sup>5</sup>][5]. This is a book that cries out, “See what God has done! Come to Him, one who gives great love and sweet rest for your tiresome soul!”
 
 Let me contend to you that God has spelled out precisely what His love is all about—that is, it was all about Jesus Christ his Son.
-
-For here is love: “**I will put enmity between you and the woman,**  
-**and between your offspring and her offspring;**  
-**he shall bruise your head,**  
-**and you shall bruise his heel.**” [<sup>6</sup>][6]{#return-note-3891-6.simple-footnote}
-
-And here is love: “**She shall <g class="gr_ gr\_4 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling ins-del" id="4" data-gr-id="4">bare</g> a son and you shall call his name Jesus for He will save His people from their sins.**” [<sup>7</sup>][7]{#return-note-3891-7.simple-footnote}
-
-And here is love: “**For our sake, He made Him to be sin who knew no sin so that in Him we might become the righteousness of God.**” [<sup>8</sup>][8]{#return-note-3891-8.simple-footnote}
-
-And here is love: “**And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.**” [<sup>9</sup>][9]{#return-note-3891-9.simple-footnote}
-
-And here is love:   
-“**… Those who were not my people I will call ‘my people,’**  
-**and her who was not beloved I will call ‘beloved.’”**  
-**“And in the very place where it was said to them, ‘You are not my people,’**  
-**there they will be called ‘sons of the living God.’**” [<sup>10</sup>][10]{#return-note-3891-10.simple-footnote}
-
-And here is love: “**For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.**” [<sup>11</sup>][11]{#return-note-3891-11.simple-footnote}
-
-And here is love: “**There is therefore now no condemnation for those who are in Christ Jesus.**” [<sup>12</sup>][12]{#return-note-3891-12.simple-footnote}
-
-And here is love: “**For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love God in Christ Jesus our Lord.**” [<sup>13</sup>][13]{#return-note-3891-13.simple-footnote}
-
-And, &#8220;**In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.&#8221;** [<sup>14</sup>][14]{#return-note-3891-14.simple-footnote}
 
 The birth, life, death, burial, resurrection, and ascension of Christ is the love of God manifested to us all. Believe in him, trust in him, and obey him and you will have eternal life. 
 
@@ -84,7 +58,7 @@ Let me fall away seven million times, but I am counted righteous unto him and ge
 
 Let all of life wear me down. And then watch the Father come running after me to rescue me yet again that I might live to Him.
 
-Let death come knocking on my door. But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God. [<sup>15</sup>][15]{#return-note-3891-15.simple-footnote}
+Let death come knocking on my door. But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God. [<sup>15</sup>][15]
 
 Let angels, rulers, and powers come at me! For my Christ Jesus is the Commander of the <g class="gr_ gr\_7 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar multiReplace" id="7" data-gr-id="7">Most High</g> and the Grand Champion and Conqueror over Satan, demons, sin, hell, and death. He is my shield, my sword, <g class="gr_ gr\_6 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar only-ins doubleReplace replaceWithoutSep" id="6" data-gr-id="6">strong</g> tower <g class="gr_ gr\_8 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Punctuation only-ins replaceWithoutSep" id="8" data-gr-id="8">and</g> mighty fortress. I shall not be moved!
 
