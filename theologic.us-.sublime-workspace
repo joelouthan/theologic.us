@@ -11,6 +11,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 1757,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -45,8 +54,9 @@
 	"expanded_folders":
 	[
 		"/home/jlouthan/Sites/theologic.us",
-		"/home/jlouthan/Sites/theologic.us/content",
-		"/home/jlouthan/Sites/theologic.us/content/posts"
+		"/home/jlouthan/Sites/theologic.us/layouts",
+		"/home/jlouthan/Sites/theologic.us/layouts/_default",
+		"/home/jlouthan/Sites/theologic.us/themes"
 	],
 	"file_history":
 	[
@@ -67,13 +77,18 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 113.0,
 		"where_history":
 		[
+			"/home/jlouthan/Sites/theologic.us/themes",
+			"/home/jlouthan/Sites/theologic.us",
+			"/home/jlouthan/Sites/theologic.us/themes",
+			"/home/jlouthan/Sites/theologic.us/content",
+			""
 		]
 	},
 	"find_state":
@@ -81,6 +96,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"footer",
+			"copyright"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -98,14 +115,45 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1445,
+								1445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -142,7 +190,7 @@
 	"project": "theologic.us-.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
