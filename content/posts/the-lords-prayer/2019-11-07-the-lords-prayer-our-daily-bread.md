@@ -8,7 +8,7 @@ categories:
   - Prayers
 tags:
   - "The Lord's Prayer"
-draft: true
+draft: false
 ---
 **Matthew 6:11 Give us this day our daily bread,** 
 
