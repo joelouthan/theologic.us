@@ -6,7 +6,7 @@ date: 2018-08-02T12:00:37+00:00
 url: /prayer/the-lords-prayer-hallowed-be-your-name/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/00000isaiah63.jpg?resize=512%2C325
 categories:
-  - Prayer
+  - Prayers
 tags:
   - "The Lord's Prayer"
 

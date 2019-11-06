@@ -5,7 +5,7 @@ type: post
 publishDate: 2019-11-07
 url: /prayers/2019-11-07-the-lords-prayer-our-daily-bread/
 categories:
-  - Prayers
+  - Prayerss
 tags:
   - "The Lord's Prayer"
 draft: false

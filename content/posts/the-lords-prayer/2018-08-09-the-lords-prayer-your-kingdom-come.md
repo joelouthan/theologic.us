@@ -6,7 +6,7 @@ date: 2018-08-09T12:00:01+00:00
 url: /prayer/the-lords-prayer-your-kingdom-come/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/buildchurch.jpg?resize=825%2C510
 categories:
-  - Prayer
+  - Prayers
 tags:
   - "The Lord's Prayer"
 

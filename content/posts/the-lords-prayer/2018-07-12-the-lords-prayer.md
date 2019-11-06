@@ -6,7 +6,7 @@ date: 2018-07-12T12:00:55+00:00
 url: /prayer/the-lords-prayer/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/ManPrayingForCityHD-1344-x-756-.jpg?resize=825%2C510
 categories:
-  - Prayer
+  - Prayers
 tags:
   - "The Lord's Prayer"
 
