@@ -16,7 +16,7 @@ My Lord and God,
 </div>
 
 Your Son has shed his blood for me,  
-	so that I no believe.
+	so that I now believe.
 
 Your Son has given up his life,  
 	so that I might live forever.
