@@ -16,7 +16,7 @@ We begin our study into the Epistle to the church in Rome not starting off the b
 
 If you know your Bible and understand just who Paul was and what he was in the sight of God before penning this letter. So I wanted to start this study by focusing on only the apostle himself, Paul.
 
-This does not make sense. Not if you knew who Paul was!
+And even starting this study with focusing on Paul doesn't make sense. But we have got to see the importance of connecting Paul's old life with God's grace and mercy.
 
 Turn back to Acts 7:51-60. Some of you guys know the story, but it bears repeating.
 

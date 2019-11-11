@@ -1,5 +1,5 @@
 ---
-title: "The Lord's Prayer: Dead Man's Life"
+title: "The Lord's Prayer: Deliver Us From Evil"
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-21T12:00:04+00:00

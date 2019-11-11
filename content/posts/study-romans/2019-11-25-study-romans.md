@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:1-7b Who is God, Part 2'
+title: 'Romans 1:1-7b Who is God? (Part 2)'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-25T12:00:04+00:00
@@ -8,7 +8,7 @@ categories:
   - Theology
 tags:
   - 'Studies: Romans'
-draft: true
+draft: false
 ---
 which he promised beforehand through his prophets 
 
