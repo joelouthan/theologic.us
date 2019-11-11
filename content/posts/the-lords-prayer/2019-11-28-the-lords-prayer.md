@@ -8,9 +8,7 @@ categories:
   - Prayers
 tags:
   - "The Lord's Prayer"
-draft: true
+draft: false
 ---
-<div style="font-variant: small-caps;">
-  
-</div>
+<div style="font-variant: small-caps;"></div>
 

@@ -11,10 +11,7 @@ tags:
 draft: false
 ---
 <pre>
-<div style="font-variant: small-caps;">
-My Lord and God,
-</div>
-
+<div style="font-variant: small-caps;">My Lord and God,</div>
 Your Son has shed his blood for me,  
 	so that I now believe.
 
