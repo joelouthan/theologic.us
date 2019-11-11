@@ -47,9 +47,28 @@ Furthermore, God is not restricted and restrained by anything we have done--incl
 
 Now that said, the author of Hebrews sums up the sacrificial system of worship and the holiness of God in this way: **Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins.**
 
-Now, sin has been committed by mankind and it is **only** mankind that can atone for sin. But wait, we have all read Genesis, Exodus, Levitius, Numbers, and Deuteronomy, right? We know for a fact that the sacrifice for sin must be perfect, spotless, and without blemish. Not just on the outside and but on the inside. "But wait," you might say, "we used to sacrifice bulls and goats and lambs, let us keep doing that."
+Now, sin has been committed by mankind and it is **only** mankind that can atone for sin. But wait, we have all read Genesis, Exodus, Levitius, Numbers, and Deuteronomy, right? We know for a fact that the sacrifice for sin must be perfect, spotless, and without blemish. Not just on the outside and but on the inside. "But wait," you might say, "we used to sacrifice bulls and goats and lambs, let us keep doing that." Yet, the author of Hebrews goes on to say: **For it is impossible for the blood of bulls and goats to take away sins.**
 
-and was declared to be the Son of God 
+The author goes on to quote Christ:
+
+> Consequently, when Christ came into the world, he said,  
+
+> <pre>“Sacrifices and offerings you have not desired,  
+  but a body have you prepared for me;  
+  in burnt offerings and sin offerings  
+		you have taken no pleasure.  
+	Then I said, ‘Behold, I have come to do your will, O God,  
+		as it is written of me in the scroll of the book.’”</pre>
+	
+> 	When he said above, “You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings” (these are offered according to the law), then he added, “Behold, I have come to do your will.” He does away with the first in order to establish the second. And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.
+
+Jesus Christ is the worthy Lamb who was slained. Jesus Christ, Son of God who is God, was the only one that could, able to, and willing to lay his life down for His friends.
+
+Spoiler alert: Paul will go on to say this in Romans 5:
+
+> Romans 5:6-11 For while we were still weak, at the right time Christ died for the ungodly.  For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—  but God shows his love for us in that while we were still sinners, Christ died for us.  Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.  More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.   
+
+Nine, Jesus Christ **was declared to be the Son of God.** 
 
 in power according to the Spirit of holiness 
 
