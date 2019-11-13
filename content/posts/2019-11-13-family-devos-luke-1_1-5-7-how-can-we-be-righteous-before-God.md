@@ -2,7 +2,7 @@
 title: 'Luke 1:5–7 How Can We Be Righteous Before God?'
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-13T00:00:00-06:00
+publishDate: 2019-11-13T06:00:00-06:00
 url: /family-devos-luke/2019-11-13-family-devos-luke/
 categories:
   - Theology
