@@ -10,7 +10,7 @@ tags:
   - 'Studies: Romans'
 draft: false
 ---
-Let us continue:
+Let us continue.
 
 Five, the gospel **which he promised beforehand through his prophets**. You have seen and heard this a million times and you will a million more. The gospel, that is, the good news of God, first explicitly preached by God himself while he walked the cool of the garden looking for his lost children. His children, Adam and Eve, our first parents, believed not God for his righteousness but believed Satan for our own self-righteousness. In the moment they disobeyed God in their hearts is the moment they began to died. In that dying, feelings like anxiety, fear, doubt, worry, trespass, shame, guilt, and sin overwhelmed them. Like all children of disobedience, they ran away, hid, and covered up with blame-shifting and self-righteousness.
 
@@ -66,20 +66,46 @@ Jesus Christ is the worthy Lamb who was slained. Jesus Christ, Son of God who is
 
 Spoiler alert: Paul will go on to say this in Romans 5:
 
-> Romans 5:6-11 For while we were still weak, at the right time Christ died for the ungodly.  For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—  but God shows his love for us in that while we were still sinners, Christ died for us.  Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.  More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.   
+> Romans 5:6-11 For while we were still weak, at the right time Christ died for the ungodly.  For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—  but God shows his love for us in that while we were still sinners, Christ died for us.  Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.  More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. 
 
-Nine, Jesus Christ **was declared to be the Son of God.** 
+And again in Romans 8:1-4:
 
-in power according to the Spirit of holiness 
+> There is therefore now no condemnation for those who are in Christ Jesus.  For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.  For God has done what the law, weakened by the flesh, could not do. **By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,  in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**   
 
-by his resurrection from the dead
+It was imperative that God would become flesh, man, human because only man can atone for his sins.
 
-Jesus Christ our Lord through whom we have received grace and apostleship 
+Nine, Jesus Christ **was declared to be the Son of God.** We need no other words but God the Father himself:
 
-to bring about the obedience of faith 
+> Then Jesus came from Galilee to the Jordan to John, to be baptized by him.  John would have prevented him, saying, I need to be baptized by you, and do you come to me?  But Jesus answered him, Let it be so now, for thus it is fitting for us to fulfill all righteousness. Then he consented.  And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him;  and behold, a voice from heaven said, **This is my beloved Son, with whom I am well pleased.**
 
-for the sake of his name 
+Paul further demonstrates this in **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
 
-among all the nations
+Ten, Jesus Christ coming, lived, cared, ministered, crucified, rose, and ascended **in power according to the Spirit of holiness.**  God has given Jesus His Spirit without measure so that Christ could utter the words of God (John 3:34). 
 
-including you who are called to belong to Jesus Christ,
+Furthermore, Christ rose again only by the power of the Holy Spirit. **Romans 8:11 If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.**
+
+Eleven, **Christ's resurrection from the dead** and it is in this hope we were saved. 
+
+Paul elaborates:
+
+> **2 Corinthians 15:12-19Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?  But if there is no resurrection of the dead, then not even Christ has been raised.  And if Christ has not been raised, then our preaching is in vain and your faith is in vain.  We are even found to be misrepresenting God, because we testified about God that he raised Christ, whom he did not raise if it is true that the dead are not raised.  For if the dead are not raised, not even Christ has been raised.  And if Christ has not been raised, your faith is futile and you are still in your sins.  Then those also who have fallen asleep in Christ have perished.  If in Christ we have hope in this life only, we are of all people most to be pitied.**
+
+But we are not pitied. Not pitied but because of our hope in the risen Lord, **we are afflicted in every way, but not crushed; perplexed, but not driven to despair;  persecuted, but not forsaken; struck down, but not destroyed; (2 Corinthians 4:8-9)**
+
+There is much in this world that is not simple either/or or black and white. There are nuances in politics, relationships, philosophies, and culture that are filled in with many shades of grey between one side to the other. But when it comes to believing and obeying Christ as our Lord, King, God, and Savior, there is only two ways.
+
+Christ said it himself:
+
+> **Matthew 7:13-14 Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.  For the gate is narrow and the way is hard that leads to life, and those who find it are few.**
+
+And then Paul expounds upon Christ in Romans 8. Let me pull together passages quoted thus far because it bares repeating:
+
+> **Romans 8:1-11 There is therefore now no condemnation for those who are in Christ Jesus.  For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.  For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,  in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.  For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit.  For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace.  For the mind that is set on the flesh is hostile to God, for it does not submit to God’s law; indeed, it cannot.  Those who are in the flesh cannot please God.**
+
+> **You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.  But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness.  If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.**
+
+Just as Joshua asked and declared the people of Israel, Jesus Christ is asking each of us this one thing:
+
+**"Choose this day whom you will serve."** The gods that we have made up in our minds that we server with our hearts that will only lead us to death and destruction or to the Living and Everlasting God who is only life, the fullness of joy and pleasures forevermore.
+
+Choose this day.
