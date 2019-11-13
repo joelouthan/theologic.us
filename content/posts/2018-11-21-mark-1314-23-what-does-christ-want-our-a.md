@@ -2,7 +2,7 @@
 title: 'Mark 13:14-23 What Does Christ Want? Our Attention'
 author: Joseph Louthan
 type: post
-date: 2018-11-21T00:00:00-06:00
+date: 2018-11-21
 url: /family-devotions/2018-11-21-mark-1314-23-what-does-christ-want-our-a.md/
 categories:
   - Devotions

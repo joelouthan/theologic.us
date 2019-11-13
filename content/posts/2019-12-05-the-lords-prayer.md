@@ -2,7 +2,7 @@
 title: "The Lord's Prayer: "
 author: Joseph Louthan
 type: post
-publishDate: 2019-12-05T00:00:00-06:00
+publishDate: 2019-12-05
 url: /the-lords-prayer/2019-12-05-the-lords-prayer/
 categories:
   - Prayers

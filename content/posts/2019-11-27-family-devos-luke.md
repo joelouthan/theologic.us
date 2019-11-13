@@ -2,7 +2,7 @@
 title: 'Luke 1:11–17 Who is the Last Prophet of the Old Testament?'
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-27T00:00:00-06:00
+publishDate: 2019-11-27
 url: /family-devos-luke/2019-11-27-family-devos-luke/
 categories:
   - Theology

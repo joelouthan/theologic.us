@@ -2,7 +2,7 @@
 title: "The Lord's Prayer: Give Us This Day Our Daily Bread"
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-07T00:00:00-06:00
+publishDate: 2019-11-07
 url: /prayers/2019-11-07-the-lords-prayer-our-daily-bread/
 categories:
   - Prayerss

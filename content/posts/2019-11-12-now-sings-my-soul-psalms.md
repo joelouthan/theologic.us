@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 23:6c You Will Always Be With Me'
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-12T00:00:00-06:00
+publishDate: 2019-11-12
 url: /now-sings-my-soul-psalms/2019-11-12-now-sings-my-soul-psalms/
 categories:
   - Prayers

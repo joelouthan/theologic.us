@@ -2,7 +2,7 @@
 title: Mark 12:1-12 So That We Might Live and Be Sent By Him
 author: Joseph Louthan
 type: post
-date: 2018-09-26T00:00:00-06:00
+date: 2018-09-26
 url: /family-devotions/2018-09-26-mark-121-12-so-that-we-might-live-and-be.md/
 categories:
   - Devotions

@@ -2,7 +2,7 @@
 title: 'Mark 15:1-5 Every Step is Joy: Christ Does Not Defend Himself For Us'
 author: Joseph Louthan
 type: post
-date: 2019-02-20T00:00:00-06:00
+date: 2019-02-20
 url: /family-devotions/2019-02-20-mark-151-5-every-step-is-joy-god-will-be.md/
 categories:
   - Devotions

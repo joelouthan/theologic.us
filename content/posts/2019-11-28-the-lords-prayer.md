@@ -2,7 +2,7 @@
 title: "The Lord's Prayer: Yours is The Kingdom, O Lord"
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-28T00:00:00-06:00
+publishDate: 2019-11-28
 url: /the-lords-prayer/2019-11-28-the-lords-prayer/
 categories:
   - Prayers

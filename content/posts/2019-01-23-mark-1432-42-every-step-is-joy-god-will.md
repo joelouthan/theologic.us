@@ -2,7 +2,7 @@
 title: 'Mark 14:32-42 Every Step is Joy: Christ Is Condemned For Us'
 author: Joseph Louthan
 type: post
-date: 2019-01-23T00:00:00-06:00
+date: 2019-01-23
 url: /family-devotions/2019-01-23-mark-1432-42-every-step-is-joy-god-will.md/
 categories:
   - Devotions

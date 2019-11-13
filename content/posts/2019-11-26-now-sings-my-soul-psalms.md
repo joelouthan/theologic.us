@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 23:6e You Are My Home'
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-26T00:00:00-06:00
+publishDate: 2019-11-26
 url: /now-sings-my-soul-psalms/2019-11-26-now-sings-my-soul-psalms/
 categories:
   - Prayers

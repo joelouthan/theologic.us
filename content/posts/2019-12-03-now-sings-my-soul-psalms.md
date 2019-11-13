@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm '
 author: Joseph Louthan
 type: post
-publishDate: 2019-12-03T00:00:00-06:00
+publishDate: 2019-12-03
 url: /now-sings-my-soul-psalms/2019-12-03-now-sings-my-soul-psalms/
 categories:
   - Prayers

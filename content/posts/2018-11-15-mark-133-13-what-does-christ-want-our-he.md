@@ -2,7 +2,7 @@
 title: 'Mark 13:3-13 What Does Christ Want? Our Hearts'
 author: Joseph Louthan
 type: post
-date: 2018-11-15T00:00:00-06:00
+date: 2018-11-15
 url: /family-devotions/2018-11-15-mark-133-13-what-does-christ-want-our-he.md/
 categories:
   - Devotions

@@ -2,7 +2,7 @@
 title: 'Mark 14:3-9 Every Step Is Joy: Christ Is Annointed For Us'
 author: Joseph Louthan
 type: post
-date: 2018-12-27T00:00:00-06:00
+date: 2018-12-27
 url: /family-devotions/2018-12-27-mark-14-03-09-every-step-is-joy-christ-will-be-annointed-for-his-death.md/
 categories:
   - Devotions

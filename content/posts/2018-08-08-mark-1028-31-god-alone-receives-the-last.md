@@ -2,7 +2,7 @@
 title: Mark 10:28-31 God Alone Receives the Last
 author: Joseph Louthan
 type: post
-date: 2018-08-08T00:00:00-06:00
+date: 2018-08-08
 url: /family-devotions/mark-1028-31-god-alone-receives-the-last/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/bars.jpg?resize=825%2C510
 categories:

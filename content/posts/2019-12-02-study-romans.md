@@ -2,7 +2,7 @@
 title: 'Romans 1:7 Who Are We?'
 author: Joseph Louthan
 type: post
-publishDate: 2019-12-02T00:00:00-06:00
+publishDate: 2019-12-02
 url: /study-romans/2019-12-02-study-romans/
 categories:
   - Theology

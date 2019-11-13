@@ -2,7 +2,7 @@
 title: 'Romans 1:1-6b Who is God? (Part 2)'
 author: Joseph Louthan
 type: post
-publishDate: 2019-11-25T00:00:00-06:00
+publishDate: 2019-11-25
 url: /study-romans/2019-11-25-study-romans/
 categories:
   - Theology
