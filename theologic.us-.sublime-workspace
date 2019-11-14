@@ -31,6 +31,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
 		],
 		"width": 0.0
 	},
@@ -55,22 +71,40 @@
 		"/home/jlouthan/Sites/theologic.us",
 		"/home/jlouthan/Sites/theologic.us/content",
 		"/home/jlouthan/Sites/theologic.us/content/posts",
-		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke",
-		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms",
-		"/home/jlouthan/Sites/theologic.us/content/posts/prooftexts",
-		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans",
-		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer",
 		"/home/jlouthan/Sites/theologic.us/static"
 	],
 	"file_history":
 	[
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-25-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-13-family-devos-luke-1_1-5-7-how-can-we-be-righteous-before-God.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-02-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-26-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-27-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-28-the-lords-prayer.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-12-04-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-12-03-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-12-02-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-11-25-study-romans.md",
+		"/home/jlouthan/bin/weekly-new-posts",
+		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-12-05-the-lords-prayer.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-11-18-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-11-21-the-lords-prayer.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-11-28-the-lords-prayer.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-11-26-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-27-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-11-11-study-romans1-1-who-are-you-lord.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-11-12-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-11-19-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/archetypes/default.md",
+		"/home/jlouthan/Sites/theologic.us/config.toml",
 		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-11-14-the-lords-prayer.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-20-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-13-family-devos-luke-1_1-5-7-how-can-we-be-righteous-before-God.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-20T12:00:04+00:00-family-devos-luke.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-13-family-devos-luke.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-11-11-study-romans.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-06-family-devos-luke-to-be-called-a-witness.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-06-family-devos-luke-lover-of-god.md",
-		"/home/jlouthan/bin/weekly-new-posts",
 		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-11-07-the-lords-prayer-our-daily-bread.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-11-05-now-sings-my-soul-psalm-236b-mercies.md",
 		"/home/jlouthan/bin/new-post",
@@ -79,7 +113,6 @@
 		"/home/jlouthan/Sites/theologic.us/themes/cupper/static/images/joe-eli-snake.png",
 		"/home/jlouthan/Sites/theologic.us/themes/cupper/assets/css/template-styles.css",
 		"/home/jlouthan/Sites/theologic.us/content/posts/here-is-love/2018-08-27-here-is-love-romans-838-39-the-breakdown.md",
-		"/home/jlouthan/Sites/theologic.us/config.toml",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/2012-07-25-mark-an-introduction.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/mark-111-11-so-that-we-might-live.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-mark/tmp/files",
@@ -96,13 +129,14 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
-		"height": 113.0,
+		"height": 122.0,
 		"where_history":
 		[
+			"",
 			"/home/jlouthan/Sites/theologic.us/themes",
 			"/home/jlouthan/Sites/theologic.us",
 			"/home/jlouthan/Sites/theologic.us/themes",
@@ -115,6 +149,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$",
+			"draft: true",
+			"vvcutvrkdijfebubddiccunuurdjufkvnneicicbdkvl",
+			"(ESV) ",
+			"<br>",
+			"(ESV) ",
+			"\\(|\\)",
+			"\\(.*\\)",
 			" (ESV)",
 			"romans",
 			"logo",
@@ -126,11 +168,16 @@
 			"copyright"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"  ",
+			"draft: false",
+			"",
+			"**",
+			"\\*\\*.*\\*\\*",
 			"",
 			"the_lords_prayer",
 			"luke",
@@ -153,11 +200,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 46.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 46.0
 	},
 	"layout":
 	{
@@ -190,11 +237,15 @@
 	{
 		"height": 0.0
 	},
+	"output.languagetool":
+	{
+		"height": 168.0
+	},
 	"pinned_build_system": "",
 	"project": "theologic.us-.sublime-project",
 	"replace":
 	{
-		"height": 74.0
+		"height": 84.0
 	},
 	"save_all_on_build": true,
 	"select_file":
