@@ -14,4 +14,4 @@ New schedule:
 
 **Monday**: Studies in Romans  
 **Wednesday**: Devotions in Luke  
-**Friday**: Now Sings My Soul: Psalms  
+**Friday**: Now Sings My Soul: Praying through the Psalms

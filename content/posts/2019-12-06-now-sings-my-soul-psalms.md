@@ -2,8 +2,8 @@
 title: 'Now Sings My Soul: Psalm 24'
 author: Joseph Louthan
 type: post
-publishDate: 2019-12-04
-url: /now-sings-my-soul-psalms/2019-12-04-now-sings-my-soul-psalms/
+publishDate: 2019-12-06
+url: /now-sings-my-soul-psalms/2019-12-06-now-sings-my-soul-psalms/
 categories:
   - Prayers
 tags:
