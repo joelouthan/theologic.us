@@ -27,8 +27,8 @@ theme = "cupper"
     url = "/posts/"
     weight = 1
   [[menu.nav]]
-    name = "Studies in Romans"
-    url = "/tags/studies-romans/"
+    name = "Commentary: Romans"
+    url = "/tags/commentary-romans/"
     weight = 2
   [[menu.nav]]
     name = "Here is Love: Expositions in Romans 8"

@@ -5,9 +5,9 @@ type: post
 publishDate: 2019-11-25
 url: /study-romans/2019-11-25-study-romans/
 categories:
-  - Theology
+  - Commentary
 tags:
-  - 'Studies: Romans'
+  - 'Commentary: Romans'
 draft: false
 ---
 Let us continue.

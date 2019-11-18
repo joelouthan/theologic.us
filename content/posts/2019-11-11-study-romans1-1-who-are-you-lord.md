@@ -5,9 +5,9 @@ type: post
 publishDate: 2019-11-11
 url: /study-romans/2019-11-11-study-romans1-1-who-are-you-lord/
 categories:
-  - Theology
+  - Commentary
 tags:
-  - 'Studies: Romans'
+  - 'Commentary: Romans'
 draft: false
 ---
 We begin our study into the Epistle to the church in Rome not starting off the bat with fleshing out entirety verse one:
