@@ -12,35 +12,32 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Ascended God</div>
+All of Creation is yours.
+  It belongs to you,
+  And you rule overall.
+
+Yet, despite my own wickedness,
+  and corruption
+  you sought me.
+  You would even descend to become man.
+  So that in you,
+  you would be my righteousness.
+
+You are the Worthy Lamb who was slain.
+  Only you, my Lord, can open the gates of heaven.
+  Only you, Jesus, can set the captives free.
+  Only you, my Redeemer, saved a sinner like me.
+
+I will worship you alone
+  for salvation belongs to you alone
+  for you are the mighty one who saves.
+
+Who are you, my Lord?
+  You are the King of glory
+  Forevermore.
+
+Amen.
 
 </pre>
 
-  The earth is the LORD’s and the fullness thereof,
-the world and those who dwell therein,
- for he has founded it upon the seas
-and established it upon the rivers.
- 
-  Who shall ascend the hill of the Lord?
-And who shall stand in his holy place?
- He who has clean hands and a pure heart,
-who does not lift up his soul to what is false
-and does not swear deceitfully.
- He will receive blessing from the Lord
-and righteousness from the God of his salvation.
- Such is the generation of those who seek him,
-who seek the face of the God of Jacob. Selah
- 
-  Lift up your heads, O gates!
-And be lifted up, O ancient doors,
-that the King of glory may come in.
- Who is this King of glory?
-The Lord, strong and mighty,
-the Lord, mighty in battle!
- Lift up your heads, O gates!
-And lift them up, O ancient doors,
-that the King of glory may come in.
- Who is this King of glory?
-The Lord of hosts,
-he is the King of glory! Selah
- 
  
