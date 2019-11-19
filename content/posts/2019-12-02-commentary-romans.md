@@ -10,7 +10,7 @@ tags:
   - 'Commentary: Romans'
 draft: false
 ---
-**Romans 1:5-7 ...through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,  including you who are called to belong to Jesus Christ,   To all those in Rome who are loved by God and called to be saints:  Grace to you and peace from God our Father and the Lord Jesus Christ.**
+**Romans 1:5-7 through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,  including you who are called to belong to Jesus Christ,   To all those in Rome who are loved by God and called to be saints:  Grace to you and peace from God our Father and the Lord Jesus Christ.**
 
 Through three chapters, we have studied and talked about the Triune God. God the Father, God the Son who is Jesus Christ an God the Holy Spirit. And if John the Apostle stated that the world could not contain all of what Christ had done, there is no way we have begun to scratch the surface of what God has done, let alone know fully who is God. But if you go to God, ask God for God, I promise you that you will *truly* get God.
 

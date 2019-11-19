@@ -8,5 +8,5 @@ categories:
   - Commentary
 tags:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
