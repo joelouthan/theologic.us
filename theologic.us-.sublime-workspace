@@ -19,6 +19,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "content/posts/x2019-12-09-study-romans.md",
+			"settings":
+			{
+				"buffer_size": 2439,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -71,21 +79,40 @@
 		"/home/jlouthan/Sites/theologic.us",
 		"/home/jlouthan/Sites/theologic.us/content",
 		"/home/jlouthan/Sites/theologic.us/content/posts",
-		"/home/jlouthan/Sites/theologic.us/static"
+		"/home/jlouthan/Sites/theologic.us/content/wp-content",
+		"/home/jlouthan/Sites/theologic.us/static",
+		"/home/jlouthan/Sites/theologic.us/themes"
 	],
 	"file_history":
 	[
-		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-25-study-romans.md",
-		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-13-family-devos-luke-1_1-5-7-how-can-we-be-righteous-before-God.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-02-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-25-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-18-commentary-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-11-study-romans1-1-who-are-you-lord.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/x2019-12-09-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/x2019-12-16-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/x2019-12-23-commentary-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-18-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/x2019-11-20-commentary-romans.md",
+		"/home/jlouthan/bin/weekly-new-posts",
+		"/home/jlouthan/Sites/theologic.us/content/posts/x2019-12-18-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/config.toml",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-04-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-11-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-13-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-06-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-04-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-09-study-romans.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-03-now-sings-my-soul-psalms.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-12-05-the-lords-prayer.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-26-now-sings-my-soul-psalms.md",
-		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-27-family-devos-luke.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-28-the-lords-prayer.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-27-family-devos-luke.md",
+		"/home/jlouthan/Sites/theologic.us/content/posts/2019-11-13-family-devos-luke-1_1-5-7-how-can-we-be-righteous-before-God.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-12-04-family-devos-luke.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-12-03-now-sings-my-soul-psalms.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-12-02-study-romans.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-11-25-study-romans.md",
-		"/home/jlouthan/bin/weekly-new-posts",
 		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-12-05-the-lords-prayer.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/study-romans/2019-11-18-study-romans.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-11-21-the-lords-prayer.md",
@@ -96,7 +123,6 @@
 		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-11-12-now-sings-my-soul-psalms.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/now-sings-my-soul-psalms/2019-11-19-now-sings-my-soul-psalms.md",
 		"/home/jlouthan/Sites/theologic.us/archetypes/default.md",
-		"/home/jlouthan/Sites/theologic.us/config.toml",
 		"/home/jlouthan/Sites/theologic.us/content/posts/the-lords-prayer/2019-11-14-the-lords-prayer.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-20-family-devos-luke.md",
 		"/home/jlouthan/Sites/theologic.us/content/posts/family-devos-luke/2019-11-13-family-devos-luke-1_1-5-7-how-can-we-be-righteous-before-God.md",
@@ -136,6 +162,7 @@
 		"height": 122.0,
 		"where_history":
 		[
+			"<open files>",
 			"",
 			"/home/jlouthan/Sites/theologic.us/themes",
 			"/home/jlouthan/Sites/theologic.us",
@@ -149,6 +176,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$post_time",
+			"romans",
+			"Studies: ",
+			"- Theology",
 			"$",
 			"draft: true",
 			"vvcutvrkdijfebubddiccunuurdjufkvnneicicbdkvl",
@@ -168,11 +199,15 @@
 			"copyright"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			"",
+			"mark",
+			"Commentary: ",
+			"- Commentary",
 			"  ",
 			"draft: false",
 			"",
@@ -193,8 +228,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "content/posts/x2019-12-09-study-romans.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

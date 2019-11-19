@@ -3,7 +3,7 @@ title: 'Romans 1:5-7 Who Are We? (Part 2)'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-09
-url: /study-romans/2019-12-09-study-romans/
+url: /study-romans/2019-12-09-commentary-romans/
 categories:
   - Commentary
 tags:

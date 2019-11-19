@@ -31,7 +31,11 @@ theme = "cupper"
     url = "/tags/commentary-romans/"
     weight = 2
   [[menu.nav]]
-    name = "Here is Love: Expositions in Romans 8"
+    name = "Commentary: Mark"
+    url = "/tags/commentary-mark/"
+    weight = 2
+  [[menu.nav]]
+    name = "Here is Love: Exposition in Romans 8"
     url = "/tags/here-is-love/"
     weight = 2
   [[menu.nav]]

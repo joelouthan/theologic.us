@@ -3,7 +3,7 @@ title: 'Romans 1:5-8 Who Are We? (Part 1)'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-02
-url: /study-romans/2019-12-02-study-romans/
+url: /commentary-romans/2019-12-02-commentary-romans/
 categories:
   - Commentary
 tags:

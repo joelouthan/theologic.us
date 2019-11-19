@@ -2,8 +2,8 @@
 title: 'Romans '
 author: Joseph Louthan
 type: post
-publishDate: 2019-12-16
-url: /study-romans/2019-12-16-study-romans/
+publishDate: 2019-12-23
+url: /commentary-romans/2019-12-23-commentary-romans/
 categories:
   - Commentary
 tags:
