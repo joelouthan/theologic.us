@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:1 Who Are You, Lord?'
+title: 'Romans 1:1a Who Are You, Lord?'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-11

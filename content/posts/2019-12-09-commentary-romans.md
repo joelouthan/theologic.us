@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:5-7 Who Are We? Part 2'
+title: 'Romans 1:5-7 Who Are We? (Part 2)'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-09
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**Romans 1:5-7 through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,  including you who are called to belong to Jesus Christ,   To all those in Rome who are loved by God and called to be saints:  Grace to you and peace from God our Father and the Lord Jesus Christ.**    
+**Romans 1:4b-7 ... Jesus Christ our Lord, through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,  including you who are called to belong to Jesus Christ,   To all those in Rome who are loved by God and called to be saints:  Grace to you and peace from God our Father and the Lord Jesus Christ.**    
 
 You see, the key that is missing for every single person born is God. In order for you to go to God, choose God, worship God, and serve God, you will need God. 
 

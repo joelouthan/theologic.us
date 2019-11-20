@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:1-6b Who is God? (Part 2)'
+title: 'Romans 1:2-4 Who is God? (Part 2)'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-25
@@ -20,7 +20,7 @@ But God, being rich in mercy, sought them both, and his precious saving grace fe
 and between your offspring and her offspring;  
 he shall bruise your head,  
 and you shall bruise his heel.
- 
+
 And we know that Adam and Eve both heard and believe God's counter-reality good news because God *made for Adam and for his wife garments of skins and clothed them.* In other words and stop me if this sounds familiar, God sacrificed a living animal and covered His children's own wickedness, shame, and self-righteousness with something only He could have done.
 
 And the prophets continues to beat that same drum with the same rhythm over and over again until God's own son, Jesus Christ, who lived and sacrificed his own life so that we hear His good news, believe in Him and be covered with His own spotless clothes. 
@@ -59,7 +59,7 @@ The author goes on to quote Christ:
 		you have taken no pleasure.  
 	Then I said, ‘Behold, I have come to do your will, O God,  
 		as it is written of me in the scroll of the book.’”</pre>
-	
+
 > 	When he said above, “You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings” (these are offered according to the law), then he added, “Behold, I have come to do your will.” He does away with the first in order to establish the second. And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.
 
 Jesus Christ is the worthy Lamb who was slained. Jesus Christ, Son of God who is God, was the only one that could, able to, and willing to lay his life down for His friends.
@@ -104,7 +104,7 @@ And then Paul expounds upon Christ in Romans 8. Let me pull together passages qu
 
 > **You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.  But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness.  If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.**
 
-Just as Joshua asked and declared the people of Israel, Jesus Christ is asking each of us this one thing:
+Just as Joshua asked and declared the people of Israel, **Jesus Christ our Lord** is asking each of us this one thing:
 
 **"Choose this day whom you will serve."** The gods that we have made up in our minds that we server with our hearts that will only lead us to death and destruction or to the Living and Everlasting God who is only life, the fullness of joy and pleasures forevermore.
 

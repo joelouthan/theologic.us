@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:1-6 Who is God? (Part 1)'
+title: 'Romans 1:1 Who is God?'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-18
