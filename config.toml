@@ -40,11 +40,11 @@ theme = "cupper"
     weight = 2
   [[menu.nav]]
     name = "Family Devotions in The Gospel of Mark"
-    url = "/tags/family-devotions-mark/"
+    url = "/tags/devotions-mark/"
     weight = 3
   [[menu.nav]]
     name = "Family Devotions in The Gospel of Luke"
-    url = "/tags/family-devotions-luke/"
+    url = "/tags/devotions-luke/"
     weight = 4
   [[menu.nav]]
     name = "Now Sings My Soul: Prayers based on the Psalms"
