@@ -39,11 +39,11 @@ theme = "cupper"
     url = "/tags/here-is-love/"
     weight = 2
   [[menu.nav]]
-    name = "Family Devotions in The Gospel of Mark"
+    name = "Devotions: Mark"
     url = "/tags/devotions-mark/"
     weight = 3
   [[menu.nav]]
-    name = "Family Devotions in The Gospel of Luke"
+    name = "Devotions: Luke"
     url = "/tags/devotions-luke/"
     weight = 4
   [[menu.nav]]
