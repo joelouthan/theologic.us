@@ -6,9 +6,9 @@ date: 2018-05-16T12:00:59+00:00
 url: /family-devotions/mark-92-13-jesus-must-suffer/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/Raphael-TRANSFIGURATION.jpg?resize=682%2C510
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <p class="p1">

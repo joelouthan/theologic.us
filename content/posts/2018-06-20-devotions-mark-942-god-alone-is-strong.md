@@ -6,9 +6,9 @@ date: 2018-06-20T12:00:16+00:00
 url: /family-devotions/mark-942-god-alone-is-strong/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/Arnold_Schwarzenegger_Klassisch_Posing.jpg?resize=825%2C510
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <p class="p1">

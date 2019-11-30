@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 15'
 author: Joseph Louthan
 type: post
-date: 2013-03-05T00:00:00+00:00
+date: 2013-03-05
 url: /prayers/now-sings-my-soul-psalm-15/
 dsq_thread_id:
   - 1799694917

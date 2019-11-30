@@ -2,14 +2,14 @@
 title: Mark 4:30-32 Jesus Builds His Kingdom
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-12-05
 url: /family-devotions/mark-430-32-jesus-builds-his-kingdom/
 dsq_thread_id:
   - 1782493105
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 [<img class="alignright size-medium wp-image-1492" title="MustardSeed" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg?resize=300%2C225" width="300" height="225" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg?resize=300%2C225 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg?w=960 960w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1] Mark 4:30-32 **And he said, “With what can we compare the kingdom of God, or what parable shall we use for it? It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade.”**
@@ -28,6 +28,6 @@ Matthew 16:13-20 **Now when Jesus came into the district of Caesarea Philippi, h
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg

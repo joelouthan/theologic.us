@@ -2,14 +2,14 @@
 title: Mark 4:33-34 Jesus Teaches
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-12-19
 url: /family-devotions/mark-433-34-jesus-teaches/
 dsq_thread_id:
   - 1815368307
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <a href="http://theologic.us/family-devotions/mark-433-34-jesus-teaches/attachment/jesusteaching/" rel="attachment wp-att-1648"><img class="alignright size-medium wp-image-1648" alt="jesusTeaching" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?resize=300%2C215" width="300" height="215" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?resize=300%2C215 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?w=603 603w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Mark 4:33-34 **With many such parables he spoke the word to them, as they were able to hear it. He did not speak to them without a parable, but privately to his own disciples he explained everything.**
@@ -74,4 +74,4 @@ _Through each other:_
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.

@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Love—Affections
 author: Joseph Louthan
 type: post
-date: 2012-11-08T00:00:00+00:00
+date: 2012-11-08
 url: /scriptures/thanksgiving-for-your-love-affections/
 categories:
   - Doxology

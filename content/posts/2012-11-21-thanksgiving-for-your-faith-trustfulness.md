@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Faith—Trustfulness
 author: Joseph Louthan
 type: post
-date: 2012-11-21T00:00:00+00:00
+date: 2012-11-21
 url: /scriptures/thanksgiving-for-your-faith-trustfulness/
 dsq_thread_id:
   - 1819069440

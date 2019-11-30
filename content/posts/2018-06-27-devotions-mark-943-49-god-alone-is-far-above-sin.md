@@ -6,9 +6,9 @@ date: 2018-06-27T12:00:18+00:00
 url: /family-devotions/mark-943-49-god-alone-is-far-above-sin/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/m15-086.jpg?resize=825%2C510
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <div>

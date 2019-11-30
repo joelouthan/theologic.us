@@ -2,14 +2,14 @@
 title: Mark 6:14-16 Jesus and John Are Not The Same
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2013-04-24
 url: /family-devotions/mark-614-16-jesus-and-john-are-not-the-same/
 dsq_thread_id:
   - 1841330768
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <img class="alignright size-thumbnail wp-image-2005" alt="stock-photo-jesus-christ-baptism-by-saint-john-the-baptist-on-an-old-stained-glass-window-decoration-unknown-58837234" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/stock-photo-jesus-christ-baptism-by-saint-john-the-baptist-on-an-old-stained-glass-window-decoration-unknown-58837234.jpg?resize=300%2C226" width="300" height="226" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/stock-photo-jesus-christ-baptism-by-saint-john-the-baptist-on-an-old-stained-glass-window-decoration-unknown-58837234.jpg?resize=300%2C226 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/stock-photo-jesus-christ-baptism-by-saint-john-the-baptist-on-an-old-stained-glass-window-decoration-unknown-58837234.jpg?resize=400%2C302 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/stock-photo-jesus-christ-baptism-by-saint-john-the-baptist-on-an-old-stained-glass-window-decoration-unknown-58837234.jpg?w=450 450w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />Mark 6:14-29 **King Herod heard of it, for Jesus&#8217; name had become known. Some said, “John the Baptist has been raised from the dead. That is why these miraculous powers are at work in him.” But others said, “He is Elijah.” And others said, “He is a prophet, like one of the prophets of old.” But when Herod heard of it, he said, “John, whom I beheaded, has been raised.” **
@@ -56,4 +56,4 @@ Romans 8:11 **If the Spirit of him who raised Jesus from the dead dwells in you
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.

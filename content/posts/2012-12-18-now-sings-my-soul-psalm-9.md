@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 9'
 author: Joseph Louthan
 type: post
-date: 2012-12-18T00:00:00+00:00
+date: 2012-12-18
 url: /prayers/now-sings-my-soul-psalm-9/
 categories:
   - Prayers

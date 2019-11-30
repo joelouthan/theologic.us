@@ -6,9 +6,9 @@ date: 2018-07-18T12:00:18+00:00
 url: /family-devotions/mark-1013-18-god-alone-receives-the-fatherless/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/iStock_000016119715_Small-805x380.jpg?resize=805%2C380
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <p class="p1">

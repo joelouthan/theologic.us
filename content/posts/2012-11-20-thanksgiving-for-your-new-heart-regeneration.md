@@ -2,7 +2,7 @@
 title: Thanksgiving for Your New Heart—Regeneration
 author: Joseph Louthan
 type: post
-date: 2012-11-20T00:00:00+00:00
+date: 2012-11-20
 url: /scriptures/thanksgiving-for-your-new-heart-regeneration/
 dsq_thread_id:
   - 1979814019

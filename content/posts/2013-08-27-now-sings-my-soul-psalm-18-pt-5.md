@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 18, Pt. 5'
 author: Joseph Louthan
 type: post
-date: 2013-08-27T00:00:00+00:00
+date: 2013-08-27
 url: /prayers/now-sings-my-soul-psalm-18-pt-5/
 categories:
   - Prayers

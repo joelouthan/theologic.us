@@ -2,14 +2,14 @@
 title: Mark 2:18-22 Jesus is the Bridegroom
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-08-22
 url: /family-devotions/mark-218-22-jesus-is-the-bridegroom/
 dsq_thread_id:
   - 1877313732
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 **[<img class="alignright size-medium wp-image-450" title="bride-wedding-frock-waiting" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg?resize=228%2C300" width="228" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg?resize=228%2C300 228w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg?w=300 300w" sizes="(max-width: 228px) 100vw, 228px" data-recalc-dims="1" />][1]Mark 2:18-22 ESV Now John&#8217;s disciples and the Pharisees were fasting. And people came and said to him, “Why do John&#8217;s disciples and the disciples of the Pharisees fast, but your disciples do not fast?” And Jesus said to them, “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. The days will come when the bridegroom is taken away from them, and then they will fast in that day. No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. And no one puts new wine into old wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”**
@@ -46,6 +46,6 @@ Matthew 28:18-20, Mark 16:14-20, John 21:15-19, Acts 1:6-8
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg

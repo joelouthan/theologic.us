@@ -2,14 +2,14 @@
 title: Mark 1:1 Jesus is the Good News
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-07-30
 url: /family-devotions/mark-1-1-jesus-is-the-good-news/
 dsq_thread_id:
   - 2217242727
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 **Mark 1:1 The beginning of the gospel of Jesus Christ, the Son of God.**
@@ -66,7 +66,7 @@ _What does it mean to be a son of God? Are you an adopted son of God? Are you hi
 
 If you believe and trust in Him, what He said, what His Son did, then yes, you are his little kid—forever.
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/Ox-8.jpg
  [2]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/athanasius.jpg

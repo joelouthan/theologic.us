@@ -2,14 +2,14 @@
 title: Mark 6:17-29 Jesus’ Cousin Dies
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2013-05-01
 url: /family-devotions/mark-617-29-jesus-cousin-dies/
 dsq_thread_id:
   - 1953529765
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <figure id="attachment_2035" style="width: 300px" class="wp-caption alignright"><img class="size-thumbnail wp-image-2035" alt="&quot;Salome with the Head of John the Baptist&quot; by Caravaggio" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=300%2C254" width="300" height="254" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=300%2C254 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=400%2C339 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=600%2C509 600w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?w=1190 1190w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><figcaption class="wp-caption-text">&#8220;Salome with the Head of John the Baptist&#8221; by Caravaggio</figcaption></figure>
@@ -64,4 +64,4 @@ For John came neither eating nor drinking, and they say, ‘He has a demon.’ T
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.

@@ -6,9 +6,9 @@ date: 2018-07-11T12:00:22+00:00
 url: /family-devotions/mark-101-12-god-alone-binds-us-to-one-another/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/06/Jamie-Hagiya-Rope-Pull.jpg?resize=825%2C510
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <p class="p1">

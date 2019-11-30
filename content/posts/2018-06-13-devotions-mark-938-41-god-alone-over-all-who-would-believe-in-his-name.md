@@ -6,9 +6,9 @@ date: 2018-06-13T12:00:34+00:00
 url: /family-devotions/mark-938-41-god-alone-over-all-who-would-believe-in-his-name/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/1493chicagochur_00000000902.jpg?resize=575%2C330
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <div>

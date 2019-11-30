@@ -2,14 +2,14 @@
 title: Mark 1:29-34 Jesus Heals the Sick
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-08-09
 url: /family-devotions/mark-129-34-jesus-heals-the-sick/
 dsq_thread_id:
   - 1796586378
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 **[<img class="alignright size-thumbnail wp-image-187" title="healing_sm" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?resize=150%2C150" width="150" height="150" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?resize=150%2C150 150w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon&#8217;s mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**
@@ -56,6 +56,6 @@ He is the image of the invisible God, the firstborn of all creation. For by him 
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg

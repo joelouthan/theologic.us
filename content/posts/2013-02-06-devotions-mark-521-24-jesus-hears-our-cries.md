@@ -2,14 +2,14 @@
 title: Mark 5:21-24 Jesus Hears Our Cries
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2013-02-06
 url: /family-devotions/mark-521-24-jesus-hears-our-cries/
 dsq_thread_id:
   - 1945003670
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <figure id="attachment_1821" style="width: 249px" class="wp-caption alignright">[<img class="size-medium wp-image-1821" alt="Raising of the Daughter of Jairus by Paolo Veronese" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/02/raising-of-the-daughter-of-jairus.jpg?resize=249%2C300" width="249" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/02/raising-of-the-daughter-of-jairus.jpg?resize=249%2C300 249w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/02/raising-of-the-daughter-of-jairus.jpg?w=415 415w" sizes="(max-width: 249px) 100vw, 249px" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Raising of the Daughter of Jairus by Paolo Veronese</figcaption></figure>
@@ -30,6 +30,6 @@ _5. Ask God for anything. More importantly, ask God for God._
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2013/02/raising-of-the-daughter-of-jairus.jpg

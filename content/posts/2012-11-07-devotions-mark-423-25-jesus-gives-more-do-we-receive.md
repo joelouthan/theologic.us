@@ -2,14 +2,14 @@
 title: Mark 4:23-25 Jesus Gives More, Do We Receive?
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-11-07
 url: /family-devotions/mark-423-25-jesus-gives-more-do-we-receive/
 dsq_thread_id:
   - 3432742593
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <figure id="attachment_1256" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1256" title="Mcfarland-Trout-Courtney-M" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/11/Mcfarland-Trout-Courtney-M.jpg?resize=300%2C200" width="300" height="200" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/11/Mcfarland-Trout-Courtney-M.jpg?resize=300%2C200 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/11/Mcfarland-Trout-Courtney-M.jpg?w=450 450w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">McFarland Trout. Photo by Courtney Michalik</figcaption></figure>
@@ -26,6 +26,6 @@ And I tell you, ask, and it will be given to you; seek, and you will find; knock
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: http://www.331fish.com/

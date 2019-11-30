@@ -2,12 +2,12 @@
 title: Mark 3:6-21 Jesus is on Mission from the Father
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-09-12
 url: /family-devotions/mark-36-21-jesus-is-on-mission-from-the-father/
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 _[<img class="alignright size-medium wp-image-590" title="man_christ" alt="" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg?resize=233%2C300" width="233" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg?resize=233%2C300 233w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg?w=403 403w" sizes="(max-width: 233px) 100vw, 233px" data-recalc-dims="1" />][1]People wanted to kill Christ_
@@ -70,6 +70,6 @@ Jesus had just one mission: from his Father with the power of His Spirit, he cam
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg

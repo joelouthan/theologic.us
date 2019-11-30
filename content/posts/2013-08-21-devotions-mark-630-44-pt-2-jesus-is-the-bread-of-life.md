@@ -2,14 +2,14 @@
 title: Mark 6:30-44 Pt. 2 Jesus is the Bread of Life
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2013-08-21
 url: /family-devotions/mark-630-44-pt-2-jesus-is-the-bread-of-life/
 dsq_thread_id:
   - 1899428572
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <img class="alignright size-thumbnail wp-image-2163" alt="the-bread-of-life" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?resize=256%2C300" width="256" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?resize=256%2C300 256w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?resize=341%2C400 341w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?w=353 353w" sizes="(max-width: 256px) 100vw, 256px" data-recalc-dims="1" />1. In the feeding of the five thousand, what was the purpose of the story?
@@ -24,7 +24,7 @@ Check and see what Apostle John says about this account:
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
 <div class="simple-footnotes">
   <p class="notes">

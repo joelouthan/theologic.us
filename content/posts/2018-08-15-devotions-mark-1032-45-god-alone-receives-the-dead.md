@@ -6,7 +6,7 @@ date: 2018-08-15T12:00:18+00:00
 url: /family-devotions/mark-1032-45-god-alone-receives-the-dead/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/08/AllCDCovers_gza_genius_liquid_swords_1995_retail_cd-back.jpg?resize=825%2C510
 categories:
-  - Family Devotions
+  - Devotions
 
 ---
 <p class="p1">

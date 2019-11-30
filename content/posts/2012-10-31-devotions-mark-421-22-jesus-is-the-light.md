@@ -2,14 +2,14 @@
 title: Mark 4:21-22 Jesus is the Light
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-10-31
 url: /family-devotions/mark-421-22-jesus-is-the-light/
 dsq_thread_id:
   - 1945006659
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 [<img class="alignright size-medium wp-image-1175" title="129-jesus-christ-light-of-the-world" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg?resize=206%2C300" width="206" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg?resize=206%2C300 206w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg?w=248 248w" sizes="(max-width: 206px) 100vw, 206px" data-recalc-dims="1" />][1]Mark 4:21-25** And he said to them, “Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? For nothing is hidden except to be made manifest; nor is anything secret except to come to light.**
@@ -44,6 +44,6 @@ Shines on sin so we can be saved. Matt 1:21;  1 John 2:1-6
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg

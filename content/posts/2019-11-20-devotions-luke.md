@@ -5,9 +5,9 @@ type: post
 publishDate: 2019-11-20
 url: /family-devos-luke/2019-11-20-family-devos-luke/
 categories:
-  - Theology
+  - Devotions
 tags:
-  - 'Family Devotions: Luke'
+  - 'Devotions: Luke'
 draft: false
 ---
 **Luke 1:8–10 Now while he was serving as priest before God when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense.**

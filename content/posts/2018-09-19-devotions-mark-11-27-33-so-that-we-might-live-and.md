@@ -7,7 +7,7 @@ url: /family-devotions/2018-09-19-mark-11-27-33-so-that-we-might-live-and.md/
 categories:
   - Devotions
 tags:
-  - 'Family Devotions: Mark'
+  - 'Devotions: Mark'
 draft: false
 ---
 

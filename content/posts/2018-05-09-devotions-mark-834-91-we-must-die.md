@@ -6,9 +6,9 @@ date: 2018-05-09T12:00:52+00:00
 url: /family-devotions/mark-834-91-we-must-die/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/4546540e1e8acad0408a8a1834bb43fd.jpg?resize=630%2C429
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 Mark 8:34-9:1 **And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel&#8217;s will save it. For what does it profit a man to gain the whole world and forfeit his soul? For what can a man give in return for his soul? For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels.”**

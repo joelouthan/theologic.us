@@ -6,9 +6,9 @@ date: 2018-08-22T12:00:52+00:00
 url: /family-devotions/mark-1046-52-god-alone-receives-those-who-cannot-see-him/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/08/night-vision-720x720.jpg?resize=720%2C480
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <p class="p1">

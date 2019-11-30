@@ -2,14 +2,14 @@
 title: Mark 1:21-28 Jesus Rules and Reigns Over Satan and Demons
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-08-08
 url: /family-devotions/mark-121-28-jesus-rules-and-reigns-over-satan-and-demons/
 dsq_thread_id:
   - 2510375566
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 **[<img class="alignright size-full wp-image-183" title="200px-The_Torment_of_Saint_Anthony_(Michelangelo)" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/200px-The_Torment_of_Saint_Anthony_Michelangelo.jpg?resize=200%2C269" width="200" height="269" data-recalc-dims="1" />][1]Mark 1:21-28 And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes.** 
@@ -30,7 +30,7 @@ _Do you believe everything He says?_
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
 _Who is the Lord over heaven?_
 

@@ -2,14 +2,14 @@
 title: Mark 1:14-15 Jesus Is The Good News Pt. 2
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-08-06
 url: /family-devotions/mark-114-15-jesus-is-the-good-news/
 dsq_thread_id:
   - 1849854562
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 [<img class="alignright size-thumbnail wp-image-174" title="feastofchristthekingpainting" alt="" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/feastofchristthekingpainting.jpg?resize=150%2C150" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/feastofchristthekingpainting.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/feastofchristthekingpainting.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]**Mark 1:14-15 Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”
@@ -34,6 +34,6 @@ _What does it mean to trust in God?_
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/feastofchristthekingpainting.jpg

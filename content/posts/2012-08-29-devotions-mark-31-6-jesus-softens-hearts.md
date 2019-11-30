@@ -2,14 +2,14 @@
 title: Mark 3:1-6 Jesus Softens Hearts
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-08-29
 url: /family-devotions/mark-31-6-jesus-softens-hearts/
 dsq_thread_id:
   - 1823673366
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 _[<img class="size-full wp-image-555 alignright" title="MosesPharaoh" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg?resize=300%2C342" width="300" height="342" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg?w=300 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg?resize=263%2C300 263w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]What does it mean to harden your heart?_
@@ -40,6 +40,6 @@ _Does God get mad and angry when people harden their own hearts?_
 
 **And the word of the LORD came to me: “Son of man, your brothers, even your brothers, your kinsmen, the whole house of Israel, all of them, are those of whom the inhabitants of Jerusalem have said, ‘Go far from the LORD; to us this land is given for a possession.’ Therefore say, ‘Thus says the Lord GOD: Though I removed them far off among the nations, and though I scattered them among the countries, yet I have been a sanctuary to them for a while in the countries where they have gone.’ Therefore say, ‘Thus says the Lord GOD: I will gather you from the peoples and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.’ And when they come there, they will remove from it all its detestable things and all its abominations. And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God. But as for those whose heart goes after their detestable things and their abominations, I will bring their deeds upon their own heads, declares the Lord GOD.”** (Ezekiel 11:14-21 ESV)
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg

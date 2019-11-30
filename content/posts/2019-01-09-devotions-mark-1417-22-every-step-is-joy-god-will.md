@@ -7,7 +7,7 @@ url: /family-devotions/2019-01-09-mark-1417-22-every-step-is-joy-god-will.md/
 categories:
   - Devotions
 tags:
-  - 'Family Devotions: Mark'
+  - 'Devotions: Mark'
 draft: false
 ---
 *What are Sacraments?*

@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 2'
 author: Joseph Louthan
 type: post
-date: 2012-10-09T00:00:00+00:00
+date: 2012-10-09
 url: /prayers/now-sings-my-soul-psalm-2/
 categories:
   - Prayers

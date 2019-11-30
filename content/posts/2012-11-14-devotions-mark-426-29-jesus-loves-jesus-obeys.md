@@ -2,14 +2,14 @@
 title: Mark 4:26-29 Jesus Loves; Jesus Obeys
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-11-14
 url: /family-devotions/mark-426-29-jesus-loves-jesus-obeys/
 dsq_thread_id:
   - 2589040812
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 [<img class="alignright size-full wp-image-741" title="sower-icon" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/sower-icon.jpg?resize=168%2C276" width="168" height="276" data-recalc-dims="1" />][1]Mark 4:26-29 **And he said, “The kingdom of God is as if a man should scatter seed on the ground. He sleeps and rises night and day, and the seed sprouts and grows; he knows not how. The earth produces by itself, first the blade, then the ear, then the full grain in the ear. But when the grain is ripe, at once he puts in the sickle, because the harvest has come.”**
@@ -40,6 +40,6 @@ _Retell the story of David&#8217;s life and then list out his desires in Psalm 1
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/sower-icon.jpg

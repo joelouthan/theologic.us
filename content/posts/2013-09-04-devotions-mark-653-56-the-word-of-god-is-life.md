@@ -2,14 +2,14 @@
 title: Mark 6:53-56 The Word of God is Life
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2013-09-04
 url: /family-devotions/mark-653-56-the-word-of-god-is-life/
 dsq_thread_id:
   - 1766125714
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 1. _When we hardened our hearts against God&#8217;s love (we refuse to hear what God has to say, we refuse to believe what God has done), does God still love us?_
@@ -34,6 +34,6 @@ Romans 10:17 **So faith comes from hearing, and hearing through the word of Chri
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2013/09/icon_christ_woman_issue_blood_detail.jpg

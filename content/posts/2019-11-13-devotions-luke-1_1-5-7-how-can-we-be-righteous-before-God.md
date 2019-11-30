@@ -5,9 +5,9 @@ type: post
 publishDate: 2019-11-13
 url: /family-devos-luke/2019-11-13-family-devos-luke/
 categories:
-  - Theology
+  - Devotions
 tags:
-  - 'Family Devotions: Luke'
+  - 'Devotions: Luke'
 draft: false
 ---
 **Luke 1:5–7 In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. But they had no child, because Elizabeth was barren, and both were advanced in years.**

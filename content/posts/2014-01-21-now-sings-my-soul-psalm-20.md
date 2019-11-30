@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul: Psalm 20'
 author: Joseph Louthan
 type: post
-date: 2014-01-21T00:00:00+00:00
+date: 2014-01-21
 url: /prayers/now-sings-my-soul-psalm-20/
 categories:
   - Prayers

@@ -5,9 +5,9 @@ type: post
 publishDate: 2019-12-25
 url: /family-devos-luke/2019-12-25-family-devos-luke/
 categories:
-  - Theology
+  - Devotions
 tags:
-  - 'Family Devotions: Luke'
+  - 'Devotions: Luke'
 draft: false
 ---
 

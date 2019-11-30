@@ -2,7 +2,7 @@
 title: Thanksgiving for Your Holiness—High and Lifted Up
 author: Joseph Louthan
 type: post
-date: 2012-11-06T00:00:00+00:00
+date: 2012-11-06
 url: /scriptures/thanksgiving-for-your-holiness-high-and-lifted-up/
 dsq_thread_id:
   - 1882831146

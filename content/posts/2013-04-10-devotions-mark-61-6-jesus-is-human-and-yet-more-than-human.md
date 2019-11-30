@@ -2,14 +2,14 @@
 title: Mark 6:1-6 Jesus Is Human and Yet, More Than Human
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2013-04-10
 url: /family-devotions/mark-61-6-jesus-is-human-and-yet-more-than-human/
 dsq_thread_id:
   - 1793045438
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 Mark 6:1-6 **He went away from there and came to his hometown, and his disciples followed him. And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, “Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?” And they took offense at him. And Jesus said to them, “A prophet is not without honor, except in his hometown and among his relatives and in his own household.” And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. And he marveled because of their unbelief.**
@@ -36,6 +36,6 @@ Mark 1:21-28 **And they went into Capernaum, and immediately on the Sabbath he e
 
 &nbsp;
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/jesus-teaching-003.png

@@ -8,9 +8,9 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/04/maxres
 dsq_thread_id:
   - 6608327622
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 <p class="p1">

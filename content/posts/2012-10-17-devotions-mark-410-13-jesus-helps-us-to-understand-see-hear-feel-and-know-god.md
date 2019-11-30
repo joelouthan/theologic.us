@@ -2,14 +2,14 @@
 title: Mark 4:10-13 Jesus Helps Us to Understand, See, Hear, Feel, and Know God
 author: Joe Louthan
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-10-17
 url: /family-devotions/mark-410-13-jesus-helps-us-to-understand-see-hear-feel-and-know-god/
 dsq_thread_id:
   - 3115835850
 categories:
-  - Family Devotions
+  - Devotions
 tags:
-  - The Gospel of Mark
+  - 'Devotions: Mark'
 
 ---
 [<img class="alignright size-medium wp-image-979" title="dis" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg?resize=204%2C300" width="204" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg?resize=204%2C300 204w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg?w=220 220w" sizes="(max-width: 204px) 100vw, 204px" data-recalc-dims="1" />][1]Mark 4:10-13 **And when he was alone, those around him with the twelve asked him about the parables. And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables, so that
@@ -52,6 +52,6 @@ And he said to them, “Do you not understand this parable? How then will you un
 
 (Acts 2:1-13 cf. Luke 24:49)
 
-**Series**: I have made mentioned of our family devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for family devotions.
+**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg
