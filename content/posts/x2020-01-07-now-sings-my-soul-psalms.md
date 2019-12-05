@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 29'
+title: 'Now Sings My Soul: Psalm 27:7-10'
 author: Joseph Louthan
 type: post
 publishDate: 2020-01-07
@@ -15,38 +15,8 @@ draft: false
 
 </pre>
 
-<pre>
-    English Standard Version with Strongs numbers.: Psalms Chapter 29
+(Psalms 27:7-10)  Hear, O Lord, when I cry aloud; be gracious to me and answer me!  You have said, Seek my face. My heart says to you, Your face, Lord, do I seek.  Hide not your face from me. Turn not your servant away in anger, O you who have been my help. Cast me not off; forsake me not, O God of my salvation!  For my father and my mother have forsaken me, but the Lord will take me in.  
 
-  Ascribe to the Lord, O heavenly beings,
-ascribe to the Lord glory and strength.
- Ascribe to the Lord the glory due his name;
-worship the Lord in the splendor of holiness.
- 
-  The voice of the Lord is over the waters;
-the God of glory thunders,
-the Lord, over many waters.
- The voice of the Lord is powerful;
-the voice of the Lord is full of majesty.
- 
-  The voice of the Lord breaks the cedars;
-the Lord breaks the cedars of Lebanon.
- He makes Lebanon to skip like a calf,
-and Sirion like a young wild ox.
- 
-  The voice of the Lord flashes forth flames of fire.
- The voice of the Lord shakes the wilderness;
-the Lord shakes the wilderness of Kadesh.
- 
-  The voice of the Lord makes the deer give birth
-and strips the forests bare,
-and in his temple all cry, Glory!
- 
-  The Lord sits enthroned over the flood;
-the Lord sits enthroned as king forever.
- May the Lord give strength to his people!
-May the Lord bless his people with peace!
- 
- 
+
 </pre>
 
