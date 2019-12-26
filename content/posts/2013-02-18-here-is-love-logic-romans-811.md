@@ -34,7 +34,7 @@ So, if I change my mind about my sin and about sin itself, and turn to God, I wi
 
 **And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. What father among you, if his son asks for a fish, will instead of a fish give him a serpent; or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!”** [<sup>4</sup>][5]{#return-note-1868-4.simple-footnote}****
 
-Wait a second! What about blaspheming the Holy Spirit? Christ said that blaspheming the Holy Spirit is an unforgivable sin. (Matthew 12:31-32) Is it possible that I blasphemed the Holy Spirit?
+Wait a second! What about blaspheming the Holy Spirit? Christ said that blaspheming the Holy Spirit is an unforgivable sin. (Matthew 12:31-32] Is it possible that I blasphemed the Holy Spirit?
 
 **I thank him who has given me strength, Christ Jesus our Lord, because he judged me faithful, appointing me to his service, though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief, and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus.** [<sup>5</sup>][6]{#return-note-1868-5.simple-footnote}****
 

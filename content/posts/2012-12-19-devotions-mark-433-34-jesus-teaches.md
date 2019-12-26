@@ -34,7 +34,7 @@ _Does God explains to us what the Bible says? How does he do it?_
 
 _Through God:_
   
-Father wills (Heb 6:1-3)
+Father wills (Heb 6:1-3]
   
 Son spoke (John 1; 2 Tim 3:16-17)
   

@@ -37,7 +37,7 @@ Jesus Christ stood before his blasphemous people—people who cried and rejoiced
 
 The rational answer is clear. Yet our sinful hearts pick the comforts of sin every time.
 
-In the Old Testament, Aaron stood before the people of Israel and they looked up this live goat. Aaron runs through all of their sins, all of their follies, all of their iniquities and all of their transgressions. With that massive, terrible list, Aaron touches the head of the goat and pushes it through the crowds and directs the goat into the vastness of the wilderness, always lost, always running in freedom and never to be seen again. (Leviticus 16:21-22)
+In the Old Testament, Aaron stood before the people of Israel and they looked up this live goat. Aaron runs through all of their sins, all of their follies, all of their iniquities and all of their transgressions. With that massive, terrible list, Aaron touches the head of the goat and pushes it through the crowds and directs the goat into the vastness of the wilderness, always lost, always running in freedom and never to be seen again. (Leviticus 16:21-22]
 
 Barabbas was presented as the culmination of the best that humanity has to offer as our depravity and wickedness stared us straight in the face. We don’t want better. We don’t want perfection. We want more of our wicked hearts desires. We want not His holiness, His forgiveness, and His love. We want more of what this world can offer.
 

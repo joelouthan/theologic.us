@@ -78,7 +78,7 @@ tags:
 </p>
 
 <p class="p1">
-  <b>God’s glory in all-justice </b>Luke 9:26-27 For whoever is ashamed of me and of my words, of him will the Son of Man be ashamed when he comes in his glory and the glory of the Father and of the holy angels. But I tell you truly, there are some standing here who will not taste death until they see the kingdom of God.” (See Revelation 19:11–21)
+  <b>God’s glory in all-justice </b>Luke 9:26-27 For whoever is ashamed of me and of my words, of him will the Son of Man be ashamed when he comes in his glory and the glory of the Father and of the holy angels. But I tell you truly, there are some standing here who will not taste death until they see the kingdom of God.” (See Revelation 19:11–21]
 </p>
 
 <p class="p1">

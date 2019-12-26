@@ -34,7 +34,7 @@ And he said to them, “Do you not understand this parable? How then will you un
 
 **     Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God.**
 
-(1 Corinthians 2:12 cf. 1 Cor 3:18-23, Heb 6:1-3)
+(1 Corinthians 2:12 cf. 1 Cor 3:18-23, Heb 6:1-3]
 
 &nbsp;
 

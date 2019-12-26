@@ -40,6 +40,6 @@ _Who is the Lord over hell?_
 
 Satan is not in charge of anything except demons. Christ is charge of everything. When Christ died on the cross, Satan, demons, hell, sin and death were defeated at that moment.
 
-**Parents**: This is where we talk about the supremacy of God. We do not live in a dualistic universe where the forces of good battle against the force of evil. We live in the kingdom of God where Christ has claimed victory over Satan, death (Heb 2:14), demons (Col 2:15), hell (Phil 2:9-11) and sin (Heb 7:27).
+**Parents**: This is where we talk about the supremacy of God. We do not live in a dualistic universe where the forces of good battle against the force of evil. We live in the kingdom of God where Christ has claimed victory over Satan, death (Heb 2:14], demons (Col 2:15), hell (Phil 2:9-11] and sin (Heb 7:27).
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/200px-The_Torment_of_Saint_Anthony_Michelangelo.jpg

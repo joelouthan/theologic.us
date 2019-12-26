@@ -32,7 +32,7 @@ tags:
 </p>
 
 <p class="p1">
-  <span class="s1">4. What is marriage suppose to be about? (Ephesians 5:21-33) </span>
+  <span class="s1">4. What is marriage suppose to be about? (Ephesians 5:21-33] </span>
 </p>
 
 <p class="p1">

@@ -32,7 +32,7 @@ _What in the heck does this story mean?_
 
 &nbsp;
 
-_Why do you think Jesus, who taught as one with authority (Mark 1:22), used parables?_
+_Why do you think Jesus, who taught as one with authority (Mark 1:22], used parables?_
 
 &nbsp;
 

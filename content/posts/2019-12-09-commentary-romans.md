@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:5-7 Who Are We? (Part 2)'
+title: 'Romans 1:5-7 Who Are We? [Part 2]'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-09

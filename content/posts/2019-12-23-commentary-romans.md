@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:8-15 Who Are We? (Part 4)'
+title: 'Romans 1:8-15 Who Are We? [Part 4]'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-23
@@ -51,7 +51,7 @@ Find yourself a church that proclaims the gospel of Christ week in and week out.
 
 Find yourself a church that does preach and serve them faithfully. Whatever you can do and whatever they need. **Matthew 9:37-38 Then he said to his disciples, The harvest is plentiful, but the laborers are few;  therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.** That is how you can serve with your spirit in the gospel of His Son.   
 
-**That without ceasing I mention you  always in my prayers** - Fourth, **pray without ceasing... for this is the will of God in Christ Jesus concerning you** (see I Thessalonians 5:12-22). Let's be honest here: can any of us pray all the time? First of all, have you ever tried? I know, I know: our jobs, our kids, our lives plus whatever we got to keep ourselves busy on top of whatever we got to keep ourselves numbed out to the harsh realities of our lives and this world. But let me asked you, my loved ones: have you ever even tried praying all the time? Perhaps you have been blessed with the gift of intercession and prayers. But to the rest of us, we get to commune and dwell and sit with God Most High. What would your life look like if sitting alone, sitting still, and sitting quietly with God took precedence over the busyiness of our everyday lives. What if, for every minute you binge watched a superhero movie (me), fitness YouTubers (me), or playing some game on your phone (also me), also spend another minute just sititing with God? What would your life look like then?
+**That without ceasing I mention you  always in my prayers** - Fourth, **pray without ceasing... for this is the will of God in Christ Jesus concerning you** (see I Thessalonians 5:12-22]. Let's be honest here: can any of us pray all the time? First of all, have you ever tried? I know, I know: our jobs, our kids, our lives plus whatever we got to keep ourselves busy on top of whatever we got to keep ourselves numbed out to the harsh realities of our lives and this world. But let me asked you, my loved ones: have you ever even tried praying all the time? Perhaps you have been blessed with the gift of intercession and prayers. But to the rest of us, we get to commune and dwell and sit with God Most High. What would your life look like if sitting alone, sitting still, and sitting quietly with God took precedence over the busyiness of our everyday lives. What if, for every minute you binge watched a superhero movie (me), fitness YouTubers (me), or playing some game on your phone (also me), also spend another minute just sititing with God? What would your life look like then?
 
 I don't care how you start or what it looks like, but start there.
 

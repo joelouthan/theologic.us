@@ -87,7 +87,7 @@ Never! God loves us too much to simply leave us alone.
 
 John 3:16a “For God so loved the world&#8230;
 
-If God truly loves the world, how does he claim to have hated Esau (Malachi 1:2-3 cf. Romans 9:13)? Is that a contradiction? Absolutely not. I am fully convinced that God loved Esau when Esau was alive on the earth. But as soon as he perished, he was judged by the Just and Holy God:
+If God truly loves the world, how does he claim to have hated Esau (Malachi 1:2-3 cf. Romans 9:13]? Is that a contradiction? Absolutely not. I am fully convinced that God loved Esau when Esau was alive on the earth. But as soon as he perished, he was judged by the Just and Holy God:
 
 Hebrews 9:27 And just as it is appointed for man to die once, and after that comes judgment,
 

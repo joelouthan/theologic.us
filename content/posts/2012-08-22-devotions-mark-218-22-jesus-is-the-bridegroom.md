@@ -32,7 +32,7 @@ _4. How should we wait for Jesus?_
 
 Until we see Christ face to face, what should we do?
 
-Fast (Esther 4:16, Ezra 9:5, Luke 18:9-14)
+Fast (Esther 4:16, Ezra 9:5, Luke 18:9-14]
   
 Pray (Matthew 6:5-15)
   

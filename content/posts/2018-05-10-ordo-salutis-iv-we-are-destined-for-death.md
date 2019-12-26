@@ -14,7 +14,7 @@ tags:
 </p>
 
 <p class="p1">
-  <span class="s1">If you ever speak about the doctrine of election and predestination, you are sure to get that question asked.  Numerous times have I been asked this and numerous times the answer of &#8220;his glory (Isaiah 48:11, Proverbs 25:2) and his pleasure (Isaiah 48:11 cf. Philippians 2:13)&#8221; is simply not good enough.  Furthermore, to answer that &#8220;the secret things belong to the LORD (Deuteronomy 29:29)&#8221; is merely a copout to most people.  Fair enough. </span>
+  <span class="s1">If you ever speak about the doctrine of election and predestination, you are sure to get that question asked.  Numerous times have I been asked this and numerous times the answer of &#8220;his glory (Isaiah 48:11, Proverbs 25:2] and his pleasure (Isaiah 48:11 cf. Philippians 2:13]&#8221; is simply not good enough.  Furthermore, to answer that &#8220;the secret things belong to the LORD (Deuteronomy 29:29)&#8221; is merely a copout to most people.  Fair enough. </span>
 </p>
 
 <p class="p1">
@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p class="p1">
-  <span class="s1">I can sit and pour out every single passage where the elect, election, and predestination was spoken about in the New Testament.  I can sit and point out in all the Old Testament and New Testament stories where there was not one single person who was out looking for God but instead, God found them (Romans 3:10-12).  The Bible along with every single store, television show, play, opera and movie ever always shows the greater meta-narrative: creation, fall, redemption, restoration.  Yet, when the Bible speaks of certain individuals who were saved by God, it continuously shows one thing to be true: we were apart from God, we were not seeking after him and yet God saves. </span>
+  <span class="s1">I can sit and pour out every single passage where the elect, election, and predestination was spoken about in the New Testament.  I can sit and point out in all the Old Testament and New Testament stories where there was not one single person who was out looking for God but instead, God found them (Romans 3:10-12].  The Bible along with every single store, television show, play, opera and movie ever always shows the greater meta-narrative: creation, fall, redemption, restoration.  Yet, when the Bible speaks of certain individuals who were saved by God, it continuously shows one thing to be true: we were apart from God, we were not seeking after him and yet God saves. </span>
 </p>
 
 <p class="p1">
@@ -70,15 +70,15 @@ tags:
 </p>
 
 <p class="p1">
-  <span class="s1">And Exodus 22:20 speaks of it clearly: If you love and worship something other than the Creator God (Romans 8:18-32), you are headed for destruction. </span>
+  <span class="s1">And Exodus 22:20 speaks of it clearly: If you love and worship something other than the Creator God (Romans 8:18-32], you are headed for destruction. </span>
 </p>
 
 <p class="p1">
-  <span class="s1">Keep moving through the Old Testament.  When we get to Deuteronomy and Joshua, we see that God has commanded the Israelites to devoted entire cities to utter destruction due to God&#8217;s righteous judgment.  Again, while &#8220;innocent before proven guilty&#8221; is just and merciful among mortals, limited in knowledge and wisdom, in the eyes of God we all have sinned and fallen short of his glory (Romans 6:23) and the wages we earn for fallen short is death (Romans 6:23 cf. Genesis 2:16). </span>
+  <span class="s1">Keep moving through the Old Testament.  When we get to Deuteronomy and Joshua, we see that God has commanded the Israelites to devoted entire cities to utter destruction due to God&#8217;s righteous judgment.  Again, while &#8220;innocent before proven guilty&#8221; is just and merciful among mortals, limited in knowledge and wisdom, in the eyes of God we all have sinned and fallen short of his glory (Romans 6:23] and the wages we earn for fallen short is death (Romans 6:23 cf. Genesis 2:16). </span>
 </p>
 
 <p class="p1">
-  <span class="s1">It is hard for us to imagine or understand how every single man, woman, and child can be condemned to death when we have no way of knowing if they lived good and decent lives.  What if they were helpful, kind and understanding?  What if they lived in peace and love?  What if they were basically good?  We think we are good and the Lord gets to the heart of the matter (Proverbs 16:2)  Yet, those who believe in God know that none of us are good, no, not even one (Romans 3:10-12).  We may have to undo our American upbringing when we approach the throne of God and begin to study the nature of God.  This does not mean we condemn others for judgment is still on God.  That doesn&#8217;t mean we seek out revenge for those who have harmed us because revenge is of the Lord.  That doesn&#8217;t mean we stop bringing evildoers to justice, for God makes this abundantly clear that we are to submit to the authorities placed over us for they are servants of God&#8217;s justice (Romans 13:1-7). </span>
+  <span class="s1">It is hard for us to imagine or understand how every single man, woman, and child can be condemned to death when we have no way of knowing if they lived good and decent lives.  What if they were helpful, kind and understanding?  What if they lived in peace and love?  What if they were basically good?  We think we are good and the Lord gets to the heart of the matter (Proverbs 16:2]  Yet, those who believe in God know that none of us are good, no, not even one (Romans 3:10-12].  We may have to undo our American upbringing when we approach the throne of God and begin to study the nature of God.  This does not mean we condemn others for judgment is still on God.  That doesn&#8217;t mean we seek out revenge for those who have harmed us because revenge is of the Lord.  That doesn&#8217;t mean we stop bringing evildoers to justice, for God makes this abundantly clear that we are to submit to the authorities placed over us for they are servants of God&#8217;s justice (Romans 13:1-7). </span>
 </p>
 
 <p class="p1">

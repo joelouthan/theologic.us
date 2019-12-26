@@ -20,7 +20,7 @@ However, when I read the New Testament, I cannot be so quick to dismiss or downp
 
 All that to say: when I read this passage in Deuteronomy, I cannot dismiss this as some obscure Jewish fact. This passage applies to me.
 
-**For you are a people holy to the LORD your God** &#8211; This is simple enough. I am holy because God is holy. (1 Peter 1:16; Leviticus 11:44)
+**For you are a people holy to the LORD your God** &#8211; This is simple enough. I am holy because God is holy. (1 Peter 1:16; Leviticus 11:44]
 
 **The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples**. &#8211; Of course, I am just one person. I am a born sinner. My family name is not that great. My city and country are not supreme over all historical cities and empires. I am but a mere mortal—not the strongest, not the richest, not that wise, and not that smart. Only because of Him for him by Him to Him that **out of all the peoples who are on the face of the earth**, He has chosen me. While I was a sinner and I kept on dying and kept on sinning, Christ loved me and gave his life up for me. I have no room to boast. Salvation is of the Lord alone and He is the mighty one to save. (Romans 5:12-21; Jeremiah 9:23-24; Romans 5:8; Galatians 2:20; Jonah 2:9; Zephaniah 3:17)
 
@@ -32,7 +32,7 @@ All that to say: when I read this passage in Deuteronomy, I cannot dismiss this 
 
 **from the hand of Pharaoh king of Egypt.** – Jesus conquered, defeated, and reigns supreme over Satan, demons, sin, hell, and death. (Colossians 2:15; Hebrews 2:14-18; Romans 8:28-39)
 
-Way before I was even born, before the heavens were made manifest, the earth was formed, the seas filled and the mountains put into place, He saw my destiny of disease, destruction, decay, and death and would have none of that. In His infinite power and might, He _predestined_ me to life with Him, fullness of joy in His presence, and unlimited pleasures forevermore. (Psalm 90:2; Ephesians 2:1-10; Psalm 16:11)
+Way before I was even born, before the heavens were made manifest, the earth was formed, the seas filled and the mountains put into place, He saw my destiny of disease, destruction, decay, and death and would have none of that. In His infinite power and might, He _predestined_ me to life with Him, fullness of joy in His presence, and unlimited pleasures forevermore. (Psalm 90:2; Ephesians 2:1-10; Psalm 16:11]
 
 Simply put, the greatest love ever known is not the possibility of salvation by God but that in God _actually_ saves. That guaranteed salvation of love is wrapped up simply and completely in one little verse:
 

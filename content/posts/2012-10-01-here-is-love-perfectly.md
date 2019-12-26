@@ -22,7 +22,7 @@ Did He die for the mere possibility that you might be saved? If for one moment y
 
 That cannot be true.
 
-Did He die for the entire world so that the entire world would be saved? It is true that the Apostle John uses the phrase ‘the world’ and ‘the whole world’ quite often when it comes to saving with verses like John 3:16, 1 John 2:2 and 1 John 4:14 come to mind. Yet, when you go back and look at the over context of the verses (chapters of John 3, 1 John 2, and 1 John 4), you can clearly see that John did not dare imply that _all_ would be saved, especially to the fact that Christ said himself, “**Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.**” (Matthew 7:13-14)
+Did He die for the entire world so that the entire world would be saved? It is true that the Apostle John uses the phrase ‘the world’ and ‘the whole world’ quite often when it comes to saving with verses like John 3:16, 1 John 2:2 and 1 John 4:14 come to mind. Yet, when you go back and look at the over context of the verses (chapters of John 3, 1 John 2, and 1 John 4], you can clearly see that John did not dare imply that _all_ would be saved, especially to the fact that Christ said himself, “**Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.**” (Matthew 7:13-14]
 
 With the ‘many’ and ‘few’ in mind, look how careful John is with noting Christ’s salvation:
 

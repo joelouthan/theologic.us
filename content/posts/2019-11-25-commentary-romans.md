@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:2-4 Who is God? (Part 2)'
+title: 'Romans 1:2-4 Who is God? [Part 2]'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-25
@@ -80,7 +80,7 @@ Nine, Jesus Christ **was declared to be the Son of God.** We need no other words
 
 Paul further demonstrates this in **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
 
-Ten, Jesus Christ coming, lived, cared, ministered, crucified, rose, and ascended **in power according to the Spirit of holiness.**  God has given Jesus His Spirit without measure so that Christ could utter the words of God (John 3:34). 
+Ten, Jesus Christ coming, lived, cared, ministered, crucified, rose, and ascended **in power according to the Spirit of holiness.**  God has given Jesus His Spirit without measure so that Christ could utter the words of God (John 3:34]. 
 
 Furthermore, Christ rose again only by the power of the Holy Spirit. **Romans 8:11 If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.**
 

@@ -23,7 +23,7 @@ _If we are hungry, we get food. But sometimes, we want not just slop. We can eat
 
 3. What are some of your desires?
 
-4. Where does desires come from? How big is that desire? (Genesis 1-3; Ecclesiastes 3:11)
+4. Where does desires come from? How big is that desire? (Genesis 1-3; Ecclesiastes 3:11]
 
 5. If you eat once, will you get hungry again? If you desire lots of money, and you get lots of money, do you think you will stop wanting money?
 

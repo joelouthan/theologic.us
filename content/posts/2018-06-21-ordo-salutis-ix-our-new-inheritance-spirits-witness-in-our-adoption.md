@@ -246,7 +246,7 @@ tags:
 </p>
 
 <p class="p1">
-  To make a long story, short, I contended that we must first have a new heart in order to choose God, have faith in Christ, and obey His commands by the power of the Holy Spirit. I argued, without God, we cannot choose God. I pointed to this verse (backed by John 1:12-13)
+  To make a long story, short, I contended that we must first have a new heart in order to choose God, have faith in Christ, and obey His commands by the power of the Holy Spirit. I argued, without God, we cannot choose God. I pointed to this verse (backed by John 1:12-13]
 </p>
 
 <p class="p1">

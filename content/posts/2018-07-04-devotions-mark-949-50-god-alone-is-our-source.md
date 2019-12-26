@@ -19,4 +19,4 @@ tags:
   2. What is our source of life?
   3. What does life look like when you are plugged into yourself versus being &#8220;plugged&#8221; into God? In other words, what are your thoughts like when you just think about yourself or focus on yourself or trying to figure out by yourself?
   4. What is our source of peace?
-  5. What do you think happens when we all focus on God and get life from him rather than focus on ourselves and get life from us? (Read Genesis 3)
+  5. What do you think happens when we all focus on God and get life from him rather than focus on ourselves and get life from us? (Read Genesis 3]

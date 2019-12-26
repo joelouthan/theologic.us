@@ -32,7 +32,7 @@ _Were our bodies suppose to get hurt? Were we suppose to get sick?_
   
 **Genesis 2:31a And God saw everything that he had made, and behold, it was very good…**
 
-_Why do we get sick? Why do we get bad dreams? Why does our tummies hurt? (Genesis 3)_
+_Why do we get sick? Why do we get bad dreams? Why does our tummies hurt? (Genesis 3]_
 
 _Who comes to heal the sick, take away our hurts and give us brand new life?_
   

@@ -1,5 +1,5 @@
 ---
-title: 'Mark 1:1 The Good News of God (Part 1)'
+title: 'Mark 1:1 The Good News of God [Part 1]'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-26
@@ -56,3 +56,7 @@ Let's start with answering the question, "*Who is God?*". Now, without turnning 
   [^1]: John Stott. *The Cross of Christ*. 20th Anniversary ed. IVP Books, 2006. 105-108.
 
 - **eternal** - Before the creation of space and time, God was there. After sin and death and sadness are no more, God will still be there. **Psalms 90:2 Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God.**  Jesus declares: **Revelation 1:8 I am the Alpha and the Omega, says the Lord God, who is and who was and who is to come, the Almighty.**  
+
+We should reflect on who God is and rejoice in his glory. He alone is worthy to be praised. That means that nothing else: not our spouses, our churches, our family, our jobs, our money--nothing at all-- can be given thanks and praised because it is all His hand.
+
+Give thanks to God for He is good!
