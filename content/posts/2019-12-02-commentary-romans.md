@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:5-7 Who Are We? [Part 1]'
+title: 'Romans 1:5-7 Who Are We? We Are Far From God'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-02

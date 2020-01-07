@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:1 Who is God?'
+title: 'Romans 1:1 Who is God? God Saves'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-18
@@ -51,7 +51,6 @@ Which leads me to my fourth point about God: that not just with Paul but God set
 Ah, that is is where the gospel comes in. That is where the good news of God. Let me put it this way: The Son of God had to become a man so that humankind would have to right to become sons of God. (Give credit to Athaniusus and C.S. Lewis for that.) Even more straightforward than that: God saves sinners. (Again, that quote belongs to J.I. Packer.) And if that isn’t enough for you, keep reading. Paul is going to breakdown all the nuances.
 
 So far, what we have learned of God is that:  
-- God is restricted to his creation  
 - God rules and reigns overall  
 - God says only truth  
 - God is the only one who saves and will save despite the person whom he is saving.
