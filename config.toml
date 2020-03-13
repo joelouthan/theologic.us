@@ -27,6 +27,10 @@ theme = "cupper"
     url = "/posts/"
     weight = 1
   [[menu.nav]]
+    name = "Recent"
+    url = "/tags/testimony-a-life-of-compromise/"
+    weight = 1
+  [[menu.nav]]
     name = "Commentary: Romans"
     url = "/tags/commentary-romans/"
     weight = 2
