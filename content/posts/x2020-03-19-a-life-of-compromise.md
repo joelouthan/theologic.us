@@ -8,6 +8,6 @@ categories:
   - Testimony
 tags:
   - 'Testimony: A Life of Compromise'
-draft: false
+draft: true
 ---
 
