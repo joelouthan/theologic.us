@@ -26,10 +26,10 @@ theme = "cupper-theo"
     name = "Recent"
     url = "/posts/"
     weight = 1
-#  [[menu.nav]]
-#    name = "Testimony"
-#    url = "/tags/testimony-a-life-of-compromise/"
-#    weight = 1
+  [[menu.nav]]
+    name = "Testimony"
+    url = "/tags/testimony-a-life-of-compromise/"
+    weight = 1
   [[menu.nav]]
     name = "Commentary: Romans"
     url = "/tags/commentary-romans/"
