@@ -3,10 +3,10 @@ title: 'A Life of Compromise: Ch '
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-24
-url: /a-life-of-compromise/2020-03-24-a-life-of-compromise/
+url: /memoir/2020-03-24-a-life-of-compromise/
 categories:
-  - Testimony
+  - Memoir
 tags:
-  - 'Testimony: A Life of Compromise'
+  - 'Memoir: A Life of Compromise'
 draft: true
 ---
