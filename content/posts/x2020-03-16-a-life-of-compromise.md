@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise: Ch 1 How Did I Get Here?'
+title: 'A Life of Compromise, Ch x: How Did I Get Here?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-16
@@ -7,7 +7,7 @@ url: /memoir/2020-03-16-a-life-of-compromise-01/
 categories:
   - Memoir
 tags:
-  - 'Memoir: A Life of Compromise'
+  - 'A Life of Compromise'
 draft: false
 ---
 

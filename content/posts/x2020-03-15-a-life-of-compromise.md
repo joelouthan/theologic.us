@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise: Prelude'
+title: 'A Life of Compromise, A Prelude'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-15
@@ -7,7 +7,7 @@ url: /memoir/2020-03-15-a-life-of-compromise/
 categories:
   - Memoir
 tags:
-  - 'Memoir: A Life of Compromise'
+  - 'A Life of Compromise'
 draft: false
 ---
 
