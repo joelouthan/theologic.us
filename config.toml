@@ -28,7 +28,7 @@ theme = "cupper-theo"
     weight = 1
   [[menu.nav]]
     name = "Memoir: A Life of Compromise"
-    url = "/tags/memoir-a-life-of-compromise/"
+    url = "/tags/a-life-of-compromise/"
     weight = 2
   [[menu.nav]]
     name = "Here is Love: Exposition in Romans 8"
