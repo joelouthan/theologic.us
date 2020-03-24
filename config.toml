@@ -29,23 +29,23 @@ theme = "cupper-theo"
   [[menu.nav]]
     name = "Memoir: A Life of Compromise"
     url = "/tags/memoir-a-life-of-compromise/"
-    weight = 1
+    weight = 2
   [[menu.nav]]
     name = "Commentary: Romans"
     url = "/tags/commentary-romans/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     name = "Commentary: Mark"
     url = "/tags/commentary-mark/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     name = "Here is Love: Exposition in Romans 8"
     url = "/tags/here-is-love/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     name = "Devotions: Mark"
     url = "/tags/devotions-mark/"
-    weight = 3
+    weight = 4
   [[menu.nav]]
     name = "Devotions: Luke"
     url = "/tags/devotions-luke/"
@@ -53,7 +53,7 @@ theme = "cupper-theo"
   [[menu.nav]]
     name = "Now Sings My Soul: Prayers based on the Psalms"
     url = "/tags/now-sings-my-soul-psalms/"
-    weight = 5
+    weight = 4
   [[menu.nav]]
     name = "The Lord's Prayer"
     url = "/tags/the-lords-prayer/"
@@ -61,7 +61,7 @@ theme = "cupper-theo"
   [[menu.nav]]
     name = "Ordo Salutis: Devotions on Soteriology"
     url = "/tags/ordo-salutis/"
-    weight = 9
+    weight = 5
   [[menu.nav]]
     name = "Thanksgiving: Scriptural Reference on Thanks"
     url = "/tags/thanksgiving/"

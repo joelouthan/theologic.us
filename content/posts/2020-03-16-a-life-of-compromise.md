@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise, Ch x: How Did I Get Here?'
+title: 'A Life of Compromise, Ch 1: How Did I Get Here?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-16
