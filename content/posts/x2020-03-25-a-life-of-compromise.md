@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise, Ch 2: Why Do I Remember Everything?'
+title: 'DRAFT: A Life of Compromise, Ch 2: Why Do I Remember Everything?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-25

@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise, A Prelude'
+title: 'REWRITE: A Life of Compromise, A Prelude'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-15
