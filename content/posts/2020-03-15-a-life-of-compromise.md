@@ -27,4 +27,4 @@ And when the heavens and the earth fade away, God will still be with me.
 
 That is promise I am banking on. Because that is all I got. 
 
-So back to answering my original inquiry: yea, I am writing this for myself. And I going to make it public for the world to see. And there will be cussing. Why? Because I am not a very smart man who often has the emotional quotient of a teenage who hasn't learn how to express himself emotionally. And more often than not, cuss words still make the most sense. Lord, give me real words to express this pain, sadness, confusion, and grief that I feel. God, help me not to hide behind anger. Amen.
+So here's my prayer: Lord, give me real words to express this pain, sadness, confusion, and grief that I feel. God, help me not to hide behind anger. Amen.
