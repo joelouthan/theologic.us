@@ -1,5 +1,5 @@
 ---
-title: 'REWRITE: A Life of Compromise, A Prelude'
+title: 'A Life of Compromise, A Prelude'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-15
@@ -8,7 +8,7 @@ categories:
   - Memoir
 tags:
   - 'A Life of Compromise'
-draft: true
+draft: false
 ---
 
 I have two desires. And let me not over-spiritualize that statement. I want to publish Christian theological and doctrinal books on the one hand. But on the other hand, when I speak about things that are emotional and traumatic, I also want to cuss. Therein lies the rub.  If I cuss in a book, I will most certainly not be considered for publishing from a Christian publisher. If I don't cuss in a book when describing something that are both emotional and traumatic, then what I am writing about would feel *inauthenticate*.
@@ -27,3 +27,4 @@ And when the heavens and the earth fade away, God will still be with me.
 
 That is promise I am banking on. Because that is all I got. 
 
+So back to answering my original inquiry: yea, I am writing this for myself. And I going to make it public for the world to see. And there will be cussing. Why? Because I am not a very smart man who often has the emotional quotient of a teenage who hasn't learn how to express himself emotionally. And more often than not, cuss words still make the most sense. Lord, give me real words to express this pain, sadness, confusion, and grief that I feel. God, help me not to hide behind anger. Amen.
