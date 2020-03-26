@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise, A Prelude'
+title: 'A Life of Compromise, A Foreword'
 author: Joseph Louthan
 type: post
 publishDate: 2020-03-15
