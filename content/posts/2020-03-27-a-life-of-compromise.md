@@ -35,7 +35,7 @@ But if I pushed down into my heart, this is the real question that my heart is r
 
 Why did you not love me?
 
-Is it because I am unlovable? For me to admit that I think that on some level is *weakness*. I would never admit that. Yet, I look at the life that I live, and that is  how I felt: unlovable.
+Is it because I am unlovable? For me to admit that I think that on some level is *weakness*. I would never admit that. Yet, I look at the life that I live, and that is how I felt: unlovable.
 
 And if I am unlovable, then why did you choose to associate with me? Why did you have to be my dad and mom? If you didn't want me, why just give me up for adoption? If you were going to let me stay with a monster, why even have me in your home? If you hated me so badly, why didn't you have shipped out or also killed? Why on earth would you even marry me if you didn't love me?
 
