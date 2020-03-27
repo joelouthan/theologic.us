@@ -8,7 +8,7 @@ categories:
   - Memoir
 tags:
   - 'A Life of Compromise'
-draft: true
+draft: false
 ---
 
 **Why Do I Remember Everything?**
