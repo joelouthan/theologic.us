@@ -64,7 +64,7 @@ theme = "cupper-theo"
     weight = 20
   [[menu.nav]]
     name = "Devotions: Luke"
-    url = "/tags/family-devos-luke/"
+    url = "/tags/family-devotions-luke/"
     weight = 20
   [[menu.nav]]
     name = "Tags"
