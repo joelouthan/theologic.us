@@ -20,3 +20,9 @@ Psalms 22:9-10  Yet you are he who took me from the womb; you made me trust you 
 Ephesians 1:3-6 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,  even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love  he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will,  to the praise of his glorious grace, with which he has blessed us in the Beloved. 
 
 Romans 8:28-30 And we know that for those who love God all things work together for good, for those who are called according to his purpose.  For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.  And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.   
+
+*When did God know you?*
+
+*When did God save you?*
+
+*How do you know if you are saved by God?*
