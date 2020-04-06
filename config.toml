@@ -59,11 +59,11 @@ theme = "cupper-theo"
     url = "/tags/now-sings-my-soul-psalms/"
     weight = 10
   [[menu.nav]]
-    name = "Devotions: Mark"
+    name = "Family Devotions: Mark"
     url = "/tags/family-devotions-mark/"
     weight = 20
   [[menu.nav]]
-    name = "Devotions: Luke"
+    name = "Family Devotions: Luke"
     url = "/tags/family-devotions-luke/"
     weight = 20
   [[menu.nav]]
