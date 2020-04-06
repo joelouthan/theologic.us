@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 <img class="alignright size-thumbnail wp-image-1972" alt="Christ sending His Apostles" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/Christ-sending-His-Apostles.jpg?resize=300%2C232" width="300" height="232" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/Christ-sending-His-Apostles.jpg?resize=300%2C232 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/Christ-sending-His-Apostles.jpg?resize=400%2C310 400w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/Christ-sending-His-Apostles.jpg?resize=600%2C465 600w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/04/Christ-sending-His-Apostles.jpg?w=745 745w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />Mark 6:7-13 **And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. He charged them to take nothing for their journey except a staff—no bread, no bag, no money in their belts—but to wear sandals and not put on two tunics. And he said to them, “Whenever you enter a house, stay there until you depart from there. And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them.” So they went out and proclaimed that people should repent. And they cast out many demons and anointed with oil many who were sick and healed them.**

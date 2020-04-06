@@ -7,7 +7,7 @@ url: /family-devos-luke/2019-12-11-family-devos-luke/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Luke'
+  - 'Family Devotions: Luke'
 draft: false
 ---
 **Luke 1:26-38 In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth,  to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin’s name was Mary.  And he came to her and said, Greetings, O favored one, the Lord is with you!  But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be.  And the angel said to her, Do not be afraid, Mary, for you have found favor with God.  And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus.  He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David,  and he will reign over the house of Jacob forever, and of his kingdom there will be no end.**   

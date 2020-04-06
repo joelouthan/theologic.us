@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 **[<img class="alignright size-thumbnail wp-image-187" title="healing_sm" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?resize=150%2C150" width="150" height="150" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?resize=150%2C150 150w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon&#8217;s mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**

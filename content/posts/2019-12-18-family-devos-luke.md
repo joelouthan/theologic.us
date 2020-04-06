@@ -7,7 +7,7 @@ url: /family-devos-luke/2019-12-18-family-devos-luke/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Luke'
+  - 'Family Devotions: Luke'
 draft: false
 ---
 

@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 <a href="http://theologic.us/family-devotions/mark-433-34-jesus-teaches/attachment/jesusteaching/" rel="attachment wp-att-1648"><img class="alignright size-medium wp-image-1648" alt="jesusTeaching" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?resize=300%2C215" width="300" height="215" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?resize=300%2C215 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?w=603 603w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Mark 4:33-34 **With many such parables he spoke the word to them, as they were able to hear it. He did not speak to them without a parable, but privately to his own disciples he explained everything.**

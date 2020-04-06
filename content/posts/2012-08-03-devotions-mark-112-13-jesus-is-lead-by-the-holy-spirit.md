@@ -7,7 +7,7 @@ url: /family-devotions/mark-112-13-jesus-is-lead-by-the-holy-spirit/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 [<img class="alignright size-full wp-image-170" title="jesus-holy-spirit" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/jesus-holy-spirit.jpeg?resize=199%2C253" width="199" height="253" data-recalc-dims="1" />][1]**Mark 1:12-13 The Spirit immediately drove him out into the wilderness. And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the angels were ministering to him.**

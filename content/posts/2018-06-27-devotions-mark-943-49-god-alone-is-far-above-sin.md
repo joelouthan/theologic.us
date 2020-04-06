@@ -8,7 +8,7 @@ featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/m15-08
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 <div>

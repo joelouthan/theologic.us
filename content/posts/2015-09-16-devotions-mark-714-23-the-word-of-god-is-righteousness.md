@@ -10,7 +10,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 **Mark 7:14-23**

@@ -7,7 +7,7 @@ url: /family-devotions/2018-11-14-mark-131-2-what-does-christ-want-our-sin.md/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 draft: false
 ---
 **Mark 13:1–2 And as he came out of the temple, one of his disciples said to him, “Look, Teacher, what wonderful stones and what wonderful buildings!” And Jesus said to him, “Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down.”**

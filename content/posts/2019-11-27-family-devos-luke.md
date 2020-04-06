@@ -7,7 +7,7 @@ url: /family-devos-luke/2019-11-27-family-devos-luke/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Luke'
+  - 'Family Devotions: Luke'
 draft: false
 ---
 **Luke 1:11–17 (ESV) And there appeared to him an angel of the Lord standing on the right side of the altar of incense. And Zechariah was troubled when he saw him, and fear fell upon him. But the angel said to him, “Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son, and you shall call his name John. And you will have joy and gladness, and many will rejoice at his birth, for he will be great before the Lord. And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother’s womb. And he will turn many of the children of Israel to the Lord their God, and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared.”**

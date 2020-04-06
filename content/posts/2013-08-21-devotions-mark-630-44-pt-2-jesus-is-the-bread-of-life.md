@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 <img class="alignright size-thumbnail wp-image-2163" alt="the-bread-of-life" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?resize=256%2C300" width="256" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?resize=256%2C300 256w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?resize=341%2C400 341w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/the-bread-of-life.jpg?w=353 353w" sizes="(max-width: 256px) 100vw, 256px" data-recalc-dims="1" />1. In the feeding of the five thousand, what was the purpose of the story?

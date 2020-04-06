@@ -7,7 +7,7 @@ url: /devotions/2019-11-06-family-devos-luke-to-be-called-a-witness/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Luke'
+  - 'Family Devotions: Luke'
 draft: false
 ---
 **Luke 1:1–4 Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us, just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us, it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus, that you may have certainty concerning the things you have been taught.**

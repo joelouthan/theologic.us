@@ -7,7 +7,7 @@ url: /family-devotions/2018-11-15-mark-133-13-what-does-christ-want-our-he.md/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 draft: false
 ---
 **Mark 13:3–13 And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, “Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?” And Jesus began to say to them, “See that no one leads you astray. Many will come in my name, saying, ‘I am he!’ and they will lead many astray. And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains.**

@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 [<img class="alignright  wp-image-180" title="1-Duccio_Calling1-500x473" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/1-Duccio_Calling1-500x473.jpg?resize=180%2C170" width="180" height="170" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/1-Duccio_Calling1-500x473.jpg?resize=300%2C283 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/1-Duccio_Calling1-500x473.jpg?resize=500%2C473 500w" sizes="(max-width: 180px) 100vw, 180px" data-recalc-dims="1" />][1]**Mark 1:16-20 Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen. And Jesus said to them, “Follow me, and I will make you become fishers of men.” And immediately they left their nets and followed him. And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets. And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.**

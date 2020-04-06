@@ -7,7 +7,7 @@ url: /family-devotions/2018-09-05-mark-1112-14_20-25-so-that-we-might-liv.md/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 draft: false
 ---
 **On the following day, when they came from Bethany, he was hungry. And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. And he said to it, “May no one ever eat fruit from you again.” And his disciples heard it.

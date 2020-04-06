@@ -10,7 +10,7 @@ categories:
   - Books
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 Here just the very small list of resources on Mark that I have found most helpful.[<img class="alignright size-full wp-image-69" title="170px-Stmark" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/170px-Stmark.jpg?resize=170%2C460" width="170" height="460" data-recalc-dims="1" />][1]
@@ -19,7 +19,7 @@ Here just the very small list of resources on Mark that I have found most helpfu
 
 [**ESV Study Bible**][2] &#8211; Incredible resource. I use the [online][3] more than the actual book.
 
-**['Devotions: Mark' (NICNT)][4] by William L. Lane** &#8211; Incredible thorough and wonderfully written, Dr. Lane walks the reader masterfully through not only the Gospel but the perspective of the writer Mark.
+**['Family Devotions: Mark' (NICNT)][4] by William L. Lane** &#8211; Incredible thorough and wonderfully written, Dr. Lane walks the reader masterfully through not only the Gospel but the perspective of the writer Mark.
 
 **[Calvin&#8217;s Commentary on the Synoptic Gospels (Matthew, Mark, Luke)][5] by John Calvin** &#8211; I like to keep an old school commentary for better perspective. (Note: if you don&#8217;t find the exact passage in this commentary, just locate the commentary for the similar passages in Matthew and Luke.
 

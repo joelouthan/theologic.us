@@ -7,7 +7,7 @@ url: /family-devotions/2018-10-03-mark-1213-17-so-that-we-might-live-and-b.md/
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 draft: false
 ---
 

@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 [<img class="alignright size-medium wp-image-979" title="dis" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg?resize=204%2C300" width="204" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg?resize=204%2C300 204w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg?w=220 220w" sizes="(max-width: 204px) 100vw, 204px" data-recalc-dims="1" />][1]Mark 4:10-13 **And when he was alone, those around him with the twelve asked him about the parables. And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables, so that

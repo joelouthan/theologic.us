@@ -60,7 +60,7 @@ theme = "cupper-theo"
     weight = 10
   [[menu.nav]]
     name = "Devotions: Mark"
-    url = "/tags/devotions-mark/"
+    url = "/tags/family-devotions-mark/"
     weight = 20
   [[menu.nav]]
     name = "Devotions: Luke"

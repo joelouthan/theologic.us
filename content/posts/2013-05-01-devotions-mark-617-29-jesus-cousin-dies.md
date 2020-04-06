@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 <figure id="attachment_2035" style="width: 300px" class="wp-caption alignright"><img class="size-thumbnail wp-image-2035" alt="&quot;Salome with the Head of John the Baptist&quot; by Caravaggio" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=300%2C254" width="300" height="254" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=300%2C254 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=400%2C339 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=600%2C509 600w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?w=1190 1190w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><figcaption class="wp-caption-text">&#8220;Salome with the Head of John the Baptist&#8221; by Caravaggio</figcaption></figure>

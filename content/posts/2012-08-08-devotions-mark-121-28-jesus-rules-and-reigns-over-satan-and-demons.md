@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
-  - 'Devotions: Mark'
+  - 'Family Devotions: Mark'
 
 ---
 **[<img class="alignright size-full wp-image-183" title="200px-The_Torment_of_Saint_Anthony_(Michelangelo)" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/200px-The_Torment_of_Saint_Anthony_Michelangelo.jpg?resize=200%2C269" width="200" height="269" data-recalc-dims="1" />][1]Mark 1:21-28 And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes.** 
