@@ -51,10 +51,6 @@ theme = "cupper-theo"
     url = "/tags/commentary-romans/"
     weight = 10
   [[menu.nav]]
-    name = "Commentary: Mark"
-    url = "/tags/commentary-mark/"
-    weight = 10
-  [[menu.nav]]
     name = "Now Sings My Soul: Prayers based on the Psalms"
     url = "/tags/now-sings-my-soul-psalms/"
     weight = 10
