@@ -1,5 +1,5 @@
 ---
-title: 'xNow Sings My Soul: Psalm '
+title: 'xNow Sings My Soul: Psalm 30'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-28
