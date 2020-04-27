@@ -3,7 +3,7 @@ title: 'A Life of Compromise: 5. Why Am I Being Hurt? [Part 1]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-15
-url: /memoir/-a-life-of-compromise/
+url: /memoir/2020-04-15-a-life-of-compromise/
 categories:
   - Memoir
 tags:
@@ -57,18 +57,26 @@ This knowledge has destroyed me in ways I cannot begin to count and in this memo
 
 But let me unpack and attack back on the easiest, lowest hanging fruit: the world.
 
-You see, I grew up in the world that was given to me by my Dad.  My Dad and his generation began the Sexual Revolution which essentially taught us to do whatever you wanted if it made you feel good. Even if that meant having your 7 year old son give you oral sex.
+You see, I grew up in the world that was given to me by my Dad.  My Dad and his generation began the Sexual Revolution which essentially taught us to do whatever you wanted if it made you feel good. Even if that meant having your 7 year old son to put his mouth on your private parts.
 
-I have this cursed knowledge and I grew up in a world that is trying to tell me, "Because you have that knowledge, you must be gay. You must have romantic and sexual feelings for other men." 
+I have this cursed knowledge and at the same time, I grew up in a world that is trying to tell me, "Because you have that knowledge, you must be gay. You must have romantic and sexual feelings for other men." Or, "This is normal and acceptable." Or whatever garbage is coming out their mouths.
 
-I had to learn, a long time ago, before I had intimate knowledge of God that both my Dad and the world and their ways were absolutely wrong.
+Nearly thirty years later, I almost bought it all the trash. I almost believed it all the world after years of being worn down by the world.
 
-How did I know that? I don't know. I can only explain by what the Apostle John said in his Gospel, "We have all received grace upon grace." Now, how do I know that now? That's the easy part. My Dad was arrested, tried, and sent to prison for nearly 400 years for that same thought process. And now I am living in a world that is trying to convince me to identify myself by my sexual appetite and what I choose as my gender.
+It wasn't until God saved me and it wasn't until God healed me that I had to embrace the fact that my Dad and the world were absolutely wrong.
+
+How did I know that? I don't know. I can only explain by what the Apostle John said in his Gospel, "We have all received grace upon grace." Now, how do I know that now? That's the easy part. My Dad was arrested, tried, and sent to prison for nearly 400 years for thinking the same way that the world thought. And now I am living in a world that is trying to convince me to identify myself by my sexual appetite and what I choose as my gender.
 
 Oh, I see. Because for most of my life I should identified as a Dad-Giving-Blowjob, Anally Raped as a Child, Crippling Porn Addicted, ED Drug Taking Korean/White Suburban Hetero Male who really never had a firm grip on life or love.
 
-Did I get that label right?
+Hello world? Did I get that label right? Can I go ahead and put that into my Twitter bio?
 
-The Apostle Paul got it right: **Wretched man that I am! Who will save me from this body of death?**
+No, I don't think so. The Apostle Paul got it right: **Wretched man that I am! Who will save me from this body of death?**
 
-Who is going to save me from this torment and persecution? Who is going to wash away this stench upon my soul? Who is strong enough, good enough, loving enough and willing and able to take away my cursed knowledge?
+Who is going to save me from this torment and persecution? 
+
+Who is going to wash away this stench upon my soul? 
+
+Who is strong enough, good enough, loving enough and willing and able to take away my cursed knowledge?
+
+As a 7 year old little boy who just wanted to be little and did not want to be infected with cursed knowledge, I did not know.
