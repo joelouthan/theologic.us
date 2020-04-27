@@ -46,4 +46,29 @@ See, that is normal grade school kid knowledge.
 
 But I knew deep down in my heart my perverted evil Dad and his wife wouldn't take me to McDonalds. My Dad was too busy trying to molest or rape his own kids or someone else not his wife or kids.
 
-I am cursed with knowledge. 
+I am cursed with knowledge of anything sexual all before the age of 10.
+
+<figure>
+    <img src='https://theologic.us/images/thanos-cursed-with-knowledge.gif' alt='Thanos - Not the only one cursed with knowledge' />
+    <figcaption>Cursed with knowledge</figcaption>
+</figure>
+
+This knowledge has destroyed me in ways I cannot begin to count and in this memoir, I will try my best to unpack it all.
+
+But let me unpack and attack back on the easiest, lowest hanging fruit: the world.
+
+You see, I grew up in the world that was given to me by my Dad.  My Dad and his generation began the Sexual Revolution which essentially taught us to do whatever you wanted if it made you feel good. Even if that meant having your 7 year old son give you oral sex.
+
+I have this cursed knowledge and I grew up in a world that is trying to tell me, "Because you have that knowledge, you must be gay. You must have romantic and sexual feelings for other men." 
+
+I had to learn, a long time ago, before I had intimate knowledge of God that both my Dad and the world and their ways were absolutely wrong.
+
+How did I know that? I don't know. I can only explain by what the Apostle John said in his Gospel, "We have all received grace upon grace." Now, how do I know that now? That's the easy part. My Dad was arrested, tried, and sent to prison for nearly 400 years for that same thought process. And now I am living in a world that is trying to convince me to identify myself by my sexual appetite and what I choose as my gender.
+
+Oh, I see. Because for most of my life I should identified as a Dad-Giving-Blowjob, Anally Raped as a Child, Crippling Porn Addicted, ED Drug Taking Korean/White Suburban Hetero Male who really never had a firm grip on life or love.
+
+Did I get that label right?
+
+The Apostle Paul got it right: **Wretched man that I am! Who will save me from this body of death?**
+
+Who is going to save me from this torment and persecution? Who is going to wash away this stench upon my soul? Who is strong enough, good enough, loving enough and willing and able to take away my cursed knowledge?
