@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**Why Do I Remember Everything?**
+#### Why Do I Remember Everything?
 
 The earliest memory I have is when I was three years old. I am sitting in my (father's mom) Mim-maw's living room with my grandma, mom, and baby brother. It is dusk. I am staring out the window watching my drunk dad in the middle of the street waving a gun around as two of Haltom City's finest slowly approach him to calm him down.
 

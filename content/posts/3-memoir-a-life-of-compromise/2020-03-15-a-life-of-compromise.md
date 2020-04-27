@@ -11,6 +11,8 @@ tags:
 draft: false
 ---
 
+#### A Foreword on Keeping It Real
+
 I have two desires. And let me not over-spiritualize that statement. I want to publish Christian theological and doctrinal books on the one hand. But on the other hand, when I speak about things that are emotional and traumatic, I also want to cuss. Therein lies the rub.  If I cuss in a book, I will most certainly not be considered for publishing from a Christian publisher. If I don't cuss in a book when describing something that are both emotional and traumatic, then what I am writing about would feel *inauthenticate*.
 
 Inauthenticate because when I am reliving these terrible moments, all I want to do is cuss, spit, scream, and cry and roll up in a ball and go to sleep for the rest of the day. If I am really honest, I want to turn comforts from the past such as pornography and... . Well, that is really it. For the vast majority of my life, porn has been my idol of comfort. Surely, it did not actually comfort me but I kept going back nonetheless.

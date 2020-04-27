@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**How to Be Released and Then Imprisoned**
+#### How to Be Released and Then Imprisoned
 
 And I would say that the real hell didn't start with came next after being on the run: my parents filing divorce with the Dallas County Family Courts. While I will not say, the divorce trial was the beginning of the real hell, what the judge ruled in that trial certainly excavated a deep enough chasm to contain sai hell. While the court system was somewhat *wise* in not immediately granting my father immediate custody, their deep-seated seeded racist tendencies kicked into high gear. And by 'their,' I mean the judge, my dad, his attorneys, my grandma, etc.  You see, they could not give custody of the boys to the boys' mother because, one, she was a foreigner who, God forbid, decided to make English her second language and that, two, she would take her half-Korean, half-white baby boys, back to the third world slum ghettos known as South Korea.
 

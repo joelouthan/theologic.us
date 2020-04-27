@@ -11,32 +11,6 @@ tags:
 draft: false
 ---
 
-****Romans 1:16-17 For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, The righteous shall live by faith.**
-
-### For salvation
-
-In salvation, people often think that God saves His people from sin, Satan, demons, hell, and even death. That is quite true, but salvation does not begin nor end there.
-
- Matthew 10:28 **And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell.** 
-
-Salvation is a saving from the wrath of God *and* saving to the presence, sanctuary, and love of God forever.
-
-With salvation, comes many things. Consider all that God does in saving us, according to Psalm 40:
-
-- Inclined to me
-- Heard my cry
-- Drew me up from hell
-- Gave me a solid foundation
-- Secures my steps
-- Gave me a new song of praise to God
-- I can now see God
-- I can truly fear God
-- Now I trust God
-- God blesses me
-- God keeps me from straying and sin
-
-Then look at verse 5
-
 **Romans 1:16-17 For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, The righteous shall live by faith.**
 
 ### For salvation

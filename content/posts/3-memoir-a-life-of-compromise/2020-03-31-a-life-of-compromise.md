@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**How To Get Rescued and Then Abandoned**
+#### How To Get Rescued and Then Abandoned
 
 Since my first job at the local Taco Bell, I have primarily earned a wage doing one of two things: Combat Photographer in the US Air Force (which my career ended short because I missed my dentist appointment) and since 1996, a worker bee in Information Technology as a Systems Administrator. Having a long, successful (read: gainfully employed and *employable*) IT career meant that you had to be decent at documentation. In my particular line of work, documentation was paramount for the morbid fear of your Systems Administrator being hit by a bus. I think I am one of the few geeks and nerds in this career field who sincerely enjoys documentation. So I mention all of this to say that I titled this particular chapter as if it were one of the thousands of HOW-TO articles I have written in my career.
 
