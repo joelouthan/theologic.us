@@ -32,7 +32,7 @@ Whereas, the common atheist argument would coincide: "So the power is in the bel
 You see, the power is not in our belief. I don't care how many movies or books tell you otherwise.
 
 <figure>
-    <img align=center src='http://media.theologic.us/wp-content/uploads/2020/05/firefly-book-believe.jpeg' alt='Well, not exactly, Shepherd Book' />
+    <img align=center src='https://theologic.us/images/firefly-book-believe.jpeg' alt='Well, not exactly, Shepherd Book' />
     <figcaption>Well, not exactly, Shepherd Book</figcaption>
 </figure>
 

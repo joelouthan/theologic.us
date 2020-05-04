@@ -12,7 +12,7 @@ draft: false
 ---
 
 **Just in time for May the Fourth Be With You: Original Star Wars Battlefront I & II on sale on Steam for $8.49** - Not the EA DLC nickel & dime turdfest but the good, playable ones. Now with multiplayer! PC only. 
-<img align="center" src="http://media.theologic.us/wp-content/uploads/2020/05/large-lucasarts-battlefront.jpg">
+<img align="center" src="https://theologic.us/images/large-lucasarts-battlefront.jpg">
 
 ---
 
