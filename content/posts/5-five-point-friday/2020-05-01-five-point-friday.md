@@ -42,5 +42,5 @@ Also, Currently Reading:
 
 Raymond C. Ortlund, Jr.. *Isaiah (Preaching the Word Commentaries)*. 19
 
-[^1]:Institutes, 3.7.2. Cf. Timothy George, *Theology of the Reformers*]
+[^1]:Institutes, 3.7.2. Cf. Timothy George, *Theology of the Reformers*
 
