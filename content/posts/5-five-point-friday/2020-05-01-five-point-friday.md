@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-- **Just in time for May the Fourth Be With You: Original Star Wars Battlefront I & II on sale on Steam for $8.49** - Not the EA DLC nickel & dime turfiest but the good, playable ones. Now with multiplayer! PC only. 
+- **Just in time for May the Fourth Be With You: Original Star Wars Battlefront I & II on sale on Steam for $8.49** - Not the EA DLC nickel & dime turdfest but the good, playable ones. Now with multiplayer! PC only. 
   ![img](/Users/jlouthan/Sites/theologic.us/content/images/DqC82izy76gzNcmaFp8WEh-320-80.jpg)
 
 - **501KG Deadlift - Hafthor Bjornsson** - Sad to report, this guy deadlifts more than I can lift in *total*.
