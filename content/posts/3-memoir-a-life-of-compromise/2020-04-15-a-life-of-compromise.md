@@ -17,8 +17,6 @@ Up until this point, until the age of seven, I have lived a life of confusion, f
 
 God do I wish that it started at that point when my Dad attempted to molest me. But I distinctly when I lived in Lake Dallas around the 2nd grade. I had a birthday party and a girl slightly older than me there helping me celebrate. I remember being sweet on her and she was so nice to me. It was at the party when I overheard my dad saying something way inappropriate about this girl. That broke my mind in half. I never looked at her that way but I felt sick to my stomach that my dad was saying these things about my friend.
 
-(If you were ever sexualized in anyway as a child by anyone, I am so sorry. I know it is terrible, sickening feeling and I am so sorry.)
-
 And God do I wish that was the end of that but no. My Dad, controlled by lust and fueled by the most depraved, sickening grotesque porn that he could get and turn his wickedness upon me. It started by asking me to touch him or kiss him like lovers do. And it stopped five years later when I said, "No" and just walked out of the room.
 
 Between those two bookends in my life, I was made to do what no child should ever have to do.
@@ -51,9 +49,10 @@ But I knew deep down in my heart my perverted evil Dad and his wife wouldn't tak
 I am cursed with knowledge of anything sexual all before the age of 10.
 
 <figure>
-    <img src='https://theologic.us/images/thanos-cursed-with-knowledge.gif' alt='Thanos - Not the only one cursed with knowledge' />
-    <figcaption>Cursed with knowledge</figcaption>
+    <img align=center src='http://media.theologic.us/wp-content/uploads/2020/05/thanos-cursed-with-knowledge.gif' alt='Thanos - Not the only one cursed with knowledge' />
+    <figcaption>Thanos knew all too well</figcaption>
 </figure>
+
 
 This knowledge has destroyed me in ways I cannot begin to count and in this memoir, I will try my best to unpack it all.
 

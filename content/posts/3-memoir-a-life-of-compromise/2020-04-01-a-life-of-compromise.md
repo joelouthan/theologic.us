@@ -18,7 +18,7 @@ And I would say that the real hell didn't start with came next after being on th
 Exhibit A of South Korea circa 1980, your honor.
 
 <figure>
-    <img src='https://theologic.us/images/12281501.jpg' alt='Women Myeong-dong by Limb' />
+    <img src='http://media.theologic.us/wp-content/uploads/2020/05/girls-seoul-south-korea-1971.jpg' alt='Women Myeong-dong by Limb' />
     <figcaption>"Women Myeong-dong," (1980) photographed by Limb. At left is painter Park Rae-Hyun. / Courtesy of National Museum of Contemporary Art</figcaption>
 </figure>
 
