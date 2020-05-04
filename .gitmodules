@@ -4,4 +4,4 @@
 
 [submodule "media/theologicus"]
 	path = content/images
-	url = ssh://theologic.us@metroplex.theologic.us/domains/media.theologic.us/html/
+	url = ssh://theologic.us@metroplex:/domains/media.theologic.us/html/
