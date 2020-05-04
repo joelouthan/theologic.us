@@ -63,6 +63,10 @@ theme = "cupper-theo"
     url = "/tags/family-devotions-luke/"
     weight = 20
   [[menu.nav]]
+    name = "Five Points Fridays "
+    url = "/tags/five-points-on-friday/"
+    weight = 99
+  [[menu.nav]]
     name = "Tags"
     url = "/tags/"
     weight = 100

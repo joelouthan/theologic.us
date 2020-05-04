@@ -5,6 +5,21 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
+#### Friday, May 1, 2020
+**Keeping it chill**
+
+I post Monday through Thursday. It always bothered me that I didn't have anything on Friday. I used to quote from the [Valley of Vision](https://banneroftruth.org/us/devotional-series/the-valley-of-vision-devotional/) (after realizing copying verbatium was a copyright violation.) It was nice but didn't feel the same. But I got this idea from [Nate Claiborne](http://nathanielclaiborne.com/sunday-seven-pizza-metal-billions/), who confessed he ripped the idea off from Tim Ferriss.  It goes to show that no idea is original.
+
+For the sake of timing, I went ahead and posted my first one for May 1st: [Star Wars & Deadlifts Edition](https://theologic.us/five-point-friday/2020-05-01-five-point-friday/)
+
+Here's now the weekly lineup:
+
+Monday - Commentary on Romans<br>
+Tuesday - Prayers according to the Psalms<br>
+Wednesday - Memoir tentatively titled "A Life of Compromise"<br>
+Thursday - Family Devotions in the Gospel of Luke<br>
+Friday - Five Points
+
 #### April 14, 2020
 
 **Hitting My Limit**

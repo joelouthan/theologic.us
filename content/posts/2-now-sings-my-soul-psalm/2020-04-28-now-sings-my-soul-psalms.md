@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 30'
+title: 'Now Sings My Soul: Psalm 30:1-3'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-28
