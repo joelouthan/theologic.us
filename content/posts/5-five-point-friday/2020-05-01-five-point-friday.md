@@ -38,7 +38,7 @@ R. Carlton Wynne, introduction to *The Wonderful Works of God*, by Herman Bavinc
 
 Also, Currently Reading:
 
->  #### "All the basic questions of life are, in fact, God-questions. As John Calvin put it, 'The Christian must surely be so disposed and minded that he feels within himself it is with God he has to deal through his life.'[^1] That is a prophetic way of seeing. But this awareness clashes with our intuitive sense of things. We dislike God's word and defend ourselves against it. But Isaiah begs us, "Come, let us walk in the light of the Lord" (Isaiah 2:5). Let's respect God enough to be open and think it through."
+> #### "All the basic questions of life are, in fact, God-questions. As John Calvin put it, 'The Christian must surely be so disposed and minded that he feels within himself it is with God he has to deal through his life.'[^1] That is a prophetic way of seeing. But this awareness clashes with our intuitive sense of things. We dislike God's word and defend ourselves against it. But Isaiah begs us, "Come, let us walk in the light of the Lord" (Isaiah 2:5). Let's respect God enough to be open and think it through."
 
 Raymond C. Ortlund, Jr.. *Isaiah (Preaching the Word Commentaries)*. 19
 

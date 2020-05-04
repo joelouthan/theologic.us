@@ -49,7 +49,7 @@ But I knew deep down in my heart my perverted evil Dad and his wife wouldn't tak
 I am cursed with knowledge of anything sexual all before the age of 10.
 
 <figure>
-    <img align=center src='http://media.theologic.us/wp-content/uploads/2020/05/thanos-cursed-with-knowledge.gif' alt='Thanos - Not the only one cursed with knowledge' />
+    <img align=center src='https://media.theologic.us/wp-content/uploads/2020/05/thanos-cursed-with-knowledge.gif' alt='Thanos - Not the only one cursed with knowledge' />
     <figcaption>Thanos knew all too well</figcaption>
 </figure>
 
