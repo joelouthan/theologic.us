@@ -19,15 +19,15 @@ draft: false
 
 ---
 
-**501KG Deadlift - Hafthor Bjornsson** - Sad to report, this guy deadlifts more than I can lift in *total*.
+**Shameless Plug** - When you are a blended family and living in a pandemic, this is one way to read to your kids:
 
-<iframe width="560" height="315" align=center src="https://www.youtube.com/embed/2kEC7X1FUIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XABZwQ6dSoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**QUARANTINE UPDATE**
+**Praying**
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. <br><br>—Henry Martyn</p>&mdash; Banner of Truth (@BannerofTruth) <a href="https://twitter.com/BannerofTruth/status/1255165488348438534?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
