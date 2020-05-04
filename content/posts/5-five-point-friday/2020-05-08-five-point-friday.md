@@ -2,8 +2,8 @@
 title: 'Five Points on Friday: Star Wars & Deadlifts Edition'
 author: Joseph Louthan
 type: post
-publishDate: 2020-05-01
-url: /five-point-friday/2020-05-01-five-point-friday/
+publishDate: 2020-05-08
+url: /five-point-friday/2020-05-08-five-point-friday/
 categories:
   - Links
 tags:
@@ -22,9 +22,9 @@ draft: false
 
 ---
 
-**QUARANTINE UPDATE: We just had this conversation with our kids**
+**QUARANTINE UPDATE**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2019: WE’RE GOING TO DISNEY WORLD!!!<br><br>2020: WE’RE GOING TO SONIC!!!</p>&mdash; Chet Harvey (@chet_harvey) <a href="https://twitter.com/chet_harvey/status/1257069630859993089?ref_src=twsrc%5Etfw">May 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ---
 
