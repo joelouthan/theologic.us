@@ -75,7 +75,7 @@ theme = "cupper-theo"
     url = "/categories/"
     weight = 101
   [[menu.nav]]
-    name = "About"
+    name = "Contact"
     url = "/about/"
     weight = 1000
 
