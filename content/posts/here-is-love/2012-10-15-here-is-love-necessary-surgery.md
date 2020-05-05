@@ -13,7 +13,7 @@ tags:
   - Here is Love
 
 ---
-[<img class="alignright size-medium wp-image-947" title="Open-heart-surgery2" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/Open-heart-surgery2.jpg?resize=300%2C233" alt="" width="300" height="233" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/Open-heart-surgery2.jpg?resize=300%2C233 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/Open-heart-surgery2.jpg?w=354 354w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]**This is the good news for all time**: that Jesus Christ has come to make all things right-standing with Him. [<sup>1</sup>][2]{#return-note-944-1.simple-footnote}
+![Open-heart surgery, NIH, 1955 | Format: Still image Extent: … | Flickr](../../images/4644490799_60c4e0baa2_b.jpg)**This is the good news for all time**: that Jesus Christ has come to make all things right-standing with Him. [<sup>1</sup>][2]{#return-note-944-1.simple-footnote}
 
 **This is the unquenchable thirst of holiness**: He will do so by saving His people from Him, by Him, for Him, through Him, and to Him forever and ever. [<sup>2</sup>][3]{#return-note-944-2.simple-footnote}
 
@@ -37,7 +37,7 @@ That is love.
   <p class="notes">
     Notes:
   </p>
-  
+
   <ol>
     <li id="note-944-1">
       Romans 5:17; Romans 8:10; Romans 10:4; Romans 14:17; 2 Cor 5:21; Galatians 5:5 <a href="#return-note-944-1">&#8617;</a>
@@ -57,9 +57,8 @@ That is love.
   </ol>
 </div>
 
- [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/Open-heart-surgery2.jpg
- [2]: #note-944-1 "Romans 5:17; Romans 8:10; Romans 10:4; Romans 14:17; 2 Cor 5:21; Galatians 5:5"
- [3]: #note-944-2 "Matt 1:21; Rom 11:36"
- [4]: #note-944-3 "Isa 55:11; Eze 37:1-14; John 11:1-44; Eph 2:1-10"
- [5]: #note-944-4 "Genesis 1-2; 1 Thess 4:3 Psalm 16:11"
- [6]: #note-944-5 "Rom 8:12-13"
+[2]: #note-944-1 "Romans 5:17; Romans 8:10; Romans 10:4; Romans 14:17; 2 Cor 5:21; Galatians 5:5"
+[3]: #note-944-2 "Matt 1:21; Rom 11:36"
+[4]: #note-944-3 "Isa 55:11; Eze 37:1-14; John 11:1-44; Eph 2:1-10"
+[5]: #note-944-4 "Genesis 1-2; 1 Thess 4:3 Psalm 16:11"
+[6]: #note-944-5 "Rom 8:12-13"
