@@ -17,7 +17,7 @@ draft: false
 
 Anybody remotely familiar with Christianity (from the casual observer to the longtime preacher) would be a bit shocked at this Biblically, and ultimately, the absolute truth:
 
-**The gospel of Jesus Christ is not for the believers *and* unbelievers. The gospel is only for those who believe.  **
+**The gospel of Jesus Christ is not for the believers and unbelievers. The gospel is only for those who believe.**
 
 Let's put it another way: the gospel is powerless to those who do not believe.
 
