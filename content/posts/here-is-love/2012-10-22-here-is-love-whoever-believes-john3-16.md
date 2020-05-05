@@ -10,7 +10,7 @@ tags:
   - Here is Love
 
 ---
-![The Passion of the Christ Revisited 15 Years Later – Page 4 of 4 ...](https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/The-Passion-of-the-Christ-9-700x300.jpg style="width:100%;height:auto")
+![image-20200505135217506](../../images/image-20200505135217506.png)
 
 God loves us. So much so, He came to us.
 
