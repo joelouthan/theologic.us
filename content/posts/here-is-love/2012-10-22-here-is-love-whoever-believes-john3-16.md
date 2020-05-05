@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Whoever Believes—John 3:16'
+title: 'Here is Love: John 3:16 Whoever Believes'
 author: Joseph Louthan
 type: post
 date: 2012-10-22T14:00:32+00:00
@@ -10,7 +10,9 @@ tags:
   - Here is Love
 
 ---
-[<img class="alignright size-medium wp-image-775" title="cross-backlit" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?resize=300%2C225" alt="" width="300" height="225" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?resize=300%2C225 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?w=800 800w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]God loves us. So much so, He came to us.
+![The Passion of the Christ Revisited 15 Years Later – Page 4 of 4 ...](https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/The-Passion-of-the-Christ-9-700x300.jpg style="width:100%;height:auto")
+
+God loves us. So much so, He came to us.
 
 The one who thinks of themselves as good or even, not-so-bad thinks that this is acceptable. “God should come to us. Why shouldn’t he?  God should come to me and meet me and get to know me and love me and save me despite me.”
 
@@ -81,5 +83,3 @@ Because you are Christ and Christ is in you.
 Christ bridged the gap of infinity between the heart of God and the heart and man as the angels looks upon us in amazement and wonder and testify:
 
 That is love.
-
- [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg
