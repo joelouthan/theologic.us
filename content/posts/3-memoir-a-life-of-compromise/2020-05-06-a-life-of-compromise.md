@@ -37,24 +37,30 @@ I would go through these cycles of getting porn, being ashamed of the porn, dest
 
 I felt like I was one of the first people I knew to get the giant computer hard drives. I also learned how to run web and file servers to organize my porn collection. This experience parlayed into working for several porn sites. 
 
-And just like my dad, I was unashamed of sharing my porn addiction with my first wife. And at the time, she seemed to approve of it. But later on in divorce counseling, she told me then that she was devastated by it. And that broke my heart.
+When I was processing the effects of porn on my dad's life and the harm it did in my life, my anger burned against every single person who enabled my dad's porn addiction. But by my own wicked and depraved actions allowed me to be an even greater porn dealer than those people could ever hope to be. My sinful hypocrisy is not lost on me.
 
-But not enough to stop the destructive behavior that I had with relationships.
+And just like my dad, I was unashamed in sharing my porn addiction with my first wife. And at the time, she seemed to approve of it. But later on in divorce counseling, she told me then that she was devastated by it. No surprised there. But I was surprised because it was the first time in my life that I realized that my porn addiction affected other people--especially those closest to me.
 
-In all of my years of dating and marriages, I strived to keep everybody at arm's length. That is why I am so good with people: I have a million friends, and I don't let them in. I even would share my childhood trauma with my friends so that they would think I am letting them in my life. I called it my "bag of vulnerability tricks." And I could use the same bag of tricks with both my first and second wife. You tell me how did those marriages end?
+That surprise was not enough to stop the destructive behavior that I had with relationships.
 
-Why would I never let people in? Because all of my life, every adult who was supposed to love, protect, and care for me did the opposite. I knew for a fact that the closer someone is to you, the more they will hurt you.
+In all of my years of dating and marriages, I strived to keep everybody at arm's length. That is why I am so good with people: I have a million friends, *and* I don't let them into my heart and into my life. I would even go as far as to share my childhood trauma with strangers so that they would think I am letting them in my life. I called it my "bag of vulnerability tricks." And I could use the same bag of tricks with both my first and second wife. Any guesses how those marriages ended?
 
-So my life: I will have friends but don't let them in. And when I needed intimacy, comfort, and closeness, I will turn to the one thing that has always been there and never hurt me: porn.
+Why would I never let people in? Because all of my life, every adult who was supposed to love, protect, and care for me did the opposite of that. I knew for a fact that the closer someone is to you, the more they will hurt you.
 
-But porn broke my mind: with my mouth, I was so above cat-calling, and I never objectified women. I was trying to be a "nice guy" to everybody that knew me. But with my mind so filled with porn, I could go years stranded on a desert island and still get my porn fix. Inside my soul, I was objectifying women all day long. When I got into a relationship, I would eventually be shocked and dismayed that they wanted to know more of me, and I had nothing to give them. Why? Because I couldn't let them in because they would hurt me. Just like my mom, dad, grandma, and stepmom did.
+So my life consisted of this: I will have friends, girlfriends, and even wives but don't let them in. And when I needed *actual* intimacy, comfort, and closeness, I will turn to the one thing that has always been there and never hurt me: porn.
+
+I thought porn would never hurt me. But it did and in the worst way. Porn broke my mind. You see, I can say I was so above cat-calling, and I never objectified women. I was trying to be a "nice guy" to everybody that knew me. But inside, I hated women so bad. My mind so filled with porn, I could go years stranded on a desert island and still get my porn fix. Inside my soul, I was objectifying women all day long. When I got into a relationship, I would eventually be shocked and dismayed that they wanted to know more of me, and I had nothing to give them. Why? Because I couldn't let them in because they would hurt me. Just like my mom, dad, grandma, and stepmom did.
 
 While porn never broke my heart, it certainly kept my heart from properly healing. Porn was good at keeping gaping wounds open and bleeding.
 
-For the first time in my life, I have a wife who sees deeply into my soul and is still with me to this day (that still scares the crap out of me). And God has done a miraculous work in my heart and mind where porn is no longer part of my life. But when my brother passed away a few months ago due to cancer, where did I turn to in my grief and sadness?
+For the first time in my life, I have a wife who sees deeply into my soul and is still with me to this day (that still scares the crap out of me). And God has done a miraculous work in my heart and mind where porn is no longer part of my life. 
+
+Here's the real kick in the ass: it seems to always haunt my soul. When my brother passed away a few months ago due to cancer, where did I turn to in my grief and sadness?
 
 Not God. Not my wife. Not my mentor. Not my counselor. Not my friends.
 
 Porn.
 
 "**Wretched man that I am! Who would save me from this body of death?**" (Romans 7:24)
+
+I cannot tell you how many times I have prayed the words of the Apostle John, "Come Lord Jesus!"(Revelation 22:20) I honestly don't give a rip if you haven't met all of your life goals or gotten married yet. I need the Lord Jesus Christ to come right now and get me. This world and the hopelessness that it is giving me is garbage. The world around me stinks and I am tired of it. Come Lord Jesus. Come and get this man whom you have saved.
