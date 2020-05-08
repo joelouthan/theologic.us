@@ -5,6 +5,11 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
+#### Thursday, May 7, 2020
+**Beta Testing**
+
+Trying something out. Come back on Saturday.
+
 #### Friday, May 1, 2020
 **Keeping it chill**
 
