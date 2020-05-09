@@ -5,6 +5,11 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
+#### Saturday, May 9, 2020
+**Is this actually a thing?**
+
+So I wanted to split lists between spiritual and mundane items that I enjoy. Mostly, I can fill up five points on Friday easily. I wanted to keep Fridays serious and move more not-so-serious stuff to Saturday.
+
 #### Thursday, May 7, 2020
 **Beta Testing**
 
