@@ -7,7 +7,7 @@ url: /sundry-saturday/2020-05-09-sundry-saturday/
 categories:
   - Links
 tags:
-  - 'Sundry Saturday'
+  - 'Sundry Saturdays'
 draft: false
 ---
 
