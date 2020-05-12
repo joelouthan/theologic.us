@@ -1,13 +1,13 @@
 ---
-title: 'Five Points on Friday: Hitting 300 & Blocking Porn at the DNS Level Edition'
+title: 'A Few Points on Friday: Hitting 300 & Blocking Porn at the DNS Level Edition'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-08
-url: /five-point-friday/2020-05-08-five-point-friday/
+url: /few-points-friday/2020-05-08-few-points-friday/
 categories:
   - Links
 tags:
-  - 'Five Points on Friday'
+  - 'A Few Points on Friday'
 draft: false
 ---
 
