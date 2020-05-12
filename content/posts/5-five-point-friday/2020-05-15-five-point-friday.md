@@ -35,6 +35,12 @@ The Trinity. The Valley of Vision. ed. Arthur Bennett.
 
 ------
 
+**Why do we get to pray?**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prayer is a priority, a privilege, and a partnership. Prayer is purifying, powerful, and passionate. So, let us pray!</p>&mdash; Steven Lawson (@DrStevenJLawson) <a href="https://twitter.com/DrStevenJLawson/status/1259628751001878532?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+------
+
 **On seeking after God**
 
 > "The conclusion, therefore, is that of Augustine, who said that the heart of man was created for God and that it cannot find rest until it rests in his Father's heart. Hence all men are really seeking after God, as Augustine also declared, but they do not all seek Him in the right way, nor at the right place. They seek Him down below, and He is up above. They seek Him on the earth, and He is in heaven. They seek Him afar, and He is nearby. They seek Him in money, in property, in fame, in power, and in passion; and He is to be found in the high and the holy places, and with him that is of a contrite and humble spirit ([Isa 57:15](https://ebible.com/query?utf=8✓&query=Isa 57%3A15&translation=ESV)). But they do seek Him, if haply they might feel after Him and find Him ([Acts 17:27](https://ebible.com/query?utf=8✓&query=Acts 17%3A27&translation=ESV)). They seek Him and at the same time they flee Him. They have no interest in a knowledge of His ways, and yet they cannot do without Him. They feel themselves attracted to God and at the same time repelled by Him."
