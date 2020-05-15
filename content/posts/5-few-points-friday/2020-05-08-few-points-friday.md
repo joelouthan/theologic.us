@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points on Friday: Hitting 300 & Blocking Porn at the DNS Level Edition'
+title: 'A Few Points for Friday: Hitting 300 & Blocking Porn at the DNS Level Edition'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-08
@@ -7,7 +7,7 @@ url: /few-points-friday/2020-05-08-few-points-friday/
 categories:
   - Links
 tags:
-  - 'A Few Points on Friday'
+  - 'A Few Points for Friday'
 draft: false
 ---
 
@@ -19,7 +19,6 @@ Psalm 19:14
   be acceptable in your sight, 
   O LORD, my rock and my redeemer.
 </b></pre>
-
 
 
 ------

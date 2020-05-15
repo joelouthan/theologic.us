@@ -9,7 +9,6 @@ categories:
 tags:
   - 'Prayers'
 draft: true
-
 ---
 
 **Prayer Today**

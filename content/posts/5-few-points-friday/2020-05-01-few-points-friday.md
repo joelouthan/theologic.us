@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points on Friday: Star Wars & Deadlifts Edition'
+title: 'A Few Points for Friday: Star Wars & Deadlifts Edition'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-01
@@ -7,7 +7,7 @@ url: /few-points-friday/2020-05-01-few-points-friday/
 categories:
   - Links
 tags:
-  - 'A Few Points on Friday'
+  - 'A Few Points for Friday'
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise: 7. Unprotectors Are Gonna Unprotect '
+title: 'A Life of Compromise: 7. Unprotectors Are Gonna Unprotect (UNFINISHED)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-13

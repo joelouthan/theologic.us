@@ -7,7 +7,7 @@ url: /few-points-friday/2020-05-15-few-points-friday/
 categories:
   - Links
 tags:
-  - 'A Few Points on Friday'
+  - 'A Few Points for Friday'
 draft: false
 ---
 
