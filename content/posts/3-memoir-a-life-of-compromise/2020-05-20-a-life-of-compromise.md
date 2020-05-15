@@ -1,5 +1,5 @@
 ---
-title: 'A Life of Compromise: 8. '
+title: 'A Life of Compromise: 8. [UNFINISHED]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-20
