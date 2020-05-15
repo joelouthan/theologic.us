@@ -12,10 +12,10 @@ draft: false
 ---
 
 <pre>
-  <i>Three Persons and one God, I bless and praise thee,
+  <b><i>Three Persons and one God, I bless and praise thee,
   	for love so unmerited, so unspeakable,
   	so wondrous, so mighty to save the lost
-  	and raise them to glory.</i>
+  	and raise them to glory.</i></b>
 
 The Trinity. The Valley of Vision. ed. Arthur Bennett.
 </pre>
