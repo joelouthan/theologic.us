@@ -12,71 +12,71 @@ draft: true
 ---
 ### For those who do not know You
 
-**Yusef and Nichole** - 
+**Yusef and Nichole** - Save my household. Save my children. Save them.
 
-**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy** - 
+**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy** - To every one of them, be their God.
 
-**Natalie, Jackson, Kingston** - 
+**Natalie, Jackson, Kingston** - Save them. From tyranny of legalism. Give the your righteousness.
 
-**Reed & Sandy** - 
+**Reed & Sandy** - Not upon our goodness but yours.
 
-**Johnny & Jamie, Kolton, Korbin** - 
+**Johnny & Jamie, Kolton, Korbin** - Save them.
 
-**Jeanny** - 
+**Jeanny** - Save and heal her.
 
-**Jodi & Ryan, Piper, Rylee** - 
+**Jodi & Ryan, Piper, Rylee** - Save them. Help them to fear you alone.
 
-**Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** - 
+**Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** - Save them.
 
-**Melissa & Micah, Noah, Levi, Judah** - 
+**Melissa & Micah, Noah, Levi, Judah** - Save Micah. Thank you for the work you are doing in Melissa. I will praise you.
 
-**James** - 
+**James** - This pandemic will break him. Turn his heart towards you.
 
-**Jason, Molly** - 
+**Jason, Molly** - Bless them Save them.
 
-**Jansen & Mandy** - 
+**Jansen & Mandy** - Save them o Father
 
-**Sean & Sunny** - 
+**Sean & Sunny** - Save them and be with them.
 
-**Evan** - 
+**Evan** - Save him.
 
-**Mark & Nicole, Gabrielle** - 
+**Mark & Nicole, Gabrielle** - Bless and keep them. Thank you for Mark
 
-**Mark & Robin** - 
+**Mark & Robin** - Thank you. Bless them.
 
-**Louis** - 
+**Louis** - Save them.
 
-**Eileen & Hubs, fam** - 
+**Eileen & Hubs, fam** - Save their little family 
 
-**Ray** - 
+**Ray** - Save him. Keep him.
 
-**Randall** - 
+**Randall** - Save him. Keep him.
 
-**Cynthia** - 
+**Cynthia** - Save her and hers
 
-**Joe P** - 
+**Joe P** - Save him
 
-**George** - 
+**George** - Save him
 
-**Wayne Barber** - 
+**Wayne Barber** - Save him
 
-**Eric Robinson** - 
+**Eric Robinson** - Save him
 
-**Jonathan & Jenn Williams** - 
+**Jonathan & Jenn Williams** - Save them
 
 
 
 ### Friends
 
-**Alix & Braden** - 
+**Alix & Braden** - Bless them Lord. Thank you for their lives and their hearts. Thank you for their marriage. Bless them.
 
-**Dena & Dave** - 
+**Dena & Dave** - Bless them. Thank you for them. Thank you that they are in our lives. We love them so much.
 
-**Reva & Ronnie** - 
+**Reva & Ronnie** - Bless them and keep them. Draw them close to you.
 
-**Andrew & Hilary, Evie, Eleanor, Bear** - 
+**Andrew & Hilary, Evie, Eleanor, Bear** - If they are down, lift them up. Be their God.
 
-**Tyler & Heather, Shepherd** -
+**Tyler & Heather, Shepherd** - I thank you for their friendship. Show them more of your glory.
 
 
 
@@ -84,39 +84,41 @@ draft: true
 
 ##### Chuck & Lauren
 
-*(teaching job, childhood trauma, Sabbath, L: back, neighbor Carla type 6)*
+*(teaching job, childhood trauma, Sabbath, L: back, neighbor Carla type 6)* - Heal Lauren. Inside and out.
 
 ##### Riley & Emily
 
-*(pregnancy, baby boy, back pain, health issues, depression, godliness in marriage, provision, communication)*
+*(pregnancy, baby boy, back pain, health issues, depression, godliness in marriage, provision, communication)* - Take care of them. Draw them close to you.
 
-##### Scott & Melody
+##### Scott & Melody, Emily, Adelyn, Caleb
 
-*(Wayne, sore thumb)*
+*(Wayne, sore thumb)* - Bless them o Lord.
 
 ##### Andrew & Andi
 
-*(wedding plans, Faith's brain surgery, Savannah's psych/personality disorder)*
+*(wedding plans, Faith's brain surgery, Savannah's psych/personality disorder)* Be their God.
 
 
 
 ### Family
 
-**Sarah** - 
+**Sarah** - Make me a godly husband. 
 
-**Yusef, Elijah, Ivy, Ava** - 
+**Yusef, Elijah, Ivy, Ava** - Bless and save my kids.
 
-**Marmie** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* - 
+**Marmie** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* - Thank you for what you are doing in her life.
 
 
 
 ### Church
 
-**Frontline Norman** - 
+**Frontline Norman** - Please give us a church plant in Norman.
 
-**Frontline South** - 
+**Frontline South** - Bless them and guide them
 
-**Frontline** - 
+**Frontline** - Thank you for the leadership and wisdom you have given them
 
-**All the churches in Norman** - 
+**All the churches in Norman** - Save them unto grace by the power of your Spirit
+
+Amen.
 
