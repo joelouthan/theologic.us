@@ -112,11 +112,11 @@ draft: true
 
 ### Church
 
-**Frontline Norman** - 
+**Frontline Norman** - Lord, will you please give us a building to worship in? Whether it be a home or a church, it does not matter. Help us gather together.
 
-**Frontline South** - 
+**Frontline South** - For Dawn, Tyler, Tyler, Reuben, Aaron, Sean, Deanna, Andrew, Will and all of those who work to gather us together: be gloried in their lives today.
 
-**Frontline** - 
+**Frontline** - Thank you so much for the leadership you have given the elders to lead us well in this pandemic. Lord, bless the staff and keep them safe.
 
 **All the churches in Norman** - 
 

@@ -10,9 +10,10 @@ categories:
   - Theology
 tags:
   - Here is Love
-
 ---
-[<img class="alignright size-thumbnail wp-image-508" title="dark-rooms" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?zoom=2&resize=150%2C150 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg?zoom=3&resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Here is love: **Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.**
+Here is love: 
+
+**Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.**
 
 I am confident that 99.8% of people reading this was born in the 20th century. Historically speaking, Christ died about 2000 years ago. I am going to link these two ideas in one moment.
 
@@ -34,4 +35,4 @@ He saw everything about me. He saw it all, and despite my worst, he chose me and
 
 That is love.
 
- [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg
+[1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg
