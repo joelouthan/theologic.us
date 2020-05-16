@@ -12,71 +12,75 @@ draft: true
 ---
 ### For those who do not know You
 
-**Yusef and Nichole** - 
+**Yusef and Nichole** - Please save them on this day.
 
-**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy** - 
+**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy** -  Bless them and save them on this day.
 
-**Natalie, Jackson, Kingston** - 
+**Natalie, Jackson, Kingston** - Lord, begin your good work in them
 
-**Reed & Sandy** - 
+**Reed & Sandy** - Draw them closer to you
 
-**Johnny & Jamie, Kolton, Korbin** - 
+**Johnny & Jamie, Kolton, Korbin** - God give them peace and save their household
 
-**Jeanny** - 
+**Jeanny** - Save her. She is on her last.
 
-**Jodi & Ryan, Piper, Rylee** - 
+**Jodi & Ryan, Piper, Rylee** - Save her. Save them,
 
-**Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** - 
+**Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** - Bless them and save them 
 
-**Melissa & Micah, Noah, Levi, Judah** - 
+**Melissa & Micah, Noah, Levi, Judah** - Save that household. Do not let one of them slip through your fingers
 
-**James** - 
+**James** - Save him. Unchoke the weeds.
 
-**Jason, Molly** - 
+**Jason, Molly** - Save them. Save that household. Turn their hearts towards them.
 
-**Jansen & Mandy** - 
+**Jansen & Mandy** - Save them. Unchoke the weeds
 
-**Sean & Sunny** - 
+**Sean & Sunny** - Give them your glory
 
-**Evan** - 
+**Evan** - save him. Thank you for this relationship
 
-**Mark & Nicole, Gabrielle** - 
+**Mark & Nicole, Gabrielle** - Thank you for them. Save them
 
-**Mark & Robin** - 
+**Mark & Robin** - Save them
 
-**Louis** - 
+**Louis** - Save him
 
-**Eileen & Hubs, fam** - 
+**Eileen & Hubs, fam** - Save that household 
 
-**Ray** - 
+**Ray** - Save them
 
-**Randall** - 
+**Randall** - Save them
 
-**Cynthia** - 
+**Cynthia** - Save them
 
-**Joe P** - 
+**Joe P** - Save him. Thank you for sparing his life
 
-**George** - 
+**George** - Save him
 
-**Wayne Barber** - 
+**Wayne Barber** - save him
 
-**Eric Robinson** - 
+**Eric Robinson** - Save him
 
-**Jonathan & Jenn Williams** - 
+**Jonathan & Jenn Williams** - save them 
 
 
 
 ### Friends
 
-**Alix & Braden** - 
+**Alix & Braden** - Bless them and keep them
 
-**Dena & Dave** - 
+**Dena & Dave** - Bless them. Die with his boots on. Lord, what is your will for their lives. How can we help?
 
-**Reva & Ronnie** - 
+*grandkids* **Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson** - Watch over them and keep them
 
-**Andrew & Hilary, Evie, Eleanor, Bear** - 
+**Reva & Ronnie** - I miss their presence. Bless them in this time and protect them.
 
-**Tyler & Heather, Shepherd** -
+**Sean & Jacqueline** - Bless them.
+
+**Andrew & Hilary, Evie, Eleanor, Bear** - Thank you for them. Bless them
+
+**Tyler & Heather, Shepherd** -Bless them and thank you for their friendship
 
 
 
@@ -84,29 +88,29 @@ draft: true
 
 ##### Chuck & Lauren
 
-*(teaching job, childhood trauma, Sabbath, L: back, neighbor Carla type 6)*
+*(teaching job, childhood trauma, Sabbath, L: back, neighbor Carla type 6)* for their provision, you are there
 
 ##### Riley & Emily
 
-*(pregnancy, baby boy, back pain, health issues, depression, godliness in marriage, provision, communication)*
+*(pregnancy, baby boy, back pain, health issues, depression, godliness in marriage, provision, communication)* I pray for her health and heart. Thank you for this life. Thank you for your healing
 
 ##### Scott & Melody
 
-*(Wayne, sore thumb)*
+*(Wayne, sore thumb)* I pray for the gift of evangelism and teaching upon them. Raise them up to do great works for you
 
 ##### Andrew & Andi
 
-*(wedding plans, Faith's brain surgery, Savannah's psych/personality disorder)*
+*(wedding plans, Faith's brain surgery, Savannah's psych/personality disorder)* Be their vision. Be there with them. Let them live in your presence.
 
 
 
 ### Family
 
-**Sarah** - 
+**Sarah** - My heart. Thank you for giving me the sweetest gift. I pray for joy and life. I pray that she gets pregnant. Please give us Ava.
 
-**Yusef, Elijah, Ivy, Ava** - 
+**Yusef, Elijah, Ivy, Ava** - Thank you for my precious gifts 
 
-**Marmie** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* - 
+**Marmie** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* - I thank you for the work you are doing in her. Bless your holy name.
 
 
 
@@ -118,5 +122,5 @@ draft: true
 
 **Frontline** - Thank you so much for the leadership you have given the elders to lead us well in this pandemic. Lord, bless the staff and keep them safe.
 
-**All the churches in Norman** - 
+**All the churches in Norman** - That the gospel will save them all. Amen.
 
