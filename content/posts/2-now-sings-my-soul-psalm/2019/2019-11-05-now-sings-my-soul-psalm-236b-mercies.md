@@ -12,11 +12,12 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">
- O Lord,  
+O Lord,  
 </div>
 Tender mercies,
 	you have given me
 	every single day that I life.  
+
 
 I was so far from you
 	from your will 
