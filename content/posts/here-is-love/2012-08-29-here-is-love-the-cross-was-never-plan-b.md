@@ -12,7 +12,7 @@ tags:
   - Here is Love
 
 ---
-[<img class="size-thumbnail wp-image-558 alignright" title="broken-pot" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/broken-pot.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/broken-pot.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/broken-pot.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Here is love: **Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”**
+Here is love: **Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”**
 
 The cosmos shattered.
 
@@ -60,4 +60,4 @@ Holy, forever and ever.
 
 And that is love.
 
- [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/broken-pot.jpg
+[1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/broken-pot.jpg

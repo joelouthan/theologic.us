@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 23:6d'
+title: 'Now Sings My Soul: Psalm 23:6d All The Days of My Life'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-19
