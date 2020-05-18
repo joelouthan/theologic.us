@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:16-17 What is the Gospel? [Part 4]'
+title: 'Romans 1:16-17 What is the Gospel? To the Jew First and also to the Greek [Part 4]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-11

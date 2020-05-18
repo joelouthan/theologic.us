@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:16-17 What is the Gospel? [Part 1]'
+title: 'Romans 1:16-17 What is the Gospel? The Power of God [Part 1]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-13

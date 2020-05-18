@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:16-17 What is the Gospel? [Part 2]'
+title: 'Romans 1:16-17 What is the Gospel? For Salvation [Part 2]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-20
