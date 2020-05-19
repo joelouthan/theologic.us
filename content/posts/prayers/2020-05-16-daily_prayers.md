@@ -7,7 +7,7 @@ url: /daily_prayers/2020-05-16-daily_prayers/
 categories:
   - Prayers
 tags:
-  - 'Prayers'
+  - 'Morning & Evening Prayers'
 draft: true
 ---
 ### For those who do not know You

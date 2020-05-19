@@ -7,7 +7,7 @@ url: /prayers/2020-05-14-fifteen-hour-frontline/
 categories:
   - Prayers
 tags:
-  - 'Prayers'
+  - 'Morning & Evening Prayers'
 draft: true
 ---
 

@@ -5,9 +5,9 @@ type: post
 publishDate: 2020-05-19T14:00:00-06:00
 url: /daily_prayers/2020-05-19-daily_prayers/
 categories:
-  Prayers
+  - Prayers
 tags:
-  'Prayers'
+  - 'Morning & Evening Prayers'
 draft: true
 ---
 ### For those who do not know You

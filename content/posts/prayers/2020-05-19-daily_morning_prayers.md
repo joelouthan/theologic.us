@@ -7,7 +7,7 @@ url: /daily_morning_prayers/2020-05-19-daily_morning_prayers/
 categories:
   - Prayers
 tags:
-  - 'Prayers'
+  - 'Morning & Evening Prayers'
 draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
