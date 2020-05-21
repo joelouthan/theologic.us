@@ -11,6 +11,21 @@ tags:
 draft: false
 ---
 
+**My God, My Father, While I Stray** *lyrics by Charlotte Elliot, cover by Brandon Liab*
+
+<pre>
+<i>If thou shouldst call me to resign
+What most I prize, it ne'er was mine;
+I only yield thee what was thine,
+'Thy will be done.'</i>
+
+ - Charlotte Elliot
+</pre>
+
+<div style="max-width:100%;"><div style="position:relative;padding-bottom:calc(56.25% + 52px);height: 0;"><iframe style="position:absolute;top:0;left:0;" width="100%" height="100%" src="https://embed.song.link/?url=https%3A%2F%2Fsong.link%2Fi%2F1514033351&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox"></iframe></div></div>
+
+------
+
 **My unpopular opinion** - and I fully acknowledge that this is me being judgmental but I always want to give a side eye to pastors who publish books at a relatively young age. Now, I was about to say that all the books that I read from dead people were old. But were they? When did John Owens write *The Death of Death in the Death of Christ?* *googles...* Good gosh, he was 31! I wasn't even saved to God when I was 31!
 
 Okay, well, in either case, this was super encouraging to me since I just celebrated my 45th birthday.
