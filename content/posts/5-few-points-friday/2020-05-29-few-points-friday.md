@@ -1,13 +1,13 @@
 ---
-title: 'A Few Points on Friday: _ Edition'
+title: 'A Few Points for Friday: _ Edition'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-29
-url: /few-points-friday/-few-points-friday/
+url: /few-points-friday/2020-05-29-few-points-friday/
 categories:
   - Links
 tags:
-  - 'Few Points on Friday'
+  - 'A Few Points for Friday'
 draft: false
 ---
 
