@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: _ Edition'
+title: 'A Few Points for Friday: Christian Life Edition'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-29
