@@ -41,3 +41,9 @@ draft: false
 
 ------
 
+**There is no lie**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How much nonsense could we have avoided if Bavinck had been translated into English earlier?</p>&mdash; Jacob Denhollander (@JJ_Denhollander) <a href="https://twitter.com/JJ_Denhollander/status/1265117314544021504?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+------
+
