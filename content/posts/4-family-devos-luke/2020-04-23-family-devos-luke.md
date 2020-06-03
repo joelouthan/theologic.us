@@ -5,7 +5,7 @@ type: post
 publishDate: 2020-04-23
 url: /family-devos-luke/2020-04-23-family-devos-luke/
 categories:
-  - Theology
+  - Devotions
 tags:
   - 'Family Devotions: Luke'
 draft: false
