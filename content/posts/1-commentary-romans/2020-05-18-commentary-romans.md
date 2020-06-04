@@ -11,6 +11,8 @@ tags:
 draft: false
 ---
 
+**Romans 1:16-17 For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, The righteous shall live by faith.**
+
 ### For in it the righteousness of God is revealed
 
 The mark of the earthly ministry of Jesus Christ is not defined necessarily by what He proclaimed nor by what He did. Christ proclaimed the kingdom of God, to be sure, but what was the difference between him and any other self-proclaimed Messiah before and since the life of Christ? And indeed, the miracles and healings he has done might back up His words, but we have seen some of those same miracles and healings in our day and time. What makes Christ so remarkable?
