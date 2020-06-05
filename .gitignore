@@ -32,4 +32,4 @@ resources/sunset.jpg
 vendor
 
 content/posts/*/x*.md
-content/posts/prayers/*
+content/posts/prayers/x-*.md
