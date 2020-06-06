@@ -1,9 +1,9 @@
 ---
-title: 'Daily Prayers for Friday, 5 June 2020'
+title: 'Daily Prayers for Saturday, 6 June 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-06-05T08:00:00-06:00
-url: /daily_prayers/2020-06-05-daily_prayers/
+publishDate: 2020-06-06T08:00:00-06:00
+url: /daily_prayers/2020-06-06-daily_prayers/
 categories:
   - Prayers
 tags:
@@ -12,48 +12,17 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre>
-  Isaiah 41:21–24
-      Set forth your case, says the LORD; 
-      bring your proofs, says the King of Jacob. 
-      Let them bring them, and tell us 
-      what is to happen. 
-      Tell us the former things, what they are, 
-      that we may consider them, 
-      that we may know their outcome; 
-      or declare to us the things to come. 
-      Tell us what is to come hereafter, 
-      that we may know that you are gods; 
-      do good, or do harm, 
-      that we may be dismayed and terrified. 
-      Behold, you are nothing, 
-      and your work is less than nothing; 
-      an abomination is he who chooses you.
-</pre>
 
-My God,
 
-I repent of all of my idols of comforts and power.
+**Sarah, my love** 
 
-I repent of all the things that I do to make me safe.
+**Lord, help me to gentle, patient, and tender like you** 
 
-Help my unbelief. Save me from my sin.
+**Lord, let me preach your gospel, die, and then be forgotten** 
 
-Comfort me in your arms.
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
 
-Cleanse me from all unrighteousness.
-
-Help me trust in you. today.
-
-**Sarah, my love** - thank you for her sweetness and kindness; generosity and wisdom; compassion and mercy. Thank you for the grace you have given her so that she has given to me.
-
-**Lord, help me to gentle, patient, and tender like you** - Thank you for making me quicker when I am harsh. Lord, help me to be tender like you. I don't want to be hard. I want to be soft.
-
-**Lord, let me preach your gospel, die, and then be forgotten** - If only.
-
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** - All of my life and suffering was worth it--because I get to point others to you.
-
-**For my Jonathan** - Thank you for Andrew. Thank you for Dave. Thank you!
+**For my Jonathan** 
 
 
 
@@ -67,9 +36,7 @@ Help me trust in you. today.
 
 *Student at OU*
 
-My Lord, again I do not know. Your scripture declares I do not know the beginning from the end. But you do. And I want to be in your will and do as you will. Your plans are better. Your ways are higher. I am limited and weak. You are mighty and all-knowing.  
 
-Whatever maxes out your glory, that is what I am here for. 
 
 ## For those who do not know You
 
@@ -133,7 +100,7 @@ Whatever maxes out your glory, that is what I am here for.
 
 **Evan & Kaylee, Everett, Baby**
 
-Lord, save these people and every single person that I pray for. Save them today. Save them quick. Save them close and forever. I pray that each person here would not spend one additional day not knowing your precious love for them.
+
 
 ### Friends
 
@@ -165,19 +132,17 @@ Lord, save these people and every single person that I pray for. Save them today
 
 **Holly & Jake, Jonah, Ellis, Finley**
 
-For my friends and my church folks, Lord thank you for them all and bless them immensely.
-
 
 
 ## Discipleship Group
 
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel** *(fear that comes with getting stuff done; Lauren's interview, job hunting; God's provision)* - 
 
-**Riley & Emily** *(fear that comes with responsibility; baby boy: provision, joy, fear of God; provision of God, directed by God)* - Thank you for Emily. Lord, heal her of her depression. Heal her body, make her new again. Bless their baby boy all of his days.
+**Riley & Emily** *(fear that comes with responsibility; baby boy: provision, joy, fear of God; provision of God, directed by God)* - 
 
-**Scott & Melody, Emily, Adelyn, Caleb** *(Emily: sensitivities, nervousness, quietness, drawing to God; Wayne)* - Whatever you must do bless them in every way
+**Scott & Melody, Emily, Adelyn, Caleb** *(Emily: sensitivities, nervousness, quietness, drawing to God; Wayne)* - 
 
-**Andrew & Andie** *(all things marriage; peace, grace, joy; Faith's brain surgery 6/3/2020, Savannah's psych/personality disorder)* - Thank you for their marriage. Thank you for bringing Faith through his. You alone are her healer. Lord, save her soul. Savannah's as well.
+**Andrew & Andie** *(all things marriage; peace, grace, joy; Faith's brain surgery 6/3/2020, Savannah's psych/personality disorder)* - 
 
 
 
@@ -189,15 +154,13 @@ For my friends and my church folks, Lord thank you for them all and bless them i
 
 **Marmie** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* 
 
-Thank you for my sweetest family. Lord, thank you that I get to have them under my roof for a few days. Lord, thank you for blessing me.
+
 
 ## Church
 
 **Lord, what do you want your church to be? What have you seen your Bride to be? Align me with that!**
 
 **God, who am I and what is my purpose?**
-
-You see, I don't know. I think I am called but what of that. What is your will in my life and in my family and in my church. Keep me aligned with what you want--nothing more.
 
 1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
 
@@ -231,6 +194,3 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
-In all, in my life, world, family, home, church, city, work, Lord, be glorified, today.
-
-Amen.
