@@ -31,43 +31,47 @@ theme = "cupper-theo"
     url = "/tags/a-life-of-compromise/"
     weight = 3
   [[menu.nav]]
-    name = "Monday - Commentary: Romans"
-    url = "/tags/commentary-romans/"
+    name = "Monday :: Commentary: Romans"
+	url = "/tags/commentary-romans/"
     weight = 11
   [[menu.nav]]
-    name = "Tuesday - Now Sings My Soul: Prayers based on the Psalms"
+    name = "Tuesday :: Now Sings My Soul: Prayers based on the Psalms"
     url = "/tags/now-sings-my-soul-psalms/"
     weight = 12
   [[menu.nav]]
-    name = "Thursday - Family Devotions: Luke"
+    name = "Wednesday :: Thinking Through Ministry: Journaling through Pastoral Epistles"
+    url = "/tags/philosophy-of-ministry/"
+    weight = 13
+  [[menu.nav]]
+    name = "Thursday :: Family Devotions: Luke"
     url = "/tags/family-devotions-luke/"
     weight = 14
   [[menu.nav]]
-    name = "Friday - A Few Points"
+    name = "Friday :: A Few Points"
     url = "/tags/few-points-on-friday/"
     weight = 15
   [[menu.nav]]
-    name = "Saturday - Sundry Items"
+    name = "Saturday :: Sundry Items"
     url = "/tags/sundry-saturdays/"
     weight = 16
   [[menu.nav]]
-    name = "COMPLETED: Here is Love: Exposition in Romans 8"
+    name = "MANUSCRIPT :: Here is Love: Exposition in Romans 8"
     url = "/tags/here-is-love/"
     weight = 20
   [[menu.nav]]
-    name = "COMPLETED: Family Devotions: Mark"
+    name = "MANUSCRIPT :: Family Devotions: Mark"
     url = "/tags/family-devotions-mark/"
     weight = 21
   [[menu.nav]]
-    name = "COMPLETED: The Lord's Prayer"
+    name = "MANUSCRIPT :: The Lord's Prayer"
     url = "/tags/the-lords-prayer/"
     weight = 22
   [[menu.nav]]
-    name = "COMPLETED: Ordo Salutis: Devotions on Soteriology"
+    name = "MANUSCRIPT :: Ordo Salutis: Devotions on Salvation"
     url = "/tags/ordo-salutis/"
     weight = 23
   [[menu.nav]]
-    name = "COMPLETED: Thanksgiving: Scriptural Reference on Thanks"
+    name = "REFERENCE:: Thanksgiving: Scriptural Reference on Thanks"
     url = "/tags/thanksgiving/"
     weight = 24
   [[menu.nav]]

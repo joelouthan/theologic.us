@@ -29,7 +29,7 @@ draft: false
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unscientific poll<br><br>Trying to find out if there is truly a gender gap between people who can&#39;t shut the cabinet doors in the kitchen. <br><br>I live with a adult who leaves the cabinet doors hanging open in the kitchen and that person is</p>&mdash; Rachel &quot;The Doc&quot; Bitecofer 📈🔭🍌 (@RachelBitecofer) <a href="https://twitter.com/RachelBitecofer/status/1258370744301563904?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-------
+---
 
 Not a parody: this is for [real](https://www.apple.com/shop/product/MX572ZM/A/apple-mac-pro-wheels-kit). I think my brand new tires on my 2012 Acura MDX were about the same price.
 
