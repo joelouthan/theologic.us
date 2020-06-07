@@ -25,51 +25,51 @@ theme = "cupper-theo"
   [[menu.nav]]
     name = "Recent"
     url = "/posts/"
-    weight = 1
+    weight = 2
   [[menu.nav]]
     name = "Memoir: A Life of Compromise"
     url = "/tags/a-life-of-compromise/"
-    weight = 2
-  [[menu.nav]]
-    name = "Here is Love: Exposition in Romans 8"
-    url = "/tags/here-is-love/"
     weight = 3
   [[menu.nav]]
-    name = "The Lord's Prayer"
-    url = "/tags/the-lords-prayer/"
-    weight = 4
-  [[menu.nav]]
-    name = "Ordo Salutis: Devotions on Soteriology"
-    url = "/tags/ordo-salutis/"
-    weight = 5
-  [[menu.nav]]
-    name = "Thanksgiving: Scriptural Reference on Thanks"
-    url = "/tags/thanksgiving/"
-    weight = 6
-  [[menu.nav]]
-    name = "Commentary: Romans"
+    name = "Monday - Commentary: Romans"
     url = "/tags/commentary-romans/"
-    weight = 10
+    weight = 11
   [[menu.nav]]
-    name = "Now Sings My Soul: Prayers based on the Psalms"
+    name = "Tuesday - Now Sings My Soul: Prayers based on the Psalms"
     url = "/tags/now-sings-my-soul-psalms/"
-    weight = 10
+    weight = 12
   [[menu.nav]]
-    name = "Family Devotions: Mark"
-    url = "/tags/family-devotions-mark/"
-    weight = 20
-  [[menu.nav]]
-    name = "Family Devotions: Luke"
+    name = "Thursday - Family Devotions: Luke"
     url = "/tags/family-devotions-luke/"
+    weight = 14
+  [[menu.nav]]
+    name = "Friday - A Few Points"
+    url = "/tags/few-points-on-friday/"
+    weight = 15
+  [[menu.nav]]
+    name = "Saturday - Sundry Items"
+    url = "/tags/sundry-saturdays/"
+    weight = 16
+  [[menu.nav]]
+    name = "COMPLETED: Here is Love: Exposition in Romans 8"
+    url = "/tags/here-is-love/"
     weight = 20
   [[menu.nav]]
-    name = "A Few Points on Friday"
-    url = "/tags/few-points-on-friday/"
-    weight = 98
+    name = "COMPLETED: Family Devotions: Mark"
+    url = "/tags/family-devotions-mark/"
+    weight = 21
   [[menu.nav]]
-    name = "Sundry Saturdays"
-    url = "/tags/sundry-saturdays/"
-    weight = 99
+    name = "COMPLETED: The Lord's Prayer"
+    url = "/tags/the-lords-prayer/"
+    weight = 22
+  [[menu.nav]]
+    name = "COMPLETED: Ordo Salutis: Devotions on Soteriology"
+    url = "/tags/ordo-salutis/"
+    weight = 23
+  [[menu.nav]]
+    name = "COMPLETED: Thanksgiving: Scriptural Reference on Thanks"
+    url = "/tags/thanksgiving/"
+    weight = 24
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
