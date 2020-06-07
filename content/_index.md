@@ -5,7 +5,7 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
-### June 7, 2020 Introducing 'Thinking Thorugh Ministry' series on Wednesdays
+### June 7, 2020 Introducing 'Thinking Through Ministry' series on Wednesdays
 
 I just started a mentor relationship with an older retired pastor. I know what I have is one of the most incredible blessings and treasures in the world. Considering...
 
@@ -32,6 +32,8 @@ In other words, my new mentor doesn't *really* know if I believe in the Bible or
 I am going to use this series to examine my own theology, doctrine and philosophy of ministry.
 
 May God be glorified.
+
+Note: *My Memoir series is ongoing but wrapping up.*
 
 ---
 
