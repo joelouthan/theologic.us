@@ -29,9 +29,15 @@ But this is what I know for a fact since that moment: whatever we know about God
 
 and
 
->  Hebrews 5:10–6:3 being designated by God a high priest after the order of Melchizedek. About this, we have much to say, and it is hard to explain since you have become dull of hearing. For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food, for everyone who lives on milk is unskilled in the word of righteousness, since he is a child. But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil. 
+> Hebrews 5:11–6:3 About this, we have much to say, and it is hard to explain since you have become dull of hearing. For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food, for everyone who lives on milk is unskilled in the word of righteousness, since he is a child. But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil. 
 
 > **Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God, and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment. And this we will do if God permits.** 
+
+Let us count the implications of such a doctrine. For us to know anything of God and anything he might give to us, He would have to give the knowledge of the gift as well as the gift itself. We can look upon this and think that in 1st Corinthians, Paul is simply talking about spiritual gifts. But that is not the context of chapters 1 to 3, namely, *all things comes from God, especially all truth* (1 Corinthians 3:19-23). 
+
+God is truth and God gives the truth but he must also give us the understanding to handle the truth. We see this throughout the Bible where the Prophets were given clear words to preach only to have people reject the words of God over and over again. I find it fascinating in these post-truth and post-modern times where progressive thinkers make the claims that we cannot be certain about any truth and then proceed to reject the word of God. Yet, when we read the word of God, we read *in* Scriptures of people rejecting the word of God.
+
+![I restored in HD 4k the original "Spider-Man Pointing at Spider ...](../../images/bekphnqftcb41.jpg)
 
 We also know that there is **nothing** within us that is good
 
