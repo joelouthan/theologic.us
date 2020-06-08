@@ -8,7 +8,7 @@ categories:
   - Commentary
 tags:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 
 ### as it written, "The righteous shall live by faith."
