@@ -71,7 +71,7 @@ theme = "cupper-theo"
     url = "/tags/ordo-salutis/"
     weight = 23
   [[menu.nav]]
-    name = "REFERENCE:: Thanksgiving: Scriptural Reference on Thanks"
+    name = "REFERENCE :: Thanksgiving: Scriptural Reference on Thanks"
     url = "/tags/thanksgiving/"
     weight = 24
   [[menu.nav]]
