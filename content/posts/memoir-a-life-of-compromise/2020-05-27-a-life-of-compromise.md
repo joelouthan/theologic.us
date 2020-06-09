@@ -8,7 +8,7 @@ categories:
   - Memoir
 tags:
   - 'A Life of Compromise'
-draft: false
+draft: true
 ---
 
 Most of my life was living and dwelling in shame. And I have tried to live my life of shame without God.
