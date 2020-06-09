@@ -1,5 +1,5 @@
 ---
-title: 'Romans 2:25-29 Our Outward Appearance versus Our Inward Appearance '
+title: "Romans 2:25-29 Our Outward Appearance versus Our Inward Appearance"
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-03

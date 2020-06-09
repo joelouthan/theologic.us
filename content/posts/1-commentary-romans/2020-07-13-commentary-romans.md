@@ -1,5 +1,5 @@
 ---
-title: 'Romans 2:6-11 Our Unrighteous Works and God's Impartiality '
+title: "Romans 2:6-11 Our Unrighteous Works and God's Impartiality"
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-13

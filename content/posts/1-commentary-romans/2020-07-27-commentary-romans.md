@@ -1,5 +1,5 @@
 ---
-title: 'Romans 2:17-24 Our Blaspheming and God's Righteousness '
+title: "Romans 2:17-24 Our Blaspheming and God's Righteousness"
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-27

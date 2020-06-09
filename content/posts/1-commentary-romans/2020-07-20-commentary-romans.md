@@ -1,5 +1,5 @@
 ---
-title: 'Romans 2:12-16 Even Our Secret Disobedience and God's Law '
+title: "Romans 2:12-16 Even Our Secret Disobedience and God's Law"
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-20
