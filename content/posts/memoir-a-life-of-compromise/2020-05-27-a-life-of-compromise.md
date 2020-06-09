@@ -44,7 +44,7 @@ Redemption is not going back into the past and changing it all. Redemption is th
 
 I am not even marked by the sin of keeping my first two wives away from my heart. I am not marked by my divorces or the fact that my kids do not live with me. I am not marked by any sin committed against me by others or sins that I have done or the right things that I failed to do.
 
-I am completely, definitely, perfectly marked by the Holy Spirit, out of the overflow of the grace, love, and mercy of God my Father through the bloodshed and broken body of His Son, my Lord Jesus Christ.
+I am completely, definitely, perfectly marked and sealed by the Holy Spirit, out of the overflow of the grace, love, and mercy of God my Father through the bloodshed and broken body of His Son, my Lord Jesus Christ.
 That is redemption. There is none greater.
 
 And because of His work in me, I know and live in that actual truth more and more every day.
@@ -52,6 +52,8 @@ And because of His work in me, I know and live in that actual truth more and mor
 That means that I have to be in counseling. And until just a few weeks ago, I realize that I will be in counseling for the rest of my life. I wish I didn’t have to, but at least I get to go. And there is no shame in that.
 
 That means that I will always pray for and continue to fight for my relationships with my wife, kids, friends, and mentors. I do not take anything for granted. If I do, it all comes undone. And there is no shame in that.
+
+That means that I will still be triggered because of my PTSD. It might be a single word or the sound of hamburger frying. It doesn't make sense to anyone else but only to me. But by God's grace, he has me.
 
 And ultimately, I am utterly dependent on my Lord Jesus Christ and the will of my Father. Every day, every second, every decision, everything that I do has to be done according to his will. Christ lived his life entirely within the will of His Father by the power of His Spirit. How can I do no less?
 
