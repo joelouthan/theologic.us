@@ -11,21 +11,25 @@ tags:
 draft: false
 ---
 
-For most of my life, I have felt incredible amounts of shame. Without God, His grace, and His mercy, I have tried to work through that shame in my way.
+Most of my life was living and dwelling in shame. And I have tried to live my life of shame without God.
 
-God, that was horrible and terrible. I have done things for most of my adult life that I was so ashamed because I knew nothing but shame.
+And that was horrible and terrible. I have done things for most of my adult life that I was so ashamed because I knew nothing but shame. I had a crippling porn addiction, two failed marriages, and kids that I don't get to see all the time.
 
-I was so embarrassed and ashamed of my life. I was nothing but a weak, pathetic shell of a man who wasn’t good for anything other than sexual pleasure at the hands of a pervert. When I was a kid, I was molested and made to do things I never wanted to do. And when I became just a little older, I threw myself into the darkness of hell and sin of porn because that was the only world I have ever known. 
+I was so embarrassed and ashamed of my life. When it came down to it, I was nothing but a weak, pathetic shell of a man who wasn’t good for anything other than sexual pleasure at the hands of a pervert. When I was a kid, I was molested and made to do things I never wanted to do. And when I became just a little older, I threw myself into the darkness of hell and sin of porn because that was the only world I have ever known. 
 
 I didn’t just watch porn or looked at porn; I collected it. Organized it. I made sure I would try my best to work to produce the best porn. It started with nude models. But as porn always does, it quickly degenerated into all of porn and everything that was included.
 
 I am so ashamed of that. I am so ashamed of my past. I am so ashamed of my life.
+
+And when I have reached out for help, no one thought I was worthy enough to help out. And no one on this earth came to my rescue.
 
 The strong sense of ending my life makes so much sense to me for most of my life because I thought I was worthless. And even though I know God loves me and cares for me, that made ending my life all the more tempting—because at least I would be with my Savior forever.
 
 But ending my life, no matter how dark I get, is not redemption, and it is not grace. Not in God’s eyes.
 
 And even at the height of my shame when I attempted to take my life in front of my then-wife, my son, and my stepson, when I just wanted all the madness and confusion to end, and I just wanted the circle of sin and despair to end with my life, I still don’t know how that chef’s knife did not pierce my neck. I felt the point of the blade press into my aorta and the skin bending to the pressure, but the skin did not break.
+
+And I am ashamed that I have attempted to take my own life.
 
 If my life ended, it would not have prevented my kids from being sinners just like me.
 That is my shame.
