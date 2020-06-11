@@ -8,7 +8,7 @@ categories:
   - Ministry
 tags:
   - 'Philosophy of Ministry'
-draft: false
+draft: true
 ---
 
 ## Lorem

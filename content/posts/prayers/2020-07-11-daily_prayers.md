@@ -1,9 +1,9 @@
 ---
-title: 'Daily Prayers for Tuesday, 16 June 2020'
+title: 'Daily Prayers for Saturday, 11 July 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-06-16T08:00:00-06:00
-url: /daily_prayers/2020-06-16-daily_prayers/
+publishDate: 2020-07-11T08:00:00-06:00
+url: /daily_prayers/2020-07-11-daily_prayers/
 categories:
   - Prayers
 tags:

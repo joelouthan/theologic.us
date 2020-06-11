@@ -12,7 +12,23 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-
+<pre>
+  Isaiah 42:10–13
+      Sing to the LORD a new song, 
+      his praise from the end of the earth, 
+      you who go down to the sea, and all that fills it, 
+      the coastlands and their inhabitants. 
+      11 Let the desert and its cities lift up their voice, 
+      the villages that Kedar inhabits; 
+      let the habitants of Sela sing for joy, 
+      let them shout from the top of the mountains. 
+      12 Let them give glory to the LORD, 
+      and declare his praise in the coastlands. 
+      13 The LORD goes out like a mighty man, 
+      like a man of war he stirs up his zeal; 
+      he cries out, he shouts aloud, 
+      he shows himself mighty against his foes.
+</pre>
 
 **Sarah, my love** 
 
@@ -26,19 +42,22 @@ draft: true
 
 **For my Jonathan** 
 
+I give thanks to you Almighty God. There is none like you.
 
+I give you praise for you are my righteousness.
 
 ## Next steps
 
-*Minister at Frontline*
+- *Elder at Frontline*
+- *Internship at Frontline*
+- *Management at Red Hat*
+- *Student at OU*
 
-*Internship at Frontline*
+Lord,
 
-*Management at Red Hat*
+I am excited and content. It's like Dave said. If I am to do this, it will always be grace.
 
-*Student at OU*
-
-
+So Lord, have your way in my life.
 
 ## For those who do not know You
 
@@ -104,9 +123,11 @@ draft: true
 
 **Evan & Kaylee, Everett, Baby**
 
+I bless all of these loved ones.
 
 
-### Friends
+
+## Friends
 
 **Andrew & Jordyn, Will, Alice, Elliot** 
 
@@ -138,18 +159,36 @@ draft: true
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
 
+Thank you for these people. Bless them and seve their households.
+
 
 
 ## Discipleship Group
 
-**Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel** *(fear that comes with getting stuff done; Lauren's interview, job hunting; God's provision)* - 
+**Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
 
-**Riley & Emily** *(fear that comes with responsibility; baby boy: provision, joy, fear of God; provision of God, directed by God)* - 
+- marriage routine and conflict 
+- Communication
+- Norman High
+- More grace; gentleness, patience 
+- Future: teaching for both in the fall
 
-**Scott & Melody, Emily, Adelyn, Caleb** *(Emily: sensitivities, nervousness, quietness, drawing to God; Wayne)* - 
+**Riley & Emily**
 
-**Andrew & Andie** *(all things marriage; peace, grace, joy; Faith's brain surgery 6/3/2020, Savannah's psych/personality disorder)* - 
+- Emily diabetes symptoms 
+- contract ending
+- slowing down: not waiting for a season of rest
 
+**Scott & Melody, Emily, Adelyn, Caleb**
+
+- relearn sleep
+- Wayne & Nicole: hard conversation; praying for Spirit-led conversation 
+
+**Andrew & Andie**
+
+- Faith: pain; complications with the surgery; back to Dallas in a month to determine success
+- Faith’s friend: NY similar surgery passed away 
+- Laura (mom)
 
 
 ## Family
@@ -158,8 +197,13 @@ draft: true
 
 **Yusef, Elijah, Ivy, Ava** 
 
-**Marmie & Jason, Molly** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* 
+**Marmie & Jason, Molly**
 
+- Removal from Spiritual Isolation
+- Brought into Spiritual community
+- Equally yoked
+
+Lord, thank you for my family. Thank you for bringing them all together. Amen.
 
 
 ## Church
@@ -169,23 +213,16 @@ draft: true
 **God, who am I and what is my purpose?**
 
 1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
-
 2. **Suspicion of all authority** - *Is all authority corrupted? Is the authority of Jesus corrupted?*
-
 3. **Deconstruction of everything** - *Strip away everything and then cut the truth against my subjective prespective and experience*
-
 4. **Expressive individualism** - *With or without boundaries and order? Freedom from or freedom to Christ?* 
-
 5. **Consumerism** - *Going from citizens to individual; church as business; customer is always right* Pragmatism vs. Absolute Truth
-
 6. **Instituational Corruption and Decline** -  *Cynical of all instituations: church, marriage, family, politics, education*
 
 > **Ephesians 3:7–12 Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power. To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord, in whom we have boldness and access with confidence through our faith in him.**
 
 A. Church is the manifest wisdom of God that God continually preaches to angels.
-
 B. Church is formed and continually sustained by the grace of God
-
 C. Church is a community centered on Christ
 
 **Frontline Norman**
@@ -200,3 +237,4 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Thank you for Andrew. Thank you for his encouragement and enthusiasm. I want this to be right. I want this to be your will and not mine. Lord, in my life, be glorified. Amen.

@@ -30,13 +30,10 @@ draft: true
 
 ## Next steps
 
-*Minister at Frontline*
-
-*Internship at Frontline*
-
-*Management at Red Hat*
-
-*Student at OU*
+- *Elder at Frontline*
+- *Internship at Frontline*
+- *Management at Red Hat*
+- *Student at OU*
 
 
 
@@ -106,7 +103,7 @@ draft: true
 
 
 
-### Friends
+## Friends
 
 **Andrew & Jordyn, Will, Alice, Elliot** 
 
@@ -142,14 +139,26 @@ draft: true
 
 ## Discipleship Group
 
-**Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel** *(fear that comes with getting stuff done; Lauren's interview, job hunting; God's provision)* - 
+**Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
+- marriage routine and conflict 
+- Communication
+- Norman High
+- More grace; gentleness, patience 
+- Future: teaching for both in the fall
 
-**Riley & Emily** *(fear that comes with responsibility; baby boy: provision, joy, fear of God; provision of God, directed by God)* - 
+**Riley & Emily**
+- Emily diabetes symptoms 
+- contract ending
+- slowing down: not waiting for a season of rest
 
-**Scott & Melody, Emily, Adelyn, Caleb** *(Emily: sensitivities, nervousness, quietness, drawing to God; Wayne)* - 
+**Scott & Melody, Emily, Adelyn, Caleb**
+- relearn sleep
+- Wayne & Nicole: hard conversation; praying for Spirit-led conversation 
 
-**Andrew & Andie** *(all things marriage; peace, grace, joy; Faith's brain surgery 6/3/2020, Savannah's psych/personality disorder)* - 
-
+**Andrew & Andie**
+- Faith: pain; complications with the surgery; back to Dallas in a month to determine success
+- Faith’s friend: NY similar surgery passed away 
+- Laura (mom)
 
 
 ## Family
@@ -158,8 +167,10 @@ draft: true
 
 **Yusef, Elijah, Ivy, Ava** 
 
-**Marmie & Jason, Molly** *(Removal from Spiritual Isolation; Brought into Spiritual community; Equally yoked)* 
-
+**Marmie & Jason, Molly**
+- Removal from Spiritual Isolation
+- Brought into Spiritual community
+- Equally yoked
 
 
 ## Church
@@ -169,23 +180,16 @@ draft: true
 **God, who am I and what is my purpose?**
 
 1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
-
 2. **Suspicion of all authority** - *Is all authority corrupted? Is the authority of Jesus corrupted?*
-
 3. **Deconstruction of everything** - *Strip away everything and then cut the truth against my subjective prespective and experience*
-
 4. **Expressive individualism** - *With or without boundaries and order? Freedom from or freedom to Christ?* 
-
 5. **Consumerism** - *Going from citizens to individual; church as business; customer is always right* Pragmatism vs. Absolute Truth
-
 6. **Instituational Corruption and Decline** -  *Cynical of all instituations: church, marriage, family, politics, education*
 
 > **Ephesians 3:7–12 Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power. To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord, in whom we have boldness and access with confidence through our faith in him.**
 
 A. Church is the manifest wisdom of God that God continually preaches to angels.
-
 B. Church is formed and continually sustained by the grace of God
-
 C. Church is a community centered on Christ
 
 **Frontline Norman**
