@@ -10,7 +10,7 @@ tags:
   - 'Family Devotions: Luke'
 draft: false
 ---
-**Luke 1:5–7 In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. But they had no child, because Elizabeth was barren, and both were advanced in years.**
+​		**Luke 1:5–7 (CSB) In the days of King Herod of Judea, there was a priest of Abijah’s division named Zechariah. His wife was from the daughters of Aaron, and her name was Elizabeth.  Both were righteous in God’s sight, living without blame according to all the commands and requirements of the Lord.  But they had no children because Elizabeth could not conceive, and both of them were well along in years.** 
 
 *What is righteous?*
 

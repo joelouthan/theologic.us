@@ -10,7 +10,7 @@ tags:
   - 'Family Devotions: Luke'
 draft: false
 ---
-**Luke 1:8–10 Now while he was serving as priest before God when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense.**
+​		**Luke 1:8–10 (CSB) When his division was on duty and he was serving as priest before God,  it happened that he was chosen by lot, according to the custom of the priesthood, to enter the sanctuary of the Lord and burn incense.  At the hour of incense the whole assembly of the people was praying outside.** 
 
 1 Corinthians 7:24 So, brothers, in whatever condition each was called, there let him remain with God.
 
