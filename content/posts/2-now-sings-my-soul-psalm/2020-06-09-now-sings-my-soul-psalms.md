@@ -13,7 +13,6 @@ draft: false
 
 <pre>
 <div style="font-variant: small-caps;">My Only Redeemer</div>
-
 Who is like you, God?
 
 And who would compare to you?
