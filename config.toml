@@ -48,7 +48,7 @@ theme = "cupper-theo"
     weight = 14
   [[menu.nav]]
     name = "Friday :: A Few Points"
-    url = "/tags/few-points-on-friday/"
+    url = "/tags/a-few-points-on-friday/"
     weight = 15
   [[menu.nav]]
     name = "Saturday :: Sundry Items"
