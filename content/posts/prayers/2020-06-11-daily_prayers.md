@@ -12,7 +12,37 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+<pre>
+  Isaiah 42:14–17
+      For a long time I have held my peace; 
+      I have kept still and restrained myself; 
+      now I will cry out like a woman in labor; 
+      I will gasp and pant. 
+      15 I will lay waste mountains and hills, 
+      and dry up all their vegetation; 
+      I will turn the rivers into islands, 
+      and dry up the pools. 
+      16 And I will lead the blind 
+      in a way that they do not know, 
+      in paths that they have not known 
+      I will guide them. 
+      I will turn the darkness before them into light, 
+      the rough places into level ground. 
+      These are the things I do, 
+      and I do not forsake them. 
+      17 They are turned back and utterly put to shame, 
+      who trust in carved idols, 
+      who say to metal images, 
+      “You are our gods.”
+</pre>
 
+Lord, I do believe that your wrath is real and it was for me--for it says I was once a vessel made for destruction.
+
+But Your grace overflowed for me in the faith and love that are in my only Lord Jesus.
+
+You are my righteousness.
+
+Destroy my idols--whatever they might be. Let this world go dim. Give me your glory.
 
 **Sarah, my love** 
 
@@ -26,7 +56,7 @@ draft: true
 
 **For my Jonathan** 
 
-
+For all of this, I thank you.
 
 ## Next steps
 
@@ -93,7 +123,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **George** 
 
-**Wayne Barber** 
+**Wayne & Nicole Barber** 
 
 **Eric Robinson** 
 

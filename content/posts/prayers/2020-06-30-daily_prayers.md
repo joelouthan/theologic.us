@@ -93,7 +93,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **George** 
 
-**Wayne Barber** 
+**Wayne & Nicole Barber** 
 
 **Eric Robinson** 
 
