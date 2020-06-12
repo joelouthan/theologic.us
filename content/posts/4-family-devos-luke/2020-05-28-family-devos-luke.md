@@ -11,9 +11,7 @@ tags:
 draft: false
 ---
 
-**Luke 3:7–14 He said therefore to the crowds that came out to be baptized by him, “You brood of vipers! Who warned you to flee from the wrath to come? Bear fruits in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you, God is able from these stones to raise up children for Abraham. Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.”**  
-
-**And the crowds asked him, “What then shall we do?” And he answered them, “Whoever has two tunics is to share with him who has none, and whoever has food is to do likewise.” Tax collectors also came to be baptized and said to him, “Teacher, what shall we do?” And he said to them, “Collect no more than you are authorized to do.” Soldiers also asked him, “And we, what shall we do?” And he said to them, “Do not extort money from anyone by threats or by false accusation, and be content with your wages.”** 
+​		**Luke 3:7–14 (CSB) He then said to the crowds who came out to be baptized by him, “Brood of vipers! Who warned you to flee from the coming wrath?  Therefore produce fruit consistent with repentance. And don’t start saying to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able to raise up children for Abraham from these stones.  The ax is already at the root of the trees. Therefore, every tree that doesn’t produce good fruit will be cut down and thrown into the fire.”  “What then should we do?” the crowds were asking him.  He replied to them, “The one who has two shirts must share with someone who has none, and the one who has food must do the same.”  Tax collectors also came to be baptized, and they asked him, “Teacher, what should we do?”  He told them, “Don’t collect any more than what you have been authorized.”  Some soldiers also questioned him, “What should we do?” He said to them, “Don’t take money from anyone by force or false accusation, and be satisfied with your wages.”** 
 
 *According to John, what is the mark of a person who believes and trusts in God?*
 

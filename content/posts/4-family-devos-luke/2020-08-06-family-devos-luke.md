@@ -11,7 +11,5 @@ tags:
 draft: false
 ---
 
-**Luke 4:38-40 And he arose and left the synagogue and entered Simon’s house. Now Simon’s mother-in-law was ill with a high fever, and they appealed to him on her behalf. 39 And he stood over her and rebuked the fever, and it left her, and immediately she rose and began to serve them.**
-
-**40 Now when the sun was setting, all those who had any who were sick with various diseases brought them to him, and he laid his hands on every one of them and healed them.**
+​		**Luke 4:38–40 (CSB) After he left the synagogue, he entered Simon’s house. Simon’s mother-in-law was suffering from a high fever, and they asked him about her.  So he stood over her and rebuked the fever, and it left her. She got up immediately and began to serve them.  When the sun was setting, all those who had anyone sick with various diseases brought them to him. As he laid his hands on each one of them, he healed them.** 
 

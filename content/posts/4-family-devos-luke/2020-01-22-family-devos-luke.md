@@ -11,11 +11,12 @@ tags:
 draft: false
 ---
 
-**Luke 2:8-21 And in the same region there were shepherds out in the field, keeping watch over their flock by night.  And an angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were filled with great fear.  And the angel said to them, Fear not, for behold, I bring you good news of great joy that will be for all the people.  For unto you is born this day in the city of David a Savior, who is Christ the Lord.  And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger.  And suddenly there was with the angel a multitude of the heavenly host praising God and saying,**   
+​		**Luke 2:8–21 (CSB) In the same region, shepherds were staying out in the fields and keeping watch at night over their flock.  Then an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were terrified.  But the angel said to them, “Don’t be afraid, for look, I proclaim to you good news of great joy that will be for all the people:  Today in the city of David a Savior was born for you, who is the Messiah, the Lord.  This will be the sign for you: You will find a baby wrapped tightly in cloth and lying in a manger.”**  
 
-&nbsp;&nbsp;**Glory to God in the highest,**  
-**&nbsp;&nbsp;&nbsp;&nbsp;and on earth peace among those with whom he is pleased!**
+**Suddenly there was a multitude of the heavenly host with the angel, praising God and saying:**  
 
-  **When the angels went away from them into heaven, the shepherds said to one another, Let us go over to Bethlehem and see this thing that has happened, which the Lord has made known to us.  And they went with haste and found Mary and Joseph, and the baby lying in a manger.  And when they saw it, they made known the saying that had been told them concerning this child.  And all who heard it wondered at what the shepherds told them.  But Mary treasured up all these things, pondering them in her heart.  And the shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them.   And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.**
+**Glory to God in the highest heaven, and peace on earth to people he favors!**  
+
+**When the angels had left them and returned to heaven, the shepherds said to one another, “Let’s go straight to Bethlehem and see what has happened, which the Lord has made known to us.”  They hurried off and found both Mary and Joseph, and the baby who was lying in the manger.  After seeing them, they reported the message they were told about this child,  and all who heard it were amazed at what the shepherds said to them.  But Mary was treasuring up all these things in her heart and meditating on them.  The shepherds returned, glorifying and praising God for all the things they had seen and heard, which were just as they had been told.  When the eight days were completed for his circumcision, he was named Jesus—the name given by the angel before he was conceived.** 
 
 *Consider all of Old Testament, why were these shepherds so joyful in this little baby boy being born?*

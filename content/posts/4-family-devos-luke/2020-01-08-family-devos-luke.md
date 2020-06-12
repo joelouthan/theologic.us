@@ -11,7 +11,43 @@ tags:
 draft: false
 ---
 
-Luke 1:67–80 **And his father Zechariah was filled with the Holy Spirit and prophesied, saying,  “Blessed be the Lord God of Israel, for he has visited and redeemed his people  and has raised up a horn of salvation for us in the house of his servant David,  as he spoke by the mouth of his holy prophets from of old,  that we should be saved from our enemies and from the hand of all who hate us;  to show the mercy promised to our fathers and to remember his holy covenant,  the oath that he swore to our father Abraham, to grant us  that we, being delivered from the hand of our enemies, might serve him without fear,  in holiness and righteousness before him all our days.  And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways,  to give knowledge of salvation to his people in the forgiveness of their sins,  because of the tender mercy of our God, whereby the sunrise shall visit us from on high  to give light to those who sit in darkness and in the shadow of death, to guide our feet into the way of peace.”  And the child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.** 
+<pre>
+Luke 1:67–80 (CSB)
+Then his father Zechariah was filled with the Holy Spirit and prophesied: 
+      Blessed is the Lord, the God of Israel, 
+      because he has visited 
+      and provided redemption for his people. 
+      He has raised up a horn of salvation for us 
+      in the house of his servant David, 
+      just as he spoke by the mouth 
+      of his holy prophets in ancient times; 
+      salvation from our enemies 
+      and from the hand of those who hate us. 
+      He has dealt mercifully with our ancestors 
+      and remembered his holy covenant—
+      the oath that he swore to our father Abraham. 
+      He has given us the privilege, 
+      since we have been rescued 
+      from the hand of our enemies, 
+      to serve him without fear 
+      in holiness and righteousness 
+      in his presence all our days. 
+      And you, child, will be called 
+      a prophet of the Most High, 
+      for you will go before the Lord 
+      to prepare his ways, 
+      to give his people knowledge of salvation 
+      through the forgiveness of their sins. 
+      Because of our God’s merciful compassion, 
+      the dawn from on high will visit us 
+      to shine on those who live in darkness 
+      and the shadow of death, 
+      to guide our feet into the way of peace. 
+
+The child grew up and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.
+</pre>
+
+
 
 *Giving Zechariah's prophesy, what did the Old Testament reveal about God and what He promised He will do for his people?*
 

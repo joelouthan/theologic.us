@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**Luke 3:18-20 So with many other exhortations he preached good news to the people. 19 But Herod the tetrarch, who had been reproved by him for Herodias, his brother’s wife, and for all the evil things that Herod had done, 20 added this to them all, that he locked up John in prison.**
+​		**Luke 3:18–20 (CSB) Then, along with many other exhortations, he proclaimed good news to the people.  But when John rebuked Herod the tetrarch because of Herodias, his brother’s wife, and all the evil things he had done,  Herod added this to everything else—he locked up John in prison.** 
 
 *If we tell others of the good news of God, will all people love to hear it or will some hate it?*
 

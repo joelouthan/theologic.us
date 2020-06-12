@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-Luke 2:22–24 **And when the time came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord (as it is written in the Law of the Lord, “Every male who first opens the womb shall be called holy to the Lord”) and to offer a sacrifice according to what is said in the Law of the Lord, “a pair of turtledoves, or two young pigeons.”**
+​		**Luke 2:22–24 (CSB) And when the days of their purification according to the law of Moses were finished, they brought him up to Jerusalem to present him to the Lord  (just as it is written in the law of the Lord, Every firstborn male will be dedicated to the Lord)  and to offer a sacrifice (according to what is stated in the law of the Lord, a pair of turtledoves or two young pigeons).** 
 
 *Did Christ perfectly obey the law of God?*
 

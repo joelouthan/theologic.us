@@ -11,9 +11,7 @@ tags:
 draft: false
 ---
 
-**Luke 2:34–38** **And Simeon blessed them and said to Mary his mother, “Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed (and a sword will pierce through your own soul also), so that thoughts from many hearts may be revealed.”**  
-
-​		**And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived with her husband seven years from when she was a virgin, and then as a widow until she was eighty-four. She did not depart from the temple, worshiping with fasting and prayer night and day. And coming up at that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem.** 
+​		**Luke 2:34–38 (CSB) Then Simeon blessed them and told his mother Mary, “Indeed, this child is destined to cause the fall and rise of many in Israel and to be a sign that will be opposed— and a sword will pierce your own soul—that the thoughts of many hearts may be revealed.”  There was also a prophetess, Anna, a daughter of Phanuel, of the tribe of Asher. She was well along in years, having lived with her husband seven years after her marriage,  and was a widow for eighty-four years. She did not leave the temple, serving God night and day with fasting and prayers.  At that very moment, she came up and began to thank God and to speak about him to all who were looking forward to the redemption of Jerusalem.** 
 
 *According to Simeon, what did Jesus come to do? Where can we point in the Gospels where Christ himself speaks of the same thing?*
 

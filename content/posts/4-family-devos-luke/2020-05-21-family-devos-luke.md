@@ -11,15 +11,17 @@ tags:
 draft: false
 ---
 
-**Luke 3:1–6 In the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness. And he went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins. As it is written in the book of the words of Isaiah the prophet,**
+​		**Luke 3:1–6 (CSB) In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod was tetrarch of Galilee, his brother Philip tetrarch of the region of Iturea and Trachonitis, and Lysanias tetrarch of Abilene,  during the high priesthood of Annas and Caiaphas, God’s word came to John the son of Zechariah in the wilderness.  He went into all the vicinity of the Jordan, proclaiming a baptism of repentance for the forgiveness of sins,  as it is written in the book of the words of the prophet Isaiah: A voice of one crying out in the wilderness: **
 
-**“The voice of one crying in the wilderness:** 
-**‘Prepare the way of the Lord,** 
-**make his paths straight.** 
-**Every valley shall be filled,** 
-**and every mountain and hill shall be made low,** 
-**and the crooked shall become straight,** 
-**and the rough places shall become level ways,**
+<pre>
+Prepare the way for the Lord; 
+	make his paths straight!  
+Every valley will be filled, 
+	and every mountain and hill will be made low; 
+	the crooked will become straight, 
+	the rough ways smooth,  
+	and everyone will see the salvation of God.  
+</pre>
 
 *Who is the last prophet of the Old Testament?*
 

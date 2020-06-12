@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**Now when all the people were baptized, and when Jesus also had been baptized and was praying, the heavens were opened, 22 and the Holy Spirit descended on him in bodily form, like a dove; and a voice came from heaven, “You are my beloved Son; with you I am well pleased.”**
+​		**Luke 3:21–22 (CSB) When all the people were baptized, Jesus also was baptized. As he was praying, heaven opened,  and the Holy Spirit descended on him in a physical appearance like a dove. And a voice came from heaven: “You are my beloved Son; with you I am well-pleased.”** 
 
 *How did Jesus began his ministry on earth?*
 

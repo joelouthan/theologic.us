@@ -11,16 +11,22 @@ tags:
 draft: false
 ---
 
-**Luke 2:25–33 Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him. And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord’s Christ. And he came in the Spirit into the temple, and when the parents brought in the child Jesus, to do for him according to the custom of the Law, he took him up in his arms and blessed God and said,** 
+​		Luke 2:25–33 (CSB) There was a man in Jerusalem whose name was Simeon. This man was righteous and devout, looking forward to Israel’s consolation, and the Holy Spirit was on him.  It had been revealed to him by the Holy Spirit that he would not see death before he saw the Lord’s Messiah.  Guided by the Spirit, he entered the temple. When the parents brought in the child Jesus to perform for him what was customary under the law,  
 
-<pre><b>  “Lord, now you are letting your servant depart in peace, 
-  	according to your word; 
-  	for my eyes have seen your salvation 
-  	that you have prepared in the presence of all peoples, 
-  	a light for revelation to the Gentiles, 
-  		and for glory to your people Israel.” </b></pre>
+Simeon took him up in his arms, praised God, and said,
 
-**And his father and his mother marveled at what was said about him.**
+<pre>
+  Now, Master, 
+  	you can dismiss your servant in peace, 
+  	as you promised.
+  For my eyes have seen your salvation.  
+  You have prepared it 
+  	in the presence of all peoples—  
+  	a light for revelation to the Gentiles 
+  	and glory to your people Israel.
+</pre>
+
+His father and mother were amazed at what was being said about him. 
 
 *How do you think Simeon felt see and holding the Christ?*
 

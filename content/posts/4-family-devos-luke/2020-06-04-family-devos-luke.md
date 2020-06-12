@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**Luke 3:15–17 As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ, John answered them all, saying, “I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire. His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire.”** 
+​		**Luke 3:15–17 (CSB) Now the people were waiting expectantly, and all of them were questioning in their hearts whether John might be the Messiah.  John answered them all, “I baptize you with water, but one who is more powerful than I am is coming. I am not worthy to untie the strap of his sandals. He will baptize you with the Holy Spirit and fire.  His winnowing shovel is in his hand to clear his threshing floor and gather the wheat into his barn, but the chaff he will burn with fire that never goes out.”** 
 
 *Can John the Baptist be the Christ?*
 
