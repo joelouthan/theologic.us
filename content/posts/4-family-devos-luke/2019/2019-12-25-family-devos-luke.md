@@ -12,7 +12,7 @@ draft: false
 ---
 
 <pre>
-  <b>Luke 1:46–55
+  <b>Luke 1:46–55 (CSB)
   And Mary said: 
       My soul magnifies the Lord, 
       and my spirit rejoices in God my Savior, 
