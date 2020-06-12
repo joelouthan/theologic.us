@@ -2,8 +2,8 @@
 title: 'Luke 4:42-44 The Lord Saves'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-13
-url: /family-devos-luke/2020-08-13-family-devos-luke/
+publishDate: 2020-08-20
+url: /family-devos-luke/2020-08-20-family-devos-luke/
 categories:
   - Devotions
 tags:
