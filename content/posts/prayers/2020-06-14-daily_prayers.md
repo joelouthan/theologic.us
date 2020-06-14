@@ -12,19 +12,59 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+<pre>
+Isaiah 42:18-25
+Hear, you deaf,
+and look, you blind, that you may see!
+Who is blind but my servant,
+or deaf as my messenger whom I send?
+Who is blind as my dedicated one,
+or blind as the servant of the LORD?
+He sees many things, but does not observe them;
+his ears are open, but he does not hear.
+The LORD was pleased, for his righteousness' sake,
+to magnify his law and make it glorious.
+But this is a people plundered and looted;
+they are all of them trapped in holes
+and hidden in prisons;
+they have become plunder with none to rescue,
+spoil with none to say, “Restore!”
+Who among you will give ear to this,
+will attend and listen for the time to come?
+Who gave up Jacob to the looter,
+and Israel to the plunderers?
+Was it not the LORD, against whom we have sinned,
+in whose ways they would not walk,
+and whose law they would not obey?
+So he poured on him the heat of his anger
+and the might of battle;
+it set him on fire all around, but he did not understand;
+it burned him up, but he did not take it to heart.
+</pre>
 
+My Lord,
 
-**Sarah, my love** 
+Do not let me ignorant to you or your word or your ways. 
 
-**Lord, help me to gentle, patient, and tender like you** 
+Keep a hold of my heart and turn my face toward you. You are my life and my rock; my shield and my fortress in whom I have placed all of my trust. 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+I’m sorry for ever sinning against you. I alone did this. But you alone saved me from my sins and more importantly saved me to yourself. 
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+Keep doing your work. Thank you for Sarah for loving me and walking me in faith. Thank you for Andrew to keep me attached to your Son’s cross. Thank you for Holly for being an instrument in healing my mind, soul, and heart. 
+
+Have your way in me. 
+
+**Sarah, my love** you’ve taken her glory to glory. Lord keep your hand upon her heart. Help her to see who you really are. 
+
+**Lord, help me to gentle, patient, and tender like you** I have seen your work. Be glorified. 
+
+**Lord, let me preach your gospel, die, and then be forgotten** all I ask Is for grace. 
+
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** again i thank you for my life
 
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
-**For my Jonathan** 
+**For my Jonathan** draw us closer to you 
 
 
 
@@ -35,7 +75,7 @@ draft: true
 - *Management at Red Hat*
 - *Student at OU*
 
-Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of yours children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
 
 ## For those who do not know You
 
@@ -101,7 +141,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Lord, save them today. And keep their hearts to you forever. 
 
 ## Friends
 
@@ -135,7 +175,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
 
-
+Lord in their lives be glorified. 
 
 ## Discipleship Group
 
@@ -160,6 +200,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Faith’s friend: NY similar surgery passed away 
 - Laura (mom)
 
+Lord, you have heard these prayers and we know you move mountains. 
 
 ## Family
 
@@ -171,6 +212,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Removal from Spiritual Isolation
 - Brought into Spiritual community
 - Equally yoked
+
+Thank you for having my sweet family here today. 
 
 
 ## Church
@@ -204,3 +247,8 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+I thank you for this church. I thank you for leading us here. I thank you for the men and women of this church. I thank you that they do respond to the world and they preach the gospel.  
+
+Thank you. Only you could have done this. Thank you. 
+
+Amen.
