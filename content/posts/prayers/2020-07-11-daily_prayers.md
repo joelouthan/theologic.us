@@ -26,6 +26,8 @@ draft: true
 
 **For my Jonathan** 
 
+**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
+
 
 
 ## Next steps
@@ -178,6 +180,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Lord, what do you want your church to be? What have you seen your Bride to be? Align me with that!**
 
 **God, who am I and what is my purpose?**
+
+**Spirit of the Living God, awaken my heart to fall in love again and again**
 
 1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
 2. **Suspicion of all authority** - *Is all authority corrupted? Is the authority of Jesus corrupted?*

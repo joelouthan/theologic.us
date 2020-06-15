@@ -1,9 +1,9 @@
 ---
-title: 'Daily Prayers for Sunday, 12 July 2020'
+title: 'Daily Prayers for Tuesday, 14 July 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-07-12T08:00:00-06:00
-url: /daily_prayers/2020-07-12-daily_prayers/
+publishDate: 2020-07-14T08:00:00-06:00
+url: /daily_prayers/2020-07-14-daily_prayers/
 categories:
   - Prayers
 tags:

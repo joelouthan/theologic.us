@@ -16,6 +16,8 @@ theme = "cupper-theo"
   codePenUser = "joe"
   
   katex = true
+  
+  disqusShortname = "joelouthan"
 
 [menu]
   [[menu.nav]]
