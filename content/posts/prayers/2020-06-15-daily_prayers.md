@@ -12,6 +12,13 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+My dear Lord,
+
+You are our only healer. You can only heal Ron. You have chosen this moment to reveal your glory. So Lord, in this moment, reveal your glory. You bring life from death because you raise your son from the dead. 
+
+In this time, we ask for one thing: your glory on full display. 
+
+Father, thank you. Be with us. Give us peace, Amen. 
 
 
 **Sarah, my love** 
