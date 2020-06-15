@@ -20,18 +20,51 @@ In this time, we ask for one thing: your glory on full display.
 
 Father, thank you. Be with us. Give us peace, Amen. 
 
+<pre>
+Isaiah 43:1-4
+Israel's Only Savior
+But now thus says the LORD,
+he who created you, O Jacob,
+he who formed you, O Israel:
+“Fear not, for I have redeemed you;
+I have called you by name, you are mine.
+When you pass through the waters, I will be with you;
+and through the rivers, they shall not overwhelm you;
+when you walk through fire you shall not be burned,
+and the flame shall not consume you.
+For I am the LORD your God,
+the Holy One of Israel, your Savior.
+I give Egypt as your ransom,
+Cush and Seba in exchange for you.
+Because you are precious in my eyes,
+and honored, and I love you,
+I give men in return for you,
+peoples in exchange for your life.
+</pre>
 
-**Sarah, my love** 
+Lord,
 
-**Lord, help me to gentle, patient, and tender like you** 
+I know what you have exchanged everything to save me. Despite my exchange to be in sin, you’ve exchanged my sin for your Son’s life. 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+I praise you because you have given me your righteousness so i can be with you forever. 
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+You are my Lord God. I will worship you. I love you so much. 
 
-**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
+**Sarah, my love** I bless her every day. I pray that you are leading her. I see such amazing fruit. But do lead her into despair but lead her towards you. 
 
-**For my Jonathan** 
+Lord, I am praying that we chase hard after you while we lay vulnerable with the desires of our heart. We keep our hands opened so we can see more of your glory and love. 
+
+**Lord, help me to gentle, patient, and tender like you** please continue your work. I see that you are not just calling me to gentleness of your Son but to the innocence of your Son. 
+
+But my mind and heart is so infected. I cannot help to think that people still want to hurt me. Lord, be my protector but align my fear to fear you and never man. 
+
+**Lord, let me preach your gospel, die, and then be forgotten** I will still need your grace. Grace in the moment.  Every time. 
+
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn**  I still thank you for everything I have been through.  Please redeem my suffering in saving your people. I really don’t know how to do that but you do. Change my mind. Be glorified. 
+
+**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ** it encourages me that you have made this world dim. Thank you. 
+
+**For my Jonathan** point us towards you 
 
 
 
@@ -108,6 +141,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
+Lord give us grace and moments to share your gospel with anybody on this list.  Save your people and elect some more. 
 
 
 ## Friends
@@ -142,7 +176,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
 
-
+Bless them all. 
 
 ## Discipleship Group
 
@@ -167,6 +201,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Faith’s friend: NY similar surgery passed away 
 - Laura (mom)
 
+Here are our prayers. Lord be our provision. 
 
 ## Family
 
@@ -179,6 +214,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+Lord I thank you for my little family.  Thank you that I have them under my roof. Save my children and their households today. 
 
 ## Church
 
@@ -211,3 +247,6 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Lord help us. God we need your grace and mercy. Lord help me to stop judging your bride and break my heart. Let me weep with those who weep. And let me grieve over when your Spirit shows me when we are failing. 
+
+Amen. 
