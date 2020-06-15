@@ -12,7 +12,9 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+Heal Ron & Karen
 
+Heal Landon. Project Jules, Eli, Sophia, and Olivia.
 
 **Sarah, my love** 
 
@@ -107,6 +109,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 ## Friends
 
+**Sarah & Josiah**
+
 **Andrew & Jordyn, Will, Alice, Elliot** 
 
 **Alix & Braden** 
@@ -136,6 +140,10 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Holly & Jake, Jonah, Ellis, Finley**
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
+
+**Ron & Karen**
+
+**Landon & Jules, Eli, Sophia & Olivia**
 
 
 
