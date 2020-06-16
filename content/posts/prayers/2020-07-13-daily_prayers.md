@@ -1,9 +1,9 @@
 ---
-title: 'Daily Prayers for Wednesday, 8 July 2020'
+title: 'Daily Prayers for Monday, 13 July 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-07-08T08:00:00-06:00
-url: /daily_prayers/2020-07-08-daily_prayers/
+publishDate: 2020-07-13T08:00:00-06:00
+url: /daily_prayers/2020-07-13-daily_prayers/
 categories:
   - Prayers
 tags:

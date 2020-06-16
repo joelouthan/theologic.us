@@ -12,7 +12,9 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+Heal Ron & Karen
 
+Heal Landon. Project Jules, Eli, Sophia, and Olivia.
 
 **Sarah, my love** 
 
@@ -25,6 +27,8 @@ draft: true
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
 **For my Jonathan** 
+
+**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
 
 
 
@@ -105,6 +109,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 ## Friends
 
+**Sarah & Josiah**
+
 **Andrew & Jordyn, Will, Alice, Elliot** 
 
 **Alix & Braden** 
@@ -134,6 +140,10 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Holly & Jake, Jonah, Ellis, Finley**
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
+
+**Ron & Karen**
+
+**Landon & Jules, Eli, Sophia & Olivia**
 
 
 
@@ -178,6 +188,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Lord, what do you want your church to be? What have you seen your Bride to be? Align me with that!**
 
 **God, who am I and what is my purpose?**
+
+**Spirit of the Living God, awaken my heart to fall in love again and again**
 
 1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
 2. **Suspicion of all authority** - *Is all authority corrupted? Is the authority of Jesus corrupted?*
