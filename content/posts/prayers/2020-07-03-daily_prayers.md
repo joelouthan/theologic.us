@@ -12,9 +12,15 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+<pre>
+
+</pre>
+
 Heal Ron & Karen
 
-Heal Landon. Project Jules, Eli, Sophia, and Olivia.
+Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
+
+Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 **Sarah, my love** 
 
@@ -39,7 +45,7 @@ Heal Landon. Project Jules, Eli, Sophia, and Olivia.
 - *Management at Red Hat*
 - *Student at OU*
 
-Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of yours children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
 
 ## For those who do not know You
 
@@ -137,6 +143,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Deanna & Hubs, Quinn**
 
+**Josh & Nancy, +kiddos**
+
 **Holly & Jake, Jonah, Ellis, Finley**
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
@@ -144,6 +152,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Ron & Karen**
 
 **Landon & Jules, Eli, Sophia & Olivia**
+
+**Kristi Mosley**
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:28-32 The Damnation of Man'
+title: 'Romans 1:21 '
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-29

@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:24-26 The Curse Upon Man '
+title: 'Romans 1:18-20 The Righteousness of God [Part 3]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-22
@@ -11,6 +11,7 @@ tags:
 draft: true
 ---
 
-**Romans 1:24-26 Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, 25 because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen.**
+**Romans 1:18–20 (ESV) For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.  For what can be known about God is plain to them, because God has shown it to them.  For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse.** 
 
-**26 For this reason God gave them up to dishonorable passions. For their women exchanged natural relations for those that are contrary to nature; 27 and the men likewise gave up natural relations with women and were consumed with passion for one another, men committing shameless acts with men and receiving in themselves the due penalty for their error.**
+### The Obviousness of God
+
