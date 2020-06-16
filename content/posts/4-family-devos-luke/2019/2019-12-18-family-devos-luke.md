@@ -1,5 +1,5 @@
 ---
-title: 'Luke 1:39-45 Jump For Joy'
+title: '✅Luke 1:39-45 Jump For Joy'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-18

@@ -1,5 +1,5 @@
 ---
-title: 'Luke 2:1-7 God Becomes Man [Part 1]'
+title: '✅Luke 2:1-7 God Becomes Man [Part 1]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-01-15

@@ -1,5 +1,5 @@
 ---
-title: 'Luke 1:67-80 What Are You Saved From and To?'
+title: '✅Luke 1:67-80 What Are You Saved From and To?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-01-08

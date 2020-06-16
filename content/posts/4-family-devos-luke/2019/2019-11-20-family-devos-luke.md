@@ -1,5 +1,5 @@
 ---
-title: 'Luke 1:8–10 How Can We Worship God Everyday?'
+title: '✅Luke 1:8–10 How Can We Worship God Everyday?'
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-20

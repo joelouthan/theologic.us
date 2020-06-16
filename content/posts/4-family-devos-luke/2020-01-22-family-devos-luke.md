@@ -1,5 +1,5 @@
 ---
-title: 'Luke 2:8-21 God Becomes Man [Part 2]'
+title: '✅Luke 2:8-21 God Becomes Man [Part 2]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-01-22
