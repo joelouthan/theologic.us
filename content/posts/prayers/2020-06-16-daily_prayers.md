@@ -12,9 +12,42 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+I thank you for my beautiful daughter Ivy. She is like me a little bit and yet more. Lord, keep her innocence. Give her peace to stay a little girl in a world who wants her to grow up now.  But more so than anything: save her to yourself. Lord i want her to love you and run after you and chase you because nothing else matters. I pray that her witness and proclamation of the gospel in her home would save her entire household: Amber, Kara, Griffen, Gabe, Emma, Leslie, Grace, Lucy, and especially the Bubs. Turn all of their hearts towards you. 
+
+Lord, would you save Yusef? Save him today. Give me an opportunity to share the gospel with him today. Moreso I will live out my life lived by faith in the Son of God who loved me and gave himself up for me. 
+
 Heal Ron & Karen
 
-Heal Landon. Project Jules, Eli, Sophia, and Olivia.
+Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
+
+<pre>
+Isaiah 43:5-7
+Fear not, for I am with you;
+I will bring your offspring from the east,
+and from the west I will gather you.
+I will say to the north, Give up,
+and to the south, Do not withhold;
+bring my sons from afar
+and my daughters from the end of the earth,
+everyone who is called by my name,
+whom I created for my glory,
+whom I formed and made.”
+</pre>
+
+My God,
+
+I see your hand
+And you keep your children
+The ones you’ve called
+
+Call me into presence
+Deliver me from darkness
+Keep me from my own sins
+I struggle because hell and sin is the only things I’ve ever known. 
+
+But you have delivered me and saved me from torment. You have removed my sins and forgiven me from all of my unrighteousness. 
+
+Cleanse my soul.  Make my heart like yours.  Renew my mind to be like Christ. Keep me innocent. 
 
 **Sarah, my love** 
 
@@ -30,6 +63,7 @@ Heal Landon. Project Jules, Eli, Sophia, and Olivia.
 
 **This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
 
+All these things i lift up to you with opened hands. I love you. 
 
 
 ## Next steps
@@ -39,7 +73,7 @@ Heal Landon. Project Jules, Eli, Sophia, and Olivia.
 - *Management at Red Hat*
 - *Student at OU*
 
-Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of yours children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
 
 ## For those who do not know You
 
@@ -145,7 +179,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Landon & Jules, Eli, Sophia & Olivia**
 
-
+Save them all today
 
 ## Discipleship Group
 
@@ -215,4 +249,6 @@ C. Church is a community centered on Christ
 **All the churches in Norman** 
 
 **Norman** 
+
+I’m asking great things of a great God. 
 
