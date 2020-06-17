@@ -13,8 +13,40 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 43:8-13
+Bring out the people who are blind, yet have eyes,
+who are deaf, yet have ears!
+All the nations gather together,
+and the peoples assemble.
+Who among them can declare this,
+and show us the former things?
+Let them bring their witnesses to prove them right,
+and let them hear and say, It is true.
+“You are my witnesses,” declares the LORD,
+“and my servant whom I have chosen,
+that you may know and believe me
+and understand that I am he.
+Before me no god was formed,
+nor shall there be any after me.
+I, I am the LORD,
+and besides me there is no savior.
+I declared and saved and proclaimed,
+when there was no strange god among you;
+and you are my witnesses,” declares the LORD, “and I am God.
+Also henceforth I am he;
+there is none who can deliver from my hand;
+I work, and who can turn it back?”
 </pre>
+
+My God, 
+
+You alone are my savior and redeemer. There is none like you. I am completely dependent upon you for my life. 
+
+Do not let me turn from you. Do not let your Spirit depart from me. Do not let my heart wander from you. 
+
+Call me every second of my life. 
+
+I will worship you. 
 
 Heal Ron & Karen
 
@@ -22,21 +54,23 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+Please deliver these people to you.  
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Sarah, my love** Lord, please show her there is no expectation from me. None like what she has gone through.  Please show her that it is enough for her to be here with me. 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, help me to gentle, patient, and tender like you** thank you over and over again. I can hear myself and I can apologize and repent in the moment.  You are doing this. Your spirit guides me. Be glorified. 
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+**Lord, let me preach your gospel, die, and then be forgotten** a little grace.  A lot of provision. All of your words. 
 
-**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** I praise you for my life and every single thing I have been through.  Redeem it all. Save your people. 
 
-**For my Jonathan** 
+**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ** please keep doing what you are doing in my life 
+
+**For my Jonathan** lord I thank you for the relationships i already have been blessed with.  Continue to grow us. 
 
 **This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
 
-
+Lord what it is I thank you. I do fear it is going to come up in weird or unhealthy ways.  But You lead me. Be my vision. 
 
 ## Next steps
 
@@ -65,7 +99,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** 
 
-**Melissa & Micah, Noah, Levi, Judah** 
+**Melissa & Micah, Noah, Levi, Judah** Lord save Micah and break his heart. Lord if it be your will, help Melissa be an intern at Frontline.  That would be so sweet. 
 
 **James** 
 
@@ -111,13 +145,13 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Lord save these people. Save them to your heart. Amen. 
 
 ## Friends
 
-**Sarah & Josiah**
+**Sarah & Josiah** bless their relationship. Thank you for bringing them together.  Bless Sarah in this moment and her family. For both families be there God 
 
-**Andrew & Jordyn, Will, Alice, Elliot** 
+**Andrew & Jordyn, Will, Alice, Elliot** bring it all together. Keep your hand upon them. 
 
 **Alix & Braden** 
 
@@ -139,13 +173,13 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Will & Carli, Will, Theo**
 
-**Dawn & Mark**
+**Dawn & Mark** pay there debts as you are paying ours.  May we testify of your goodness. 
 
 **Deanna & Hubs, Quinn**
 
 **Josh & Nancy, +kiddos**
 
-**Holly & Jake, Jonah, Ellis, Finley**
+**Holly & Jake, Jonah, Ellis, Finley** Lord bless Holly as a deacon at frontline. Have your way. 
 
 **Jason & Michelle, Hazel, Charlette, Evelyn** 
 
@@ -153,7 +187,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Landon & Jules, Eli, Sophia & Olivia**
 
-**Kristi Mosley**
+**Kristi Mosley** Lord, I have prayed for her in the past and i will continue to do so. I don’t know why. But i don’t need to know.  Bless her and keep her. Thank you for her. Just bless her today. 
 
 
 
@@ -192,6 +226,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+This is my little family. Help me to bring them all to you Lord and be their God for all of their days. 
 
 ## Church
 
@@ -200,6 +235,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **God, who am I and what is my purpose?**
 
 **Spirit of the Living God, awaken my heart to fall in love again and again**
+
+God i don’t know what you want me to do or called me to do.  I’m still sorting that out. But you have given me so much grace. Thank you for where you gave me now. 
 
 1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
 2. **Suspicion of all authority** - *Is all authority corrupted? Is the authority of Jesus corrupted?*
@@ -226,3 +263,6 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Bless my city. Give us mercy and grace.  Save us all. 
+
+Amen. 
