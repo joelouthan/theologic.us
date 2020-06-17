@@ -1,6 +1,3 @@
 [submodule "themes/cupper"]
 	path = themes/cupper-theo
 	url = https://github.com/joelouthan/cupper-hugo-theme.git
-[submodule "themes/hugo-book"]
-	path = themes/hugo-book
-	url = git@github.com:joelouthan/hugo-book.git
