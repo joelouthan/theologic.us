@@ -19,7 +19,7 @@ I am going to worship you,
 I can declare this in boldness
 	nothing of my own strength
 	and I have no righteousness to speak of.
-	
+
 Because I have seen the fullness of your grace,
 	and the ongoing gift of kindness
 	the daily portion of mercies every morning

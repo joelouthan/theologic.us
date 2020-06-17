@@ -2,7 +2,7 @@ baseURL = "https://theologic.us/"
 languageCode = "en-us"
 title = "Theologicus"
 description = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"
-theme = "hugo-book"
+theme = "cupper-theo"
 
 [params]
   description = "No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"

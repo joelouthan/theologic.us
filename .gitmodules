@@ -4,3 +4,9 @@
 [submodule "themes/hugo-book"]
 	path = themes/hugo-book
 	url = git@github.com:joelouthan/hugo-book.git
+[submodule "themes/diary"]
+	path = themes/diary
+	url = git@github.com:joelouthan/hugo-theme-diary.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = git@github.com:joelouthan/anatole.git
