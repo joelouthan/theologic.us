@@ -3,4 +3,4 @@
 	url = https://github.com/joelouthan/cupper-hugo-theme.git
 [submodule "themes/book"]
 	path = themes/book
-	url = git@github.com:joelouthan/hugo-book.git
+	url = https://github.com/joelouthan/hugo-book.git 
