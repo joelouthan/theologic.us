@@ -1,5 +1,5 @@
 ---
-title: 'Luke 2:22-24 Christ Grew In Wisdom and Stature [Part 1]'
+title: '✅Luke 2:22-24 Christ Grew In Wisdom and Stature [Part 1]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-16
