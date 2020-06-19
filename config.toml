@@ -2,15 +2,15 @@ baseURL = "https://theologic.us/"
 languageCode = "en-us"
 title = "Theologicus"
 description = """
-No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"""
+No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. – Samuel Rutherford"""
 theme = "cupper"
 
 [params]
   description = """
-No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"""
+No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. 
+– Samuel Rutherford"""
   
-  homeMetaContent = """
-No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. - Samuel Rutherford"""
+  homeMetaContent = "Collection of my theological and doctrinal writings"
   
   footer = 'Copyright &#xA9; [Joseph Louthan](/about/). Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).'
 
@@ -21,6 +21,10 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
   katex = true
   
   disqusShortname = "joelouthan"
+  
+  google_fonts = [
+    ["Delius Swash Caps", "100, 200, 300, 400, 500, 600, 700, 800, 900"]
+  ]
 
 [menu]
   [[menu.nav]]
