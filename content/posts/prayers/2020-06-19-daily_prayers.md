@@ -13,8 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 43:14-15
+Thus says the LORD,
+your Redeemer, the Holy One of Israel:
+“For your sake I send to Babylon
+and bring them all down as fugitives,
+even the Chaldeans, in the ships in which they rejoice.
+I am the LORD, your Holy One,
+the Creator of Israel, your King.”
 </pre>
+
+Oh my Lord and God,
+
+How many times have you disciplined me and kept me to yourself? And my heart wanted to wander. Lord I repent and regret when I fought against you and your will. 
+
+But you never gave up on me. You continued to pursue me. You let me know that you are sovereign over all and I am yours and you are mine. 
+
+Be exalted my Lord. Thank you for sending me into exile and wilderness. Thank you for doing your work in me.  Thank you for confirming me to the image of your Son. 
 
 Heal Ron & Karen
 
@@ -22,21 +37,29 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+All of these prayers.  Lord heal them. Please. 
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Sarah, my love** my sweetest girl. I praise your name every day because of what you are doing in her.  But do not let her go into despair. **Be her joy now.** in this moment, you be the replacement for what you are taking out of her.  Fill her with your Spirit.  Draw her closer to you. 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+Lord, would you please bless us with a child? Life comes from you alone. Please give us a child. Amen. 
+
+**Lord, help me to gentle, patient, and tender like you** Lord thank you for your sweetness. 
+
+**Lord, let me preach your gospel, die, and then be forgotten** just the grace to do your will
 
 **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
 
+Wow i don’t even know how but thank you for the sin committed against me. Now i know the depths of your love for me. And i will never confuse my dad or mom or stepmom or grandma or pastor or ex-wife for who you are. They might be sinners not saved by grace.  But you are God. There is no comparison.  
+
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
-**For my Jonathan** 
+Your work is amazing. Keep doing this in me. Make the world dim. Light me on fire.  Let me burn for you. Only if people are coming to you. Give me grace to raise your Son up so he would draw all men to him. 
+
+**For my Jonathan** oh I need this. But I thank you for Andrew. And I thank you for Dave. 
 
 **This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
 
-
+Is this really needed? But you know me. Be my provision.  
 
 ## Next steps
 
@@ -49,11 +72,15 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 ## For those who do not know You
 
-**Yusef and Nichole** 
+**Yusef and Nichole** God I cannot see what you are doing in Yusef.  But I know that I don’t see the wind and it blows. I don’t see your Spirit but He is almighty and he always moves. 
+
+Today save Yusef. 
 
 **Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy** 
 
-**Natalie, Jackson, Kingston** 
+Save this house today. 
+
+**Natalie, Jackson, Kingston** appeal to her heart. 
 
 **Reed & Sandy** 
 
@@ -65,13 +92,15 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** 
 
-**Melissa & Micah, Noah, Levi, Judah** 
+**Melissa & Micah, Noah, Levi, Judah** Lord, direct her to the internship.  How sweet it would be if we got to serve together. Have your way in her. 
+
+Also save her husband.  Today. Save him. 
 
 **James** 
 
-**Jason, Molly** 
+**Jason, Molly** save them both 
 
-**Chelsea**
+**Chelsea** save her today. Wreck her heart. Let you get the glory alone. 
 
 **Jansen & Mandy** 
 
@@ -79,7 +108,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan** 
 
-**Coleman & Wendy, Olivia, Bella, Ian**
+**Coleman & Wendy, Olivia, Bella, Ian** bless this family for their sweetness and kindness. I love them so much. You love them more. Save them to you. Spare them from your wrath. 
 
 **Mark & Nicole, Gabrielle** 
 
@@ -109,7 +138,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Jonathan & Jenn Williams** 
 
-**Evan & Kaylee, Everett, Baby**
+**Evan & Kaylee, Everett, Baby** I thank you for these wonderful people. Bless them today. 
 
 
 
@@ -155,7 +184,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Kristi Mosley**
 
-
+All of these I will lift them up. Draw them close to you speak tenderly to them and give them life and the fullness of your Spirit. Amen. 
 
 ## Discipleship Group
 
@@ -192,6 +221,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+Thank you for bringing all of my family under one place. 
 
 ## Church
 
@@ -226,3 +256,4 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Lord, I think I see it. Thank you. Thank you. Praise you. Thank you. Thank you.  
