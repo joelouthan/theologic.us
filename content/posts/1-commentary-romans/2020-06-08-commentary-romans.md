@@ -15,7 +15,7 @@ draft: true
 
 ## The Wrath of God
 
-For many of us, we might be invigorated 
+*Why the wrath of God? Why does it seem like he’s wrathful against certain injustices and not all. Certain times and not all. Certain sins and not all.*
 
 Two ways to suppress the truth of God’s righteousness and his just wrath on deserving sinners. 
 
