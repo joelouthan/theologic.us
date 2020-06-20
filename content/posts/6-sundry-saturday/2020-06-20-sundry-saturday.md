@@ -1,5 +1,5 @@
 ---
-title: 'Sundry Saturdays: Articles on Hugo'
+title: 'Sundry Saturdays: Google Fonts in Hugo'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-20
