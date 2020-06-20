@@ -13,8 +13,36 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 43:16-20
+Thus says the LORD,
+who makes a way in the sea,
+a path in the mighty waters,
+who brings forth chariot and horse,
+army and warrior;
+they lie down, they cannot rise,
+they are extinguished, quenched like a wick:
+“Remember not the former things,
+nor consider the things of old.
+Behold, I am doing a new thing;
+now it springs forth, do you not perceive it?
+I will make a way in the wilderness
+and rivers in the desert.
+The wild beasts will honor me,
+the jackals and the ostriches,
+for I give water in the wilderness,
+rivers in the desert,
+to give drink to my chosen people,
+the people whom I formed for myself
+that they might declare my praise.
 </pre>
+
+My Lord
+
+You did not intend for me to wander forever or be counted as your enemy. 
+
+Your way was your Son. And he loved me and gave himself for me. 
+
+Thank you for saving me. Thank you for drawing me close. I love you. 
 
 Heal Ron & Karen
 
@@ -111,7 +139,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Save every name and then save their family and friends. 
 
 ## Friends
 
@@ -226,3 +254,4 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Lord, whatever you are doing and will do and have done, I will glorify your name. 
