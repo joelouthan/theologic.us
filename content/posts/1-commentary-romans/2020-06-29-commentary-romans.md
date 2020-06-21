@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:21 '
+title: 'Romans 1:18-20 The Righteousness of God [Part 2]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-29
@@ -11,4 +11,7 @@ tags:
 draft: true
 ---
 
-**Romans 1:28-32 And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done. 29 They were filled with all manner of unrighteousness, evil, covetousness, malice. They are full of envy, murder, strife, deceit, maliciousness. They are gossips, 30 slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents, 31 foolish, faithless, heartless, ruthless. 32 Though they know God’s righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them.**
+**Romans 1:18–20 (ESV) For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.  For what can be known about God is plain to them, because God has shown it to them.  For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse.** 
+
+### The Simplicity of God
+
