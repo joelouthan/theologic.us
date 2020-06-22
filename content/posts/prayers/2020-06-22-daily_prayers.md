@@ -15,6 +15,8 @@ draft: true
 <pre>
 </pre>
 
+Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
+
 Heal Ron & Karen
 
 Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
