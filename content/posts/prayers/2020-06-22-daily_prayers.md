@@ -13,17 +13,45 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
+Isaiah 44:1-5
+Israel the LORD'S Chosen
+“But now hear, O Jacob my servant,
+Israel whom I have chosen!
+Thus says the LORD who made you,
+who formed you from the womb and will help you:
+Fear not, O Jacob my servant,
+Jeshurun whom I have chosen.
+For I will pour water on the thirsty land,
+and streams on the dry ground;
+I will pour my Spirit upon your offspring,
+and my blessing on your descendants.
+They shall spring up among the grass
+like willows by flowing streams.
+This one will say, ‘I am the LORD'S,’
+another will call on the name of Jacob,
+and another will write on his hand, ‘The LORD'S,’
+and name himself by the name of Israel.”
 </pre>
 
-Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
+My God,
 
-Heal Ron & Karen
+You alone have redeemed my soul from death. 
 
-Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
+Blessed be your name. 
+
+Keep me close. Do not let me stray. 
+
+Do not let your Spirit depart from me. I am in desperate need of your saving grace. God keep me. 
+
+Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey. God please heal her and remove her pain. Lord if there is life keep her baby. I will trust in you alone. 
+
+Heal Ron & Karen. I thank you for this news. Keep your hand on them. 
+
+Heal Landon. Protect Jules, Eli, Sophia, and Olivia. 
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** what a mighty mighty work you have done in her. Make her more like you 
 
 **Lord, help me to gentle, patient, and tender like you** 
 
@@ -41,6 +69,10 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 Lord, anything you give will be good enough for me.
 
+I am in your grace. I cannot step out of it.  Have your way in me. 
+
+Lord I pray for that little church.  Bring them a faithful shepherd that points to you. Let it be filled with love grace and joy and hope.  Keep your spirit there and fill it with your presence. 
+
 
 
 ## Next steps
@@ -51,6 +83,8 @@ Lord, anything you give will be good enough for me.
 - *Student at OU*
 
 Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+
+Your provision is good. Lead me by Your Spirit alone 
 
 ## For those who do not know You
 
@@ -116,7 +150,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Lord save all of my co workers. Thank you that I get to know them and love them. 
 
 ## Friends
 
@@ -191,6 +225,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Faith’s friend: NY similar surgery passed away 
 - Laura (mom)
 
+Lord. Right now. Remove all pain from Faith. Just remove it and began healing in her body. But more so save her to yourself. 
 
 ## Family
 
@@ -203,6 +238,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+All of these kiddos i lift them up to you. PLEASE SAVE MY CHILDREN. PLEASE Lord ONLY YOU CAN DO THIS. TODAY SAVE THEM. RIGHT NOW SAVR THEM.  God Lord SAVR THEM 
 
 ## Church
 
@@ -237,3 +273,24 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Seeing two saved and one runs. But that rich young ruler came back! Didn’t he?
+
+They may run but you chase them down. I accept your terms Lord. Save them. Give me all of your grace and your power to do your will. 
+
+I love you Lord
+And I lift my voice 
+To worship you
+All of my soul
+Rejoice!
+Take joy my king
+In what you will
+Let it be a sweet 
+Sweet sound
+In your ear
+
+I will bless the Lord
+O my soul
+And all that is in me 
+I will bless his holy name 
+
+Amen 
