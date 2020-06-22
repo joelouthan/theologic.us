@@ -1,5 +1,5 @@
 ---
-title: 'Luke 2:39–40 Christ Grew In Wisdom and Stature [Part 4]'
+title: '✅Luke 2:39–40 Christ Grew In Wisdom and Stature [Part 4]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-07
