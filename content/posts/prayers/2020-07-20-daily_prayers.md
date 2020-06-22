@@ -1,9 +1,9 @@
 ---
-title: 'Daily Prayers for Thursday, 16 July 2020'
+title: 'Daily Prayers for Monday, 20 July 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-07-16T08:00:00-06:00
-url: /daily_prayers/2020-07-16-daily_prayers/
+publishDate: 2020-07-20T08:00:00-06:00
+url: /daily_prayers/2020-07-20-daily_prayers/
 categories:
   - Prayers
 tags:

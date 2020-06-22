@@ -13,7 +13,6 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
 </pre>
 
 Heal Ron & Karen
@@ -35,6 +34,10 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 **For my Jonathan** 
 
 **This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
+
+**As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”** 
+
+Lord, anything you give will be good enough for me.
 
 
 
@@ -63,7 +66,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Jodi & Ryan, Piper, Rylee** 
 
-**Jennifer & John; Brandon; Phillip & Keri; Pedigo & Deb** 
+**Jennifer & John; Brandon; Phillip & Keri, Haley; Meagan & fam ; Pedigo & Deb** 
 
 **Melissa & Micah, Noah, Levi, Judah** 
 
@@ -131,6 +134,10 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Andrew & Hilary, Evie, Eleanor, Bear** 
 
+**Aaron & Kara, Beatrix & Peter**
+
+**Brandon & Rachael, Claire & Jack**
+
 **Tyler & Heather, Shepherd**
 
 **Reuben** 
@@ -142,6 +149,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Dawn & Mark**
 
 **Deanna & Hubs, Quinn**
+
+**Eric & Megan, Leeland**
 
 **Josh & Nancy, +kiddos**
 
