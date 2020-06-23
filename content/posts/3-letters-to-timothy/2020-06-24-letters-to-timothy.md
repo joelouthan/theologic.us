@@ -1,5 +1,5 @@
 ---
-title: 'Thinking Through Ministry: 1 Timothy '
+title: 'Thinking Through Ministry: 1 Timothy [Part 2]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-24
