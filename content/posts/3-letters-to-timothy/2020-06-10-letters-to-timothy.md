@@ -19,7 +19,9 @@ I wanted to take this series as a journal and an examination of what I believe w
 
 This is not one of intense research. This is a reaction of the words I read in my Bible.
 
-**Paul** - He is the thirteenth apostle after Matthias replaced Judas Iscariot back in Acts 1. The book of Acts called Paul, then Saul, a ravager of the church (Acts 8) and went as so far as to approve the execution of Christians like Stephen (Acts 7-8). But we know that the Lord Jesus Christ called upon Paul and struck him down and directly asked Saul, "Why are you persecuting me?" I firmly believe that this is an instance in the Bible when God *effectual called* Saul to himself. When God, in his saving power and might, calls to a sinner, that is the effective call of bringing the sinner saved into the grace of God. We read that when he called Noah (Genesis 6) or Abraham (Genesis 12). We see this till this day. It might be as dramatic or not as dramatic as Saul's conversion but it is just as effective.
+## Paul
+
+He is the thirteenth apostle after Matthias replaced Judas Iscariot back in Acts 1. The book of Acts called Paul, then Saul, a ravager of the church (Acts 8) and went as so far as to approve the execution of Christians like Stephen (Acts 7-8). But we know that the Lord Jesus Christ called upon Paul and struck him down and directly asked Saul, "Why are you persecuting me?" I firmly believe that this is an instance in the Bible when God *effectual called* Saul to himself. When God, in his saving power and might, calls to a sinner, that is the effective call of bringing the sinner saved into the grace of God. We read that when he called Noah (Genesis 6) or Abraham (Genesis 12). We see this till this day. It might be as dramatic or not as dramatic as Saul's conversion but it is just as effective.
 
 We could get into certain soteriological debates whether of not every person called in this way by God is saved. That might be another topic for another post. I will only say this: I am not sure if it is good to look at it as an instantaneous transaction between the calling of God and the saving of one person. I think of it as when Christ said about the Spirit:
 
@@ -27,7 +29,9 @@ We could get into certain soteriological debates whether of not every person cal
 
 In other words, we don't know the exact time and place of the Spirit because the Spirit is always working. I know that he does start early in life and continues to work on our hearts until our hearts are turned--or if we are to believe Ezekiel, when God takes our hearts of stone and gives us his soft heart and His Spirit (Ezekiel 36:25-28) so that we might die but be fully alive (1 John 5:1)
 
-**Apostle of Christ Jesus** - Christ has sent us all as messengers. The difference between us and the 13 Apostles is that Christ charged them specifically with a task that has been fulfilled by the Apostles not because anything they did but because of the perfect work of the One sent them.
+## Apostle of Christ Jesus
+
+Christ has sent us all as messengers. The difference between us and the 13 Apostles is that Christ charged them specifically with a task that has been fulfilled by the Apostles not because anything they did but because of the perfect work of the One sent them.
 
 There are thirteen apostles in all. Each of them, all save for John, died gruesome horrible deaths because of their faith in the Lord Jesus Christ and the commission that was given to them and to every single Christian since the Ascension of Jesus Christ (Acts 1:6-11). That is:
 
