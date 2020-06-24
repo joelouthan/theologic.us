@@ -25,6 +25,9 @@ Save me from own foolishness and sin.  Keep me from chasing idols that I have ma
 
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
+> God, we need you. We need you desperately. I pray for sweet Natasha. I pray that you would restore your body and give her peace and comfort she has never felt before. We cry out for your tender mercy. Have mercy on her, Son of David! Have mercy in her I beg you! Son of God! Please comfort her please remove this pain. Please completely heal her. 
+> I ask this one thing Lord. Be glorified today. 
+
 Heal Ron & Karen
 
 Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
