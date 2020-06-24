@@ -13,9 +13,20 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 44:9-20
+The Folly of Idolatry
+All who fashion idols are nothing, and the things they delight in do not profit. Their witnesses neither see nor know, that they may be put to shame. Who fashions a god or casts an idol that is profitable for nothing? Behold, all his companions shall be put to shame, and the craftsmen are only human. Let them all assemble, let them stand forth. They shall be terrified; they shall be put to shame together.
+The ironsmith takes a cutting tool and works it over the coals. He fashions it with hammers and works it with his strong arm. He becomes hungry, and his strength fails; he drinks no water and is faint. The carpenter stretches a line; he marks it out with a pencil. He shapes it with planes and marks it with a compass. He shapes it into the figure of a man, with the beauty of a man, to dwell in a house. He cuts down cedars, or he chooses a cypress tree or an oak and lets it grow strong among the trees of the forest. He plants a cedar and the rain nourishes it. Then it becomes fuel for a man. He takes a part of it and warms himself; he kindles a fire and bakes bread. Also he makes a god and worships it; he makes it an idol and falls down before it. Half of it he burns in the fire. Over the half he eats meat; he roasts it and is satisfied. Also he warms himself and says, “Aha, I am warm, I have seen the fire!” And the rest of it he makes into a god, his idol, and falls down to it and worships it. He prays to it and says, “Deliver me, for you are my god!”
+They know not, nor do they discern, for he has shut their eyes, so that they cannot see, and their hearts, so that they cannot understand. No one considers, nor is there knowledge or discernment to say, “Half of it I burned in the fire; I also baked bread on its coals; I roasted meat and have eaten. And shall I make the rest of it an abomination? Shall I fall down before a block of wood?” He feeds on ashes; a deluded heart has led him astray, and he cannot deliver himself or say, “Is there not a lie in my right hand?”
 </pre>
+My God,
+
+Save me from own foolishness and sin.  Keep me from chasing idols that I have made that offer me nothing because there are no other gods besides You. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
+
+> God, we need you. We need you desperately. I pray for sweet Natasha. I pray that you would restore your body and give her peace and comfort she has never felt before. We cry out for your tender mercy. Have mercy on her, Son of David! Have mercy in her I beg you! Son of God! Please comfort her please remove this pain. Please completely heal her. 
+> I ask this one thing Lord. Be glorified today. 
 
 Heal Ron & Karen
 
@@ -237,3 +248,6 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+My Lord,
+
+I praise you for such a sweet day. Amen. 
