@@ -13,8 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
+Isaiah 44:21–22
+      Remember these things, O Jacob, 
+      and Israel, for you are my servant; 
+      I formed you; you are my servant; 
+      O Israel, you will not be forgotten by me. 
+      22 I have blotted out your transgressions like a cloud 
+      and your sins like mist; 
+      return to me, for I have redeemed you.
 
 </pre>
+
+My Lord,
+
+You have already done the work and there is nothing for me to do except always and forever run to you.
+
+My God, I need your strength, knowledge, wisdom to accomplish this task. Please help me Lord. I want to step into your call but not without grace to do your will today. Today you have this for me. Lord help me today.
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -23,23 +38,25 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** Thank you for the work you have in her.
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** Lord, thank you for your work in me.
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, let me preach your gospel, die, and then be forgotten** Lord, thank you for your grace.
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** Lord, thank you for preserving my life unto you.
 
-**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
+**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ** Lord, thank you for letting me bear witness to your glory.
 
-**For my Jonathan** 
+**For my Jonathan** Lord, thank you for my friends and for you being my friend.
 
-**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
+**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.** Lord, thank you for my redemption.
 
-**As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
+**As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”** Lord, thank you for calling me to ministry.
 
 Lord, anything you give will be good enough for me.
+
+Thank you for being my all in all.
 
 
 
@@ -116,7 +133,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Today, save them. For the sake of your name, save them. For your glory, save them. Because you are the only one who can save them.
 
 ## Friends
 
@@ -166,7 +183,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Kristi Mosley**
 
-
+Bless them today.
 
 ## Discipleship Group
 
@@ -176,11 +193,11 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Norman High
 - More grace; gentleness, patience 
 - Future: teaching for both in the fall
+- Hearing from God
 
 **Riley & Emily**
 - Emily diabetes symptoms 
-- contract ending
-- slowing down: not waiting for a season of rest
+- Data Analysis job within district
 
 **Scott & Melody, Emily, Adelyn, Caleb**
 - relearn sleep
@@ -188,8 +205,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Andrew & Andie**
 - Faith: pain; complications with the surgery; back to Dallas in a month to determine success
-- Faith’s friend: NY similar surgery passed away 
-- Laura (mom)
+- More and more grace and tenderness
+- Hearing from God
 
 
 ## Family
@@ -237,3 +254,10 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Lord,
+
+I don't care how the world turns. 
+
+We are in your hands. Tell us and we will obey. But we will need your grace and strength. Always. Forever.
+
+Amen.
