@@ -67,9 +67,9 @@ done
 
 
 To produce this:
-```
-Week Of		Last 	   Current  Written
-2020-04-13	         Starting 177780
+```cmd
+Week Of     Last    Current Written
+2020-04-13	        Start   177780
 2020-04-20	177780	221095	43315
 2020-04-27	221095	224295	3200
 2020-05-04	224295	224295	0
@@ -81,3 +81,5 @@ Week Of		Last 	   Current  Written
 2020-06-15	277971	286995	9024
 2020-06-22	286995	305863	18868
 ```
+
+This is very encouraging to see!
