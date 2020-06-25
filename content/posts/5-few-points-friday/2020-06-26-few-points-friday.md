@@ -11,7 +11,28 @@ tags:
 draft: false
 ---
 
-So, since I am off social media, let me share with some memes I was about to share
+So, since I am off social media, let me share with some memes I was about to share.
 
-## 
+## Don’t say napping—its too friggin’ bright for that 
 
+/napping.jpeg
+
+## Me as an FBI tbh
+
+/patrick-fbi.jpeg
+
+## My daughter
+
+/enoughsnacks.jpeg
+
+## Cue up The Who’s Won’t Be Fooled Again
+
+/change.png
+
+## Brave yet controversial also true
+
+/jesus-ew.jpeg
+
+## It looks like that bit of news just made his day
+
+/beautifulcaptholt.jpeg
