@@ -15,7 +15,9 @@ And now I am curious abut the amount of of the words I write per week *concernin
 
 I got the idea from the weekly Grammarly stats:
 
-... which mentions only the words I have checked by Grammarly which does include only Romans from the blog plus email, comments, tweets. I want Romans but the rest of the blog. I really don't care about the other stuff.
+/grammarly_stats.jpeg
+
+... which mentions only the words I have checked by Grammarly which does include only Romans from the blog plus email, comments, tweets. I want Romans *and* the rest of the blog. I really don't care about the other stuff.
 
 Enter in the command **wc**
 ```bash
