@@ -13,8 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 44:23
+Sing, O heavens, for the LORD has done it;
+shout, O depths of the earth;
+break forth into singing, O mountains,
+O forest, and every tree in it!
+For the LORD has redeemed Jacob,
+and will be glorified in Israel.
 </pre>
+
+My Precious Lord,
+
+All of this that you have provided for me for your holy name comes from your hand and is all your own.
+
+You are the very breath in my lungs and the king of my heart. You are the fire in my soul and the spark in my mind. You are the Spirit inside of me.
+
+Lord, I don’t have the right words to express all of my heart and life. I ask just this one thing: do not let your Spirit depart from me and let me dwell in your presence all the days of my life. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -23,13 +38,15 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** Lord, keep shaping her heart and renewing her mind. I thank you and bless you for your mighty work in her. Amen!
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** I seent it! I have seen your work in me. MAKE ME JUST LIKE YOU!
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, let me preach your gospel, die, and then be forgotten** More grace is needed. Double the amount, like you did for Elisha and John the Baptist.
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** I praise you for all of my pain, hardships, broken hearts, for all the hurt, and the tears, and the crying anguish and screams and yells, and arguments and the rape and the molestation and my own foolishness or my own sins and my own hurts and my own temptations and falling from grace and everything...
+
+... if I could bear witness about the Light. If you save one other person. If you save millions of others. It is already all worth it.
 
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
@@ -40,6 +57,8 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 **As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
 
 Lord, anything you give will be good enough for me.
+
+Your provision is *absolutely* perfect. I thank you and praise you.
 
 
 
@@ -237,3 +256,6 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+What is my life that you have brought me here? I have no credit and no glory for what you have done because you have done everything. I praise you forever.
+
+Amen.
