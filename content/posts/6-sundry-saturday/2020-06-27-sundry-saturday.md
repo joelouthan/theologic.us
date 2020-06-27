@@ -50,9 +50,11 @@ $ crontab -l
 ```
 
 Notes:
-1. `awk '{ print $1 }'` - Without this pipe, too much whitespace
-2. `words_written=$(($this_word_count-$previous_word_count))` - This is the new bash POSIX way of doing calculations
-3. `echo -e "$date \t$previous_word_count \t$this_word_count \t$words_written" >> $output_file` - -e is necessary for \t whereas \t is for tab
+`awk '{ print $1 }'` - Without this pipe, too much whitespace
+
+`words_written=$(($this_word_count-$previous_word_count))` - This is the new bash POSIX way of doing calculations
+
+`echo -e "$date \t$previous_word_count \t$this_word_count \t$words_written" >> $output_file` - -e is necessary for \t whereas \t is for tab
 
 ------
 
