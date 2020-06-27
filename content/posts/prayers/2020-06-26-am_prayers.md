@@ -1,9 +1,9 @@
 ---
-title: 'Daily Prayers for Friday, 26 June 2020'
+title: 'Morning Prayers for Friday, 26 June 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-26T08:00:00-06:00
-url: /daily_prayers/2020-06-26-daily_prayers/
+url: /am_prayers/2020-06-26-am_prayers/
 categories:
   - Prayers
 tags:
