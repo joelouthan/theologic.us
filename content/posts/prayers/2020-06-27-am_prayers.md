@@ -13,8 +13,40 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 45:1-7
+Cyrus, God's Instrument
+Thus says the LORD to his anointed, to Cyrus,
+whose right hand I have grasped,
+to subdue nations before him
+and to loose the belts of kings,
+to open doors before him
+that gates may not be closed:
+“I will go before you
+and level the exalted places,
+I will break in pieces the doors of bronze
+and cut through the bars of iron,
+I will give you the treasures of darkness
+and the hoards in secret places,
+that you may know that it is I, the LORD,
+the God of Israel, who call you by your name.
+For the sake of my servant Jacob,
+and Israel my chosen,
+I call you by your name,
+I name you, though you do not know me.
+I am the LORD, and there is no other,
+besides me there is no God;
+I equip you, though you do not know me,
+that people may know, from the rising of the sun
+and from the west, that there is none besides me;
+I am the LORD, and there is no other.
+I form light and create darkness;
+I make well-being and create calamity;
+I am the LORD, who does all these things.
 </pre>
+Lord,
+
+I ask you to do these things in our nation because you are sovereignly good and wonderful.  But I ask you to do these things in me.  Do what you must so that I will always know you are God alone.  
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -23,23 +55,25 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** Lord do your work in her. But bless her and us with a child.  We will dedicate the child to you. And she will never not know the love of God for her. And we will contend for you to save her. Because salvation belongs to you alone. 
 
-**Lord, help me to gentle, patient, and tender like you** 
+Bless us Lord. Please give us a child. 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, help me to gentle, patient, and tender like you** i see this more and more.  Thank you. 
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+**Lord, let me preach your gospel, die, and then be forgotten** just your grace and the fullness of your Spirit
 
-**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** everyday i want to thank you for this life. Because I know and love you and you know and love me. 
 
-**For my Jonathan** 
+**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ** do your will
 
-**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
+**For my Jonathan** I bless you King Jesus 
+
+**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.** it’s yours.  Do with it as you must.  
 
 **As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
 
-Lord, anything you give will be good enough for me.
+Lord, anything you give will be good enough for me. amen 
 
 
 
@@ -116,7 +150,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Save then today.  Save them quickly. Keep them forever. Don’t let the stray not for a moment. Keep them in your love and draw them closer to you.  Heal them. Heal their hearts. 
 
 ## Friends
 
@@ -166,7 +200,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Kristi Mosley**
 
-
+Thank you for every Single person here.  Lift them up. 
 
 ## Discipleship Group
 
@@ -203,6 +237,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+Lord bless our family today.  Bless the conversations we are going to have. Bless our time together. Thank you for the meal you have provided. Thank you for this moment. We love you.  
 
 ## Church
 
@@ -237,3 +272,4 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Lord thank you for our little ⛪️. We love you. I love you so much.  Thank you.  I will bless your holy name forever. 
