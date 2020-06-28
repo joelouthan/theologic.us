@@ -13,8 +13,17 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 45:9-10
+“Woe to him who strives with him who formed him,
+a pot among earthen pots!
+Does the clay say to him who forms it, ‘What are you making?’
+or ‘Your work has no handles’?
+Woe to him who says to a father, ‘What are you begetting?’
+or to a woman, ‘With what are you in labor?’”
 </pre>
+
+Lord, you are my God.  There is no one besides you. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
