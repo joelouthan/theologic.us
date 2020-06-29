@@ -33,6 +33,8 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
+“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin
+
 **For my Jonathan** 
 
 **This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
@@ -107,6 +109,14 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Joe P** 
 
 **George** 
+
+**Margo & kids**
+
+**Vinny & wife**
+
+**Ali**
+
+**Homie**
 
 **Wayne & Nicole Barber** 
 
@@ -225,6 +235,22 @@ A. Church is the manifest wisdom of God that God continually preaches to angels.
 B. Church is formed and continually sustained by the grace of God
 C. Church is a community centered on Christ
 
+Six ways of doing greater things than Christ 
+
+1. *Ministry of sight* - seeing the unseen. Who are you missing? Who are you ignoring? *Matthew 9:10-13
+And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick. Go and learn what this means: I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”*
+
+2. *Ministry of touch* - moving towards. laying on of hands. Blessing. Do we avoid parts of town? Them vs they. 
+
+3. *Ministry of suffering* - healing and suffering. Both. And God is enough. 
+
+4. *Ministry of word and deed* - always Jesus
+
+5. *Ministry of locality* Acts 17:24-5
+
+6. *Ministry of warfare*
+
+
 **Frontline Norman**
 
 **Antioch Norman** 
@@ -236,4 +262,6 @@ C. Church is a community centered on Christ
 **All the churches in Norman** 
 
 **Norman** 
+
+**Stillwater RPC (Pastor Bruce)**
 

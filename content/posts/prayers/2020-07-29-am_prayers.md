@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Thursday, 16 July 2020'
+title: 'Morning Prayers for Wednesday, 29 July 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-07-16T08:00:00-06:00
-url: /am_prayers/2020-07-16-am_prayers/
+publishDate: 2020-07-29T08:00:00-06:00
+url: /am_prayers/2020-07-29-am_prayers/
 categories:
  - Prayers
 tags:
