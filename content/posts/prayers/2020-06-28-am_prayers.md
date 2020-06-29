@@ -32,25 +32,25 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** Lord, what a mighty mighty work you are doing in her. Have your way in my wife’s heart. Heal her brokenness. Tend to her wounds. Give her peace. Amen. 
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** I thank you for what you are doing in me
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, let me preach your gospel, die, and then be forgotten**  all Is grace. If I preach once it’s because you gave me grace.  
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn**  every single point of pain, i praise you 
 
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
-**For my Jonathan** 
+**For my Jonathan** bless him and be with him.  Bless his wife and kids bless him a ministry. Give him peace right now 
 
-**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
+**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**redeem my life Lord. All of my sin and folly. Be glorified in my life today. 
 
 **As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
 
 Lord, anything you give will be good enough for me.
 
-
+But draw all men to you.  Help me lift up your Son
 
 ## Next steps
 
@@ -83,9 +83,9 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **James** 
 
-**Jason, Molly** 
+**Jason, Molly** bless Jason and save him bless Molly and save her. Fold them into our family. 
 
-**Chelsea**
+**Chelsea** 
 
 **Jansen & Mandy** 
 
@@ -212,6 +212,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+Be glorified 
 
 ## Church
 
@@ -246,3 +247,6 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+Give us this ministry. But Lord, give us knowledge and wisdom to run aside others. 
+
+Bless all the little churches on LinkedIn. Give them good faithful shepherds that love you with all of their heart and soul 
