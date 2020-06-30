@@ -33,11 +33,9 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
-“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin
+**“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin**
 
 **For my Jonathan** 
-
-**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
 
 **As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
 
