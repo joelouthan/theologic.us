@@ -61,7 +61,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     weight = 15
   [[menu.nav]]
     name = "Saturday :: Sundry Items"
-    url = "/tags/sundry-saturdays/"
+    url = "/tags/sundry-saturday/"
     weight = 16
   [[menu.nav]]
     name = "MANUSCRIPT :: Here is Love: Exposition in Romans 8"
