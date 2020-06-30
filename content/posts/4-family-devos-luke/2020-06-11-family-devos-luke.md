@@ -1,5 +1,5 @@
 ---
-title: 'Luke 3:18-20 Who Heralds the Kingdom of God? [Part 4]'
+title: 'Luke 4:1-13 How Did Jesus Face Temptations?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-11
@@ -9,10 +9,12 @@ categories:
 tags:
   - 'Family Devotions: Luke'
 draft: false
+
 ---
+**Luke 4:1–13 (CSB) Then Jesus left the Jordan, full of the Holy Spirit, and was led by the Spirit in the wilderness  for forty days to be tempted by the devil. He ate nothing during those days, and when they were over, he was hungry.  The devil said to him, “If you are the Son of God, tell this stone to become bread.”  But Jesus answered him, “It is written: Man must not live on bread alone.”  So he took him up and showed him all the kingdoms of the world in a moment of time.  The devil said to him, “I will give you their splendor and all this authority, because it has been given over to me, and I can give it to anyone I want.  If you, then, will worship me, all will be yours.”  And Jesus answered him, “It is written: Worship the Lord your God, and serve him only.”  So he took him to Jerusalem, had him stand on the pinnacle of the temple, and said to him, “If you are the Son of God, throw yourself down from here.  For it is written: He will give his angels orders concerning you, to protect you,  and they will support you with their hands, so that you will not strike your foot against a stone.”  And Jesus answered him, “It is said: Do not test the Lord your God.”  After the devil had finished every temptation, he departed from him for a time.** 
 
-​		**Luke 3:18–20 (CSB) Then, along with many other exhortations, he proclaimed good news to the people.  But when John rebuked Herod the tetrarch because of Herodias, his brother’s wife, and all the evil things he had done,  Herod added this to everything else—he locked up John in prison.** 
+*Was Jesus tempted to sin?*
 
-*If we tell others of the good news of God, will all people love to hear it or will some hate it?*
+> Hebrews 4:15 For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. 
 
-**2 Corinthians 2:14–17 But thanks be to God, who in Christ always leads us in triumphal procession, and through us spreads the fragrance of the knowledge of him everywhere. 15 For we are the aroma of Christ to God among those who are being saved and among those who are perishing, 16 to one a fragrance from death to death, to the other a fragrance from life to life. Who is sufficient for these things? 17 For we are not, like so many, peddlers of God’s word, but as men of sincerity, as commissioned by God, in the sight of God we speak in Christ.** 
+*So how did Jesus fight temptation to sin?*

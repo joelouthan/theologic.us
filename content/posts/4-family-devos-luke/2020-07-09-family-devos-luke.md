@@ -11,5 +11,5 @@ tags:
 draft: false
 ---
 
-​		**Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, and news about him spread throughout the entire vicinity.  He was teaching in their synagogues, being praised by everyone.** 
+**Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, and news about him spread throughout the entire vicinity.  He was teaching in their synagogues, being praised by everyone.** 
 
