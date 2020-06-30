@@ -13,9 +13,35 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 45:18-19
+For thus says the LORD,
+who created the heavens
+(he is God!),
+who formed the earth and made it
+(he established it;
+he did not create it empty,
+he formed it to be inhabited!):
+“I am the LORD, and there is no other.
+I did not speak in secret,
+in a land of darkness;
+I did not say to the offspring of Jacob,
+Seek me in vain.’
+I the LORD speak the truth;
+I declare what is right.
 </pre>
+Lord,
+
+I will never forget when someone said why did God made it so difficult to seek him. 
+
+But you have made yourself plain to us and in our own unrighteousness suppress our vision of you. 
+
+Lord, eradicate this sin in me by what your Son has done. Show me your glory and give me the fullness of your Spirit. 
+
+If there is even a moment that I don’t know that you are God alone, then take my life so i can live with you and be in your house all the days of my life. Amen. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
+
+Lord be sweet to her. 
 
 Heal Ron & Karen
 
@@ -23,27 +49,27 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** what a work you are doing in her. I worship you and give you praise. Lord fuse us together. Don’t let it be just me. I want to do this together. 
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** thank you Lord
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, let me preach your gospel, die, and then be forgotten** all is grace. May I get to preach every single day of my life. Lord whenever you will.  It is your provision. 
 
-**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+**Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** Lord let my life bear witness that you are God alone. 
 
-**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
+**“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ** Lord guide us through this time. Lord how do we minister.  What is ours to do?
 
-“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin
+**“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin** Lord help me do this 
 
-**For my Jonathan** 
+**For my Jonathan** for my friend bless and keep him all the days of his life 
 
-**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.**
+**This might be a little thing but how can I stave off this competitive need? Lord, redeem this.** Lord you redeem. I don’t need to focus on this. 
 
 **As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
 
 Lord, anything you give will be good enough for me.
 
-
+Lord I thank you for what you have given me.  Which is everything. You are wonderful. I praise you all of my days because you have been so sweet. I love you. 
 
 ## Next steps
 
@@ -176,6 +202,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Kristi Mosley**
 
+Bless this family that you have given hundredfold.  
 
 
 ## Discipleship Group
@@ -213,6 +240,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+Thank you for these days 
 
 ## Church
 
@@ -237,8 +265,8 @@ C. Church is a community centered on Christ
 
 Six ways of doing greater things than Christ 
 
-1. *Ministry of sight* - seeing the unseen. Who are you missing? Who are you ignoring? *Matthew 9:10-13
-And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick. Go and learn what this means: I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”*
+1. *Ministry of sight* - seeing the unseen. Who are you missing? Who are you ignoring? *Matthew 9:10-13*
+*And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick. Go and learn what this means: I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”*
 
 2. *Ministry of touch* - moving towards. laying on of hands. Blessing. Do we avoid parts of town? Them vs they. 
 
@@ -265,3 +293,6 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Stillwater RPC (Pastor Bruce)**
 
+Lord be glorified in our today. 
+
+amen. 
