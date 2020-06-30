@@ -13,8 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 45:14
+The LORD, the Only Savior
+Thus says the LORD:
+“The wealth of Egypt and the merchandise of Cush,
+and the Sabeans, men of stature,
+shall come over to you and be yours;
+they shall follow you;
+they shall come over in chains and bow down to you.
+They will plead with you, saying:
+‘Surely God is in you, and there is no other,
+no god besides him.’”
 </pre>
+
+We live in such times that people are going after their own gods and they will not repent. 
+
+It matters not. What only matters is that I am faithful to what you have called me to. Because you are my God and I am yours. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -41,6 +56,8 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 Lord, anything you give will be good enough for me.
 
+Lord i pray this every day and i lift my needs to you because you are my God and my Father in heaven. Blessed be your name. 
+
 
 
 ## Next steps
@@ -51,6 +68,10 @@ Lord, anything you give will be good enough for me.
 - *Student at OU*
 
 Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+
+Lord, why do i have the feeling that this calling is completely different than anything I have seen or imagine. 
+
+Be glorified 
 
 ## For those who do not know You
 
@@ -237,3 +258,6 @@ C. Church is a community centered on Christ
 
 **Norman** 
 
+God, i don’t need to know the plan. All I will do is wait for your commands and wait for the grace to do your will. 
+
+Amen. 
