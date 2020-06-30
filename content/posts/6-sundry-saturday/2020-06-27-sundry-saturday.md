@@ -58,7 +58,8 @@ Notes:
 
 ------
 
-## Addendum
+## P.S.
+
 Since I did not have that many months working in Hugo, I decided to a word count since the beginning of the project:
 ```bash
 days=( 144 137 130 123 116 109 102 95 88 81 74 67 60 53 46 39 32 25 18 11 )
@@ -87,3 +88,26 @@ Week Of     Last    Current Written
 ```
 
 This is very encouraging to see!
+
+## P.P.S
+
+![img](../../images/latest.jpeg)
+
+```cmd
+jlouthan@ironhide > ~/bin >> master > cat theologicus_word_count
+Week Of		Last    Current Written
+2020-04-13	       Starting 177780
+2020-04-20	177780	221095	43315
+2020-04-27	221095	224295	3200
+2020-05-04	224295	224295	0
+2020-05-11	224295	227031	2736
+2020-05-18	227031	231445	4414
+2020-05-25	231445	233508	2063
+2020-06-01	233508	273059	39551
+2020-06-08	273059	277971	4912
+2020-06-15	277971	286995	9024
+2020-06-22	286995	305863	18868
+2020-06-29 	314930 	378783 	63853
+```
+
+MONSTEROUS!
