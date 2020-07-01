@@ -5,6 +5,29 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
+### June 30, 2020 New Format for Family Devotions
+I would assume that when you *write* Family Devotions, one might want to *use* said Family Devotions for Family Devotions. 
+
+In the past, I have only done one devotion per week. I don't know what I was really thinking. Now that my kids (ages 7 & 5) have gone through the greatness that is The Jesus Storybook Bible more than a few times, I think they are ready to go through what they call, "Papa's Bible".
+
+So going through my own devotions has been really encouraging and I am so glad I put in little questions to help the think process start. But since my blog only post one per week and I am reading once per day, I am quickly running out of devotions.
+
+Enter in a new format for devotions: Series per Post.
+
+After doing the same work in the [Gospel of Mark](https://theologic.us/tags/family-devotions-mark/), what becomes apparent is that the gospel writers will string together, for the lack of a better word, a *series* of thoughts to express their thoughts on Jesus Christ. I compare it to a sermon series that your local pastor might do topically.
+
+<figure>
+    <img src='https://theologic.us/images/theologicus-new-format-luke.png' alt='New Format for Family Devotions in Luke' />
+    <figcaption>New Format, Who Dis?</figcaption>
+</figure>
+
+So instead of stringing out tiny little devotions week to week, starting with the four-part series Who Heralds the Kingdom of God Luke 3:1-20, I decided to post one series per post.  The singular post is broken up but the thread of thought is still there. You can do one at a time or string them all together for kids that might be able to follow along.
+
+I hope this helps you out. 
+
+*Sidenote: While reading through Luke to two little ones, the sometimes awkward readability of the ESV really comes to light. It was enough to switch to the CSB for these devotions. I have seen too many positive reviews to ignore and decided to read CSB all year long. I have yet to be disappointed. And if I am honest, the CSB has been giving me real life. I could convert over if I needed to. But that is another post for another time.*
+
+---
 ### June 7, 2020 Introducing 'Thinking Through Ministry' series on Wednesdays
 
 I just started a mentor relationship with an older retired pastor. I know what I have is one of the most incredible blessings and treasures in the world. Considering...
