@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ## Why Did My Code Blocks Didn't Work?
-I will spare you the details but everything time I attempted to do Syntax Highlighting (i.e. fancying color coding of code based on the language you choose), I would end up getting black on super dark grey.
+I will spare you the details but every time I attempted to do Syntax Highlighting (i.e. fancying color coding of code based on the language you choose), I would end up getting black on super dark grey.
 
 Wholly unreadable.
 
