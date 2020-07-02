@@ -1,5 +1,5 @@
 ---
-title: '✅Luke 3:1–20 Who Heralds The Kingdom of God?'
+title: '✅Luke 3:1–20 Who Heralds The Kingdom of God? (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-21

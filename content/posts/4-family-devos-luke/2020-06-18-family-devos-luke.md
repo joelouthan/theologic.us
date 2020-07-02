@@ -1,5 +1,5 @@
 ---
-title: 'Luke 4:14–37 The Word of the Lord'
+title: 'Luke 4:14–37 The Word of the Lord (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-18
