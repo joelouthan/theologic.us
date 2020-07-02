@@ -13,8 +13,32 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 45:20-21
+“Assemble yourselves and come;
+draw near together,
+you survivors of the nations!
+They have no knowledge
+who carry about their wooden idols,
+and keep on praying to a god
+that cannot save.
+Declare and present your case;
+let them take counsel together!
+Who told this long ago?
+Who declared it of old?
+Was it not I, the LORD?
+And there is no other god besides me,
+a righteous God and a Savior;
+there is none besides me.
 </pre>
+There is none like you. 
+
+I will give you praise 
+For you alone are my righteousness 
+
+I worship you 
+Almighty God
+There is none like you. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -25,7 +49,7 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 **Sarah, my love** 
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** God help me.  I feel like I’m doing it all wrong. Please keep your spirit upon me.  
 
 **Lord, let me preach your gospel, die, and then be forgotten** 
 
@@ -124,6 +148,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
+**Tony**
 
 
 ## Friends
