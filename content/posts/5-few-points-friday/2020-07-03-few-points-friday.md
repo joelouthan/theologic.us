@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday '
+title: 'A Few Points for Friday: What Are You Believing?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-03
@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: true
+draft: false
 ---
 
 ## Breaking news: unrepentant  sinners do not get to be in the presence of God
