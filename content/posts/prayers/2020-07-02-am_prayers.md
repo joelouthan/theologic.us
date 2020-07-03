@@ -13,8 +13,20 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 45:24-25
+“Only in the LORD, it shall be said of me,
+are righteousness and strength;
+to him shall come and be ashamed
+all who were incensed against him.
+In the LORD all the offspring of Israel
+shall be justified and shall glory.”
 </pre>
+Lord, 
+
+There is a day when all of my sadness and hurts and pains will wash away and you will wipe every tear from my eye because I will finally be with you and you will be with me. 
+
+I love you Lord.  I worship you. You are my God. You alone are good. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -23,11 +35,11 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** Lord continue your work in her. 
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** just make me just like you 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, let me preach your gospel, die, and then be forgotten** all grace.  Just grace one day for the rest of my life 
 
 **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
 
@@ -124,7 +136,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
-
+Lord save these people and give me more to pray for so you would save them too. 
 
 ## Friends
 
@@ -174,7 +186,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Kristi Mosley**
 
-
+Bless everyone today. 
 
 ## Discipleship Group
 
