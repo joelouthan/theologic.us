@@ -13,8 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 46:5-7
+“To whom will you liken me and make me equal,
+and compare me, that we may be alike?
+Those who lavish gold from the purse,
+and weigh out silver in the scales,
+hire a goldsmith, and he makes it into a god;
+then they fall down and worship!
+They lift it to their shoulders, they carry it,
+they set it in its place, and it stands there;
+it cannot move from its place.
+If one cries to it, it does not answer
+or save him from his trouble.
 </pre>
+My God,
+
+I repent of my idols. I turn from them and turn to you. Whatever you ask me to do, I will do it. Because I love you and you love me. 
+
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
 Heal Ron & Karen
@@ -23,25 +38,28 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-**Sarah, my love** 
+**Sarah, my love** Lord thank you for your work in her. Lead her to where you want her to be. I’m not sure if I can do anything but help me wash her in the water of the word.  
 
-**Lord, help me to gentle, patient, and tender like you** 
+**Lord, help me to gentle, patient, and tender like you** everyday I’ll ask this 
 
-**Lord, let me preach your gospel, die, and then be forgotten** 
+**Lord, let me preach your gospel, die, and then be forgotten** every day I’ll ask you 
 
 **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+And everyday I’ll praise you 
 
 **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
+Everyday I’ll ask you to draw me even closer 
 
 **“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin**
+Help me Lord 
 
-**For my Jonathan** 
+**For my Jonathan** thank you God 
 
 **As soon as the line snaps: “In your ministry, you will gain two and lose one. Will that be good enough for you.”**
 
 Lord, anything you give will be good enough for me.
 
-
+Blessed be your name 
 
 ## Next steps
 
@@ -211,6 +229,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+I thank you for my little sweet time and my little sweet family. 
 
 ## Church
 
@@ -263,3 +282,4 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Stillwater RPC (Pastor Bruce)**
 
+Lord today be glorified and display your full glory in your church 
