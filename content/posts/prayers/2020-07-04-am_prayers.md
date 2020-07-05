@@ -13,8 +13,22 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 46:12-13
+“Listen to me, you stubborn of heart,
+you who are far from righteousness:
+I bring near my righteousness; it is not far off,
+and my salvation will not delay;
+I will put salvation in Zion,
+for Israel my glory.”
 </pre>
+
+My God,
+
+Save me! Declare me part of Zion and of Israel. 
+
+But your word says that if I believe then I am a son of Abraham. I am part of Zion.  I am part of Israel. 
+
+Lord be glorified in my life and heart. 
 
 ## Foremost
 
@@ -26,15 +40,17 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
+I thank you for their healing. Lord save them to the utmost of your presence. 
+
 ## Daily
 
-On marriage: **Sarah, my love** 
+On marriage: **Sarah, my love** my words are coming out of wounds and sin. I repent and ask for your grace and forgiveness. 
 
-On true friendship: **For my Jonathan** 
+On true friendship: **For my Jonathan** thank you for his life. Thank you for this moment 
 
-On sanctification: **Lord, help me to gentle, patient, and tender like you** 
+On sanctification: **Lord, help me to gentle, patient, and tender like you** continue to do you work in me. 
 
-On holiness: **Lord, as you draw me closer, please Lord please stop making everything about me. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife anything. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen. 
+On holiness: **Lord, as you draw me closer, please Lord please stop making everything about me. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.**
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
@@ -46,7 +62,7 @@ On evangelizing: **As soon as the line snaps: “In your ministry, you will gain
 
 On glory of God: **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
-On his provision: Lord, anything you give will be good enough for me.
+On his provision: **Lord, anything you give will be good enough for me.**
 
 
 ## Next steps
