@@ -13,8 +13,48 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 47:10-15
+You felt secure in your wickedness;
+you said, “No one sees me”;
+your wisdom and your knowledge led you astray,
+and you said in your heart,
+“I am, and there is no one besides me.”
+But evil shall come upon you,
+which you will not know how to charm away;
+disaster shall fall upon you,
+for which you will not be able to atone;
+and ruin shall come upon you suddenly,
+of which you know nothing.
+Stand fast in your enchantments
+and your many sorceries,
+with which you have labored from your youth;
+perhaps you may be able to succeed;
+perhaps you may inspire terror.
+You are wearied with your many counsels;
+let them stand forth and save you,
+those who divide the heavens,
+who gaze at the stars,
+who at the new moons make known
+what shall come upon you.
+Behold, they are like stubble;
+the fire consumes them;
+they cannot deliver themselves
+from the power of the flame.
+No coal for warming oneself is this,
+no fire to sit before!
+Such to you are those with whom you have labored,
+who have done business with you from your youth;
+they wander about, each in his own direction;
+there is no one to save you.
 </pre>
+
+My Lord,
+
+At one time for a long time i was secure in my own wickedness. 
+
+But you rescued me from the dark pit of hell and into the light of your joy and love. 
+
+My God I will worship you with all of my days. 
 
 ## Foremost
 
@@ -28,13 +68,13 @@ Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 ## Daily
 
-On marriage: **Sarah, my love** 
+On marriage: **Sarah, my love** bless and keep her. Continue to do your will I my wife. Draw her nearer to you. 
 
-On true friendship: **For my Jonathan** 
+On true friendship: **For my Jonathan** I pray and bless him today. 
 
-On sanctification: **Lord, help me to gentle, patient, and tender like you** 
+On sanctification: **Lord, help me to gentle, patient, and tender like you** have your way in me 
 
-On holiness: **Lord, as you draw me closer, please Lord please stop making everything about me. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife anything. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen. 
+On holiness: Lord, as you draw me closer, please Lord please stop making everything about me. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife anything. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen. 
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
@@ -217,6 +257,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Brought into Spiritual community
 - Equally yoked
 
+Now that they are home. Be glorified in their homes today. 
 
 ## Church
 
@@ -273,3 +314,4 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Burkesville, KY**
 
+Lord how and where and when can i serve you? Please let me know. 
