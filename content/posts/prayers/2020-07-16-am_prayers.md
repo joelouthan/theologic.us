@@ -34,7 +34,10 @@ On true friendship: **For my Jonathan**
 
 On sanctification: **Lord, help me to gentle, patient, and tender like you** 
 
-On holiness: **Lord, as you draw me closer, please Lord please stop making everything about me. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife anything. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen. 
+On holiness: **2 Timothy 2:21
+Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
+
+Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
@@ -46,7 +49,7 @@ On evangelizing: **As soon as the line snaps: “In your ministry, you will gain
 
 On glory of God: **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
-On his provision: Lord, anything you give will be good enough for me.
+On his provision: **Lord, anything you give will be good enough for me.**
 
 
 ## Next steps
@@ -89,6 +92,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Sean & Sunny** 
 
 **Evan** 
+
+**Patrick (Dave’s Son)**
 
 **Coleman & Wendy, Olivia, Bella, Ian**
 
@@ -140,9 +145,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Alix & Braden** 
 
-**Dena & Dave** 
-
-*grandkids* **Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson** 
+**Dena & Dave; Patrick; Heather & hubs; Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson** 
 
 **Reva & Ronnie** 
 
