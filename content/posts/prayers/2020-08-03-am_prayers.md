@@ -101,6 +101,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Mark & Robin** 
 
+**James & Hubs**
+
 **Louis** 
 
 **Greg & wife** 
@@ -134,7 +136,6 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Jonathan & Jenn Williams** 
 
 **Evan & Kaylee, Everett, Baby**
-
 
 
 ## Friends
@@ -182,6 +183,10 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Landon & Jules, Eli, Sophia & Olivia**
 
 **Kristi Mosley**
+
+**Toneka & Justin, Justice**
+
+**Camille**
 
 
 
