@@ -46,7 +46,7 @@ Keep me in your grace. Keep me from evil.
 
 Keep my eyes on you.
 
-Lord, I wait on you. You are my Lord and the Rock of my salvation forever. Amen.
+# Lord, I wait on you. You are my Lord and the Rock of my salvation forever. Amen.
 
 ## Foremost
 
