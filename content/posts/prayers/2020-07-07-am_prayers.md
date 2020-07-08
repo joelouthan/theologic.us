@@ -13,7 +13,17 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
-
+Isaiah 48:3-5
+“The former things I declared of old;
+they went out from my mouth, and I announced them;
+then suddenly I did them, and they came to pass.
+Because I know that you are obstinate,
+and your neck is an iron sinew
+and your forehead brass,
+I declared them to you from of old,
+before they came to pass I announced them to you,
+lest you should say, My idol did them,
+my carved image and my metal image commanded them.’
 </pre>
 
 ## Foremost
