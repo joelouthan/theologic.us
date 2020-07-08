@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 32:'
+title: 'Now Sings My Soul: Psalm 32:7'
 author: Joseph Louthan
 type: post
 publishDate: 2020-09-15
