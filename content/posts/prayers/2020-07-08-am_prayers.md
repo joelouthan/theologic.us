@@ -13,8 +13,40 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
+Isaiah 48:6–8 (ESV)
 
+      “You have heard; now see all this; 
+      and will you not declare it? 
+      From this time forth I announce to you new things, 
+      hidden things that you have not known. 
+      7 They are created now, not long ago; 
+      before today you have never heard of them, 
+      lest you should say, ‘Behold, I knew them.’ 
+      8 You have never heard, you have never known, 
+      from of old your ear has not been opened. 
+      For I knew that you would surely deal treacherously, 
+      and that from before birth you were called a rebel.
 </pre>
+
+My God,
+
+You always knew that I was a sinner. I was born into sin and I sin continuously.
+
+Everything that I have done to rebel against your holy name does not come as a shock or as a surprised.
+
+But you did not cast me out into the sea. You did not abandoned my soul into hell. You did not let me die in corruption of my own sin.
+
+You O Lord are my heart's desire and I long to worship you.
+
+You have been perfectly faithful and loving and kind to me in every single way.
+
+Lord, do not let your Spirit depart from me.
+
+Keep me in your grace. Keep me from evil.
+
+Keep my eyes on you.
+
+Lord, I wait on you. You are my Lord and the Rock of my salvation forever. Amen.
 
 ## Foremost
 

@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 32:8-9'
+title: 'Now Sings My Soul: Psalm 32:5'
 author: Joseph Louthan
 type: post
 publishDate: 2020-09-01
@@ -10,11 +10,14 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
+## Psalm 32:5
+
+      5 I acknowledged my sin to you, 
+      and I did not cover my iniquity; 
+      I said, “I will confess my transgressions to the LORD,” 
+      and you forgave the iniquity of my sin. Selah 
+
 <pre>
-<div style="font-variant: small-caps;"></div>
-8 I will instruct you and teach you in the way you should go; 
-I will counsel you with my eye upon you. 
-9 Be not like a horse or a mule, without understanding, 
-which must be curbed with bit and bridle, 
-or it will not stay near you. 
+<div style="font-variant: small-caps;">My Only Righteousness</div>
+Lorem ipsum
 </pre>

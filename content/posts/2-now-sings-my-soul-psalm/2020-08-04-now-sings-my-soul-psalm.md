@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 32'
+title: 'Now Sings My Soul: Psalm 32:1'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-04
@@ -10,7 +10,6 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-## Psalm 32:1
 <pre>
 <div style="font-variant: small-caps;">My Only Savior</div>
 How many times have I have sin against you
@@ -77,130 +76,4 @@ Now, I am your son,
 I will forever praise your holy name.
 
 Amen.
-</pre>
-
-------
-
-## Psalm 32:2
-
-      2 Blessed is the man against whom the LORD counts no iniquity, 
-      and in whose spirit there is no deceit. 
-
-<pre>
-<div style="font-variant: small-caps;">My Only Redeemer</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:3
-
-      3 For when I kept silent, my bones wasted away 
-      through my groaning all day long. 
-
-<pre>
-<div style="font-variant: small-caps;">My Only Comfort in Life</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:4
-
-      4 For day and night your hand was heavy upon me; 
-      my strength was dried up as by the heat of summer. Selah 
-
-<pre>
-<div style="font-variant: small-caps;">My Only Rock</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:5
-
-      5 I acknowledged my sin to you, 
-      and I did not cover my iniquity; 
-      I said, “I will confess my transgressions to the LORD,” 
-      and you forgave the iniquity of my sin. Selah 
-
-<pre>
-<div style="font-variant: small-caps;">My Only Righteousness</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:6
-
-      6 Therefore let everyone who is godly 
-      offer prayer to you at a time when you may be found; 
-      surely in the rush of great waters, 
-      they shall not reach him. 
-
-<pre>
-<div style="font-variant: small-caps;">My Only Listener</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:7
-
-      7 You are a hiding place for me; 
-      you preserve me from trouble; 
-      you surround me with shouts of deliverance. Selah 
-
-<pre>
-<div style="font-variant: small-caps;">My Strong Tower</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:8
-
-      8 I will instruct you and teach you in the way you should go; 
-      I will counsel you with my eye upon you. 
-
-<pre>
-<div style="font-variant: small-caps;">My Only Counselor</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:9
-
-      9 Be not like a horse or a mule, without understanding, 
-      which must be curbed with bit and bridle, 
-      or it will not stay near you. 
-      
-<pre>
-<div style="font-variant: small-caps;">My Only Master</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:10
-
-      10 Many are the sorrows of the wicked, 
-      but steadfast love surrounds the one who trusts in the LORD. 
-      
-<pre>
-<div style="font-variant: small-caps;">My Steadfast Lover</div>
-Lorem ipsum
-</pre>
-
-------
-
-## Psalm 32:11
-
-      11 Be glad in the LORD, and rejoice, O righteous, 
-      and shout for joy, all you upright in heart!
-      
-<pre>
-<div style="font-variant: small-caps;">Worthy of All of My Praise Forever</div>
-Lorem ipsum
 </pre>
