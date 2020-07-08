@@ -65,7 +65,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Yusef and Nichole** 
 
-**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy** 
+**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy**
 
 **Natalie, Jackson, Kingston** 
 
@@ -92,6 +92,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Sean & Sunny** 
 
 **Evan** 
+
+**Shannon & Michael, Elle**
 
 **Patrick (Dave’s Son)**
 
@@ -141,6 +143,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 ## Friends
 
 **Sarah & Josiah**
+
+**Eric & Sarah, Amethyst, Aidan, Darby, Liam**
 
 **Andrew & Jordyn, Will, Alice, Elliot** 
 
@@ -200,18 +204,21 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Future: teaching for both in the fall
 
 **Riley & Emily**
-- Emily diabetes symptoms 
-- contract ending
-- slowing down: not waiting for a season of rest
+- Praise you for no diabetes!
+- Praying for a fat baby
+- Lord, I pray for the relationship between Riley and his folks. Lord, step into that relationship and nurture it. Redeem them for your glory.
 
 **Scott & Melody, Emily, Adelyn, Caleb**
-- relearn sleep
-- Wayne & Nicole: hard conversation; praying for Spirit-led conversation 
+- Wayne & Nicole: hard conversation; praying for Spirit-led conversation
+- Anna & Jordan: bless their marriage. I pray that they make you the center of their union. Bless them and keep them.
+- Bless Scott in his work with his qualifications and his relationships with his old squadron
+- Scott’s parents: heal his mom from anxiety and fear and turn her heart towards you
+- Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you 
 
 **Andrew & Andie**
-- Faith: pain; complications with the surgery; back to Dallas in a month to determine success
-- Faith’s friend: NY similar surgery passed away 
-- Laura (mom)
+- Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
+- Marriage
+- Back pain
 
 
 ## Family
