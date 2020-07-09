@@ -18,41 +18,42 @@ draft: true
 Matthew 23:13–15 (ESV) “But woe to you, scribes and Pharisees, hypocrites! For you shut the kingdom of heaven in people’s faces. For you neither enter yourselves nor allow those who would enter to go in. 15 Woe to you, scribes and Pharisees, hypocrites! For you travel across sea and land to make a single proselyte, and when he becomes a proselyte, you make him twice as much a child of hell as yourselves.
 </b></pre>
 
+
 ## Prayers for those who are trapped in NAR churches
 
 ### Catch the Fire DFW
 
-Alan Smith
+**Alan Smith**
 
-Nancy & Sean Love, Lauren, Anna, Teddy
+**Nancy & Sean Love, Lauren, Anna, Teddy**
 
-Lenore 
+**Lenore** 
 
-Jeremiah Johnson
+**Jeremiah Johnson**
 
-Erica & Chris, Natalie, Ethan, Suzanna, Emerie
+**Erica & Chris, Natalie, Ethan, Suzanna, Emerie**
 
-Shannon & Jessica, Eddie
+**Shannon & Jessica, Eddie**
 
-Keri & Greg Solomon, Hazel, Penelope, Rowan
+**Keri & Greg Solomon, Hazel, Penelope, Rowan**
 
-Michael & Erin, Brielle, Malachi, Sebastian
+**Michael & Erin, Brielle, Malachi, Sebastian**
 
-Jon & Lauren Pignatelli,
+**Jon & Lauren Pignatelli,**
 
-Kim Marin
+**Kim Marin**
 
-Matthew Palant
+**Matthew Palant**
 
-Brad Braddy
+**Brad Braddy**
 
-Margie Spence
+**Margie Spence**
 
-Tom Gardner
+**Tom Gardner**
 
 ### Antioch Norman
 
-<pre>
+<pre><b>
 Ashley  Eddy     Sarah M  Tatenda   Jackie   Mark
 Abby    A.C.     Robin    Noah      Abbie    Oscar
 Rin     Carol    Cheryl   Laurel    Amy      Kylie
@@ -67,71 +68,72 @@ Jessie  Erin     Elisheba Stacy     Stefanie
 Carol   Eva      Desiree  Sam       Sunnie   
 Shandra Stephany Manasha  Ray       Teala    
 Moray
-</pre>
+</b></pre>
 
-Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny
 
-Jonathan & Lisa, Justus, Jerod, Jayden, Liberty, Jude, Laylah
+**Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny**
 
-Jake & Kourtney Hartsock, Harper, Braxton, Kooper, Sutton, Preslee
+**Jonathan & Lisa, Justus, Jerod, Jayden, Liberty, Jude, Laylah**
 
-Chris & Megan Doke, Emma, Sophie, Alice, Bella, Isa
+**Jake & Kourtney Hartsock, Harper, Braxton, Kooper, Sutton, Preslee**
 
-Chris & Julie, Beau, Nate, Brooks, Joy
+**Chris & Megan Doke, Emma, Sophie, Alice, Bella, Isa**
 
-Greg & Laura, fam
+**Chris & Julie, Beau, Nate, Brooks, Joy**
 
-Bob & Randi
+**Greg & Laura, fam**
 
-Patrick & Katie, Layla, Kayden, Baby
+**Bob & Randi**
 
-Brian & Allison, Halle, Ella, Haynes, Port
+**Patrick & Katie, Layla, Kayden, Baby**
 
-Gerod & fam,
+**Brian & Allison, Halle, Ella, Haynes, Port**
 
-Brian & Stacy, Kaelyn, Lauren, Joshua, Jason
+**Gerod & fam,**
 
-Andrew & KK, Claire, Maddie, Jones
+**Brian & Stacy, Kaelyn, Lauren, Joshua, Jason**
 
-Donnie & Terri, Matthew, Jessica, Caleb
+**Andrew & KK, Claire, Maddie, Jones**
 
-Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan
+**Donnie & Terri, Matthew, Jessica, Caleb**
 
-Andrew & Jordyn, Will, Alice, Elliot, Baby
+**Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan**
 
-Zac & Sara, Henry, Margaret, Anna
+**Andrew & Jordyn, Will, Alice, Elliot, Baby**
 
-Annamarie & Jordan, fam
+**Zac & Sara, Henry, Margaret, Anna**
 
-Hein & Torree, Holly
+**Annamarie & Jordan, fam**
 
-Emily & Jason
+**Hein & Torree, Holly**
 
-Ben & Audrey
+**Emily & Jason**
 
-Stefan & Paige
+**Ben & Audrey**
 
-Laura & Kenah, Nyala, Baby
+**Stefan & Paige**
 
-Liz & Trey, Rosie, Miles
+**Laura & Kenah, Nyala, Baby**
 
-Blake & Lauren, fam
+**Liz & Trey, Rosie, Miles**
 
-Tyler & Joi, fam
+**Blake & Lauren, fam**
 
-Josh & Becca, fam
+**Tyler & Joi, fam**
 
-Craig & Sharla Conway
+**Josh & Becca, fam**
 
-Alex & Mikala, Reuben, Faye
+**Craig & Sharla Conway**
 
-John & Jillian, Samuel, Emma
+**Alex & Mikala, Reuben, Faye**
 
-Curtis & Rachel, Abigal, Ezra, Jesse
+**John & Jillian, Samuel, Emma**
 
-Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah
+**Curtis & Rachel, Abigal, Ezra, Jesse**
 
-Robby & Sarah, fam
+**Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah**
+
+**Robby & Sarah, fam**
 
 ------
 
