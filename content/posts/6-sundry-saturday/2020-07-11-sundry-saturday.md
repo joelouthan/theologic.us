@@ -1,5 +1,5 @@
 ---
-title: 'Sundry Saturdays:  '
+title: 'Sundry Saturdays: Texas Breakfast Tacos'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-11
