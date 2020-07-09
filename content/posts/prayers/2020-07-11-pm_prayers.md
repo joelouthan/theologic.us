@@ -12,45 +12,45 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre>
+<pre><b>
 
-</pre>
+</b></pre>
 
 ## Prayers for those who are trapped in NAR churches
 
 ### Catch the Fire DFW
 
-Alan Smith
+**Alan Smith**
 
-Nancy & Sean Love, Lauren, Anna, Teddy
+**Nancy & Sean Love, Lauren, Anna, Teddy**
 
-Lenore 
+**Lenore** 
 
-Jeremiah Johnson
+**Jeremiah Johnson**
 
-Erica & Chris, Natalie, Ethan, Suzanna, Emerie
+**Erica & Chris, Natalie, Ethan, Suzanna, Emerie**
 
-Shannon & Jessica, Eddie
+**Shannon & Jessica, Eddie**
 
-Keri & Greg Solomon, Hazel, Penelope, Rowan
+**Keri & Greg Solomon, Hazel, Penelope, Rowan**
 
-Michael & Erin, Brielle, Malachi, Sebastian
+**Michael & Erin, Brielle, Malachi, Sebastian**
 
-Jon & Lauren Pignatelli,
+**Jon & Lauren Pignatelli,**
 
-Kim Marin
+**Kim Marin**
 
-Matthew Palant
+**Matthew Palant**
 
-Brad Braddy
+**Brad Braddy**
 
-Margie Spence
+**Margie Spence**
 
-Tom Gardner
+**Tom Gardner**
 
 ### Antioch Norman
 
-<pre>
+<pre><b>
 Ashley  Eddy     Sarah M  Tatenda   Jackie   Mark
 Abby    A.C.     Robin    Noah      Abbie    Oscar
 Rin     Carol    Cheryl   Laurel    Amy      Kylie
@@ -65,69 +65,69 @@ Jessie  Erin     Elisheba Stacy     Stefanie
 Carol   Eva      Desiree  Sam       Sunnie   
 Shandra Stephany Manasha  Ray       Teala    
 Moray
-</pre>
+</b></pre>
 
-Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny
+**Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny**
 
-Jonathan & Lisa, Justus, Jerod, Jayden, Liberty, Jude, Laylah
+**Jonathan & Lisa, Justus, Jerod, Jayden, Liberty, Jude, Laylah**
 
-Jake & Kourtney Hartsock, Harper, Braxton, Kooper, Sutton, Preslee
+**Jake & Kourtney Hartsock, Harper, Braxton, Kooper, Sutton, Preslee**
 
-Chris & Megan Doke, Emma, Sophie, Alice, Bella, Isa
+**Chris & Megan Doke, Emma, Sophie, Alice, Bella, Isa**
 
-Chris & Julie, Beau, Nate, Brooks, Joy
+**Chris & Julie, Beau, Nate, Brooks, Joy**
 
-Greg & Laura, fam
+**Greg & Laura, fam**
 
-Bob & Randi
+**Bob & Randi**
 
-Patrick & Katie, Layla, Kayden, Baby
+**Patrick & Katie, Layla, Kayden, Baby**
 
-Brian & Allison, Halle, Ella, Haynes, Port
+**Brian & Allison, Halle, Ella, Haynes, Port**
 
-Gerod & fam,
+**Gerod & fam,**
 
-Brian & Stacy, Kaelyn, Lauren, Joshua, Jason
+**Brian & Stacy, Kaelyn, Lauren, Joshua, Jason**
 
-Andrew & KK, Claire, Maddie, Jones
+**Andrew & KK, Claire, Maddie, Jones**
 
-Donnie & Terri, Matthew, Jessica, Caleb
+**Donnie & Terri, Matthew, Jessica, Caleb**
 
-Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan
+**Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan**
 
-Andrew & Jordyn, Will, Alice, Elliot, Baby
+**Andrew & Jordyn, Will, Alice, Elliot, Baby**
 
-Zac & Sara, Henry, Margaret, Anna
+**Zac & Sara, Henry, Margaret, Anna**
 
-Annamarie & Jordan, fam
+**Annamarie & Jordan, fam**
 
-Hein & Torree, Holly
+**Hein & Torree, Holly**
 
-Emily & Jason
+**Emily & Jason**
 
-Ben & Audrey
+**Ben & Audrey**
 
-Stefan & Paige
+**Stefan & Paige**
 
-Laura & Kenah, Nyala, Baby
+**Laura & Kenah, Nyala, Baby**
 
-Liz & Trey, Rosie, Miles
+**Liz & Trey, Rosie, Miles**
 
-Blake & Lauren, fam
+**Blake & Lauren, fam**
 
-Tyler & Joi, fam
+**Tyler & Joi, fam**
 
-Josh & Becca, fam
+**Josh & Becca, fam**
 
-Craig & Sharla Conway
+**Craig & Sharla Conway**
 
-Alex & Mikala, Reuben, Faye
+**Alex & Mikala, Reuben, Faye**
 
-John & Jillian, Samuel, Emma
+**John & Jillian, Samuel, Emma**
 
-Curtis & Rachel, Abigal, Ezra, Jesse
+**Curtis & Rachel, Abigal, Ezra, Jesse**
 
-Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah
+**Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah**
 
-Robby & Sarah, fam
+**Robby & Sarah, fam**
 

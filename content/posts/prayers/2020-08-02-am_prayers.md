@@ -12,9 +12,9 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre>
+<pre><b>
 
-</pre>
+</b></pre>
 
 ## Foremost
 

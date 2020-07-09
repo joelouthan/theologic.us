@@ -13,7 +13,39 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre>
+Isaiah 48:9–11 (ESV)
+      “For my name’s sake I defer my anger; 
+      for the sake of my praise I restrain it for you, 
+      that I may not cut you off. 
+      10 Behold, I have refined you, but not as silver; 
+      I have tried you in the furnace of affliction. 
+      11 For my own sake, for my own sake, I do it, 
+      for how should my name be profaned? 
+      My glory I will not give to another.
+</pre>
 
+<pre>
+My God,
+
+What are the heights of your love?
+	I cannot see it.
+	
+What are the depths of your affections?
+	I cannot know it.
+	
+You are altogether holy and righteous
+	and in you, there is no sin and no evil.
+	
+You called upon me
+	made me your son
+	gave me your heart
+	filled me with your Spirit.
+	
+So that not only will I be saved to you
+	but I can do your will.
+	
+Lord, in my life,
+	be glorified today.
 </pre>
 
 ## Foremost
@@ -60,6 +92,8 @@ On his provision: **Lord, anything you give will be good enough for me.**
 - *Student at OU*
 
 Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+
+For whatever you give me, it be by your hand, will be plenty.
 
 ## For those who do not know You
 

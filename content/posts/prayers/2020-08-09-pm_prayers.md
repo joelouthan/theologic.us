@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Sunday, 2 August 2020'
+title: 'Evening Prayers for Sunday, 9 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-02T14:00:00-06:00
-url: /pm_prayers/2020-08-02-pm_prayers/
+publishDate: 2020-08-09T14:00:00-06:00
+url: /pm_prayers/2020-08-09-pm_prayers/
 categories:
  - Prayers
 tags:
