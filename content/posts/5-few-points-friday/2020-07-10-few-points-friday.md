@@ -15,11 +15,17 @@ draft: false
 
 I debated and prayed about even posting this at all. But I think I must. 
 
-While I don't need to write anything about the New Apostolic Reformation movement, I want to say this first and foremost. I have see may people comment and write books on this. And everything that I have seen has been incredibly helpful and very pastoral. But what I have noticed that so many people commenting on this movement will never mention that they still have friends who go to NAR churches.
+While I don't need to write anything about the New Apostolic Reformation movement, I want to say just this: pray.
 
-I do. I have hundreds of friends who are currently or have in the past attended an NAR church. And they struggle so desperately with legalism and religion and striving. When I prayed about this and when I realized that NAR is real and it is affecting millions of Christians, God simply told me, "Pray for them. Pray for each of them by name."
+I have see may people comment and write books on this movement. And everything that I have read and heart has been incredibly helpful and very pastoral. But what I have noticed that so many people commenting on this movement will never mention that they still have friends who go to NAR churches.
 
-I don't know what is mine to do other than to pray for them and share the gospel of Christ with them as much as I can.
+I do. I have hundreds of friends who are currently or have in the past attended an NAR church. And they struggle so desperately with legalism, religion and striving. This should not be a surprised. When man makes religion about who they are and what they can do, it falls into legalism every single time. When I prayed about this, I realized that NAR is real and it is affecting millions of Christians by placing burdens on them that they simply cannot bear and was never suppose to.
+
+But Christ gives much more grace.
+
+God simply told me, "Pray for them. Pray for each of them by name."
+
+That is what I can do in this moment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RmLeRGPKocg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
