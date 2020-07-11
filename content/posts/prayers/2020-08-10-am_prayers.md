@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Friday, 31 July 2020'
+title: 'Morning Prayers for Monday, 10 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-07-31T08:00:00-06:00
-url: /am_prayers/2020-07-31-am_prayers/
+publishDate: 2020-08-10T08:00:00-06:00
+url: /am_prayers/2020-08-10-am_prayers/
 categories:
  - Prayers
 tags:
