@@ -13,8 +13,29 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 48:14-16
+“Assemble, all of you, and listen!
+Who among them has declared these things?
+The LORD loves him;
+he shall perform his purpose on Babylon,
+and his arm shall be against the Chaldeans.
+I, even I, have spoken and called him;
+I have brought him, and he will prosper in his way.
+Draw near to me, hear this:
+from the beginning I have not spoken in secret,
+from the time it came to be I have been there.”
+And now the Lord GOD has sent me, and his Spirit.
 </b></pre>
+
+My God,
+
+You have never hid.  You have made yourself known. You have made yourself plain. 
+
+From my mother’s womb, you were my God.  Since I was nursing at my mother’s breasts you were my Lord. 
+
+From everlasting to everlasting you are my God. 
+
+Be exalted higher and higher.  
 
 ## Foremost
 
@@ -34,10 +55,11 @@ On true friendship: **For my Jonathan**
 
 On sanctification: **Lord, help me to gentle, patient, and tender like you** 
 
-On holiness: **2 Timothy 2:21
-Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
+On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
+
+Lord, you led me this morning. I’ve been powerless to back out and stop the schemes of the enemy. You are my fortress and shield. My strength and my deliverer. In you, I will trust. 
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
@@ -98,6 +120,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Patrick (Dave’s Son)**
 
 **Coleman & Wendy, Olivia, Bella, Ian**
+
+**Carl**
 
 **Mark & Nicole, Gabrielle** 
 
