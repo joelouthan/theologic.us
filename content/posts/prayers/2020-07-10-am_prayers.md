@@ -13,7 +13,16 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 48:12-13
+The LORD'S Call to Israel
+“Listen to me, O Jacob,
+and Israel, whom I called!
+I am he; I am the first,
+and I am the last.
+My hand laid the foundation of the earth,
+and my right hand spread out the heavens;
+when I call to them,
+they stand forth together.
 </b></pre>
 
 ## Foremost
@@ -34,12 +43,15 @@ On true friendship: **For my Jonathan**
 
 On sanctification: **Lord, help me to gentle, patient, and tender like you** 
 
-On holiness: **2 Timothy 2:21
-Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
+On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
+
+I think what i have been taught about prophecy is not true. 
+
+Correct me. Teach me your word. Guide me. Help me. 
 
 On pastoring: **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
 
@@ -51,6 +63,7 @@ On glory of God: **“On Christ’s glory I would fix all my thoughts and desire
 
 On his provision: **Lord, anything you give will be good enough for me.**
 
+Amen. 
 
 ## Next steps
 
@@ -288,3 +301,8 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Burkesville, KY**
 
+Bring this to light. 
+
+Be glorified today. 
+
+Amen. 

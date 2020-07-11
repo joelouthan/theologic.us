@@ -13,7 +13,8 @@ draft: true
 ## Acts 20:22–27 (ESV) And now, behold, I am going to Jerusalem, constrained by the Spirit, not knowing what will happen to me there,  except that the Holy Spirit testifies to me in every city that imprisonment and afflictions await me.  But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.  And now, behold, I know that none of you among whom I have gone about proclaiming the kingdom will see my face again.  Therefore I testify to you this day that I am innocent of the blood of all,  for I did not shrink from declaring to you the whole counsel of God.
 
 <pre><b>
-
+1 Timothy 1:12-17
+I thank him who has given me strength, Christ Jesus our Lord, because he judged me faithful, appointing me to his service, though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief, and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus. The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 </b></pre>
 
 ## Prayers for those who are trapped in NAR churches
@@ -131,3 +132,8 @@ Moray
 
 **Robby & Sarah, fam**
 
+What can I say or pray.  Show me how to pray for my friends. 
+
+I love them so much. 
+
+May they love and know your grace. 
