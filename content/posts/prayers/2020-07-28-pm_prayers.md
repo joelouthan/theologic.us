@@ -18,6 +18,12 @@ draft: true
 
 ## Prayers for those who are trapped in NAR churches
 
+### Gateway Church
+
+**Kristi**
+
+**Camille**
+
 ### Catch the Fire DFW
 
 **Alan Smith**

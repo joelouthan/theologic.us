@@ -26,6 +26,8 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
+Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
+
 ## Daily
 
 On marriage: **Sarah, my love** 
@@ -34,8 +36,7 @@ On true friendship: **For my Jonathan**
 
 On sanctification: **Lord, help me to gentle, patient, and tender like you** 
 
-On holiness: **2 Timothy 2:21
-Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
+On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
 
@@ -99,6 +100,8 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Coleman & Wendy, Olivia, Bella, Ian**
 
+**Carl**
+
 **Mark & Nicole, Gabrielle** 
 
 **Mark & Robin** 
@@ -146,6 +149,10 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Eric & Sarah, Amethyst, Aidan, Darby, Liam**
 
+**Jared & Lacey, Marin, Elisabeth**
+
+**Leslie**
+
 **Andrew & Jordyn, Will, Alice, Elliot** 
 
 **Alix & Braden** 
@@ -185,12 +192,6 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Ron & Karen**
 
 **Landon & Jules, Eli, Sophia & Olivia**
-
-**Kristi Mosley**
-
-**Toneka & Justin, Justice**
-
-**Camille**
 
 
 
