@@ -16,6 +16,6 @@ draft: true
       and shout for joy, all you upright in heart!
       
 <pre>
-<div style="font-variant: small-caps;">Worthy of All of My Praise Forever</div>
+<div style="font-variant: small-caps;">My Only One Worthy to be Praised</div>
 Lorem ipsum
 </pre>

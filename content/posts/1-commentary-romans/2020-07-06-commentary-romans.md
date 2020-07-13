@@ -33,8 +33,9 @@ You might think that is a stretch to connect two thoughts like that but in my ex
 
 You might argue yourself out of a doctrine like the atonement but you have not done anything about your sin that dwells in you. "Okay, so my certain select sins are not sins." Do you see the fallacy? You have to continue to argue and prove that something is not something one right after the other until you get to the point of **there is no God**.
 
-This line of thinking does not work because all you are doing is uncovering holes that are not there and filling them with lies that will only fill the hearer with despair.
+This line of thinking does not work because all you are doing is uncovering holes that are not there and filling them with lies that will only fill the hearer with despair. 
 
-The truth of it is: God does exist. God is not far but he is near. God loves you. If you trust him at His word, He has made a way to cover all of your sins, remove them from your heart, give you a new heart, give you His Spirit to lead and guide and empower you to do his will, all because of His Son's perfect work and all-satisfying death upon the cross. We don't have to figure out what to do with our sin. There is only despair and tragedy when we have declared certain sins, not a sin. But as believers in Christ, we can take our sin and give those over to God and he put those on his Son while His Son puts his righteousness and holiness upon us.
+The truth of it is: God does exist, he has not spoken in secret (Isaiah 48:16) and he has made himself know. (John 1:18) God is not far but he is near. God loves you. If you trust him at His word, He has made a way to cover all of your sins, remove them from your heart, give you a new heart, give you His Spirit to lead and guide and empower you to do his will, all because of His Son's perfect work and all-satisfying death upon the cross. We don't have to figure out what to do with our sin. There is only despair and tragedy when we have declared certain sins, not a sin. But as believers in Christ, we can take our sin and give those over to God and he put those on his Son while His Son puts his righteousness and holiness upon us.
 
 You can try to keep your sin. I must warn you that keeping that one sin will only lead to death and not life. But the gift of God is eternal life through Christ Jesus our Lord.
+

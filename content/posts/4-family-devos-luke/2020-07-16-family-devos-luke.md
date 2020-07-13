@@ -33,7 +33,7 @@ draft: false
 <pre><b>Luke 6:21a (CSB) 
       Blessed are you who are hungry now, 
       because you will be filled.
-      
+
 Psalm 42:1 (CSB)
       As a deer longs for flowing streams, 
       so I long for you, God.
@@ -185,7 +185,7 @@ Romans 8:30 (CSB) And those he predestined, he also called; and those he called,
 <pre><b>Luke 6:25b (CSB)
       Woe to you who are now laughing, 
       for you will mourn and weep.
-      
+
 Psalm 16:11 (CSB)
        You reveal the path of life to me; 
        in your presence is abundant joy; 
@@ -212,7 +212,7 @@ Psalm 30:5 (CSB)
       when all people speak well of you,  
       for this is the way their ancestors
       used to treat the false prophets.
-      
+
 Jeremiah 8:11 (CSB)
       They have treated the brokenness 
       of my dear people superficially, 
@@ -225,3 +225,4 @@ Jeremiah 8:11 (CSB)
 *If we lie, does that bring death to others or life to others?*
 
 **2 Corinthians 2:15–17 (CSB) For to God we are the fragrance of Christ among those who are being saved and among those who are perishing. 16 To some we are an aroma of death leading to death, but to others, an aroma of life leading to life. Who is adequate for these things? 17 For we do not market the word of God for profit like so many. On the contrary, we speak with sincerity in Christ, as from God and before God.**
+

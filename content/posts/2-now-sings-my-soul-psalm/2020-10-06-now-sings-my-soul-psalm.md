@@ -16,6 +16,6 @@ draft: true
       but steadfast love surrounds the one who trusts in the LORD. 
       
 <pre>
-<div style="font-variant: small-caps;">My Steadfast Lover</div>
+<div style="font-variant: small-caps;">My Only Steadfast Lover</div>
 Lorem ipsum
 </pre>
