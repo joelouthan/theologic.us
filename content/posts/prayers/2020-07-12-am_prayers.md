@@ -13,8 +13,22 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 48:20-22
+Go out from Babylon, flee from Chaldea,
+declare this with a shout of joy, proclaim it,
+send it out to the end of the earth;
+say, “The LORD has redeemed his servant Jacob!”
+They did not thirst when he led them through the deserts;
+he made water flow for them from the rock;
+he split the rock and the water gushed out.
+“There is no peace,” says the LORD, “for the wicked.”
 </b></pre>
+
+My God
+
+You have poured water upon my dried and thirsty soul. You have washed me in the water of your word. You have given me the fullness of life. You have made me truly alive. 
+
+Don’t let me stray from your love.  Don’t take your Spirit away from me. Keep me in your grace at all times. Keep me from temptation and deliver me from evil.  Write your word upon my heart that I might not sin against you, o Lord, my redeemer and the rock of my salvation. 
 
 ## Foremost
 
@@ -288,4 +302,21 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 **Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
 
 **Burkesville, KY**
+
+I worship you
+Almighty God
+There is none like you
+
+I worship you
+O Prince of Peace
+That is what i long to do
+
+I’ll give you praise 
+For you are my righteousness 
+
+I worship you
+Almighty God
+There is none like you.
+
+Amen 
 

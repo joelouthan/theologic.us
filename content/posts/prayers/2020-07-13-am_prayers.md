@@ -13,8 +13,36 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 49:5-6
+And now the LORD says,
+he who formed me from the womb to be his servant,
+to bring Jacob back to him;
+and that Israel might be gathered to him—
+for I am honored in the eyes of the LORD,
+and my God has become my strength—
+he says:
+“It is too light a thing that you should be my servant
+to raise up the tribes of Jacob
+and to bring back the preserved of Israel;
+I will make you as a light for the nations,
+that my salvation may reach to the end of the earth.”
 </b></pre>
+
+My Lord,
+
+You did this with Christ and your servant Isaiah. 
+
+I will do what you ask me to do.  Because you are my Father in heaven and I love you. 
+
+Thank you for your Son. Thank you for your Spirit. 
+Thank you for your kindness and repentance. 
+Thank you for saving me. 
+
+Lord I hadn’t had to battle lustful thoughts at dawn for a long time. It was so sweet to not to think those thoughts and instead to think upon you. It is utterly worthless to think of past loves. I don’t want my affections stirred for any of them. I don’t even remember their names. 
+
+I don’t need to forget them. I just need you to make me holy.  My Lord, here are my thoughts. They are sinful. So they belong to you.  
+
+My Lord cleansed me from all unrighteousness and make my heart *exactly* like yours. Give me your Spirit so I can be empowered to do your will. Give me grace to do your will.  Write the entire Bible upon my heart so I would never sin against you, the Lord of heart and the Rock of my redemption. 
 
 ## Foremost
 
@@ -39,6 +67,14 @@ On sanctification: **Lord, help me to gentle, patient, and tender like you**
 On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
+
+Lord i know this is two fold.  I am being attacked by the arrows of the enemy.  But i know what my heart wants to produce.  
+
+But you are my strong shield and tower. A fortress that protects me. 
+
+And you gave me your heart and your Spirit just as you promised to your servant Ezekiel.  
+
+I will bless your holy name forever. 
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
@@ -289,3 +325,8 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Burkesville, KY**
 
+My Lord God. I want to plant Frontline Norman. If you want it and if you will save people to yourself. I don’t know if that word is real but I am about to test it. 
+
+Have your way in me Lord.  Do what you must do. 
+
+Amen. 
