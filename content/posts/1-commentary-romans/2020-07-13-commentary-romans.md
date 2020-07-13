@@ -8,7 +8,7 @@ categories:
   - Commentary
 tags:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 
 **Romans 1:21–23 (ESV) For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.**
