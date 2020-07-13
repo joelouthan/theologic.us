@@ -57,20 +57,32 @@ draft: true
 ### Antioch Norman
 
 <pre><b>
-Ashley  Eddy     Sarah M  Tatenda   Jackie   Mark
-Abby    A.C.     Robin    Noah      Abbie    Oscar
-Rin     Carol    Cheryl   Laurel    Amy      Kylie
-Kim     Courtney Zach     Faith     Tonu     Connie
-Taylor  Isaac    Josh     Caroline  Susan    Hannah
-Lori    Katrina  Jaime    Max       Anjil    McKenzie
-Brad    Ian      Daniel   Elijah    Steve    Hannah
-Crystal Kaitlin  Lark     Pam       Amanda   Raylie
-Leah    Rebekah  Alexis   Marisha   Julie    
-Larissa Kristen  Rachel   Star-Lord Blake    
-Jessie  Erin     Elisheba Stacy     Stefanie 
-Carol   Eva      Desiree  Sam       Sunnie   
-Shandra Stephany Manasha  Ray       Teala    
-Moray
+Ashley  Eddy     Sarah M  
+Tatenda Jackie   Mark
+Abby    A.C.     Robin    
+Noah    Abbie    Oscar
+Rin     Carol    Cheryl   
+Laurel  Amy      Kylie
+Kim     Courtney Zach     
+Faith   Tonu     Connie
+Taylor  Isaac    Josh     
+Susan   Hannah.  Caroline
+Lori    Katrina  Jaime    
+Max     Anjil    McKenzie
+Brad    Ian      Daniel   
+Elijah  Steve    Hannah
+Crystal Kaitlin  Lark     
+Pam     Amanda   Raylie
+Leah    Rebekah  Alexis   
+Marisha Julie    Rachel
+Larissa Kristen  Star-Lord    
+Jessie  Erin     Elisheba 
+Stacy   Stefanie Blake
+Carol   Eva      Desiree  
+Sam     Sunnie   Ray
+Shandra Stephany Manasha  
+Teala
+
 </b></pre>
 
 **Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny**

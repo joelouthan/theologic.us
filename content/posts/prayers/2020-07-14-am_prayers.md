@@ -193,6 +193,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Landon & Jules, Eli, Sophia & Olivia**
 
+**Moray**
 
 
 ## Discipleship Group
@@ -270,6 +271,9 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 6. *Ministry of warfare*
 
+**City of Norman**
+- Mayor Breea Clark
+- Councilperson Elizabeth Foreman
 
 **Frontline Norman**
 
