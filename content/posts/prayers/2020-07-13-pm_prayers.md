@@ -13,8 +13,26 @@ draft: true
 ## Acts 20:22–27 (ESV) And now, behold, I am going to Jerusalem, constrained by the Spirit, not knowing what will happen to me there,  except that the Holy Spirit testifies to me in every city that imprisonment and afflictions await me.  But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.  And now, behold, I know that none of you among whom I have gone about proclaiming the kingdom will see my face again.  Therefore I testify to you this day that I am innocent of the blood of all,  for I did not shrink from declaring to you the whole counsel of God.
 
 <pre><b>
-
+Isaiah 49:7
+Thus says the LORD,
+the Redeemer of Israel and his Holy One,
+to one deeply despised, abhorred by the nation,
+the servant of rulers:
+“Kings shall see and arise;
+princes, and they shall prostrate themselves;
+because of the LORD, who is faithful,
+the Holy One of Israel, who has chosen you.”
 </b></pre>
+
+You have chosen me
+The chief of sinners
+Before I could do anything about it
+
+You loved me first.
+You thought of me first. 
+You chose me first. 
+
+Otherwise, i would be dead. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -137,3 +155,4 @@ Moray
 
 **Robby & Sarah, fam**
 
+Lord be with them all tonight. Watch over them and keep them. 
