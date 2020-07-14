@@ -1,5 +1,5 @@
 ---
-title: 'Romans 1:18-20 The Righteousness of God [Part 3]'
+title: 'Romans 1:18-20 The Righteousness of God: His Obviousness'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-06
