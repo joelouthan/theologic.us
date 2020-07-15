@@ -13,7 +13,7 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-Isaiah 49:8–13 (ESV)
+Isaiah 49:8–12 (ESV)
       Thus says the LORD: 
       “In a time of favor I have answered you; 
       in a day of salvation I have helped you; 
@@ -34,26 +34,19 @@ Isaiah 49:8–13 (ESV)
       12 Behold, these shall come from afar, 
       and behold, these from the north and from the west, 
       and these from the land of Syene.” 
-
-      13 Sing for joy, O heavens, and exult, O earth; 
-      break forth, O mountains, into singing! 
-      For the LORD has comforted his people 
-      and will have compassion on his afflicted.
 </b></pre>
 
-My Precious Lord,
+Lord,
 
-You have rescued me
-from the pit of darkenss and despair.
+You have always been with me 
 
-You are my Lord
-in you that I trust.
+And you have set me free
 
-Blessed be the Lord God Almighty
-who was and is and is to come
+And no matter where you’ve taken me, you have been there. 
 
-Blessed be the Lord God Almighty
-who reigns forever more.
+Be exalted O Lord. 
+
+God I will need your grace to accomplish what you’ve set out before me. I love you Lord. Please help me. 
 
 ## Foremost
 
@@ -183,6 +176,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
+Would you save them today?
 
 ## Friends
 
@@ -334,3 +328,4 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Burkesville, KY**
 
+Amen

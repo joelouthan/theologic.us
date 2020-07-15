@@ -13,8 +13,23 @@ draft: true
 ## Acts 20:22–27 (ESV) And now, behold, I am going to Jerusalem, constrained by the Spirit, not knowing what will happen to me there,  except that the Holy Spirit testifies to me in every city that imprisonment and afflictions await me.  But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.  And now, behold, I know that none of you among whom I have gone about proclaiming the kingdom will see my face again.  Therefore I testify to you this day that I am innocent of the blood of all,  for I did not shrink from declaring to you the whole counsel of God.
 
 <pre><b>
-
+Isaiah 49:13
+Sing for joy, O heavens, and exult, O earth;
+break forth, O mountains, into singing!
+For the LORD has comforted his people
+and will have compassion on his afflicted.
 </b></pre>
+
+I will sing
+Forever i will sing
+Of your salvation
+Who saved a wretch like me 
+
+You are my Lord
+And my God
+I will forever love you 
+
+Amen. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -66,7 +81,7 @@ Laurel  Amy      Kylie
 Kim     Courtney Zach     
 Faith   Tonu     Connie
 Taylor  Isaac    Josh     
-Susan   Hannah.  Caroline
+Susan   Hannah   Caroline
 Lori    Katrina  Jaime    
 Max     Anjil    McKenzie
 Brad    Ian      Daniel   
@@ -149,3 +164,10 @@ Teala
 
 **Robby & Sarah, fam**
 
+My God. Watch over them all and keep them safe. Safeguard their little hearts and renew their minds. Pour your spirit upon them and draw them closer to you. 
+
+Lord grant them repentance.  Speak to them. Give them truth. Turn their hearts towards you. Do not let them believe lies and have their hearts broken because of the lies they believed. If they repent and trust in you you will heal their broken heart.  More so, you will perfectly satisfied them all the days of their life. And they shall dwell in your presence forever. 
+
+Be exalted in their lives and homes Lord. 
+
+Amen. 
