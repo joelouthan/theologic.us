@@ -222,7 +222,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Andrew & Andie**
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Blessing on their marriage and communication and conflict resolution
-- Andrew's Dad: need JOB! 
+- Andrew's Dad, Rick: need JOB! 
 
 
 ## Family
