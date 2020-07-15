@@ -31,7 +31,7 @@ https://gist.github.com/jeremybise/a6afea2d4c7f9044180ffeb663a617cf
 
 Here's how I did it. (These are straight from my site)
 
-1. Find your head.html (mine was in *webroot*/themes/*theme-name*/layouts/partials) and add this snippet
+1\. Find your head.html (mine was in *webroot*/themes/*theme-name*/layouts/partials) and add this snippet
 
    ```html
    <head>
@@ -41,7 +41,7 @@ Here's how I did it. (These are straight from my site)
 
    Anywhere is good as long as it's not within a meta tag
    
-2. Stick this into your config.toml
+2\. Stick this into your config.toml
 
    ```toml
    [params]
@@ -51,7 +51,7 @@ Here's how I did it. (These are straight from my site)
    ```
 100-900 are the various weights--100 being the thinnest and 900 being the boldest.
 
-3. Go back into *webroot*/themes/*theme-name*/layouts/partials and add google-fonts.html:
+3\. Go back into *webroot*/themes/*theme-name*/layouts/partials and add google-fonts.html:
    ```html
    {{ if .Site.Params.google_fonts }}
      {{ $fonts := slice }}
@@ -69,7 +69,7 @@ Here's how I did it. (These are straight from my site)
    {{ end }}
    ```
 
-4. Finally, find your css and edit appropriately. So the site Description I wanted to alter was under library-desc. So:
+4\. Finally, find your css and edit appropriately. So the site Description I wanted to alter was under library-desc. So:
    ```css
    .library-desc {
        font-size: 0.60rem;
@@ -82,6 +82,6 @@ Here's how I did it. (These are straight from my site)
    }
    ```
 
-5. If you are running Hugo with the default NoFastRender, it *should* refresh the page automatically--give or take about 10 seconds.
+5\. If you are running Hugo with the default NoFastRender, it *should* refresh the page automatically--give or take about 10 seconds.
 
 Play around with it and see if that works for you.
