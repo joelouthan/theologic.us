@@ -13,10 +13,51 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
+Isaiah 49:8–13 (ESV)
+      Thus says the LORD: 
+      “In a time of favor I have answered you; 
+      in a day of salvation I have helped you; 
+      I will keep you and give you 
+      as a covenant to the people, 
+      to establish the land, 
+      to apportion the desolate heritages, 
+      9 saying to the prisoners, ‘Come out,’ 
+      to those who are in darkness, ‘Appear.’ 
+      They shall feed along the ways; 
+      on all bare heights shall be their pasture; 
+      10 they shall not hunger or thirst, 
+      neither scorching wind nor sun shall strike them, 
+      for he who has pity on them will lead them, 
+      and by springs of water will guide them. 
+      11 And I will make all my mountains a road, 
+      and my highways shall be raised up. 
+      12 Behold, these shall come from afar, 
+      and behold, these from the north and from the west, 
+      and these from the land of Syene.” 
 
+      13 Sing for joy, O heavens, and exult, O earth; 
+      break forth, O mountains, into singing! 
+      For the LORD has comforted his people 
+      and will have compassion on his afflicted.
 </b></pre>
 
+My Precious Lord,
+
+You have rescued me
+from the pit of darkenss and despair.
+
+You are my Lord
+in you that I trust.
+
+Blessed be the Lord God Almighty
+who was and is and is to come
+
+Blessed be the Lord God Almighty
+who reigns forever more.
+
 ## Foremost
+
+Heal and protect Emily and her baby. Be with the Robersons. Lord, give them peace and joy. 
 
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
