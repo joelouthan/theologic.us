@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Friday, 7 August 2020'
+title: 'Evening Prayers for Friday, 14 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-07T14:00:00-06:00
-url: /pm_prayers/2020-08-07-pm_prayers/
+publishDate: 2020-08-14T14:00:00-06:00
+url: /pm_prayers/2020-08-14-pm_prayers/
 categories:
  - Prayers
 tags:

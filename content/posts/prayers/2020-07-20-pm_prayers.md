@@ -10,7 +10,7 @@ tags:
  - 'Prayers'
 draft: true
 ---
-## Acts 20:22–27 (ESV) And now, behold, I am going to Jerusalem, constrained by the Spirit, not knowing what will happen to me there,  except that the Holy Spirit testifies to me in every city that imprisonment and afflictions await me.  But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.  And now, behold, I know that none of you among whom I have gone about proclaiming the kingdom will see my face again.  Therefore I testify to you this day that I am innocent of the blood of all,  for I did not shrink from declaring to you the whole counsel of God.
+## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
 
@@ -69,7 +69,7 @@ Taylor  Isaac    Josh
 Susan   Hannah.  Caroline
 Lori    Katrina  Jaime    
 Max     Anjil    McKenzie
-Brad    Ian      Daniel   
+Brad    Teala    Daniel   
 Elijah  Steve    Hannah
 Crystal Kaitlin  Lark     
 Pam     Amanda   Raylie
@@ -81,7 +81,7 @@ Stacy   Stefanie Blake
 Carol   Eva      Desiree  
 Sam     Sunnie   Ray
 Shandra Stephany Manasha  
-Teala
+
 
 </b></pre>
 
@@ -148,4 +148,10 @@ Teala
 **Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah**
 
 **Robby & Sarah, fam**
+
+**Ian**
+
+
+## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
+
 

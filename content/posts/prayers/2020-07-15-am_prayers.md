@@ -13,10 +13,22 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 49:13 (ESV)
+      Sing for joy, O heavens, and exult, O earth; 
+      break forth, O mountains, into singing! 
+      For the LORD has comforted his people 
+      and will have compassion on his afflicted.
 </b></pre>
 
+Blessed be the Lord God Almighty
+who was and is and is to come
+
+Blessed be the Lord God Almighty
+who reigns forevermore.
+
 ## Foremost
+
+Heal and protect Emily and her baby. Be with the Robersons. Lord, give them peace and joy. 
 
 Heal Natasha. Bless her in this time. Let peace fall on the Gayles. Be with Aaron and Audrey.
 
@@ -26,11 +38,15 @@ Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
+Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.
+
+Lord, these are scary times. And we need you because you are the only one who heals. Blessed be your glorious name.
 
 ## Daily
 
-On marriage: **Sarah, my love** 
+On marriage: **Sarah, my love** Thank you for this sweetest marriage. Thank you for the sweetness that is Sarah. Thank you that she challenges me and she loves me. Thank you for making her perfect for me.
+
+Lord, how do we minister together and not separate? Give us one Spirit and unite us in that front. We love you Lord and we praise you. We adore you. Glorify your name in all the earth.
 
 On true friendship: **For my Jonathan** 
 
@@ -60,7 +76,13 @@ On his provision: **Lord, anything you give will be good enough for me.**
 - *Management at Red Hat*
 - *Student at OU*
 
-Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+I have seen your hand upon my life.
+
+Lord, please, if it be your will and provision, allow me to switch jobs.
+
+But if I need to be here longer, I will do so with joy and gladness. Because whatever you have given me is perfect and a blessing.
+
+I love you Lord. Forever I willl love you.
 
 ## For those who do not know You
 
@@ -199,14 +221,10 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 ## Discipleship Group
 
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
-- marriage routine and conflict 
-- Communication
-- Norman High
-- More grace; gentleness, patience 
-- Future: teaching for both in the fall
+- new season of school
+- Lauren: teaching job--Lord be her provision
 
 **Riley & Emily**
-- Praise you for no diabetes!
 - Praying for a fat baby
 - Lord, I pray for the relationship between Riley and his folks. Lord, step into that relationship and nurture it. Redeem them for your glory.
 
@@ -215,81 +233,59 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 - Anna & Jordan: bless their marriage. I pray that they make you the center of their union. Bless them and keep them.
 - Bless Scott in his work with his qualifications and his relationships with his old squadron
 - Scott’s parents: heal his mom from anxiety and fear and turn her heart towards you
-- Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you 
+- Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you
+- Melody's granddad Aleto - broken ribs, and dementia
+- Mohammad the neighborhood kid
 
 **Andrew & Andie**
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
-- Marriage
-- Back pain
+- Blessing on their marriage and communication and conflict resolution
+- Andrew's Dad: need JOB! 
 
 
 ## Family
 
-**Sarah** 
-
-**Yusef, Elijah, Ivy, Ava** 
+**Sarah, Yusef, Elijah, Ivy, Ava** 
 
 **Marmie & Jason, Molly**
-- Removal from Spiritual Isolation
-- Brought into Spiritual community
-- Equally yoked
 
+Lord, how do I minister to Jason? How do I share the gospel with words and my deeds? Lord, show me how to love Jason. Show me how to bless him.
 
-## Church
+Save his soul in this moment. Spirit, please do you work.
 
-**Lord, what do you want your church to be? What have you seen your Bride to be? Align me with that!**
-
-**God, who am I and what is my purpose?**
-
-**Spirit of the Living God, awaken my heart to fall in love again and again**
-
-1. **Our relationship with the truth** - *Is there absolute truth or is there just my truth that I have to seek out?* - Where have I pieced together my own truth?
-2. **Suspicion of all authority** - *Is all authority corrupted? Is the authority of Jesus corrupted?*
-3. **Deconstruction of everything** - *Strip away everything and then cut the truth against my subjective prespective and experience*
-4. **Expressive individualism** - *With or without boundaries and order? Freedom from or freedom to Christ?* 
-5. **Consumerism** - *Going from citizens to individual; church as business; customer is always right* Pragmatism vs. Absolute Truth
-6. **Instituational Corruption and Decline** -  *Cynical of all instituations: church, marriage, family, politics, education*
-
-> **Ephesians 3:7–12 Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power. To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord, in whom we have boldness and access with confidence through our faith in him.**
-
-A. Church is the manifest wisdom of God that God continually preaches to angels.
-B. Church is formed and continually sustained by the grace of God
-C. Church is a community centered on Christ
-
-Six ways of doing greater things than Christ 
-
-1. *Ministry of sight* - seeing the unseen. Who are you missing? Who are you ignoring? *Matthew 9:10-13
-And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick. Go and learn what this means: I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”*
-
-2. *Ministry of touch* - moving towards. laying on of hands. Blessing. Do we avoid parts of town? Them vs they. 
-
-3. *Ministry of suffering* - healing and suffering. Both. And God is enough. 
-
-4. *Ministry of word and deed* - always Jesus
-
-5. *Ministry of locality* Acts 17:24-5
-
-6. *Ministry of warfare*
+## City of Norman
 
 **City of Norman**
 - Mayor Breea Clark
 - Councilperson Elizabeth Foreman
 
-**Frontline Norman**
+I pray against attacks on our leaders. Shield their eyes and hearts.
 
-**Antioch Norman** 
+But Father, if they do not know you, please turn their hearts towards you.
 
-**Frontline South** 
 
-**Frontline** 
-
-**All the churches in Norman** 
-
-**Norman** 
+## Church
 
 **Stillwater RPC (Pastor Bruce)**
 
-**Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
+**Pastor Dana Coverstone, Living Word Ministries AoG and all of Burkesville, KY**
 
-**Burkesville, KY**
+**All the churches in Norman** 
 
+**Frontline** 
+
+**Frontline South** 
+
+**Antioch Norman** 
+
+**Frontline Norman**
+
+Lord, you are more precious than silver.
+
+Lord, you are more costly than gold.
+
+Lord, you are more beautiful than diamonds,
+
+And nothing I desire compares to you.
+
+Amen.
