@@ -13,8 +13,41 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 49:8-12
+The Restoration of Israel
+Thus says the LORD:
+“In a time of favor I have answered you;
+in a day of salvation I have helped you;
+I will keep you and give you
+as a covenant to the people,
+to establish the land,
+to apportion the desolate heritages,
+saying to the prisoners, ‘Come out,’
+to those who are in darkness, ‘Appear.’
+They shall feed along the ways;
+on all bare heights shall be their pasture;
+they shall not hunger or thirst,
+neither scorching wind nor sun shall strike them,
+for he who has pity on them will lead them,
+and by springs of water will guide them.
+And I will make all my mountains a road,
+and my highways shall be raised up.
+Behold, these shall come from afar,
+and behold, these from the north and from the west,
+and these from the land of Syene.”
 </b></pre>
+
+Lord,
+
+You have always been with me 
+
+And you have set me free
+
+And no matter where you’ve taken me, you have been there. 
+
+Be exalted O Lord. 
+
+God I will need your grace to accomplish what you’ve set out before me. I love you Lord. Please help me. 
 
 ## Foremost
 
@@ -142,6 +175,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Evan & Kaylee, Everett, Baby**
 
+Would you save them today?
 
 ## Friends
 
@@ -293,3 +327,4 @@ And as Jesus reclined at table in the house, behold, many tax collectors and sin
 
 **Burkesville, KY**
 
+Amen
