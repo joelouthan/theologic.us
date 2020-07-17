@@ -13,14 +13,33 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 49:14-18
+But Zion said, “The LORD has forsaken me;
+my Lord has forgotten me.”
+“Can a woman forget her nursing child,
+that she should have no compassion on the son of her womb?
+Even these may forget,
+yet I will not forget you.
+Behold, I have engraved you on the palms of my hands;
+your walls are continually before me.
+Your builders make haste;
+your destroyers and those who laid you waste go out from you.
+Lift up your eyes around and see;
+they all gather, they come to you.
+As I live, declares the LORD,
+you shall put them all on as an ornament;
+you shall bind them on as a bride does.
 </b></pre>
 
+My God,
 
+You have never forgotten me. 
+
+May the words of my mouth and the mediations of my heart be ever pleasing unto you. 
 
 ## Foremost
 
-Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
+Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the one who gives life.
 
 Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
 
@@ -161,7 +180,9 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Alix & Braden** 
 
-**Dena & Dave; Patrick; Heather & hubs; Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson** 
+**Dena & Dave** - My Lord, May we minister and walk and preach and teach and plant and pastor together. Only you can do that. Show Dave and Dena your glory today and forever.  Be with them.  Lord give him peace. 
+
+**Patrick; Heather & hubs; Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson** 
 
 **Reva & Ronnie** 
 
@@ -235,6 +256,8 @@ Lord, how do I minister to Jason? How do I share the gospel with words and my de
 
 Save his soul in this moment. Spirit, please do you work.
 
+Lord, give Marmie this job. Amen. 
+
 ## City of Norman
 
 **City of Norman**
@@ -261,4 +284,7 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 **Frontline Norman**
 
+Lord let fruit come forth from this meeting. 
+
+Lord help us plant Frontline Norman. 
 
