@@ -8,7 +8,7 @@ categories:
   - Memoir
 tags:
   - 'A Life of Compromise'
-draft: false
+draft: true
 ---
 
 #### How to Be Released and Then Imprisoned
