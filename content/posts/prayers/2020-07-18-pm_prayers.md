@@ -127,7 +127,7 @@ Shandra Stephany Manasha
 
 **Stefan & Paige**
 
-**Laura & Kenah, Nyala, Baby**
+**Laura & Kenah, Nyala, Peter**
 
 **Liz & Trey, Rosie, Miles**
 
@@ -155,3 +155,4 @@ Shandra Stephany Manasha
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
 
+Lord bless them.  All of them. Today. Amen. 
