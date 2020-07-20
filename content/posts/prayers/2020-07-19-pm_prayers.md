@@ -13,7 +13,22 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 51:1-3
+The LORD'S Comfort for Zion
+“Listen to me, you who pursue righteousness,
+you who seek the LORD:
+look to the rock from which you were hewn,
+and to the quarry from which you were dug.
+Look to Abraham your father
+and to Sarah who bore you;
+for he was but one when I called him,
+that I might bless him and multiply him.
+For the LORD comforts Zion;
+he comforts all her waste places
+and makes her wilderness like Eden,
+her desert like the garden of the LORD;
+joy and gladness will be found in her,
+thanksgiving and the voice of song.
 </b></pre>
 
 ## Prayers for those who are trapped in NAR churches
@@ -154,4 +169,4 @@ Shandra Stephany Manasha
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
-
+Lord bless them and keep them. 
