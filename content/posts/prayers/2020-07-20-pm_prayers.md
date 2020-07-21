@@ -13,8 +13,26 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 51:7-8
+“Listen to me, you who know righteousness,
+the people in whose heart is my law;
+fear not the reproach of man,
+nor be dismayed at their revilings.
+For the moth will eat them up like a garment,
+and the worm will eat them like wool,
+but my righteousness will be forever,
+and my salvation to all generations.”
 </b></pre>
+
+My Saving Lord,
+
+Help me not to be distracted or scared by man but to put my attention, sights and affections on you, my Lord and my God. 
+
+Capture my heart and seal it. Forever. 
+
+Don’t let me walk this earth ever apart from you. 
+
+I shall not live without you. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -154,4 +172,19 @@ Shandra Stephany Manasha
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
+I worship you 
+Almighty God
+There is none like you. 
 
+I worship you
+O prince of peace
+That’s what I long to do
+
+I’ll give you praise
+For you are my righteousness. 
+
+I worship you
+Almighty God
+There is none like you
+
+Amen 
