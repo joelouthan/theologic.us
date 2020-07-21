@@ -76,7 +76,7 @@ Pam     Amanda   Raylie
 Leah    Rebekah  Alexis   
 Marisha Julie    Rachel
 Larissa Kristen  Star-Lord    
-Jessie  Erin     Elisheba 
+Jessie  Elisheba 
 Stacy   Stefanie Blake
 Carol   Eva      Desiree  
 Sam     Sunnie   Ray
@@ -127,7 +127,7 @@ Shandra Stephany Manasha
 
 **Stefan & Paige**
 
-**Laura & Kenah, Nyala, Baby**
+**Laura & Kenah, Nyala, Peter**
 
 **Liz & Trey, Rosie, Miles**
 
@@ -151,6 +151,7 @@ Shandra Stephany Manasha
 
 **Ian**
 
+**Erin**
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 

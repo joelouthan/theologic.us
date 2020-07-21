@@ -20,6 +20,8 @@ draft: true
 
 ## Foremost
 
+Heal Reva & Ronnie. 
+
 Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
 
 Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
@@ -161,9 +163,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 
 **Alix & Braden** 
 
-**Dena & Dave; Patrick; Heather & hubs; Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson** 
-
-**Reva & Ronnie** 
+**Dena & Dave; Patrick; Heather & hubs; Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson**  
 
 **Sean & Jacqueline** 
 
