@@ -13,9 +13,26 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 50:10-11
+Who among you fears the LORD
+and obeys the voice of his servant?
+Let him who walks in darkness
+and has no light
+trust in the name of the LORD
+and rely on his God.
+Behold, all you who kindle a fire,
+who equip yourselves with burning torches!
+Walk by the light of your fire,
+and by the torches that you have kindled!
+This you have from my hand:
+you shall lie down in torment.
 </b></pre>
 
+My Lord, be thou my vision.  
+
+Lord you are the light when I walked and stumbled in darkness. 
+
+I love and praise you. 
 
 
 ## Foremost
@@ -261,4 +278,6 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 **Frontline Norman**
 
+Lord, I think you have shown me three churches in norman.  Give us the next step and grace to do your will. 
 
+Amen. 

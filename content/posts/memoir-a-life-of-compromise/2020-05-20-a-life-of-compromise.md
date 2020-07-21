@@ -8,7 +8,7 @@ categories:
   - Memoir
 tags:
   - 'A Life of Compromise'
-draft: false
+draft: true
 ---
 
 When you have been hurt and traumatized in such a grotesque and shameful way as a child, you have two ways of getting out:

@@ -13,7 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 51:4-6
+“Give attention to me, my people,
+and give ear to me, my nation;
+for a law will go out from me,
+and I will set my justice for a light to the peoples.
+My righteousness draws near,
+my salvation has gone out,
+and my arms will judge the peoples;
+the coastlands hope for me,
+and for my arm they wait.
+Lift up your eyes to the heavens,
+and look at the earth beneath;
+for the heavens vanish like smoke,
+the earth will wear out like a garment,
+and they who dwell in it will die in like manner;
+but my salvation will be forever,
+and my righteousness will never be dismayed.
 </b></pre>
 
 
@@ -261,4 +277,4 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 **Frontline Norman**
 
-
+Amen 

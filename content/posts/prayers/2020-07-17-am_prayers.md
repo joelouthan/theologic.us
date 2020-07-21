@@ -13,10 +13,30 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 50:1-2
+Israel's Sin and the Servant's Obedience
+Thus says the LORD:
+“Where is your mother's certificate of divorce,
+with which I sent her away?
+Or which of my creditors is it
+to whom I have sold you?
+Behold, for your iniquities you were sold,
+and for your transgressions your mother was sent away.
+Why, when I came, was there no man;
+why, when I called, was there no one to answer?
+Is my hand shortened, that it cannot redeem?
+Or have I no power to deliver?
+Behold, by my rebuke I dry up the sea,
+I make the rivers a desert;
+their fish stink for lack of water
+and die of thirst.
 </b></pre>
 
+My God,
 
+So often I want to sin and then I cannot bear the consequences for my sin. I want someone to take brokenness and the hurt and the pain.  But do you do this so I can sin all the more. 
+
+My God, I was never too far from you to save me. To rescue me. You gave me water in my dry bed. You have redeemed my soul.  
 
 ## Foremost
 
@@ -44,6 +64,8 @@ On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
 
+Thank you for pointing this out and giving me the chance to catch it quicker versus nevrr acknowledging it before. I adore you. 
+
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
 On pastoring: **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
@@ -65,6 +87,12 @@ On his provision: **Lord, anything you give will be good enough for me.**
 - *Student at OU*
 
 Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
+
+Lord,
+
+What is this you are doing? Why would you give me such joy and blessings?
+
+You are my great God. I will honor and praise your worthy name forever. 
 
 ## For those who do not know You
 
@@ -235,6 +263,8 @@ Lord, how do I minister to Jason? How do I share the gospel with words and my de
 
 Save his soul in this moment. Spirit, please do you work.
 
+Lord, please give this job for Marmie. I love her so much. Please give this for her if it would be good.  And you are good and give good things. 
+
 ## City of Norman
 
 **City of Norman**
@@ -261,4 +291,9 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 **Frontline Norman**
 
+Lord everyday. Make a way for this church. 
 
+I love you Lord
+I worship you
+Hope which was lost
+Now stands renewed 

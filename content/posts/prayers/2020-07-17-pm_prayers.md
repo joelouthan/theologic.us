@@ -13,8 +13,41 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 50:4-6
+The Lord GOD has given me
+the tongue of those who are taught,
+that I may know how to sustain with a word
+him who is weary.
+Morning by morning he awakens;
+he awakens my ear
+to hear as those who are taught.
+The Lord GOD has opened my ear,
+and I was not rebellious;
+I turned not backward.
+I gave my back to those who strike,
+and my cheeks to those who pull out the beard;
+I hid not my face
+from disgrace and spitting.
 </b></pre>
+
+Lord,
+
+You alone are good. 
+
+What have you done in my life all of my life? I cannot take credit for this. You’ve done this. Because you’re my father and you made a way and you’ve opened every door and provided for it all 
+
+Lord I cannot begin to think what you would have me do.  But thank you. 
+
+Just please be with me. Don’t let me stray. Not for a moment. Bind my heart to thee.  
+
+Do not let your Spirit depart from me. Ever
+
+I cannot live without out you. 
+
+Whatever happens to me, do not delay your glory.  
+
+But if you must delay, then I will need all of your grace. 
+
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -151,7 +184,8 @@ Shandra Stephany Manasha
 
 **Ian**
 
+**Erin** 
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
-
+Lord what is mine to do. Amen. 

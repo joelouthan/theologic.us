@@ -13,10 +13,27 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 50:7-9
+But the Lord GOD helps me;
+therefore I have not been disgraced;
+therefore I have set my face like a flint,
+and I know that I shall not be put to shame.
+He who vindicates me is near.
+Who will contend with me?
+Let us stand up together.
+Who is my adversary?
+Let him come near to me.
+Behold, the Lord GOD helps me;
+who will declare me guilty?
+Behold, all of them will wear out like a garment;
+the moth will eat them up.
 </b></pre>
 
+Always and forever 
 
+You have avenged me. You are my Lord.  
+
+I still don’t know what i did to deserve this. But you are my Lord and you love me so.  
 
 ## Foremost
 
@@ -261,4 +278,4 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 **Frontline Norman**
 
-
+Amen. 
