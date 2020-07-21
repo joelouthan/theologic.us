@@ -20,6 +20,8 @@ draft: true
 
 ## Foremost
 
+Heal Amber. Lord, please heal her. Moreso, turn her heart towards you in this moment. Save and protect Kara. Protect my babies. Protect Eli & Ivy.Protect their sibs: Griffen, Gabe, Emma, Lucy, Grace, and Leslie. Save their home, Lord.
+
 Heal Reva & Ronnie. 
 
 Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
@@ -245,13 +247,13 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
-## Church
+## Churches
 
 **Stillwater RPC (Pastor Bruce)**
 
 **Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
 
-**All the churches in Norman** 
+**All the churches in Norman**
 
 **Frontline** 
 

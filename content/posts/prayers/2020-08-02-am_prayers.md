@@ -20,6 +20,8 @@ draft: true
 
 ## Foremost
 
+Heal Amber. Lord, please heal her. Moreso, turn her heart towards you in this moment. Save and protect Kara. Protect my babies. Protect Eli & Ivy.Protect their sibs: Griffen, Gabe, Emma, Lucy, Grace, and Leslie. Save their home, Lord.
+
 Heal Reva & Ronnie. 
 
 Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
@@ -251,7 +253,49 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 **Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
 
-**All the churches in Norman** 
+**All the churches in Norman**
+- **LifeSpring Church** Jeff Robinett
+- **Northgate Baptist** 
+- **Calgary Church** - Daniel & Jamie Sweets, Lukas, Karis, Selah, & Zoe
+- **Apostolic Worship Center** (**United Pentecostal**) - K. L. & Denise Borders
+- **Holy Ancension Orthodox Church** - Fr. Jeremy
+- **Victory Family** - Adam & Kristy Starling
+- **Timber Creek Church** - Josh & Abbey Mings, Owen & Ellie; Glenn & wife Quirk, Lexi, Nixon, and Brody; Amy & David Little, Ava & Holland
+- **Fellowship Church** - 
+- **Northeast Baptist Church** - Ed & Carol Sasnett
+- **NorthHaven Church** - Jakob & Alyssa Topper, Hadley
+- **FaithPointe Church** - Pastor Jim  & Ginger Gann
+- **New Life Bible Church** - Jayson & Simi John, Moriah & Gideon
+- **Cross Church of Norman** - Daniel & Jessica Kitchel, Abigail, Evie, Welles
+- **St. Mark the Evangelist Catholic Church** - Fr. Timothy M. Fuller
+- **Paradigm Church** - Ryan Wood
+- **Memorial Presbyterian Church** - Rev. Tracy Evans
+- **Church on Fire** - Pastors David and Tamara McGrew
+- **Summit Church** - Todd Theissen
+- **Westside Church of Christ** 
+- **West Wind UUC** - Minister Andy Jacobs
+- **Truth Church** - Pastor Jimmy  and Sabrina Smith
+- **First Presbyterian Church** - Rev. Michael East
+- **Trinity Presbyterian Church** - Justin & Meredith Westmoreland, Knox, Owen, Grace, and Lily
+- **St. John's Episcopal** - Rev. John Borrego
+- **McFarlin UMC** - Rev. Dr. Rockford Johnson
+- **First Baptist Norman** - Dr. Wade Smith
+- **First Christian Church** - David Spain
+- **Community Missionary Baptist Church** - Richard Gaines
+- **Trinity Lutheran Church** - Pastor David Nehrenz & Vicar Rob Schrader
+- **Norman Seventh Day Adventist Church** - Harvey Gil
+- **Alameda Church of Christ** - Rusty Tugman
+- **Alameda Baptist Church** - Tristan & Gayla Martin, kids
+- **St. Joseph Catholic Churc** - Father Joseph Irwin 
+- **Southern Oklahoma Chinese Baptist Church** - David & Linda Chan
+- **Robinson Street Baptist Church** - Ivan & Tammy Moore
+- **Immanuel Baptist Church** - Ken & Letha Huddleston
+- **Providence Road Church** - Blake Hilgenfeld
+- **Trinity Baptist Church** - Ronnie W. Rogers
+- **Goodrich Memorial United Methodist Church** - Desi & Jason Brumit
+- **Concord Missionary Baptist Church** - R.L. Clark
+- **River Church** - David & Nancy Edwards
+- **Seeker Church** - Russ & Janna Martin
 
 **Frontline** 
 
