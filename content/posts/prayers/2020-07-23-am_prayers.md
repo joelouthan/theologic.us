@@ -22,6 +22,8 @@ draft: true
 
 Heal Amber. Lord, please heal her. Moreso, turn her heart towards you in this moment. Save and protect Kara. Protect my babies. Protect Eli & Ivy.Protect their sibs: Griffen, Gabe, Emma, Lucy, Grace, and Leslie. Save their home, Lord.
 
+Heal Kathleen (Leah's mom)
+
 Heal Reva & Ronnie. 
 
 Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
@@ -261,7 +263,7 @@ But Father, if they do not know you, please turn their hearts towards you.
 - **Holy Ancension Orthodox Church** - Fr. Jeremy
 - **Victory Family** - Adam & Kristy Starling
 - **Timber Creek Church** - Josh & Abbey Mings, Owen & Ellie; Glenn & wife Quirk, Lexi, Nixon, and Brody; Amy & David Little, Ava & Holland
-- **Fellowship Church** - 
+- **Fellowship Church** - Brad Hughes
 - **Northeast Baptist Church** - Ed & Carol Sasnett
 - **NorthHaven Church** - Jakob & Alyssa Topper, Hadley
 - **FaithPointe Church** - Pastor Jim  & Ginger Gann

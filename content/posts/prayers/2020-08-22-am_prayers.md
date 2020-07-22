@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Sunday, 2 August 2020'
+title: 'Morning Prayers for Saturday, 22 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-02T08:00:00-06:00
-url: /am_prayers/2020-08-02-am_prayers/
+publishDate: 2020-08-22T08:00:00-06:00
+url: /am_prayers/2020-08-22-am_prayers/
 categories:
  - Prayers
 tags:
