@@ -65,13 +65,6 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 ## Next steps
 
-- *Elder at Frontline*
-- *Internship at Frontline*
-- *Management at Red Hat*
-- *Student at OU*
-
-Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
-
 ## For those who do not know You
 
 **Yusef and Nichole** 
@@ -207,8 +200,7 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 ## Discipleship Group
 
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
-- new season of school
-- Lauren: teaching job--Lord be her provision
+- Healing for Timothy
 
 **Riley & Emily**
 - Praying for a fat baby
@@ -226,7 +218,6 @@ Lord, please provide for me so I can quit my job and be a minister. I want enoug
 **Andrew & Andie**
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Blessing on their marriage and communication and conflict resolution
-- Andrew's Dad, Rick: need JOB! 
 
 
 ## Family
@@ -306,5 +297,11 @@ But Father, if they do not know you, please turn their hearts towards you.
 **Antioch Norman** 
 
 **Frontline Norman**
+
+Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
+
+My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesus Christ from the dead. Moreso than for me to preach your word but to turn my heart and cleanse my heart and make me just like you. 
+
+Draw me closer. Let the world die to me so I can live to you.
 
 
