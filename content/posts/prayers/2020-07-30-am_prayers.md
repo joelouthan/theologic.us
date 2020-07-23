@@ -20,6 +20,8 @@ draft: true
 
 ## Foremost
 
+Heal Ariel. Heal and protect her and her roommate. Give her strength and grace. Be with her all of her days.
+
 Heal Amber. Lord, please heal her. Moreso, turn her heart towards you in this moment. Save and protect Kara. Protect my babies. Protect Eli & Ivy.Protect their sibs: Griffen, Gabe, Emma, Lucy, Grace, and Leslie. Save their home, Lord.
 
 Heal Kathleen (Leah's mom)
