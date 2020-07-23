@@ -13,9 +13,31 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 51:9-11
+Awake, awake, put on strength,
+O arm of the LORD;
+awake, as in days of old,
+the generations of long ago.
+Was it not you who cut Rahab in pieces,
+who pierced the dragon?
+Was it not you who dried up the sea,
+the waters of the great deep,
+who made the depths of the sea a way
+for the redeemed to pass over?
+And the ransomed of the LORD shall return
+and come to Zion with singing;
+everlasting joy shall be upon their heads;
+they shall obtain gladness and joy,
+and sorrow and sighing shall flee away.
 </b></pre>
 
+My God,
+
+I long for this day. When every word out of my mouth lifts up and exalts you.  When all of my actions are not infected with sin.  When my heart and mind are continuously pure before you. 
+
+But Lord you count me as your son and you promise I would look like your Son. 
+
+I lean o. This promise. Lord keep your promises so I might not sin against you.  You are my rock and my redeemer forever. 
 
 
 ## Foremost
@@ -62,6 +84,7 @@ On glory of God: **“On Christ’s glory I would fix all my thoughts and desire
 
 On his provision: **Lord, anything you give will be good enough for me.**
 
+Lord what is mine to do. What are my next steps. Yes in relation with this church plant. 
 
 ## Next steps
 
@@ -304,4 +327,4 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
-
+I thank you and praise you amen 
