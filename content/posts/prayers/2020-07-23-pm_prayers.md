@@ -13,8 +13,42 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 51:12-16
+“I, I am he who comforts you;
+who are you that you are afraid of man who dies,
+of the son of man who is made like grass,
+and have forgotten the LORD, your Maker,
+who stretched out the heavens
+and laid the foundations of the earth,
+and you fear continually all the day
+because of the wrath of the oppressor,
+when he sets himself to destroy?
+And where is the wrath of the oppressor?
+He who is bowed down shall speedily be released;
+he shall not die and go down to the pit,
+neither shall his bread be lacking.
+I am the LORD your God,
+who stirs up the sea so that its waves roar—
+the LORD of hosts is his name.
+And I have put my words in your mouth
+and covered you in the shadow of my hand,
+establishing the heavens
+and laying the foundations of the earth,
+and saying to Zion, ‘You are my people.’”
 </b></pre>
+
+My Lord,
+
+To the one who made me
+comforts me 
+Saves me 
+Delivers me 
+And calls me
+His people 
+
+I bless you and praise you 
+
+I love you. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -157,3 +191,9 @@ Shandra Stephany Manasha
 
 **Frontline Norman**
 
+Lord what is mine really
+To do 
+
+Please make it clear.  
+
+What is mine to do 
