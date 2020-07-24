@@ -57,30 +57,27 @@ draft: true
 ### Antioch Norman
 
 <pre><b>
-Ashley  Eddy     Sarah M  
-Tatenda Jackie   Mark
-Abby    A.C.     Robin    
-Noah    Abbie    Oscar
-Rin     Carol    Cheryl   
-Laurel  Amy      Kylie
-Kim     Courtney Zach     
-Faith   Tonu     Connie
-Taylor  Isaac    Josh     
-Susan   Hannah.  Caroline
-Lori    Katrina  Jaime    
-Max     Anjil    McKenzie
-Brad    Teala    Daniel   
-Elijah  Steve    Hannah
-Crystal Kaitlin  Lark     
-Pam     Amanda   Raylie
-Leah    Rebekah  Alexis   
-Marisha Julie    Rachel
-Larissa Kristen  Star-Lord    
-Jessie  Elisheba 
-Stacy   Stefanie Blake
-Carol   Eva      Desiree  
-Sam     Sunnie   Ray
-Shandra Stephany Manasha  
+Ashley   Eddy     Sarah M  
+Tatenda  Jackie   Katrina
+Abby     A.C.     Robin    
+Noah     Abbie    Oscar
+Rin      Carol    Cheryl   
+Laurel   Amy      Kylie
+Courtney Tonu     Connie
+Faith    Hannah   Caroline    
+Max      Anjil    McKenzie
+Brad     Teala    Daniel   
+Elijah   Steve    Hannah
+Crystal  Kaitlin  Lark     
+Pam      Amanda   Raylie
+Leah     Rebekah  Alexis   
+Marisha  Julie    Rachel  
+Stacy    Stefanie Blake
+Carol    Eva      Desiree  
+Sam      Sunnie   Ray
+Shandra  Stephany Manasha
+Isaac    Kristen  Elisheba
+Susan    
 
 
 </b></pre>
@@ -152,6 +149,22 @@ Shandra Stephany Manasha
 **Ian**
 
 **Erin**
+
+**Josh**
+
+**Jaime**
+
+**Kim, Lori, Taylor**
+
+**Larissa & Jessie**
+
+**Aimee & James, Mia, Ruby, Elliott, Coraline, Lucy**
+
+**Star-Lord**
+
+**Zach**
+
+**Mark & Mikala**
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 

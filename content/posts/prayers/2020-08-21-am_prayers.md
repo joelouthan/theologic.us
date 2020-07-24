@@ -196,8 +196,14 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 **Landon & Jules, Eli, Sophia & Olivia**
 
-**Moray**
-
+**California**
+- Moray
+- Sarah and Mike Neustadt
+- Layne and Jackie Marshall
+- Evie
+- Kristie 
+- John and Gina
+- Jen and Diddy 
 
 ## Discipleship Group
 
