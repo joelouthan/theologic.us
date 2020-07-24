@@ -13,8 +13,25 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 52:1-2
+The LORD'S Coming Salvation
+Awake, awake,
+put on your strength, O Zion;
+put on your beautiful garments,
+O Jerusalem, the holy city;
+for there shall no more come into you
+the uncircumcised and the unclean.
+Shake yourself from the dust and arise;
+be seated, O Jerusalem;
+loose the bonds from your neck,
+O captive daughter of Zion.
 </b></pre>
+
+My God,
+
+You are the Father that rushes out and greets me. You are the one who justifies me before I can even say a word. You are the Savior who drapes his own robe on me. Your Spirit seals me as yours. You have strapped my feet with your peace. 
+
+You are my Lord and God. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -170,3 +187,4 @@ Susan
 
 **Frontline Norman**
 
+Amen. 
