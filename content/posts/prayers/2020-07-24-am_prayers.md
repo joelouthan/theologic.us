@@ -13,10 +13,49 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 51:17-23
+Wake yourself, wake yourself,
+stand up, O Jerusalem,
+you who have drunk from the hand of the LORD
+the cup of his wrath,
+who have drunk to the dregs
+the bowl, the cup of staggering.
+There is none to guide her
+among all the sons she has borne;
+there is none to take her by the hand
+among all the sons she has brought up.
+These two things have happened to you—
+who will console you?—
+devastation and destruction, famine and sword;
+who will comfort you?
+Your sons have fainted;
+they lie at the head of every street
+like an antelope in a net;
+they are full of the wrath of the LORD,
+the rebuke of your God.
+Therefore hear this, you who are afflicted,
+who are drunk, but not with wine:
+Thus says your Lord, the LORD,
+your God who pleads the cause of his people:
+“Behold, I have taken from your hand the cup of staggering;
+the bowl of my wrath you shall drink no more;
+and I will put it into the hand of your tormentors,
+who have said to you,
+‘Bow down, that we may pass over’;
+and you have made your back like the ground
+and like the street for them to pass over.”
 </b></pre>
 
+My God,
 
+I was a sinner deserving of death.  And then your wrath was destined to pur on me forever. 
+
+But you predestined me. And then you called me to save me. 
+
+Why?
+Because of your great love. 
+
+I love you Lord.  Forever. 
 
 ## Foremost
 
@@ -64,6 +103,9 @@ On glory of God: **“On Christ’s glory I would fix all my thoughts and desire
 
 On his provision: **Lord, anything you give will be good enough for me.**
 
+Lord, change me. Help me conduct my affairs differently.  So I can be present and hear my wife better. Let me put off texts and emails so I can sit with my wife. and be with her. 
+
+I do love her and I enjoy her so much. Thank you for confirming me to the image of your Son. Amen. 
 
 ## Next steps
 
