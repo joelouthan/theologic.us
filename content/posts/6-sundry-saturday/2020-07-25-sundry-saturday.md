@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'Sundry Saturday'
-draft: true
+draft: false
 ---
 
 ## Ecclesiologically Speaking, Utmost Importance
@@ -43,11 +43,3 @@ Come now, Lord Jesus.
 ## Captain Kirk Responses Only
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can’t believe LA is shutting down again. We did everything wrong and everything still went wrong</p>&mdash; Jess Dweck (@TheDweck) <a href="https://twitter.com/TheDweck/status/1283079870021545985?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-------
-
-##
-
-
-------
-
