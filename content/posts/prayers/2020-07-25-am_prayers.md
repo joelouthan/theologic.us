@@ -13,12 +13,21 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 52:3–6 (ESV) For thus says the LORD: “You were sold for nothing, and you shall be redeemed without money.” 4 For thus says the Lord GOD: “My people went down at the first into Egypt to sojourn there, and the Assyrian oppressed them for nothing. 5 Now therefore what have I here,” declares the LORD, “seeing that my people are taken away for nothing? Their rulers wail,” declares the LORD, “and continually all the day my name is despised. 6 Therefore my people shall know my name. Therefore in that day they shall know that it is I who speak; here I am.”
 </b></pre>
 
+My God and Redeeming, 
+
+I was born into slavery. Sold into sin. Held in captive. Bonded to death.
+
+But you have rescued me from the pit of hell. You have redeemed from the death of my own sin. You have looked upon me and took pity on me and cleansed me and covered me with your great love.
+
+You called on me. You proclaimed, "Here I am." It is only then that I saw and knew that you are God alone. For my days I will worship you.
 
 
 ## Foremost
+
+Heal and protect Erin. But Lord, bring her heart securely and firmly in your presence.
 
 Heal Ariel. Heal and protect her and her roommate. Give her strength and grace. Be with her all of her days.
 
@@ -312,4 +321,4 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
-
+Amen.

@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Sunday, 16 August 2020'
+title: 'Morning Prayers for Tuesday, 25 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-16T08:00:00-06:00
-url: /am_prayers/2020-08-16-am_prayers/
+publishDate: 2020-08-25T08:00:00-06:00
+url: /am_prayers/2020-08-25-am_prayers/
 categories:
  - Prayers
 tags:

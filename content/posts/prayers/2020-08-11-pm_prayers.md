@@ -170,3 +170,9 @@ Susan
 
 **Frontline Norman**
 
+**house churches** 
+
+Lord, would you raise up even more leaders for Norman. No matter what direction we take please tap more leaders.  More musicians. More of your Son in each of us so it won’t be dependent on any of us but on you alone.  
+
+Lord, be glorified in our homes and in our city. Today. 
+

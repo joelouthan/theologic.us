@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Sunday, 16 August 2020'
+title: 'Morning Prayers for Tuesday, 21 July 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-16T08:00:00-06:00
-url: /am_prayers/2020-08-16-am_prayers/
+publishDate: 2020-07-21T08:00:00-06:00
+url: /am_prayers/2020-07-21-am_prayers/
 categories:
  - Prayers
 tags:
@@ -13,20 +13,13 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
 </b></pre>
 
 
 
 ## Foremost
 
-Heal and protect Erin. But Lord, bring her heart securely and firmly in your presence.
-
-Heal Ariel. Heal and protect her and her roommate. Give her strength and grace. Be with her all of her days.
-
 Heal Amber. Lord, please heal her. Moreso, turn her heart towards you in this moment. Save and protect Kara. Protect my babies. Protect Eli & Ivy.Protect their sibs: Griffen, Gabe, Emma, Lucy, Grace, and Leslie. Save their home, Lord.
-
-Heal Kathleen (Leah's mom)
 
 Heal Reva & Ronnie. 
 
@@ -68,6 +61,13 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 
 ## Next steps
+
+- *Elder at Frontline*
+- *Internship at Frontline*
+- *Management at Red Hat*
+- *Student at OU*
+
+Lord, please provide for me so I can quit my job and be a minister. I want enough money so my family will be taken care of and I can just preach your word and pastor your people for the rest of my life.  I know that the world sees this as impossible and a pipedream but I know you are my Father in heaven and I know that you always take care of your children and you will always take care of me. I don’t need gobs of riches. I just need enough. You are always my portion and my lot.  Thank you for answering prayers. I love you.  Thank you for this calling.  Thank you for leading me to here. Thank you for loving me and for the grace to sustain and preserve me. Amen. 
 
 ## For those who do not know You
 
@@ -198,19 +198,14 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 **Landon & Jules, Eli, Sophia & Olivia**
 
-**California**
-- Moray
-- Sarah and Mike Neustadt
-- Layne and Jackie Marshall
-- Evie
-- Kristie 
-- John and Gina
-- Jen and Diddy 
+**Moray**
+
 
 ## Discipleship Group
 
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
-- Healing for Timothy
+- new season of school
+- Lauren: teaching job--Lord be her provision
 
 **Riley & Emily**
 - Praying for a fat baby
@@ -228,6 +223,7 @@ On his provision: **Lord, anything you give will be good enough for me.**
 **Andrew & Andie**
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Blessing on their marriage and communication and conflict resolution
+- Andrew's Dad, Rick: need JOB! 
 
 
 ## Family
@@ -250,55 +246,13 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
-## Church
+## Churches
 
 **Stillwater RPC (Pastor Bruce)**
 
 **Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
 
 **All the churches in Norman**
-- **LifeSpring Church** Jeff Robinett
-- **Northgate Baptist** 
-- **Calgary Church** - Daniel & Jamie Sweets, Lukas, Karis, Selah, & Zoe
-- **Apostolic Worship Center** (**United Pentecostal**) - K. L. & Denise Borders
-- **Holy Ancension Orthodox Church** - Fr. Jeremy
-- **Victory Family** - Adam & Kristy Starling
-- **Timber Creek Church** - Josh & Abbey Mings, Owen & Ellie; Glenn & wife Quirk, Lexi, Nixon, and Brody; Amy & David Little, Ava & Holland
-- **Fellowship Church** - Brad Hughes
-- **Northeast Baptist Church** - Ed & Carol Sasnett
-- **NorthHaven Church** - Jakob & Alyssa Topper, Hadley
-- **FaithPointe Church** - Pastor Jim  & Ginger Gann
-- **New Life Bible Church** - Jayson & Simi John, Moriah & Gideon
-- **Cross Church of Norman** - Daniel & Jessica Kitchel, Abigail, Evie, Welles
-- **St. Mark the Evangelist Catholic Church** - Fr. Timothy M. Fuller
-- **Paradigm Church** - Ryan Wood
-- **Memorial Presbyterian Church** - Rev. Tracy Evans
-- **Church on Fire** - Pastors David and Tamara McGrew
-- **Summit Church** - Todd Theissen
-- **Westside Church of Christ** 
-- **West Wind UUC** - Minister Andy Jacobs
-- **Truth Church** - Pastor Jimmy  and Sabrina Smith
-- **First Presbyterian Church** - Rev. Michael East
-- **Trinity Presbyterian Church** - Justin & Meredith Westmoreland, Knox, Owen, Grace, and Lily
-- **St. John's Episcopal** - Rev. John Borrego
-- **McFarlin UMC** - Rev. Dr. Rockford Johnson
-- **First Baptist Norman** - Dr. Wade Smith
-- **First Christian Church** - David Spain
-- **Community Missionary Baptist Church** - Richard Gaines
-- **Trinity Lutheran Church** - Pastor David Nehrenz & Vicar Rob Schrader
-- **Norman Seventh Day Adventist Church** - Harvey Gil
-- **Alameda Church of Christ** - Rusty Tugman
-- **Alameda Baptist Church** - Tristan & Gayla Martin, kids
-- **St. Joseph Catholic Churc** - Father Joseph Irwin 
-- **Southern Oklahoma Chinese Baptist Church** - David & Linda Chan
-- **Robinson Street Baptist Church** - Ivan & Tammy Moore
-- **Immanuel Baptist Church** - Ken & Letha Huddleston
-- **Providence Road Church** - Blake Hilgenfeld
-- **Trinity Baptist Church** - Ronnie W. Rogers
-- **Goodrich Memorial United Methodist Church** - Desi & Jason Brumit
-- **Concord Missionary Baptist Church** - R.L. Clark
-- **River Church** - David & Nancy Edwards
-- **Seeker Church** - Russ & Janna Martin
 
 **Frontline** 
 
@@ -307,11 +261,5 @@ But Father, if they do not know you, please turn their hearts towards you.
 **Antioch Norman** 
 
 **Frontline Norman**
-
-Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
-
-My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesus Christ from the dead. Moreso than for me to preach your word but to turn my heart and cleanse my heart and make me just like you. 
-
-Draw me closer. Let the world die to me so I can live to you.
 
 
