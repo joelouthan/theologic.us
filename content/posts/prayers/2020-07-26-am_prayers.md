@@ -13,10 +13,26 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 52:11-12
+Depart, depart, go out from there;
+touch no unclean thing;
+go out from the midst of her; purify yourselves,
+you who bear the vessels of the LORD.
+For you shall not go out in haste,
+and you shall not go in flight,
+for the LORD will go before you,
+and the God of Israel will be your rear guard.
 </b></pre>
 
+My Lord
 
+You are my righteousness. Cleanse me from sin
+
+You’ve called and i have answered. 
+
+I don’t need to rush before you because you are already there. 
+
+Be glorified today. 
 
 ## Foremost
 
@@ -267,7 +283,7 @@ But Father, if they do not know you, please turn their hearts towards you.
 - **Fellowship Church** - Brad Hughes
 - **Northeast Baptist Church** - Ed & Carol Sasnett
 - **NorthHaven Church** - Jakob & Alyssa Topper, Hadley
-- **FaithPointe Church** - Pastor Jim  & Ginger Gann
+- **FaithPointe Church** - Pastor Jim & Ginger Gann
 - **New Life Bible Church** - Jayson & Simi John, Moriah & Gideon
 - **Cross Church of Norman** - Daniel & Jessica Kitchel, Abigail, Evie, Welles
 - **St. Mark the Evangelist Catholic Church** - Fr. Timothy M. Fuller
@@ -315,3 +331,4 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 Draw me closer. Let the world die to me so I can live to you.
 
 
+Amen
