@@ -13,10 +13,23 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 52:14
+As many were astonished at you—
+his appearance was so marred, beyond human semblance,
+and his form beyond that of the children of mankind—
 </b></pre>
 
+My God
 
+For my sake 
+For my sin
+For my treason
+
+You poured your wrath upon your son
+
+So you could save my life. 
+
+I will glorify your name.  
 
 ## Foremost
 
@@ -314,4 +327,5 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
+Amen
 

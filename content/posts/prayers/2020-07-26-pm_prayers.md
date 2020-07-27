@@ -13,8 +13,20 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 52:13
+He Was Pierced for Our Transgressions
+Behold, my servant shall act wisely;
+he shall be high and lifted up,
+and shall be exalted.
 </b></pre>
+
+Who is this servant?
+
+When he is high and lifted up? 
+
+King Jesus is his name. 
+
+Be exalted higher and higher. 
 
 ## Prayers for those who are trapped in NAR churches
 
