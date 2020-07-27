@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Monday, 3 August 2020'
+title: 'Morning Prayers for Thursday, 27 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-03T08:00:00-06:00
-url: /am_prayers/2020-08-03-am_prayers/
+publishDate: 2020-08-27T08:00:00-06:00
+url: /am_prayers/2020-08-27-am_prayers/
 categories:
  - Prayers
 tags:

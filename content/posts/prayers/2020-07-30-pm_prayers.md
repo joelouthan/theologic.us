@@ -168,7 +168,69 @@ Susan
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
+## Church
+
+**Stillwater RPC (Pastor Bruce)**
+
+**Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
+
+**All the churches in Norman**
+- **LifeSpring Church** Jeff Robinett
+- **Northgate Baptist** 
+- **Calgary Church** - Daniel & Jamie Sweets, Lukas, Karis, Selah, & Zoe
+- **Apostolic Worship Center** (**United Pentecostal**) - K. L. & Denise Borders
+- **Holy Ancension Orthodox Church** - Fr. Jeremy
+- **Victory Family** - Adam & Kristy Starling
+- **Timber Creek Church** - Josh & Abbey Mings, Owen & Ellie; Glenn & wife Quirk, Lexi, Nixon, and Brody; Amy & David Little, Ava & Holland
+- **Fellowship Church** - Brad Hughes
+- **Northeast Baptist Church** - Ed & Carol Sasnett
+- **NorthHaven Church** - Jakob & Alyssa Topper, Hadley
+- **FaithPointe Church** - Pastor Jim  & Ginger Gann
+- **New Life Bible Church** - Jayson & Simi John, Moriah & Gideon
+- **Cross Church of Norman** - Daniel & Jessica Kitchel, Abigail, Evie, Welles
+- **St. Mark the Evangelist Catholic Church** - Fr. Timothy M. Fuller
+- **Paradigm Church** - Ryan Wood
+- **Memorial Presbyterian Church** - Rev. Tracy Evans
+- **Church on Fire** - Pastors David and Tamara McGrew
+- **Summit Church** - Todd Theissen
+- **Westside Church of Christ** 
+- **West Wind UUC** - Minister Andy Jacobs
+- **Truth Church** - Pastor Jimmy  and Sabrina Smith
+- **First Presbyterian Church** - Rev. Michael East
+- **Trinity Presbyterian Church** - Justin & Meredith Westmoreland, Knox, Owen, Grace, and Lily
+- **St. John's Episcopal** - Rev. John Borrego
+- **McFarlin UMC** - Rev. Dr. Rockford Johnson
+- **First Baptist Norman** - Dr. Wade Smith
+- **First Christian Church** - David Spain
+- **Community Missionary Baptist Church** - Richard Gaines
+- **Trinity Lutheran Church** - Pastor David Nehrenz & Vicar Rob Schrader
+- **Norman Seventh Day Adventist Church** - Harvey Gil
+- **Alameda Church of Christ** - Rusty Tugman
+- **Alameda Baptist Church** - Tristan & Gayla Martin, kids
+- **St. Joseph Catholic Churc** - Father Joseph Irwin 
+- **Southern Oklahoma Chinese Baptist Church** - David & Linda Chan
+- **Robinson Street Baptist Church** - Ivan & Tammy Moore
+- **Immanuel Baptist Church** - Ken & Letha Huddleston
+- **Providence Road Church** - Blake Hilgenfeld
+- **Trinity Baptist Church** - Ronnie W. Rogers
+- **Goodrich Memorial United Methodist Church** - Desi & Jason Brumit
+- **Concord Missionary Baptist Church** - R.L. Clark
+- **River Church** - David & Nancy Edwards
+- **Seeker Church** - Russ & Janna Martin
+
+**Frontline** 
+
+**Frontline South** 
+
+**Antioch Norman** 
+
 **Frontline Norman**
+
+Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
+
+My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesus Christ from the dead. Moreso than for me to preach your word but to turn my heart and cleanse my heart and make me just like you. 
+
+Draw me closer. Let the world die to me so I can live to you.
 
 **house churches** 
 
