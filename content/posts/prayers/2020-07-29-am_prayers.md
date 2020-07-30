@@ -13,10 +13,22 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 52:15
+so shall he sprinkle many nations.
+Kings shall shut their mouths because of him,
+for that which has not been told them they see,
+and that which they have not heard they understand.
 </b></pre>
 
+My God,
 
+You are King of kings 
+Crowned with glory
+Sit on the throne of our praises
+You are exalted far above all of our gods
+
+I will exalt thee 
+O Lord. 
 
 ## Foremost
 

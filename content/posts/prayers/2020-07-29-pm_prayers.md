@@ -13,8 +13,26 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
+Isaiah 53:1
 
+Who has believed what we have heard?
+And to whom has the arm of the LORD been revealed?
 </b></pre>
+
+Lord I believe!
+
+I see your strong arm! It has never been too short. 
+
+I see you moving! I see the power of the Spirit!
+
+Can you save a false teacher? A wolf? A snake? An abuser?
+
+You saved me. Lustful, prideful and wicked to the heart.  Contemptible in every way. 
+
+But you rescued me, gathered me from the pits of hell, cleansed me from sin, clothed me with your righteousness, seal upon my heart, and peace on my feet. 
+
+I adore you King Jesus. 
+
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -238,3 +256,4 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 
 Lord, be glorified in our homes and in our city. Today. 
 
+Amen. 
