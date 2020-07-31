@@ -13,10 +13,25 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 53:4 (ESV) Surely he has borne our griefs
+and carried our sorrows;
+yet we esteemed him stricken,
+smitten by God, and afflicted.
 </b></pre>
 
+My God,
 
+You have been my God since all time. You were here with me since I was born.
+
+Your Son bled and died for me. Yet, I rebelled against you. Treasonous against you holy name.
+
+Yet, you have rescued me and set me firm upon your Rock.
+
+You have loved me and cared for me. You have redeemed me. You have justified me. You have glorified me.
+
+Because of your mighty Son. All because of what your Son, my King, my Brother, my Lord, my friend has done for me.
+
+I will give thanks.
 
 ## Foremost
 
@@ -211,23 +226,23 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
 - Healing for Timothy
+- Always provisions for that family
+- Wisdom for school - what does that look like?
+- Increase Christ in them
 
 **Riley & Emily**
 - Praying for a fat baby
-- Lord, I pray for the relationship between Riley and his folks. Lord, step into that relationship and nurture it. Redeem them for your glory.
+- Riley's brother, Logan - Save him
+- Settle his heart; keep him present; increase Christ in them
 
 **Scott & Melody, Emily, Adelyn, Caleb**
-- Wayne & Nicole: hard conversation; praying for Spirit-led conversation
-- Anna & Jordan: bless their marriage. I pray that they make you the center of their union. Bless them and keep them.
-- Bless Scott in his work with his qualifications and his relationships with his old squadron
-- Scott’s parents: heal his mom from anxiety and fear and turn her heart towards you
-- Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you
-- Melody's granddad Aleto - broken ribs, and dementia
 - Mohammad the neighborhood kid
+- Wayne
+- Eyes upon Jesus; increase Christ in them
 
 **Andrew & Andie**
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
-- Blessing on their marriage and communication and conflict resolution
+- Increase Christ in them!
 
 
 ## Family
