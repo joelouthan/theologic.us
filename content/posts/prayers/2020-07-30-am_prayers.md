@@ -13,10 +13,30 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
+Isaiah 53:2
 
+He grew up before him like a young plant
+and like a root out of dry ground.
+He didn’t have an impressive form
+or majesty that we should look at him,
+no appearance that we should desire him.
 </b></pre>
 
+My Lord,
 
+You were forever in glory. 
+
+You set aside your glory. 
+
+To come and rescue us. 
+
+Not as king. 
+
+But as the perfect Lamb
+
+Humble in every way
+
+Obedient unto death. 
 
 ## Foremost
 

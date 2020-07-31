@@ -13,8 +13,25 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
+Isaiah 53:3
 
+He was despised and rejected by men,
+a man of suffering who knew what sickness was.
+He was like someone people turned away from;
+he was despised, and we didn’t value him.
+
+Isaiah 53:3
+He was despised and rejected by men,
+a man of sorrows, and acquainted with grief;
+and as one from whom men hide their faces
+he was despised, and we esteemed him not.
 </b></pre>
+
+My sin had placed imyou there
+
+But in your great love you saved me. 
+
+Be glorified today. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -238,3 +255,4 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 
 Lord, be glorified in our homes and in our city. Today. 
 
+Amen
