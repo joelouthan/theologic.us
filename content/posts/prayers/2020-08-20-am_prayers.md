@@ -20,6 +20,22 @@ draft: true
 
 ## Foremost
 
+Lord, 
+
+I give thanks to you, Almighty God. There is none like you. 
+
+I worship you, O Prince of Peace, that is what I long to do.
+
+I'll give you praise for you alone are my righteousness.
+
+I worship you, Almighty God. There is none like you.
+
+You have answered my prayers time and time and time again.
+
+I called on you. And you answered. And you came to their rescue. 
+
+You are my wonderful God in heaven.
+
 Heal Ron & Karen
 
 Heal Kathleen (Leah's mom)
@@ -66,6 +82,32 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 
 ## Next steps
+
+My God,
+
+What have you done for me?
+
+I will thank you and praise you!
+
+Intern at the church you have sent me to and the one I love.
+
+A heart for people of Norman. Lord, GIVE ME MORE NAMES! So I can lift them up to you.
+
+Adjunct at Moore Norman Tech. This was completely and literally uncalled for.
+
+Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years.
+
+You know what you have provided. I cannot connect all the dots but I know you have always been my provision.
+
+What else? I don't even know. But you are my God and Lord.
+
+But Lord, all of this is good. But how do I point others towards you? Give me gifts so you can turn other hearts towards you.
+
+All of this means nothing if it is not for your glory.
+
+Lord, I pray that you have many many people here in this city. Call on me to preach and minister your Word to them.
+
+Amen.
 
 ## For those who do not know You
 
