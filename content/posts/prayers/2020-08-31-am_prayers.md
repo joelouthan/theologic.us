@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Saturday, 1 August 2020'
+title: 'Morning Prayers for Monday, 31 August 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-01T08:00:00-06:00
-url: /am_prayers/2020-08-01-am_prayers/
+publishDate: 2020-08-31T08:00:00-06:00
+url: /am_prayers/2020-08-31-am_prayers/
 categories:
  - Prayers
 tags:

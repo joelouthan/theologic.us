@@ -20,23 +20,13 @@ draft: true
 
 ## Foremost
 
-Heal and protect Erin. But Lord, bring her heart securely and firmly in your presence.
-
-Heal Ariel. Heal and protect her and her roommate. Give her strength and grace. Be with her all of her days.
-
-Heal Amber. Lord, please heal her. Moreso, turn her heart towards you in this moment. Save and protect Kara. Protect my babies. Protect Eli & Ivy.Protect their sibs: Griffen, Gabe, Emma, Lucy, Grace, and Leslie. Save their home, Lord.
+Heal Ron & Karen
 
 Heal Kathleen (Leah's mom)
-
-Heal Reva & Ronnie. 
 
 Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
 
 Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
-
-Heal Ron & Karen
-
-Heal Landon. Protect Jules, Eli, Sophia, and Olivia.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
@@ -47,6 +37,14 @@ I thank you and praise you for healing Natasha's body. But God, please heal her 
 On marriage: **Sarah, my love** 
 
 On true friendship: **For my Jonathan** 
+
+Lord God Almighty,
+
+Who was, and is, and is to come,
+
+Please bring Christ-exalting, cross-prophesying, blood covered, Spirit-filled, God glorifying, deep friendships to my sweetest Sarah. Until then, equip me to be God-worthy friend. Show me how I can lift her up and point her to your Son.
+
+In our lives and in our friendship, relationship, and marriage, Lord, be glorified today.
 
 On sanctification: **Lord, help me to gentle, patient, and tender like you** 
 
