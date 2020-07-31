@@ -1,5 +1,5 @@
 ---
-title: 'Sundry Saturdays: Online Ne'er-do-wells'
+title: "Sundry Saturdays: Online Ne'er-do-wells"
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-01
