@@ -13,8 +13,30 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 53:6
+All we like sheep have gone astray;
+we have turned—every one—to his own way;
+and the LORD has laid on him
+the iniquity of us all.
 </b></pre>
+
+My God,
+
+You saved me. 
+
+But you drew me back. 
+
+You came for me. 
+
+And changed my heart. 
+
+Now I see you and hear from you because you are my God 
+
+I will worship you 
+
+My Lord, shall I wait for you to hear from you like the way prophets heard from you in the past?
+
+I will wait on you. 
 
 
 
@@ -290,3 +312,4 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
+Amen

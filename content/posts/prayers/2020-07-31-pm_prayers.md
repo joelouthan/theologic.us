@@ -13,8 +13,41 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 53:5
+But he was pierced for our transgressions;
+he was crushed for our iniquities;
+upon him was the chastisement that brought us peace,
+and with his wounds we are healed.
 </b></pre>
+
+My Lord,
+
+All of the effects of sin
+Sins I have committed
+Sins in when I have failed to do the right thing
+Sins of others upon me 
+Brokenness of this world 
+Evil in this land
+
+All of it
+
+Falls on you. 
+
+You have made things right with you. You are making things new. You have kept all things together.  
+
+And maybe the world is pulling away from you. 
+
+But you have saved your people from their sins. 
+
+Your wrath targeted body
+Your tortured soul
+Your literally broken heart
+Your blood drained out 
+Your sin filled moment 
+
+So you could make me righteous so you can save me so I could be with you forever so I could be fully alive so I could truly know you so I can be in your presence and I can worship you. 
+
+You are my God. 
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -32,7 +65,7 @@ draft: true
 
 **Lenore** 
 
-**Jeremiah Johnson**
+**Jeremiah Duckett**
 
 **Erica & Chris, Natalie, Ethan, Suzanna, Emerie**
 
@@ -238,3 +271,4 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 
 Lord, be glorified in our homes and in our city. Today. 
 
+Amen
