@@ -5,14 +5,14 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
-### August 2, 2020 Shutting down Fridays and Saturdays
+# August 2, 2020 Shutting down Fridays and Saturdays
 I am shutting down my social media for the next two months to pray.
 
 Ergo, not a lot of content to repost if I am not on social media.
 
 Praying for the church in next few months:
 
-#### Backbone of steel for the church
+## Backbone of steel for the church
 
    **John 10:1-21 (ESV) “Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. But he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.” This figure of speech Jesus used with them, but they did not understand what he was saying to them.**
    
@@ -20,14 +20,16 @@ Praying for the church in next few months:
    
    **There was again a division among the Jews because of these words. Many of them said, “He has a demon, and is insane; why listen to him?” Others said, “These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?”**
 
-#### Corruption to be exposed and promptly removed from the church
+## Corruption to be exposed and promptly removed from the church
 
    **Matthew 3:12 (ESV) His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.” **
 
-#### More laborers--more under-shephreds--to be brought into the church
+## More laborers--more under-shephreds--to be brought into the church
 
    **Matthew 9:35–38 (ESV) And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction. When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd. Then he said to his disciples, “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”**
    
+# Concerning under-shepherds and false shepherds
+
 This falls under Jeremiah 23. This passage gripped my heart from 13 years ago when I got saved. I began reading the Bible for the first time as a believer and for whatever reason (perhaps the Spirit of God), I did not start with Genesis or Matthew but rather Jeremiah.
 
 The 23rd chapter has been sitting on my heart since 2007. I don't know how God was going to do this but I know he will. I believe Jeremiah 23 and John 21 go hand-in-hand.
