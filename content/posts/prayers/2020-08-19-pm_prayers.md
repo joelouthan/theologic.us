@@ -16,6 +16,22 @@ draft: true
 
 </b></pre>
 
+## Those who have left church in Norman
+
+Andrew & Kate McCracken
+Megan & JD Reeves
+Larissa Mainers
+Kim Burns
+Taylor Smith
+Lori Stanton
+John Baldwin
+Faith and Chris Allen
+Misti & Cole Brackin
+Seth & Lauren Hartman
+Craig Conaway
+Dustin & Shyla Stokes
+Roy & Amy Griffin
+
 ## Prayers for the church as a whole
 
 1\. **Backbone of steel**
@@ -234,13 +250,48 @@ Susan
 - **River Church** - David & Nancy Edwards
 - **Seeker Church** - Russ & Janna Martin
 
-**Frontline** 
+## Frontline
 
-**Frontline South** 
+## Frontline South
 
-**Antioch Norman** 
+Jhigh girls
+* Becca Finocchiaro - identity in Jesus apart from siblings, confidence in who Jesus made her.
+* Catherine Adams - just lost her step mom in a car wreck, has a lot of brokeness. salvation
+* Tatum Coleman - Identity in Jesus and overall growth in Jesus. 
+* Claire Laib - salvation
 
-**Frontline Norman**
+Jhigh guys
+* Ephraim Fox - salvation 
+* Zachary Ebaucher - salvation 
+* Noah Morgan - salvation
+* Isaac Post - salvation 
+* Coleman Evans - salvation 
+* Seth Freeman - attends infrequently, salvation and understanding of who God is to become real.
+
+9th grade guys 
+* Liam Evans - for God to show himself to be real and tangible. 
+* Bryson White - salvation. 
+* JD Morgan - salvation 
+* Julian Ebaucher - salvation 
+
+11th and 12th Guys
+* Timothy Finocchiaro - depression and friendships, feels very lonely and aimless.
+* Hunter Loughlin - sexual addiction with pornography and struggles to know what the future holds, God to give him a bigger vision of his life and grow him in the Gospel.
+* Charlie Longenbough - For Jesus to seem real and attractive to follow in the sake of the worlds offerings. Has an idea of Jesus with no real desire to follow him. 
+
+HS Girls
+* Breeli Stanberry - Depth in the Gospel, is chameleon like and changes depending on who she is around.
+* Brooklyn Stanberry - emotional health, struggles with friendships a lot, healing for a past friendship and relationship that fell thru
+* Calea Moser - split between two parents, attends once a month
+* Mallory Feighner - struggles deeply with what others think, gives her panic attacks, identity in Jesus and growth in emotional health and friendships with other girls
+* Emily Finocchiaro - struggles with her loving and respecting mom and brother. really needs help forgiving ways her mom has fallen short and self awareness to see her own sin. praying also for her leadership capabilities to be released through maturing in Jesus 
+* Sara Freeman - that God would show her life is more than sports. very talented athlete that has a heart for God but parents that prioritize sports. depth in the gospel. 
+* Ashlyn Evans - for God to heal wounds and heartache from past friendships, give vision and direction for post HS in the next year. 
+* Zoe Johnson - praying for her to show up more often, is often cliquey and struggles to allow herself to be known, praying God would convict her and give her a spiritual family if she came more.
+* Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
+* Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating. 
+
+## Frontline Norman**
 
 Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
 
