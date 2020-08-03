@@ -22,7 +22,7 @@ Praying for the church in next few months:
 
 ## Corruption to be exposed and promptly removed from the church
 
-   **Matthew 3:12 (ESV) His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.” **
+   **Matthew 3:12 (ESV) His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.”**
 
 ## More laborers--more under-shephreds--to be brought into the church
 
