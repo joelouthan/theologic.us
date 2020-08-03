@@ -13,10 +13,24 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 53:8
+By oppression and judgment he was taken away;
+and as for his generation, who considered
+that he was cut off out of the land of the living,
+stricken for the transgression of my people?
 </b></pre>
 
+Lord,
 
+You were exchanged for the wicked. 
+
+Because you were exchanged for my wickedness. 
+
+Because the wrath of God was satisfied 
+
+Your righteousness was given to me. 
+
+Be glorified today. 
 
 ## Foremost
 
@@ -290,3 +304,4 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
+Amen

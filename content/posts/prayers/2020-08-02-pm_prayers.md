@@ -13,8 +13,22 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 53:9
+And they made his grave with the wicked
+and with a rich man in his death,
+although he had done no violence,
+and there was no deceit in his mouth.
 </b></pre>
+
+My God,
+
+You are more than innocent. You are holy, righteous, and truth. 
+
+You are merciful, gracious and full of love. 
+
+Be kind towards me. 
+
+Protect me from all temptations. Do not let your Spirit depart from me. 
 
 ## Prayers for the church as a whole
 
