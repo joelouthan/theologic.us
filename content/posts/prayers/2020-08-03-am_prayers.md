@@ -13,10 +13,28 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 53:10 (ESV) Yet it was the will of the Lord to crush him;
+he has put him to grief;
+when his soul makes an offering for guilt,
+he shall see his offspring; he shall prolong his days;
+the will of the Lord shall prosper in his hand.
 </b></pre>
 
+My God,
 
+Deliver me from the attacks, opposition and persecution from the enemy. Not by my will but by your will be done.
+
+And if you have me face these attacks, then let my life glorify you and your grace and mercies for me.
+
+And if you protect me, then I shall still glorify you with my life.
+
+Make my spine like steel. Make my feet immovable. Quicken my body for battle.
+
+I am yours and you are mine.
+
+Forever.
+
+Be my vision.
 
 ## Foremost
 
@@ -35,6 +53,8 @@ You have answered my prayers time and time and time again.
 I called on you. And you answered. And you came to their rescue. 
 
 You are my wonderful God in heaven.
+
+Heal Kim Feighner - Lord, you are her healer and strength. But God, she trembles in fear with sleep. I pray that you give her you unmatched and quite frankly, unknown and unexperienced peace that we cannot know in the natural but can only come by you--for you are holy and righteous and infinitely far from sin. You alone are good. Be her Comfort. Give her the fullness of your Spirit. Lord, that she may worship you all of her days.
 
 Heal Ron & Karen
 
@@ -80,6 +100,21 @@ On glory of God: **“On Christ’s glory I would fix all my thoughts and desire
 
 On his provision: **Lord, anything you give will be good enough for me.**
 
+MY GOD IN HEAVEN!
+
+WILL YOU PROTECT YOUR CHILDREN! WILL YOU NOT LET THEM BURN IN YOUR UNQUENCHABLE FIRE!
+
+But your wrath does not consume your children. You meet Moses in the desert and you did not consume him.
+
+Because you already poured your wrath upon your precious Son and you have none left over for his brothers and sisters.
+
+Because Mary bore a son and we call his name Jesus because he has already saved his people from their sins.
+
+His work is done and complete.
+
+And now we belong to you forever.
+
+We fear nothing but because we fear you. And you only respond in beauty and kindness and gentleness and love.
 
 ## Next steps
 
@@ -188,6 +223,13 @@ Amen.
 **Jonathan & Jenn Williams** 
 
 **Evan & Kaylee, Everett, Baby**
+
+My God and Lord,
+
+save them today
+save them today
+
+Save them because they will not be saved by no other name.
 
 
 ## Friends
