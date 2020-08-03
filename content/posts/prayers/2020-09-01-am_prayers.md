@@ -40,6 +40,8 @@ My Lord,
 
 I pray for that you would heal:
 
+Sam Im - that Christ would be magnified in his heart and soul and home and family and work and life!
+
 Heal Kim Feighner - Lord, you are her healer and strength. But God, she trembles in fear with sleep. I pray that you give her you unmatched and quite frankly, unknown and unexperienced peace that we cannot know in the natural but can only come by you--for you are holy and righteous and infinitely far from sin. You alone are good. Be her Comfort. Give her the fullness of your Spirit. Lord, that she may worship you all of her days.
 
 Heal Ron & Karen
