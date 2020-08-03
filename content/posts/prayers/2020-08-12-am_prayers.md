@@ -36,6 +36,12 @@ I called on you. And you answered. And you came to their rescue.
 
 You are my wonderful God in heaven.
 
+My Lord,
+
+I pray for that you would heal:
+
+Heal Kim Feighner - Lord, you are her healer and strength. But God, she trembles in fear with sleep. I pray that you give her you unmatched and quite frankly, unknown and unexperienced peace that we cannot know in the natural but can only come by you--for you are holy and righteous and infinitely far from sin. You alone are good. Be her Comfort. Give her the fullness of your Spirit. Lord, that she may worship you all of her days.
+
 Heal Ron & Karen
 
 Heal Kathleen (Leah's mom)

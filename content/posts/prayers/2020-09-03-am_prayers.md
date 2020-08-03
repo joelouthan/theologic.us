@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Saturday, 8 August 2020'
+title: 'Morning Prayers for Thursday, 3 September 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-08T08:00:00-06:00
-url: /am_prayers/2020-08-08-am_prayers/
+publishDate: 2020-09-03T08:00:00-06:00
+url: /am_prayers/2020-09-03-am_prayers/
 categories:
  - Prayers
 tags:
