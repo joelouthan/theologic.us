@@ -19,12 +19,37 @@ make many to be accounted righteous,
 and he shall bear their iniquities.
 </b></pre>
 
+My God 
+
+Jesus saw his work and said it was finished. 
+
+He saw all those whom he predestined, he now glorified.  Because He was perfectly and joyfully obedient—till the cross.  
+
+It was in that precise moment that he took my sin when he had no knowledge of sin so that I would become the righteousness of God.
+
+I love you Lord
+And I lift my voice
+To worship you
+O my soul
+Rejoice!
+Take joy my King
+In what you will
+May it be a sweet sweet sound
+In your ear
+
+I love you Lord
+And with all that is within me
+I will bless your holy name. 
+
+Amen. 
+
 ## Prayers for the church as a whole
 
 1\. **Backbone of steel**
 
    John 10:1-21 (ESV) “Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. But he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.” This figure of speech Jesus used with them, but they did not understand what he was saying to them.
    So Jesus again said to them, “Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers, but the sheep did not listen to them. I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. He flees because he is a hired hand and cares nothing for the sheep. I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd. For this reason the Father loves me, because I lay down my life that I may take it up again. No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father.”
+   
    There was again a division among the Jews because of these words. Many of them said, “He has a demon, and is insane; why listen to him?” Others said, “These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?”
 
 2\. **Chaff to be separated**
@@ -78,7 +103,7 @@ and he shall bear their iniquities.
 <pre><b>
 Ashley   Eddy     Sarah M  
 Tatenda  Jackie   Katrina
-Abby     A.C.     Robin    
+Abby     A.C.
 Noah     Abbie    Oscar
 Rin      Carol    Cheryl   
 Laurel   Amy      Kylie
@@ -182,6 +207,8 @@ Susan
 **Zach**
 
 **Mark & Mikala**
+
+**Robin & Bobby**
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
@@ -334,3 +361,4 @@ Then he left the crowds and went into the house. And his disciples came to him, 
 
 And when Jesus had finished these parables, he went away from there, and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works? Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? And are not all his sisters with us? Where then did this man get all these things?” And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” And he did not do many mighty works there, because of their unbelief.
 
+Amen
