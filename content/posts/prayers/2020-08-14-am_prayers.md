@@ -212,7 +212,10 @@ Amen.
 
 **Alix & Braden** 
 
-**Dena & Dave; Patrick; Heather & hubs; Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson**  
+**Dena & Dave**
+- Patrick
+- Heather & hubs
+- Ashlyn, Kadence, Liam, Coleman, Brayden, Gray, Madalyn, Hudson
 
 **Sean & Jacqueline** 
 
@@ -257,26 +260,49 @@ Amen.
 
 ## Discipleship Group
 
+Lord,
+
+There is war outside no man is ever safe from. There is an full assault on your sons and daughters. Satan and his demons and the world is waging against us and it is all out.
+
+God, you shall protect us because you are our shield.
+
+But Lord, just like the mighty men of David, we are here to fight our sin and choke it with our bare hands until it dies.
+
+We need your salvation. You have to cover us with your righteousness. Give us the call the strap our feet with the gospel of your peace. We need the gift of faith. We need your word.
+
+Magnify and glorify Christ in us. 
+
+Shatter the gates of hell.
+
+I love you so much.
+
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
 - Healing for Timothy
-
-**Riley & Emily**
-- Praying for a fat baby
-- Lord, I pray for the relationship between Riley and his folks. Lord, step into that relationship and nurture it. Redeem them for your glory.
+- Praise! Lauren to Epic
+- Going back to school
+- Norman is going virtual
+- Caden & Grasha
 
 **Scott & Melody, Emily, Adelyn, Caleb**
+- Returning back to the office
+- Melody's granddad Aleto - dehydrated; recovering from broken ribs
+- Mohammad the neighborhood kid
 - Wayne & Nicole: hard conversation; praying for Spirit-led conversation
 - Anna & Jordan: bless their marriage. I pray that they make you the center of their union. Bless them and keep them.
-- Bless Scott in his work with his qualifications and his relationships with his old squadron
 - Scott’s parents: heal his mom from anxiety and fear and turn her heart towards you
 - Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you
-- Melody's granddad Aleto - broken ribs, and dementia
-- Mohammad the neighborhood kid
 
 **Andrew & Andie**
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Blessing on their marriage and communication and conflict resolution
+- Andie: anxiety
+- Covid risks vs. Protection from God
 
+**Riley & Emily**
+- Due date: Sept 26!
+- Praying for a fat baby
+- Logan - struggles with depression; self-love & love for God; loves what we do but not what we say
+- gospel of Christ to the parents and brother and in the relationship
 
 ## Family
 
@@ -289,6 +315,10 @@ Lord, how do I minister to Jason? How do I share the gospel with words and my de
 Save his soul in this moment. Spirit, please do you work.
 
 ## City of Norman
+
+**Kids back to virtual school with working parent(s)**
+
+Lord, be the solution. What can we do?
 
 **City of Norman**
 - Mayor Breea Clark
