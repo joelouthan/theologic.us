@@ -13,9 +13,26 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 53:12
+Therefore I will divide him a portion with the many,
+and he shall divide the spoil with the strong,
+because he poured out his soul to death
+and was numbered with the transgressors;
+yet he bore the sin of many,
+and makes intercession for the transgressors.
 </b></pre>
 
+Thou o Lord art high
+Above all the earth
+Thou art exalted 
+Far above 
+All other gods
+
+And I will exalt thee
+I will exalt thee
+I will exalt thee 
+
+O Lord. 
 
 
 ## Foremost
@@ -297,4 +314,6 @@ Save his soul in this moment. Spirit, please do you work.
 I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
+
+Amen
 
