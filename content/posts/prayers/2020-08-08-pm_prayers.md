@@ -293,9 +293,11 @@ HS Girls
 * Ashlyn Evans - for God to heal wounds and heartache from past friendships, give vision and direction for post HS in the next year. 
 * Zoe Johnson - praying for her to show up more often, is often cliquey and struggles to allow herself to be known, praying God would convict her and give her a spiritual family if she came more.
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
-* Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating. 
+* Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
 ## Frontline Norman**
+
+**Jessy**
 
 Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
 
