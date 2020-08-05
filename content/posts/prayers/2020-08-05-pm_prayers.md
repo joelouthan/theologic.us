@@ -12,9 +12,22 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-<pre><b>
+      Isaiah 54:9-10 (ESV) This is like the days of Noah to me:
+      as I swore that the waters of Noah
+      should no more go over the earth,
+      so I have sworn that I will not be angry with you,
+      and will not rebuke you.
+      For the mountains may depart
+      and the hills be removed,
+      but my steadfast love shall not depart from you,
+      and my covenant of peace shall not be removed,”
+      says the Lord, who has compassion on you.
 
-</b></pre>
+Your steadfast love never ceases
+your mercy never ends
+they are new every morning
+great is your faithfulness, O Lord
+great is your faithfulness
 
 ## Those who have left church in Norman
 
@@ -351,3 +364,4 @@ Then he left the crowds and went into the house. And his disciples came to him, 
 
 And when Jesus had finished these parables, he went away from there, and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works? Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? And are not all his sisters with us? Where then did this man get all these things?” And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” And he did not do many mighty works there, because of their unbelief.
 
+Amen
