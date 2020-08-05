@@ -297,7 +297,52 @@ HS Girls
 
 ## Frontline Norman**
 
-**Jessy**
+Andrew Aston
+Andie Aston
+Sarah Blake - niece Sophia recovering from spine surgery; Emily & Brian
+Daniel Bond
+Jamie Bond
+Jessy Brock 
+Kimberly Burns - Surgery! Job interview! Another job outside Oklahoma!
+Jeff Cooke
+Annika Edgington - Getting settled in Delaware; Training in Texas
+John
+Lauren Finocchiaro
+Charles Finocchirao
+Aaron Gayle
+Natasha Gayle
+Matt Haugland
+Sam Haugland
+Ethan Inge
+Gary Matthews
+Lisa Matthews
+Brittany Mayes
+Jordan Mayfield - Dad, Randy, health.
+Ashton Poyndexter - Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
+Caleb Reichert
+Riley Roberson
+Emily Roberson -  Baby due in Sept.
+Trey Scott 
+Kathleen Scott 
+Taylor Smith - Another job!
+Phong Ta 
+Micah Thomason
+Melissa Thomason
+Destiny Warrior
+
+Sarah Blake - 
+
+Jessy
+
+Taylor - ANOTHER JOB!
+
+Kim - SURGERY?! Interview for job today that pays more! Looking for jobs outside of Oklahoma.
+
+Annika - moved to Delaware; trying to find a new church; training in Texas
+
+Daniel & Jamie Bond, Atlas, August
+
+
 
 Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
 
