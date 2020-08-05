@@ -12,11 +12,41 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
+      Isaiah 54:4-8 (ESV) “Fear not, for you will not be ashamed;
+      be not confounded, for you will not be disgraced;
+      for you will forget the shame of your youth,
+      and the reproach of your widowhood you will remember no more.
+      For your Maker is your husband,
+      the Lord of hosts is his name;
+      and the Holy One of Israel is your Redeemer,
+      the God of the whole earth he is called.
+      For the Lord has called you
+      like a wife deserted and grieved in spirit,
+      like a wife of youth when she is cast off,
+      says your God.
+      For a brief moment I deserted you,
+      but with great compassion I will gather you.
+      In overflowing anger for a moment
+      I hid my face from you,
+      but with everlasting love I will have compassion on you,”
+      says the Lord, your Redeemer.
+      
+I love you Lord
+I worship you
+hope which was lost
+now stands renewed
 
-</b></pre>
+We love you Lord
+we worship you
+you are our God
+you alone are good
 
+You are beautiful
+worthy
+honor
+and all glory belong to you
 
+I will worship you for all of my days
 
 ## Foremost
 
@@ -328,3 +358,10 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
+Lord,
+
+Save your people in this city.
+
+We need you. now more than ever.
+
+Amen.
