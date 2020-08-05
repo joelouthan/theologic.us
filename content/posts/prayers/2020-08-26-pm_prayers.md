@@ -37,7 +37,9 @@ Roy & Amy Griffin
 1\. **Backbone of steel**
 
    John 10:1-21 (ESV) “Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. But he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.” This figure of speech Jesus used with them, but they did not understand what he was saying to them.
+   
    So Jesus again said to them, “Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers, but the sheep did not listen to them. I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. He flees because he is a hired hand and cares nothing for the sheep. I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd. For this reason the Father loves me, because I lay down my life that I may take it up again. No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father.”
+   
    There was again a division among the Jews because of these words. Many of them said, “He has a demon, and is insane; why listen to him?” Others said, “These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?”
 
 2\. **Chaff to be separated**
@@ -46,7 +48,7 @@ Roy & Amy Griffin
 
 3\. **More harvesters** 
 
-   Matthew 9:35-38 (ESV) And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction. 36 When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd. 37 Then he said to his disciples, “The harvest is plentiful, but the laborers are few; 38 therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
+   Matthew 9:35–38 (ESV) And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction. When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd. Then he said to his disciples, “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
 
 ## Prayers for those who are trapped in NAR churches
 
@@ -204,7 +206,9 @@ Susan
 
 **Stillwater RPC (Pastor Bruce)**
 
-**Pastor Dana Coverstone, Living Word Ministries AoG Burkesville, KY**
+**Pastor Dana Coverstone, Living Word Ministries AoG, Burkesville, KY**
+
+**Pastor Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
 **All the churches in Norman**
 - **LifeSpring Church** Jeff Robinett
@@ -299,7 +303,7 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
-**house churches** 
+**House Churches** 
 
 Lord, would you raise up even more leaders for Norman. No matter what direction we take please tap more leaders.  More musicians. More of your Son in each of us so it won’t be dependent on any of us but on you alone.  
 
