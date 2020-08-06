@@ -13,10 +13,49 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 <pre><b>
-
+Isaiah 54:9-17
+“This is like the days of Noah to me:
+as I swore that the waters of Noah
+should no more go over the earth,
+so I have sworn that I will not be angry with you,
+and will not rebuke you.
+For the mountains may depart
+and the hills be removed,
+but my steadfast love shall not depart from you,
+and my covenant of peace shall not be removed,”
+says the LORD, who has compassion on you.
+“O afflicted one, storm-tossed and not comforted,
+behold, I will set your stones in antimony,
+and lay your foundations with sapphires.
+I will make your pinnacles of agate,
+your gates of carbuncles,
+and all your wall of precious stones.
+All your children shall be taught by the LORD,
+and great shall be the peace of your children.
+In righteousness you shall be established;
+you shall be far from oppression, for you shall not fear;
+and from terror, for it shall not come near you.
+If anyone stirs up strife,
+it is not from me;
+whoever stirs up strife with you
+shall fall because of you.
+Behold, I have created the smith
+who blows the fire of coals
+and produces a weapon for its purpose.
+I have also created the ravager to destroy;
+no weapon that is fashioned against you shall succeed,
+and you shall refute every tongue that rises against you in judgment.
+This is the heritage of the servants of the LORD
+and their vindication from me, declares the LORD.”
 </b></pre>
 
+Lord,
 
+What else can I say?
+
+You alone are good. 
+
+Amen.
 
 ## Foremost
 
@@ -329,4 +368,6 @@ Lord, be the solution. What can we do?
 I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
+
+Amen
 
