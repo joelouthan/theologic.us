@@ -12,9 +12,38 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-<pre><b>
+      Isaiah 55:1-5 (ESV) 
+      Come, everyone who thirsts,
+      come to the waters;
+      and he who has no money,
+      come, buy and eat!
+      Come, buy wine and milk
+      without money and without price.
+      Why do you spend your money for that which is not bread,
+      and your labor for that which does not satisfy?
+      Listen diligently to me, and eat what is good,
+      and delight yourselves in rich food.
+      Incline your ear, and come to me;
+      hear, that your soul may live;
+      and I will make with you an everlasting covenant,
+      my steadfast, sure love for David.
+      Behold, I made him a witness to the peoples,
+      a leader and commander for the peoples.
+      Behold, you shall call a nation that you do not know,
+      and a nation that did not know you shall run to you,
+      because of the Lord your God, and of the Holy One of Israel,
+      for he has glorified you.
 
-</b></pre>
+      Lord,
+      you are provision,
+      my portion
+      and my lot
+      
+      When I awake
+      I shall be satisfied with your likeness.
+      
+      Shine your face upon my face
+      and give me peace
 
 ## Those who have left church in Norman
 

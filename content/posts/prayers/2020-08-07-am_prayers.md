@@ -12,11 +12,17 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
-
-</b></pre>
-
-
+      Isaiah 55:6-9 (ESV) “Seek the Lord while he may be found;
+      call upon him while he is near;
+      let the wicked forsake his way,
+      and the unrighteous man his thoughts;
+      let him return to the Lord, that he may have compassion on him,
+      and to our God, for he will abundantly pardon.
+      For my thoughts are not your thoughts,
+      neither are your ways my ways, declares the Lord.
+      For as the heavens are higher than the earth,
+      so are my ways higher than your ways
+      and my thoughts than your thoughts.
 
 ## Foremost
 
