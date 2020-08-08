@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Thursday, 13 August 2020'
+title: 'Evening Prayers for Tuesday, 8 September 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-13T14:00:00-06:00
-url: /pm_prayers/2020-08-13-pm_prayers/
+publishDate: 2020-09-08T14:00:00-06:00
+url: /pm_prayers/2020-09-08-pm_prayers/
 categories:
  - Prayers
 tags:
