@@ -13,8 +13,28 @@ draft: true
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
 <pre><b>
-
+Isaiah 55:10-11
+“For as the rain and the snow come down from heaven
+and do not return there but water the earth,
+making it bring forth and sprout,
+giving seed to the sower and bread to the eater,
+so shall my word be that goes out from my mouth;
+it shall not return to me empty,
+but it shall accomplish that which I purpose,
+and shall succeed in the thing for which I sent it.
 </b></pre>
+
+This passage
+This verse
+This book
+This Bible
+This is why i believe in preaching the Gospel
+
+Because your word never returns void. 
+
+Your son throws the seed out. It will do your will. 
+
+I don’t need your power. I just need you. 
 
 ## Those who have left church in Norman
 
@@ -64,7 +84,7 @@ Roy & Amy Griffin
 
 **Nancy & Sean Love, Lauren, Anna, Teddy**
 
-**Lenore** 
+**Lenore Lezanne**
 
 **Jeremiah Duckett**
 
@@ -384,3 +404,6 @@ Then he left the crowds and went into the house. And his disciples came to him, 
 
 And when Jesus had finished these parables, he went away from there, and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works? Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? And are not all his sisters with us? Where then did this man get all these things?” And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” And he did not do many mighty works there, because of their unbelief.
 
+Lord, what have you called me to?
+
+amen
