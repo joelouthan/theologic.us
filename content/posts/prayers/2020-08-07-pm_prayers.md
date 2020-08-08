@@ -12,17 +12,15 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-<pre><b>
-Isaiah 55:10-11
-“For as the rain and the snow come down from heaven
-and do not return there but water the earth,
-making it bring forth and sprout,
-giving seed to the sower and bread to the eater,
-so shall my word be that goes out from my mouth;
-it shall not return to me empty,
-but it shall accomplish that which I purpose,
-and shall succeed in the thing for which I sent it.
-</b></pre>
+      Isaiah 55:10-11
+      “For as the rain and the snow come down from heaven
+      and do not return there but water the earth,
+      making it bring forth and sprout,
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
+      it shall not return to me empty,
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
 
 This passage
 This verse
