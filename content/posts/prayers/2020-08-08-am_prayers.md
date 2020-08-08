@@ -12,13 +12,30 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
+      Isaiah 55:12-13 (ESV) “For you shall go out in joy
+      and be led forth in peace;
+      the mountains and the hills before you
+      shall break forth into singing,
+      and all the trees of the field shall clap their hands.
+      Instead of the thorn shall come up the cypress;
+      instead of the brier shall come up the myrtle;
+      and it shall make a name for the Lord,
+      an everlasting sign that shall not be cut off.”
 
-</b></pre>
+I will worship 
+Almighty God
+there is none like you
 
+You promises are sure
+and faithfulness is steadfast
+your love endures
+you are amazing
 
+There is none like you.
 
 ## Foremost
+
+**Sarah & Melissa** - There relationship is jacked up. And I know it is not because of Melissa's circumstances. Lord, you told me to pray and this is what I will do. Lord, be exalted and glorified in their lives today.
 
 Lord, 
 
@@ -330,3 +347,6 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
+God, please save your people in this city. Lord, I am willing and able to preach your word and care for your lambs. Your Spirit is with me and Your Son has lived and died for me. And you love me.
+
+Amen.
