@@ -12,11 +12,15 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
-
-</b></pre>
-
-
+      Isaiah 55:10-11
+      “For as the rain and the snow come down from heaven
+      and do not return there but water the earth,
+      making it bring forth and sprout,
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
+      it shall not return to me empty,
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
 
 ## Foremost
 
@@ -108,6 +112,8 @@ A heart for people of Norman. Lord, GIVE ME MORE NAMES! So I can lift them up to
 Adjunct at Moore Norman Tech. This was completely and literally uncalled for.
 
 Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years.
+
+Lord be thou my vision. 
 
 You know what you have provided. I cannot connect all the dots but I know you have always been my provision.
 
@@ -331,4 +337,6 @@ Lord, be the solution. What can we do?
 I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
+
+Amen
 
