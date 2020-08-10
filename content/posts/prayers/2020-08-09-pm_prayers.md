@@ -12,9 +12,15 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-<pre><b>
-
-</b></pre>
+      Isaiah 55:10-11
+      “For as the rain and the snow come down from heaven
+      and do not return there but water the earth,
+      making it bring forth and sprout,
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
+      it shall not return to me empty,
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
 
 ## Those who have left church in Norman
 
@@ -235,7 +241,7 @@ Susan
 - **West Wind UUC** - Minister Andy Jacobs
 - **Truth Church** - Pastor Jimmy  and Sabrina Smith
 - **First Presbyterian Church** - Rev. Michael East
-- **Trinity Presbyterian Church** - Justin & Meredith Westmoreland, Knox, Owen, Grace, and Lily
+- **Trinity Presbyterian Church** - Justin & Meredith Westmoreland, Knox, Owen, Grace, and Lily. Lord, give the a building. You 
 - **St. John's Episcopal** - Rev. John Borrego
 - **McFarlin UMC** - Rev. Dr. Rockford Johnson
 - **First Baptist Norman** - Dr. Wade Smith
@@ -385,4 +391,8 @@ Then he left the crowds and went into the house. And his disciples came to him, 
 “Have you understood all these things?” They said to him, “Yes.” And he said to them, “Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.” 
 
 And when Jesus had finished these parables, he went away from there, and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works? Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? And are not all his sisters with us? Where then did this man get all these things?” And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” And he did not do many mighty works there, because of their unbelief.
+
+My Lord,
+
+What am I to say?
 

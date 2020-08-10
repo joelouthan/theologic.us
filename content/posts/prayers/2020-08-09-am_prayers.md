@@ -12,15 +12,42 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
+      Isaiah 55:10-11
+      “For as the rain and the snow come down from heaven
+      and do not return there but water the earth,
+      making it bring forth and sprout,
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
+      it shall not return to me empty,
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
 
-</b></pre>
+My God,
 
+You are Lord of all. 
 
+I give thanks to you 
+For you are alone are good. 
 
 ## Foremost
 
 **Sarah & Melissa**
+**Sarah & Stephanie**
+**Sarah & Shannon**
+**Sarah & Erin**
+**Sarah & Faith**
+
+Lord,
+
+I exalt you in these relationships. 
+
+I pray that Christ is centered in them. I pray that Christ is magnified in them. I pray that Christ is glorified in them. 
+
+Every day.  
+Always. 
+Till the end. 
+
+We worship you. 
 
 Lord, 
 
@@ -108,6 +135,8 @@ A heart for people of Norman. Lord, GIVE ME MORE NAMES! So I can lift them up to
 Adjunct at Moore Norman Tech. This was completely and literally uncalled for.
 
 Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years.
+
+Lord, please make me a Principal Tech Writer. 
 
 You know what you have provided. I cannot connect all the dots but I know you have always been my provision.
 
@@ -283,6 +312,7 @@ I love you so much.
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
 - Healing for Timothy
 - Praise! Lauren to Epic
+- Now Math at Norman!
 - Going back to school
 - Norman is going virtual
 - Caden & Grasha
@@ -317,6 +347,8 @@ I love you so much.
 Lord, how do I minister to Jason? How do I share the gospel with words and my deeds? Lord, show me how to love Jason. Show me how to bless him.
 
 Save his soul in this moment. Spirit, please do you work.
+
+Lord bless Molly tonight. May she know and love you Father. 
 
 ## City of Norman
 
