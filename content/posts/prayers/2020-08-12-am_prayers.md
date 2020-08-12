@@ -12,11 +12,23 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
-
-</b></pre>
-
-
+      Isaiah 55:10-13 (ESV) “For as the rain and the snow come down from heaven
+      and do not return there but water the earth,
+      making it bring forth and sprout,
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
+      it shall not return to me empty,
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
+      “For you shall go out in joy
+      and be led forth in peace;
+      the mountains and the hills before you
+      shall break forth into singing,
+      and all the trees of the field shall clap their hands.
+      Instead of the thorn shall come up the cypress;
+      instead of the brier shall come up the myrtle;
+      and it shall make a name for the Lord,
+      an everlasting sign that shall not be cut off.”
 
 ## Foremost
 
@@ -120,6 +132,8 @@ Lord, I pray that you have many many people here in this city. Call on me to pre
 Amen.
 
 ## For those who do not know You
+
+**Emily's mom, Cheri**
 
 **Yusef and Nichole** 
 

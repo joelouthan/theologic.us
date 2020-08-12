@@ -12,9 +12,23 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-<pre><b>
-
-</b></pre>
+      Isaiah 55:10-13 (ESV) “For as the rain and the snow come down from heaven
+      and do not return there but water the earth,
+      making it bring forth and sprout,
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
+      it shall not return to me empty,
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
+      “For you shall go out in joy
+      and be led forth in peace;
+      the mountains and the hills before you
+      shall break forth into singing,
+      and all the trees of the field shall clap their hands.
+      Instead of the thorn shall come up the cypress;
+      instead of the brier shall come up the myrtle;
+      and it shall make a name for the Lord,
+      an everlasting sign that shall not be cut off.”
 
 ## Those who have left church in Norman
 
@@ -31,16 +45,21 @@ Seth & Lauren Hartman
 Craig Conaway
 Dustin & Shyla Stokes
 Roy & Amy Griffin
+Liz & Trey Davidson
 
 ## Prayers for the church as a whole
 
 1\. **Backbone of steel**
 
-   John 10:1-21 (ESV) “Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. But he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.” This figure of speech Jesus used with them, but they did not understand what he was saying to them.
-   
-   So Jesus again said to them, “Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers, but the sheep did not listen to them. I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. He flees because he is a hired hand and cares nothing for the sheep. I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd. For this reason the Father loves me, because I lay down my life that I may take it up again. No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father.”
-   
-   There was again a division among the Jews because of these words. Many of them said, “He has a demon, and is insane; why listen to him?” Others said, “These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?”
+John 10:1-21 (CSB) “Truly I tell you, anyone who doesn’t enter the sheep pen by the gate but climbs in some other way is a thief and a robber. The one who enters by the gate is the shepherd of the sheep. The gatekeeper opens it for him, and the sheep hear his voice. He calls his own sheep by name and leads them out. When he has brought all his own outside, he goes ahead of them. The sheep follow him because they know his voice. They will never follow a stranger; instead they will run away from him, because they don’t know the voice of strangers.” Jesus gave them this figure of speech, but they did not understand what he was telling them.
+
+Jesus said again, “Truly I tell you, I am the gate for the sheep. All who came before me are thieves and robbers, but the sheep didn’t listen to them. I am the gate. If anyone enters by me, he will be saved and will come in and go out and find pasture. A thief comes only to steal and kill and destroy. I have come so that they may have life and have it in abundance.
+
+“I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand, since he is not the shepherd and doesn’t own the sheep, leaves them and runs away when he sees a wolf coming. The wolf then snatches and scatters them. This happens because he is a hired hand and doesn’t care about the sheep.
+
+“I am the good shepherd. I know my own, and my own know me, just as the Father knows me, and I know the Father. I lay down my life for the sheep. But I have other sheep that are not from this sheep pen; I must bring them also, and they will listen to my voice. Then there will be one flock, one shepherd. This is why the Father loves me, because I lay down my life so that I may take it up again. No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”
+
+Again the Jews were divided because of these words. Many of them were saying, “He has a demon and he’s crazy. Why do you listen to him?” Others were saying, “These aren’t the words of someone who is demon-possessed. Can a demon open the eyes of the blind?”
 
 2\. **Chaff to be separated**
 
@@ -51,6 +70,85 @@ Roy & Amy Griffin
    Matthew 9:35–38 (ESV) And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction. When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd. Then he said to his disciples, “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
 
 ## Prayers for those who are trapped in NAR churches
+
+Jeremiah 23 (CSB) Woe to the shepherds who destroy and scatter the sheep of my pasture!” This is the Lord’s declaration. “Therefore, this is what the Lord, the God of Israel, says about the shepherds who tend my people: You have scattered my flock, banished them, and have not attended to them. I am about to attend to you because of your evil acts”—this is the Lord’s declaration. “I will gather the remnant of my flock from all the lands where I have banished them, and I will return them to their grazing land. They will become fruitful and numerous. I will raise up shepherds over them who will tend them. They will no longer be afraid or discouraged, nor will any be missing.” This is the Lord’s declaration.
+
+      “Look, the days are coming”—this is the Lord’s declaration—
+      “when I will raise up a Righteous Branch for David.
+      He will reign wisely as king
+      and administer justice and righteousness in the land.
+      In his days Judah will be saved,
+      and Israel will dwell securely.
+      This is the name he will be called:
+      The Lord Is Our Righteousness.
+
+“Look, the days are coming”—the Lord’s declaration—“when it will no longer be said, ‘As the Lord lives who brought the Israelites from the land of Egypt,’ but, ‘As the Lord lives, who brought and led the descendants of the house of Israel from the land of the north and from all the other countries where I had banished them.’ They will dwell once more in their own land.”
+
+      Concerning the prophets:
+      My heart is broken within me,
+      and all my bones tremble.
+      I have become like a drunkard,
+      like a man overcome by wine,
+      because of the Lord,
+      because of his holy words.
+      For the land is full of adulterers;
+      the land mourns because of the curse,
+      and the grazing lands in the wilderness have dried up.
+      Their way of life has become evil,
+      and their power is not rightly used
+      because both prophet and priest are ungodly,
+      even in my house I have found their evil.
+      This is the Lord’s declaration.
+      Therefore, their way will seem
+      like slippery paths in the gloom.
+      They will be driven away and fall down there,
+      for I will bring disaster on them,
+      the year of their punishment.
+      This is the Lord’s declaration.
+      Among the prophets of Samaria
+      I saw something disgusting:
+      They prophesied by Baal
+      and led my people Israel astray.
+      Among the prophets of Jerusalem also
+      I saw a horrible thing:
+      They commit adultery and walk in lies.
+      They strengthen the hands of evildoers,
+      and none turns his back on evil.
+      They are all like Sodom to me;
+      Jerusalem’s residents are like Gomorrah.
+      Therefore, this is what the Lord of Armies says concerning the prophets:
+      I am about to feed them wormwood
+      and give them poisoned water to drink,
+      for from the prophets of Jerusalem
+      ungodliness has spread throughout the land.
+
+This is what the Lord of Armies says: “Do not listen to the words of the prophets who prophesy to you. They are deluding you. They speak visions from their own minds, not from the Lord’s mouth. They keep on saying to those who despise me, ‘The Lord has spoken: You will have peace.’ They have said to everyone who follows the stubbornness of his heart, ‘No harm will come to you.’”
+
+      For who has stood in the council of the Lord
+      to see and hear his word?
+      Who has paid attention to his word and obeyed?
+      Look, a storm from the Lord!
+      Wrath has gone out,
+      a whirling storm.
+      It will whirl about the heads of the wicked.
+      The Lord’s anger will not turn away
+      until he has completely fulfilled the purposes of his heart.
+      In time to come you will understand it clearly.
+      I did not send out these prophets,
+      yet they ran.
+      I did not speak to them,
+      yet they prophesied.
+      If they had really stood in my council,
+      they would have enabled my people to hear my words
+      and would have turned them from their evil ways
+      and their evil deeds.
+
+“Am I a God who is only near”—this is the Lord’s declaration—“and not a God who is far away? Can a person hide in secret places where I cannot see him?” —the Lord’s declaration. “Do I not fill the heavens and the earth?” —the Lord’s declaration.
+
+“I have heard what the prophets who prophesy a lie in my name have said: ‘I had a dream! I had a dream!’ How long will this continue in the minds of the prophets prophesying lies, prophets of the deceit of their own minds? Through their dreams that they tell one another, they plan to cause my people to forget my name as their ancestors forgot my name through Baal worship. The prophet who has only a dream should recount the dream, but the one who has my word should speak my word truthfully, for what is straw compared to grain?”—this is the Lord’s declaration. “Is not my word like fire”—this is the Lord’s declaration—“and like a hammer that pulverizes rock? Therefore, take note! I am against the prophets”—the Lord’s declaration—“who steal my words from each other. I am against the prophets”—the Lord’s declaration—“who use their own tongues to make a declaration. I am against those who prophesy false dreams”—the Lord’s declaration—“telling them and leading my people astray with their reckless lies. It was not I who sent or commanded them, and they are of no benefit at all to these people”—this is the Lord’s declaration.
+The Burden of the Lord
+
+“Now when these people or a prophet or a priest asks you, ‘What is the burden of the Lord?’ you will respond to them, ‘What is the burden? I will throw you away! This is the Lord’s declaration.’ As for the prophet, priest, or people who say, ‘The burden of the Lord,’ I will punish that man and his household. This is what each man is to say to his friend and to his brother: ‘What has the Lord answered?’ or ‘What has the Lord spoken?’ But no longer refer to the burden of the Lord, for each man’s word becomes his burden and you pervert the words of the living God, the Lord of Armies, our God. Say to the prophet, ‘What has the Lord answered you?’ or ‘What has the Lord spoken?’ But if you say, ‘The burden of the Lord,’ then this is what the Lord says: Because you have said, ‘The burden of the Lord,’ and I specifically told you not to say, ‘The burden of the Lord,’ I will surely forget you. I will throw you away from my presence—both you and the city that I gave you and your ancestors. I will bring on you everlasting disgrace and humiliation that will never be forgotten.”
 
 ### Gateway Church
 
@@ -95,7 +193,7 @@ Ashley   Eddy     Sarah M
 Tatenda  Jackie   Katrina
 Abby     A.C.
 Noah     Abbie    Oscar
-Rin      Carol    Cheryl   
+Rin      Carol
 Laurel   Amy      Kylie
 Courtney Tonu     Connie
 Faith    Hannah   Caroline    
@@ -179,6 +277,8 @@ Susan
 **Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah**
 
 **Robby & Sarah, fam**
+
+**Cheryl**
 
 **Ian**
 
@@ -388,4 +488,7 @@ Then he left the crowds and went into the house. And his disciples came to him, 
 “Have you understood all these things?” They said to him, “Yes.” And he said to them, “Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.” 
 
 And when Jesus had finished these parables, he went away from there, and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works? Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? And are not all his sisters with us? Where then did this man get all these things?” And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” And he did not do many mighty works there, because of their unbelief.
+
+Amen
+
 

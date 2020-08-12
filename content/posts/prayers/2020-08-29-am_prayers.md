@@ -21,19 +21,23 @@ draft: true
 ## Foremost
 
 **Sarah & Melissa**
+**Sarah & Steph**
+**Sarah & Erin**
+**Sarah & Faith**
 
 Lord, 
 
-I give thanks to you, Almighty God. There is none like you. 
+      I give thanks to you, Almighty God. 
+      There is none like you. 
+      I worship you, O Prince of Peace, 
+      that is what I long to do.
+      I'll give you praise 
+      for you alone are my righteousness.
 
-I worship you, O Prince of Peace, that is what I long to do.
-
-I'll give you praise for you alone are my righteousness.
-
-I worship you, Almighty God. There is none like you.
+I worship you, Almighty God. 
+There is none like you.
 
 You have answered my prayers time and time and time again.
-
 I called on you. And you answered. And you came to their rescue. 
 
 You are my wonderful God in heaven.
@@ -120,6 +124,8 @@ Lord, I pray that you have many many people here in this city. Call on me to pre
 Amen.
 
 ## For those who do not know You
+
+**Emily's mom, Cheri**
 
 **Yusef and Nichole** 
 
