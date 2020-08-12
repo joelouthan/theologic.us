@@ -255,6 +255,9 @@ Susan
 - **Concord Missionary Baptist Church** - R.L. Clark
 - **River Church** - David & Nancy Edwards
 - **Seeker Church** - Russ & Janna Martin
+- **Impact Church Norman** - Eddie and Leigh Thompson
+- **Wildwood Church** - Mark & Kimberly, Joshua
+- **Church of the Nazarene** - Brent & Amy; Cameron, Dawson
 
 ## Frontline
 

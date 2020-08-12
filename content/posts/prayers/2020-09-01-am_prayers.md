@@ -58,8 +58,6 @@ Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to the
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
-I thank you and praise you for healing Natasha's body. But God, please heal her soul and her little heart. You alone comfort us and give us your peace. Let your Spirit fall upon Aaron, Natasha, and Audrey.
-
 ## Daily
 
 On marriage: **Sarah, my love** 
@@ -241,6 +239,8 @@ Amen.
 
 **Deanna & Hubs, Quinn**
 
+**Aaron & Natasha, Audrey**
+
 **Eric & Megan, Leeland**
 
 **Josh & Nancy, +kiddos**
@@ -285,10 +285,10 @@ I love you so much.
 - Praise! Lauren to Epic
 - Going back to school
 - Norman is going virtual
-- Caden & Grasha
+- Caden & Grasha ('hood kids)
 
 **Scott & Melody, Emily, Adelyn, Caleb**
-- Returning back to the office
+- Returning back to the office starting (Thursday, Friday)
 - Melody's granddad Aleto - dehydrated; recovering from broken ribs
 - Mohammad the neighborhood kid
 - Wayne & Nicole: hard conversation; praying for Spirit-led conversation
@@ -297,15 +297,43 @@ I love you so much.
 - Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you
 
 **Andrew & Andie**
+- Dad: new job! Praise God!
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Blessing on their marriage and communication and conflict resolution
 - Andie: anxiety
 - Covid risks vs. Protection from God
+- Political season
+
+Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at night, and Daniel praised the God of the heavens and declared:
+
+      May the name of God
+      be praised forever and ever,
+      for wisdom and power belong to him.
+      He changes the times and seasons;
+      he removes kings and establishes kings.
+      He gives wisdom to the wise
+      and knowledge to those
+      who have understanding.
+      He reveals the deep and hidden things;
+      he knows what is in the darkness,
+      and light dwells with him.
+      I offer thanks and praise to you,
+      God of my ancestors,
+      because you have given me
+      wisdom and power.
+      And now you have let me know
+      what we asked of you,
+      for you have let us know
+      the king’s mystery.
 
 **Riley & Emily**
 - Due date: Sept 26!
 - Praying for a fat baby
-- Logan - struggles with depression; self-love & love for God; loves what we do but not what we say
+- More sleep!
+- Logan
+   - struggles with depression; self-love & love for God; loves what we do but not what we say
+   - praise God for hard talks with parents
+   - parents chat with Logan
 - gospel of Christ to the parents and brother and in the relationship
 
 ## Family
