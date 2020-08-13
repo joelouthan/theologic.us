@@ -12,35 +12,46 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-<pre><b>
-
-</b></pre>
 
 
-
-## Foremost
+## Pray for Sarah and her friends
 
 **Sarah & Melissa**
 **Sarah & Steph**
 **Sarah & Erin**
 **Sarah & Faith**
 
+Lord God Almighty,
+
+Who was, and is, and is to come,
+
+Please bring Christ-exalting, cross-prophesying, blood covered, Spirit-filled, God glorifying, deep friendships to my sweetest Sarah. Until then, equip me to be God-worthy friend. Show me how I can lift her up and point her to your Son.
+
+In our lives and in our friendship, relationship, and marriage, Lord, be glorified today.
+
+## Give thanks
+
 Lord, 
 
       I give thanks to you, Almighty God. 
       There is none like you. 
+      
       I worship you, O Prince of Peace, 
       that is what I long to do.
+      
       I'll give you praise 
       for you alone are my righteousness.
-
-I worship you, Almighty God. 
-There is none like you.
+      
+      I worship you, Almighty God. 
+      There is none like you.
 
 You have answered my prayers time and time and time again.
+
 I called on you. And you answered. And you came to their rescue. 
 
 You are my wonderful God in heaven.
+
+## For healing
 
 My Lord,
 
@@ -68,14 +79,6 @@ On marriage: **Sarah, my love**
 
 On true friendship: **For my Jonathan** 
 
-Lord God Almighty,
-
-Who was, and is, and is to come,
-
-Please bring Christ-exalting, cross-prophesying, blood covered, Spirit-filled, God glorifying, deep friendships to my sweetest Sarah. Until then, equip me to be God-worthy friend. Show me how I can lift her up and point her to your Son.
-
-In our lives and in our friendship, relationship, and marriage, Lord, be glorified today.
-
 On sanctification: **Lord, help me to gentle, patient, and tender like you** 
 
 On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
@@ -93,7 +96,6 @@ On evangelizing: **As soon as the line snaps: “In your ministry, you will gain
 On glory of God: **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
 On his provision: **Lord, anything you give will be good enough for me.**
-
 
 ## Next steps
 
@@ -204,7 +206,6 @@ Amen.
 **Jonathan & Jenn Williams** 
 
 **Evan & Kaylee, Everett, Baby**
-
 
 ## Friends
 

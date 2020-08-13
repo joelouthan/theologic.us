@@ -12,9 +12,7 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-<pre><b>
 
-</b></pre>
 
 ## Those who have left church in Norman
 
@@ -31,6 +29,8 @@ Seth & Lauren Hartman
 Craig Conaway
 Dustin & Shyla Stokes
 Roy & Amy Griffin
+Liz & Trey Davidson
+Aimee & James
 
 ## Prayers for the church as a whole
 
@@ -190,7 +190,11 @@ Susan
 
 **Kim, Lori, Taylor**
 
-**Larissa & Jessie**
+**Larissa**
+
+**Jessie**
+
+**Carol**
 
 **Aimee & James, Mia, Ruby, Elliott, Coraline, Lucy**
 
