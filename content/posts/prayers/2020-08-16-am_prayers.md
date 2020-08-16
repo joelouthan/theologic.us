@@ -13,17 +13,19 @@ draft: true
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 Matthew 24:1-14
-Jesus Foretells Destruction of the Temple
 Jesus left the temple and was going away, when his disciples came to point out to him the buildings of the temple. But he answered them, “You see all these, do you not? Truly, I say to you, there will not be left here one stone upon another that will not be thrown down.”
-Signs of the End of the Age
+
 As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?” And Jesus answered them, “See that no one leads you astray. For many will come in my name, saying, ‘I am the Christ,’ and they will lead many astray. And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. All these are but the beginning of the birth pains.
 “Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake. And then many will fall away and betray one another and hate one another. And many false prophets will arise and lead many astray. And because lawlessness will be increased, the love of many will grow cold. But the one who endures to the end will be saved. And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.
 
 ## Pray for Sarah and her friends
 
 **Sarah & Melissa**
+
 **Sarah & Steph**
+
 **Sarah & Erin**
+
 **Sarah & Faith**
 
 Lord God Almighty,
@@ -372,3 +374,4 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
+Amen. 
