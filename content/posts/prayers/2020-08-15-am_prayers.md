@@ -12,7 +12,60 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+      Isaiah 55 (CSB) “Come, everyone who is thirsty,
+      come to the water;
+      and you without silver,
+      come, buy, and eat!
+      Come, buy wine and milk
+      without silver and without cost!
+      Why do you spend silver on what is not food,
+      and your wages on what does not satisfy?
+      Listen carefully to me, and eat what is good,
+      and you will enjoy the choicest of foods.
+      Pay attention and come to me;
+      listen, so that you will live.
+      I will make a permanent covenant with you
+      on the basis of the faithful kindnesses of David.
+      Since I have made him a witness to the peoples,
+      a leader and commander for the peoples,
+      so you will summon a nation you do not know,
+      and nations who do not know you will run to you.
+      For the Lord your God,
+      even the Holy One of Israel,
+      has glorified you.”
 
+      Seek the Lord while he may be found;
+      call to him while he is near.
+      Let the wicked one abandon his way
+      and the sinful one his thoughts;
+      let him return to the Lord,
+      so he may have compassion on him,
+      and to our God, for he will freely forgive.
+      “For my thoughts are not your thoughts,
+      and your ways are not my ways.”
+
+      This is the Lord’s declaration.
+      “For as heaven is higher than earth,
+      so my ways are higher than your ways,
+      and my thoughts than your thoughts.
+      For just as rain and snow fall from heaven
+      and do not return there
+      without saturating the earth
+      and making it germinate and sprout,
+      and providing seed to sow
+      and food to eat,
+      so my word that comes from my mouth
+      will not return to me empty,
+      but it will accomplish what I please
+      and will prosper in what I send it to do.”
+      You will indeed go out with joy
+      and be peacefully guided;
+      the mountains and the hills will break into singing before you,
+      and all the trees of the field will clap their hands.
+      Instead of the thornbush, a cypress will come up,
+      and instead of the brier, a myrtle will come up;
+      this will stand as a monument for the Lord,
+      an everlasting sign that will not be destroyed.
 
 ## Pray for Sarah and her friends
 
@@ -367,3 +420,13 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
+Lord bless my city and her people. 
+
+1 Chronicles 29:18
+O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.
+
+Acts 17:32 - 18:11
+Now when they heard of the resurrection of the dead, some mocked. But others said, “We will hear you again about this.” So Paul went out from their midst. But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.
+
+After this Paul left Athens and went to Corinth. And he found a Jew named Aquila, a native of Pontus, recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. And he went to see them, and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade. And he reasoned in the synagogue every Sabbath, and tried to persuade Jews and Greeks.
+When Silas and Timothy arrived from Macedonia, Paul was occupied with the word, testifying to the Jews that the Christ was Jesus. And when they opposed and reviled him, he shook out his garments and said to them, “Your blood be on your own heads! I am innocent. From now on I will go to the Gentiles.” And he left there and went to the house of a man named Titius Justus, a worshiper of God. His house was next door to the synagogue. Crispus, the ruler of the synagogue, believed in the Lord, together with his entire household. And many of the Corinthians hearing Paul believed and were baptized. And the Lord said to Paul one night in a vision, “Do not be afraid, but go on speaking and do not be silent, for I am with you, and no one will attack you to harm you, for I have many in this city who are my people.” And he stayed a year and six months, teaching the word of God among them.
