@@ -210,7 +210,7 @@ Susan
 
 ## Church
 
-**Stillwater RPC (Pastor Bruce)**
+**Pastor Bruce Parnell, Stillwater RPC, Stillwater, OK**
 
 **Pastor Dana Coverstone, Living Word Ministries AoG, Burkesville, KY**
 
@@ -304,40 +304,40 @@ HS Girls
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
-## Frontline Norman**
+## Frontline Norman
 
-Andrew Aston
-Andie Aston
-Sarah Blake - niece Sophia recovering from spine surgery; Emily & Brian
-Daniel Bond
-Jamie Bond
-**Jessy Brock** - SINGLE
-Kimberly Burns - SINGLE; Surgery! Job interview! Another job outside Oklahoma!
-Jeff Cooke
-Annika Edgington - Getting settled in Delaware; Training in Texas
-      John
-Lauren Finocchiaro
-Charles Finocchirao
-Aaron Gayle
-Natasha Gayle
-Matt Haugland
-Sam Haugland
-**Ethan Inge** - SINGLE
-Gary Matthews
-Lisa Matthews
-Brittany Mayes - SINGLE
-Jordan Mayfield - SINGLE; Dad, Randy, health.
-Ashton Poyndexter - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
-Caleb Reichert
-Riley Roberson
-Emily Roberson -  Baby due in Sept.
-Trey Scott 
-Kathleen Scott 
-Taylor Smith - SINGLE; Another job!
-Phong Ta 
-Micah Thomason
-Melissa Thomason
-Destiny Warrior
+- Andrew Aston
+- Andie Aston
+- Sarah Blake - niece Sophia recovering from spine surgery; Emily & Brian
+- Daniel Bond
+- Jamie Bond
+- **Jessy Brock** - SINGLE
+- Kimberly Burns - SINGLE; Surgery! Job interview! Another job outside Oklahoma!
+- Jeff Cooke
+- Annika Edgington - Getting settled in Delaware; Training in Texas
+* John
+- Lauren Finocchiaro
+- Charles Finocchirao
+- Aaron Gayle
+- Natasha Gayle
+- Matt Haugland
+- Sam Haugland
+- **Ethan Inge** - SINGLE
+- Gary Matthews
+- Lisa Matthews
+- Brittany Mayes - SINGLE
+- Jordan Mayfield - SINGLE; Dad, Randy, health.
+- Ashton Poyndexter - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
+- Caleb Reichert
+- Riley Roberson
+- Emily Roberson -  Baby due in Sept.
+- Trey Scott 
+- Kathleen Scott 
+- Taylor Smith - SINGLE; Another job!
+- Phong Ta 
+- Micah Thomason
+- Melissa Thomason
+- Destiny Warrior
 
 Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
 
@@ -357,7 +357,7 @@ Matthew 13:1–58 (ESV) That same day Jesus went out of the house and sat beside
 
 Then the disciples came and said to him, “Why do you speak to them in parables?” And he answered them, “To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given. For to the one who has, more will be given, and he will have an abundance, but from the one who has not, even what he has will be taken away. This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand. Indeed, in their case the prophecy of Isaiah is fulfilled that says: 
 
-      “ ‘ “You will indeed hear but never understand, 
+      “You will indeed hear but never understand, 
       and you will indeed see but never perceive.” 
       For this people’s heart has grown dull, 
       and with their ears they can barely hear, 
@@ -371,7 +371,7 @@ But blessed are your eyes, for they see, and your ears, for they hear. For truly
 
 “Hear then the parable of the sower: When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path. As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy, yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away. As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful. As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.” 
 
-He put another parable before them, saying, “The kingdom of heaven may be compared to a man who sowed good seed in his field, but while his men were sleeping, his enemy came and sowed weeds among the wheat and went away. So when the plants came up and bore grain, then the weeds appeared also. And the servants of the master of the house came and said to him, ‘Master, did you not sow good seed in your field? How then does it have weeds?’ He said to them, ‘An enemy has done this.’ So the servants said to him, ‘Then do you want us to go and gather them?’ But he said, ‘No, lest in gathering the weeds you root up the wheat along with them. Let both grow together until the harvest, and at harvest time I will tell the reapers, “Gather the weeds first and bind them in bundles to be burned, but gather the wheat into my barn.” ’ ” 
+He put another parable before them, saying, “The kingdom of heaven may be compared to a man who sowed good seed in his field, but while his men were sleeping, his enemy came and sowed weeds among the wheat and went away. So when the plants came up and bore grain, then the weeds appeared also. And the servants of the master of the house came and said to him, ‘Master, did you not sow good seed in your field? How then does it have weeds?’ He said to them, ‘An enemy has done this.’ So the servants said to him, ‘Then do you want us to go and gather them?’ But he said, ‘No, lest in gathering the weeds you root up the wheat along with them. Let both grow together until the harvest, and at harvest time I will tell the reapers, “Gather the weeds first and bind them in bundles to be burned, but gather the wheat into my barn.”
 
 He put another parable before them, saying, “The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree, so that the birds of the air come and make nests in its branches.” 
 He told them another parable. “The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, till it was all leavened.” 

@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Monday, 7 September 2020'
+title: 'Evening Prayers for Tuesday, 15 September 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-09-07T14:00:00-06:00
-url: /pm_prayers/2020-09-07-pm_prayers/
+publishDate: 2020-09-15T14:00:00-06:00
+url: /pm_prayers/2020-09-15-pm_prayers/
 categories:
  - Prayers
 tags:
