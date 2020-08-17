@@ -12,7 +12,16 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-
+Isaiah 56:1-2
+Salvation for Foreigners
+Thus says the LORD:
+“Keep justice, and do righteousness,
+for soon my salvation will come,
+and my righteousness be revealed.
+Blessed is the man who does this,
+and the son of man who holds it fast,
+who keeps the Sabbath, not profaning it,
+and keeps his hand from doing any evil.”
 
 ## Pray for Sarah and her friends
 
@@ -56,6 +65,8 @@ You are my wonderful God in heaven.
 My Lord,
 
 I pray for that you would heal:
+
+Sean - vertigo double focus. Lord heal his mind and body.  Give him rest and peace. Lord show him the love you have for him. 
 
 Sam Im - that Christ would be magnified in his heart and soul and home and family and work and life!
 
