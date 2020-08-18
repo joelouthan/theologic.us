@@ -12,7 +12,20 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-
+Isaiah 56:3-5
+Let not the foreigner who has joined himself to the LORD say,
+“The LORD will surely separate me from his people”;
+and let not the eunuch say,
+“Behold, I am a dry tree.”
+For thus says the LORD:
+“To the eunuchs who keep my Sabbaths,
+who choose the things that please me
+and hold fast my covenant,
+I will give in my house and within my walls
+a monument and a name
+better than sons and daughters;
+I will give them an everlasting name
+that shall not be cut off.
 
 ## Those who have left church in Norman
 
