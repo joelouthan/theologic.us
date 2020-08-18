@@ -12,7 +12,21 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-
+      Isaiah 56:6-8 (ESV) “And the foreigners who join themselves to the Lord,
+      to minister to him, to love the name of the Lord,
+      and to be his servants,
+      everyone who keeps the Sabbath and does not profane it,
+      and holds fast my covenant—
+      these I will bring to my holy mountain,
+      and make them joyful in my house of prayer;
+      their burnt offerings and their sacrifices
+      will be accepted on my altar;
+      for my house shall be called a house of prayer
+      for all peoples.”
+      The Lord God,
+      who gathers the outcasts of Israel, declares,
+      “I will gather yet others to him
+      besides those already gathered.”
 
 ## Pray for Sarah and her friends
 
