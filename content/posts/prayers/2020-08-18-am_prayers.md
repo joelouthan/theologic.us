@@ -12,7 +12,12 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-
+Isaiah 56:6
+“And the foreigners who join themselves to the LORD,
+to minister to him, to love the name of the LORD,
+and to be his servants,
+everyone who keeps the Sabbath and does not profane it,
+and holds fast my covenant—
 
 ## Pray for Sarah and her friends
 

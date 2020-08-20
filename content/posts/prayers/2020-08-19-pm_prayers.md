@@ -12,7 +12,65 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-
+Isaiah 57:1-13
+Israel's Futile Idolatry
+The righteous man perishes,
+and no one lays it to heart;
+devout men are taken away,
+while no one understands.
+For the righteous man is taken away from calamity;
+he enters into peace;
+they rest in their beds
+who walk in their uprightness.
+But you, draw near,
+sons of the sorceress,
+offspring of the adulterer and the loose woman.
+Whom are you mocking?
+Against whom do you open your mouth wide
+and stick out your tongue?
+Are you not children of transgression,
+the offspring of deceit,
+you who burn with lust among the oaks,
+under every green tree,
+who slaughter your children in the valleys,
+under the clefts of the rocks?
+Among the smooth stones of the valley is your portion;
+they, they, are your lot;
+to them you have poured out a drink offering,
+you have brought a grain offering.
+Shall I relent for these things?
+On a high and lofty mountain
+you have set your bed,
+and there you went up to offer sacrifice.
+Behind the door and the doorpost
+you have set up your memorial;
+for, deserting me, you have uncovered your bed,
+you have gone up to it,
+you have made it wide;
+and you have made a covenant for yourself with them,
+you have loved their bed,
+you have looked on nakedness.
+You journeyed to the king with oil
+and multiplied your perfumes;
+you sent your envoys far off,
+and sent down even to Sheol.
+You were wearied with the length of your way,
+but you did not say, “It is hopeless”;
+you found new life for your strength,
+and so you were not faint.
+Whom did you dread and fear,
+so that you lied,
+and did not remember me,
+did not lay it to heart?
+Have I not held my peace, even for a long time,
+and you do not fear me?
+I will declare your righteousness and your deeds,
+but they will not profit you.
+When you cry out, let your collection of idols deliver you!
+The wind will carry them all off,
+a breath will take them away.
+But he who takes refuge in me shall possess the land
+and shall inherit my holy mountain.
 
 ## Those who have left church in Norman
 

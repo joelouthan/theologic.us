@@ -12,7 +12,25 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-
+Isaiah 56:9-12
+Israel's Irresponsible Leaders
+All you beasts of the field, come to devour—
+all you beasts in the forest.
+His watchmen are blind;
+they are all without knowledge;
+they are all silent dogs;
+they cannot bark,
+dreaming, lying down,
+loving to slumber.
+The dogs have a mighty appetite;
+they never have enough.
+But they are shepherds who have no understanding;
+they have all turned to their own way,
+each to his own gain, one and all.
+“Come,” they say, “let me get wine;
+let us fill ourselves with strong drink;
+and tomorrow will be like this day,
+great beyond measure.”
 
 ## Pray for Sarah and her friends
 

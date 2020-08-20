@@ -12,7 +12,17 @@ draft: true
 ---
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-
+Isaiah 56:7-8
+these I will bring to my holy mountain,
+and make them joyful in my house of prayer;
+their burnt offerings and their sacrifices
+will be accepted on my altar;
+for my house shall be called a house of prayer
+for all peoples.”
+The Lord GOD,
+who gathers the outcasts of Israel, declares,
+“I will gather yet others to him
+besides those already gathered.”
 
 ## Those who have left church in Norman
 
