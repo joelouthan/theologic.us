@@ -12,7 +12,32 @@ draft: true
 ---
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
-
+Isaiah 57:14-21
+And it shall be said,
+“Build up, build up, prepare the way,
+remove every obstruction from my people's way.”
+For thus says the One who is high and lifted up,
+who inhabits eternity, whose name is Holy:
+“I dwell in the high and holy place,
+and also with him who is of a contrite and lowly spirit,
+to revive the spirit of the lowly,
+and to revive the heart of the contrite.
+For I will not contend forever,
+nor will I always be angry;
+for the spirit would grow faint before me,
+and the breath of life that I made.
+Because of the iniquity of his unjust gain I was angry,
+I struck him; I hid my face and was angry,
+but he went on backsliding in the way of his own heart.
+I have seen his ways, but I will heal him;
+I will lead him and restore comfort to him and his mourners,
+creating the fruit of the lips.
+Peace, peace, to the far and to the near,” says the LORD,
+“and I will heal him.
+But the wicked are like the tossing sea;
+for it cannot be quiet,
+and its waters toss up mire and dirt.
+There is no peace,” says my God, “for the wicked.”
 
 ## Pray for Sarah and her friends
 

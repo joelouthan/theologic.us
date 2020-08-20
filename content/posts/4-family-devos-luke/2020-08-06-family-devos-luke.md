@@ -1,5 +1,5 @@
 ---
-title: 'Luke 7 The Responses of Mankind'
+title: 'Luke 7 The Responses of Mankind (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-06
