@@ -1,5 +1,5 @@
 ---
-title: 'Luke 3:23-38 How was Jesus Like You and Me?'
+title: '✅Luke 3:23-38 How was Jesus Like You and Me?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-04

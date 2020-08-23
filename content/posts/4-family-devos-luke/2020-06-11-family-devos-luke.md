@@ -1,5 +1,5 @@
 ---
-title: 'Luke 4:1-13 How Did Jesus Face Temptations?'
+title: '✅Luke 4:1-13 How Did Jesus Face Temptations?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-11

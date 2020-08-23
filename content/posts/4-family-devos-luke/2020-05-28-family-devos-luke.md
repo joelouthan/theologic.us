@@ -1,5 +1,5 @@
 ---
-title: 'Luke 3:21-22 How Did Jesus Began His Ministry?'
+title: '✅Luke 3:21-22 How Did Jesus Began His Ministry?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-05-28
