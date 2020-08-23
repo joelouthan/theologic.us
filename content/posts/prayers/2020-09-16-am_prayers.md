@@ -10,15 +10,18 @@ tags:
  - 'Prayers'
 draft: true
 ---
-## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
 
 ## Pray for Sarah and her friends
 
 **Sarah & Melissa**
+
 **Sarah & Steph**
+
 **Sarah & Erin**
+
 **Sarah & Faith**
 
 Lord God Almighty,
@@ -28,6 +31,7 @@ Who was, and is, and is to come,
 Please bring Christ-exalting, cross-prophesying, blood covered, Spirit-filled, God glorifying, deep friendships to my sweetest Sarah. Until then, equip me to be God-worthy friend. Show me how I can lift her up and point her to your Son.
 
 In our lives and in our friendship, relationship, and marriage, Lord, be glorified today.
+
 
 ## Give thanks
 
@@ -50,6 +54,7 @@ You have answered my prayers time and time and time again.
 I called on you. And you answered. And you came to their rescue. 
 
 You are my wonderful God in heaven.
+
 
 ## For healing
 
@@ -75,6 +80,7 @@ Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to the
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
+
 ## Daily
 
 On marriage: **Sarah, my love** 
@@ -98,6 +104,7 @@ On evangelizing: **As soon as the line snaps: “In your ministry, you will gain
 On glory of God: **“On Christ’s glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy.” ― John Owen, The Glory of Christ**
 
 On his provision: **Lord, anything you give will be good enough for me.**
+
 
 ## Next steps
 
@@ -126,6 +133,7 @@ All of this means nothing if it is not for your glory.
 Lord, I pray that you have many many people here in this city. Call on me to preach and minister your Word to them.
 
 Amen.
+
 
 ## For those who do not know You
 
@@ -213,6 +221,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Evan & Kaylee, Everett, Baby**
 
+
 ## Friends
 
 **Sarah & Josiah**
@@ -274,6 +283,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 - Kristie 
 - John and Gina
 - Jen and Diddy 
+
 
 ## Discipleship Group
 
@@ -349,6 +359,7 @@ Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at nigh
    - parents chat with Logan
 - gospel of Christ to the parents and brother and in the relationship
 
+
 ## Family
 
 **Sarah, Yusef, Elijah, Ivy, Ava**
@@ -358,6 +369,7 @@ Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at nigh
 Lord, how do I minister to Jason? How do I share the gospel with words and my deeds? Lord, show me how to love Jason. Show me how to bless him.
 
 Save his soul in this moment. Spirit, please do you work.
+
 
 ## City of Norman
 

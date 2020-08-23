@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Wednesday, 2 September 2020'
+title: 'Evening Prayers for Saturday, 19 September 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-09-02T14:00:00-06:00
-url: /pm_prayers/2020-09-02-pm_prayers/
+publishDate: 2020-09-19T14:00:00-06:00
+url: /pm_prayers/2020-09-19-pm_prayers/
 categories:
  - Prayers
 tags:

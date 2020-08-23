@@ -10,7 +10,9 @@ tags:
  - 'Prayers'
 draft: true
 ---
+
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
+
 
 
 
@@ -32,6 +34,7 @@ Roy & Amy Griffin
 Liz & Trey Davidson
 Aimee & James
 
+
 ## Prayers for the church as a whole
 
 1\. **Backbone of steel**
@@ -50,13 +53,16 @@ Aimee & James
 
    Matthew 9:35–38 (ESV) And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction. When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd. Then he said to his disciples, “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
 
+
 ## Prayers for those who are trapped in NAR churches
+
 
 ### Gateway Church
 
 **Kristi**
 
 **Camille**
+
 
 ### Catch the Fire DFW
 
@@ -87,6 +93,7 @@ Aimee & James
 **Margie Spence**
 
 **Tom Gardner**
+
 
 ### Antioch Norman
 
@@ -206,7 +213,9 @@ Susan
 
 **Robin & Bobby**
 
+
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
+
 
 ## Church
 
@@ -263,7 +272,9 @@ Susan
 - **Wildwood Church** - Mark & Kimberly, Joshua
 - **Church of the Nazarene** - Brent & Amy; Cameron, Dawson
 
+
 ## Frontline
+
 
 ## Frontline South
 
@@ -303,6 +314,7 @@ HS Girls
 * Zoe Johnson - praying for her to show up more often, is often cliquey and struggles to allow herself to be known, praying God would convict her and give her a spiritual family if she came more.
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
+
 
 ## Frontline Norman
 
@@ -350,6 +362,7 @@ Draw me closer. Let the world die to me so I can live to you.
 Lord, would you raise up even more leaders for Norman. No matter what direction we take please tap more leaders.  More musicians. More of your Son in each of us so it won’t be dependent on any of us but on you alone.  
 
 Lord, be glorified in our homes and in our city. Today. 
+
 
 ## Prayer for the Nations
 
