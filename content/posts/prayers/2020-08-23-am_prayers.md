@@ -13,6 +13,32 @@ draft: true
 
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+Isaiah 58:1-5
+True and False Fasting
+"Cry aloud; do not hold back;
+lift up your voice like a trumpet;
+declare to my people their transgression,
+to the house of Jacob their sins.
+Yet they seek me daily
+and delight to know my ways,
+as if they were a nation that did righteousness
+and did not forsake the judgment of their God;
+they ask of me righteous judgments;
+they delight to draw near to God.
+Why have we fasted, and you see it not?
+Why have we humbled ourselves, and you take no knowledge of it?’
+Behold, in the day of your fast you seek your own pleasure,
+and oppress all your workers.
+Behold, you fast only to quarrel and to fight
+and to hit with a wicked fist.
+Fasting like yours this day
+will not make your voice to be heard on high.
+Is such the fast that I choose,
+a day for a person to humble himself?
+Is it to bow down his head like a reed,
+and to spread sackcloth and ashes under him?
+Will you call this a fast,
+and a day acceptable to the LORD?
 
 ## Pray for Sarah and her friends
 
@@ -395,4 +421,3 @@ Now when they heard of the resurrection of the dead, some mocked. But others sai
 
 After this Paul left Athens and went to Corinth. And he found a Jew named Aquila, a native of Pontus, recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. And he went to see them, and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade. And he reasoned in the synagogue every Sabbath, and tried to persuade Jews and Greeks.
 When Silas and Timothy arrived from Macedonia, Paul was occupied with the word, testifying to the Jews that the Christ was Jesus. And when they opposed and reviled him, he shook out his garments and said to them, “Your blood be on your own heads! I am innocent. From now on I will go to the Gentiles.” And he left there and went to the house of a man named Titius Justus, a worshiper of God. His house was next door to the synagogue. Crispus, the ruler of the synagogue, believed in the Lord, together with his entire household. And many of the Corinthians hearing Paul believed and were baptized. And the Lord said to Paul one night in a vision, “Do not be afraid, but go on speaking and do not be silent, for I am with you, and no one will attack you to harm you, for I have many in this city who are my people.” And he stayed a year and six months, teaching the word of God among them.
-
