@@ -97,31 +97,65 @@ Aimee & James
 
 ### Antioch Norman
 
-<pre><b>
-Ashley   Eddy     Sarah M  
-Tatenda  Jackie   Katrina
-Abby     A.C.
-Noah     Abbie    Oscar
-Rin      Carol    Cheryl   
-Laurel   Amy      Kylie
-Courtney Tonu     Connie
-Faith    Hannah   Caroline    
-Max      Anjil    McKenzie
-Brad     Teala    Daniel   
-Elijah   Steve    Hannah
-Crystal  Kaitlin  Lark     
-Pam      Amanda   Raylie
-Leah     Rebekah  Alexis   
-Marisha  Julie    Rachel  
-Stacy    Stefanie Blake
-Carol    Eva      Desiree  
-Sam      Sunnie   Ray
-Shandra  Stephany Manasha
-Isaac    Kristen  Elisheba
-Susan    
-
-
-</b></pre>
+- Tatenda
+- Desiree
+- Manasha
+- Ashley
+- Abby
+- Noah
+- Rin
+- Laurel
+- Courtney
+- Faith
+- Max
+- Brad
+- Elijah
+- Crystal
+- Pam
+- Leah
+- Marisha
+- Stacy
+- Carol
+- Sam
+- Shandra
+- Isaac
+- Susan
+- Sarah M
+- Katrina
+- Oscar
+- Cheryl
+- Kylie
+- Connie
+- Caroline
+- McKenzie
+- Daniel
+- Hannah
+- Lark
+- Raylie
+- Alexis
+- Rachel
+- Blake
+- Ray
+- Eddy
+- Jackie
+- A.C.
+- Abbie
+- Carol
+- Amy
+- Tonu
+- Hannah
+- Anjil
+- Teala
+- Steve
+- Kaitlin
+- Amanda
+- Rebekah
+- Julie
+- Stefanie
+- Eva
+- Sunnie
+- Stephany
+- Kristen
 
 **Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny**
 
@@ -212,6 +246,8 @@ Susan
 **Mark & Mikala**
 
 **Robin & Bobby**
+
+**Elisheba**
 
 
 ## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.

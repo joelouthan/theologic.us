@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Thursday, 27 August 2020'
+title: 'Evening Prayers for Friday, 25 September 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-27T14:00:00-06:00
-url: /pm_prayers/2020-08-27-pm_prayers/
+publishDate: 2020-09-25T14:00:00-06:00
+url: /pm_prayers/2020-09-25-pm_prayers/
 categories:
  - Prayers
 tags:
