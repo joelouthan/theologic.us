@@ -13,6 +13,37 @@ draft: true
 
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+      Isaiah 58:6-12 (ESV) “Is not this the fast that I choose:
+      to loose the bonds of wickedness,
+      to undo the straps of the yoke,
+      to let the oppressed go free,
+      and to break every yoke?
+      Is it not to share your bread with the hungry
+      and bring the homeless poor into your house;
+      when you see the naked, to cover him,
+      and not to hide yourself from your own flesh?
+      Then shall your light break forth like the dawn,
+      and your healing shall spring up speedily;
+      your righteousness shall go before you;
+      the glory of the Lord shall be your rear guard.
+      Then you shall call, and the Lord will answer;
+      you shall cry, and he will say, ‘Here I am.’
+      If you take away the yoke from your midst,
+      the pointing of the finger, and speaking wickedness,
+      if you pour yourself out for the hungry
+      and satisfy the desire of the afflicted,
+      then shall your light rise in the darkness
+      and your gloom be as the noonday.
+      And the Lord will guide you continually
+      and satisfy your desire in scorched places
+      and make your bones strong;
+      and you shall be like a watered garden,
+      like a spring of water,
+      whose waters do not fail.
+      And your ancient ruins shall be rebuilt;
+      you shall raise up the foundations of many generations;
+      you shall be called the repairer of the breach,
+      the restorer of streets to dwell in.
 
 ## Pray for Sarah and her friends
 
@@ -120,7 +151,7 @@ A heart for people of Norman. Lord, GIVE ME MORE NAMES! So I can lift them up to
 
 Adjunct at Moore Norman Tech. This was completely and literally uncalled for.
 
-Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years.
+Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years. Lord, let this be resolved soon. But let this give you glory. Give me your path God. Lead me back to you.
 
 You know what you have provided. I cannot connect all the dots but I know you have always been my provision.
 
@@ -384,4 +415,12 @@ Lord bless my city and her people.
 
 **After this Paul left Athens and went to Corinth. And he found a Jew named Aquila, a native of Pontus, recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. And he went to see them, and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade. And he reasoned in the synagogue every Sabbath, and tried to persuade Jews and Greeks.**
 **When Silas and Timothy arrived from Macedonia, Paul was occupied with the word, testifying to the Jews that the Christ was Jesus. And when they opposed and reviled him, he shook out his garments and said to them, “Your blood be on your own heads! I am innocent. From now on I will go to the Gentiles.” And he left there and went to the house of a man named Titius Justus, a worshiper of God. His house was next door to the synagogue. Crispus, the ruler of the synagogue, believed in the Lord, together with his entire household. And many of the Corinthians hearing Paul believed and were baptized. And the Lord said to Paul one night in a vision, “Do not be afraid, but go on speaking and do not be silent, for I am with you, and no one will attack you to harm you, for I have many in this city who are my people.” And he stayed a year and six months, teaching the word of God among them.**
+
+You have many in this city that are your people. And you will save them from the outermost. you have not forgotten them nor abandoned them. 
+
+Be glorifed today.
+
+Lord, what is ours to do.
+
+Amen.
 

@@ -13,8 +13,16 @@ draft: true
 
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-
-
+      Isaiah 58:13-14 (ESV) If you turn back your foot from the Sabbath,
+      from doing your pleasure on my holy day,
+      and call the Sabbath a delight
+      and the holy day of the Lord honorable;
+      if you honor it, not going your own ways,
+      or seeking your own pleasure, or talking idly;
+      then you shall take delight in the Lord,
+      and I will make you ride on the heights of the earth;
+      I will feed you with the heritage of Jacob your father,
+      for the mouth of the Lord has spoken.”
 
 ## Those who have left church in Norman
 
@@ -307,6 +315,12 @@ Aimee & James
 - **Wildwood Church** - Mark & Kimberly, Joshua
 - **Church of the Nazarene** - Brent & Amy; Cameron, Dawson
 
+Lord,
+
+Guide me to pray for the rest of the churches in Norman.
+
+Amen.
+
 
 ## Frontline
 
@@ -350,6 +364,21 @@ HS Girls
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
+Lord,
+
+Save these kids.
+
+Douse them in your fire and let them burn.
+
+Save them tonight.
+
+Turn them away from sin and turn their hearts towards you.
+
+Today and forever. 
+
+We love you Lord. And we call on you to save your elect and elect some more.
+
+Amen.
 
 ## Frontline Norman
 
