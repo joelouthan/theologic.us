@@ -305,26 +305,27 @@ I love you so much.
 
 **Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
 - Healing for Timothy
-- Praise! Lauren to Epic
-- Going back to school
-- Norman is going virtual
+- Both back to teaching
 - Caden & Grasha ('hood kids)
 
+**Riley & Emily**
+- Due date: Sept 26!
+- Praying for a fat baby
+- Logan
+  - struggles with depression, panic attacks
+  - self-love & love for God; loves what we do but not what we say
+  - checked into Mayhill Hospital
+- gospel of Christ to the parents and brother and in the relationship
+
 **Scott & Melody, Emily, Adelyn, Caleb**
-- Returning back to the office starting (Thursday, Friday)
-- Melody's granddad Aleto - dehydrated; recovering from broken ribs
-- Mohammad the neighborhood kid
-- Wayne & Nicole: hard conversation; praying for Spirit-led conversation
-- Anna & Jordan: bless their marriage. I pray that they make you the center of their union. Bless them and keep them.
-- Scott’s parents: heal his mom from anxiety and fear and turn her heart towards you
-- Melody’s parents: deliver them from snares of Satan and keep their hearts turned towards you
+- Emily
+- Started school with students from everywhere
+- Abuelita (Granny) and Abuelito (Grandpa) - demensia, doesn't remember his wife for certain times of the day, grieving
 
 **Andrew & Andie**
-- Dad: new job! Praise God!
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
-- Blessing on their marriage and communication and conflict resolution
-- Andie: anxiety
-- Covid risks vs. Protection from God
+- Andie: visiting therapist, it's going well!
+- Kale, brother
 - Political season
 
 Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at night, and Daniel praised the God of the heavens and declared:
@@ -348,16 +349,6 @@ Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at nigh
       what we asked of you,
       for you have let us know
       the king’s mystery.
-
-**Riley & Emily**
-- Due date: Sept 26!
-- Praying for a fat baby
-- More sleep!
-- Logan
-   - struggles with depression; self-love & love for God; loves what we do but not what we say
-   - praise God for hard talks with parents
-   - parents chat with Logan
-- gospel of Christ to the parents and brother and in the relationship
 
 
 ## Family
