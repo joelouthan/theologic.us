@@ -13,6 +13,46 @@ draft: true
 
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+      Isaiah 59:1-8 (ESV) 
+      Behold, the Lord's hand is not shortened, that it cannot save,
+      or his ear dull, that it cannot hear;
+      but your iniquities have made a separation
+      between you and your God,
+      and your sins have hidden his face from you
+      so that he does not hear.
+      For your hands are defiled with blood
+      and your fingers with iniquity;
+      your lips have spoken lies;
+      your tongue mutters wickedness.
+      No one enters suit justly;
+      no one goes to law honestly;
+      they rely on empty pleas, they speak lies,
+      they conceive mischief and give birth to iniquity.
+      They hatch adders' eggs;
+      they weave the spider's web;
+      he who eats their eggs dies,
+      and from one that is crushed a viper is hatched.
+      Their webs will not serve as clothing;
+      men will not cover themselves with what they make.
+      Their works are works of iniquity,
+      and deeds of violence are in their hands.
+      Their feet run to evil,
+      and they are swift to shed innocent blood;
+      their thoughts are thoughts of iniquity;
+      desolation and destruction are in their highways.
+      The way of peace they do not know,
+      and there is no justice in their paths;
+      they have made their roads crooked;
+      no one who treads on them knows peace.
+
+My God,
+
+This was me. Then you saved me.
+
+Because you arm is not too shortened.
+
+Amen.
+
 
 ## Pray for Sarah and her friends
 
@@ -110,29 +150,10 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 My God,
 
-What have you done for me?
+What do you have for me to do?
 
-I will thank you and praise you!
+Be glorified today.
 
-Intern at the church you have sent me to and the one I love.
-
-A heart for people of Norman. Lord, GIVE ME MORE NAMES! So I can lift them up to you.
-
-Adjunct at Moore Norman Tech. This was completely and literally uncalled for.
-
-Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years.
-
-You know what you have provided. I cannot connect all the dots but I know you have always been my provision.
-
-What else? I don't even know. But you are my God and Lord.
-
-But Lord, all of this is good. But how do I point others towards you? Give me gifts so you can turn other hearts towards you.
-
-All of this means nothing if it is not for your glory.
-
-Lord, I pray that you have many many people here in this city. Call on me to preach and minister your Word to them.
-
-Amen.
 
 
 ## For those who do not know You
