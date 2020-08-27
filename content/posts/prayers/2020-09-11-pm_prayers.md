@@ -94,6 +94,7 @@ Aimee & James
 
 **Tom Gardner**
 
+### Antioch OKC
 
 ### Antioch Norman
 
@@ -261,6 +262,7 @@ Aimee & James
 **Pastor Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
 **All the churches in Norman**
+- **Antioch OKC** 
 - **LifeSpring Church** Jeff Robinett
 - **Northgate Baptist** 
 - **Calgary Church** - Daniel & Jamie Sweets, Lukas, Karis, Selah, & Zoe
