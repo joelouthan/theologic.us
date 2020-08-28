@@ -13,6 +13,13 @@ draft: true
 
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+      Isaiah 59:14-15 (ESV) Justice is turned back,
+      and righteousness stands far away;
+      for truth has stumbled in the public squares,
+      and uprightness cannot enter.
+      Truth is lacking,
+      and he who departs from evil makes himself a prey.
+
 
 ## Pray for Sarah and her friends
 

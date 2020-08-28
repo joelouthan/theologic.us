@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Monday, 31 August 2020'
+title: 'Evening Prayers for Monday, 28 September 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-08-31T14:00:00-06:00
-url: /pm_prayers/2020-08-31-pm_prayers/
+publishDate: 2020-09-28T14:00:00-06:00
+url: /pm_prayers/2020-09-28-pm_prayers/
 categories:
  - Prayers
 tags:

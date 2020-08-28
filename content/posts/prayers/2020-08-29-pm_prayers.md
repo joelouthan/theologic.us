@@ -57,14 +57,16 @@ Aimee & James
 ## Prayers for those who are trapped in NAR churches
 
 
-### Gateway Church
+## Gateway Church
 
 **Kristi**
 
 **Camille**
 
+**Court & Lauryn, kids**
 
-### Catch the Fire DFW
+
+## Catch the Fire DFW
 
 **Alan Smith**
 
@@ -94,9 +96,9 @@ Aimee & James
 
 **Tom Gardner**
 
-### Antioch OKC
+## Antioch OKC
 
-### Antioch Norman
+## Antioch Norman
 
 - Tatenda
 - Desiree
@@ -250,10 +252,10 @@ Aimee & James
 
 **Elisheba**
 
-## 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
+> 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
 
-## Church
+## Churches
 
 **Pastor Bruce Parnell, Stillwater RPC, Stillwater, OK**
 
@@ -261,8 +263,10 @@ Aimee & James
 
 **Pastor Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
-**All the churches in Norman**
+## All the churches in Norman
+
 - **Antioch OKC** 
+- **Everlasting Life Baptist Church** - Terry & Carol Wilson 
 - **LifeSpring Church** Jeff Robinett
 - **Northgate Baptist** 
 - **Calgary Church** - Daniel & Jamie Sweets, Lukas, Karis, Selah, & Zoe
@@ -281,7 +285,6 @@ Aimee & James
 - **Memorial Presbyterian Church** - Rev. Tracy Evans
 - **Church on Fire** - Pastors David and Tamara McGrew
 - **Summit Church** - Todd Theissen
-- **Westside Church of Christ** 
 - **West Wind UUC** - Minister Andy Jacobs
 - **Truth Church** - Pastor Jimmy  and Sabrina Smith
 - **First Presbyterian Church** - Rev. Michael East
@@ -293,7 +296,6 @@ Aimee & James
 - **Community Missionary Baptist Church** - Richard Gaines
 - **Trinity Lutheran Church** - Pastor David Nehrenz & Vicar Rob Schrader
 - **Norman Seventh Day Adventist Church** - Harvey Gil
-- **Alameda Church of Christ** - Rusty Tugman
 - **Alameda Baptist Church** - Tristan & Gayla Martin, kids
 - **St. Joseph Catholic Churc** - Father Joseph Irwin 
 - **Southern Oklahoma Chinese Baptist Church** - David & Linda Chan
@@ -307,7 +309,30 @@ Aimee & James
 - **Seeker Church** - Russ & Janna Martin
 - **Impact Church Norman** - Eddie and Leigh Thompson
 - **Wildwood Church** - Mark & Kimberly, Joshua
-- **Church of the Nazarene** - Brent & Amy; Cameron, Dawson
+- **Church of the Nazarene** - Brent & Amy, Cameron, Dawson
+- **Grace Evangelical Lutheran Church** - John & Robin Vieths, kids
+- **Go Church** - Pastor Chad & Helen Bartlett
+- **Southern Canadian Valley Church of Christ**
+- **St. Michael's Episcopal Church** - Rev. Dr. Jason Haddox & Rev. Laura Blazek
+- **Westside Church of Christ**
+  * Greg Giltner
+  * Philip Johnson
+  * Jeff Jennings
+  * Ken Snethen
+  * Tracey Talley
+- **Redeemer Church** - Andy & Christy McDonald, Jachin, Kimberlyn, Bo, Berline, and Caleb
+- **the church in Norman** - (Watchman Nee)
+- **Alameda Church of Christ** - Rusty & Mitzi Tugman, Hope & Cooper
+- **St. Thomas More** - Rev. James A Goins
+- **Christian Center Church** - Pastors Derek and Diane Heldreth
+- **Christ the King Presbyterian Church** - Mike & Janna Biggs
+- **CrossPointe Church** - Mike & Debbie Butler
+- **Norman Korean Baptist Church** - Senior Pastor Yeon-Seung Yang
+- **Bethel Baptist** - Matt Brown, wife & fam
+- **St. Anselm of Canterbury** - Blake Woods
+- **University Lutheran Church** - Revd. Joseph E. Summerville, III, Donna, Brendan
+- **Grace Fellowship Norman** - Rick & Andrea Anthony
+- **The Wesley** - Joshua & Bonny Coats, Eli, Adelyn
 
 
 ## Frontline
@@ -400,7 +425,8 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
-**House Churches** 
+
+## House Churches
 
 Lord, would you raise up even more leaders for Norman. No matter what direction we take please tap more leaders.  More musicians. More of your Son in each of us so it won’t be dependent on any of us but on you alone.  
 

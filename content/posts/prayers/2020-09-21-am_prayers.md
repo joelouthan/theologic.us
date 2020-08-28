@@ -110,27 +110,13 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 My God,
 
-What have you done for me?
+You asked me if I wanted to preach?
 
-I will thank you and praise you!
+"Do you want to preach?"
 
-Intern at the church you have sent me to and the one I love.
+Of course I do.
 
-A heart for people of Norman. Lord, GIVE ME MORE NAMES! So I can lift them up to you.
-
-Adjunct at Moore Norman Tech. This was completely and literally uncalled for.
-
-Possibility of senior tech writer with Red Hat? Who would have thought? Not in a million years.
-
-You know what you have provided. I cannot connect all the dots but I know you have always been my provision.
-
-What else? I don't even know. But you are my God and Lord.
-
-But Lord, all of this is good. But how do I point others towards you? Give me gifts so you can turn other hearts towards you.
-
-All of this means nothing if it is not for your glory.
-
-Lord, I pray that you have many many people here in this city. Call on me to preach and minister your Word to them.
+Lord, provide for me the Word and your Word.
 
 Amen.
 
