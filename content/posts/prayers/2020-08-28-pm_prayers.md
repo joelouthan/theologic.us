@@ -13,8 +13,40 @@ draft: true
 
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
+Isaiah 59:14-21
+Judgment and Redemption
+Justice is turned back,
+and righteousness stands far away;
+for truth has stumbled in the public squares,
+and uprightness cannot enter.
+Truth is lacking,
+and he who departs from evil makes himself a prey.
+The LORD saw it, and it displeased him
+that there was no justice.
+He saw that there was no man,
+and wondered that there was no one to intercede;
+then his own arm brought him salvation,
+and his righteousness upheld him.
+He put on righteousness as a breastplate,
+and a helmet of salvation on his head;
+he put on garments of vengeance for clothing,
+and wrapped himself in zeal as a cloak.
+According to their deeds, so will he repay,
+wrath to his adversaries, repayment to his enemies;
+to the coastlands he will render repayment.
+So they shall fear the name of the LORD from the west,
+and his glory from the rising of the sun;
+for he will come like a rushing stream,
+which the wind of the LORD drives.
+“And a Redeemer will come to Zion,
+to those in Jacob who turn from transgression,” declares the LORD.
+“And as for me, this is my covenant with them,” says the LORD: “My Spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring,” says the LORD, “from this time forth and forevermore.”
 
+Lord,
 
+Remind me of my father in Heaven. He is like no other. He is high above. And he saved me. 
+
+Blessed be the rock of my salvation. 
 
 ## Those who have left church in Norman
 
@@ -449,3 +481,10 @@ Then he left the crowds and went into the house. And his disciples came to him, 
 
 And when Jesus had finished these parables, he went away from there, and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works? Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? And are not all his sisters with us? Where then did this man get all these things?” And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own household.” And he did not do many mighty works there, because of their unbelief.
 
+O Lord,
+
+I thank you and praise your for the churches in Norman
+
+Bless them. Keep me. Have your way in them.  But be gracious and merciful.  Save them to you.  Raise your son up high.  Descend your spirt upon them. 
+
+Amen. Now and forever amen. 
