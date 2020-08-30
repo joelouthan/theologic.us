@@ -13,8 +13,24 @@ draft: true
 
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-
-
+Isaiah 60:4-7
+Lift up your eyes all around, and see;
+they all gather together, they come to you;
+your sons shall come from afar,
+and your daughters shall be carried on the hip.
+Then you shall see and be radiant;
+your heart shall thrill and exult,
+because the abundance of the sea shall be turned to you,
+the wealth of the nations shall come to you.
+A multitude of camels shall cover you,
+the young camels of Midian and Ephah;
+all those from Sheba shall come.
+They shall bring gold and frankincense,
+and shall bring good news, the praises of the LORD.
+All the flocks of Kedar shall be gathered to you;
+the rams of Nebaioth shall minister to you;
+they shall come up with acceptance on my altar,
+and I will beautify my beautiful house.
 
 ## Those who have left church in Norman
 

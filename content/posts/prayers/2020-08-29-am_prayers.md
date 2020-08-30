@@ -13,6 +13,16 @@ draft: true
 
 ## Give thanks to the Lord, for He is good and His steadfast love endures forever
 
+Isaiah 60:1-3
+The Future Glory of Israel
+Arise, shine, for your light has come,
+and the glory of the LORD has risen upon you.
+For behold, darkness shall cover the earth,
+and thick darkness the peoples;
+but the LORD will arise upon you,
+and his glory will be seen upon you.
+And nations shall come to your light,
+and kings to the brightness of your rising.
 
 ## Pray for Sarah and her friends
 
