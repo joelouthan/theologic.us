@@ -268,7 +268,7 @@ Aimee & James Coker
 
 > 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 
-## Prayer for churches
+# Prayer for churches
 
 **Pastor Bruce Parnell, Stillwater RPC, Stillwater, OK**
 
@@ -449,7 +449,7 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 Lord, be glorified in our homes and in our city. Today. 
 
 
-## Prayer for the Nations
+# Prayer for the Nations
 
 > **Matthew 13 (CSB) On that day Jesus went out of the house and was sitting by the sea. Such large crowds gathered around him that he got into a boat and sat down, while the whole crowd stood on the shore.**
 >

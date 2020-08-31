@@ -15,7 +15,13 @@ draft: true
 
 
 
-## Pray for Sarah and her friends
+# Pray to preach the gospel
+
+> **2 Timothy 1:6-12 (CSB) Therefore, I remind you to rekindle the gift of God that is in you through the laying on of my hands. For God has not given us a spirit of fear, but one of power, love, and sound judgment.**
+
+> **So don’t be ashamed of the testimony about our Lord, or of me his prisoner. Instead, share in suffering for the gospel, relying on the power of God. He has saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before time began. This has now been made evident through the appearing of our Savior Christ Jesus, who has abolished death and has brought life and immortality to light through the gospel. For this gospel I was appointed a herald, apostle, and teacher, and that is why I suffer these things. But I am not ashamed, because I know whom I have believed and am persuaded that he is able to guard what has been entrusted to me until that day.**
+
+# for Sarah and her friends
 
 **Sarah & Melissa**
 
@@ -34,7 +40,7 @@ Please bring Christ-exalting, cross-prophesying, blood covered, Spirit-filled, G
 In our lives and in our friendship, relationship, and marriage, Lord, be glorified today.
 
 
-## Give thanks
+# Give thanks
 
 Lord, 
 
@@ -61,7 +67,7 @@ I called on you. And you answered. And you came to their rescue.
 You are my wonderful God in heaven.
 
 
-## For healing
+# For healing
 
 My Lord,
 
@@ -86,7 +92,7 @@ Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to the
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 
-## Daily Prayers
+# Daily
 
 On marriage: **Sarah, my love** 
 
@@ -111,7 +117,7 @@ On glory of God: **“On Christ’s glory I would fix all my thoughts and desire
 On his provision: **Lord, anything you give will be good enough for me.**
 
 
-## Next steps
+# Next steps
 
 My God,
 
@@ -126,7 +132,7 @@ Lord, provide for me the Word and your Word.
 Amen.
 
 
-## For those who do not know You
+# For those who do not know You
 
 My Lord above,
 
@@ -213,7 +219,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 **Evan & Kaylee, Everett, Baby**
 
 
-## Friends
+# Friends
 
 **Sarah & Josiah**
 
@@ -276,7 +282,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 - Jen and Diddy 
 
 
-## Discipleship Group
+# Discipleship Group
 
 Lord,
 
@@ -341,7 +347,7 @@ I love you so much.
 > **the king’s mystery.**
 
 
-## Family
+# Family
 
 **Sarah, Yusef, Elijah, Ivy, Ava**
 
@@ -352,7 +358,7 @@ Lord, how do I minister to Jason? How do I share the gospel with words and my de
 Save his soul in this moment. Spirit, please do you work.
 
 
-## City of Norman
+# City of Norman
 
 **Kids back to virtual school with working parent(s)**
 
