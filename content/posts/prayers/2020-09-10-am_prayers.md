@@ -11,7 +11,8 @@ tags:
 draft: true
 ---
 
-## Give thanks to the Lord, for He is good and His steadfast love endures forever
+> **Psalms 106:1 (ESV) Praise the LORD! Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!**
+
 
 
 ## Pray for Sarah and her friends
@@ -37,17 +38,21 @@ In our lives and in our friendship, relationship, and marriage, Lord, be glorifi
 
 Lord, 
 
-      I give thanks to you, Almighty God. 
-      There is none like you. 
-      
-      I worship you, O Prince of Peace, 
-      that is what I long to do.
-      
-      I'll give you praise 
-      for you alone are my righteousness.
-      
-      I worship you, Almighty God. 
-      There is none like you.
+I give thanks to you, Almighty God. 
+
+There is none like you. 
+
+I worship you, O Prince of Peace, 
+
+that is what I long to do.
+
+I'll give you praise 
+
+for you alone are my righteousness.
+
+I worship you, Almighty God. 
+
+There is none like you.
 
 You have answered my prayers time and time and time again.
 
@@ -70,7 +75,7 @@ Heal Kim Feighner - Lord, you are her healer and strength. But God, she trembles
 
 Heal Randy (Jordan Mayfield's dad) - medical complications and lots of attention; praying for healing and peace
 
-Heal Ron & Karen
+Heal Ron & Karen - Lord, would you give Ron strength one more time to walk his daughter down the aisle?
 
 Heal Kathleen (Leah's mom)
 
@@ -81,7 +86,7 @@ Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to the
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
 
-## Daily
+## Daily Prayers
 
 On marriage: **Sarah, my love** 
 
@@ -275,7 +280,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 Lord,
 
-There is war outside no man is ever safe from. There is an full assault on your sons and daughters. Satan and his demons and the world is waging against us and it is all out.
+There is an full assault on your sons and daughters. Satan and his demons and the world is waging against us and it is all out.
 
 God, you shall protect us because you are our shield.
 
@@ -314,27 +319,26 @@ I love you so much.
 - Kale, brother
 - Political season
 
-Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at night, and Daniel praised the God of the heavens and declared:
-
-      May the name of God
-      be praised forever and ever,
-      for wisdom and power belong to him.
-      He changes the times and seasons;
-      he removes kings and establishes kings.
-      He gives wisdom to the wise
-      and knowledge to those
-      who have understanding.
-      He reveals the deep and hidden things;
-      he knows what is in the darkness,
-      and light dwells with him.
-      I offer thanks and praise to you,
-      God of my ancestors,
-      because you have given me
-      wisdom and power.
-      And now you have let me know
-      what we asked of you,
-      for you have let us know
-      the king’s mystery.
+> **Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at night, and Daniel praised the God of the heavens and declared:**
+>
+> **May the name of God be praised forever and ever,** 
+> **for wisdom and power belong to him.**
+> **He changes the times and seasons;** 
+> **he removes kings and establishes kings.**
+> **He gives wisdom to the wise**
+> **and knowledge to those**
+> **who have understanding.**
+> **He reveals the deep and hidden things;**
+> **he knows what is in the darkness,**
+> **and light dwells with him.**
+> **I offer thanks and praise to you,**
+> **God of my ancestors,**
+> **because you have given me**
+> **wisdom and power.**
+> **And now you have let me know**
+> **what we asked of you,**
+> **for you have let us know**
+> **the king’s mystery.**
 
 
 ## Family
@@ -364,10 +368,13 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 Lord bless my city and her people. 
 
-**1 Chronicles 29:18 O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.**
+> **1 Chronicles 29:18 O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.**
 
-**Acts 17:32 - 18:11 Now when they heard of the resurrection of the dead, some mocked. But others said, “We will hear you again about this.” So Paul went out from their midst. But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.**
+> **Acts 17:32 - 18:11 (CSB) When they heard about the resurrection of the dead, some began to ridicule him, but others said, “We’d like to hear from you again about this.” So Paul left their presence. However, some people joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others with them.**
 
-**After this Paul left Athens and went to Corinth. And he found a Jew named Aquila, a native of Pontus, recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. And he went to see them, and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade. And he reasoned in the synagogue every Sabbath, and tried to persuade Jews and Greeks.**
-**When Silas and Timothy arrived from Macedonia, Paul was occupied with the word, testifying to the Jews that the Christ was Jesus. And when they opposed and reviled him, he shook out his garments and said to them, “Your blood be on your own heads! I am innocent. From now on I will go to the Gentiles.” And he left there and went to the house of a man named Titius Justus, a worshiper of God. His house was next door to the synagogue. Crispus, the ruler of the synagogue, believed in the Lord, together with his entire household. And many of the Corinthians hearing Paul believed and were baptized. And the Lord said to Paul one night in a vision, “Do not be afraid, but go on speaking and do not be silent, for I am with you, and no one will attack you to harm you, for I have many in this city who are my people.” And he stayed a year and six months, teaching the word of God among them.**
+> **After this, he left Athens and went to Corinth, where he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul came to them, and since they were of the same occupation, tentmakers by trade, he stayed with them and worked. He reasoned in the synagogue every Sabbath and tried to persuade both Jews and Greeks.**
+
+> **When Silas and Timothy arrived from Macedonia, Paul devoted himself to preaching the word and testified to the Jews that Jesus is the Messiah. When they resisted and blasphemed, he shook out his clothes and told them, “Your blood is on your own heads! I am innocent. From now on I will go to the Gentiles.” So he left there and went to the house of a man named Titius Justus, a worshiper of God, whose house was next door to the synagogue. Crispus, the leader of the synagogue, believed in the Lord, along with his whole household. Many of the Corinthians, when they heard, believed and were baptized.**
+
+> **The Lord said to Paul in a night vision, “Don’t be afraid, but keep on speaking and don’t be silent. For I am with you, and no one will lay a hand on you to hurt you, because I have many people in this city.” He stayed there a year and a half, teaching the word of God among them.**
 

@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Wednesday, 23 September 2020'
+title: 'Morning Prayers for Thursday, 1 October 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-09-23T08:00:00-06:00
-url: /am_prayers/2020-09-23-am_prayers/
+publishDate: 2020-10-01T08:00:00-06:00
+url: /am_prayers/2020-10-01-am_prayers/
 categories:
  - Prayers
 tags:
