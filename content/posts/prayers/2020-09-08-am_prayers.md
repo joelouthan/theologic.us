@@ -129,7 +129,9 @@ Of course I do.
 
 Lord, provide for me the Word and your Word.
 
-Amen.
+Also, Lord, in concerning strength training, memorizing Scripture, and writing, what would you have me do?
+
+Amen
 
 
 # For those who do not know You
