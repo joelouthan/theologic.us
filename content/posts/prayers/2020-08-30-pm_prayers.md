@@ -13,7 +13,28 @@ draft: true
 
 ## Acts 20:24 But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
 
-
+Isaiah 60:10-14
+Foreigners shall build up your walls,
+and their kings shall minister to you;
+for in my wrath I struck you,
+but in my favor I have had mercy on you.
+Your gates shall be open continually;
+day and night they shall not be shut,
+that people may bring to you the wealth of the nations,
+with their kings led in procession.
+For the nation and kingdom
+that will not serve you shall perish;
+those nations shall be utterly laid waste.
+The glory of Lebanon shall come to you,
+the cypress, the plane, and the pine,
+to beautify the place of my sanctuary,
+and I will make the place of my feet glorious.
+The sons of those who afflicted you
+shall come bending low to you,
+and all who despised you
+shall bow down at your feet;
+they shall call you the City of the LORD,
+the Zion of the Holy One of Israel.
 
 
 ## Those who have left church in Norman
