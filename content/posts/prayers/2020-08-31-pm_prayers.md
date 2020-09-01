@@ -13,7 +13,35 @@ draft: true
 
 > **Acts 20:24 (CSB) But I consider my life of no value to myself; my purpose is to finish my course and the ministry I received from the Lord Jesus, to testify to the gospel of God’s grace.**
 
-
+Isaiah 60:17-22
+I will bring gold instead of bronze;
+I will bring silver instead of iron,
+bronze instead of wood,
+and iron instead of stones.
+I will appoint peace as your government
+and righteousness as your overseers.
+Violence will never again be heard of in your land;
+devastation and destruction
+will be gone from your borders.
+You will call your walls Salvation
+and your city gates Praise.
+The sun will no longer be your light by day,
+and the brightness of the moon will not shine on you.
+The LORD will be your everlasting light,
+and your God will be your splendor.
+Your sun will no longer set,
+and your moon will not fade;
+for the LORD will be your everlasting light,
+and the days of your sorrow will be over.
+All your people will be righteous;
+they will possess the land forever;
+they are the branch I planted,
+the work of my hands,
+so that I may be glorified.
+The least will become a thousand,
+the smallest a mighty nation.
+I am the LORD;
+I will accomplish it quickly in its time.
 
 # Pray for those who have left church in Norman
 

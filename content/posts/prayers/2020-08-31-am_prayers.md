@@ -13,7 +13,17 @@ draft: true
 
 > **Psalms 106:1 (ESV) Praise the LORD! Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!**
 
+Isaiah 60:15-16
+Whereas you have been forsaken and hated,
+with no one passing through,
+I will make you majestic forever,
+a joy from age to age.
+You shall suck the milk of nations;
+you shall nurse at the breast of kings;
+and you shall know that I, the LORD, am your Savior
+and your Redeemer, the Mighty One of Jacob.
 
+Then on your promises I will glorify your name in all the earth. 
 
 ## Pray for Sarah and her friends
 
