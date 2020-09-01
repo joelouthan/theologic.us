@@ -13,7 +13,65 @@ draft: true
 
 > **Psalms 106:1 (ESV) Praise the LORD! Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!**
 
+> **Isaiah 61 (CSB)**
+> **The Spirit of the Lord GOD is on me,**
+> **because the LORD has anointed me**
+> **to bring good news to the poor.**
+> **He has sent me to heal the brokenhearted,**
+> **to proclaim liberty to the captives**
+> **and freedom to the prisoners;**
+> **to proclaim the year of the LORD’s favor,**
+> **and the day of our God’s vengeance;**
+> **to comfort all who mourn,**
+> **to provide for those who mourn in Zion;**
+> **to give them a crown of beauty instead of ashes,**
+> **festive oil instead of mourning,**
+> **and splendid clothes instead of despair.**
+> **And they will be called righteous trees,**
+> **planted by the LORD**
+> **to glorify him.**
 
+> **They will rebuild the ancient ruins;**
+> **they will restore the former devastations;**
+> **they will renew the ruined cities,**
+> **the devastations of many generations.**
+
+> **Strangers will stand and feed your flocks,**
+> **and foreigners will be your plowmen and vinedressers.**
+
+> **But you will be called the LORD’s priests;**
+> **they will speak of you as ministers of our God;**
+> **you will eat the wealth of the nations,**
+> **and you will boast in their riches.**
+
+> **In place of your shame, you will have a double portion;**
+> **in place of disgrace, they will rejoice over their share.**
+
+> **So they will possess double in their land,**
+> **and eternal joy will be theirs.**
+
+> **For I the LORD love justice;**
+> **I hate robbery and injustice;**
+> **I will faithfully reward my people**
+> **and make a permanent covenant with them.**
+
+> **Their descendants will be known among the nations,**
+> **and their posterity among the peoples.**
+
+> **All who see them will recognize**
+> **that they are a people the LORD has blessed.**
+
+> **I rejoice greatly in the LORD,**
+> **I exult in my God;**
+> **for he has clothed me with the garments of salvation**
+> **and wrapped me in a robe of righteousness,**
+> **as a groom wears a turban**
+> **and as a bride adorns herself with her jewels.**
+
+> **For as the earth produces its growth,**
+> **and as a garden enables what is sown to spring up,**
+> **so the Lord GOD will cause righteousness and praise**
+> **to spring up before all the nations.**
 
 # Pray to preach the gospel
 
