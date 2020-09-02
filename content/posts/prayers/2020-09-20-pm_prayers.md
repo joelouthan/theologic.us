@@ -324,7 +324,7 @@ Aimee & James Coker
 
 **Elisheba**
 
-> 1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
+> **1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.**
 
 # Prayer for churches
 

@@ -360,26 +360,31 @@ Shatter the gates of hell.
 
 I love you so much.
 
-**Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel**
+## Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
 - Healing for Timothy
+- To be present
+- Lauren: fighting for self-worth, self-care
+- Midday prayers
 - Both back to teaching
 - Caden & Grasha ('hood kids)
+- My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road. 
 
-**Riley & Emily**
+## Riley & Emily
 - Due date: Sept 26!
 - Praying for a fat baby
+- Prayer against preeclampsia
 - Logan
-  - struggles with depression, panic attacks
+  - Bipolar
   - self-love & love for God; loves what we do but not what we say
   - checked into Mayhill Hospital
 - gospel of Christ to the parents and brother and in the relationship
 
-**Scott & Melody, Emily, Adelyn, Caleb**
+## Scott & Melody, Emily, Adelyn, Caleb
 - Emily
 - Started school with students from everywhere
 - Abuelita (Granny) and Abuelito (Grandpa) - demensia, doesn't remember his wife for certain times of the day, grieving
 
-**Andrew & Andie**
+## Andrew & Andie
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Andie: visiting therapist, it's going well!
 - Kale, brother
