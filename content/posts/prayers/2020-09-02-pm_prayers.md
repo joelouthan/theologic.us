@@ -564,5 +564,5 @@ Lord, be glorified in our homes and in our city. Today.
 > **When Jesus had finished these parables, he left there. He went to his hometown and began to teach them in their synagogue, so that they were astonished and said, “Where did this man get this wisdom and these miraculous powers? Isn’t this the carpenter’s son? Isn’t his mother called Mary, and his brothers James, Joseph, Simon, and Judas? And his sisters, aren’t they all with us? So where does he get all these things?” And they were offended by him.**
 >
 > **Jesus said to them, “A prophet is not without honor except in his hometown and in his household.” And he did not do many miracles there because of their unbelief.**
->
 
+Amen
