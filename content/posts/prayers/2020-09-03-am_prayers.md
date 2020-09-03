@@ -449,3 +449,5 @@ Lord bless my city and her people.
 
 > **The Lord said to Paul in a night vision, “Don’t be afraid, but keep on speaking and don’t be silent. For I am with you, and no one will lay a hand on you to hurt you, because I have many people in this city.” He stayed there a year and a half, teaching the word of God among them.**
 
+Amen
+
