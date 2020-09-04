@@ -13,65 +13,56 @@ draft: true
 
 > **Psalms 106:1 (ESV) Praise the LORD! Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!**
 
-> **Isaiah 61 (CSB)**
-> **The Spirit of the Lord GOD is on me,**
+> **Isaiah 61 (ESV) The Spirit of the Lord GOD is upon me,**
 > **because the LORD has anointed me**
-> **to bring good news to the poor.**
-> **He has sent me to heal the brokenhearted,**
-> **to proclaim liberty to the captives**
-> **and freedom to the prisoners;**
-> **to proclaim the year of the LORD’s favor,**
-> **and the day of our God’s vengeance;**
-> **to comfort all who mourn,**
-> **to provide for those who mourn in Zion;**
-> **to give them a crown of beauty instead of ashes,**
-> **festive oil instead of mourning,**
-> **and splendid clothes instead of despair.**
-> **And they will be called righteous trees,**
-> **planted by the LORD**
-> **to glorify him.**
-
-> **They will rebuild the ancient ruins;**
-> **they will restore the former devastations;**
-> **they will renew the ruined cities,**
+> **to bring good news to the poor;**
+> **he has sent me to bind up the brokenhearted,**
+> **to proclaim liberty to the captives,**
+> **and the opening of the prison to those who are bound;**
+> **to proclaim the year of the LORD'S favor,**
+> **and the day of vengeance of our God;**
+> **to comfort all who mourn;**
+> **to grant to those who mourn in Zion—**
+> **to give them a beautiful headdress instead of ashes,**
+> **the oil of gladness instead of mourning,**
+> **the garment of praise instead of a faint spirit;**
+> **that they may be called oaks of righteousness,**
+> **the planting of the LORD, that he may be glorified.**
+> **They shall build up the ancient ruins;**
+> **they shall raise up the former devastations;**
+> **they shall repair the ruined cities,**
 > **the devastations of many generations.**
-
-> **Strangers will stand and feed your flocks,**
-> **and foreigners will be your plowmen and vinedressers.**
-
-> **But you will be called the LORD’s priests;**
-> **they will speak of you as ministers of our God;**
-> **you will eat the wealth of the nations,**
-> **and you will boast in their riches.**
-
-> **In place of your shame, you will have a double portion;**
-> **in place of disgrace, they will rejoice over their share.**
-
-> **So they will possess double in their land,**
-> **and eternal joy will be theirs.**
-
+> ****
+> **Strangers shall stand and tend your flocks;**
+> **foreigners shall be your plowmen and vinedressers;**
+> **but you shall be called the priests of the LORD;**
+> **they shall speak of you as the ministers of our God;**
+> **you shall eat the wealth of the nations,**
+> **and in their glory you shall boast.**
+> **Instead of your shame there shall be a double portion;**
+> **instead of dishonor they shall rejoice in their lot;**
+> **therefore in their land they shall possess a double portion;**
+> **they shall have everlasting joy.**
+> ****
 > **For I the LORD love justice;**
-> **I hate robbery and injustice;**
-> **I will faithfully reward my people**
-> **and make a permanent covenant with them.**
-
-> **Their descendants will be known among the nations,**
-> **and their posterity among the peoples.**
-
-> **All who see them will recognize**
-> **that they are a people the LORD has blessed.**
-
-> **I rejoice greatly in the LORD,**
-> **I exult in my God;**
-> **for he has clothed me with the garments of salvation**
-> **and wrapped me in a robe of righteousness,**
-> **as a groom wears a turban**
+> **I hate robbery and wrong;**
+> **I will faithfully give them their recompense,**
+> **and I will make an everlasting covenant with them.**
+> **Their offspring shall be known among the nations,**
+> **and their descendants in the midst of the peoples;**
+> **all who see them shall acknowledge them,**
+> **that they are an offspring the LORD has blessed.**
+> ****
+> **I will greatly rejoice in the LORD;**
+> **my soul shall exult in my God,**
+> **for he has clothed me with the garments of salvation;**
+> **he has covered me with the robe of righteousness,**
+> **as a bridegroom decks himself like a priest with a beautiful headdress,**
 > **and as a bride adorns herself with her jewels.**
-
-> **For as the earth produces its growth,**
-> **and as a garden enables what is sown to spring up,**
+> **For as the earth brings forth its sprouts,**
+> **and as a garden causes what is sown in it to sprout up,**
 > **so the Lord GOD will cause righteousness and praise**
-> **to spring up before all the nations.**
+> **to sprout up before all the nations.**
 
 # Pray to preach the gospel
 
