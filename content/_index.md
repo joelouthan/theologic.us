@@ -5,6 +5,8 @@ type: post
 date: 20200318T00:00:00-06:00
 
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
+
 # August 20, 2020 Pausing until September
 
 Lots of changes in my own life. Taking an extended break from writing. Will pick up by September 8th.
