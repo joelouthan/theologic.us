@@ -32,6 +32,7 @@ draft: true
 > **they shall raise up the former devastations;**
 > **they shall repair the ruined cities,**
 > **the devastations of many generations.**
+>
 > ****
 > **Strangers shall stand and tend your flocks;**
 > **foreigners shall be your plowmen and vinedressers;**
@@ -43,6 +44,7 @@ draft: true
 > **instead of dishonor they shall rejoice in their lot;**
 > **therefore in their land they shall possess a double portion;**
 > **they shall have everlasting joy.**
+>
 > ****
 > **For I the LORD love justice;**
 > **I hate robbery and wrong;**
@@ -440,3 +442,4 @@ Lord bless my city and her people.
 
 > **The Lord said to Paul in a night vision, “Don’t be afraid, but keep on speaking and don’t be silent. For I am with you, and no one will lay a hand on you to hurt you, because I have many people in this city.” He stayed there a year and a half, teaching the word of God among them.**
 
+Amen
