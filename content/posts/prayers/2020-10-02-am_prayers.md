@@ -32,7 +32,7 @@ draft: true
 > **they shall raise up the former devastations;**
 > **they shall repair the ruined cities,**
 > **the devastations of many generations.**
-> ****
+> 
 > **Strangers shall stand and tend your flocks;**
 > **foreigners shall be your plowmen and vinedressers;**
 > **but you shall be called the priests of the LORD;**
@@ -43,7 +43,7 @@ draft: true
 > **instead of dishonor they shall rejoice in their lot;**
 > **therefore in their land they shall possess a double portion;**
 > **they shall have everlasting joy.**
-> ****
+> 
 > **For I the LORD love justice;**
 > **I hate robbery and wrong;**
 > **I will faithfully give them their recompense,**
@@ -52,7 +52,7 @@ draft: true
 > **and their descendants in the midst of the peoples;**
 > **all who see them shall acknowledge them,**
 > **that they are an offspring the LORD has blessed.**
-> ****
+> 
 > **I will greatly rejoice in the LORD;**
 > **my soul shall exult in my God,**
 > **for he has clothed me with the garments of salvation;**
