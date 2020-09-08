@@ -115,6 +115,9 @@ I called on you. And you answered. And you came to their rescue.
 
 You are my wonderful God in heaven.
 
+God,
+
+I thank you for Oliver. I thank you for taking care of Emily! I thank you for sustaining Riley. Bless that little family. In Jesus' name!
 
 # For healing
 
@@ -133,8 +136,6 @@ Heal Randy (Jordan Mayfield's dad) - medical complications and lots of attention
 Heal Ron & Karen - Lord, would you give Ron strength one more time to walk his daughter down the aisle?
 
 Heal Kathleen (Leah's mom)
-
-Heal and be with Emily and the baby. Lord, let this not be a difficult pregnancy. But we have put our hope and trust into you alone, the only one who gives life.
 
 Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
 
@@ -361,13 +362,8 @@ I love you so much.
 - My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road. 
 
 ## Riley & Emily
-- Due date: Sept 26!
-- Praying for a fat baby
-- Prayer against preeclampsia
-- Logan
-  - Bipolar
-  - self-love & love for God; loves what we do but not what we say
-  - checked into Mayhill Hospital
+- Oliver is here!
+- Logan - How can I minister? Lord, draw him close. Lord, give me the words to say.
 - gospel of Christ to the parents and brother and in the relationship
 
 ## Scott & Melody, Emily, Adelyn, Caleb

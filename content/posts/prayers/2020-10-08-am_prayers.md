@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Thursday, 24 September 2020'
+title: 'Morning Prayers for Thursday, 8 October 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-09-24T08:00:00-06:00
-url: /am_prayers/2020-09-24-am_prayers/
+publishDate: 2020-10-08T08:00:00-06:00
+url: /am_prayers/2020-10-08-am_prayers/
 categories:
  - Prayers
 tags:
