@@ -566,3 +566,4 @@ Lord, be glorified in our homes and in our city. Today.
 > **Jesus said to them, “A prophet is not without honor except in his hometown and in his household.” And he did not do many miracles there because of their unbelief.**
 >
 
+Amen 
