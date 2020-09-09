@@ -361,13 +361,8 @@ I love you so much.
 - My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road. 
 
 ## Riley & Emily
-- Due date: Sept 26!
-- Praying for a fat baby
-- Prayer against preeclampsia
-- Logan
-  - Bipolar
-  - self-love & love for God; loves what we do but not what we say
-  - checked into Mayhill Hospital
+- Oliver is here!
+- Logan - more of you God!
 - gospel of Christ to the parents and brother and in the relationship
 
 ## Scott & Melody, Emily, Adelyn, Caleb
@@ -450,3 +445,11 @@ In what you hear
 Let it be a sweet sweet sound
 In your ear
 
+=======
+In my life, be lifted high.
+
+In my world, be lifted high.
+
+In your love, be lifted high.
+
+Amen
