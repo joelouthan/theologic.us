@@ -359,7 +359,9 @@ I love you so much.
 - Midday prayers
 - Both back to teaching
 - Caden & Grasha ('hood kids)
-- My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road. 
+- My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road.
+- Mike
+- Zachary & Samuel
 
 ## Riley & Emily
 - Oliver is here!
@@ -370,6 +372,8 @@ I love you so much.
 - Emily
 - Started school with students from everywhere
 - Abuelita (Granny) and Abuelito (Grandpa) - demensia, doesn't remember his wife for certain times of the day, grieving
+- Wayne & Nicole Barber
+- brother
 
 ## Andrew & Andie
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
