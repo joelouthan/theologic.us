@@ -190,6 +190,8 @@ My Lord above,
 
 Call on me. I will be obedient. Tell me with whom shall I share your good news: you are Jesus and you have saved his people from their sins. If they believe and trust in you, they will live. 
 
+**Chuck's sons, Zachary & Samuel**
+
 **Emily's mom, Cheri**
 
 **Yusef and Nichole** 
@@ -361,7 +363,7 @@ I love you so much.
 - Caden & Grasha ('hood kids)
 - My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road.
 - Mike
-- Zachary & Samuel
+- Zachary & Samuel - salvation
 
 ## Riley & Emily
 - Oliver is here!
