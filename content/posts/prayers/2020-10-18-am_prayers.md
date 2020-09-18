@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Tuesday, 29 September 2020'
+title: 'Morning Prayers for Sunday, 18 October 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-09-29T08:00:00-06:00
-url: /am_prayers/2020-09-29-am_prayers/
+publishDate: 2020-10-18T08:00:00-06:00
+url: /am_prayers/2020-10-18-am_prayers/
 categories:
  - Prayers
 tags:

@@ -10,65 +10,68 @@ tags:
  - 'Prayers'
 draft: true
 ---
+> **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
-# 2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.
+<pre><b>
+Isaiah 61 (ESV) 
+The Spirit of the Lord GOD is upon me,
+because the LORD has anointed me
+to bring good news to the poor;
+he has sent me to bind up the brokenhearted,
+to proclaim liberty to the captives,
+and the opening of the prison to those who are bound;
+to proclaim the year of the LORD'S favor,
+and the day of vengeance of our God;
+to comfort all who mourn;
+to grant to those who mourn in Zion—
+to give them a beautiful headdress instead of ashes,
+the oil of gladness instead of mourning,
+the garment of praise instead of a faint spirit;
+that they may be called oaks of righteousness,
+the planting of the LORD, that he may be glorified.
+They shall build up the ancient ruins;
+they shall raise up the former devastations;
+they shall repair the ruined cities,
+the devastations of many generations.
 
-> **Isaiah 61 (ESV) The Spirit of the Lord GOD is upon me,**
-> **because the LORD has anointed me**
-> **to bring good news to the poor;**
-> **he has sent me to bind up the brokenhearted,**
-> **to proclaim liberty to the captives,**
-> **and the opening of the prison to those who are bound;**
-> **to proclaim the year of the LORD'S favor,**
-> **and the day of vengeance of our God;**
-> **to comfort all who mourn;**
-> **to grant to those who mourn in Zion—**
-> **to give them a beautiful headdress instead of ashes,**
-> **the oil of gladness instead of mourning,**
-> **the garment of praise instead of a faint spirit;**
-> **that they may be called oaks of righteousness,**
-> **the planting of the LORD, that he may be glorified.**
-> **They shall build up the ancient ruins;**
-> **they shall raise up the former devastations;**
-> **they shall repair the ruined cities,**
-> **the devastations of many generations.**
-> 
-> **Strangers shall stand and tend your flocks;**
-> **foreigners shall be your plowmen and vinedressers;**
-> **but you shall be called the priests of the LORD;**
-> **they shall speak of you as the ministers of our God;**
-> **you shall eat the wealth of the nations,**
-> **and in their glory you shall boast.**
-> **Instead of your shame there shall be a double portion;**
-> **instead of dishonor they shall rejoice in their lot;**
-> **therefore in their land they shall possess a double portion;**
-> **they shall have everlasting joy.**
-> 
-> **For I the LORD love justice;**
-> **I hate robbery and wrong;**
-> **I will faithfully give them their recompense,**
-> **and I will make an everlasting covenant with them.**
-> **Their offspring shall be known among the nations,**
-> **and their descendants in the midst of the peoples;**
-> **all who see them shall acknowledge them,**
-> **that they are an offspring the LORD has blessed.**
-> 
-> **I will greatly rejoice in the LORD;**
-> **my soul shall exult in my God,**
-> **for he has clothed me with the garments of salvation;**
-> **he has covered me with the robe of righteousness,**
-> **as a bridegroom decks himself like a priest with a beautiful headdress,**
-> **and as a bride adorns herself with her jewels.**
-> **For as the earth brings forth its sprouts,**
-> **and as a garden causes what is sown in it to sprout up,**
-> **so the Lord GOD will cause righteousness and praise**
-> **to sprout up before all the nations.**
+Strangers shall stand and tend your flocks;
+foreigners shall be your plowmen and vinedressers;
+but you shall be called the priests of the LORD;
+they shall speak of you as the ministers of our God;
+you shall eat the wealth of the nations,
+and in their glory you shall boast.
+Instead of your shame there shall be a double portion;
+instead of dishonor they shall rejoice in their lot;
+therefore in their land they shall possess a double portion;
+they shall have everlasting joy.
+
+For I the LORD love justice;
+I hate robbery and wrong;
+I will faithfully give them their recompense,
+and I will make an everlasting covenant with them.
+Their offspring shall be known among the nations,
+and their descendants in the midst of the peoples;
+all who see them shall acknowledge them,
+that they are an offspring the LORD has blessed.
+
+I will greatly rejoice in the LORD;
+my soul shall exult in my God,
+for he has clothed me with the garments of salvation;
+he has covered me with the robe of righteousness,
+as a bridegroom decks himself like a priest with a beautiful headdress,
+and as a bride adorns herself with her jewels.
+For as the earth brings forth its sprouts,
+and as a garden causes what is sown in it to sprout up,
+so the Lord GOD will cause righteousness and praise
+to sprout up before all the nations.
+</b></pre>
 
 # Pray to preach the gospel
 
 > **2 Timothy 1:6-12 (CSB) Therefore, I remind you to rekindle the gift of God that is in you through the laying on of my hands. For God has not given us a spirit of fear, but one of power, love, and sound judgment.**
 
 > **So don’t be ashamed of the testimony about our Lord, or of me his prisoner. Instead, share in suffering for the gospel, relying on the power of God. He has saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before time began. This has now been made evident through the appearing of our Savior Christ Jesus, who has abolished death and has brought life and immortality to light through the gospel. For this gospel I was appointed a herald, apostle, and teacher, and that is why I suffer these things. But I am not ashamed, because I know whom I have believed and am persuaded that he is able to guard what has been entrusted to me until that day.**
+
 
 # for Sarah and her friends
 
@@ -115,9 +118,6 @@ I called on you. And you answered. And you came to their rescue.
 
 You are my wonderful God in heaven.
 
-God,
-
-I thank you for Oliver. I thank you for taking care of Emily! I thank you for sustaining Riley. Bless that little family. In Jesus' name!
 
 # For healing
 
@@ -127,8 +127,6 @@ I pray for that you would heal:
 
 Sean - vertigo double focus. Lord heal his mind and body. Give him rest and peace. Lord show him the love you have for him.
 
-Sam Im - that Christ would be magnified in his heart and soul and home and family and work and life!
-
 Heal Kim Feighner - Lord, you are her healer and strength. But God, she trembles in fear with sleep. I pray that you give her you unmatched and quite frankly, unknown and unexperienced peace that we cannot know in the natural but can only come by you--for you are holy and righteous and infinitely far from sin. You alone are good. Be her Comfort. Give her the fullness of your Spirit. Lord, that she may worship you all of her days.
 
 Heal Randy (Jordan Mayfield's dad) - medical complications and lots of attention; praying for healing and peace
@@ -137,7 +135,7 @@ Heal Ron & Karen - Lord, would you give Ron strength one more time to walk his d
 
 Heal Kathleen (Leah's mom)
 
-Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.  
+Heal Toneka & Justin. Heal her body. Heal their hearts. Bring your Spirit to them and give them peace.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
@@ -171,15 +169,9 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 My God,
 
-You asked me if I wanted to preach?
+I am so uncertain. What are my next steps? Direct me, Holy Spirit.
 
-"Do you want to preach?"
-
-Of course I do.
-
-Lord, provide for me the Word and your Word.
-
-Also, Lord, in concerning strength training, memorizing Scripture, and writing, what would you have me do?
+But I will praise you for the triple blessings of being with the staff. Bless them and keep them always.
 
 Amen
 
@@ -191,6 +183,8 @@ My Lord above,
 Call on me. I will be obedient. Tell me with whom shall I share your good news: you are Jesus and you have saved his people from their sins. If they believe and trust in you, they will live. 
 
 **Chuck's sons, Zachary & Samuel**
+
+**Aussie's folks: Brad & Gay, 3 brothers**
 
 **Emily's mom, Cheri**
 
@@ -367,43 +361,22 @@ I love you so much.
 
 ## Riley & Emily
 - Oliver is here!
-- Logan - How can I minister? Lord, draw him close. Lord, give me the words to say.
 - gospel of Christ to the parents and brother and in the relationship
 
 ## Scott & Melody, Emily, Adelyn, Caleb
 - Emily
+- Logan
 - Started school with students from everywhere
-- Abuelita (Granny) and Abuelito (Grandpa) - demensia, doesn't remember his wife for certain times of the day, grieving
+- Melody's mom & grandma - protection from exposure
 - Wayne & Nicole Barber
 - brother
 
 ## Andrew & Andie
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
-- Andie: visiting therapist, it's going well!
+- Andie: visiting therapist, it's going well! Anxiety!
 - Kale, brother
-- Political season
-
-> **Daniel 2:19-23 (CSB) The mystery was then revealed to Daniel in a vision at night, and Daniel praised the God of the heavens and declared:**
->
-> **May the name of God be praised forever and ever,** 
-> **for wisdom and power belong to him.**
-> **He changes the times and seasons;** 
-> **he removes kings and establishes kings.**
-> **He gives wisdom to the wise**
-> **and knowledge to those**
-> **who have understanding.**
-> **He reveals the deep and hidden things;**
-> **he knows what is in the darkness,**
-> **and light dwells with him.**
-> **I offer thanks and praise to you,**
-> **God of my ancestors,**
-> **because you have given me**
-> **wisdom and power.**
-> **And now you have let me know**
-> **what we asked of you,**
-> **for you have let us know**
-> **the king’s mystery.**
-
+- friend, Collier & Rachel
+- friend, Ben (Rachel's twin brother) & wife
 
 # Family
 
