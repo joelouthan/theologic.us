@@ -459,36 +459,28 @@ HS Girls
 - Sarah Blake - niece Sophia recovering from spine surgery; Emily & Brian
 - Daniel Bond
 - Jamie Bond
-- **Jessy Brock** 
-   * SINGLE
-- Kimberly Burns 
-   * SINGLE; Surgery! Job interview! Another job outside Oklahoma!
+- **Jessy Brock** - SINGLE
+- Kimberly Burns - SINGLE; Surgery! Job interview! Another job outside Oklahoma!
 - Jeff Cooke
-- Annika Edgington - Getting settled in Delaware; Training in Texas
-   - John
+- Annika Edgington - Getting settled in Delaware; Training in Texas - John
 - Lauren Finocchiaro
 - Charles Finocchirao
 - Aaron Gayle
 - Natasha Gayle
 - Matt Haugland
 - Sam Haugland
-- **Ethan Inge**
-   - SINGLE
+- **Ethan Inge** - SINGLE
 - Gary Matthews
 - Lisa Matthews
-- Brittany Mayes 
-   - SINGLE
-- Jordan Mayfield 
-   - SINGLE; Dad, Randy, health.
-- Ashton Poyndexter 
-   - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
+- Brittany Mayes - SINGLE
+- Jordan Mayfield - SINGLE; Dad, Randy, health.
+- Ashton Poyndexter - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
 - Caleb Reichert
 - Riley Roberson
 - Emily Roberson -  Baby due in Sept.
 - Trey Scott 
 - Kathleen Scott 
-- Taylor Smith 
-   - SINGLE; Another job!
+- Taylor Smith - SINGLE; Another job!
 - Phong Ta 
 - Micah Thomason
 - Melissa Thomason

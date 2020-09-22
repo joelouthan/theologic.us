@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Wednesday, 30 September 2020'
+title: 'Evening Prayers for Thursday, 22 October 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-09-30T14:00:00-06:00
-url: /pm_prayers/2020-09-30-pm_prayers/
+publishDate: 2020-10-22T14:00:00-06:00
+url: /pm_prayers/2020-10-22-pm_prayers/
 categories:
  - Prayers
 tags:
