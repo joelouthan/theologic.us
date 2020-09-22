@@ -12,59 +12,107 @@ draft: true
 ---
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
-<pre><b>
-Isaiah 61 (ESV) 
-The Spirit of the Lord GOD is upon me,
-because the LORD has anointed me
-to bring good news to the poor;
-he has sent me to bind up the brokenhearted,
-to proclaim liberty to the captives,
-and the opening of the prison to those who are bound;
-to proclaim the year of the LORD'S favor,
-and the day of vengeance of our God;
-to comfort all who mourn;
-to grant to those who mourn in Zion—
-to give them a beautiful headdress instead of ashes,
-the oil of gladness instead of mourning,
-the garment of praise instead of a faint spirit;
-that they may be called oaks of righteousness,
-the planting of the LORD, that he may be glorified.
-They shall build up the ancient ruins;
-they shall raise up the former devastations;
-they shall repair the ruined cities,
-the devastations of many generations.
+**Isaiah 61 (ESV)**
 
-Strangers shall stand and tend your flocks;
-foreigners shall be your plowmen and vinedressers;
-but you shall be called the priests of the LORD;
-they shall speak of you as the ministers of our God;
-you shall eat the wealth of the nations,
-and in their glory you shall boast.
-Instead of your shame there shall be a double portion;
-instead of dishonor they shall rejoice in their lot;
-therefore in their land they shall possess a double portion;
-they shall have everlasting joy.
+**The Spirit of the Lord GOD is upon me,**
 
-For I the LORD love justice;
-I hate robbery and wrong;
-I will faithfully give them their recompense,
-and I will make an everlasting covenant with them.
-Their offspring shall be known among the nations,
-and their descendants in the midst of the peoples;
-all who see them shall acknowledge them,
-that they are an offspring the LORD has blessed.
+**because the LORD has anointed me**
 
-I will greatly rejoice in the LORD;
-my soul shall exult in my God,
-for he has clothed me with the garments of salvation;
-he has covered me with the robe of righteousness,
-as a bridegroom decks himself like a priest with a beautiful headdress,
-and as a bride adorns herself with her jewels.
-For as the earth brings forth its sprouts,
-and as a garden causes what is sown in it to sprout up,
-so the Lord GOD will cause righteousness and praise
-to sprout up before all the nations.
-</b></pre>
+**to bring good news to the poor;**
+
+**he has sent me to bind up the brokenhearted,**
+
+**to proclaim liberty to the captives,**
+
+**and the opening of the prison to those who are bound;**
+
+**to proclaim the year of the LORD'S favor,**
+
+**and the day of vengeance of our God;**
+
+**to comfort all who mourn;**
+
+**to grant to those who mourn in Zion—**
+
+**to give them a beautiful headdress instead of ashes,**
+
+**the oil of gladness instead of mourning,**
+
+**the garment of praise instead of a faint spirit;**
+
+**that they may be called oaks of righteousness,**
+
+**the planting of the LORD, that he may be glorified.**
+
+**They shall build up the ancient ruins;**
+
+**they shall raise up the former devastations;**
+
+**they shall repair the ruined cities,**
+
+**the devastations of many generations.**
+
+
+
+**Strangers shall stand and tend your flocks;**
+
+**foreigners shall be your plowmen and vinedressers;**
+
+**but you shall be called the priests of the LORD;**
+
+**they shall speak of you as the ministers of our God;**
+
+**you shall eat the wealth of the nations,**
+
+**and in their glory you shall boast.**
+
+**Instead of your shame there shall be a double portion;**
+
+**instead of dishonor they shall rejoice in their lot;**
+
+**therefore in their land they shall possess a double portion;**
+
+**they shall have everlasting joy.**
+
+
+
+**For I the LORD love justice;**
+
+**I hate robbery and wrong;**
+
+**I will faithfully give them their recompense,**
+
+**and I will make an everlasting covenant with them.**
+
+**Their offspring shall be known among the nations,**
+
+**and their descendants in the midst of the peoples;**
+
+**all who see them shall acknowledge them,**
+
+**that they are an offspring the LORD has blessed.**
+
+
+
+**I will greatly rejoice in the LORD;**
+
+**my soul shall exult in my God,**
+
+**for he has clothed me with the garments of salvation;**
+
+**he has covered me with the robe of righteousness,**
+
+**as a bridegroom decks himself like a priest with a beautiful headdress,**
+
+**and as a bride adorns herself with her jewels.**
+
+**For as the earth brings forth its sprouts,**
+
+**and as a garden causes what is sown in it to sprout up,**
+
+**so the Lord GOD will cause righteousness and praise**
+
+**to sprout up before all the nations.**
 
 # Pray to preach the gospel
 
@@ -180,7 +228,9 @@ Amen
 
 My Lord above,
 
-Call on me. I will be obedient. Tell me with whom shall I share your good news: you are Jesus and you have saved his people from their sins. If they believe and trust in you, they will live. 
+Call on me. I will be obedient. Tell me with whom shall I share your good news: you are Jesus and you have saved his people from their sins. If they believe and trust in you, they will live.
+
+**Logan**
 
 **Chuck's sons, Zachary & Samuel**
 
@@ -308,7 +358,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Aaron & Natasha, Audrey**
 
-**Eric & Megan, Leeland**
+**Eric & Megan, Leeland, Baby**
 
 **Josh & Nancy, +kiddos**
 
