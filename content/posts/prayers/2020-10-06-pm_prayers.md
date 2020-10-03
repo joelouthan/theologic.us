@@ -194,6 +194,7 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 
 Lord, be glorified in our homes and in our city. Today. 
 
+***
 
 # Interns
 

@@ -393,6 +393,8 @@ Aimee & James Coker
 - **Grace Fellowship Norman** - Rick & Andrea Anthony
 - **The Wesley** - Joshua & Bonny Coats, Eli, Adelyn
 
+***
+
 # Frontline Norman
 
 > **Matthew 9:35-38 (CSB) Jesus continued going around to all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and every sickness. When he saw the crowds, he felt compassion for them, because they were distressed and dejected, like sheep without a shepherd. Then he said to his disciples, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.”**
@@ -493,11 +495,6 @@ I love you so much.
 
 # City of Norman
 
-**Kids back to virtual school with working parent(s)**
-
-Lord, be the solution. What can we do?
-
-**City of Norman**
 - Mayor Breea Clark
 - Councilperson Elizabeth Foreman
 
