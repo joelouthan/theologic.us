@@ -354,3 +354,5 @@ Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben 
 # Frontline Midwest City
 
 ***
+
+Amen
