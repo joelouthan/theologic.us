@@ -74,9 +74,7 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 Lord, be glorified in our homes and in our city. Today. 
 
 ***
-# Interns
-
-## Bois
+# Bois
 
 **Caleb Dyer**
 
@@ -84,6 +82,7 @@ Lord, be glorified in our homes and in our city. Today.
 
 **William Armer**
 
+# Interns
 
 Abbigail Thomsen
 
@@ -128,8 +127,16 @@ Zach Shomaker
 Hope Wilson
 
 Janelle Rogers
-
+***
 # Frontline Norman
+
+Lord,
+
+I believe I have your vision. I do not desire a ministry. My only desire is to faithfully handle your precious word and preach the gospel of Christ and him crucified.
+
+But not my will but your will be done.
+
+Amen.
 
 ***
 # Frontline South
