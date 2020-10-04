@@ -10,129 +10,9 @@ tags:
  - 'Prayers'
 draft: true
 ---
-
-> **2 Timothy 4:1-5 (CSB) I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and because of his appearing and his kingdom: Preach the word; be ready in season and out of season; correct, rebuke, and encourage with great patience and teaching. For the time will come when people will not tolerate sound doctrine, but according to their own desires, will multiply teachers for themselves because they have an itch to hear what they want to hear. They will turn away from hearing the truth and will turn aside to myths. But as for you, exercise self-control in everything, endure hardship, do the work of an evangelist, fulfill your ministry.**
-
-**Isaiah 61 (CSB)**
-
-**The Spirit of the Lord GOD is on me,**
-
-**because the LORD has anointed me**
-
-**to bring good news to the poor.**
-
-**He has sent me to heal the brokenhearted,**
-
-**to proclaim liberty to the captives**
-
-**and freedom to the prisoners;**
-
-**to proclaim the year of the LORD’s favor,**
-
-**and the day of our God’s vengeance;**
-
-**to comfort all who mourn,**
-
-**to provide for those who mourn in Zion;**
-
-**to give them a crown of beauty instead of ashes,**
-
-**festive oil instead of mourning,**
-
-**and splendid clothes instead of despair.**
-
-**And they will be called righteous trees,**
-
-**planted by the LORD**
-
-**to glorify him.**
-
-
-
-**They will rebuild the ancient ruins;**
-
-**they will restore the former devastations;**
-
-**they will renew the ruined cities,**
-
-**the devastations of many generations.**
-
-
-
-**Strangers will stand and feed your flocks,**
-
-**and foreigners will be your plowmen and vinedressers.**
-
-
-
-**But you will be called the LORD’s priests;**
-
-**they will speak of you as ministers of our God;**
-
-**you will eat the wealth of the nations,**
-
-**and you will boast in their riches.**
-
-
-
-**In place of your shame, you will have a double portion;**
-
-**in place of disgrace, they will rejoice over their share.**
-
-
-
-**So they will possess double in their land,**
-
-**and eternal joy will be theirs.**
-
-
-
-**For I the LORD love justice;**
-
-**I hate robbery and injustice;**
-
-**I will faithfully reward my people**
-
-**and make a permanent covenant with them.**
-
-
-
-**Their descendants will be known among the nations,**
-
-**and their posterity among the peoples.**
-
-
-
-**All who see them will recognize**
-
-**that they are a people the LORD has blessed.**
-
-
-
-**I rejoice greatly in the LORD,**
-
-**I exult in my God;**
-
-**for he has clothed me with the garments of salvation**
-
-**and wrapped me in a robe of righteousness,**
-
-**as a groom wears a turban**
-
-**and as a bride adorns herself with her jewels.**
-
-
-
-**For as the earth produces its growth,**
-
-**and as a garden enables what is sown to spring up,**
-
-**so the Lord GOD will cause righteousness and praise**
-
-**to spring up before all the nations.**
+      
 
 ***
-
 # Prayers for those who are trapped in NAR churches
 
 ## Gateway Church
@@ -185,7 +65,6 @@ draft: true
 **Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
 ***
-
 # Frontline
 
 ## Leaders within Frontline
@@ -195,7 +74,6 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 Lord, be glorified in our homes and in our city. Today. 
 
 ***
-
 # Interns
 
 ## Bois
@@ -254,7 +132,6 @@ Janelle Rogers
 # Frontline Norman
 
 ***
-
 # Frontline South
 
 **Dena & Dave**
@@ -326,31 +203,25 @@ Janelle Rogers
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
 ***
-
 # Frontline Central
 
 **Josh & Nancy, +kiddos**
 
 ***
-
 # Frontline Shawnee
 
 Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben and all the peoples at Shawnee.
 
 ***
-
 # Frontline Yukon
 
 ***
-
 # Frontline Edmond
 
 ***
-
 # Frontline Downtown
 
 ***
-
 # Frontline Midwest City
 
 ***
