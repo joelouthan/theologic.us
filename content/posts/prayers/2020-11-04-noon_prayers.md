@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Monday, 5 October 2020'
+title: 'Noon Prayers for Wednesday, 4 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-05T12:00:00-06:00
-url: /noon_prayers/2020-10-05-noon_prayers/
+publishDate: 2020-11-04T12:00:00-06:00
+url: /noon_prayers/2020-11-04-noon_prayers/
 categories:
  - Prayers
 tags:

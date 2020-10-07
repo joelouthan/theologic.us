@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Sunday, 4 October 2020'
+title: 'Evening Prayers for Friday, 6 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-04T20:00:00-06:00
-url: /pm_prayers/2020-10-04-pm_prayers/
+publishDate: 2020-11-06T20:00:00-06:00
+url: /pm_prayers/2020-11-06-pm_prayers/
 categories:
  - Prayers
 tags:

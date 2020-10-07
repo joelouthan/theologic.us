@@ -1,29 +1,22 @@
 ---
-title: 'Morning Prayers for Saturday, 3 October 2020'
+title: 'Morning Prayers for Wednesday, 4 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-03T06:00:00-06:00
-url: /am_prayers/2020-10-03-am_prayers/
+publishDate: 2020-11-04T06:00:00-06:00
+url: /am_prayers/2020-11-04-am_prayers/
 categories:
  - Prayers
 tags:
  - 'Prayers'
 draft: true
 ---
-Amen 
+      
+
+# Pray to preach the gospel
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
 ***
-
-# Pray to preach the gospel
-
-> **2 Timothy 1:6-12 (CSB) Therefore, I remind you to rekindle the gift of God that is in you through the laying on of my hands. For God has not given us a spirit of fear, but one of power, love, and sound judgment.**
-
-> **So don’t be ashamed of the testimony about our Lord, or of me his prisoner. Instead, share in suffering for the gospel, relying on the power of God. He has saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before time began. This has now been made evident through the appearing of our Savior Christ Jesus, who has abolished death and has brought life and immortality to light through the gospel. For this gospel I was appointed a herald, apostle, and teacher, and that is why I suffer these things. But I am not ashamed, because I know whom I have believed and am persuaded that he is able to guard what has been entrusted to me until that day.**
-
-***
-
 # For Sarah
 
 Melissa
@@ -41,11 +34,9 @@ Natasha
 Jamie
 
 ***
-
 # Give thanks
 
 ***
-
 # For healing
 
 My Lord,
@@ -60,8 +51,7 @@ Heal Randy (Jordan Mayfield's dad) - possible hospice
 
 Heal Kathleen (Leah's mom)
 
----
-
+***
 # Daily
 
 On marriage: **Sarah, my love** 
@@ -87,7 +77,6 @@ On glory of God: **“On Christ’s glory I would fix all my thoughts and desire
 On his provision: **Lord, anything you give will be good enough for me.**
 
 ***
-
 # Next steps
 
 My God,
@@ -98,7 +87,7 @@ But I will praise you for the triple blessings of being with the staff. Bless th
 
 Amen
 
-
+***
 # For those who do not know You
 
 My Lord above,
@@ -192,7 +181,6 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 **Evan & Kaylee, Everett, Baby**
 
 ***
-
 # Friends
 
 **Sarah & Josiah**
