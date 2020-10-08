@@ -10,7 +10,69 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+      Isaiah 62 (CSB) I will not keep silent because of Zion,
+      and I will not keep still because of Jerusalem,
+      until her righteousness shines like a bright light
+      and her salvation, like a flaming torch.
+      Nations will see your righteousness
+      and all kings, your glory.
+      You will be given a new name
+      that the LORD’s mouth will announce.
+      You will be a glorious crown in the LORD’s hand,
+      and a royal diadem in the palm of your God’s hand.
+      You will no longer be called Deserted,
+      and your land will not be called Desolate;
+      instead, you will be called My Delight Is in Her,
+      and your land Married;
+      for the LORD delights in you,
+      and your land will be married.
+      For as a young man marries a young woman,
+      so your sons will marry you;
+      and as a groom rejoices over his bride,
+      so your God will rejoice over you.
+      Jerusalem,
+      I have appointed watchmen on your walls;
+      they will never be silent, day or night.
+      There is no rest for you,
+      who remind the LORD.
+      Do not give him rest
+      until he establishes and makes Jerusalem
+      the praise of the earth.
+      The LORD has sworn with his right hand
+      and his strong arm:
+      I will no longer give your grain
+      to your enemies for food,
+      and foreigners will not drink the new wine
+      for which you have labored.
+      For those who gather grain will eat it
+      and praise the LORD,
+      and those who harvest the grapes will drink the wine
+      in my holy courts.
+      Go out, go out through the city gates;
+      prepare a way for the people!
+      Build it up, build up the highway;
+      clear away the stones!
+      Raise a banner for the peoples.
+      Look, the LORD has proclaimed
+      to the ends of the earth,
+      “Say to Daughter Zion:
+      Look, your salvation is coming,
+      his wages are with him,
+      and his reward accompanies him.”
+      And they will be called the Holy People,
+      the LORD’s Redeemed;
+      and you will be called Cared For,
+      A City Not Deserted.
+
+Lord,
+
+You alone are the only one who can redeem my soul.
+
+You sent your Son to live, die and rise again.
+
+You alone are good.
+
+Amen.
 
 # Pray to preach the gospel
 
@@ -209,3 +271,9 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 - Kristie 
 - John and Gina
 - Jen and Diddy 
+
+Amen.
+
+Amen
+
+Amen

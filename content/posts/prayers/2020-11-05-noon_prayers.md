@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Monday, 5 October 2020'
+title: 'Noon Prayers for Thursday, 5 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-05T12:00:00-06:00
-url: /noon_prayers/2020-10-05-noon_prayers/
+publishDate: 2020-11-05T12:00:00-06:00
+url: /noon_prayers/2020-11-05-noon_prayers/
 categories:
  - Prayers
 tags:
@@ -11,8 +11,45 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">O God</div>
+Thy main plan, and the end of thy will
+      is to make Christ glorious and beloved
+        in heaven
+  where he is now ascended,
+  where one day all the elect will behold his glory
+  and love and glorify him for ever.
+Though here I love him but little,
+  may this be my portion at last.
+In this world thou hast given me a beginning,
+  one day it will be perfected in the realm above.
+Thou hast helped me to see and know Christ,
+  though obscurely,
+  to take him, receive him,
+  to possess him, love him,
+  to bless him in my heart, mouth, life.
+Let me study and stand for discipline,
+    and all the ways of worship,
+  out of love for Christ;
+  and to show my thankfulness;
+  to seek and know his will from love,
+  to hold it in love,
+  and daily to care for and keep this state of heart.
+Thou hast led me to place all my nature
+    and happiness
+  in oneness with Christ,
+  in having heart and mind centred only on him,
+  in being like him in communicating good
+    to others;
+This is my heaven on earth,
+But I need the force, energy, impulses of thy Spirit
+  to carry me on the way to my Jerusalem.
+Here, it is my duty
+  to be as Christ in this world,
+  to do what he would do,
+  to live as he would live,
+  to walk in love and meekness;
+  then would he be known,
+  then would I have peace in death.
 </pre>
 
 ***

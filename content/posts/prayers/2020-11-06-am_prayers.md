@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Tuesday, 6 October 2020'
+title: 'Morning Prayers for Friday, 6 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-06T06:00:00-06:00
-url: /am_prayers/2020-10-06-am_prayers/
+publishDate: 2020-11-06T06:00:00-06:00
+url: /am_prayers/2020-11-06-am_prayers/
 categories:
  - Prayers
 tags:

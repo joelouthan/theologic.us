@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Sunday, 4 October 2020'
+title: 'Morning Prayers for Saturday, 7 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-04T06:00:00-06:00
-url: /am_prayers/2020-10-04-am_prayers/
+publishDate: 2020-11-07T06:00:00-06:00
+url: /am_prayers/2020-11-07-am_prayers/
 categories:
  - Prayers
 tags:
