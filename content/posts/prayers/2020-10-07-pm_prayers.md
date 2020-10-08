@@ -10,7 +10,45 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 63:1-6
+
+The LORD’s Day of Vengeance
+1 Who is this coming from Edom
+in crimson-stained garments from Bozrah—
+this one who is splendid in his apparel,
+striding in his formidable might?
+It is I, proclaiming vindication,
+powerful to save.
+2 Why are your clothes red,
+and your garments like one who treads a winepress?
+3 I trampled the winepress alone,
+and no one from the nations was with me.
+I trampled them in my anger
+and ground them underfoot in my fury;
+their blood spattered my garments,
+and all my clothes were stained.
+4 For I planned the day of vengeance,
+and the year of my redemption came.
+5 I looked, but there was no one to help,
+and I was amazed that no one assisted;
+so my arm accomplished victory for me,
+and my wrath assisted me.
+6 I crushed nations in my anger;
+I made them drunk with my wrath
+and poured out their blood on the ground.
+
+Isaiah 63:1
+The LORD'S Day of Vengeance
+1 Who is this who comes from Edom,
+in crimsoned garments from Bozrah,
+he who is splendid in his apparel,
+marching in the greatness of his strength?
+“It is I, speaking in righteousness,
+mighty to save.”
+
+My Dear Lord,
+
+You alone are mighty to save. Blessed is he who comes in the name of the Lord. 
 
 ***
 # Prayers for those who are trapped in NAR churches
