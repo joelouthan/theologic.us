@@ -10,10 +10,40 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 63:7-9 (ESV) I will recount the steadfast love of the LORD,
+the praises of the LORD,
+according to all that the LORD has granted us,
+and the great goodness to the house of Israel
+that he has granted them according to his compassion,
+according to the abundance of his steadfast love.
+For he said, “Surely they are my people,
+children who will not deal falsely.”
+And he became their Savior.
+In all their affliction he was afflicted,
+and the angel of his presence saved them;
+in his love and in his pity he redeemed them;
+he lifted them up and carried them all the days of old.
+
+You are my Savior everlasting
+
+You are King Jesus.
+
+Therefore I will worship you with all of my heart and soul
+
+Blessed be your glorious name forevermore.
 
 ***
 # Prayers for those who are trapped in NAR churches
+
+## Bethesda Church
+
+**Pastor Dan & Becky Smith**
+
+Steve & Alisa Evans
+
+Mary Evans
+
+Anthony & wife,
 
 ## Gateway Church
 
@@ -232,3 +262,5 @@ Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben 
 # Frontline Midwest City
 
 ***
+
+Amen

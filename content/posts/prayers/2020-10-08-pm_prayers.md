@@ -10,10 +10,40 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 62:6-9 (ESV) On your walls, O Jerusalem,
+I have set watchmen;
+all the day and all the night
+they shall never be silent.
+You who put the LORD in remembrance,
+take no rest,
+and give him no rest
+until he establishes Jerusalem
+and makes it a praise in the earth.
+The LORD has sworn by his right hand
+and by his mighty arm:
+“I will not again give your grain
+to be food for your enemies,
+and foreigners shall not drink your wine
+for which you have labored;
+but those who garner it shall eat it
+and praise the LORD,
+and those who gather it shall drink it
+in the courts of my sanctuary.”
+
+My Lord,
+
+This promise was fulfilled in your Son, Jesus Christ, who is our grain and our oil and our water.
+
+We shall never hunger nor we shall never thirst. Because your Son gives life and is life.
+
+Be glorified today.
 
 ***
 # Prayers for those who are trapped in NAR churches
+
+## Bethesda Church
+
+Pastor Dan & Becky Smith
 
 ## Gateway Church
 
@@ -23,6 +53,7 @@ draft: true
 
 **Court & Lauryn, kids**
 
+**Steve, Mary & Kids**
 
 ## Catch the Fire DFW
 

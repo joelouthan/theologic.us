@@ -10,7 +10,29 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 63:2-6 (ESV) Why is your apparel red,
+and your garments like his who treads in the winepress?
+“I have trodden the winepress alone,
+and from the peoples no one was with me;
+I trod them in my anger
+and trampled them in my wrath;
+their lifeblood spattered on my garments,
+and stained all my apparel.
+For the day of vengeance was in my heart,
+and my year of redemption had come.
+I looked, but there was no one to help;
+I was appalled, but there was no one to uphold;
+so my own arm brought me salvation,
+and my wrath upheld me.
+I trampled down the peoples in my anger;
+I made them drunk in my wrath,
+and I poured out their lifeblood on the earth.”
+
+And this is on your Son, who bled and died for me.
+
+I see his wounds, his hands, and feet.
+
+***
 
 # Pray to preach the gospel
 
@@ -35,6 +57,8 @@ Jamie
 
 ***
 # Give thanks
+
+Thank you for giving me the perfect way. Thank you for speaking to me and directing me. I trust in you.
 
 ***
 # For healing
@@ -209,3 +233,5 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 - Kristie 
 - John and Gina
 - Jen and Diddy 
+
+Amen
