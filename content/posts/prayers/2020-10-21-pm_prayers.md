@@ -15,6 +15,16 @@ draft: true
 ***
 # Prayers for those who are trapped in NAR churches
 
+## Bethesda Church
+
+**Pastor Dan & Becky Smith**
+
+**Mary Evans**
+
+**Stephen & Alisa Evans, fam**
+
+**Anthony & wife, fam**
+
 ## Gateway Church
 
 **Kristi**
