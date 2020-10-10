@@ -10,7 +10,30 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 63:10-14
+10 But they rebelled
+and grieved his Holy Spirit;
+therefore he turned to be their enemy,
+and himself fought against them.
+11 Then he remembered the days of old,
+of Moses and his people.
+Where is he who brought them up out of the sea
+with the shepherds of his flock?
+Where is he who put in the midst of them
+his Holy Spirit,
+12 who caused his glorious arm
+to go at the right hand of Moses,
+who divided the waters before them
+to make for himself an everlasting name,
+13 who led them through the depths?
+Like a horse in the desert,
+they did not stumble.
+14 Like livestock that go down into the valley,
+the Spirit of the LORD gave them rest.
+So you led your people,
+to make for yourself a glorious name.
+
+___
 
 # Pray to preach the gospel
 
