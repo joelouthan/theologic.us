@@ -11,8 +11,54 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">THOU GREAT I AM,</div>
 
+I acknowledge and confess that all things
+    come of thee —
+  life, breath, happiness, advancement,
+  sight, touch, hearing,
+  goodness, truth, beauty –
+  all that makes existence amiable.
+In the spiritual world also I am dependent
+    entirely upon thee.
+Give me grace to know more of my need of grace;
+Show me my sinfulness that I may willingly
+    confess it;
+Reveal to me my weakness that I may know
+    my strength in thee.
+I thank thee for any sign of penitence;
+    give me more of it;
+My sins are black and deep,
+  and rise from a stony, proud,
+    self-righteous heart;
+Help me to confess them with mourning, regret,
+  self-loathing,
+  with no pretence to merit or excuse;
+I need healing,
+Good Physician, here is scope for thee,
+  come and manifest thy power;
+I need faith;
+Thou who hast given it me, maintain, strengthen,
+    increase it,
+Centre it upon the Saviour’s work,
+  upon the majesty of the Father,
+  upon the operations of the Spirit;
+Work it in me now that I may never doubt thee
+  as the truthful, mighty, faithful God.
+Then I can bring my heart to thee
+  full of love, gratitude, hope, joy.
+May I lay at thy feet these fruits grown
+    in thy garden,
+  love thee with a passion that can never cool,
+  believe in thee with a confidence that never
+    staggers,
+  hope in thee with an expectation that can never
+    be dim,
+  delight in thee with a rejoicing that cannot
+    be stifled,
+  glorify thee with the highest of my powers,
+    burning, blazing, glowing, radiating, as from
+      thy own glory.
 </pre>
 
 ***
@@ -417,11 +463,13 @@ Aimee & James Coker
 - Natasha Gayle
 - Matt Haugland
 - Sam Haugland
-- **Ethan Inge** - SINGLE
+- **Ethan Inge**
+- Arden Nerius
+- Nathan Sims
 - Gary Matthews
 - Lisa Matthews
 - Brittany Mayes - SINGLE
-- Jordan Mayfield - SINGLE; Dad, Randy, health.
+- Jordan Mayfield - Dad, Randy, health.
 - Ashton Poyndexter - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
 - Caleb Reichert
 - Riley Roberson

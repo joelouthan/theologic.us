@@ -10,7 +10,26 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 63:15-19
+Prayer for Mercy
+15 Look down from heaven and see,
+from your holy and beautiful habitation.
+Where are your zeal and your might?
+The stirring of your inner parts and your compassion
+are held back from me.
+16 For you are our Father,
+though Abraham does not know us,
+and Israel does not acknowledge us;
+you, O LORD, are our Father,
+our Redeemer from of old is your name.
+17 O LORD, why do you make us wander from your ways
+and harden our heart, so that we fear you not?
+Return for the sake of your servants,
+the tribes of your heritage.
+18 Your holy people held possession for a little while;
+our adversaries have trampled down your sanctuary.
+19 We have become like those over whom you have never ruled,
+like those who are not called by your name.
 
 ***
 # Prayers for those who are trapped in NAR churches
