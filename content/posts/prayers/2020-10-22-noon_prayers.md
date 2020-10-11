@@ -407,7 +407,7 @@ Aimee & James Coker
 - Sarah Blake - niece Sophia recovering from spine surgery; Emily & Brian
 - Daniel Bond
 - Jamie Bond
-- **Jessy Brock** - SINGLE
+- **Jessy Brock**
 - Kimberly Burns - SINGLE; Surgery! Job interview! Another job outside Oklahoma!
 - Jeff Cooke
 - Annika Edgington - Getting settled in Delaware; Training in Texas - John
@@ -417,7 +417,9 @@ Aimee & James Coker
 - Natasha Gayle
 - Matt Haugland
 - Sam Haugland
-- **Ethan Inge** - SINGLE
+- **Ethan Inge**
+- **Arden Nerius**
+- **Nathan Sims**
 - Gary Matthews
 - Lisa Matthews
 - Brittany Mayes - SINGLE
@@ -425,10 +427,10 @@ Aimee & James Coker
 - Ashton Poyndexter - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
 - Caleb Reichert
 - Riley Roberson
-- Emily Roberson -  Baby due in Sept.
+- Emily Roberson
 - Trey Scott 
 - Kathleen Scott 
-- Taylor Smith - SINGLE; Another job!
+- Taylor Smith - SINGLE
 - Phong Ta 
 - Micah Thomason
 - Melissa Thomason

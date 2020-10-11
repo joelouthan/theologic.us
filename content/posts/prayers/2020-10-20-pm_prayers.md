@@ -15,6 +15,8 @@ draft: true
 ***
 # Prayers for those who are trapped in NAR churches
 
+## Antioch Norman
+
 ## Bethesda Church
 
 **Pastor Dan & Becky Smith**

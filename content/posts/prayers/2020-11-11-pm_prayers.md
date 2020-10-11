@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Thursday, 5 November 2020'
+title: 'Evening Prayers for Wednesday, 11 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-05T20:00:00-06:00
-url: /pm_prayers/2020-11-05-pm_prayers/
+publishDate: 2020-11-11T20:00:00-06:00
+url: /pm_prayers/2020-11-11-pm_prayers/
 categories:
  - Prayers
 tags:

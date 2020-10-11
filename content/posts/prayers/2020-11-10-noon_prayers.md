@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Tuesday, 13 October 2020'
+title: 'Noon Prayers for Tuesday, 10 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-13T12:00:00-06:00
-url: /noon_prayers/2020-10-13-noon_prayers/
+publishDate: 2020-11-10T12:00:00-06:00
+url: /noon_prayers/2020-11-10-noon_prayers/
 categories:
  - Prayers
 tags:
