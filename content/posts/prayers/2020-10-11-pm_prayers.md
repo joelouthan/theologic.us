@@ -10,7 +10,21 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 64:8-12 (ESV) But now, O LORD, you are our Father;
+we are the clay, and you are our potter;
+we are all the work of your hand.
+Be not so terribly angry, O LORD,
+and remember not iniquity forever.
+Behold, please look, we are all your people.
+Your holy cities have become a wilderness;
+Zion has become a wilderness,
+Jerusalem a desolation.
+Our holy and beautiful house,
+where our fathers praised you,
+has been burned by fire,
+and all our pleasant places have become ruins.
+Will you restrain yourself at these things, O LORD?
+Will you keep silent, and afflict us so terribly?
 
 ***
 # Prayers for those who are trapped in NAR churches

@@ -11,8 +11,48 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">ETERNAL FATHER,</div>
+Thou art good beyond all thought,
+      But I am vile, wretched, miserable, blind;
+My lips are ready to confess,
+  but my heart is slow to feel,
+  and my ways reluctant to amend.
+I bring my soul to thee;
+  break it, wound it, bend it, mould it.
+Unmask to me sin’s deformity,
+  that I may hate it, abhor it, flee from it.
+My faculties have been a weapon of revolt
+    against thee;
+  as a rebel I have misused my strength,
+  and served the foul adversary of thy kingdom.
+Give me grace to bewail my insensate folly,
+Grant me to know that the way of transgressors
+    is hard,
+  that evil paths are wretched paths,
+  that to depart from thee is to lose all good.
+I have seen the purity and beauty of thy perfect law,
+  the happiness of those in whose heart it reigns,
+  the calm dignity of the walk to which it calls,
+    yet I daily violate and contemn its precepts.
+Thy loving Spirit strives within me,
+  brings me Scripture warnings,
+  speaks in startling providences,
+  allures by secret whispers,
+    yet I choose devices and desires to my own hurt,
+  impiously resent, grieve,
+  and provoke him to abandon me.
 
+
+All these sins I mourn, lament, and for them
+  cry pardon.
+Work in me more profound and abiding repentance;
+Give me the fullness of a godly grief
+  that trembles and fears,
+  yet ever trusts and loves,
+  which is ever powerful, and ever confident;
+Grant that through the tears of repentance
+  I may see more clearly the brightness
+  and glories of the saving cross.
 </pre>
 
 ***

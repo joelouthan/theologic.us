@@ -10,7 +10,38 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 64:1-7 (ESV) Oh that you would rend the heavens and come down,
+that the mountains might quake at your presence—
+as when fire kindles brushwood
+and the fire causes water to boil—
+to make your name known to your adversaries,
+and that the nations might tremble at your presence!
+When you did awesome things that we did not look for,
+you came down, the mountains quaked at your presence.
+From of old no one has heard
+or perceived by the ear,
+no eye has seen a God besides you,
+who acts for those who wait for him.
+You meet him who joyfully works righteousness,
+those who remember you in your ways.
+Behold, you were angry, and we sinned;
+in our sins we have been a long time, and shall we be saved?
+We have all become like one who is unclean,
+and all our righteous deeds are like a polluted garment.
+We all fade like a leaf,
+and our iniquities, like the wind, take us away.
+There is no one who calls upon your name,
+who rouses himself to take hold of you;
+for you have hidden your face from us,
+and have made us melt in the hand of our iniquities.
+
+My Lord,
+
+I was so far from your sight and your grace. I was so sinful and evil and wicked.
+
+And your mercy reached out and your holiness kissed me and made me clean.
+
+Be glorified! You are the mighty one who saves.
 
 # Pray to preach the gospel
 
@@ -63,6 +94,12 @@ On sanctification: **Lord, help me to gentle, patient, and tender like you**
 On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
+
+Lord, I see your work. I see you are beating this out of me. Quicker and quicker as the days go on. FINISH YOUR WORK IN ME! DRAW ME CLOSE! DO NOT LET ME STRAY EVER AGAIN! I know what is like to be close and then to wonder. The hell is too much. Just a single day in your courts is better than any place on earth.
+
+But you were not satisfied with me in your courts. You brought me face to face, in your presence and at your right hand forever.
+
+Amen
 
 On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
 
