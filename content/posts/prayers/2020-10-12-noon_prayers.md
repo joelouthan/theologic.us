@@ -11,8 +11,8 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">GLORIOUS JEHOVAH, MY COVENANT GOD,</div>
+All thy promises in Christ Jesus are       yea and amen, and all shall be fulfilled. Thou hast spoken them, and they shall be done,   commanded, and they shall come to pass. Yet I have often doubted thee,   have lived at times as if there were no God. Lord, forgive me that death in life,   when I have found something apart from thee,   when I have been content with ephemeral things. But through thy grace I have repented; Thou hast given me to read my pardon     in the wounds of Jesus,   and my soul doth trust in him, my God incarnate,   the ground of my life, the spring of my hope. Teach me to be resigned to thy will,   to delight in thy law,   to have no will but thine,   to believe that everything thou doest is     for my good. Help me to leave my concerns in thy hands,   for thou hast power over evil,   and bringest from it an infinite progression     of good,   until thy purposes are fulfilled. Bless me with Abraham’s faith   that staggers not at promises through unbelief. May I not instruct thee in my troubles,   but glorify thee in my trials; Grant me a distinct advance in the divine life;   May I reach a higher platform,   leave the mists of doubt and fear in the valley,   and climb to hill-tops of eternal security in Christ     by simply believing he cannot lie,     or turn from his purpose. Give me the confidence I ought to have in him   who is worthy to be praised,   and who is blessed for evermore.
 </pre>
 
 ***
