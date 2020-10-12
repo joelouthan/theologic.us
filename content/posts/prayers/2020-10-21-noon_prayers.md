@@ -463,27 +463,20 @@ I love you so much.
 
 ## Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
 - Healing for Timothy
-- To be present
-- Lauren: fighting for self-worth, self-care
-- Midday prayers
-- Both back to teaching
-- Caden & Grasha ('hood kids)
-- My good friend Chris who is the family pastor back at our old church in SC called me late last night from the hospital. His son Caleb (16yo, one of Timothy’s best friends) went to the ER for blurriness in his eye. Prelim diagnosis (they are waiting for an MRI today) is optic neuritis. That’s often (50% of the time) a precursor to MS down the road.
-- Mike
 - Zachary - salvation; acting out - lying & stealing screentime, respectful, struggling with Lauren as teaching
 - Samuel - salvation
 
 ## Riley & Emily
 - Oliver is here!
-- gospel of Christ to the parents and brother and in the relationship
+- Logan - salvation
 
 ## Scott & Melody, Emily, Adelyn, Caleb
 - Emily
-- Logan
 - Started school with students from everywhere
 - Melody's mom & grandma - protection from exposure
 - Wayne & Nicole Barber
 - brother, Eric (Portland) vs parents who are Christian watches Fox News
+- **Randy** - liver cancer
 
 ## Andrew & Andie
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
@@ -491,7 +484,7 @@ I love you so much.
 - Kale, brother
 - friend, Collier & Rachel
 - friend, Ben (Rachel's twin brother) & wife
-- 0928M Nasal surgery
+- **mom Lara - heart attack**
 
 ***
 # City of Norman

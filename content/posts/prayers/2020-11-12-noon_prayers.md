@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Tuesday, 27 October 2020'
+title: 'Noon Prayers for Thursday, 12 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-27T12:00:00-06:00
-url: /noon_prayers/2020-10-27-noon_prayers/
+publishDate: 2020-11-12T12:00:00-06:00
+url: /noon_prayers/2020-11-12-noon_prayers/
 categories:
  - Prayers
 tags:
