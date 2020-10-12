@@ -10,7 +10,37 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 65:1-7
+Judgment and Salvation
+1 I was ready to be sought by those who did not ask for me;
+I was ready to be found by those who did not seek me.
+I said, “Here I am, here I am,”
+to a nation that was not called by my name.
+2 I spread out my hands all the day
+to a rebellious people,
+who walk in a way that is not good,
+following their own devices;
+3 a people who provoke me
+to my face continually,
+sacrificing in gardens
+and making offerings on bricks;
+4 who sit in tombs,
+and spend the night in secret places;
+who eat pig's flesh,
+and broth of tainted meat is in their vessels;
+5 who say, “Keep to yourself,
+do not come near me, for I am too holy for you.”
+These are a smoke in my nostrils,
+a fire that burns all the day.
+6 Behold, it is written before me:
+“I will not keep silent, but I will repay;
+I will indeed repay into their lap
+7 both your iniquities and your fathers' iniquities together,
+says the LORD;
+because they made offerings on the mountains
+and insulted me on the hills,
+I will measure into their lap
+payment for their former deeds.”
 
 # Pray to preach the gospel
 
