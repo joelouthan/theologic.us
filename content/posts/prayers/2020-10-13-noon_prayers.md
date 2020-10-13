@@ -11,8 +11,49 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">ETERNAL FATHER,</div>
+It is amazing love,
+    that thou hast sent thy Son
+      to suffer in my stead,
+    that thou hast added the Spirit
+      to teach, comfort, guide,
+    that thou hast allowed the ministry of angels
+      to wall me round;
+All heaven subserves the welfare of a poor worm.
+Permit thy unseen servants to be ever active
+    on my behalf,
+  and to rejoice when grace expands in me.
+Suffer them never to rest until my conflict is over,
+  and I stand victorious on salvation’s shore.
+Grant that my proneness to evil, deadness to good,
+  resistance to thy Spirit’s motions,
+  may never provoke thee to abandon me.
+May my hard heart awake thy pity, not thy wrath,
+And if the enemy gets an advantage
+    through my corruption,
+  let it be seen that heaven is mightier than hell,
+  that those for me are greater than those
+    against me.
+Arise to my help in richness of covenant blessings,
+Keep me feeding in the pastures of thy
+    strengthening Word,
+  searching Scripture to find thee there.
+If my waywardness is visited with a scourge,
+  enable me to receive correction meekly,
+    to bless the reproving hand,
+    to discern the motive of rebuke,
+    to respond promptly, and do the first work.
+Let all thy fatherly dealings make me a partaker
+    of thy holiness.
+Grant that in every fall I may sink lower
+    on my knees,
+  and that when I rise it may be to loftier heights
+    of devotion.
+May my every cross be sanctified,
+  every loss be gain,
+  every denial a spiritual advantage,
+  every dark day a light of the Holy Spirit,
+  every night of trial a song.
 </pre>
 
 ___

@@ -10,7 +10,41 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 65:17-25 (ESV) “For behold, I create new heavens
+and a new earth,
+and the former things shall not be remembered
+or come into mind.
+But be glad and rejoice forever
+in that which I create;
+for behold, I create Jerusalem to be a joy,
+and her people to be a gladness.
+I will rejoice in Jerusalem
+and be glad in my people;
+no more shall be heard in it the sound of weeping
+and the cry of distress.
+No more shall there be in it
+an infant who lives but a few days,
+or an old man who does not fill out his days,
+for the young man shall die a hundred years old,
+and the sinner a hundred years old shall be accursed.
+They shall build houses and inhabit them;
+they shall plant vineyards and eat their fruit.
+They shall not build and another inhabit;
+they shall not plant and another eat;
+for like the days of a tree shall the days of my people be,
+and my chosen shall long enjoy the work of their hands.
+They shall not labor in vain
+or bear children for calamity,
+for they shall be the offspring of the blessed of the LORD,
+and their descendants with them.
+Before they call I will answer;
+while they are yet speaking I will hear.
+The wolf and the lamb shall graze together;
+the lion shall eat straw like the ox,
+and dust shall be the serpent's food.
+They shall not hurt or destroy
+in all my holy mountain,”
+says the LORD.
 
 ___
 
