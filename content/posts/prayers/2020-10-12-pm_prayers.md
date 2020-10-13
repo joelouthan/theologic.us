@@ -10,7 +10,30 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 65:8-12
+8 Thus says the LORD:
+“As the new wine is found in the cluster,
+and they say, ‘Do not destroy it,
+for there is a blessing in it,’
+so I will do for my servants' sake,
+and not destroy them all.
+9 I will bring forth offspring from Jacob,
+and from Judah possessors of my mountains;
+my chosen shall possess it,
+and my servants shall dwell there.
+10 Sharon shall become a pasture for flocks,
+and the Valley of Achor a place for herds to lie down,
+for my people who have sought me.
+11 But you who forsake the LORD,
+who forget my holy mountain,
+who set a table for Fortune
+and fill cups of mixed wine for Destiny,
+12 I will destine you to the sword,
+and all of you shall bow down to the slaughter,
+because, when I called, you did not answer;
+when I spoke, you did not listen,
+but you did what was evil in my eyes
+and chose what I did not delight in.”
 
 ***
 # Prayers for those who are trapped in NAR churches
