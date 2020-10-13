@@ -10,7 +10,25 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 65:13-16 (ESV) Therefore thus says the Lord GOD:
+“Behold, my servants shall eat,
+but you shall be hungry;
+behold, my servants shall drink,
+but you shall be thirsty;
+behold, my servants shall rejoice,
+but you shall be put to shame;
+behold, my servants shall sing for gladness of heart,
+but you shall cry out for pain of heart
+and shall wail for breaking of spirit.
+You shall leave your name to my chosen for a curse,
+and the Lord GOD will put you to death,
+but his servants he will call by another name,
+so that he who blesses himself in the land
+shall bless himself by the God of truth,
+and he who takes an oath in the land
+shall swear by the God of truth;
+because the former troubles are forgotten
+and are hidden from my eyes.
 
 # Pray to preach the gospel
 
