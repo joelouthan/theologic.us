@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Sunday, 25 October 2020'
+title: 'Morning Prayers for Friday, 13 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-25T06:00:00-06:00
-url: /am_prayers/2020-10-25-am_prayers/
+publishDate: 2020-11-13T06:00:00-06:00
+url: /am_prayers/2020-11-13-am_prayers/
 categories:
  - Prayers
 tags:

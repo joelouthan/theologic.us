@@ -12,10 +12,23 @@ draft: true
 ---
       
 
-***
+___
+
 # Prayers for those who are trapped in NAR churches
 
 ## Antioch Norman
+
+Lord,
+
+Deliver them. Protect them. Keep them.
+
+Shield them from the attacks of the enemy.
+
+You are their Pastor and Lord. Do not let your little ones go astray.
+
+Keep your presence there.
+
+Have you way in them.
 
 ## Bethesda Church
 
@@ -76,7 +89,8 @@ draft: true
 
 **Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
-***
+___
+
 # Frontline
 
 ## Leaders within Frontline
@@ -85,7 +99,8 @@ Lord, would you raise up even more leaders for Norman. No matter what direction 
 
 Lord, be glorified in our homes and in our city. Today. 
 
-***
+___
+
 # Bois
 
 **Caleb Dyer**
@@ -139,7 +154,9 @@ Zach Shomaker
 Hope Wilson
 
 Janelle Rogers
-***
+
+___
+
 # Frontline Norman
 
 Lord,
@@ -150,7 +167,8 @@ But not my will but your will be done.
 
 Amen.
 
-***
+___
+
 # Frontline South
 
 **Dena & Dave**
@@ -221,26 +239,33 @@ Amen.
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
-***
+___
+
 # Frontline Central
 
 **Josh & Nancy, +kiddos**
 
-***
+___
+
 # Frontline Shawnee
 
 Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben and all the peoples at Shawnee.
 
-***
+___
+
 # Frontline Yukon
 
-***
+___
+
 # Frontline Edmond
 
-***
+___
+
 # Frontline Downtown
 
-***
+___
+
 # Frontline Midwest City
 
-***
+___
+

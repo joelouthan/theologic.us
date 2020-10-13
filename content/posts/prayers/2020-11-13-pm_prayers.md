@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Sunday, 8 November 2020'
+title: 'Evening Prayers for Friday, 13 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-08T20:00:00-06:00
-url: /pm_prayers/2020-11-08-pm_prayers/
+publishDate: 2020-11-13T20:00:00-06:00
+url: /pm_prayers/2020-11-13-pm_prayers/
 categories:
  - Prayers
 tags:

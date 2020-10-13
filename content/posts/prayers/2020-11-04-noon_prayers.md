@@ -15,7 +15,8 @@ draft: true
 
 </pre>
 
-***
+___
+
 **Isaiah 61 (ESV)**
 
 **The Spirit of the Lord GOD is upon me,**
@@ -118,14 +119,16 @@ draft: true
 
 **to sprout up before all the nations.**
 
-***
+___
+
 # Family
 
 **Sarah, Yusef, Elijah, Ivy, Ava**
 
 **Marmie & Jason, Molly**
 
-***
+___
+
 # Norman
 
 > **Matthew 3:12 (CSB) His winnowing shovel is in his hand, and he will clear his threshing floor and gather his wheat into the barn. But the chaff he will burn with fire that never goes out.”**
@@ -160,7 +163,8 @@ Liz & Trey Davidson
 
 Aimee & James Coker
 
-***
+___
+
 # Antioch Norman
 
 - Tatenda
@@ -317,7 +321,8 @@ Aimee & James Coker
 
 > **1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.**
 
-***
+___
+
 # All the churches in Norman
 
 > **John 10:11-18 (CSB) “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand, since he is not the shepherd and doesn’t own the sheep, leaves them and runs away when he sees a wolf coming. The wolf then snatches and scatters them. This happens because he is a hired hand and doesn’t care about the sheep.**
@@ -395,7 +400,8 @@ Aimee & James Coker
 - **Grace Fellowship Norman** - Rick & Andrea Anthony
 - **The Wesley** - Joshua & Bonny Coats, Eli, Adelyn
 
-***
+___
+
 # Frontline Norman
 
 > **Matthew 9:35-38 (CSB) Jesus continued going around to all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and every sickness. When he saw the crowds, he felt compassion for them, because they were distressed and dejected, like sheep without a shepherd. Then he said to his disciples, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.”**
@@ -442,7 +448,8 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
-***
+___
+
 # Discipleship Group
 
 Lord,
@@ -486,7 +493,8 @@ I love you so much.
 - friend, Ben (Rachel's twin brother) & wife
 - **mom Lara - heart attack**
 
-***
+___
+
 # City of Norman
 
 - Mayor Breea Clark
