@@ -10,7 +10,21 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 66:1-2
+The Humble and Contrite in Spirit
+1 Thus says the LORD:
+“Heaven is my throne,
+and the earth is my footstool;
+what is the house that you would build for me,
+and what is the place of my rest?
+2 All these things my hand has made,
+and so all these things came to be,
+declares the LORD.
+But this is the one to whom I will look:
+he who is humble and contrite in spirit
+and trembles at my word.
+
+I will stay silent and listen. You are my Lord and my God. 
 
 # Pray to preach the gospel
 
