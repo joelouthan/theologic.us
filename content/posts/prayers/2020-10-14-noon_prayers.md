@@ -11,8 +11,50 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">O LORD,</div>
+Whose power is infinite and wisdom infallible,
+      Order things that they may neither hinder,
+    nor discourage me,
+    nor prove obstacles to the progress of thy cause;
+Stand between me and all strife, that no evil befall,
+    no sin corrupt my gifts, zeal, attainments;
+May I follow duty and not any foolish device
+    of my own;
+Permit me not to labour at work which thou wilt
+    not bless,
+  that I may serve thee without disgrace or debt;
+Let me dwell in thy most secret place under thy
+    shadow,
+  where is safe impenetrable protection from
+    the arrow that flieth by day,
+    the pestilence that walketh in darkness,
+    the strife of tongues,
+    the malice of ill-will,
+    the hurt of unkind talk,
+    the snares of company,
+    the perils of youth,
+    the temptations of middle life,
+    the mournings of old age,
+    the fear of death.
+I am entirely dependent upon thee for support,
+    counsel, consolation.
+Uphold me by thy free Spirit,
+  and may I not think it enough to be preserved
+    from falling,
+  but may I always go forward, always abounding
+    in the work thou givest me to do.
+Strengthen me by thy Spirit in my inner self
+  for every purpose of my Christian life.
 
+
+All my jewels I give to the shadow of the safety
+    that is in thee —
+  my name anew in Christ,
+  my body, soul, talents, character,
+  my success, wife, children, friends, work,
+  my present, my future, my end.
+Take them, they are thine, and I am thine,
+    now and for ever.
 </pre>
 
 ___
