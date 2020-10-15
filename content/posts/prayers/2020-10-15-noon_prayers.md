@@ -11,8 +11,46 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">LORD OF IMMORTALITY,</div>
+Before whom angels bow and archangels veil
+      their faces,
+  enable me to serve thee with reverence
+    and godly fear.
+Thou who art Spirit and requirest truth
+    in the inward parts,
+  help me to worship thee in spirit and in truth.
+Thou who art righteous,
+  let me not harbour sin in my heart,
+  or indulge a worldly temper,
+  or seek satisfaction in things that perish.
+I hasten towards an hour
+  when earthly pursuits and possessions
+    will appear vain,
+  when it will be indifferent whether I have been
+    rich or poor,
+    successful or disappointed,
+    admired or despised.
+But it will be of eternal moment that I have
+  mourned for sin,
+  hungered and thirsted after righteousness,
+  loved the Lord Jesus in sincerity,
+  gloried in his cross.
+May these objects engross my chief solicitude!
+Produce in me those principles and dispositions
+  that make thy service perfect freedom.
+Expel from my mind all sinful fear and shame,
+  so that with firmness and courage I may
+    confess the Redeemer before men,
+    go forth with him bearing his reproach,
+    be zealous with his knowledge,
+    be filled with his wisdom,
+    walk with his circumspection,
+    ask counsel of him in all things,
+    repair to the Scriptures for his orders,
+    stay my mind on his peace,
+  knowing that nothing can befall me
+  without his permission, appointment
+    and administration.
 </pre>
 
 ___
