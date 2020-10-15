@@ -1,5 +1,5 @@
 ---
-title: 'Sundry Saturdays: '
+title: 'Sundry Saturdays: Virtualbox on macOS - GIMME YOUR DHCP ADDRESSES!'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-07
