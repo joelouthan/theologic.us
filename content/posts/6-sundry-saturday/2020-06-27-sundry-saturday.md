@@ -44,7 +44,7 @@ echo -e "$date \t$previous_word_count \t$this_word_count \t$words_written" >> $o
 ```
 
 And then run ~/bin/word_count script every Monday at 10AM:
-```cmd
+```bash
 $ crontab -l
 0 9 * * 1	~/bin/word_count
 ```
@@ -72,7 +72,7 @@ done
 
 
 To produce this:
-```cmd
+```bash
 Week Of     Last    Current Written
 2020-04-13	        Start   177780
 2020-04-20	177780	221095	43315
@@ -93,7 +93,7 @@ This is very encouraging to see!
 
 ![img](../../images/latest.jpeg)
 
-```cmd
+```bash
 jlouthan@ironhide > ~/bin >> master > cat theologicus_word_count
 Week Of		Last    Current Written
 2020-04-13	       Starting 177780

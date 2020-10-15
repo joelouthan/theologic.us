@@ -43,7 +43,7 @@ draft: false
 
 10\. Edit `/etc/sysconfig/network-script/ifcfg-eth1 #whatever your second adapter might be -- YMMV`
 
-```sh
+```bash
 [root@tower0204 network-scripts]# cat ifcfg-enp0s8
 TYPE="Ethernet"
 PROXY_METHOD="none"
@@ -62,7 +62,7 @@ ONBOOT="yes"
 ```
 
 11\. Restart network services
-```sh
+```bash
 [root@tower0204 network-scripts]# cat ifcfg-enp0s8
 TYPE="Ethernet"
 PROXY_METHOD="none"
@@ -97,7 +97,10 @@ macOS Catalina v10.15.6
 VirtualBox Version 6.1.14 r140239 (Qt5.6.3)
 
 ### Solution:
-`sudo launchctl load /Library/LaunchDaemons/org.virtualbox.startup.plist`
+
+```zsh
+sudo launchctl load /Library/LaunchDaemons/org.virtualbox.startup.plist
+```
 
 ### Source:
 https://stackoverflow.com/questions/18149546/vagrant-up-failed-dev-vboxnetctl-no-such-file-or-directory
