@@ -92,9 +92,11 @@ Haven't opened VirtualBox on my laptop in months. So when I did, I was getting "
 
 VBoxNetAdpCtl: Error while adding new interface: failed to open /dev/vboxnetctl: No such file or directory.
 
-macOS Catalina v10.15.6
+### Software:
 
-VirtualBox Version 6.1.14 r140239 (Qt5.6.3)
+> macOS Catalina v10.15.6
+> 
+> VirtualBox Version 6.1.14 r140239 (Qt5.6.3)
 
 ### Solution:
 
