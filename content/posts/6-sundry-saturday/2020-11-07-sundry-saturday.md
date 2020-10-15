@@ -2,7 +2,7 @@
 title: 'Sundry Saturdays: Virtualbox on macOS - GIMME YOUR DHCP ADDRESSES!'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-07
+publishDate: 2020-10-07
 url: /sundry-saturday/2020-11-07-sundry-saturday/
 categories:
   - Links
@@ -23,7 +23,7 @@ draft: false
 
 4\. Hit Create
 
-5\. For vboxnet0, check DHCP. #Note: I still never got DHCP working on this.
+5\. For vboxnet0, check **DHCP**. 
 
 6\. **VM > Settings > Network > Adapter 1 > NAT**
 
@@ -43,7 +43,7 @@ draft: false
 
 10\. Edit `/etc/sysconfig/network-script/ifcfg-eth1 #whatever your second adapter might be -- YMMV`
 
-```
+```sh
 [root@tower0204 network-scripts]# cat ifcfg-enp0s8
 TYPE="Ethernet"
 PROXY_METHOD="none"
@@ -62,7 +62,7 @@ ONBOOT="yes"
 ```
 
 11\. Restart network services
-```
+```sh
 [root@tower0204 network-scripts]# cat ifcfg-enp0s8
 TYPE="Ethernet"
 PROXY_METHOD="none"
@@ -84,30 +84,20 @@ ONBOOT="yes"
 
 ## VirtualBox: "VBoxNetAdpCtl: Error while adding new interface: failed to open /dev/vboxnetctl: No such file or directory."
 
-Error:
+### Situation:
+
+Haven't opened VirtualBox on my laptop in months. So when I did, I was getting "network adapter 2 failed" error messages because it couldn't see **vboxnet0** network.
+
+### Error:
+
 VBoxNetAdpCtl: Error while adding new interface: failed to open /dev/vboxnetctl: No such file or directory.
 
-Solution:
-sudo launchctl load /Library/LaunchDaemons/org.virtualbox.startup.plist
+macOS Catalina v10.15.6
 
-Source:
+VirtualBox Version 6.1.14 r140239 (Qt5.6.3)
+
+### Solution:
+`sudo launchctl load /Library/LaunchDaemons/org.virtualbox.startup.plist`
+
+### Source:
 https://stackoverflow.com/questions/18149546/vagrant-up-failed-dev-vboxnetctl-no-such-file-or-directory
-
-
-------
-
-##
-
-
-------
-
-##
-
-
-------
-
-##
-
-
-------
-
