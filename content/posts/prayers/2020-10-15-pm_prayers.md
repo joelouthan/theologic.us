@@ -19,6 +19,12 @@ have said, Let the LORD be glorified,
 that we may see your joy’;
 but it is they who shall be put to shame.
 
+My God,
+
+All of your promises are yes and amen.  I wish nothing on my enemies but salvation of the Lord. 
+
+Would you save them? Would you keep them? Would you have sweet mercy on them. Lord please save them all. 
+
 ___
 
 # Prayers for those who are trapped in NAR churches
