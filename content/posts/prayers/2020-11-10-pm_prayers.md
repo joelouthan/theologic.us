@@ -101,6 +101,12 @@ Lord, be glorified in our homes and in our city. Today.
 
 ___
 
+# Core
+
+**Emily Brown**
+
+**Aussie Enzbrenner**
+
 # Bois
 
 **Caleb Dyer**
@@ -111,37 +117,27 @@ ___
 
 # Interns
 
-Abbigail Thomsen
+- Caitlyn Swanson
+- Mikayla Sander
+- Stephanie White
+- Paige Gariepy
 
-**Annamarie Ross**
+- Katie Kalkulak
+- AnnaMarie Ross
+- Delaney Hammonds
 
-**Austin Enzbrenner**
+- Savannah Chappell
+- Abbigail Thomsen
+- Emily Brown
+- Jasmine Ingram
 
-Caitlyn Swanson
+- JemiJean Jones
+- Julianna Horner
+- Mack McCullah
 
-Curtis Mitchell
-
-Delaney
-
-**Emily Brown**
-
-Jasmine Ingram
-
-**JemiJean**
-
-**Julianna Horner**
-
-Katie Klakulak
-
-Mackenzie McCullah
-
-Mikayla Sander
-
-Paige Gariepy
-
-Savannah Chappell
-
-**Stephannie White**
+- Curtis Mitchell
+- Zach Shomaker
+- Aussie Enzbrenner
 
 # Intern Staff
 

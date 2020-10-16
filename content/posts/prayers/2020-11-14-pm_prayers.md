@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Saturday, 24 October 2020'
+title: 'Evening Prayers for Saturday, 14 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-24T20:00:00-06:00
-url: /pm_prayers/2020-10-24-pm_prayers/
+publishDate: 2020-11-14T20:00:00-06:00
+url: /pm_prayers/2020-11-14-pm_prayers/
 categories:
  - Prayers
 tags:
