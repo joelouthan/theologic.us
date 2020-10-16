@@ -10,9 +10,51 @@ tags:
  - 'Prayers'
 draft: true
 ---
-<pre>
-<div style="font-variant: small-caps;"></div>
 
+<pre>
+<div style="font-variant: small-caps;">FATHER OF JESUS,</div>
+Dawn returns, but without thy light within
+      no outward light can profit;
+Give me the saving lamp of thy Spirit that I may
+    see thee,
+  the God of my salvation, the delight of my soul,
+  rejoicing over me in love.
+I commend my heart to thy watchful care,
+  for I know its treachery and power;
+Guard its every portal from the wily enemy,
+Give me quick discernment of his deadly arts,
+Help me to recognize his bold disguise as an
+    angel of light,
+  and bid him begone.
+May my words and works allure others to the
+    highest walks of faith and love!
+May loiterers be quickened to greater diligence
+    by my example!
+May worldlings be won to delight in acquaintance
+    with thee!
+May the timid and irresolute be warned
+  of coming doom by my zeal for Jesus!
+Cause me to be a mirror of thy grace,
+  to show others the joy of thy service,
+May my lips be well-tuned cymbals
+  sounding thy praise,
+Let a halo of heavenly-mindedness
+    sparkle around me
+  and a lamp of kindness sunbeam my path.
+Teach me the happy art of
+  attending to things temporal
+  with a mind intent on things eternal.
+Send me forth to have compassion
+  on the ignorant and miserable.
+Help me to walk as Jesus walked,
+  my only Saviour and perfect model,
+  his mind my inward guest,
+  his meekness my covering garb.
+Let my happy place be amongst the poor in spirit,
+  my delight the gentle ranks of the meek.
+Let me always esteem others better than myself,
+  and find in true humility
+  an heirdom to two worlds.
 </pre>
 
 ___

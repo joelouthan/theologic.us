@@ -10,7 +10,13 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+
+Isaiah 66:6 (ESV) “The sound of an uproar from the city!
+A sound from the temple!
+The sound of the LORD,
+rendering recompense to his enemies!
+
+---
 
 # Pray to preach the gospel
 

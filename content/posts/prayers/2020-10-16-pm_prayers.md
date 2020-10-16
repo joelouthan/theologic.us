@@ -10,7 +10,21 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+
+Isaiah 66:7-9 (ESV) “Before she was in labor
+she gave birth;
+before her pain came upon her
+she delivered a son.
+8 Who has heard such a thing?
+Who has seen such things?
+Shall a land be born in one day?
+Shall a nation be brought forth in one moment?
+For as soon as Zion was in labor
+she brought forth her children.
+9 Shall I bring to the point of birth and not cause to bring forth?”
+says the LORD;
+“shall I, who cause to bring forth, shut the womb?”
+says your God.
 
 ___
 
