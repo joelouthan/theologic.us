@@ -46,7 +46,9 @@ My Lord,
 
 I pray for that you would heal:
 
-Sean - vertigo double focus. Lord heal his mind and body. Give him rest and peace. Lord show him the love you have for him.
+Heal Faithie. My Lord above, heal my sweet cousin. Comfort her and speak peace. Lay your hand upon her head and continuously give her peace forever. Take care of her and give her body and mind and nervous system healing always. Hold her together with your hands and heart.
+
+Heal Sean. Vertigo double focus. Lord heal his mind and body. Give him rest and peace. Lord show him the love you have for him.
 
 Heal Gerry. Be with Jan and all of the Melenkas in this time.
 
