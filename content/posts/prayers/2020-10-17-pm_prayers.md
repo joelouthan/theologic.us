@@ -10,7 +10,19 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 66:12-14
+12 For thus says the LORD:
+“Behold, I will extend peace to her like a river,
+and the glory of the nations like an overflowing stream;
+and you shall nurse, you shall be carried upon her hip,
+and bounced upon her knees.
+13 As one whom his mother comforts,
+so I will comfort you;
+you shall be comforted in Jerusalem.
+14 You shall see, and your heart shall rejoice;
+your bones shall flourish like the grass;
+and the hand of the LORD shall be known to his servants,
+and he shall show his indignation against his enemies.
 
 ___
 

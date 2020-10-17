@@ -11,8 +11,9 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">O Lover of the Loveless</div>
+It is thy will that I should love thee     with heart, soul, mind, strength,     and my neighbour as myself. But I am not sufficient for these things. There is by nature no pure love in my soul; Every affection in me is turned from thee; I am bound, as slave to lust, I cannot love thee, lovely as thou art,   until thou dost set me free. By grace I am thy freeman and would serve thee,   for I believe thou art my God in Jesus,   and that through him I am redeemed,   and my sins are forgiven. With this freedom I would always obey thee,   but I cannot walk in liberty,   any more than I could first attain it, of myself. May thy Spirit draw me nearer to thee   and thy ways. Thou art the end of all means,   for if they lead me not to thee,   I go away empty. Order all my ways by thy holy Word   and make thy commandments the joy     of my heart,   that by them I may have happy converse     with thee. May I grow in thy love and manifest it   to mankind.
+Spirit of love, make me like the loving Jesus;   give me his benevolent temper,   his beneficent actions,   that I may shine before men to thy glory. The more thou doest in love in me and by me,   humble me the more;   keep me meek, lowly,   and always ready to give thee honour.
 </pre>
 
 ___
