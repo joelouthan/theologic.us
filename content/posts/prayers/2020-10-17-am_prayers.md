@@ -10,7 +10,17 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 66:10-11
+10 “Rejoice with Jerusalem, and be glad for her,
+all you who love her;
+rejoice with her in joy,
+all you who mourn over her;
+11 that you may nurse and be satisfied
+from her consoling breast;
+that you may drink deeply with delight
+from her glorious abundance.”
+
+___
 
 # Pray to preach the gospel
 
