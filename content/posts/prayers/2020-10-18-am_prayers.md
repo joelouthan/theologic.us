@@ -10,7 +10,17 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 66:15-16
+Final Judgment and Glory of the LORD
+15 “For behold, the LORD will come in fire,
+and his chariots like the whirlwind,
+to render his anger in fury,
+and his rebuke with flames of fire.
+16 For by fire will the LORD enter into judgment,
+and by his sword, with all flesh;
+and those slain by the LORD shall be many.
+
+___
 
 # Pray to preach the gospel
 
