@@ -12,8 +12,45 @@ draft: true
 ---
 <pre>
 <div style="font-variant: small-caps;">THOU MAKER AND SUSTAINER OF ALL THINGS,</div>
-Day and night are thine,         heaven and earth declare thy glory;   but I, a creature of thy power and bounty,     have sinned against thee by resisting       the dictates of conscience,       the demands of thy law,       the calls of thy gospel;   yet I live under the dispensation of a given hope. Deliver me from worldly dispositions,   for I am born from above and bound for glory. May I view and long after holiness   as the beauty and dignity of the soul. Let me never slumber, never lose my assurance,   never fail to wear armour when passing through     enemy land. Fit me for every scene and circumstance; Stay my mind upon thee and turn my trials     to blessings,   that they may draw out my gratitude and praise   as I see their design and effects. Render my obedience to thy will holy, natural,     and delightful. Rectify all my principles by clear, consistent,     and influential views of divine truth. Let me never undervalue or neglect any part     of thy revealed will. May I duly regard the doctrine and practice     of the gospel,   prizing its commands as well as its promises. Sanctify me in every relation, office, transaction     and condition of life,   that if I prosper I may not be unduly exalted,   if I suffer I may not be over-sorrowful. Balance my mind in all varying circumstances   and help me to cultivate a disposition   that renders every duty a spiritual privilege. Thus may I be content,   be a glory to thee   and an example to others.
-
+Day and night are thine,
+        heaven and earth declare thy glory;
+  but I, a creature of thy power and bounty,
+    have sinned against thee by resisting
+      the dictates of conscience,
+      the demands of thy law,
+      the calls of thy gospel;
+  yet I live under the dispensation of a given hope.
+Deliver me from worldly dispositions,
+  for I am born from above and bound for glory.
+May I view and long after holiness
+  as the beauty and dignity of the soul.
+Let me never slumber, never lose my assurance,
+  never fail to wear armour when passing through
+    enemy land.
+Fit me for every scene and circumstance;
+Stay my mind upon thee and turn my trials
+    to blessings,
+  that they may draw out my gratitude and praise
+  as I see their design and effects.
+Render my obedience to thy will holy, natural,
+    and delightful.
+Rectify all my principles by clear, consistent,
+    and influential views of divine truth.
+Let me never undervalue or neglect any part
+    of thy revealed will.
+May I duly regard the doctrine and practice
+    of the gospel,
+  prizing its commands as well as its promises.
+Sanctify me in every relation, office, transaction
+    and condition of life,
+  that if I prosper I may not be unduly exalted,
+  if I suffer I may not be over-sorrowful.
+Balance my mind in all varying circumstances
+  and help me to cultivate a disposition
+  that renders every duty a spiritual privilege.
+Thus may I be content,
+  be a glory to thee
+  and an example to others.
 </pre>
 
 ___
