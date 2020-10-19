@@ -10,7 +10,10 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 66:18-19
+18 “For I know their works and their thoughts, and the time is coming to gather all nations and tongues. And they shall come and shall see my glory, 19 and I will set a sign among them. And from them I will send survivors to the nations, to Tarshish, Pul, and Lud, who draw the bow, to Tubal and Javan, to the coastlands far away, that have not heard my fame or seen my glory. And they shall declare my glory among the nations.
+
+___
 
 # Pray to preach the gospel
 

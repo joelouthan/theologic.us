@@ -11,8 +11,8 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">Glorious God</div>
+My heart praises thee for the wonder of thy love in Jesus; He is heaven’s darling, but is for me   the incarnate, despised, rejected,   crucified sin-bearer; In him thy grace has almost out-graced itself, In him thy love to rebels has reached its height; O to love thee with a love like this! My heart is stone, melt it with thy love, My heart is locked, let thy love be the master key     to open it; O Father, I adore thee for thy great love     in the gift of Jesus, O Jesus, I bless thee for resigning thy life for me, O Holy Spirit, I thank thee for revealing to me     this mystery; Great God, let thy Son see in me the travail     of his soul! Bring me away from my false trusts to rest in him,     and him only. Let me not be so callous to his merit     as not to love him,   so indifferent to his blood     as not to desire cleansing. Lord Jesus, Master, Redeemer, Saviour,   come and take entire possession of me;   this is thy right by purchase. In the arms of love enfold and subdue     my wilful spirit. Take, sanctify, use my every faculty. I am not ashamed of my hope,   nor has my confidence led me into confusion. I trusted in thee regarding my innumerable sins,   and thou hast cast them behind thy back. I trusted in thee when evils encompassed me,   and thou broughtest me out into a wealthy place. I trusted in thee in an hour of distress,   and thou didst not fail me, though faith trembled. O God of the eternal choice, O God of the restored possession purchased     on the tree, O God of the effectual call, Father, Son, Holy Spirit,   I adore thy glory, honour, majesty, power,     dominion for ever.
 </pre>
 
 ___
