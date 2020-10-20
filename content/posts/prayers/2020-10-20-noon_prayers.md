@@ -11,8 +11,45 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">O GOD, THOU ART VERY GREAT,</div>
 
+My lot is to approach thee with godly fear
+        and humble confidence,
+  for thy condescension equals thy grandeur,
+  and thy goodness is thy glory.
+I am unworthy, but thou dost welcome;
+  guilty, but thou art merciful;
+  indigent, but thy riches are unsearchable.
+Thou hast shown boundless compassion towards me
+  by not sparing thy Son,
+  and by giving me freely all things in him;
+This is the foundation of my hope,
+  the refuge of my safety,
+  the new and living way to thee,
+  the means of that conviction of sin,
+    brokenness of heart, and self-despair,
+    which will endear to me the gospel.
+Happy are they who are Christ’s,
+  in him at peace with thee,
+    justified from all things,
+    delivered from coming wrath,
+    made heirs of future glory;
+Give me such deadness to the world,
+  such love to the Saviour,
+  such attachment to his house,
+  such devotedness to his service,
+    as proves me a subject of his salvation.
+May every part of my character and conduct
+  make a serious and amiable impression on others,
+  and impel them to ask the way to the Master.
+Let no incident of life, pleasing or painful,
+  injure the prosperity of my soul,
+  but rather increase it.
+Send me thy help,
+  for thine appointments are not meant
+    to make me independent of thee,
+  and the best means will be vain
+    without super-added blessings.
 </pre>
 
 ___
