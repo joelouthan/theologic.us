@@ -10,7 +10,16 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Isaiah 66:21-23
+21 And some of them also I will take for priests and for Levites, says the LORD.
+22 “For as the new heavens and the new earth
+that I make
+shall remain before me, says the LORD,
+so shall your offspring and your name remain.
+23 From new moon to new moon,
+and from Sabbath to Sabbath,
+all flesh shall come to worship before me,
+declares the LORD.
 
 ___
 
