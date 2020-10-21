@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Friday, 23 October 2020'
+title: 'Evening Prayers for Wednesday, 18 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-23T20:00:00-06:00
-url: /pm_prayers/2020-10-23-pm_prayers/
+publishDate: 2020-11-18T20:00:00-06:00
+url: /pm_prayers/2020-11-18-pm_prayers/
 categories:
  - Prayers
 tags:

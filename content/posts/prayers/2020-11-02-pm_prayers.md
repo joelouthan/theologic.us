@@ -10,11 +10,12 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+
+
 
 ___
 
-# Prayers for those who are trapped in NAR churches
+# Prayers for past churchs
 
 ## Antioch Norman
 
@@ -30,6 +31,8 @@ Keep your presence there.
 
 Have you way in them.
 
+___
+
 ## Bethesda Church
 
 **Pastor Dan & Becky Smith**
@@ -40,6 +43,8 @@ Have you way in them.
 
 **Anthony & wife, fam**
 
+___
+
 ## Gateway Church
 
 **Kristi**
@@ -48,6 +53,7 @@ Have you way in them.
 
 **Court & Lauryn, kids**
 
+___
 
 ## Catch the Fire DFW
 
@@ -79,7 +85,11 @@ Have you way in them.
 
 **Tom Gardner**
 
+___
+
 ## Antioch OKC
+
+___
 
 ## Prayer for other churches
 
@@ -98,8 +108,6 @@ ___
 Lord, would you raise up even more leaders for Norman. No matter what direction we take please tap more leaders.  More musicians. More of your Son in each of us so it won’t be dependent on any of us but on you alone.  
 
 Lord, be glorified in our homes and in our city. Today. 
-
-___
 
 # Core
 
@@ -197,6 +205,8 @@ ___
 **Deanna & James, Quinn**
 
 **Eric & Megan, Leeland, Baby**
+
+___
 
 ### Jhigh girls
 * Becca Finocchiaro - identity in Jesus apart from siblings, confidence in who Jesus made her.

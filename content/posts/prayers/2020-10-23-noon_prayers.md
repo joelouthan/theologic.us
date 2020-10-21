@@ -452,6 +452,39 @@ My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesu
 
 Draw me closer. Let the world die to me so I can live to you.
 
+---
+
+## 12th & Alameda
+
+Hunter & Maddie
+Bailey
+Abby & Forrest
+Isabella
+Beth
+Rachel
+Claire
+Hannah
+Emily
+
+## Brookhaven
+
+Ethan & Arden
+Jordan Campbell
+
+## Rock Creek
+
+Aaron & Natasha, Audrey
+David & Letha, girls
+Chuck & Lauren, Emily, Timothy, Rebecca, Zachary, Samuel
+Scott & Melody, Emily, Adelyn, Caleb
+Riley & Emily, Oliver
+Andrew & Andie
+Phong
+Jessy & Carrie
+Eric
+Trey & Kathleen
+Daniel & Jamie, Atlas, August
+
 ___
 
 # Discipleship Group
@@ -477,7 +510,7 @@ I love you so much.
 - Zachary - salvation; acting out - lying & stealing screentime, respectful, struggling with Lauren as teaching
 - Samuel - salvation
 
-## Riley & Emily
+## Riley & Emily, Oliver
 - Oliver is here!
 - Logan - salvation
 
