@@ -11,8 +11,44 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">BENIGN LORD,</div>
+I praise thee continually for permission
+    to approach thy throne of grace,
+    and to spread my wants and desires
+      before thee.
+I am not worthy of thy blessings and mercies
+  for I am far gone from original righteousness;
+My depraved nature reveals itself in disobedience
+    and rebellion;
+My early days discovered in me discontent, pride,
+    envy, revenge.
+Remember not the sins of my youth,
+  nor the multiplied transgressions of later years,
+    my failure to improve time and talents,
+    my abuse of mercies and means,
+    my wasted sabbaths,
+    my perverted seasons of grace,
+    my long neglect of thy great salvation,
+    my disregard of the Friend of sinners.
+While I confess my guilt, help me to feel it deeply,
+  with self-abhorrence and self-despair, yet
+  to remember there is hope in thee,
+  and to see the Lamb that takes away sin.
+Through him may I return to thee,
+  listen to thee,
+  trust in thee,
+  delight in thy law,
+  obey thee,
+  be upheld by thee.
+Preserve my understanding from error,
+  my affections from love of idols,
+  my lips from speaking guile,
+  my conduct from stain of vice,
+  my character from appearance of evil,
+    that I may be harmless, blameless, rebukeless,
+    exemplary, useful, light-giving, prudent,
+    zealous for thy glory
+      and the good of my fellow-men.
 </pre>
 
 ___
