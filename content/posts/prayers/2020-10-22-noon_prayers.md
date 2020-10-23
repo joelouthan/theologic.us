@@ -11,8 +11,46 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">O LORD,
+</div>
 
+In prayer I launch far out into the eternal world,
+    and on that broad ocean my soul triumphs
+    over all evils on the shores of mortality.
+Time, with its gay amusements and cruel
+  disappointments, never appears so inconsiderate
+    as then.
+In prayer I see myself as nothing;
+  I find my heart going after thee with intensity,
+  and long with vehement thirst to live to thee.
+Blessed be the strong gales of the Spirit
+  that speed me on my way to the New Jerusalem.
+In prayer all things here below vanish,
+  and nothing seems important
+  but holiness of heart and the salvation of others.
+In prayer all my worldly cares, fears, anxieties
+    disappear,
+  and are of as little significance as a puff of wind.
+In prayer my soul inwardly exults with lively
+  thoughts at what thou art doing for thy church,
+  and I long that thou shouldest get thyself a great
+  name from sinners returning to Zion.
+In prayer I am lifted above the frowns and flatteries
+    of life,
+  and taste heavenly joys;
+  entering into the eternal world
+  I can give myself to thee with all my heart,
+  to be thine for ever.
+In prayer I can place all my concerns in thy hands,
+  to be entirely at thy disposal,
+  having no will or interest of my own.
+In prayer I can intercede for my friends, ministers,
+  sinners, the church, thy kingdom to come,
+  with greatest freedom, ardent hopes,
+    as a son to his father,
+    as a lover to the beloved.
+Help me to be all prayer
+  and never to cease praying.
 </pre>
 
 ___
