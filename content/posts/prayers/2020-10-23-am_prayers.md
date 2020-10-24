@@ -10,7 +10,16 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+Jeremiah 1:1-5
+1 The words of Jeremiah, the son of Hilkiah, one of the priests who were in Anathoth in the land of Benjamin, 2 to whom the word of the LORD came in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign. 3 It came also in the days of Jehoiakim the son of Josiah, king of Judah, and until the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah, until the captivity of Jerusalem in the fifth month.
+
+The Call of Jeremiah
+4 Now the word of the LORD came to me, saying,
+5 “Before I formed you in the womb I knew you,
+and before you were born I consecrated you;
+I appointed you a prophet to the nations.”
+
+___
 
 # Pray to preach the gospel
 

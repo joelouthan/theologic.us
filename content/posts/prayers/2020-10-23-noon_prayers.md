@@ -11,8 +11,49 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">O GOD OF THE OPEN EAR,
+</div>
 
+Teach me to live by prayer
+      as well as by providence,
+  for myself, soul, body, children, family, church;
+Give me a heart frameable to thy will;
+  so might I live in prayer,
+  and honour thee,
+  being kept from evil, known and unknown.
+Help me to see the sin that accompanies all I do,
+  and the good I can distil from everything.
+Let me know that the work of prayer is to bring
+    my will to thine,
+  and that without this it is folly to pray;
+When I try to bring thy will to mine it is
+    to command Christ,
+  to be above him, and wiser than he:
+    this is my sin and pride.
+I can only succeed when I pray
+  according to thy precept and promise,
+  and to be done with as it pleases thee,
+  according to thy sovereign will.
+When thou commandest me to pray
+    for pardon, peace, brokenness,
+  it is because thou wilt give me the thing promised,
+    for thy glory,
+    as well as for my good.
+Help me not only to desire small things
+  but with holy boldness to desire great things
+    for thy people, for myself,
+    that they and I might live to show thy glory.
+Teach me
+  that it is wisdom for me to pray for all I have,
+    out of love, willingly, not of necessity;
+  that I may come to thee at any time,
+    to lay open my needs acceptably to thee;
+  that my great sin lies in my not keeping
+    the savour of thy ways;
+  that the remembrance of this truth is one way
+    to the sense of thy presence;
+  that there is no wrath like the wrath of being
+    governed by my own lusts for my own ends.
 </pre>
 
 ___
