@@ -11,7 +11,45 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">GRACIOUS LORD,
+</div>
+Thy name is love,
+      in love receive my prayer.
+My sins are more than the wide sea’s sand,
+  but where sin abounds,
+  there is grace more abundant.
+Look to the cross of thy beloved Son,
+  and view the preciousness of his atoning blood;
+Listen to his never-failing intercession,
+  and whisper to my heart, ‘Thy sins are forgiven,
+    be of good cheer, lie down in peace.’
+Grace cataracts from heaven and flows for ever,
+  and mercy never wearies in bestowing benefits.
+Grant me more and more
+  to prize the privilege of prayer,
+  to come to thee as a sin-soiled sinner,
+  to find pardon in thee,
+  to converse with thee;
+  to know thee in prayer as
+        the path in which my feet tread,
+        the latch upon the door of my lips,
+        the light that shines through my eyes,
+        the music of my ears,
+        the marrow of my understanding,
+        the strength of my will,
+        the power of my affection,
+        the sweetness of my memory.
+May the matter of my prayer be always
+  wise, humble, submissive,
+  obedient, scriptural, Christ-like.
+Give me unwavering faith
+  that supplications are never in vain,
+  that if I seem not to obtain my petitions
+    I shall have larger, richer answers,
+    surpassing all that I ask or think.
+Unsought, thou hast given me
+  the greatest gift, the person of thy Son,
+  and in him thou wilt give me all I need.
 
 </pre>
 
