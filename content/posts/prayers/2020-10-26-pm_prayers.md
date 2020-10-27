@@ -11,7 +11,8 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 1:9 Then the LORD put out his hand and touched my mouth. And the LORD said to me,
+“Behold, I have put my words in your mouth.
 
 ___
 

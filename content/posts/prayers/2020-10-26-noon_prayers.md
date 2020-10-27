@@ -11,8 +11,48 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">O GOD OF MY DELIGHT,
+</div>
+Thy throne of grace
+      is the pleasure ground of my soul.
+Here I obtain mercy in time of need,
+  here see the smile of thy reconciled face,
+  here joy pleads the name of Jesus,
+  here I sharpen the sword of the Spirit,
+      anoint the shield of faith,
+      put on the helmet of salvation,
+      gather manna from thy Word,
+      am strengthened for each conflict,
+      nerved for the upward race,
+      empowered to conquer every foe;
+Help me to come to Christ
+  as the fountain head of descending blessings,
+  as a wide open flood-gate of mercy.
+I marvel at my insensate folly, that
+  with such enriching favours within my reach
+  I am slow to extend the hand to take them.
+Have mercy upon my deadness for thy Name’s sake.
+Quicken me, stir me, fill me with holy zeal.
+Strengthen me that I may cling to thee
+    and not let thee go.
+May thy Spirit within me draw all blessings
+    from thy hand.
+When I advance not, I backslide.
+Let me walk humbly because of good omitted
+    and evil done.
+Impress on my mind the shortness of time,
+  the work to be engaged in,
+  the account to be rendered,
+  the nearness of eternity,
+  the fearful sin of despising thy Spirit.
+May I never forget that
+  thy eye always sees,
+  thy ear always hears,
+  thy recording hand always writes.
+May I never give thee rest until Christ is
+  the pulse of my heart;
+  the spokesman of my lips,
+  the lamp of my feet.
 </pre>
 
 ___
