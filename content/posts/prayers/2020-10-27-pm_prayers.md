@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 1:11-12 And the word of the LORD came to me, saying, “Jeremiah, what do you see?” And I said, “I see an almond branch.” 12 Then the LORD said to me, “You have seen well, for I am watching over my word to perform it.”
 
 ___
 

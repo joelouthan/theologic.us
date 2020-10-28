@@ -10,7 +10,10 @@ tags:
  - 'Prayers'
 draft: true
 ---
-      
+
+Jeremiah 1:13 The word of the LORD came to me a second time, saying, “What do you see?” And I said, “I see a boiling pot, facing away from the north.”
+
+___
 
 # Pray to preach the gospel
 
