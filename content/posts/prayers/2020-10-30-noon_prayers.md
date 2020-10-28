@@ -10,8 +10,10 @@ tags:
  - 'Prayers'
 draft: true
 ---
+
 <pre>
-<div style="font-variant: small-caps;"></div>
+<div style="font-variant: small-caps;">
+</div>
 
 </pre>
 
@@ -57,8 +59,6 @@ ___
 
 **the devastations of many generations.**
 
-
-
 **Strangers shall stand and tend your flocks;**
 
 **foreigners shall be your plowmen and vinedressers;**
@@ -79,8 +79,6 @@ ___
 
 **they shall have everlasting joy.**
 
-
-
 **For I the LORD love justice;**
 
 **I hate robbery and wrong;**
@@ -96,8 +94,6 @@ ___
 **all who see them shall acknowledge them,**
 
 **that they are an offspring the LORD has blessed.**
-
-
 
 **I will greatly rejoice in the LORD;**
 
