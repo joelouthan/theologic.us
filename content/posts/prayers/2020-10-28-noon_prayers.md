@@ -11,8 +11,50 @@ tags:
 draft: true
 ---
 <pre>
-<div style="font-variant: small-caps;"></div>
-
+<div style="font-variant: small-caps;">O God,
+</div>
+May I never be a blot or a blank in life,
+        cause the way of truth to be evil spoken of,
+  or make my liberty an occasion to the flesh.
+May I by love serve others, and please my neighbour
+  for his good to edification.
+May I attend to what is ornamental as well as
+  essential in religion, pursuing things that are
+  lovely and of good report.
+May I render my profession of the gospel
+  not only impressive, but amiable and inviting.
+May I hold forth the way of Jesus
+  with my temper as well as my tongue,
+  with my life as well as my lips.
+May I say to all I meet,
+  I am journeying towards the Lord’s given place,
+  come with me for your good.
+May I be prepared for all the allotments
+    of this short, changing, uncertain life, with
+  a useful residence in it,
+  a comfortable journey through it,
+  a safe passage out of it.
+May I be in character and conduct like
+  the dew of heaven,
+  the salt of the earth,
+  the light of the world,
+  the fullness of the fountain.
+May I never
+  be ashamed of Jesus or his words,
+  be deterred from fulfilling a known duty
+    through fear,
+  be discouraged from attempting it
+    through weakness.
+May I see all things in a divine light so that they may
+  inform my judgment
+  and sanctify my heart.
+And by all the disciplines of thy providence,
+  and all the ordinances of religion,
+  may I be increasingly prepared for
+    life’s remaining duties,
+    the solemnities of a dying hour,
+    and the joys and services
+      that lie beyond the grave.
 </pre>
 
 ___

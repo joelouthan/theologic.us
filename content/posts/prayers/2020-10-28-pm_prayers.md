@@ -11,7 +11,8 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 1:14-16
+14 Then the LORD said to me, “Out of the north disaster shall be let loose upon all the inhabitants of the land. 15 For behold, I am calling all the tribes of the kingdoms of the north, declares the LORD, and they shall come, and every one shall set his throne at the entrance of the gates of Jerusalem, against all its walls all around and against all the cities of Judah. 16 And I will declare my judgments against them, for all their evil in forsaking me. They have made offerings to other gods and worshiped the works of their own hands.
 
 ___
 
