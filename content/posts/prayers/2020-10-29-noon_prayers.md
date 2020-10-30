@@ -12,9 +12,40 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">REMEMBER, O MY SOUL,
 </div>
+It is thy duty and privilege to rejoice in God:
+He requires it of thee for all his favours of grace.
+Rejoice then in the Giver and his goodness,
+Be happy in him, O my heart, and in nothing but God, for whatever a man trusts in, from that he expects happiness.
 
+He who is the ground of thy faith
+  should be the substance of thy joy.
+Whence then comes heaviness and dejection,
+  when joy is sown in thee,
+    promised by the Father,
+    bestowed by the Son,
+    inwrought by the Holy Spirit,
+    thine by grace,
+    thy birthright in believing?
+
+Art thou seeking to rejoice in thyself
+  from an evil motive of pride and self-reputation?
+Thou hast nothing of thine own but sin,
+  nothing to move God to be gracious
+  or to continue his grace towards thee.
+If thou forget this thou wilt lose thy joy.
+Art thou grieving under a sense of indwelling sin?
+Let godly sorrow work repentance,
+  as the true spirit which the Lord blesses,
+  and which creates fullest joy;
+Sorrow for self opens rejoicing in God,
+Self-loathing draws down divine delights.
+Hast thou sought joys in some creature comfort?
+Look not below God for happiness;
+  fall not asleep in Delilah’s lap.
+Let God be all in all to thee,
+  and joy in the fountain that is always full.
 </pre>
 
 ___
