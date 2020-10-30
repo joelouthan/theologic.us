@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Thursday, 5 November 2020'
+title: 'Morning Prayers for Sunday, 29 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-05T06:00:00-06:00
-url: /am_prayers/2020-11-05-am_prayers/
+publishDate: 2020-11-29T06:00:00-06:00
+url: /am_prayers/2020-11-29-am_prayers/
 categories:
  - Prayers
 tags:
