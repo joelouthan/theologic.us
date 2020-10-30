@@ -23,6 +23,12 @@ ___
 
 # Prayers for past churches
 
+---
+
+## Mosaic East
+
+---
+
 ## Antioch Norman
 
 Lord,
