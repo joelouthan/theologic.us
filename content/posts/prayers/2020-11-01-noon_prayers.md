@@ -12,9 +12,48 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">O LORD GOD,
 </div>
-
+Teach me to know that grace precedes,
+      accompanies, and follows my salvation,
+  that it sustains the redeemed soul,
+  that not one link of its chain can ever break.
+From Calvary’s cross wave upon wave of grace
+  reaches me,
+  deals with my sin,
+  washes me clean,
+  renews my heart,
+  strengthens my will,
+  draws out my affection,
+  kindles a flame in my soul,
+  rules throughout my inner man,
+  consecrates my every thought, word, work,
+  teaches me thy immeasurable love.
+How great are my privileges in Christ Jesus!
+Without him I stand far off, a stranger, an outcast;
+  in him I draw near and touch his kingly sceptre.
+Without him I dare not lift up my guilty eyes;
+  in him I gaze upon my Father-God and Friend.
+Without him I hide my lips in trembling shame;
+  in him I open my mouth in petition and praise.
+Without him all is wrath and consuming fire;
+  in him is all love, and the repose of my soul.
+Without him is gaping hell below me, and eternal
+    anguish;
+  in him its gates are barred to me by his precious
+    blood.
+Without him darkness spreads its horrors in front;
+  in him an eternity of glory is my boundless
+    horizon.
+Without him all within me is terror and dismay,
+  in him every accusation is charmed into joy and
+    peace.
+Without him all things external call for my
+    condemnation;
+  in him they minister to my comfort,
+  and are to be enjoyed with thanksgiving.
+Praise be to thee for grace,
+  and for the unspeakable gift of Jesus.
 </pre>
 
 ___

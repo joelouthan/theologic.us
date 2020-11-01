@@ -11,7 +11,18 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:1-3
+Israel Forsakes the LORD
+1 The word of the LORD came to me, saying, 2 “Go and proclaim in the hearing of Jerusalem, Thus says the LORD,
+“I remember the devotion of your youth,
+your love as a bride,
+how you followed me in the wilderness,
+in a land not sown.
+3 Israel was holy to the LORD,
+the firstfruits of his harvest.
+All who ate of it incurred guilt;
+disaster came upon them,
+declares the LORD.”
 
 ---
 

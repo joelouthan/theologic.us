@@ -11,7 +11,11 @@ tags:
 draft: true
 ---
 
+Lord, please provide us a second car. A good car. We don’t want more bills but we do need your provision.  Give us wisdom. Use this for your kingdom.  Amen. 
 
+___
+
+Jeremiah 1:18-19 And I, behold, I make you this day a fortified city, an iron pillar, and bronze walls, against the whole land, against the kings of Judah, its officials, its priests, and the people of the land. 19 They will fight against you, but they shall not prevail against you, for I am with you, declares the LORD, to deliver you.”
 
 ___
 
