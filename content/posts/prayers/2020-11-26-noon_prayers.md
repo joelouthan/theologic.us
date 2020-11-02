@@ -330,7 +330,19 @@ Aimee & James Coker
 > **“I am the good shepherd. I know my own, and my own know me, just as the Father knows me, and I know the Father. I lay down my life for the sheep. But I have other sheep that are not from this sheep pen; I must bring them also, and they will listen to my voice. Then there will be one flock, one shepherd. This is why the Father loves me, because I lay down my life so that I may take it up again. No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”**
 
 - **Antioch OKC** 
-- **Everlasting Life Baptist Church** - Terry & Carol Wilson 
+
+---
+
+## Everlasting Life Baptist Church
+- Terry & Carol Wilson 
+
+---
+
+## Ariel Chapel Ministries
+- Nick Harris
+
+---
+
 - **FaithChurch** - Joshua and Tiffany Cossey
 - **FaithChurch Hinton** - Mark and Brianna Lumpkin
 - **LifeSpring Church** Jeff Robinett
