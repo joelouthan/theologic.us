@@ -11,7 +11,27 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:4-8
+4 Hear the word of the LORD, O house of Jacob, and all the clans of the house of Israel. 5 Thus says the LORD:
+“What wrong did your fathers find in me
+that they went far from me,
+and went after worthlessness, and became worthless?
+6 They did not say, Where is the LORD
+who brought us up from the land of Egypt,
+who led us in the wilderness,
+in a land of deserts and pits,
+in a land of drought and deep darkness,
+in a land that none passes through,
+where no man dwells?’
+7 And I brought you into a plentiful land
+to enjoy its fruits and its good things.
+But when you came in, you defiled my land
+and made my heritage an abomination.
+8 The priests did not say, ‘Where is the LORD?’
+Those who handle the law did not know me;
+the shepherds transgressed against me;
+the prophets prophesied by Baal
+and went after things that do not profit.
 
 ___
 
