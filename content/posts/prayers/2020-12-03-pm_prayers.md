@@ -1,21 +1,33 @@
 ---
-title: 'Evening Prayers for Monday, 19 October 2020'
+title: 'Evening Prayers for Thursday, 3 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-10-19T20:00:00-06:00
-url: /pm_prayers/2020-10-19-pm_prayers/
+publishDate: 2020-12-03T20:00:00-06:00
+url: /pm_prayers/2020-12-03-pm_prayers/
 categories:
  - Prayers
 tags:
  - 'Prayers'
 draft: true
 ---
-Isaiah 66:20
-20 And they shall bring all your brothers from all the nations as an offering to the LORD, on horses and in chariots and in litters and on mules and on dromedaries, to my holy mountain Jerusalem, says the LORD, just as the Israelites bring their grain offering in a clean vessel to the house of the LORD.
 
-___
 
-# Prayers for those who are trapped in NAR churches
+
+---
+
+# Pray to preach the gospel
+
+> **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
+
+---
+
+# Prayers for past churches
+
+---
+
+## Mosaic East
+
+---
 
 ## Antioch Norman
 
@@ -31,6 +43,8 @@ Keep your presence there.
 
 Have you way in them.
 
+---
+
 ## Bethesda Church
 
 **Pastor Dan & Becky Smith**
@@ -41,6 +55,8 @@ Have you way in them.
 
 **Anthony & wife, fam**
 
+---
+
 ## Gateway Church
 
 **Kristi**
@@ -49,6 +65,7 @@ Have you way in them.
 
 **Court & Lauryn, kids**
 
+---
 
 ## Catch the Fire DFW
 
@@ -80,7 +97,11 @@ Have you way in them.
 
 **Tom Gardner**
 
+---
+
 ## Antioch OKC
+
+---
 
 ## Prayer for other churches
 
@@ -90,7 +111,7 @@ Have you way in them.
 
 **Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
-___
+---
 
 # Frontline
 
@@ -99,8 +120,6 @@ ___
 Lord, would you raise up even more leaders for Norman. No matter what direction we take please tap more leaders.  More musicians. More of your Son in each of us so it won’t be dependent on any of us but on you alone.  
 
 Lord, be glorified in our homes and in our city. Today. 
-
-___
 
 # Core
 
@@ -152,7 +171,7 @@ Hope Wilson
 
 Janelle Rogers
 
-___
+---
 
 # Frontline Norman
 
@@ -164,7 +183,7 @@ But not my will but your will be done.
 
 Amen.
 
-___
+---
 
 # Frontline South
 
@@ -198,6 +217,8 @@ ___
 **Deanna & James, Quinn**
 
 **Eric & Megan, Leeland, Baby**
+
+---
 
 ### Jhigh girls
 * Becca Finocchiaro - identity in Jesus apart from siblings, confidence in who Jesus made her.
@@ -236,33 +257,33 @@ ___
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
-___
+---
 
 # Frontline Central
 
 **Josh & Nancy, +kiddos**
 
-___
+---
 
 # Frontline Shawnee
 
 Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben and all the peoples at Shawnee.
 
-___
+---
 
 # Frontline Yukon
 
-___
+---
 
 # Frontline Edmond
 
-___
+---
 
 # Frontline Downtown
 
-___
+---
 
 # Frontline Midwest City
 
-___
+---
 

@@ -19,7 +19,7 @@ draft: true
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
-___
+---
 
 # Prayers for past churches
 
@@ -43,7 +43,7 @@ Keep your presence there.
 
 Have you way in them.
 
-___
+---
 
 ## Bethesda Church
 
@@ -55,7 +55,7 @@ ___
 
 **Anthony & wife, fam**
 
-___
+---
 
 ## Gateway Church
 
@@ -65,7 +65,7 @@ ___
 
 **Court & Lauryn, kids**
 
-___
+---
 
 ## Catch the Fire DFW
 
@@ -97,11 +97,11 @@ ___
 
 **Tom Gardner**
 
-___
+---
 
 ## Antioch OKC
 
-___
+---
 
 ## Prayer for other churches
 
@@ -111,7 +111,7 @@ ___
 
 **Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
 
-___
+---
 
 # Frontline
 
@@ -171,7 +171,7 @@ Hope Wilson
 
 Janelle Rogers
 
-___
+---
 
 # Frontline Norman
 
@@ -183,7 +183,7 @@ But not my will but your will be done.
 
 Amen.
 
-___
+---
 
 # Frontline South
 
@@ -218,7 +218,7 @@ ___
 
 **Eric & Megan, Leeland, Baby**
 
-___
+---
 
 ### Jhigh girls
 * Becca Finocchiaro - identity in Jesus apart from siblings, confidence in who Jesus made her.
@@ -257,33 +257,33 @@ ___
 * Shelby Mathews - emotional health and freedom from anxiety/depression, pressure from parents and sisters to be “perfect” 
 * Hannah Lavender - raised by grandma, attends once a month, really needs healing with rough family and for the Lord to keep her from trying to find identity in hs guys and dating.
 
-___
+---
 
 # Frontline Central
 
 **Josh & Nancy, +kiddos**
 
-___
+---
 
 # Frontline Shawnee
 
 Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben and all the peoples at Shawnee.
 
-___
+---
 
 # Frontline Yukon
 
-___
+---
 
 # Frontline Edmond
 
-___
+---
 
 # Frontline Downtown
 
-___
+---
 
 # Frontline Midwest City
 
-___
+---
 

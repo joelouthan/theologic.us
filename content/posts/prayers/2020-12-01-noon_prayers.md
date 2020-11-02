@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Thursday, 26 November 2020'
+title: 'Noon Prayers for Tuesday, 1 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-26T12:00:00-06:00
-url: /noon_prayers/2020-11-26-noon_prayers/
+publishDate: 2020-12-01T12:00:00-06:00
+url: /noon_prayers/2020-12-01-noon_prayers/
 categories:
  - Prayers
 tags:

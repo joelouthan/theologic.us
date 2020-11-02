@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Friday, 20 November 2020'
+title: 'Morning Prayers for Wednesday, 2 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-20T06:00:00-06:00
-url: /am_prayers/2020-11-20-am_prayers/
+publishDate: 2020-12-02T06:00:00-06:00
+url: /am_prayers/2020-12-02-am_prayers/
 categories:
  - Prayers
 tags:

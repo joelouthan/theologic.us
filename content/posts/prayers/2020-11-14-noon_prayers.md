@@ -17,7 +17,7 @@ draft: true
 
 </pre>
 
-___
+---
 
 **Isaiah 61 (ESV)**
 
@@ -115,7 +115,7 @@ ___
 
 **to sprout up before all the nations.**
 
-___
+---
 
 # Family
 
@@ -123,7 +123,7 @@ ___
 
 **Marmie & Jason, Molly**
 
-___
+---
 
 # Norman
 
@@ -163,7 +163,7 @@ Aimee & James Coker
 
 **Evan** 
 
-___
+---
 
 # Antioch Norman
 
@@ -251,7 +251,7 @@ ___
 
 **Andrew & KK, Claire, Maddie, Jones**
 
-**Donnie & Terri, Matthew, Jessica, Caleb**
+**Donnie & Terri, Matthew, Jessica, Caleb; Astrid & Hubs**
 
 **Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan**
 
@@ -321,7 +321,7 @@ ___
 
 > **1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.**
 
-___
+---
 
 # All the churches in Norman
 
@@ -339,7 +339,16 @@ ___
 - **Apostolic Worship Center** (**United Pentecostal**) - K. L. & Denise Borders
 - **Holy Ancension Orthodox Church** - Fr. Jeremy
 - **Victory Family** - Adam & Kristy Starling
-- **Timber Creek Church** - Josh & Abbey Mings, Owen & Ellie; Glenn & wife Quirk, Lexi, Nixon, and Brody; Amy & David Little, Ava & Holland
+
+---
+
+## Timber Creek Church
+- Josh & Abbey Mings, Owen & Ellie
+- Glenn & Quirk, Lexi, Nixon, and Brody
+- Amy & David Little, Ava & Holland
+
+---
+
 - **Fellowship Church** - Brad Hughes
 - **Northeast Baptist Church** - Ed & Carol Sasnett
 - **NorthHaven Church** - Jakob & Alyssa Topper, Hadley
@@ -367,7 +376,23 @@ ___
 - **Southern Oklahoma Chinese Baptist Church** - David & Linda Chan
 - **Robinson Street Baptist Church** - Ivan & Tammy Moore
 - **Immanuel Baptist Church** - Ken & Letha Huddleston
-- **Providence Road Church** - Blake Hilgenfeld
+
+---
+
+## Providence Road Church
+- Blake Hilgenfeld
+- Ben Schill
+- Matt Mosier
+- Jeremy Hager
+- Bryce Buchanan
+- Vicky Bumgarner
+- Jay Frymire
+- Nicole Hager
+- Steve Morrow
+- Kaylee Smith
+
+---
+
 - **Trinity Baptist Church** - Ronnie W. Rogers
 - **Goodrich Memorial United Methodist Church** - Desi & Jason Brumit
 - **Concord Missionary Baptist Church** - R.L. Clark
@@ -386,7 +411,26 @@ ___
   * Jeff Jennings
   * Ken Snethen
   * Tracey Talley
-- **Redeemer Church** - Andy & Christy McDonald, Jachin, Kimberlyn, Bo, Berline, and Caleb
+
+---
+
+## Redeemer Church
+- Andy & Christy McDonald, Jachin, Kimberlyn, Bo, Berline, and Caleb
+- Andy McDonald
+- Paul Kingery
+- Jacob Labhan
+- Stephen Branch
+- Jon Dobbs
+- Hayden Lane
+- Paige Stroud
+- Josh Caudill
+- Craig Jackson
+- Lindsey Oakes
+- Allison Crampton
+- Grace Depp
+
+---
+
 - **the church in Norman** - (Watchman Nee)
 - **Alameda Church of Christ** - Rusty & Mitzi Tugman, Hope & Cooper
 - **St. Thomas More** - Rev. James A Goins
@@ -400,7 +444,7 @@ ___
 - **Grace Fellowship Norman** - Rick & Andrea Anthony
 - **The Wesley** - Joshua & Bonny Coats, Eli, Adelyn
 
-___
+---
 
 # Frontline Norman
 
@@ -450,38 +494,73 @@ Draw me closer. Let the world die to me so I can live to you.
 
 ---
 
+## South Norman
+
+Lord, please multiply
+
+---
+
+## Central Norman
+
+Lord, please multiply
+
+---
+
 ## 12th & Alameda
 
 Hunter & Maddie
+
 Bailey
+
 Abby & Forrest
+
 Isabella
+
 Beth
+
 Rachel
+
 Claire
+
 Hannah
+
 Emily
+
+---
 
 ## Brookhaven
 
 Ethan & Arden
+
 Jordan Campbell
+
+---
 
 ## Rock Creek
 
 Aaron & Natasha, Audrey
+
 David & Letha, girls
+
 Chuck & Lauren, Emily, Timothy, Rebecca, Zachary, Samuel
+
 Scott & Melody, Emily, Adelyn, Caleb
+
 Riley & Emily, Oliver
+
 Andrew & Andie
+
 Phong
+
 Jessy & Carrie
+
 Eric
+
 Trey & Kathleen
+
 Daniel & Jamie, Atlas, August
 
-___
+---
 
 # Discipleship Group
 
@@ -526,7 +605,7 @@ I love you so much.
 - friend, Ben (Rachel's twin brother) & wife
 - **mom Lara - heart attack**
 
-___
+---
 
 # City of Norman
 
