@@ -11,7 +11,24 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:9-13 “Therefore I still contend with you,
+declares the LORD,
+and with your children's children I will contend.
+10 For cross to the coasts of Cyprus and see,
+or send to Kedar and examine with care;
+see if there has been such a thing.
+11 Has a nation changed its gods,
+even though they are no gods?
+But my people have changed their glory
+for that which does not profit.
+12 Be appalled, O heavens, at this;
+be shocked, be utterly desolate,
+declares the LORD,
+13 for my people have committed two evils:
+they have forsaken me,
+the fountain of living waters,
+and hewed out cisterns for themselves,
+broken cisterns that can hold no water.
 
 ---
 
