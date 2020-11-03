@@ -11,28 +11,7 @@ tags:
 draft: true
 ---
 
-Jeremiah 2:14-19
-“Is Israel a slave? Is he a homeborn servant?
-Why then has he become a prey?
-15 The lions have roared against him;
-they have roared loudly.
-They have made his land a waste;
-his cities are in ruins, without inhabitant.
-16 Moreover, the men of Memphis and Tahpanhes
-have shaved the crown of your head.
-17 Have you not brought this upon yourself
-by forsaking the LORD your God,
-when he led you in the way?
-18 And now what do you gain by going to Egypt
-to drink the waters of the Nile?
-Or what do you gain by going to Assyria
-to drink the waters of the Euphrates?
-19 Your evil will chastise you,
-and your apostasy will reprove you.
-Know and see that it is evil and bitter
-for you to forsake the LORD your God;
-the fear of me is not in you,
-declares the Lord GOD of hosts.
+
 
 ---
 
@@ -41,6 +20,14 @@ declares the Lord GOD of hosts.
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
 ---
+
+Lord,
+
+Please provide a good decent running truck. 
+
+Amen.  
+
+___
 
 # For Sarah
 
@@ -69,6 +56,8 @@ Jamie
 My Lord,
 
 I pray for that you would heal:
+
+Speak to Andrew. You hear your people. You hear Andrew. Speak to him. Clearly. Guide him. Give him sweet peace. Amen.
 
 Heal Faithie. My Lord above, heal my sweet cousin. Comfort her and speak peace. Lay your hand upon her head and continuously give her peace forever. Take care of her and give her body and mind and nervous system healing always. Hold her together with your hands and heart.
 

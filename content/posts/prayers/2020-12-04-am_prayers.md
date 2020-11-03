@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Tuesday, 17 November 2020'
+title: 'Morning Prayers for Friday, 4 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-17T06:00:00-06:00
-url: /am_prayers/2020-11-17-am_prayers/
+publishDate: 2020-12-04T06:00:00-06:00
+url: /am_prayers/2020-12-04-am_prayers/
 categories:
  - Prayers
 tags:

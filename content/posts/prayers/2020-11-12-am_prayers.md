@@ -21,6 +21,14 @@ draft: true
 
 ---
 
+Lord,
+
+Please provide a good decent running truck. 
+
+Amen.  
+
+___
+
 # For Sarah
 
 Melissa
@@ -48,6 +56,8 @@ Jamie
 My Lord,
 
 I pray for that you would heal:
+
+Speak to Andrew. You hear your people. You hear Andrew. Speak to him. Clearly. Guide him. Give him sweet peace. Amen.
 
 Heal Faithie. My Lord above, heal my sweet cousin. Comfort her and speak peace. Lay your hand upon her head and continuously give her peace forever. Take care of her and give her body and mind and nervous system healing always. Hold her together with your hands and heart.
 
