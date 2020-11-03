@@ -11,7 +11,28 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:14-19
+“Is Israel a slave? Is he a homeborn servant?
+Why then has he become a prey?
+15 The lions have roared against him;
+they have roared loudly.
+They have made his land a waste;
+his cities are in ruins, without inhabitant.
+16 Moreover, the men of Memphis and Tahpanhes
+have shaved the crown of your head.
+17 Have you not brought this upon yourself
+by forsaking the LORD your God,
+when he led you in the way?
+18 And now what do you gain by going to Egypt
+to drink the waters of the Nile?
+Or what do you gain by going to Assyria
+to drink the waters of the Euphrates?
+19 Your evil will chastise you,
+and your apostasy will reprove you.
+Know and see that it is evil and bitter
+for you to forsake the LORD your God;
+the fear of me is not in you,
+declares the Lord GOD of hosts.
 
 ---
 
