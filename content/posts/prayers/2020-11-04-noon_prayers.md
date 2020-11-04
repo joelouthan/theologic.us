@@ -12,9 +12,55 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">LORD JESUS,
 </div>
+Give me to love thee, to embrace thee,
+      though I once took lust and sin in my arms.
+      Thou didst love me before I loved thee,
+  an enemy, a sinner, a loathsome worm.
+Thou didst own me when I disclaimed myself;
+Thou dost love me as a son,
+  and weep over me as over Jerusalem.
+Love brought thee from heaven to earth,
+  from earth to the cross,
+  from the cross to the grave.
+Love caused thee to be
+  weary, hungry, tempted,
+  scorned, scourged,
+  buffeted, spat upon,
+  crucified, and pierced.
+Love led thee to bow thy head in death.
+My salvation is the point where
+  perfect created love
+  and the most perfect uncreated love
+    meet together;
+  for thou dost welcome me,
+  not like Joseph and his brothers,
+  loving and sorrowing, but loving and rejoicing.
+This love is not intermittent, cold, changeable;
+  it does not cease or abate for all my enmity.
 
+Holiness is a spark from thy love
+  kindled to a flame in my heart by thy Spirit,
+  and so it ever turns to the place
+    from which it comes.
+Let me see thy love everywhere,
+  not only in the cross,
+  but in the fellowship of believers
+  and in the world around me.
+When I feel the warmth of the sun
+  may I praise thee who art the Sun of righteousness
+    with healing power.
+When I feel the tender rain
+  may I think of the gospel showers
+    that water my soul.
+When I walk by the river side
+  may I praise thee for that stream that makes
+    the eternal city glad, and washes white my robes
+    that I may have the right to the tree of life.
+Thy infinite love is a mystery of mysteries,
+  and my eternal rest lies
+  in the eternal enjoyment of it.
 </pre>
 
 ---
