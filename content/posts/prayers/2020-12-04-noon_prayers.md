@@ -129,6 +129,8 @@ draft: true
 
 > **Matthew 3:12 (CSB) His winnowing shovel is in his hand, and he will clear his threshing floor and gather his wheat into the barn. But the chaff he will burn with fire that never goes out.”**
 
+Bob & Paula Hanger
+
 Andrew & Kate McCracken
 
 Megan & JD Reeves

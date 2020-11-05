@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Monday, 23 November 2020'
+title: 'Noon Prayers for Saturday, 5 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-23T12:00:00-06:00
-url: /noon_prayers/2020-11-23-noon_prayers/
+publishDate: 2020-12-05T12:00:00-06:00
+url: /noon_prayers/2020-12-05-noon_prayers/
 categories:
  - Prayers
 tags:
