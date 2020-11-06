@@ -12,9 +12,51 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">HEAVENLY FATHER,
 </div>
-
+If I should suffer need, and go unclothed,
+    and be in poverty,
+  make my heart prize thy love,
+  know it, be constrained by it,
+  though I be denied all blessings.
+It is thy mercy to afflict and try me with wants,
+  for by these trials I see my sins,
+  and desire severance from them.
+Let me willingly accept misery, sorrows,
+    temptations,
+  if I can thereby feel sin as the greatest evil,
+  and be delivered from it with gratitude to thee,
+  acknowledging this as the highest testimony
+    of thy love.
+When thy Son, Jesus, came into my soul
+    instead of sin, he became more dear to me
+    than sin had formerly been;
+  his kindly rule replaced sin’s tyranny.
+Teach me to believe that if ever I would have any sin
+    subdued
+  I must not only labour to overcome it,
+  but must invite Christ to abide in the place of it,
+  and he must become to me more than
+    vile lust had been;
+  that his sweetness, power, life may be there.
+Thus I must seek a grace from him contrary to sin,
+  but must not claim it apart from himself.
+When I am afraid of evils to come,
+  comfort me by showing me
+    that in myself I am a dying, condemned wretch,
+      but in Christ I am reconciled and live;
+  that in my self I find insufficiency and no rest,
+    but in Christ there is satisfaction and peace;
+  that in myself I am feeble and unable to do good,
+    but in Christ I have ability to do all things.
+Though now I have his graces in part,
+  I shall shortly have them perfectly
+  in that state where thou wilt show thyself
+    fully reconciled,
+  and alone sufficient, efficient,
+    loving me completely,
+  with sin abolished.
+O Lord, hasten that day.
 </pre>
 
 ---
