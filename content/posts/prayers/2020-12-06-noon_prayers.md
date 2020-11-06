@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Thursday, 19 November 2020'
+title: 'Noon Prayers for Sunday, 6 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-19T12:00:00-06:00
-url: /noon_prayers/2020-11-19-noon_prayers/
+publishDate: 2020-12-06T12:00:00-06:00
+url: /noon_prayers/2020-12-06-noon_prayers/
 categories:
  - Prayers
 tags:

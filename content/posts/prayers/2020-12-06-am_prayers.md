@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Thursday, 3 December 2020'
+title: 'Morning Prayers for Sunday, 6 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-03T06:00:00-06:00
-url: /am_prayers/2020-12-03-am_prayers/
+publishDate: 2020-12-06T06:00:00-06:00
+url: /am_prayers/2020-12-06-am_prayers/
 categories:
  - Prayers
 tags:

@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Friday, 6 November 2020'
+title: 'Evening Prayers for Sunday, 6 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-06T20:00:00-06:00
-url: /pm_prayers/2020-11-06-pm_prayers/
+publishDate: 2020-12-06T20:00:00-06:00
+url: /pm_prayers/2020-12-06-pm_prayers/
 categories:
  - Prayers
 tags:
@@ -11,11 +11,7 @@ tags:
 draft: true
 ---
 
-Jeremiah 2:25 (ESV) Keep your feet from going unshod
-and your throat from thirst.
-But you said, ‘It is hopeless,
-for I have loved foreigners,
-and after them I will go.’
+
 
 ---
 

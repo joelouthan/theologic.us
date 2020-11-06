@@ -23,7 +23,9 @@ draft: true
 
 Lord,
 
-Please provide a good decent running truck. 
+Thank you for providing a decent, good and running truck.
+
+I love you, Lord. You alone are my provider.
 
 Amen.  
 
@@ -49,6 +51,14 @@ Jamie
 
 # Give thanks
 
+You gave me my heart. My provision. My joy.
+
+Whatever I have lost, you have restored a millionfold.
+
+Whatever I have, it comes from your hand and is all your own.
+
+If I have nothing or anything, I have everything because I have your Son, Jesus Christ.
+
 ---
 
 # For healing
@@ -57,15 +67,17 @@ My Lord,
 
 I pray for that you would heal:
 
-Speak to Andrew. You hear your people. You hear Andrew. Speak to him. Clearly. Guide him. Give him sweet peace. Amen.
+Keep Melissa. Seal her heart towards you.
 
-Heal Faithie. My Lord above, heal my sweet cousin. Comfort her and speak peace. Lay your hand upon her head and continuously give her peace forever. Take care of her and give her body and mind and nervous system healing always. Hold her together with your hands and heart.
+Speak to Andrew. 
 
-Heal Sean. Vertigo double focus. Lord heal his mind and body. Give him rest and peace. Lord show him the love you have for him.
+Heal Faithie. 
 
-Heal Gerry. Be with Jan and all of the Melenkas in this time.
+Heal Sean. 
 
-Heal Randy (Jordan Mayfield's dad) - possible hospice
+Heal Gerry.
+
+Be with Jordan.
 
 Heal Kathleen (Leah's mom)
 
@@ -193,6 +205,24 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Homie**
 
+**Carlos**
+
+**Kyle**
+
+**Landon**
+
+**Jamie**
+
+**John & wife, kids**
+
+**Jason Sohn**
+
+**Dhruv**
+
+**Yusik**
+
+**Peter**
+
 **Wayne & Nicole Barber** 
 
 **Eric Robinson** 
@@ -200,6 +230,32 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 **Jonathan & Jenn Williams** 
 
 **Evan & Kaylee, Everett, Baby**
+
+---
+
+# StarCraft 2
+
+- Zip
+- MrSleep
+- ogreinside
+- Henex
+- Nitrous
+- Syrill
+- ablindman
+- DamGlam
+- patch
+- batrick
+- cosmicj
+- Codad
+- philosotoss
+
+---
+
+# D&D
+
+- Andrew & Kara
+- Jeff & Emilee
+- Hannah
 
 ---
 

@@ -11,7 +11,16 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:23-24 (ESV) How can you say, ‘I am not unclean,
+I have not gone after the Baals’?
+Look at your way in the valley;
+know what you have done—
+a restless young camel running here and there,
+a wild donkey used to the wilderness,
+in her heat sniffing the wind!
+Who can restrain her lust?
+None who seek her need weary themselves;
+in her month they will find her.
 
 ---
 
@@ -23,7 +32,9 @@ draft: true
 
 Lord,
 
-Please provide a good decent running truck. 
+Thank you for providing a decent, good and running truck.
+
+I love you, Lord. You alone are my provider.
 
 Amen.  
 
@@ -49,6 +60,14 @@ Jamie
 
 # Give thanks
 
+You gave me my heart. My provision. My joy.
+
+Whatever I have lost, you have restored a millionfold.
+
+Whatever I have, it comes from your hand and is all your own.
+
+If I have nothing or anything, I have everything because I have your Son, Jesus Christ.
+
 ---
 
 # For healing
@@ -57,15 +76,15 @@ My Lord,
 
 I pray for that you would heal:
 
-Speak to Andrew. You hear your people. You hear Andrew. Speak to him. Clearly. Guide him. Give him sweet peace. Amen.
+Speak to Andrew. 
 
-Heal Faithie. My Lord above, heal my sweet cousin. Comfort her and speak peace. Lay your hand upon her head and continuously give her peace forever. Take care of her and give her body and mind and nervous system healing always. Hold her together with your hands and heart.
+Heal Faithie. 
 
-Heal Sean. Vertigo double focus. Lord heal his mind and body. Give him rest and peace. Lord show him the love you have for him.
+Heal Sean. 
 
-Heal Gerry. Be with Jan and all of the Melenkas in this time.
+Heal Gerry.
 
-Heal Randy (Jordan Mayfield's dad) - possible hospice
+Be with Jordan.
 
 Heal Kathleen (Leah's mom)
 
