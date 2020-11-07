@@ -646,11 +646,20 @@ I love you so much.
 - Mayor Breea Clark
 - Councilperson Elizabeth Foreman
 
+# State of Oklahoma
+
+- Governor Kevin Stitt, Sarah & children
+
+# United States
+
+- Joe & Jill Biden, Beau, Hunter, Ashley
+- Kamala Harris, Douglas Emhoff, Cole, Ella
+
 I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
-Lord bless my city and her people. 
+Lord, save my city, my state, and my nation and her people. 
 
 > **1 Chronicles 29:18 O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.**
 
