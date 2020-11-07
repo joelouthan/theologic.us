@@ -12,9 +12,41 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">HEAVENLY FATHER,
 </div>
-
+My faith is in thee,
+        My expectation is from thee,
+        My love goes out toward thee,
+  I believe thee,
+      accept thy Word,
+      acquiesce in thy will,
+      rely on thy promises,
+      trust thy providence.
+I bless thee that the court of conscience
+  proves me to be thine.
+I do not need signs and wonders to believe,
+  for thy Word is sure truth.
+I have cast my anchor in the port of peace,
+  knowing that present and future
+    are in nail-pierced hands.
+Thou art so good, wise, just holy,
+  that no mistake is possible to thee.
+Thou art fountain and source of all law;
+  what thou commandest is mine to obey.
+I yield to thy sovereignty all that I am and have;
+  do thou with me as thou wilt.
+Thou hast given me silence in my heart
+  in place of murmurings and complaints.
+Keep my wishes from growing into willings,
+  my willings from becoming fault-finding
+    with thy providences,
+  and have mercy on me.
+If I sin and am rebellious, help me to repent;
+  then take away my mourning and give me music;
+  remove my sackcloth and adorn me with beauty;
+  take away my sighs and fill my mouth with songs;
+  and when I am restored and rest in thee
+  give me summer weather in my heart.
 </pre>
 
 ---

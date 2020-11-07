@@ -11,7 +11,16 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:26-27 (ESV) As a thief is shamed when caught,
+so the house of Israel shall be shamed:
+they, their kings, their officials,
+their priests, and their prophets,
+who say to a tree, ‘You are my father,’
+and to a stone, ‘You gave me birth.’
+For they have turned their back to me,
+and not their face.
+But in the time of their trouble they say,
+‘Arise and save us!’
 
 ---
 
