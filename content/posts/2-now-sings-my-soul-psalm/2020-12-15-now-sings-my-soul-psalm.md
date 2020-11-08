@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 32:5'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-15
@@ -10,10 +10,3 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-<pre>
-
-<pre>
-<pre>
-<div style="font-variant: small-caps;">Lord</div>
-Lorem ipsum
-</pre>

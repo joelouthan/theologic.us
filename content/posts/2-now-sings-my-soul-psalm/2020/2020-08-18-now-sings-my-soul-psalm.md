@@ -15,7 +15,7 @@ draft: true
       3 For when I kept silent, my bones wasted away 
       through my groaning all day long. 
 
-<pre>
+```
 <div style="font-variant: small-caps;">My Only Comfort in Life</div>
 Lorem ipsum
-</pre>
+```

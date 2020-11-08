@@ -10,10 +10,11 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-<pre>
-
-<pre>
-<pre>
+Psalms 32:6 (ESV) Therefore let everyone who is godly
+offer prayer to you at a time when you may be found;
+surely in the rush of great waters,
+they shall not reach him.
+```
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
-</pre>
+```

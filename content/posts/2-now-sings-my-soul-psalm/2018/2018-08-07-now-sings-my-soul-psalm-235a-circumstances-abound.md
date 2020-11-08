@@ -11,7 +11,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 
 ---
-<pre>
+```
   My God,
   
   I have been crushed and 
@@ -51,4 +51,4 @@ tags:
     you set the captives free.
   
   In your Son’s name I pray. Amen. 
-</pre>
+```

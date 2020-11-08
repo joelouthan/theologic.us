@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 32:3'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-01
@@ -8,12 +8,5 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-<pre>
-
-<pre>
-<pre>
-<div style="font-variant: small-caps;">Lord</div>
-Lorem ipsum
-</pre>

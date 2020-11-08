@@ -11,7 +11,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 
 ---
-<pre>
+```
   My Lord,
   
   You are the fountain of true life. 
@@ -42,4 +42,4 @@ tags:
   	so that I stay refreshed 
   	and satisfied in all of life.
   
-</pre>
+```

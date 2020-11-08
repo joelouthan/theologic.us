@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Steadfast Lover</div>
 My enemies have long shamed me
   and I have been beaten to death.
@@ -43,5 +43,5 @@ Do not stop rescuing me.
   Keep me in your presence.
   And draw my heart towards you.
 
-</pre>
+```
 

@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">Precious Redeemer</div>
 I am going to worship you,
 	all of my days
@@ -31,4 +31,4 @@ I have failed
 Let my life and love and my words glorify you
 	al of my days.
 
-</pre>
+```

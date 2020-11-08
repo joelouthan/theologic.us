@@ -10,10 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-<pre>
-
-<pre>
-<pre>
+```
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
-</pre>
+```

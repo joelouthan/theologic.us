@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My God and Lord, </div>
 What blessings have you bestowed upon me,
 	my unshakable foundation,
@@ -42,4 +42,4 @@ Blessed be your holy name forever.
 
 Amen.
 
-</pre>
+```

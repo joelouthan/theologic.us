@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Only Redeemer</div>
 I am filled with iniquity,
    Lord, look at my sins?
@@ -59,4 +59,4 @@ Christ saved me in
 Blessed be your name forever.
 
 Amen.
-</pre>
+```

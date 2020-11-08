@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">
 Great God,
 </div>
@@ -41,4 +41,4 @@ I praise you
     and we do not.
 
 Amen
-</pre>
+```

@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Only Savior</div>
 Who is like you, God?
 	and who compares to you?
@@ -52,5 +52,5 @@ Bring me to your throne,
 
 Amen.
 
-</pre>
+```
 

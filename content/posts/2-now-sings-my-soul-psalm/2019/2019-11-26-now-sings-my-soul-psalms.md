@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Dearest God</div>
 You were mindful of me,  
 	before the foundations of the world  
@@ -86,4 +86,4 @@ Because my God,
 	Forever.  
 
 Amen.  
-</pre>
+```

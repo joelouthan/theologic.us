@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Steadfast Lover</div>
 Who is like you, my Lord,
 	clothed in majesty
@@ -36,4 +36,4 @@ Be exalted.
 My Lord, be exalted.
 
 Amen.
-</pre>
+```

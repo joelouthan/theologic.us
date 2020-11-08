@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">Lover of my soul</div>
 I cry and grieve for those 
   who do not know you. 
@@ -38,4 +38,4 @@ You rescued me
 
 I will love you
   for all of my days. 
-</pre>
+```

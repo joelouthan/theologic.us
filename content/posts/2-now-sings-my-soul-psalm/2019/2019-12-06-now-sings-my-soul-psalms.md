@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Ascended God</div>
 All of Creation is yours.
   It belongs to you,
@@ -38,6 +38,6 @@ Who are you, my Lord?
 
 Amen.
 
-</pre>
+```
 
  

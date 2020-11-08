@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Blessed Redeemer,</div>
 Your Word stands true.
 
@@ -53,4 +53,4 @@ If you say your Spirit has sealed me,
  
 Be exalted in my praise,  
 	my Lord and God.
-</pre>
+```

@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My God,</div>
 I sit in awe
 	of your wonderous works
@@ -44,5 +44,5 @@ Whatever pain, betrayals,
 Save my soul, O Lord,
 	and let me see your glory.
 
-Amen.</pre>
+Amen.```
 

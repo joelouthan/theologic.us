@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My God</div>
 My days here are just for a moment,
 	and you have number them all.
@@ -51,4 +51,4 @@ And now from his fullness,
 	
 Amen.
 
-</pre>
+```

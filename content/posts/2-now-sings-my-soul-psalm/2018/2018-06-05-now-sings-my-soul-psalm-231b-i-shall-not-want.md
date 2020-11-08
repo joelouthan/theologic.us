@@ -9,7 +9,7 @@ categories:
 tags:
   - 'Now Sings My Soul: Psalms'
 ---
-<pre>My Lord Above,
+```My Lord Above,
 
 I thank you for your perfect provision.
 
@@ -59,4 +59,4 @@ I will praise you
 
 And I will love you 
     with all the love you have given me.
-</pre>
+```

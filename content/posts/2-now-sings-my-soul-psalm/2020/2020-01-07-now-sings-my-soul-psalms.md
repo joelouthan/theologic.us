@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">O Lord</div>
 
 Every single adult who were suppose to love me and care for me
@@ -37,5 +37,5 @@ My God, save me.
 
 Amen.
 
-</pre>
+```
 

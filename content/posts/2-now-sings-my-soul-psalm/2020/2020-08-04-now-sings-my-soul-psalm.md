@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
+```
 <div style="font-variant: small-caps;">My Only Savior</div>
 How many times have I have sin against you
    done wickedness in your sight
@@ -76,4 +76,4 @@ Now, I am your son,
 I will forever praise your holy name.
 
 Amen.
-</pre>
+```
