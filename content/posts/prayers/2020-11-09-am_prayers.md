@@ -86,6 +86,8 @@ My Lord,
 
 I pray for that you would heal:
 
+Lord, I lift up Deanna, James & Quinn in this time. Be with them. Smile upon them. Give them peace. Give them joy. Bless them in every single way.
+
 Keep Melissa. Seal her heart towards you.
 
 Speak to Andrew. 
