@@ -41,7 +41,8 @@ You rule and reign
   over all creation
   time
   space
-  planes
+  the material
+  and the spiritual
 
 No one is like you.
 </pre>
