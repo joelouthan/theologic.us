@@ -187,6 +187,8 @@ Amen.
 
 # Frontline South
 
+**Please send us another kid's minister**
+
 **Dena & Dave**
 - Patrick
 - Heather & hubs

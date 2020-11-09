@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Wednesday, 2 December 2020'
+title: 'Evening Prayers for Wednesday, 9 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-02T20:00:00-06:00
-url: /pm_prayers/2020-12-02-pm_prayers/
+publishDate: 2020-12-09T20:00:00-06:00
+url: /pm_prayers/2020-12-09-pm_prayers/
 categories:
  - Prayers
 tags:

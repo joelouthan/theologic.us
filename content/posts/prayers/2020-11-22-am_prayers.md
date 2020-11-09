@@ -67,6 +67,8 @@ My Lord,
 
 I pray for that you would heal:
 
+Deanna & James, Quinn
+
 Keep Melissa. Seal her heart towards you.
 
 Speak to Andrew. 
