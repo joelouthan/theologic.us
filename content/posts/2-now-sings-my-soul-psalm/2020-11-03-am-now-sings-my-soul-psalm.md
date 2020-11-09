@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 33:9'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-03T06:00:00-06:00
@@ -8,11 +8,41 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-33:9 For he spoke, and it came to be; 
-      he commanded, and it stood firm. 
 <pre>
-<div style="font-variant: small-caps;">Lord</div>
-Lorem ipsum
+<div style="font-variant: small-caps;">Lover of my soul</div>
+You are the only being
+  when you speak
+  things actually happen
+  When you promise
+  they are unbreakable
+  When you declare
+  it is so
+  When you proclaim
+  it comes to pass.
+
+All of your promises are yes and amen.
+
+So when I hear your voice,
+  when you beckon me from the depths of hades
+  when you spoke a new identity in me
+  when you called my name
+  I answered.
+
+I was yours from the moment on.
+
+I have tried to flee
+  into my own sins
+  and back into hell.
+  But you are forever my rescuer
+  my portion
+  and deliverer.
+
+You have spoken my name
+  That means I am yours.
+  And that is unbreakable
+  and perfect.
+
+Be glorified today.
 </pre>
