@@ -12,9 +12,47 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">O SPIRIT OF GOD,
 </div>
-
+Help my infirmities;
+      When I am pressed down with a load
+    of sorrow,
+  perplexed and knowing not what to do,
+  slandered and persecuted,
+  made to feel the weight of the cross,
+    help me, I pray thee.
+If thou seest in me
+  any wrong thing encouraged,
+  any evil desire cherished,
+  any delight that is not thy delight,
+  any habit that grieves thee,
+  any nest of sin in my heart,
+    then grant me the kiss of thy forgiveness,
+  and teach my feet to walk the way of
+    thy commandments.
+Deliver me from carking care,
+  and make me a happy, holy person;
+Help me to walk the separated life with
+    firm and brave step,
+  and to wrestle successfully against weakness;
+Teach me to laud, adore, and magnify thee,
+  with the music of heaven,
+And make me a perfume of praiseful gratitude
+    to thee.
+I do not crouch at thy feet as a slave before a tyrant,
+  but exult before thee as a son with a father.
+Give me power to live as thy child in all my actions,
+  and to exercise sonship by conquering self.
+Preserve me from the intoxication that comes
+    of prosperity;
+Sober me when I am glad with a joy that comes
+    not from thee.
+Lead me safely on to the eternal kingdom,
+  not asking whether the road be rough or smooth.
+I request only to see the face of him I love,
+  to be content with bread to eat,
+  with raiment to put on,
+  if I can be brought to thy house in peace.
 </pre>
 
 ---

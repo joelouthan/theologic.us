@@ -11,7 +11,9 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:29 (ESV) Why do you contend with me?
+You have all transgressed against me,
+declares the LORD.
 
 ---
 

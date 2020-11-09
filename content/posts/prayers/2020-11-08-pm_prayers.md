@@ -11,7 +11,19 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:30-32 (ESV) In vain have I struck your children;
+they took no correction;
+your own sword devoured your prophets
+like a ravening lion.
+31 And you, O generation, behold the word of the LORD.
+Have I been a wilderness to Israel,
+or a land of thick darkness?
+Why then do my people say, ‘We are free,
+we will come no more to you’?
+32 Can a virgin forget her ornaments,
+or a bride her attire?
+Yet my people have forgotten me
+days without number.
 
 ---
 
