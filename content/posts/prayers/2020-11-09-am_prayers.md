@@ -11,7 +11,26 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 2:33-37 (ESV) “How well you direct your course
+to seek love!
+So that even to wicked women
+you have taught your ways.
+34 Also on your skirts is found
+the lifeblood of the guiltless poor;
+you did not find them breaking in.
+Yet in spite of all these things
+35 you say, ‘I am innocent;
+surely his anger has turned from me.’
+Behold, I will bring you to judgment
+for saying, ‘I have not sinned.’
+36 How much you go about,
+changing your way!
+You shall be put to shame by Egypt
+as you were put to shame by Assyria.
+37 From it too you will come away
+with your hands on your head,
+for the LORD has rejected those in whom you trust,
+and you will not prosper by them.
 
 ---
 

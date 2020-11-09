@@ -12,9 +12,41 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">GIVER OF ALL GOOD,
 </div>
-
+Streams upon streams of love overflow my path.
+      Thou hast made me out of nothing,
+      hast recalled me from a far country,
+  hast translated me from ignorance to knowledge,
+      from darkness to light,
+      from death to life,
+      from misery to peace,
+      from folly to wisdom,
+      from error to truth,
+      from sin to victory.
+Thanks be to thee for my high and holy calling.
+I bless thee for ministering angels,
+  for the comfort of thy Word,
+  for the ordinances of thy church,
+  for the teaching of thy Spirit,
+  for thy holy sacraments,
+  for the communion of saints,
+  for Christian fellowship,
+  for the recorded annals of holy lives,
+  for examples sweet to allure,
+  for beacons sad to deter.
+Thy will is in all thy provisions
+  to enable me to grow in grace,
+  and to be meet for thy eternal presence.
+My heaven-born faith gives promise of eternal sight,
+  my new birth a pledge of never-ending life.
+I draw near to thee, knowing thou wilt draw near
+    to me.
+I ask of thee, believing thou hast already given.
+I entrust myself to thee, for thou hast redeemed me.
+I bless and adore thee, the eternal God,
+  for the comfort of these thoughts,
+    the joy of these hopes.
 </pre>
 
 ---

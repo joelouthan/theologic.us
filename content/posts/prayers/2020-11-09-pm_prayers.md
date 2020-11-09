@@ -11,7 +11,31 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 3:1-5 (CSB) If a man divorces his wife
+and she leaves him to marry another,
+can he ever return to her?
+Wouldn’t such a land become totally defiled?
+But you!
+You have prostituted yourself with many partners—
+can you return to me?
+This is the LORD’s declaration.
+2 Look to the barren heights and see.
+Where have you not been immoral?
+You sat waiting for them beside the highways
+like a nomad in the desert.
+You have defiled the land
+with your prostitution and wickedness.
+3 This is why the showers haven’t come—
+why there has been no spring rain.
+You have the brazen look of a prostitute
+and refuse to be ashamed.
+4 Haven’t you recently called to me, “My Father!
+You were my friend in my youth.
+5 Will he bear a grudge forever?
+Will he be endlessly infuriated?”
+This is what you have said,
+but you have done the evil things
+you are capable of.
 
 ---
 
