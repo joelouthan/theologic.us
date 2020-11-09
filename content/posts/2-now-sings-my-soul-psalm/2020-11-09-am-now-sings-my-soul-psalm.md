@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-</pre>
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>

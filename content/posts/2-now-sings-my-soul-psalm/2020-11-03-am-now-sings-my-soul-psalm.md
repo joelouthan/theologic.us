@@ -10,8 +10,9 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
-</pre>
+33:9 For he spoke, and it came to be; 
+      he commanded, and it stood firm. 
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>

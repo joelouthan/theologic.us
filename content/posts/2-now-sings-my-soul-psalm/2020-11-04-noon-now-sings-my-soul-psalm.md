@@ -10,8 +10,9 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
-</pre>
+33:13 The LORD looks down from heaven; 
+      he sees all the children of man; 
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>

@@ -10,8 +10,9 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
-</pre>
+33:21 For our heart is glad in him, 
+      because we trust in his holy name. 
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>

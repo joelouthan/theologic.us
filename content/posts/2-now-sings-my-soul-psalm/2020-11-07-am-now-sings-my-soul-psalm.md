@@ -10,8 +10,9 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
-</pre>
+33:22 Let your steadfast love, O LORD, be upon us, 
+      even as we hope in you. 
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>

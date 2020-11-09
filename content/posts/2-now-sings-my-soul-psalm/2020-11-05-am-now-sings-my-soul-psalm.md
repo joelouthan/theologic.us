@@ -10,8 +10,9 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
-</pre>
+33:15 he who fashions the hearts of them all 
+      and observes all their deeds. 
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>

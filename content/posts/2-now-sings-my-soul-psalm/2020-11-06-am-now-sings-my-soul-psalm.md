@@ -10,8 +10,11 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
-</pre>
+33:18-19 Behold, the eye of the LORD is on those who fear him, 
+      on those who hope in his steadfast love, 
+      that he may deliver their soul from death 
+      and keep them alive in famine. 
+<pre>
 <div style="font-variant: small-caps;">Lord</div>
 Lorem ipsum
 </pre>
