@@ -8,7 +8,7 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
 ```
 <div style="font-variant: small-caps;">My God</div>
