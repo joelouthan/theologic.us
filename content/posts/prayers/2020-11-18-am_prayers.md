@@ -25,6 +25,8 @@ Lord,
 
 Thank you for providing a decent, good and running truck.
 
+Lord, should we pursue a replacement for the Acura?
+
 I love you, Lord. You alone are my provider.
 
 Amen.  
