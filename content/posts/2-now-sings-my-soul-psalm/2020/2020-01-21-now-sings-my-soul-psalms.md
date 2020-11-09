@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">My Lord</div>
 I will worship you
 	with all of my days.
@@ -23,4 +23,4 @@ You called me to wait,
 
 Be blessed, O my Lord.
 
-  ```
+  </pre>

@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">O LORD my God,</div>
 I sing praises to your name,
 	for you are worthy
@@ -49,5 +49,5 @@ For all of my treacherous sins,
 	and then rose to glory
 	All because you are glorious.
 
-There is none like you.```
+There is none like you.</pre>
 

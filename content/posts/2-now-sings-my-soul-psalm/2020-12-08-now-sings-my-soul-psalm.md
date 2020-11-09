@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">My Judge and Mercy Alone</div>
 Every sin against me
    does not counter
@@ -74,4 +74,4 @@ But you sent your Son
 You are my God forever.
 
 Forever I will love you.
-```
+</pre>

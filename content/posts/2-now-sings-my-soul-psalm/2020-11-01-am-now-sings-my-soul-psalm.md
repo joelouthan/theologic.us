@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">My God</div>
 While I tried to ignore
   and even 
@@ -39,4 +39,4 @@ Be exalted, O Lord.
 Be lifted up higher and higher.
 
 Amen.
-```
+</pre>

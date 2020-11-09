@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">My Lord Protector</div>
 
 Who has been my shield
@@ -52,5 +52,5 @@ I have sinned all the more
 I praise you, God
   and praise your holy name forever. Amen.
 
-```
+</pre>
 

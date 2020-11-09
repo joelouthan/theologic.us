@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">My Blessed Redeemer,</div>
 Who is like you,
     splendid in majesty
@@ -48,4 +48,4 @@ Forever I will sing
 And I will sing.
 
 
-```
+</pre>

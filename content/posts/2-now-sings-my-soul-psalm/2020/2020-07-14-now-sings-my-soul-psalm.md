@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">The All Good</div>
 My Lord,
 	my life bears witness
@@ -48,4 +48,4 @@ Have mercy on me,
 	for all of eternity.
 	
 Amen.
-```
+</pre>

@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">My Blessed Lord</div>
 
 How many times, my God,
@@ -38,4 +38,4 @@ I am in desperate need of your hand
 	
 Be my blessed Rock
 	forever. Amen.
-```
+</pre>

@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">
 O Lord,  
 </div>
@@ -50,4 +50,4 @@ I love you, Lord.
 	and I lift my voice
 	to worship you.
 	Forevermore.
-```
+</pre>

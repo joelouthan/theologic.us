@@ -11,7 +11,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 
 ---
-```
+</pre>
   My Lord and my God,
   
   Even when I was dead,
@@ -39,4 +39,4 @@ tags:
   
   You are my God. I will adore 
   and worship you forever.
-  ```
+  </pre>

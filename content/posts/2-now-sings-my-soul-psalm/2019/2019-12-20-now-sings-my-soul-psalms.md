@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">Beholder of my righteousness</div>
 You are my Lord,
 	the defender of my heart
@@ -39,5 +39,5 @@ You are the one who set His affections upon me
 Be thou my righteousness forever.
 	It is only you that I trust. 
 
-```
+</pre>
 

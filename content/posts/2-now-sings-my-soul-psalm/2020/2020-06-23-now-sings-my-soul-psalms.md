@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">Keeper of my heart</div>
 I have spent all of my days
   wandering from your presence
@@ -42,4 +42,4 @@ But I love you Lord
  Forever. 
 
 Amen. 
-```
+</pre>

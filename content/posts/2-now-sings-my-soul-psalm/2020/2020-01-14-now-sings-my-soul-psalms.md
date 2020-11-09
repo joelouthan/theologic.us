@@ -10,7 +10,7 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-```
+<pre>
 <div style="font-variant: small-caps;">O Lord</div>
 
 My enemies have been numerous,
@@ -35,5 +35,5 @@ Amen.
 
 
 
-```
+</pre>
 
