@@ -21,9 +21,7 @@ draft: true
 
 ---
 
-Lord,
-
-Lord, can we have a baby?
+Lord, please bring us a baby.
 
 Lord, how can I be closer to my kids and see them more often?
 
