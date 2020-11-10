@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 33:9'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-06T06:00:00-06:00
@@ -8,13 +8,41 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-33:18-19 Behold, the eye of the LORD is on those who fear him, 
-      on those who hope in his steadfast love, 
-      that he may deliver their soul from death 
-      and keep them alive in famine. 
 <pre>
-<div style="font-variant: small-caps;">Lord</div>
-Lorem ipsum
+<div style="font-variant: small-caps;">Lover of my soul</div>
+You are the only being
+  when you speak
+  things actually happen
+  When you promise
+  they are unbreakable
+  When you declare
+  it is so
+  When you proclaim
+  it comes to pass.
+
+All of your promises are yes and amen.
+
+So when I hear your voice,
+  when you beckon me from the depths of hades
+  when you spoke a new identity in me
+  when you called my name
+  I answered.
+
+I was yours from the moment on.
+
+I have tried to flee
+  into my own sins
+  and back into hell.
+  But you are forever my rescuer
+  my portion
+  and deliverer.
+
+You have spoken my name
+  That means I am yours.
+  And that is unbreakable
+  and perfect.
+
+Be glorified today.
 </pre>

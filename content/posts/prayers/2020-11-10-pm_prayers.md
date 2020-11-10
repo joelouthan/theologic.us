@@ -11,7 +11,23 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 3:11-14 (ESV) And the LORD said to me, “Faithless Israel has shown herself more righteous than treacherous Judah. 12 Go, and proclaim these words toward the north, and say,
+“‘Return, faithless Israel,
+declares the LORD.
+I will not look on you in anger,
+for I am merciful,
+declares the LORD;
+I will not be angry forever.
+13 Only acknowledge your guilt,
+that you rebelled against the LORD your God
+and scattered your favors among foreigners under every green tree,
+and that you have not obeyed my voice,
+declares the LORD.
+14 Return, O faithless children,
+declares the LORD;
+for I am your master;
+I will take you, one from a city and two from a family,
+and I will bring you to Zion.
 
 ---
 

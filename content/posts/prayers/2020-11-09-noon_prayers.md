@@ -12,7 +12,8 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">GIVER OF ALL GOOD,
+<div style="font-variant: small-caps;">
+GIVER OF ALL GOOD,
 </div>
 Streams upon streams of love overflow my path.
       Thou hast made me out of nothing,

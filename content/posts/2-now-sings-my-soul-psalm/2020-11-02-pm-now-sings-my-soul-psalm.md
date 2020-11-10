@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 33:8'
+title: 'Now Sings My Soul: Psalm 32:8-9'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-02T20:00:00-06:00
@@ -11,50 +11,57 @@ tags:
 draft: false
 ---
 <pre>
-<div style="font-variant: small-caps;">My Fear and my Joy</div>
+<div style="font-variant: small-caps;">
+Spirit of Christ
+</div>
+Without you,
+  I am completely ignorant of you.
 
-I sit
-  and make no excuses
-  for my sin blinds me
-  my wickedness keeps me deaf
-  my trespasses rob my smarts
-  my treason born death in me.
+There are not enough classes in the world
+  to sit and learn about you.
 
-I could not see your glory
-  I was blind and cannot see
-  and not thing in me
-  could process your beauty.
+There are not enough books
+  to sit and read to know you.
 
-I had no frame
-  no knowledge
-  no heart
-  no love
-  no life.
+All the data in the world
+  multiplied one billion fold
+  couldn't even contain 
+  what the Son has done
+  what the Father has thought
+  let alone how You move.
 
-Therefore I did not fear you.
+All knowledge, wisdom, and understanding
+  philosophies, logic, reason
+  science, medicine, and technology
+  comes from you
+  and is all your own.
 
-When I did see your glory,
-  I fell in awe
-  I lay prostrate in terror
-  my face down because I fear
-  I saw my own sin
-  compare to your holiness
-  and surely I would perish
-  because you are too good.
+More so
+  to even see your glory
+  to even call upon your name
+  to even pray to you
+  to be saved by you
+  that sheer ability and knowledge
+  you will need to give that to us first.
 
-But you reached down
-  gave me life
-  strength to my legs
-  beat to my heart
-  picked me up like a child
-  held me close to your heart
-  and whispered these words,
+We are dead in our trespasses
+  and dead men do not cry out
+  Dead men do not think
+  Dead men cannot pray
+  Dead men cannot worship
+  unless you give them life.
 
-"I do not condemn you
-  and I love you.
-  You never have to sin again
-  for you are mine
-  and I am yours forever.'
+Uncover our eyes
+  open our ears
+  change our minds
+  unmute our tongues
+  exchange our hearts
+  and make Your place
+  into our souls.
 
-Praise your sweet name.
+Mark us
+  seal us
+  unto the Father.
+
+Praise your holy name.
 </pre>

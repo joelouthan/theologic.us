@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 33:10'
+title: 'Now Sings My Soul: Psalm 32:11'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-03T12:00:00-06:00
@@ -10,39 +10,63 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
+Psalms 32:11 (ESV) Be glad in the LORD, and rejoice, O righteous,
+and shout for joy, all you upright in heart!
 <pre>
-<div style="font-variant: small-caps;">Sovereign</div>
-We have made the grandest plans
-  devised the biggest schemes
-  and planned our legacy
-  that we are so certain that lives on.
+<div style="font-variant: small-caps;">
+My Joy and Righteousness
+</div>
+When I was
+  a beast before you
+  a worm beneath the dirt
+  a blasphemer of your holy name
+  an accuser of your beloved people
+  a violent opponent of your dwelling
+  a blind fool of your glory
+  a ignorant recipient of your tender mercies
+  a stonewall to your amazing grace
+  a rejecter of your great love
+  a dead man in my own sins
 
-But you are alone
-  rule and reign over all of creation
-  sets up and takes down kings
-  determines the times and boundaries of our dwelling
+You thought of me
+  you stirred your affections for me
+  you loved me
+  you chose me
+  you called me
+  you saved me
+  you gave me faith
+  you washed away my sins
+  you regenerated my heart
+  you filled me with your Spirit
+  you changed my mind
+  you opened my eyes
+  you cleared my ears
+  you unmuted my tongue
+  you adopted me
+  you called me your own
+  you lavished you affections upon me
+  you justified me
+  you discipline me
+  you sanctify me
+  you conform me to look like your Son
+  you wash me in the water of your word
+  you pour out mercies on me
+  you give me grace upon grace
+  you forever love me
+  you glorified me
 
-Because you are not merely in the present
-  but also currently in the past
-  because you are from everlasting to everlasting
-  and you are currently in the future
-  because you are the God who is there.
+Only then and now
+  my heart is filled with joy
+  my soul stands upright in your presence
+  my being dwells with you
+  my mind captures thoughts towards you
+  my strength chokes out my sin
+  do I love you
 
-Therefore
-  you do not merely do something
-  speaking something
-  think something
-  and cause a chain reaction
-  But you are the chain
-  and the reaction
-  of everything.
+Be my love.
 
-You rule and reign 
-  over all creation
-  time
-  space
-  the material
-  and the spiritual
+Be my everything.
 
-No one is like you.
+For I am yours
+  and you are mine.
 </pre>

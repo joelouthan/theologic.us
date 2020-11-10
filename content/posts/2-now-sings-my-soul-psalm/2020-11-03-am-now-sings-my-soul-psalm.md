@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 33:9'
+title: 'Now Sings My Soul: Psalm 32:10'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-03T06:00:00-06:00
@@ -11,38 +11,48 @@ tags:
 draft: false
 ---
 <pre>
-<div style="font-variant: small-caps;">Lover of my soul</div>
-You are the only being
-  when you speak
-  things actually happen
-  When you promise
-  they are unbreakable
-  When you declare
-  it is so
-  When you proclaim
-  it comes to pass.
+<div style="font-variant: small-caps;">
+Man of sorrows
+</div>
+I have spent much of my life
+  not turning to you
+  not loving you
+  and not trusting in you.
 
-All of your promises are yes and amen.
+And my sorrows and grief fill my heart.
 
-So when I hear your voice,
-  when you beckon me from the depths of hades
-  when you spoke a new identity in me
-  when you called my name
-  I answered.
+I am sorrowful
+  because of my own sins
+  and wickedness before you
 
-I was yours from the moment on.
+I grieve
+  because I wish I have only known you
+  all of my life
 
-I have tried to flee
-  into my own sins
-  and back into hell.
-  But you are forever my rescuer
-  my portion
-  and deliverer.
+You have been my God before
+  since I was in my mother's womb
+  since I nursed at her breasts
+  since I knew how to walk
 
-You have spoken my name
-  That means I am yours.
-  And that is unbreakable
-  and perfect.
+And you pursued me
+  when sin encroached
+  and preyed on my flesh
 
-Be glorified today.
+You loved me
+  when I was being devoured
+  and consumed
+
+And you rescued me
+
+I see you
+  and I hear you
+  and I know you love me
+  because there is no other
+  who could care for me
+  love me so tenderly
+  and perfectly save me
+
+I love you Lord
+and I will worship you
+my Redeemer.
 </pre>

@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 3:6-10 (ESV) The LORD said to me in the days of King Josiah: “Have you seen what she did, that faithless one, Israel, how she went up on every high hill and under every green tree, and there played the whore? 7 And I thought, ‘After she has done all this she will return to me,’ but she did not return, and her treacherous sister Judah saw it. 8 She saw that for all the adulteries of that faithless one, Israel, I had sent her away with a decree of divorce. Yet her treacherous sister Judah did not fear, but she too went and played the whore. 9 Because she took her whoredom lightly, she polluted the land, committing adultery with stone and tree. 10 Yet for all this her treacherous sister Judah did not return to me with her whole heart, but in pretense, declares the LORD.”
 
 ---
 

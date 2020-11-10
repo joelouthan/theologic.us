@@ -11,38 +11,49 @@ tags:
 draft: false
 ---
 <pre>
-<div style="font-variant: small-caps;">Creator and Redeemer</div>
-You are majestic
-  and altogether mighty.
+<div style="font-variant: small-caps;">
+God of my little belief
+</div>
+Oh how many times, O Lord,
+  have I whispered nothings
+  gave half-hearted thanks
+  prayed and did not believe
+  spoke and did not think it was real.
 
-You alone brought something
-  out of nothing.
-  You alone can do that.
+When I was an ungodly husband
+  and my weak non-prayers were unanswered
+  When I was a sinful subject
+  and any other king would ignore me
+  or worse yet
+  have me executed
+  for high treason?
 
-When you created me,
-  you did so from what was created.
-  Out of dirt.
+But that is not you.
 
-  But you also created me
-  out of your heart
-  because of your love for me.
+You are the King who sends his heralds
+  to tell the nations
+  about the good news
+  that the God of the universe
+  relentlessly
+  passionately
+  persistently
+  wonderfully
+  goes after us.
+  Even those of us
+  who are the most vile
+  most wicked
+  the chief of sinners
+  like me.
 
-  And you created me
-  out of your begotten
-  for He was the firstborn
-  among many brethen.
+You rescued me
+  you called on me
+  I call on you.
+  You turn your ear to me
+  because I am your son
+  because of Your Son
+  because of Your Spirit within me
+  becasue you love me.
 
-Because of my sin
-  I was destined to go back into dirt
-  apart from you
-  and under your wrath.
-
-Yet, in your great love,
-  you predestined me
-  not to dirt but to life
-  not apart but to fullness of joy
-  not under your wrath but under your right hand
-  with pleasures forevermore.
-
-Amen.
+Be exalted, O Lord.
+Be exalted higher and higher.
 </pre>

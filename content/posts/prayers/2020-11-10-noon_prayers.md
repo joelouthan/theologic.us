@@ -10,11 +10,46 @@ tags:
  - 'Prayers'
 draft: true
 ---
-
 <pre>
 <div style="font-variant: small-caps;">
+HEAVENLY FATHER
 </div>
-
+Thou hast revealed to me myself
+      as a mass of sin,
+  and thyself as the fullness of goodness,
+    with strength enough to succour me,
+    wisdom enough to guide me,
+    mercy enough to quicken me,
+    love enough to satisfy me.
+Thou hast shown me that because thou art mine
+    I can live by thy life,
+    be strong in thy strength,
+    be guided by thy wisdom;
+  and so I can pitch my thoughts and heart in thee.
+This is the exchange of wonderful love —
+  for me to have thee for myself,
+  and for thee to have me, and to give me thyself.
+There is in thee all fullness of the good I need,
+  and the fullness of all grace to draw me to thyself,
+  who, else, could never have come.
+But having come, I must cleave to thee,
+  be knit to thee,
+  always seek thee.
+There is none all good as thou art:
+With thee I can live without other things,
+  for thou art God all-sufficient,
+  and the glory, peace, rest, joy of the world
+    is a creaturely, perishing thing
+      in comparison with thee.
+Help me to know that he who hopes for nothing
+    but thee,
+  and for all things only for thee, hopes truly,
+  and that I must place all my happiness in holiness,
+    if I hope to be filled with all grace.
+Convince me that I can have no peace at death,
+  nor hope that I should go to Christ,
+    unless I intend to do his will
+  and have his fullness while I live.
 </pre>
 
 ---

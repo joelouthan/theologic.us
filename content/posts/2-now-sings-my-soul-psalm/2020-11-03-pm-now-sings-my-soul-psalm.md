@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 33:11'
+title: 'Now Sings My Soul: Psalm 33:1'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-03T20:00:00-06:00
@@ -11,33 +11,29 @@ tags:
 draft: false
 ---
 <pre>
-<div style="font-variant: small-caps;">Preacher of the Lost Souls</div>
-What does your word say?
-  Your word goes out
-  and does it sets to accomplishes
-  and never returns void?
+<div style="font-variant: small-caps;">
+The Lyrics of the Sweetest Songs
+</div>
+With my voice
+  with every breath
+  I will shout out
+  I will cry out
+  I will sing your holy name
+  I will dance with joy
 
-You have made promises
-  to Adam
-  to Noah
-  to Abraham
-  to David
-  and to all the prophets
+Because you alone are
+  good
+  worthy
+  beautiful
+  lovely
+  wonderful
+  peace
+  joy
+  exalted
+  and raised far above
+  all of my gods
 
-That you will send 
-  the One who would crush the head of the serpent
-  that is Jesus Christ
-  the Savior of his people
-  the Redeemer of our sins
-  the Messiah of the nations
-  the Conquerer of Satan
-  the Vanquisher of demons
-  the Wrath-filler of hell
-  the Glory of the cosmos
-
-And this is perfectly true
-  and now you have captured our hearts.
-
-Be exalted, O God,
-  higher and higher.
+I will worship you
+  forever I will worship
+  there is none like you
 </pre>
