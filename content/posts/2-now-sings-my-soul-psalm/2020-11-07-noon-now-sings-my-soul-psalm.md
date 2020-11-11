@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 33:13-15'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-07T12:00:00-06:00
@@ -8,12 +8,36 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-
 <pre>
 <div style="font-variant: small-caps;">
-Lord
+My God
 </div>
-Lorem ipsum
+I know that all of mankind
+  will wonder into ungodliness 
+  will stray into wickedness
+  and by their own sin, fall away in ignorance. 
+  
+I was once
+  atheistic
+  evil
+  blasphemous
+  ignorant in unbelief
+  
+But yet
+  You gave me more grace
+  with the faith and love
+  that can only be found 
+  in your Son.
+  
+My God,
+  we know that you see us
+  you know we are not good
+  we know that you do not overlord us
+  to condemn us
+  But you’ve sent your Son
+  to save us. 
+  
+You are worthy to be praised. Forever.  
 </pre>
