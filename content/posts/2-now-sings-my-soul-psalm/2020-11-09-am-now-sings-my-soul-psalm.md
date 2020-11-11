@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 34:4'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-09T06:00:00-06:00
@@ -10,7 +10,8 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
+34:4 I sought the LORD, and he answered me 
+      and delivered me from all my fears. 
 <pre>
 <div style="font-variant: small-caps;">
 Lord

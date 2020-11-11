@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 34:8'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-10T12:00:00-06:00
@@ -10,7 +10,8 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-
+34:8 Oh, taste and see that the LORD is good! 
+      Blessed is the man who takes refuge in him!
 <pre>
 <div style="font-variant: small-caps;">
 Lord
