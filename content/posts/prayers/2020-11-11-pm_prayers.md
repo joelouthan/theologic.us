@@ -11,7 +11,18 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 3:21-23 (ESV) A voice on the bare heights is heard,
+the weeping and pleading of Israel's sons
+because they have perverted their way;
+they have forgotten the LORD their God.
+22 “Return, O faithless sons;
+I will heal your faithlessness.”
+“Behold, we come to you,
+for you are the LORD our God.
+23 Truly the hills are a delusion,
+the orgies on the mountains.
+Truly in the LORD our God
+is the salvation of Israel.
 
 ---
 

@@ -11,7 +11,16 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 3:15-20 (ESV) “‘And I will give you shepherds after my own heart, who will feed you with knowledge and understanding. 16 And when you have multiplied and been fruitful in the land, in those days, declares the LORD, they shall no more say, “The ark of the covenant of the LORD.” It shall not come to mind or be remembered or missed; it shall not be made again. 17 At that time Jerusalem shall be called the throne of the LORD, and all nations shall gather to it, to the presence of the LORD in Jerusalem, and they shall no more stubbornly follow their own evil heart. 18 In those days the house of Judah shall join the house of Israel, and together they shall come from the land of the north to the land that I gave your fathers for a heritage.
+19 “‘I said,
+How I would set you among my sons,
+and give you a pleasant land,
+a heritage most beautiful of all nations.
+And I thought you would call me, My Father,
+and would not turn from following me.
+20 Surely, as a treacherous wife leaves her husband,
+so have you been treacherous to me, O house of Israel,
+declares the LORD.’”
 
 ---
 

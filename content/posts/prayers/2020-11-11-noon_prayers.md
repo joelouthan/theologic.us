@@ -13,9 +13,46 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+O LORD,
 </div>
-
+Help me never to expect any happiness
+      from the world, but only in thee.
+Let me not think that I shall be more happy
+    by living to myself,
+  for I can only be happy if employed for thee,
+  and if I desire to live in this world
+  only to do and suffer what thou dost allot me.
+Teach me
+  that if I do not live a life that satisfies thee,
+    I shall not live a life that will satisfy myself.
+Help me to desire the spirit and temper of angels
+  who willingly come down to this lower world
+    to perform thy will,
+  though their desires are heavenly,
+  and not set in the least upon earthy things;
+    then I shall be of that temper I ought to have.
+Help me not to think of living to thee
+    in my own strength,
+  but always to look to and rely on thee
+    for assistance.
+Teach me that there is no greater truth than this,
+  that I can do nothing of myself.
+Lord, this is the life that no unconverted man
+    can live,
+  yet it is an end that every godly soul
+    presses after;
+Let it be then my concern to devote myself
+    and all to thee.
+Make me more fruitful and more spiritual,
+  for barrenness is my daily affliction and load.
+How precious is time, and how painful to see it fly
+  with little done to good purpose!
+I need thy help:
+O may my soul sensibly depend upon thee
+    for all sanctification,
+  and every accomplishment of thy purposes
+    for me, for the world,
+    and for thy kingdom.
 </pre>
 
 ---
