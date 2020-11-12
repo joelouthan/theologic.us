@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 3:24-25 (ESV) “But from our youth the shameful thing has devoured all for which our fathers labored, their flocks and their herds, their sons and their daughters. 25 Let us lie down in our shame, and let our dishonor cover us. For we have sinned against the LORD our God, we and our fathers, from our youth even to this day, and we have not obeyed the voice of the LORD our God.”
 
 ---
 

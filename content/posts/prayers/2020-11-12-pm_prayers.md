@@ -11,7 +11,15 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:1-2 (ESV) “If you return, O Israel,
+declares the LORD,
+to me you should return.
+If you remove your detestable things from my presence,
+and do not waver,
+2 and if you swear, ‘As the LORD lives,’
+in truth, in justice, and in righteousness,
+then nations shall bless themselves in him,
+and in him shall they glory.”
 
 ---
 

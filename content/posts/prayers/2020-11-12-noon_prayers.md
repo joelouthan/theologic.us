@@ -13,9 +13,46 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+HEAVENLY FATHER,
 </div>
+Thou hast placed me in the church
+      which thy Son purchased by his own blood.
+Add grace to grace that I may live worthy
+    of my vocation.
 
+
+I am a voyager across life’s ocean;
+Safe in heaven’s ark, may I pass through
+    a troubled world
+  into the harbour of eternal rest.
+
+
+I am a tree of the vineyard thou hast planted.
+Grant me not to be barren, with worthless
+    leaves and wild grapes;
+Prune me of useless branches;
+Water me with dews of blessing.
+I am part of the Lamb’s bride, the church.
+Help me to be true, faithful, chaste, loving,
+    pure, devoted;
+Let no strong affection wantonly dally
+    with the world.
+May I live high above a love of things temporal,
+  sanctified, cleansed, unblemished, hallowed
+    by grace,
+  thy love my fullness,
+  thy glory my joy,
+  thy precepts my pathway,
+  thy cross my resting place.
+My heart is not always a flame of adoring love,
+But, resting in thy Son’s redemption,
+I look forward to the days of heaven,
+  where no langour shall oppress,
+    no iniquities chill,
+    no mists of unbelief dim the eye,
+    no zeal ever tires.
+Father, these thoughts are the stay, prop,
+    and comfort of my soul.
 </pre>
 
 ---
