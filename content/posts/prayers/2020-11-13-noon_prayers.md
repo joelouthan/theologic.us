@@ -13,9 +13,46 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+LIFE-GIVING GOD,
 </div>
-
+Quicken me to call upon thy name,
+  for my mind is ignorant,
+  my thoughts vagrant,
+  my affections earthly,
+  my heart unbelieving,
+  and only thy Spirit can help my infirmities.
+I approach thee as Father and Friend,
+  my portion for ever,
+  my exceeding joy,
+  my strength of heart.
+I believe in thee as the God of nature,
+  the ordainer of providence,
+  the sender of Jesus my Saviour.
+My guilty fears discourage an approach to thee,
+  but I praise thee for the blessed news
+    that Jesus reconciles thee to me.
+May the truth that is in him
+  illuminate in me all that is dark,
+  establish in me all that is wavering,
+  comfort in me all that is wretched,
+  accomplish in me all that is of thy goodness,
+  and glorify in me the name of Jesus.
+I pass through a vale of tears
+  but bless thee for the opening gate of glory
+    at its end.
+Enable me to realize as mine the better,
+    heavenly country.
+Prepare me for every part of my pilgrimage.
+Uphold my steps by thy Word.
+Let no iniquity dominate me.
+Teach me that Christ cannot be the way
+    if I am the end,
+  that he cannot be Redeemer
+    if I am my own saviour,
+  that there can be no true union with him
+    while the creature has my heart,
+  that faith accepts him as Redeemer and Lord
+    or not at all.
 </pre>
 
 ---

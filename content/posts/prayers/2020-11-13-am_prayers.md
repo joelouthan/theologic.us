@@ -11,7 +11,15 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:3-4 (ESV) For thus says the LORD to the men of Judah and Jerusalem:
+“Break up your fallow ground,
+and sow not among thorns.
+4 Circumcise yourselves to the LORD;
+remove the foreskin of your hearts,
+O men of Judah and inhabitants of Jerusalem;
+lest my wrath go forth like fire,
+and burn with none to quench it,
+because of the evil of your deeds.”
 
 ---
 

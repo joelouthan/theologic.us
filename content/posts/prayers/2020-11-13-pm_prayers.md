@@ -11,7 +11,25 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:5-8 (ESV) Declare in Judah, and proclaim in Jerusalem, and say,
+“Blow the trumpet through the land;
+cry aloud and say,
+Assemble, and let us go
+into the fortified cities!’
+6 Raise a standard toward Zion,
+flee for safety, stay not,
+for I bring disaster from the north,
+and great destruction.
+7 A lion has gone up from his thicket,
+a destroyer of nations has set out;
+he has gone out from his place
+to make your land a waste;
+your cities will be ruins
+without inhabitant.
+8 For this put on sackcloth,
+lament and wail,
+for the fierce anger of the LORD
+has not turned back from us.”
 
 ---
 
