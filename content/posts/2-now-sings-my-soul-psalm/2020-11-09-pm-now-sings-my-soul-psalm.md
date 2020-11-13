@@ -13,7 +13,29 @@ draft: true
 34:6 This poor man cried, and the LORD heard him and saved him out of all his troubles. 
 <pre>
 <div style="font-variant: small-caps;">
-Lord
+My everything 
 </div>
-Lorem ipsum
+I lack. I am weak. I have nothing. I am poor.  I am dead. 
+
+Whatever I have is from you. This roof upon my head. Clothes on my back. My warm bed. My beautiful wife. My wonderful children.  My running cars.  My vocation.  All of it comes from you alone.  
+
+But I have everything. I am wealthy beyond measure. I am strong. I am the richest. I am fully alive. 
+
+All of because I am in full possession of your Son Jesus Christ. 
+
+He is my rock
+
+He is my fortress
+
+He is my redeemer
+
+He is my strength 
+
+He is my beloved 
+
+And I am his. 
+
+Keep me close to you. 
+
+Amen. 
 </pre>
