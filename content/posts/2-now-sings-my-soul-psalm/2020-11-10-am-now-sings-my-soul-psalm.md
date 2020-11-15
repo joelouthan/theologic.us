@@ -18,17 +18,27 @@ My Awe and Wonder
 We know that 
 sins crouched for us.  
 
-We know that the devil sets his snares for our souls. 
+We know that the devil
+  sets his snares for our souls. 
 
-We know that the world beckons our hearts towards death. 
+We know that the world
+  beckons our hearts towards death. 
 
-But you alone are worthy to be praised. You alone are holy and holy and holy. You alone are righteous for there is none like you.  
+But you alone are
+  worthy to be praised
+
+You alone are
+  holy and holy and holy
+  
+You alone are
+  righteous
+  for there is none like you
 
 I will worship you
 
-I will give you praise 
+I will give you praise
 
-I will sing of your wonderous works
+I will sing of your wondrous works
 
 I will marvel at your law
 
@@ -40,13 +50,17 @@ I will trust in your Son
 
 Because you have loved me
 
-Because your Son lived and died for me
+Because your Son
+  lived and died for me
 
-Because your Spirit bears witness with my spirit that I am a son of God. 
+Because your Spirit
+  bears witness with my spirit
+  that I am a son of God.
 
-That you dwell wholly within me. 
+That you dwell wholly within me.
 
-And with you in me, I will bless your holy name forever. 
+And with you in me
+  I will bless your holy name forever.
 
-Amen. 
+Amen.
 </pre>
