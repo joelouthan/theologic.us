@@ -11,7 +11,29 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:11-18
+11 At that time it will be said to this people and to Jerusalem, “A hot wind from the bare heights in the desert toward the daughter of my people, not to winnow or cleanse, 12 a wind too full for this comes for me. Now it is I who speak in judgment upon them.”
+13 Behold, he comes up like clouds;
+his chariots like the whirlwind;
+his horses are swifter than eagles—
+woe to us, for we are ruined!
+14 O Jerusalem, wash your heart from evil,
+that you may be saved.
+How long shall your wicked thoughts
+lodge within you?
+15 For a voice declares from Dan
+and proclaims trouble from Mount Ephraim.
+16 Warn the nations that he is coming;
+announce to Jerusalem,
+“Besiegers come from a distant land;
+they shout against the cities of Judah.
+17 Like keepers of a field are they against her all around,
+because she has rebelled against me,
+declares the LORD.
+18 Your ways and your deeds
+have brought this upon you.
+This is your doom, and it is bitter;
+it has reached your very heart.”
 
 ---
 

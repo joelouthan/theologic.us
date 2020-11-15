@@ -12,10 +12,48 @@ draft: true
 ---
 
 <pre>
-<div style="font-variant: small-caps;">
+<div style="font-variant: small-caps;">O MY SAVIOUR,
+</div>
+I thank thee from the depths of my being
+    for thy wondrous grace and love
+  in bearing my sin in thine own body on the tree.
+May thy cross be to me
+  as the tree that sweetens my bitter Marahs,
+  as the rod that blossoms with life and beauty,
+  as the brazen serpent that calls forth
+    the look of faith.
+By thy cross crucify my every sin;
+Use it to increase my intimacy with thyself;
+Make it the ground of all my comfort,
+  the liveliness of all my duties,
+  the sum of all thy gospel promises,
+  the comfort of all my afflictions,
+  the vigour of my love, thankfulness, graces,
+  the very essence of my religion;
+And by it give me that rest without rest,
+    the rest of ceaseless praise.
 
+<br>
+<div style="font-variant: small-caps;">O MY LORD AND SAVIOUR,
 </div>
 
+Thou hast also appointed a cross for me
+    to take up and carry,
+  a cross before thou givest me a crown.
+Thou hast appointed it to be my portion,
+  but self-love hates it,
+    carnal reason is unreconciled to it;
+  without the grace of patience I cannot bear it,
+    walk with it, profit by it.
+O blessed cross, what mercies dost thou bring
+    with thee!
+Thou art only esteemed hateful by my rebel will,
+  heavy because I shirk thy load.
+Teach me, gracious Lord and Saviour,
+  that with my cross thou sendest promised grace
+    so that I may bear it patiently,
+  that my cross is thy yoke which is easy,
+    and thy burden which is light.
 </pre>
 
 ---

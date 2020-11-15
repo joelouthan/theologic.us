@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:9-10 “In that day, declares the LORD, courage shall fail both king and officials. The priests shall be appalled and the prophets astounded.” 10 Then I said, “Ah, Lord GOD, surely you have utterly deceived this people and Jerusalem, saying, ‘It shall be well with you,’ whereas the sword has reached their very life.”
 
 ---
 
