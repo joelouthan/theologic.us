@@ -28,7 +28,7 @@ I was destined to die
   in my eternal heart.  
 
 And because I am a son of Adam
-  I feared only everything not God
+  I feared only everything not Godx
   My attention was away from you
   My gaze was away from your face
   My heart flees from you

@@ -20,7 +20,7 @@ and those who hate the righteous will be condemned.
 none of those who take refuge in him will be condemned.
 <pre>
 <div style="font-variant: small-caps;">
-Lord
+The right hand over my life
 </div>
-Lorem ipsum
+
 </pre>

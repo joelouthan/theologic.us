@@ -8,13 +8,45 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-Psalms 34:10 (ESV) The young lions suffer want and hunger;
-but those who seek the LORD lack no good thing.
+
 <pre>
 <div style="font-variant: small-caps;">
-Lord
+Infinite holder of my infinite space
 </div>
-Lorem ipsum
+I have sought all of my life
+  to prey on the weak
+  to consume to my stomach's content
+  to try to fill my heart
+  with everything
+  my sin's desires
+  the world and it's pleasures
+  the sweetest temptations of the devil
+
+My God,
+  you knew me
+  and loved me
+  you sought me
+  and rescued me
+  when I was in the mud
+  at the bottom of the ocean
+  and was dead in my trespasses.
+
+Your arm
+  none too short
+  reached in
+  carried me up
+  took me to green pastures
+  laid me besides still waters
+  restored my soul
+  for your name sake only.
+
+Feed my body
+  be my forever sustenance
+  be my forever strength
+  be my forever shield
+  be my forever salvation.
+
+In you, will I trust.
 </pre>
