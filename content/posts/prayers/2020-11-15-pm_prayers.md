@@ -11,7 +11,32 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:27-31 (CSB) For this is what the LORD says:
+“The whole land will be a desolation,
+but I will not finish it off.
+28 Because of this, the earth will mourn;
+the skies above will grow dark.
+I have spoken; I have planned,
+and I will not relent or turn back from it.”
+29 Every city flees
+at the sound of the horseman and the archer.
+They enter the thickets
+and climb among the rocks.
+Every city is abandoned;
+no inhabitant is left.
+30 And you, devastated one, what are you doing
+that you dress yourself in scarlet,
+that you adorn yourself with gold jewelry,
+that you enhance your eyes with makeup?
+You beautify yourself for nothing.
+Your lovers reject you;
+they intend to take your life.
+31 I hear a cry like a woman in labor,
+a cry of anguish like one bearing her first child.
+The cry of Daughter Zion gasping for breath,
+stretching out her hands:
+“Woe is me, for my life is weary
+because of the murderers!”
 
 ---
 

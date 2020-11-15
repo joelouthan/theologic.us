@@ -11,7 +11,38 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 4:19-26 (CSB) My anguish, my anguish! I writhe in agony!
+Oh, the pain in my heart!
+My heart pounds;
+I cannot be silent.
+For you, my soul,
+have heard the sound of the ram’s horn—
+the shout of battle.
+20 Disaster after disaster is reported
+because the whole land is destroyed.
+Suddenly my tents are destroyed,
+my tent curtains, in a moment.
+21 How long must I see the signal flag
+and hear the sound of the ram’s horn?
+22 “For my people are fools;
+they do not know me.
+They are foolish children,
+without understanding.
+They are skilled in doing what is evil,
+but they do not know how to do what is good.”
+23 I looked at the earth,
+and it was formless and empty.
+I looked to the heavens,
+and their light was gone.
+24 I looked at the mountains,
+and they were quaking;
+all the hills shook.
+25 I looked, and there was no human being,
+and all the birds of the sky had fled.
+26 I looked, and the fertile field was a wilderness.
+All its cities were torn down
+because of the LORD
+and his burning anger.
 
 ---
 
@@ -124,6 +155,8 @@ My God,
 I am so uncertain. What are my next steps? Direct me, Holy Spirit.
 
 But I will praise you for the triple blessings of being with the staff. Bless them and keep them always.
+
+Lord, I want to keep planting churches. I want to ask Jeff and see if there is a way to do so bi-vocationally.
 
 Amen
 

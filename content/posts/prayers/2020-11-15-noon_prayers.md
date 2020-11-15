@@ -13,9 +13,44 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+GLORIOUS GOD,
 </div>
-
+It is the flame of my life to worship thee,
+    the crown and glory of my soul to adore thee,
+    heavenly pleasure to approach thee.
+Give me power by thy Spirit to help me
+    worship now,
+  that I may forget the world,
+    be brought into fullness of life,
+    be refreshed, comforted, blessed.
+Give me knowledge of thy goodness
+  that I might not be over-awed by thy greatness;
+Give me Jesus, Son of Man, Son of God,
+  that I might not be terrified,
+    but be drawn near with filial love,
+      with holy boldness;
+He is my Mediator, Brother, Interpreter,
+Branch, Daysman, Lamb;
+    him I glorify,
+    in him I am set on high.
+Crowns to give I have none,
+  but what thou hast given I return,
+  content to feel that everything is mine
+    when it is thine,
+  and the more fully mine when I have yielded it
+    to thee.
+Let me live wholly to my Saviour,
+  free from distractions,
+    from carking care,
+    from hindrances to the pursuit
+      of the narrow way.
+I am pardoned through the blood of Jesus —
+  give me a new sense of it,
+  continue to pardon me by it,
+  may I come every day to the fountain,
+  and every day be washed anew,
+  that I may worship thee always
+    in spirit and truth.
 </pre>
 
 ---
