@@ -33,6 +33,12 @@ Lord, should we pursue a replacement for the Acura?
 
 I love you, Lord. You alone are my provider.
 
+And Lord, what about this position at work?
+
+Do I take it?
+
+Will it draw me closer to you? Please be with me.
+
 Amen.  
 
 ___
