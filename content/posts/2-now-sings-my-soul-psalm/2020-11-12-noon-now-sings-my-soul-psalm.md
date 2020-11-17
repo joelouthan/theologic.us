@@ -8,19 +8,66 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-Psalms 35:1-3 (ESV) Contend, O LORD, with those who contend with me;
-fight against those who fight against me!
-Take hold of shield and buckler
-and rise for my help!
-Draw the spear and javelin
-against my pursuers!
-Say to my soul,
-“I am your salvation!”
 <pre>
 <div style="font-variant: small-caps;">
-Lord
+My Only Shield of Salvation
 </div>
-Lorem ipsum
+I remembered
+  being attacked
+  all of my days
+  and having no will to fight
+  succumbing to the attacks of Satan
+  easily
+  like a sheep
+  like a prisoner of war
+  tortured
+  for entertainment
+  to despise your holy name.
+
+When you saved me,
+  your hand was upon me
+  your shield protected me
+  you healed my heart
+  you mended my bones
+  you restored my soul.
+
+But just as David called his mighty men
+  you called on me
+  there are numerous giants to be slain
+  for Satan and his demons
+  have sharpened their arrows
+  quickened their aim
+  sure their shots.
+
+But you are the Commander of the Most High
+  and I bow at your command
+  I am on your side
+  you are my Lord.
+
+Give me your will
+  and with your grace
+  I will make it my own
+  for Your are my Redeemer and Judge
+  and your resurrecting Spirit
+  is always with me.
+
+Guard me from temptation
+  but give me yourself
+  my Christ and Lord
+  to give me the strength and endurance
+  to wrap my hands
+  around the necks of my gods
+  my torturers
+  my giants
+  and crushed their windpipes
+  until they fall lifeless
+  and dead forever.
+
+Sin has not conquered me
+  for you alone have conquered sin
+  forever.
+
+I love you, Lord.
 </pre>

@@ -10,17 +10,62 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-Psalms 35:4-6 (ESV) Let them be put to shame and dishonor
-who seek after my life!
-Let them be turned back and disappointed
-who devise evil against me!
-Let them be like chaff before the wind,
-with the angel of the LORD driving them away!
-Let their way be dark and slippery,
-with the angel of the LORD pursuing them!
+
 <pre>
 <div style="font-variant: small-caps;">
-Lord
+My Conquering God
 </div>
-Lorem ipsum
+You descended to the cross
+  with great joy.
+
+You faced Death
+  and called out Life
+
+You bear the weight
+  of my complete sin
+
+You gave yourself over
+  and allowed them
+  to nail you
+  to the cross
+
+They mocked
+  others grieved.
+  your heart was pierced
+  your love washed over
+  your body broken
+  your Spirit remained
+  until the justified wrath of God
+  was meant for me
+  was finished pouring on you
+
+When you cried out,
+  "IT IS FINISHED!"
+  when your Spirit left
+  when your breath exhausted
+  at that very moment
+  you snapped the neck of Death
+  the realms of Hell became yours
+  my sin was removed infinitely away
+  demons cried out in pain
+  and Satan
+  the Prince of Lies
+  the Condemner of Man
+  the Fallen Angel
+  was conquered
+  stripped of his power
+  put to open shame
+  forever.
+
+And all the angels bear witness,
+  Worthy is the Lamb that was just slain, 
+  Holy
+  Holy
+  Holy
+  is the Lord God Almighty
+  who was
+  and is
+  and is to come.
+
+Amen.
 </pre>
