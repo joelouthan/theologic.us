@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 35:7-8'
+title: 'Now Sings My Soul: Psalm 35:9-10'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-13T12:00:00-06:00
@@ -10,11 +10,13 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-Psalms 35:7-8 (ESV) For without cause they hid their net for me;
-without cause they dug a pit for my life.
-8 Let destruction come upon him when he does not know it!
-And let the net that he hid ensnare him;
-let him fall into it—to his destruction!
+Psalms 35:9-10 (ESV) Then my soul will rejoice in the LORD,
+exulting in his salvation.
+All my bones shall say,
+“O LORD, who is like you,
+delivering the poor
+from him who is too strong for him,
+the poor and needy from him who robs him?”
 <pre>
 <div style="font-variant: small-caps;">
 Lord
