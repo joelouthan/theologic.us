@@ -11,7 +11,18 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 5:7-9 (ESV) “How can I pardon you?
+Your children have forsaken me
+and have sworn by those who are no gods.
+When I fed them to the full,
+they committed adultery
+and trooped to the houses of whores.
+They were well-fed, lusty stallions,
+each neighing for his neighbor's wife.
+Shall I not punish them for these things?
+declares the LORD;
+and shall I not avenge myself
+on a nation such as this?
 
 ---
 

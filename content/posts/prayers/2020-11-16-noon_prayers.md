@@ -13,9 +13,48 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+ELECTOR OF SAINTS,
 </div>
-
+Blessed is the man whom thou choosest
+      and callest to thyself.
+With thee is mercy, redemption, assurance,
+    forgiveness;
+Thou hast lifted me, a prisoner, out of
+    the pit of sin
+  and pronounced my discharge,
+    not only in the courts of heaven,
+    but in the dock of conscience;
+  hast justified me by faith,
+    given me peace with thee,
+  made me to enjoy glorious liberty as thy child.
+Save me from the false hope of the hypocrite:
+May I never suppose I am in Christ unless I am
+    a new creature,
+  never think I am born of the Spirit
+    unless I mind the things of the Spirit,
+  never rest satisfied with professions of belief
+    and outward forms and services,
+      while my heart is not right with thee.
+May I judge my sincerity in religion
+  by my fear to offend thee,
+  my concern to know thy will,
+  my willingness to deny myself.
+May nothing render me forgetful of thy glory,
+  or turn me aside from thy commands,
+  or shake my confidence in thy promises,
+  or offend thy children.
+Let not my temporal occupations injure
+    my spiritual concerns,
+  or the cares of life make me neglect
+    the one thing needful.
+May I not be inattentive to the design
+    of thy dealings with me,
+  or insensible under thy rebukes,
+  or immobile at thy calls.
+May I learn the holy art of abiding in thee,
+  of being in the world and not of it,
+  of making everything not only consistent with
+    but conducive to my religion.
 </pre>
 
 ---
