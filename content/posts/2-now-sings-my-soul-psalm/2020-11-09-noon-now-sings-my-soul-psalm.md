@@ -16,7 +16,7 @@ Fairest of ten-thousands
 </div>
 My God.
   Keep me close to you.
-  Let me see tour face.
+  Let me see your face.
   Just this once.
   So I can behold your beauty.
   If I die then so be it.

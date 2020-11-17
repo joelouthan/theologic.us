@@ -11,7 +11,24 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 5:1-3
+Jerusalem Refused to Repent
+1 Run to and fro through the streets of Jerusalem,
+look and take note!
+Search her squares to see
+if you can find a man,
+one who does justice
+and seeks truth,
+that I may pardon her.
+2 Though they say, “As the LORD lives,”
+yet they swear falsely.
+3 O LORD, do not your eyes look for truth?
+You have struck them down,
+but they felt no anguish;
+you have consumed them,
+but they refused to take correction.
+They have made their faces harder than rock;
+they have refused to repent.
 
 ---
 
