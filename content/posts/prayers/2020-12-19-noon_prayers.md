@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Sunday, 13 December 2020'
+title: 'Noon Prayers for Saturday, 19 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-13T12:00:00-06:00
-url: /noon_prayers/2020-12-13-noon_prayers/
+publishDate: 2020-12-19T12:00:00-06:00
+url: /noon_prayers/2020-12-19-noon_prayers/
 categories:
  - Prayers
 tags:

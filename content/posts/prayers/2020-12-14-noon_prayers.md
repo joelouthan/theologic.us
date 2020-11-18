@@ -150,9 +150,9 @@ Liz & Trey Davidson
 
 Aimee & James Coker
 
-**Sean & Sunny** 
+**Sean & Sunny**
 
-**Evan** 
+**Evan**
 
 ---
 
@@ -320,12 +320,12 @@ Aimee & James Coker
 
 > **“I am the good shepherd. I know my own, and my own know me, just as the Father knows me, and I know the Father. I lay down my life for the sheep. But I have other sheep that are not from this sheep pen; I must bring them also, and they will listen to my voice. Then there will be one flock, one shepherd. This is why the Father loves me, because I lay down my life so that I may take it up again. No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”**
 
-- **Antioch OKC** 
+- **Antioch OKC**
 
 ---
 
 ## Everlasting Life Baptist Church
-- Terry & Carol Wilson 
+- Terry & Carol Wilson
 
 ---
 
@@ -337,7 +337,7 @@ Aimee & James Coker
 - **FaithChurch** - Joshua and Tiffany Cossey
 - **FaithChurch Hinton** - Mark and Brianna Lumpkin
 - **LifeSpring Church** Jeff Robinett
-- **Northgate Baptist** 
+- **Northgate Baptist**
 - **Calgary Church** - Daniel & Jamie Sweets, Lukas, Karis, Selah, & Zoe
 - **Apostolic Worship Center** (**United Pentecostal**) - K. L. & Denise Borders
 - **Holy Ancension Orthodox Church** - Fr. Jeremy
@@ -375,7 +375,7 @@ Aimee & James Coker
 - **Trinity Lutheran Church** - Pastor David Nehrenz & Vicar Rob Schrader
 - **Norman Seventh Day Adventist Church** - Harvey Gil
 - **Alameda Baptist Church** - Tristan & Gayla Martin, kids
-- **St. Joseph Catholic Churc** - Father Joseph Irwin 
+- **St. Joseph Catholic Churc** - Father Joseph Irwin
 - **Southern Oklahoma Chinese Baptist Church** - David & Linda Chan
 - **Robinson Street Baptist Church** - Ivan & Tammy Moore
 - **Immanuel Baptist Church** - Ken & Letha Huddleston
@@ -481,17 +481,17 @@ Aimee & James Coker
 - Caleb Reichert
 - Riley Roberson
 - Emily Roberson
-- Trey Scott 
-- Kathleen Scott 
+- Trey Scott
+- Kathleen Scott
 - Taylor Smith - SINGLE
-- Phong Ta 
+- Phong Ta
 - Micah Thomason
 - Melissa Thomason
 - Destiny Warrior
 
 Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
 
-My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesus Christ from the dead. Moreso than for me to preach your word but to turn my heart and cleanse my heart and make me just like you. 
+My God, give me your Spirit. Give me the fullness of the Spirit that raised Jesus Christ from the dead. Moreso than for me to preach your word but to turn my heart and cleanse my heart and make me just like you.
 
 Draw me closer. Let the world die to me so I can live to you.
 
@@ -509,7 +509,7 @@ Lord, please multiply
 
 ---
 
-## 12th & Alameda
+## East Boyd
 
 Hunter & Maddie
 
@@ -597,7 +597,7 @@ But Lord, just like the mighty men of David, we are here to fight our sin and ch
 
 We need your salvation. You have to cover us with your righteousness. Give us the call the strap our feet with the gospel of your peace. We need the gift of faith. We need your word.
 
-Magnify and glorify Christ in us. 
+Magnify and glorify Christ in us.
 
 Shatter the gates of hell.
 
@@ -605,20 +605,22 @@ I love you so much.
 
 ## Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
 - Healing for Timothy
-- Zachary - salvation; acting out - lying & stealing screentime, respectful, struggling with Lauren as teaching
+- Zachary - salvation
 - Samuel - salvation
 
 ## Riley & Emily, Oliver
 - Oliver is here!
-- Logan - salvation
+- Logan - salvation; against isolation
 
 ## Scott & Melody, Emily, Adelyn, Caleb
+- lots of anxiety
+- waking up in the middle of the night
 - Emily
+- SLEEP KIDS SLEEP!
 - Started school with students from everywhere
-- Melody's mom & grandma - protection from exposure
 - Wayne & Nicole Barber
 - brother, Eric (Portland) vs parents who are Christian watches Fox News
-- **Randy** - liver cancer
+- **father Randy - liver cancer**
 
 ## Andrew & Andie
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
@@ -648,7 +650,7 @@ I pray against attacks on our leaders. Shield their eyes and hearts.
 
 But Father, if they do not know you, please turn their hearts towards you.
 
-Lord, save my city, my state, and my nation and her people. 
+Lord, save my city, my state, and my nation and her people.
 
 > **1 Chronicles 29:18 O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.**
 

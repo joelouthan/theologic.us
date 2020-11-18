@@ -39,9 +39,9 @@ Do I take it?
 
 Will it draw me closer to you? Please be with me.
 
-Amen.  
+Amen.
 
-___
+---
 
 # For Sarah
 
@@ -83,11 +83,11 @@ Deanna & James, Quinn
 
 Keep Melissa. Seal her heart towards you.
 
-Speak to Andrew. 
+Speak to Andrew.
 
-Heal Faithie. 
+Heal Faithie.
 
-Heal Sean. 
+Heal Sean.
 
 Heal Gerry.
 
@@ -99,19 +99,19 @@ Heal Kathleen (Leah's mom)
 
 # Daily
 
-On marriage: **Sarah, my love** 
+On marriage: **Sarah, my love**
 
-On true friendship: **For my Jonathan** 
+On true friendship: **For my Jonathan**
 
-On sanctification: **Lord, help me to gentle, patient, and tender like you** 
+On sanctification: **Lord, help me to gentle, patient, and tender like you**
 
 On holiness: **2 Timothy 2:21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.**
 
 Lord, as you draw me closer, please Lord please stop making everything about me. Please beat it out of me that i somehow think i am God’s gift to women. I still see lust on my heart and I still want to look at every woman not my wife.  World is telling me lies. But you have gave me eyes for my wife over anyone else. One day you will remove the foolish, prideful, lustful instincts and thoughts in thinking every woman is after me. I am a fool and a sinner. Every day I will repent. Discipline your son as you see fit but make me more like your Son.  Do not let your Spirit depart from me. Amen.
 
-On prophesying: **Lord, let me preach your gospel, die, and then be forgotten** 
+On prophesying: **Lord, let me preach your gospel, die, and then be forgotten**
 
-On pastoring: **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn** 
+On pastoring: **Lord, I cared not where or how I lived, or what hardships I went through, so I could but gain souls to Christ. —Henry Martyn**
 
 On teaching: **“He who would be a good teacher must be gentle and leave some means to draw those who come to him, that he may win them.” —John Calvin**
 
@@ -149,35 +149,35 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Emily's mom, Cheri**
 
-**Yusef and Nichole** 
+**Yusef and Nichole**
 
 **Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy**
 
-**Natalie, Jackson, Kingston** 
+**Natalie, Jackson, Kingston**
 
-**Reed & Sandy** 
+**Reed & Sandy**
 
-**Johnny & Jamie, Kolton, Korbin** 
+**Johnny & Jamie, Kolton, Korbin**
 
-**Jeanny** 
+**Jeanny**
 
-**Jodi & Ryan, Piper, Rylee** 
+**Jodi & Ryan, Piper, Rylee**
 
-**Jennifer & John; Brandon; Phillip & Keri, Haley; Meagan & fam ; Pedigo & Deb** 
+**Jennifer & John; Brandon; Phillip & Keri, Haley; Meagan & fam ; Pedigo & Deb**
 
-**Melissa & Micah, Noah, Levi, Judah** 
+**Melissa & Micah, Noah, Levi, Judah**
 
-**James** 
+**James**
 
-**Jason, Molly** 
+**Jason, Molly**
 
 **Chelsea**
 
-**Jansen & Mandy** 
+**Jansen & Mandy**
 
-**Sean & Sunny** 
+**Sean & Sunny**
 
-**Evan** 
+**Evan**
 
 **Shannon & Michael, Elle**
 
@@ -187,29 +187,29 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Carl**
 
-**Mark & Nicole, Gabrielle** 
+**Mark & Nicole, Gabrielle**
 
-**Mark & Robin** 
+**Mark & Robin**
 
 **James & Hubs**
 
-**Louis** 
+**Louis**
 
-**Greg & wife** 
+**Greg & wife**
 
-**Liz** 
+**Liz**
 
-**Eileen & Hubs, fam** 
+**Eileen & Hubs, fam**
 
-**Ray** 
+**Ray**
 
-**Randall** 
+**Randall**
 
-**Cynthia** 
+**Cynthia**
 
-**Joe P** 
+**Joe P**
 
-**George** 
+**George**
 
 **Margo & kids**
 
@@ -237,11 +237,11 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Peter**
 
-**Wayne & Nicole Barber** 
+**Wayne & Nicole Barber**
 
-**Eric Robinson** 
+**Eric Robinson**
 
-**Jonathan & Jenn Williams** 
+**Jonathan & Jenn Williams**
 
 **Evan & Kaylee, Everett, Baby**
 
@@ -281,15 +281,15 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 **Leslie**
 
-**Andrew & Jordyn, Will, Alice, Elliot, Annie** 
+**Andrew & Jordyn, Will, Alice, Elliot, Annie**
 
-**Alix & Braden** 
+**Alix & Braden**
 
 **Aaron & Natasha, Audrey**
 
 **Holly & Jake, Jonah, Ellis, Finley**
 
-**Jason & Michelle, Hazel, Charlette, Evelyn** 
+**Jason & Michelle, Hazel, Charlette, Evelyn**
 
 **Landon & Jules, Eli, Sophia & Olivia**
 
@@ -298,6 +298,6 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 - Sarah and Mike Neustadt
 - Layne and Jackie Marshall
 - Evie
-- Kristie 
+- Kristie
 - John and Gina
-- Jen and Diddy 
+- Jen and Diddy

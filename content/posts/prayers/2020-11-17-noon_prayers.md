@@ -562,7 +562,7 @@ Lord, please multiply
 
 ---
 
-## 12th & Alameda
+## East Boyd
 
 Hunter & Maddie
 
