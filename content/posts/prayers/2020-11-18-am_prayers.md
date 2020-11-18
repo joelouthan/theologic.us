@@ -11,7 +11,21 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 5:10-13 (ESV) 
+“Go up through her vine rows and destroy,
+but make not a full end;
+strip away her branches,
+for they are not the LORD'S.
+For the house of Israel and the house of Judah
+have been utterly treacherous to me,
+declares the LORD.
+They have spoken falsely of the LORD
+and have said, ‘He will do nothing;
+no disaster will come upon us,
+nor shall we see sword or famine.
+The prophets will become wind;
+the word is not in them.
+Thus shall it be done to them!’”
 
 ---
 

@@ -13,9 +13,45 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+SOVEREIGN GOD
 </div>
+Thy cause, not my own, engages my heart,
+      and I appeal to thee with greatest freedom
+  to set up thy kingdom in every place
+    where Satan reigns;
+Glorify thyself and I shall rejoice,
+  for to bring honour to thy name is my sole desire.
+I adore thee that thou art God,
+  and long that others should know it, feel it,
+    and rejoice in it.
+O that all men might love and praise thee,
+  that thou mightest have all glory
+    from the intelligent world!
+Let sinners be brought to thee for thy dear name!
+To the eye of reason everything respecting
+    the conversion of others is as dark as midnight,
+But thou canst accomplish great things;
+  the cause is thine,
+  and it is to thy glory that men should be saved.
+Lord, use me as thou wilt,
+  do with me what thou wilt;
+    but, O, promote thy cause,
+  let thy kingdom come,
+  let thy blessed interest be advanced
+    in this world!
+O do thou bring in great numbers to Jesus!
+  let me see that glorious day,
+  and give me to grasp for multitudes of souls;
+  let me be willing to die to that end;
+  and while I live let me labour for thee
+    to the utmost of my strength,
+    spending time profitably in this work,
+    both in health and in weakness.
+It is thy cause and kingdom I long for,
+    not my own.
 
+
+O, answer thou my request!
 </pre>
 
 ---

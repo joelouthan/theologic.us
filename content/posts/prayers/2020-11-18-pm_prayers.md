@@ -11,7 +11,25 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 5:14-17 (ESV) Therefore thus says the LORD, the God of hosts:
+“Because you have spoken this word,
+behold, I am making my words in your mouth a fire,
+and this people wood, and the fire shall consume them.
+Behold, I am bringing against you
+a nation from afar, O house of Israel,
+declares the LORD.
+It is an enduring nation;
+it is an ancient nation,
+a nation whose language you do not know,
+nor can you understand what they say.
+Their quiver is like an open tomb;
+they are all mighty warriors.
+They shall eat up your harvest and your food;
+they shall eat up your sons and your daughters;
+they shall eat up your flocks and your herds;
+they shall eat up your vines and your fig trees;
+your fortified cities in which you trust
+they shall beat down with the sword.”
 
 ---
 
