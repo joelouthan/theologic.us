@@ -63,7 +63,7 @@ The Spirit of the Lord GOD
   is upon me,
   because the LORD
   has anointed me
-
+  
 to bring good news
   to the poor;
 
