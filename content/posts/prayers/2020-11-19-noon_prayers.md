@@ -13,9 +13,51 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+THOU ETERNAL SOURCE,
 </div>
+Author of all created being and happiness,
+      I adore thee for making man capable
+      of religion,
+  that he may be taught to say:
+    ‘Where is God, my Maker, who giveth
+      songs in the night?’
+But degeneracy has spread over our
+    human race,
+  turning glory into shame,
+  rendering us forgetful of thee.
+We know it is thy power alone
+  that can recall wandering children,
+  can impress on them a sense of divine things,
+  and can render that sense lasting and effectual;
+From thee proceed all good purposes and desires,
+  and the diffusing of piety and happiness.
+Thou hast knowledge of my soul’s secret
+    principles,
+  and art aware of my desire to spread the gospel.
+Make me an almoner to give thy
+  bounties to the indigent,
+  comfort to the mentally ill,
+  restoration to the sin-diseased,
+  hope to the despairing,
+  joy to the sorrowing,
+  love to the prodigals.
+Blow away the ashes of unbelief by
+    thy Spirit’s breath
+  and give me light, fire, and warmth of love.
+I need spiritual comforts
+  that are gentle, peaceful, mild, refreshing,
+  that will melt me into conscious lowliness
+    before thee,
+  that will make me feel and rest in thee
+    as my All.
 
+
+Fill the garden of my soul with the wind of love,
+  that the scents of the Christian life may be
+    wafted to others;
+  then come and gather fruits to thy glory.
+So shall I fulfil the great end of my being —
+  to glorify thee and be a blessing to men.
 </pre>
 
 ---

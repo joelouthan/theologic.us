@@ -11,7 +11,44 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 5:18-29 (ESV) “But even in those days, declares the LORD, I will not make a full end of you. And when your people say, Why has the LORD our God done all these things to us?’ you shall say to them, ‘As you have forsaken me and served foreign gods in your land, so you shall serve foreigners in a land that is not yours.’”
+Declare this in the house of Jacob;
+proclaim it in Judah:
+“Hear this, O foolish and senseless people,
+who have eyes, but see not,
+who have ears, but hear not.
+Do you not fear me? declares the LORD.
+Do you not tremble before me?
+I placed the sand as the boundary for the sea,
+a perpetual barrier that it cannot pass;
+though the waves toss, they cannot prevail;
+though they roar, they cannot pass over it.
+But this people has a stubborn and rebellious heart;
+they have turned aside and gone away.
+They do not say in their hearts,
+‘Let us fear the LORD our God,
+who gives the rain in its season,
+the autumn rain and the spring rain,
+and keeps for us
+the weeks appointed for the harvest.’
+Your iniquities have turned these away,
+and your sins have kept good from you.
+For wicked men are found among my people;
+they lurk like fowlers lying in wait.
+They set a trap;
+they catch men.
+Like a cage full of birds,
+their houses are full of deceit;
+therefore they have become great and rich;
+they have grown fat and sleek.
+They know no bounds in deeds of evil;
+they judge not with justice
+the cause of the fatherless, to make it prosper,
+and they do not defend the rights of the needy.
+Shall I not punish them for these things?
+declares the LORD,
+and shall I not avenge myself
+on a nation such as this?”
 
 ---
 
