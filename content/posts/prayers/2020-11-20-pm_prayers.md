@@ -11,7 +11,19 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 6:6-8 (ESV) For thus says the LORD of hosts:
+“Cut down her trees;
+cast up a siege mound against Jerusalem.
+This is the city that must be punished;
+there is nothing but oppression within her.
+As a well keeps its water fresh,
+so she keeps fresh her evil;
+violence and destruction are heard within her;
+sickness and wounds are ever before me.
+Be warned, O Jerusalem,
+lest I turn from you in disgust,
+lest I make you a desolation,
+an uninhabited land.”
 
 ---
 

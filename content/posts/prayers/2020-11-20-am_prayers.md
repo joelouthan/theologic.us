@@ -11,7 +11,23 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 6:1-5 (ESV) Flee for safety, O people of Benjamin,
+from the midst of Jerusalem!
+Blow the trumpet in Tekoa,
+and raise a signal on Beth-haccherem,
+for disaster looms out of the north,
+and great destruction.
+The lovely and delicately bred I will destroy,
+the daughter of Zion.
+Shepherds with their flocks shall come against her;
+they shall pitch their tents around her;
+they shall pasture, each in his place.
+“Prepare war against her;
+arise, and let us attack at noon!
+Woe to us, for the day declines,
+for the shadows of evening lengthen!
+Arise, and let us attack by night
+and destroy her palaces!”
 
 ---
 

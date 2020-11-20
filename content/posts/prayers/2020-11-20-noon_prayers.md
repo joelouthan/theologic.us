@@ -13,9 +13,45 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+THOU GOD OF MY END
 </div>
-
+Thou hast given me a fixed disposition
+      to go forth and spend my life for thee;
+If it be thy will let me proceed in it;
+  if not, then revoke my intentions.
+All I want in life is such circumstances
+  as may best enable me to serve thee in the world;
+To this end I leave all my concerns in thy hand,
+  but let me not be discouraged,
+    for this hinders my spiritual fervency;
+Enable me to undertake some task for thee,
+  for this refreshes and animates my soul,
+    so that I could endure all hardships and labours,
+    and willingly suffer for thy name.
+But, O what a death it is to strive and labour,
+  to be always in a hurry and yet do nothing!
+Alas, time flies and I am of little use.
+O that I could be a flame of fire in thy service,
+  always burning out in one continual blaze.
+Fit me for singular usefulness in this world.
+Fit me to exult in distresses of every kind
+  if they but promote the advancement
+    of thy kingdom.
+Fit me to quit all hopes of the world’s friendship,
+  and give me a deeper sense of my sinfulness.
+Fit me to accept as just desert from thee
+  any trial that may befall me.
+Fit me to be totally resigned to the denial
+    of pleasures I desire,
+  and to be content to spend my time with thee.
+Fit me to pray with a sense of the joy
+    of divine communion,
+  to find all times happy seasons to my soul,
+  to see my own nothingness,
+  and wonder that I am allowed to serve thee.
+Fit me to enter the blessed world
+    where no unclean thing is,
+  and to know thee with me always.
 </pre>
 
 ---
