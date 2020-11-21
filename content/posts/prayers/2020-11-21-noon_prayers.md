@@ -148,7 +148,11 @@ For as the earth brings forth its sprouts,
 
 ---
 
-# Family
+# Prayers for Norman
+
+---
+
+## Family
 
 **Sarah, Yusef, Elijah, Ivy, Ava**
 
@@ -156,7 +160,7 @@ For as the earth brings forth its sprouts,
 
 ---
 
-# Norman
+## Those Who Wander
 
 > **Matthew 3:12 (CSB) His winnowing shovel is in his hand, and he will clear his threshing floor and gather his wheat into the barn. But the chaff he will burn with fire that never goes out.”**
 
@@ -198,7 +202,7 @@ Aimee & James Coker
 
 ---
 
-# Antioch Norman
+## Antioch Norman
 
 - Tatenda
 - Desiree
@@ -356,7 +360,7 @@ Aimee & James Coker
 
 ---
 
-# All the churches in Norman
+## Churches in Norman
 
 > **John 10:11-18 (CSB) “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand, since he is not the shepherd and doesn’t own the sheep, leaves them and runs away when he sees a wolf coming. The wolf then snatches and scatters them. This happens because he is a hired hand and doesn’t care about the sheep.**
 
@@ -366,12 +370,12 @@ Aimee & James Coker
 
 ---
 
-## Everlasting Life Baptist Church
+#### Everlasting Life Baptist Church
 - Terry & Carol Wilson
 
 ---
 
-## Ariel Chapel Ministries
+#### Ariel Chapel Ministries
 - Nick Harris
 
 ---
@@ -387,7 +391,7 @@ Aimee & James Coker
 
 ---
 
-## Timber Creek Church
+#### Timber Creek Church
 - Josh & Abbey Mings, Owen & Ellie
 - Glenn & Quirk, Lexi, Nixon, and Brody
 - Amy & David Little, Ava & Holland
@@ -424,7 +428,7 @@ Aimee & James Coker
 
 ---
 
-## Providence Road Church
+#### Providence Road Church
 - Blake Hilgenfeld
 - Ben Schill
 - Matt Mosier
@@ -459,7 +463,7 @@ Aimee & James Coker
 
 ---
 
-## Redeemer Church
+#### Redeemer Church
 - Andy & Christy McDonald, Jachin, Kimberlyn, Bo, Berline, and Caleb
 - Andy McDonald
 - Paul Kingery
@@ -491,7 +495,7 @@ Aimee & James Coker
 
 ---
 
-# Frontline Norman
+## Frontline Norman
 
 > **Matthew 9:35-38 (CSB) Jesus continued going around to all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and every sickness. When he saw the crowds, he felt compassion for them, because they were distressed and dejected, like sheep without a shepherd. Then he said to his disciples, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.”**
 
@@ -539,19 +543,19 @@ Draw me closer. Let the world die to me so I can live to you.
 
 ---
 
-## South Norman
+#### South Norman
 
 Lord, please multiply
 
 ---
 
-## Central Norman
+#### Central Norman
 
 Lord, please multiply
 
 ---
 
-## East Boyd
+#### East Boyd
 
 Hunter & Maddie
 
@@ -573,7 +577,7 @@ Emily
 
 ---
 
-## Brookhaven
+#### Brookhaven
 
 Ethan & Arden
 
@@ -601,7 +605,7 @@ Joel & Bailey
 
 ---
 
-## Rock Creek
+#### Rock Creek
 
 Aaron & Natasha, Audrey
 
@@ -627,7 +631,7 @@ Daniel & Jamie, Atlas, August
 
 ---
 
-# Discipleship Group
+## Discipleship Group
 
 Lord,
 
@@ -645,16 +649,16 @@ Shatter the gates of hell.
 
 I love you so much.
 
-## Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
+#### Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
 - Healing for Timothy
 - Zachary - salvation
 - Samuel - salvation
 
-## Riley & Emily, Oliver
+#### Riley & Emily, Oliver
 - Oliver is here!
 - Logan - salvation; against isolation
 
-## Scott & Melody, Emily, Adelyn, Caleb
+#### Scott & Melody, Emily, Adelyn, Caleb
 - lots of anxiety
 - waking up in the middle of the night
 - Emily
@@ -664,7 +668,7 @@ I love you so much.
 - brother, Eric (Portland) vs parents who are Christian watches Fox News
 - **father Randy - liver cancer**
 
-## Andrew & Andie
+#### Andrew & Andie
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Andie: visiting therapist, it's going well! Anxiety!
 - Kale, brother
@@ -674,16 +678,16 @@ I love you so much.
 
 ---
 
-# City of Norman
+## City of Norman
 
 - Mayor Breea Clark
 - Councilperson Elizabeth Foreman
 
-# State of Oklahoma
+## State of Oklahoma
 
 - Governor Kevin Stitt, Sarah & children
 
-# United States
+## United States
 
 - Joe & Jill Biden, Beau, Hunter, Ashley
 - Kamala Harris, Douglas Emhoff, Cole, Ella
