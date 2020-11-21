@@ -11,6 +11,12 @@ tags:
 draft: true
 ---
 
+# Praying three times a day to preach Your great gospel
+
+> **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
+
+---
+
 <pre>
 <div style="font-variant: small-caps;">
 
@@ -106,15 +112,14 @@ For as the earth brings forth its sprouts,
 
 ---
 
-# Family
+## Family
 
-**Sarah, Yusef, Elijah, Ivy, Ava**
-
-**Marmie & Jason, Molly**
+- **Sarah, Yusef, Elijah, Ivy, Ava**
+- **Marmie & Jason, Molly**
 
 ---
 
-# Norman
+## Norman
 
 > **Matthew 3:12 (CSB) His winnowing shovel is in his hand, and he will clear his threshing floor and gather his wheat into the barn. But the chaff he will burn with fire that never goes out.”**
 
@@ -150,13 +155,13 @@ Liz & Trey Davidson
 
 Aimee & James Coker
 
-**Sean & Sunny**
+Sean & Sunny
 
-**Evan**
+Evan
 
 ---
 
-# Antioch Norman
+## Antioch Norman
 
 - Tatenda
 - Desiree
@@ -218,103 +223,58 @@ Aimee & James Coker
 - Stephany
 - Kristen
 
-**Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny**
-
-**Jonathan & Lisa, Justus, Jerod, Jayden, Liberty, Jude, Laylah**
-
-**Jake & Kourtney Hartsock, Harper, Braxton, Kooper, Sutton, Preslee**
-
-**Chris & Megan Doke, Emma, Sophie, Alice, Bella, Isa**
-
-**Chris & Julie, Beau, Nate, Brooks, Joy**
-
-**Greg & Laura, fam**
-
-**Bob & Randi**
-
-**Patrick & Katie, Layla, Kayden, Baby**
-
-**Brian & Allison, Halle, Ella, Haynes, Port**
-
-**Gerod & fam,**
-
-**Brian & Stacy, Kaelyn, Lauren, Joshua, Jason**
-
-**Andrew & KK, Claire, Maddie, Jones**
-
-**Donnie & Terri, Matthew, Jessica, Caleb; Astrid & Hubs**
-
-**Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan**
-
-**Andrew & Jordyn, Will, Alice, Elliot, Baby**
-
-**Zac & Sara, Henry, Margaret, Anna**
-
-**Annamarie & Jordan, fam**
-
-**Hein & Torree, Holly**
-
-**Emily & Jason**
-
-**Ben & Audrey**
-
-**Stefan & Paige**
-
-**Laura & Kenah, Nyala, Peter**
-
-**Liz & Trey, Rosie, Miles**
-
-**Blake & Lauren, fam**
-
-**Tyler & Joi, fam**
-
-**Josh & Becca, fam**
-
-**Craig & Sharla Conway**
-
-**Alex & Mikala, Reuben, Faye**
-
-**John & Jillian, Samuel, Emma**
-
-**Curtis & Rachel, Abigal, Ezra, Jesse**
-
-**Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah**
-
-**Robby & Sarah, fam**
-
-**Ian**
-
-**Erin**
-
-**Josh**
-
-**Jaime**
-
-**Kim, Lori, Taylor**
-
-**Larissa**
-
-**Jessie**
-
-**Carol**
-
-**Aimee & James, Mia, Ruby, Elliott, Coraline, Lucy**
-
-**Star-Lord**
-
-**Zach**
-
-**Mark & Mikala**
-
-**Robin & Bobby**
-
-**Elisheba**
+- **Clarence & Alicia Hill, Charity, Harmony, Jonathan, Destiny**
+- **Jonathan & Lisa, Justus, Jerod, Jayden, Liberty, Jude, Laylah**
+- **Jake & Kourtney Hartsock, Harper, Braxton, Kooper, Sutton, Preslee**
+- **Chris & Megan Doke, Emma, Sophie, Alice, Bella, Isa**
+- **Chris & Julie, Beau, Nate, Brooks, Joy**
+- **Greg & Laura, fam**
+- **Bob & Randi**
+- **Patrick & Katie, Layla, Kayden, Baby**
+- **Brian & Allison, Halle, Ella, Haynes, Port**
+- **Gerod & fam,**
+- **Brian & Stacy, Kaelyn, Lauren, Joshua, Jason**
+- **Andrew & KK, Claire, Maddie, Jones**
+- **Donnie & Terri, Matthew, Jessica, Caleb; Astrid & Hubs**
+- **Nickolas & Adoyolle Eliis, Jeremiah, Jedidah, Josiah, Nehemiah, Nathan**
+- **Andrew & Jordyn, Will, Alice, Elliot, Baby**
+- **Zac & Sara, Henry, Margaret, Anna**
+- **Annamarie & Jordan, fam**
+- **Hein & Torree, Holly**
+- **Emily & Jason**
+- **Ben & Audrey**
+- **Stefan & Paige**
+- **Laura & Kenah, Nyala, Peter**
+- **Liz & Trey, Rosie, Miles**
+- **Blake & Lauren, fam**
+- **Tyler & Joi, fam**
+- **Josh & Becca, fam**
+- **Craig & Sharla Conway**
+- **Alex & Mikala, Reuben, Faye**
+- **John & Jillian, Samuel, Emma**
+- **Curtis & Rachel, Abigal, Ezra, Jesse**
+- **Jared & Bekah, Riah, Elias, Asher, Lena, Evey, Canaan, Hadassah**
+- **Robby & Sarah, fam**
+- **Ian**
+- **Erin**
+- **Josh**
+- **Jaime**
+- **Kim, Lori, Taylor**
+- **Larissa**
+- **Jessie**
+- **Carol**
+- **Aimee & James, Mia, Ruby, Elliott, Coraline, Lucy**
+- **Star-Lord**
+- **Zach**
+- **Mark & Mikala**
+- **Robin & Bobby**
+- **Elisheba**
 
 > **1 Thessalonians 2:8 (NIV) We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.**
 
 ---
 
-# All the churches in Norman
+## All the churches in Norman
 
 > **John 10:11-18 (CSB) “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand, since he is not the shepherd and doesn’t own the sheep, leaves them and runs away when he sees a wolf coming. The wolf then snatches and scatters them. This happens because he is a hired hand and doesn’t care about the sheep.**
 
@@ -325,11 +285,13 @@ Aimee & James Coker
 ---
 
 ## Everlasting Life Baptist Church
+
 - Terry & Carol Wilson
 
 ---
 
 ## Ariel Chapel Ministries
+
 - Nick Harris
 
 ---
@@ -346,6 +308,7 @@ Aimee & James Coker
 ---
 
 ## Timber Creek Church
+
 - Josh & Abbey Mings, Owen & Ellie
 - Glenn & Quirk, Lexi, Nixon, and Brody
 - Amy & David Little, Ava & Holland
@@ -383,6 +346,7 @@ Aimee & James Coker
 ---
 
 ## Providence Road Church
+
 - Blake Hilgenfeld
 - Ben Schill
 - Matt Mosier
@@ -409,15 +373,16 @@ Aimee & James Coker
 - **Southern Canadian Valley Church of Christ**
 - **St. Michael's Episcopal Church** - Rev. Dr. Jason Haddox & Rev. Laura Blazek
 - **Westside Church of Christ**
-  * Greg Giltner
-  * Philip Johnson
-  * Jeff Jennings
-  * Ken Snethen
-  * Tracey Talley
+  - Greg Giltner
+  - Philip Johnson
+  - Jeff Jennings
+  - Ken Snethen
+  - Tracey Talley
 
 ---
 
 ## Redeemer Church
+
 - Andy & Christy McDonald, Jachin, Kimberlyn, Bo, Berline, and Caleb
 - Andy McDonald
 - Paul Kingery
@@ -449,7 +414,7 @@ Aimee & James Coker
 
 ---
 
-# Frontline Norman
+## Frontline Norman
 
 > **Matthew 9:35-38 (CSB) Jesus continued going around to all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and every sickness. When he saw the crowds, he felt compassion for them, because they were distressed and dejected, like sheep without a shepherd. Then he said to his disciples, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.”**
 
@@ -555,8 +520,6 @@ Nathan
 
 Joel & Bailey
 
-
-
 ---
 
 ## Rock Creek
@@ -585,7 +548,7 @@ Daniel & Jamie, Atlas, August
 
 ---
 
-# Discipleship Group
+## Discipleship Group
 
 Lord,
 
@@ -604,15 +567,18 @@ Shatter the gates of hell.
 I love you so much.
 
 ## Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
+
 - Healing for Timothy
 - Zachary - salvation
 - Samuel - salvation
 
 ## Riley & Emily, Oliver
+
 - Oliver is here!
 - Logan - salvation; against isolation
 
 ## Scott & Melody, Emily, Adelyn, Caleb
+
 - lots of anxiety
 - waking up in the middle of the night
 - Emily
@@ -623,6 +589,7 @@ I love you so much.
 - **father Randy - liver cancer**
 
 ## Andrew & Andie
+
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Andie: visiting therapist, it's going well! Anxiety!
 - Kale, brother
@@ -632,16 +599,16 @@ I love you so much.
 
 ---
 
-# City of Norman
+## City of Norman
 
 - Mayor Breea Clark
 - Councilperson Elizabeth Foreman
 
-# State of Oklahoma
+## State of Oklahoma
 
 - Governor Kevin Stitt, Sarah & children
 
-# United States
+## United States
 
 - Joe & Jill Biden, Beau, Hunter, Ashley
 - Kamala Harris, Douglas Emhoff, Cole, Ella
@@ -652,12 +619,14 @@ But Father, if they do not know you, please turn their hearts towards you.
 
 Lord, save my city, my state, and my nation and her people.
 
-> **1 Chronicles 29:18 O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.**
-
-> **Acts 17:32 - 18:11 (CSB) When they heard about the resurrection of the dead, some began to ridicule him, but others said, “We’d like to hear from you again about this.” So Paul left their presence. However, some people joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others with them.**
-
+> ## 1 Chronicles 29:18; Acts 17:32 - 18:11
+>
+> **O LORD, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you.**
+>
+> **When they heard about the resurrection of the dead, some began to ridicule him, but others said, “We’d like to hear from you again about this.” So Paul left their presence. However, some people joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others with them.**
+>
 > **After this, he left Athens and went to Corinth, where he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul came to them, and since they were of the same occupation, tentmakers by trade, he stayed with them and worked. He reasoned in the synagogue every Sabbath and tried to persuade both Jews and Greeks.**
-
+>
 > **When Silas and Timothy arrived from Macedonia, Paul devoted himself to preaching the word and testified to the Jews that Jesus is the Messiah. When they resisted and blasphemed, he shook out his clothes and told them, “Your blood is on your own heads! I am innocent. From now on I will go to the Gentiles.” So he left there and went to the house of a man named Titius Justus, a worshiper of God, whose house was next door to the synagogue. Crispus, the leader of the synagogue, believed in the Lord, along with his whole household. Many of the Corinthians, when they heard, believed and were baptized.**
-
+>
 > **The Lord said to Paul in a night vision, “Don’t be afraid, but keep on speaking and don’t be silent. For I am with you, and no one will lay a hand on you to hurt you, because I have many people in this city.” He stayed there a year and a half, teaching the word of God among them.**

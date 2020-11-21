@@ -11,11 +11,7 @@ tags:
 draft: true
 ---
 
-
-
----
-
-# Pray to preach the gospel
+# Praying three times a day to preach Your great gospel
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
@@ -43,7 +39,7 @@ Amen.
 
 ---
 
-# For Sarah
+## For Sarah
 
 Melissa
 
@@ -61,7 +57,7 @@ Jamie
 
 ---
 
-# Give thanks
+## Give thanks
 
 You gave me my heart. My provision. My joy.
 
@@ -73,7 +69,7 @@ If I have nothing or anything, I have everything because I have your Son, Jesus 
 
 ---
 
-# For healing
+## For healing
 
 My Lord,
 
@@ -97,7 +93,7 @@ Heal Kathleen (Leah's mom)
 
 ---
 
-# Daily
+## Daily
 
 On marriage: **Sarah, my love**
 
@@ -123,7 +119,7 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 ---
 
-# Next steps
+## Next steps
 
 My God,
 
@@ -135,119 +131,68 @@ Amen
 
 ---
 
-# For those who do not know You
+## For those who may not know You
 
 My Lord above,
 
 Call on me. I will be obedient. Tell me with whom shall I share your good news: you are Jesus and you have saved his people from their sins. If they believe and trust in you, they will live.
 
-**Logan**
-
-**Chuck's sons, Zachary & Samuel**
-
-**Aussie's folks: Brad & Gay, 3 brothers**
-
-**Emily's mom, Cheri**
-
-**Yusef and Nichole**
-
-**Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy**
-
-**Natalie, Jackson, Kingston**
-
-**Reed & Sandy**
-
-**Johnny & Jamie, Kolton, Korbin**
-
-**Jeanny**
-
-**Jodi & Ryan, Piper, Rylee**
-
-**Jennifer & John; Brandon; Phillip & Keri, Haley; Meagan & fam ; Pedigo & Deb**
-
-**Melissa & Micah, Noah, Levi, Judah**
-
-**James**
-
-**Jason, Molly**
-
-**Chelsea**
-
-**Jansen & Mandy**
-
-**Sean & Sunny**
-
-**Evan**
-
-**Shannon & Michael, Elle**
-
-**Patrick (Dave’s Son)**
-
-**Coleman & Wendy, Olivia, Bella, Ian**
-
-**Carl**
-
-**Mark & Nicole, Gabrielle**
-
-**Mark & Robin**
-
-**James & Hubs**
-
-**Louis**
-
-**Greg & wife**
-
-**Liz**
-
-**Eileen & Hubs, fam**
-
-**Ray**
-
-**Randall**
-
-**Cynthia**
-
-**Joe P**
-
-**George**
-
-**Margo & kids**
-
-**Vinny & wife**
-
-**Ali**
-
-**Homie**
-
-**Carlos**
-
-**Kyle**
-
-**Landon**
-
-**Jamie**
-
-**John & wife, kids**
-
-**Jason Sohn**
-
-**Dhruv**
-
-**Yusik**
-
-**Peter**
-
-**Wayne & Nicole Barber**
-
-**Eric Robinson**
-
-**Jonathan & Jenn Williams**
-
-**Evan & Kaylee, Everett, Baby**
+- **Logan**
+- **Chuck's sons, Zachary & Samuel**
+- **Aussie's folks: Brad & Gay, 3 brothers**
+- **Emily's mom, Cheri**
+- **Yusef and Nichole**
+- **Elijah & Ivy, Amber & Kara, Griffen, Gabe, Emma, Lacey, Grace, Lucy**
+- **Natalie, Jackson, Kingston**
+- **Reed & Sandy**
+- **Johnny & Jamie, Kolton, Korbin**
+- **Jeanny**
+- **Jodi & Ryan, Piper, Rylee**
+- **Jennifer & John; Brandon; Phillip & Keri, Haley; Meagan & fam ; Pedigo & Deb**
+- **Melissa & Micah, Noah, Levi, Judah**
+- **James**
+- **Jason, Molly**
+- **Chelsea**
+- **Jansen & Mandy**
+- **Sean & Sunny**
+- **Evan**
+- **Shannon & Michael, Elle**
+- **Patrick (Dave’s Son)**
+- **Coleman & Wendy, Olivia, Bella, Ian**
+- **Carl**
+- **Mark & Nicole, Gabrielle**
+- **Mark & Robin**
+- **James & Hubs**
+- **Louis**
+- **Greg & wife**
+- **Liz**
+- **Eileen & Hubs, fam**
+- **Ray**
+- **Randall**
+- **Cynthia**
+- **Joe P**
+- **George**
+- **Margo & kids**
+- **Vinny & wife**
+- **Ali**
+- **Homie**
+- **Carlos**
+- **Kyle**
+- **Landon**
+- **Jamie**
+- **John & wife, kids**
+- **Jason Sohn**
+- **Dhruv**
+- **Yusik**
+- **Peter**
+- **Wayne & Nicole Barber**
+- **Eric Robinson**
+- **Jonathan & Jenn Williams**
+- **Evan & Kaylee, Everett, Baby**
 
 ---
 
-# StarCraft 2
+## StarCraft 2
 
 - Zip
 - MrSleep
@@ -265,7 +210,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 ---
 
-# D&D
+## D&D
 
 - Andrew & Kara
 - Jeff & Emilee
@@ -273,31 +218,25 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 ---
 
-# Friends
+## Friends
 
-**Sarah & Josiah**
+- **Sarah & Josiah**
+- **Jared & Lacey, Marin, Elisabeth**
+- **Leslie**
+- **Andrew & Jordyn, Will, Alice, Elliot, Annie**
+- **Alix & Braden**
+- **Aaron & Natasha, Audrey**
+- **Holly & Jake, Jonah, Ellis, Finley**
+- **Jason & Michelle, Hazel, Charlotte, Evelyn**
+- **Landon & Jules, Eli, Sophia & Olivia**
 
-**Jared & Lacey, Marin, Elisabeth**
+### California
 
-**Leslie**
-
-**Andrew & Jordyn, Will, Alice, Elliot, Annie**
-
-**Alix & Braden**
-
-**Aaron & Natasha, Audrey**
-
-**Holly & Jake, Jonah, Ellis, Finley**
-
-**Jason & Michelle, Hazel, Charlette, Evelyn**
-
-**Landon & Jules, Eli, Sophia & Olivia**
-
-**California**
-- Moray
-- Sarah and Mike Neustadt
-- Layne and Jackie Marshall
-- Evie
-- Kristie
-- John and Gina
-- Jen and Diddy
+- **Moray**
+- **Sarah and Mike**
+- **Layne and Jackie Marshall**
+- **Evie**
+- **Kristie**
+- **John and Gina**
+- **Jen and Diddy**
+...
