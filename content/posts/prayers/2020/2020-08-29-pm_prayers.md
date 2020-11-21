@@ -3,7 +3,7 @@ title: 'Evening Prayers for Saturday, 29 August 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-29T14:00:00-06:00
-url: /pm_prayers/2020-08-29-pm_prayers/
+url: /prayers/2020-08-29-pm_prayers/
 categories:
  - Prayers
 tags:

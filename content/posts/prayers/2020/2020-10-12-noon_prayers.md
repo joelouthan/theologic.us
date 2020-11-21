@@ -3,7 +3,7 @@ title: 'Noon Prayers for Monday, 12 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-12T12:00:00-06:00
-url: /noon_prayers/2020-10-12-noon_prayers/
+url: /prayers/2020-10-12-noon_prayers/
 categories:
  - Prayers
 tags:

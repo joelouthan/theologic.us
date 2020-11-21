@@ -3,7 +3,7 @@ title: 'Noon Prayers for Wednesday, 14 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-14T12:00:00-06:00
-url: /noon_prayers/2020-10-14-noon_prayers/
+url: /prayers/2020-10-14-noon_prayers/
 categories:
  - Prayers
 tags:

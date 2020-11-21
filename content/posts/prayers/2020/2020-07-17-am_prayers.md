@@ -3,7 +3,7 @@ title: 'Morning Prayers for Friday, 17 July 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-17T08:00:00-06:00
-url: /am_prayers/2020-07-17-am_prayers/
+url: /prayers/2020-07-17-am_prayers/
 categories:
  - Prayers
 tags:

@@ -3,7 +3,7 @@ title: 'Evening Prayers for Monday, 19 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-19T20:00:00-06:00
-url: /pm_prayers/2020-10-19-pm_prayers/
+url: /prayers/2020-10-19-pm_prayers/
 categories:
  - Prayers
 tags:

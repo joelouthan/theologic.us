@@ -3,7 +3,7 @@ title: 'Evening Prayers for Saturday, 7 November 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-07T20:00:00-06:00
-url: /pm_prayers/2020-11-07-pm_prayers/
+url: /prayers/2020-11-07-pm_prayers/
 categories:
  - Prayers
 tags:

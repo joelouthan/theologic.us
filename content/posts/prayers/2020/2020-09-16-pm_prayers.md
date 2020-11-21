@@ -3,7 +3,7 @@ title: 'Evening Prayers for Wednesday, 16 September 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-09-16T14:00:00-06:00
-url: /pm_prayers/2020-09-16-pm_prayers/
+url: /prayers/2020-09-16-pm_prayers/
 categories:
  - Prayers
 tags:

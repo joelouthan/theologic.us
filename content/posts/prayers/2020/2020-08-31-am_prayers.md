@@ -3,7 +3,7 @@ title: 'Morning Prayers for Monday, 31 August 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-31T08:00:00-06:00
-url: /am_prayers/2020-08-31-am_prayers/
+url: /prayers/2020-08-31-am_prayers/
 categories:
  - Prayers
 tags:

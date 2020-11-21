@@ -3,7 +3,7 @@ title: 'Evening Prayers for Thursday, 3 December 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-03T20:00:00-06:00
-url: /pm_prayers/2020-12-03-pm_prayers/
+url: /prayers/2020-12-03-pm_prayers/
 categories:
  - Prayers
 tags:
@@ -286,6 +286,3 @@ Pastor Ben - Lord, show me how I can be praying, encouraging and lifting up Ben 
 ---
 
 # Frontline Midwest City
-
----
-

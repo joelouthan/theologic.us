@@ -3,7 +3,7 @@ title: 'Evening Prayers for Sunday, 13 September 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-09-13T14:00:00-06:00
-url: /pm_prayers/2020-09-13-pm_prayers/
+url: /prayers/2020-09-13-pm_prayers/
 categories:
  - Prayers
 tags:

@@ -3,7 +3,7 @@ title: 'Evening Prayers for Tuesday, 20 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-20T20:00:00-06:00
-url: /pm_prayers/2020-10-20-pm_prayers/
+url: /prayers/2020-10-20-pm_prayers/
 categories:
  - Prayers
 tags:

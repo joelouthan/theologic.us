@@ -3,7 +3,7 @@ title: 'Morning Prayers for Saturday, 29 August 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-29T08:00:00-06:00
-url: /am_prayers/2020-08-29-am_prayers/
+url: /prayers/2020-08-29-am_prayers/
 categories:
  - Prayers
 tags:

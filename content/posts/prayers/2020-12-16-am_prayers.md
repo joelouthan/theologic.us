@@ -3,7 +3,7 @@ title: 'Morning Prayers for Wednesday, 16 December 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-16T06:00:00-06:00
-url: /am_prayers/2020-12-16-am_prayers/
+url: /prayers/2020-12-16-am_prayers/
 categories:
  - Prayers
 tags:

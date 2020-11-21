@@ -3,7 +3,7 @@ title: 'Noon Prayers for Friday, 11 December 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-11T12:00:00-06:00
-url: /noon_prayers/2020-12-11-noon_prayers/
+url: /prayers/2020-12-11-noon_prayers/
 categories:
  - Prayers
 tags:
@@ -661,4 +661,3 @@ Lord, save my city, my state, and my nation and her people.
 > **When Silas and Timothy arrived from Macedonia, Paul devoted himself to preaching the word and testified to the Jews that Jesus is the Messiah. When they resisted and blasphemed, he shook out his clothes and told them, “Your blood is on your own heads! I am innocent. From now on I will go to the Gentiles.” So he left there and went to the house of a man named Titius Justus, a worshiper of God, whose house was next door to the synagogue. Crispus, the leader of the synagogue, believed in the Lord, along with his whole household. Many of the Corinthians, when they heard, believed and were baptized.**
 
 > **The Lord said to Paul in a night vision, “Don’t be afraid, but keep on speaking and don’t be silent. For I am with you, and no one will lay a hand on you to hurt you, because I have many people in this city.” He stayed there a year and a half, teaching the word of God among them.**
-

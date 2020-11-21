@@ -3,7 +3,7 @@ title: 'Evening Prayers for Thursday, 9 July 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-09T14:00:00-06:00
-url: /pm_prayers/2020-07-09-pm_prayers/
+url: /prayers/2020-07-09-pm_prayers/
 categories:
  - Prayers
 tags:

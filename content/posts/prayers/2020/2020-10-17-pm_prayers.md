@@ -3,7 +3,7 @@ title: 'Evening Prayers for Saturday, 17 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-17T20:00:00-06:00
-url: /pm_prayers/2020-10-17-pm_prayers/
+url: /prayers/2020-10-17-pm_prayers/
 categories:
  - Prayers
 tags:

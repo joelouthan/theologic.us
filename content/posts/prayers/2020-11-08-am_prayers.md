@@ -3,7 +3,7 @@ title: 'Morning Prayers for Sunday, 8 November 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-08T06:00:00-06:00
-url: /am_prayers/2020-11-08-am_prayers/
+url: /prayers/2020-11-08-am_prayers/
 categories:
  - Prayers
 tags:

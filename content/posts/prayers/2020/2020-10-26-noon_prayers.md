@@ -3,7 +3,7 @@ title: 'Noon Prayers for Monday, 26 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-26T12:00:00-06:00
-url: /noon_prayers/2020-10-26-noon_prayers/
+url: /prayers/2020-10-26-noon_prayers/
 categories:
  - Prayers
 tags:

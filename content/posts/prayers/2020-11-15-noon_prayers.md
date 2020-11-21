@@ -3,7 +3,7 @@ title: 'Noon Prayers for Sunday, 15 November 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-11-15T12:00:00-06:00
-url: /noon_prayers/2020-11-15-noon_prayers/
+url: /prayers/2020-11-15-noon_prayers/
 categories:
  - Prayers
 tags:

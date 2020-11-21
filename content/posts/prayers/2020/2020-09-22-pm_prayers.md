@@ -3,7 +3,7 @@ title: 'Evening Prayers for Tuesday, 22 September 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-09-22T14:00:00-06:00
-url: /pm_prayers/2020-09-22-pm_prayers/
+url: /prayers/2020-09-22-pm_prayers/
 categories:
  - Prayers
 tags:

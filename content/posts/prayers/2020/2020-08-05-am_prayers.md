@@ -3,7 +3,7 @@ title: 'Morning Prayers for Wednesday, 5 August 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-05T08:00:00-06:00
-url: /am_prayers/2020-08-05-am_prayers/
+url: /prayers/2020-08-05-am_prayers/
 categories:
  - Prayers
 tags:

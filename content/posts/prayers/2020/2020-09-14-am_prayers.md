@@ -3,7 +3,7 @@ title: 'Morning Prayers for Monday, 14 September 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-09-14T08:00:00-06:00
-url: /am_prayers/2020-09-14-am_prayers/
+url: /prayers/2020-09-14-am_prayers/
 categories:
  - Prayers
 tags:

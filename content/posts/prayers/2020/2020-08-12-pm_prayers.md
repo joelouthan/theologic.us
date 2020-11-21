@@ -3,7 +3,7 @@ title: 'Evening Prayers for Wednesday, 12 August 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-08-12T14:00:00-06:00
-url: /pm_prayers/2020-08-12-pm_prayers/
+url: /prayers/2020-08-12-pm_prayers/
 categories:
  - Prayers
 tags:

@@ -3,7 +3,7 @@ title: 'Noon Prayers for Saturday, 17 October 2020'
 author: Joseph Louthan
 type: post
 publishDate: 2020-10-17T12:00:00-06:00
-url: /noon_prayers/2020-10-17-noon_prayers/
+url: /prayers/2020-10-17-noon_prayers/
 categories:
  - Prayers
 tags:
