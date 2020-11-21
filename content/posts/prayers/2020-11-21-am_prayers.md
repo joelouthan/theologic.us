@@ -11,7 +11,41 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 6:9-15 (ESV) Thus says the LORD of hosts:
+“They shall glean thoroughly as a vine
+the remnant of Israel;
+like a grape gatherer pass your hand again
+over its branches.”
+To whom shall I speak and give warning,
+that they may hear?
+Behold, their ears are uncircumcised,
+they cannot listen;
+behold, the word of the LORD is to them an object of scorn;
+they take no pleasure in it.
+Therefore I am full of the wrath of the LORD;
+I am weary of holding it in.
+“Pour it out upon the children in the street,
+and upon the gatherings of young men, also;
+both husband and wife shall be taken,
+the elderly and the very aged.
+Their houses shall be turned over to others,
+their fields and wives together,
+for I will stretch out my hand
+against the inhabitants of the land,”
+declares the LORD.
+“For from the least to the greatest of them,
+everyone is greedy for unjust gain;
+and from prophet to priest,
+everyone deals falsely.
+They have healed the wound of my people lightly,
+saying, Peace, peace,’
+when there is no peace.
+Were they ashamed when they committed abomination?
+No, they were not at all ashamed;
+they did not know how to blush.
+Therefore they shall fall among those who fall;
+at the time that I punish them, they shall be overthrown,”
+says the LORD.
 
 ---
 

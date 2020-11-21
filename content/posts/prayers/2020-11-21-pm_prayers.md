@@ -11,7 +11,30 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 6:16-21 (ESV) Thus says the LORD:
+“Stand by the roads, and look,
+and ask for the ancient paths,
+where the good way is; and walk in it,
+and find rest for your souls.
+But they said, ‘We will not walk in it.’
+I set watchmen over you, saying,
+‘Pay attention to the sound of the trumpet!’
+But they said, We will not pay attention.’
+Therefore hear, O nations,
+and know, O congregation, what will happen to them.
+Hear, O earth; behold, I am bringing disaster upon this people,
+the fruit of their devices,
+because they have not paid attention to my words;
+and as for my law, they have rejected it.
+What use to me is frankincense that comes from Sheba,
+or sweet cane from a distant land?
+Your burnt offerings are not acceptable,
+nor your sacrifices pleasing to me.
+Therefore thus says the LORD:
+Behold, I will lay before this people
+stumbling blocks against which they shall stumble;
+fathers and sons together,
+neighbor and friend shall perish.’”
 
 ---
 
