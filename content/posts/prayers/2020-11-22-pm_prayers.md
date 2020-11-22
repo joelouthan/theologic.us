@@ -11,7 +11,18 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 6:27-30 (ESV) “I have made you a tester of metals among my people,
+that you may know and test their ways.
+They are all stubbornly rebellious,
+going about with slanders;
+they are bronze and iron;
+all of them act corruptly.
+The bellows blow fiercely;
+the lead is consumed by the fire;
+in vain the refining goes on,
+for the wicked are not removed.
+Rejected silver they are called,
+for the LORD has rejected them.”
 
 ---
 

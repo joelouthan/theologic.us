@@ -19,9 +19,55 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+O LORD,
 </div>
+I bless thee that the issue of the battle
+      between thyself and Satan
+        has never been uncertain,
+        and will end in victory.
+Calvary broke the dragon’s head,
+  and I contend with a vanquished foe,
+    who with all his subtlety and strength
+    has already been overcome.
+When I feel the serpent at my heel
+  may I remember him whose heel was bruised,
+    but who, when bruised, broke the devil’s head.
 
+
+My soul with inward joy extols
+    the mighty conqueror.
+
+
+Heal me of any wounds received
+    in the great conflict;
+      if I have gathered defilement,
+      if my faith has suffered damage,
+      if my hope is less than bright,
+      if my love is not fervent,
+      if some creature-comfort occupies my heart,
+      if my soul sinks under pressure of the fight.
+O thou whose every promise is balm,
+    every touch life,
+  draw near to thy weary warrior,
+  refresh me, that I may rise again
+    to wage the strife,
+  and never tire until my enemy is trodden down.
+Give me such fellowship with thee
+    that I may defy Satan,
+      unbelief, the flesh, the world,
+  with delight that comes not from a creature,
+  and which a creature cannot mar.
+Give me a draught of the eternal fountain
+  that lieth in thy immutable, everlasting love
+    and decree.
+Then shall my hand never weaken,
+  my feet never stumble,
+  my sword never rest,
+  my shield never rust,
+  my helmet never shatter,
+  my breastplate never fall,
+    as my strength rests in the power
+      of thy might.
 </pre>
 
 ---
