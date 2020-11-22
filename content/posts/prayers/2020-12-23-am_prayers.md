@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Saturday, 28 November 2020'
+title: 'Morning Prayers for Wednesday, 23 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-28T06:00:00-06:00
-url: /prayers/2020-11-28-am_prayers/
+publishDate: 2020-12-23T06:00:00-06:00
+url: /prayers/2020-12-23-am_prayers/
 categories:
  - Prayers
 tags:

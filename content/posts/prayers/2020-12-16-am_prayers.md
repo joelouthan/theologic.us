@@ -11,7 +11,11 @@ tags:
 draft: true
 ---
 
-# Praying three times a day to preach Your great gospel
+
+
+---
+
+## Praying three times a day to preach Your great gospel
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
@@ -39,7 +43,7 @@ Amen.
 
 ---
 
-## For Sarah
+### For Sarah
 
 Melissa
 
@@ -57,7 +61,7 @@ Jamie
 
 ---
 
-## Give thanks
+### Give thanks
 
 You gave me my heart. My provision. My joy.
 
@@ -69,7 +73,7 @@ If I have nothing or anything, I have everything because I have your Son, Jesus 
 
 ---
 
-## For healing
+### For healing
 
 My Lord,
 
@@ -93,7 +97,7 @@ Heal Kathleen (Leah's mom)
 
 ---
 
-## Daily
+### Daily
 
 On marriage: **Sarah, my love**
 
@@ -119,7 +123,7 @@ On his provision: **Lord, anything you give will be good enough for me.**
 
 ---
 
-## Next steps
+### Next steps
 
 My God,
 
@@ -131,7 +135,7 @@ Amen
 
 ---
 
-## For those who may not know You
+### For those who may not know You
 
 My Lord above,
 
@@ -192,7 +196,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 ---
 
-## StarCraft 2
+### StarCraft 2
 
 - Zip
 - MrSleep
@@ -210,7 +214,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 ---
 
-## D&D
+### D&D
 
 - Andrew & Kara
 - Jeff & Emilee
@@ -218,7 +222,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 
 ---
 
-## Friends
+### Friends
 
 - **Sarah & Josiah**
 - **Jared & Lacey, Marin, Elisabeth**
@@ -230,7 +234,7 @@ Call on me. I will be obedient. Tell me with whom shall I share your good news: 
 - **Jason & Michelle, Hazel, Charlotte, Evelyn**
 - **Landon & Jules, Eli, Sophia & Olivia**
 
-### California
+#### California
 
 - **Moray**
 - **Sarah and Mike**

@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Sunday, 29 November 2020'
+title: 'Evening Prayers for Wednesday, 23 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-11-29T20:00:00-06:00
-url: /pm_prayers/2020-11-29-pm_prayers/
+publishDate: 2020-12-23T20:00:00-06:00
+url: /pm_prayers/2020-12-23-pm_prayers/
 categories:
  - Prayers
 tags:

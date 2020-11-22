@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-# Praying three times a day to preach Your great gospel
+## Praying three times a day to preach Your great gospel
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
@@ -112,14 +112,14 @@ For as the earth brings forth its sprouts,
 
 ---
 
-## Family
+### Family
 
 - **Sarah, Yusef, Elijah, Ivy, Ava**
 - **Marmie & Jason, Molly**
 
 ---
 
-## Norman
+### Norman
 
 > **Matthew 3:12 (CSB) His winnowing shovel is in his hand, and he will clear his threshing floor and gather his wheat into the barn. But the chaff he will burn with fire that never goes out.”**
 
@@ -161,7 +161,7 @@ Evan
 
 ---
 
-## Antioch Norman
+### Antioch Norman
 
 - Tatenda
 - Desiree
@@ -274,7 +274,7 @@ Evan
 
 ---
 
-## All the churches in Norman
+### All the churches in Norman
 
 > **John 10:11-18 (CSB) “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand, since he is not the shepherd and doesn’t own the sheep, leaves them and runs away when he sees a wolf coming. The wolf then snatches and scatters them. This happens because he is a hired hand and doesn’t care about the sheep.**
 
@@ -284,13 +284,13 @@ Evan
 
 ---
 
-## Everlasting Life Baptist Church
+### Everlasting Life Baptist Church
 
 - Terry & Carol Wilson
 
 ---
 
-## Ariel Chapel Ministries
+### Ariel Chapel Ministries
 
 - Nick Harris
 
@@ -307,7 +307,7 @@ Evan
 
 ---
 
-## Timber Creek Church
+### Timber Creek Church
 
 - Josh & Abbey Mings, Owen & Ellie
 - Glenn & Quirk, Lexi, Nixon, and Brody
@@ -345,7 +345,7 @@ Evan
 
 ---
 
-## Providence Road Church
+### Providence Road Church
 
 - Blake Hilgenfeld
 - Ben Schill
@@ -381,7 +381,7 @@ Evan
 
 ---
 
-## Redeemer Church
+### Redeemer Church
 
 - Andy & Christy McDonald, Jachin, Kimberlyn, Bo, Berline, and Caleb
 - Andy McDonald
@@ -414,7 +414,7 @@ Evan
 
 ---
 
-## Frontline Norman
+### Frontline Norman
 
 > **Matthew 9:35-38 (CSB) Jesus continued going around to all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom, and healing every disease and every sickness. When he saw the crowds, he felt compassion for them, because they were distressed and dejected, like sheep without a shepherd. Then he said to his disciples, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.”**
 
@@ -462,19 +462,19 @@ Draw me closer. Let the world die to me so I can live to you.
 
 ---
 
-## South Norman
+### South Norman
 
 Lord, please multiply
 
 ---
 
-## Central Norman
+### Central Norman
 
 Lord, please multiply
 
 ---
 
-## East Boyd
+### East Boyd
 
 Hunter & Maddie
 
@@ -496,7 +496,7 @@ Emily
 
 ---
 
-## Brookhaven
+### Brookhaven
 
 Ethan & Arden
 
@@ -522,7 +522,7 @@ Joel & Bailey
 
 ---
 
-## Rock Creek
+### Rock Creek
 
 Aaron & Natasha, Audrey
 
@@ -548,7 +548,7 @@ Daniel & Jamie, Atlas, August
 
 ---
 
-## Discipleship Group
+### Discipleship Group
 
 Lord,
 
@@ -566,18 +566,18 @@ Shatter the gates of hell.
 
 I love you so much.
 
-## Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
+### Chuck & Lauren, Timothy, Emily, Rebekah, Zachary, Samuel
 
 - Healing for Timothy
 - Zachary - salvation
 - Samuel - salvation
 
-## Riley & Emily, Oliver
+### Riley & Emily, Oliver
 
 - Oliver is here!
 - Logan - salvation; against isolation
 
-## Scott & Melody, Emily, Adelyn, Caleb
+### Scott & Melody, Emily, Adelyn, Caleb
 
 - lots of anxiety
 - waking up in the middle of the night
@@ -588,7 +588,7 @@ I love you so much.
 - brother, Eric (Portland) vs parents who are Christian watches Fox News
 - **father Randy - liver cancer**
 
-## Andrew & Andie
+### Andrew & Andie
 
 - Faith: pain; but success on surgery. Take away her pain. Heal her sweet head.
 - Andie: visiting therapist, it's going well! Anxiety!
@@ -599,16 +599,16 @@ I love you so much.
 
 ---
 
-## City of Norman
+### City of Norman
 
 - Mayor Breea Clark
 - Councilperson Elizabeth Foreman
 
-## State of Oklahoma
+### State of Oklahoma
 
 - Governor Kevin Stitt, Sarah & children
 
-## United States
+### United States
 
 - Joe & Jill Biden, Beau, Hunter, Ashley
 - Kamala Harris, Douglas Emhoff, Cole, Ella
