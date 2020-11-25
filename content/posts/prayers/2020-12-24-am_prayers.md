@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Tuesday, 1 December 2020'
+title: 'Morning Prayers for Thursday, 24 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-01T06:00:00-06:00
-url: /prayers/2020-12-01-am_prayers/
+publishDate: 2020-12-24T06:00:00-06:00
+url: /prayers/2020-12-24-am_prayers/
 categories:
  - Prayers
 tags:

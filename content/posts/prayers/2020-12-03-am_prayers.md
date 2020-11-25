@@ -79,6 +79,10 @@ My Lord,
 
 I pray for that you would heal:
 
+Sarah Brock - Her friend Verlene who passed away while we we speaking. Please be with the Thurstons: Phil and his kids, Daniel & Camille
+
+Emily - grandma Donna. COVID with mild symptoms
+
 Deanna & James, Quinn
 
 Keep Melissa. Seal her heart towards you.

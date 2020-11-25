@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Tuesday, 1 December 2020'
+title: 'Morning Prayers for Tuesday, 24 November 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-01T06:00:00-06:00
-url: /prayers/2020-12-01-am_prayers/
+publishDate: 2020-11-24T06:00:00-06:00
+url: /prayers/2020-11-24-am_prayers/
 categories:
  - Prayers
 tags:
@@ -78,10 +78,6 @@ If I have nothing or anything, I have everything because I have your Son, Jesus 
 My Lord,
 
 I pray for that you would heal:
-
-Sarah Brock - Her friend Verlene who passed away while we we speaking. Please be with the Thurstons: Phil and his kids, Daniel & Camille
-
-Emily - grandma Donna. COVID with mild symptoms
 
 Deanna & James, Quinn
 
