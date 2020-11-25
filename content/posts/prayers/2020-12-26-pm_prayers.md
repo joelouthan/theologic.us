@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Thursday, 24 December 2020'
+title: 'Evening Prayers for Saturday, 26 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-24T20:00:00-06:00
-url: /pm_prayers/2020-12-24-pm_prayers/
+publishDate: 2020-12-26T20:00:00-06:00
+url: /pm_prayers/2020-12-26-pm_prayers/
 categories:
  - Prayers
 tags:

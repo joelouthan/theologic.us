@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Friday, 18 December 2020'
+title: 'Morning Prayers for Saturday, 26 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-18T06:00:00-06:00
-url: /prayers/2020-12-18-am_prayers/
+publishDate: 2020-12-26T06:00:00-06:00
+url: /prayers/2020-12-26-am_prayers/
 categories:
  - Prayers
 tags:

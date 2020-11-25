@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-## Praying three times a day to preach Your great gospel
+
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
@@ -274,13 +274,37 @@ Evan
 
 ---
 
-### All the churches in Norman
+### Prayer for other churches
+
+- **Bruce Parnell, Stillwater RPC, Stillwater, OK**
+- **Dana Coverstone, Living Word Ministries AoG, Burkesville, KY**
+- **Terry Bennett, Messengers of Shiloh AoG, Vanleer, TN**
+
+---
+
+### University Heights Baptist Church, Stillwater, OK
+
+- John Bugg, Lead Pastor
+- Paul Jones, Associate Pastor
+- Carrie Hickerson, Children's Minister
+- Drue Brown, Youth Pastor
+- Cal Balmos, College & Young Adult Minister
+- Natalie Brown, Nursery Coordinator
+- Glenn Rowland, Worship Leader
+- Stacy Walker, Office Manager
+- Beth Streeter, Office Manager
+
+---
+
+### All the churches in Norman (and surrounding areas)
 
 > **John 10:11-18 (CSB) “I am the good shepherd. The good shepherd lays down his life for the sheep. The hired hand, since he is not the shepherd and doesn’t own the sheep, leaves them and runs away when he sees a wolf coming. The wolf then snatches and scatters them. This happens because he is a hired hand and doesn’t care about the sheep.**
 
 > **“I am the good shepherd. I know my own, and my own know me, just as the Father knows me, and I know the Father. I lay down my life for the sheep. But I have other sheep that are not from this sheep pen; I must bring them also, and they will listen to my voice. Then there will be one flock, one shepherd. This is why the Father loves me, because I lay down my life so that I may take it up again. No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”**
 
-- **Antioch OKC**
+---
+
+### Antioch OKC
 
 ---
 
@@ -420,38 +444,36 @@ Evan
 
 - Eric & Sarah, Amethyst, Aidan, Darby, Liam
 - William Armer
-- Andrew Aston
-- Andie Aston
-- Sarah Blake - niece Sophia recovering from spine surgery; Emily & Brian
-- Daniel Bond
-- Jamie Bond
+- Andrew & Andie
+- Sarah Blake
+- Daniel & Jamie, Atlas, August
 - **Jessy Brock**
-- Kimberly Burns - SINGLE; Surgery! Job interview! Another job outside Oklahoma!
+- **Kimberly Burns**
+- Anthony & Rachel Chastain, girls
 - Jeff Cooke
-- Annika Edgington - Getting settled in Delaware; Training in Texas - John
-- Lauren Finocchiaro
-- Charles Finocchirao
-- Aaron Gayle
-- Natasha Gayle
-- Matt Haugland
-- Sam Haugland
+- Annika Edgington
+- Bailey Edrington
+- Jacob & Cassie, Lydia, Wilder
+- Chuck & Lauren, Timothy, Emily, Rebecca, Samuel, Zachary
+- Aaron & Natasha, Audrey
+- Bob & Paula Hanger
+- Matt & Sam Haugland, Asher
 - **Ethan Inge**
 - **Arden Nerius**
-- **Nathan Sims**
-- Gary Matthews
-- Lisa Matthews
-- Brittany Mayes - SINGLE
-- Jordan Mayfield - SINGLE; Dad, Randy, health.
-- Ashton Poyndexter - SINGLE; Christ in her glorified and exalted; To India; RUN THE RACE FAST AND HARD!
+- **Sean Lassiter**
+- Gary & Lisa Matthews
+- **Brittany Mayes**
+- **Jordan Mayfield**
+- **Ashton Poyndexter**
 - Caleb Reichert
-- Riley Roberson
-- Emily Roberson
-- Trey Scott
-- Kathleen Scott
-- Taylor Smith - SINGLE
+- Riley & Emily, Oliver
+- Logan
+- Brandon & Julie Roberson
+- Trey & Kathleen
+- **Nathan Sims**
 - Phong Ta
-- Micah Thomason
-- Melissa Thomason
+- Dave & Galen Tanquary
+- Melissa, Noah, Levi, Judah
 - Destiny Warrior
 
 Lord, every second of every day I must ask you: what is mine to do. I confess and repent that I don't turn to you. Lord, be gracious to me.
