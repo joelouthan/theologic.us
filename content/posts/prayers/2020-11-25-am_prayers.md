@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:8-15 (ESV) “Behold, you trust in deceptive words to no avail. Will you steal, murder, commit adultery, swear falsely, make offerings to Baal, and go after other gods that you have not known, and then come and stand before me in this house, which is called by my name, and say, ‘We are delivered!’—only to go on doing all these abominations? Has this house, which is called by my name, become a den of robbers in your eyes? Behold, I myself have seen it, declares the LORD. Go now to my place that was in Shiloh, where I made my name dwell at first, and see what I did to it because of the evil of my people Israel. And now, because you have done all these things, declares the LORD, and when I spoke to you persistently you did not listen, and when I called you, you did not answer, therefore I will do to the house that is called by my name, and in which you trust, and to the place that I gave to you and to your fathers, as I did to Shiloh. And I will cast you out of my sight, as I cast out all your kinsmen, all the offspring of Ephraim.
 
 ---
 

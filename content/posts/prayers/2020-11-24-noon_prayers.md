@@ -19,9 +19,48 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+O MY SAVIOUR,
 </div>
-
+Help me.
+    I am so slow to learn,
+      so prone to forget,
+      so weak to climb;
+I am in the foothills when I should be
+    on the heights;
+I am pained by my graceless heart,
+  my prayerless days,
+  my poverty of love,
+  my sloth in the heavenly race,
+  my sullied conscience,
+  my wasted hours,
+  my unspent opportunities.
+I am blind while light shines around me:
+  take the scales from my eyes,
+  grind to dust the evil heart of unbelief.
+Make it my chiefest joy to study thee,
+  meditate on thee,
+  gaze on thee,
+  sit like Mary at thy feet,
+  lean like John on thy breast,
+  appeal like Peter to thy love,
+  count like Paul all things dung.
+Give me increase and progress in grace
+    so that there may be
+  more decision in my character,
+  more vigour in my purposes,
+  more elevation in my life,
+  more fervour in my devotion,
+  more constancy in my zeal.
+As I have a position in the world,
+  keep me from making the world my position;
+May I never seek in the creature
+  what can be found only in the Creator;
+Let not faith cease from seeking thee
+until it vanishes into sight.
+  Ride forth in me, thou King of kings
+    and Lord of lords,
+  that I may live victoriously,
+    and in victory attain my end.
 </pre>
 
 ---

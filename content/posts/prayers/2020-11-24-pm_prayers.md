@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:5-7 (ESV) “For if you truly amend your ways and your deeds, if you truly execute justice one with another, if you do not oppress the sojourner, the fatherless, or the widow, or shed innocent blood in this place, and if you do not go after other gods to your own harm, then I will let you dwell in this place, in the land that I gave of old to your fathers forever.
 
 ---
 

@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:16-20 (ESV) “As for you, do not pray for this people, or lift up a cry or prayer for them, and do not intercede with me, for I will not hear you. Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem? The children gather wood, the fathers kindle fire, and the women knead dough, to make cakes for the queen of heaven. And they pour out drink offerings to other gods, to provoke me to anger. Is it I whom they provoke? declares the LORD. Is it not themselves, to their own shame? Therefore thus says the Lord GOD: Behold, my anger and my wrath will be poured out on this place, upon man and beast, upon the trees of the field and the fruit of the ground; it will burn and not be quenched.”
 
 ---
 

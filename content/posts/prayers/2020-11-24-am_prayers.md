@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:1-4 (ESV) The word that came to Jeremiah from the LORD: “Stand in the gate of the LORD'S house, and proclaim there this word, and say, Hear the word of the LORD, all you men of Judah who enter these gates to worship the LORD. Thus says the LORD of hosts, the God of Israel: Amend your ways and your deeds, and I will let you dwell in this place. Do not trust in these deceptive words: ‘This is the temple of the LORD, the temple of the LORD, the temple of the LORD.’
 
 ---
 
