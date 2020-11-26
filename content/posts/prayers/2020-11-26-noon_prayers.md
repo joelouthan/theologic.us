@@ -11,7 +11,11 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:27-29 (ESV) “So you shall speak all these words to them, but they will not listen to you. You shall call to them, but they will not answer you. And you shall say to them, ‘This is the nation that did not obey the voice of the LORD their God, and did not accept discipline; truth has perished; it is cut off from their lips.
+“‘Cut off your hair and cast it away;
+raise a lamentation on the bare heights,
+for the LORD has rejected and forsaken
+the generation of his wrath.’
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:21-26 (ESV) Thus says the LORD of hosts, the God of Israel: “Add your burnt offerings to your sacrifices, and eat the flesh. For in the day that I brought them out of the land of Egypt, I did not speak to your fathers or command them concerning burnt offerings and sacrifices. But this command I gave them: Obey my voice, and I will be your God, and you shall be my people. And walk in all the way that I command you, that it may be well with you.’ But they did not obey or incline their ear, but walked in their own counsels and the stubbornness of their evil hearts, and went backward and not forward. From the day that your fathers came out of the land of Egypt to this day, I have persistently sent all my servants the prophets to them, day after day. Yet they did not listen to me or incline their ear, but stiffened their neck. They did worse than their fathers.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

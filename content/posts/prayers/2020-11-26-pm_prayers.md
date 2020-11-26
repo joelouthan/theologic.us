@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 7:30-34 (ESV) For the sons of Judah have done evil in my sight, declares the LORD. They have set their detestable things in the house that is called by my name, to defile it. And they have built the high places of Topheth, which is in the Valley of the Son of Hinnom, to burn their sons and their daughters in the fire, which I did not command, nor did it come into my mind. Therefore, behold, the days are coming, declares the LORD, when it will no more be called Topheth, or the Valley of the Son of Hinnom, but the Valley of Slaughter; for they will bury in Topheth, because there is no room elsewhere. And the dead bodies of this people will be food for the birds of the air, and for the beasts of the earth, and none will frighten them away. And I will silence in the cities of Judah and in the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, for the land shall become a waste.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
