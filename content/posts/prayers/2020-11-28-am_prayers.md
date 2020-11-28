@@ -11,7 +11,35 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 8:8-13
+“How can you say, ‘We are wise,
+and the law of the LORD is with us’?
+But behold, the lying pen of the scribes
+has made it into a lie.
+The wise men shall be put to shame;
+they shall be dismayed and taken;
+behold, they have rejected the word of the LORD,
+so what wisdom is in them?
+Therefore I will give their wives to others
+and their fields to conquerors,
+because from the least to the greatest
+everyone is greedy for unjust gain;
+from prophet to priest,
+everyone deals falsely.
+They have healed the wound of my people lightly,
+saying, ‘Peace, peace,’
+when there is no peace.
+Were they ashamed when they committed abomination?
+No, they were not at all ashamed;
+they did not know how to blush.
+Therefore they shall fall among the fallen;
+when I punish them, they shall be overthrown,
+says the LORD.
+When I would gather them, declares the LORD,
+there are no grapes on the vine,
+nor figs on the fig tree;
+even the leaves are withered,
+and what I gave them has passed away from them.”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
