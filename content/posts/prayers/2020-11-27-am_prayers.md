@@ -11,7 +11,8 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 8:1-3
+1 “At that time, declares the LORD, the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem shall be brought out of their tombs. 2 And they shall be spread before the sun and the moon and all the host of heaven, which they have loved and served, which they have gone after, and which they have sought and worshiped. And they shall not be gathered or buried. They shall be as dung on the surface of the ground. 3 Death shall be preferred to life by all the remnant that remains of this evil family in all the places where I have driven them, declares the LORD of hosts.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
