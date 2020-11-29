@@ -11,7 +11,15 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 8:14-15
+Why do we sit still?
+Gather together; let us go into the fortified cities
+and perish there,
+for the LORD our God has doomed us to perish
+and has given us poisoned water to drink,
+because we have sinned against the LORD.
+We looked for peace, but no good came;
+for a time of healing, but behold, terror.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
