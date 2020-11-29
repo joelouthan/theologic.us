@@ -11,7 +11,19 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 8:18-21
+My joy is gone; grief is upon me;
+my heart is sick within me.
+Behold, the cry of the daughter of my people
+from the length and breadth of the land:
+“Is the LORD not in Zion?
+Is her King not in her?”
+“Why have they provoked me to anger with their carved images
+and with their foreign idols?”
+“The harvest is past, the summer is ended,
+and we are not saved.”
+For the wound of the daughter of my people is my heart wounded;
+I mourn, and dismay has taken hold on me.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
