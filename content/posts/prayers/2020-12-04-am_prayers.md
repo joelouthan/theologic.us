@@ -11,10 +11,7 @@ tags:
 draft: true
 ---
 
-Jeremiah 10:22 (ESV) A voice, a rumor! Behold, it comes!—
-a great commotion out of the north country
-to make the cities of Judah a desolation,
-a lair of jackals.
+
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
@@ -77,6 +74,8 @@ If I have nothing or anything, I have everything because I have your Son, Jesus 
 My Lord,
 
 I pray for that you would heal:
+
+cosmicj's wife, Rachel - heal her womb
 
 Sarah Brock - Her friend Verlene who passed away while we we speaking. Please be with the Thurstons: Phil and his kids, Daniel & Camille
 

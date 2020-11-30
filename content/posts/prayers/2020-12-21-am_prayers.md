@@ -75,6 +75,8 @@ My Lord,
 
 I pray for that you would heal:
 
+cosmicj's wife, Rachel - heal her womb
+
 Sarah Brock - Her friend Verlene who passed away while we we speaking. Please be with the Thurstons: Phil and his kids, Daniel & Camille
 
 Emily - grandma Donna. COVID with mild symptoms

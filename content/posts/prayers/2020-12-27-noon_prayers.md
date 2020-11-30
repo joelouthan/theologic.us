@@ -1,9 +1,9 @@
 ---
-title: 'Noon Prayers for Friday, 4 December 2020'
+title: 'Noon Prayers for Sunday, 27 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-04T12:00:00-06:00
-url: /prayers/2020-12-04-noon_prayers/
+publishDate: 2020-12-27T12:00:00-06:00
+url: /prayers/2020-12-27-noon_prayers/
 categories:
  - Prayers
 tags:

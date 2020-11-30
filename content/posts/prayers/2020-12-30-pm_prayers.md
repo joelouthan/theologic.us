@@ -1,9 +1,9 @@
 ---
-title: 'Evening Prayers for Friday, 4 December 2020'
+title: 'Evening Prayers for Wednesday, 30 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-04T20:00:00-06:00
-url: /pm_prayers/2020-12-04-pm_prayers/
+publishDate: 2020-12-30T20:00:00-06:00
+url: /pm_prayers/2020-12-30-pm_prayers/
 categories:
  - Prayers
 tags:

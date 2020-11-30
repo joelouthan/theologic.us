@@ -1,9 +1,9 @@
 ---
-title: 'Morning Prayers for Wednesday, 9 December 2020'
+title: 'Morning Prayers for Monday, 28 December 2020'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-09T06:00:00-06:00
-url: /prayers/2020-12-09-am_prayers/
+publishDate: 2020-12-28T06:00:00-06:00
+url: /prayers/2020-12-28-am_prayers/
 categories:
  - Prayers
 tags:
