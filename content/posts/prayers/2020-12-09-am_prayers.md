@@ -147,6 +147,7 @@ My Lord above,
 
 Call on me. I will be obedient. Tell me with whom shall I share your good news: you are Jesus and you have saved his people from their sins. If they believe and trust in you, they will live.
 
+- **Julie Keller**
 - **Logan**
 - **Chuck's sons, Zachary & Samuel**
 - **Aussie's folks: Brad & Gay, 3 brothers**

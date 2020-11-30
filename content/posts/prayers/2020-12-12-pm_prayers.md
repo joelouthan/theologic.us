@@ -17,7 +17,21 @@ draft: true
 
 ---
 
-### Prayers for past churches
+### The City Church
+
+- Chris & Sawyer Taylor
+- Will Bostian
+- Karl Visser
+- Andrew Rubinson
+- Brayden Hudson
+- Bailey Voss
+- Liz Rech
+
+### Salt+Light Community
+
+- Ben & Jessica, kids
+- Matt & Nicole, kids
+- Arnett, Byford, Davis, Fort, Howard, Rollings, Shingledecker, Aguilar, Freeman, Kiltz
 
 ---
 
