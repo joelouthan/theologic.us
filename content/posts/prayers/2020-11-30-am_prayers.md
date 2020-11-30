@@ -11,7 +11,24 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 8:22 - 9:3 (ESV) Is there no balm in Gilead?
+Is there no physician there?
+Why then has the health of the daughter of my people
+not been restored?
+Oh that my head were waters,
+and my eyes a fountain of tears,
+that I might weep day and night
+for the slain of the daughter of my people!
+Oh that I had in the desert
+a travelers' lodging place,
+that I might leave my people
+and go away from them!
+For they are all adulterers,
+a company of treacherous men.
+They bend their tongue like a bow;
+falsehood and not truth has grown strong in the land;
+for they proceed from evil to evil,
+and they do not know me, declares the LORD.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

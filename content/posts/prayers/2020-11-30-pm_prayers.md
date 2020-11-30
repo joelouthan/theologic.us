@@ -11,7 +11,16 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 9:7-9 (ESV) Therefore thus says the LORD of hosts:
+“Behold, I will refine them and test them,
+for what else can I do, because of my people?
+Their tongue is a deadly arrow;
+it speaks deceitfully;
+with his mouth each speaks peace to his neighbor,
+but in his heart he plans an ambush for him.
+Shall I not punish them for these things? declares the LORD,
+and shall I not avenge myself
+on a nation such as this?
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

@@ -11,7 +11,16 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 9:4-6 (ESV) Let everyone beware of his neighbor,
+and put no trust in any brother,
+for every brother is a deceiver,
+and every neighbor goes about as a slanderer.
+Everyone deceives his neighbor,
+and no one speaks the truth;
+they have taught their tongue to speak lies;
+they weary themselves committing iniquity.
+Heaping oppression upon oppression, and deceit upon deceit,
+they refuse to know me, declares the LORD.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
@@ -19,9 +28,48 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">
-
+O GOD, MY EXCEEDING JOY,
 </div>
-
+Singing thy praises uplifts my heart,
+    for thou art a fountain of delight,
+      and dost bless the soul that joys in thee.
+But because of my heart’s rebellion
+I cannot always praise thee as I ought;
+Yet I will at all times rest myself in
+  thy excellences, goodness, and loving-kindness.
+Thou art in Jesus the object of inexpressible joy,
+  and I take exceeding pleasure in the thought
+    of thee.
+But Lord, I am sometimes thy enemy;
+  my nature revolts and wanders from thee.
+Though thou hast renewed me,
+  yet evil corruptions urge me still to oppose thee.
+Help me to extol thee with entire heart-submission,
+  to be diligent in self-examination,
+  to ask myself
+    whether I am truly born again,
+    whether my spirit is the spirit of thy children,
+    whether my griefs are those that tear
+      repenting hearts,
+    whether my joys are the joys of faith,
+    whether my confidence in Christ works
+      by love and purifies the soul.
+Give me the sweet results of faith,
+  in my secret character, and in my public life.
+Cast cords of love around my heart,
+  then hold me and never let me go.
+May the Saviour’s wounds sway me more
+    than the sceptre of princes.
+Let me love thee in a love that covers
+    and swallows up all,
+  that I may not violate my chaste union
+    with the beloved;
+There is much unconquered territory
+    in my nature,
+  scourge out the buyers and sellers
+    of my soul’s temple,
+  and give me in return pure desires,
+    and longings after perfect holiness.
 </pre>
 
 ---
