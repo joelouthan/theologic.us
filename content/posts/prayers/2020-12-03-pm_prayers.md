@@ -11,7 +11,31 @@ tags:
 draft: true
 ---
 
+## Pray for More Churches to be Planted
 
+Our desire is to see more churches and Frontline congregations planted in the years to come, to love God, love people, and push back darkness in more places. Towards this end, we want to ask God for the grace, leaders, resources, and vision to reach more places with the Gospel.
+
+- Pray for cities near our Frontline congregations, that more churches and congregations might be planted... for places like Guthrie, Midwest City, El Reno, Norman, Choctaw, Newcastle, Tecumseh, etc.
+- Pray for cities across our country that need more Gospel-centered churches.
+- Ask God for more church planters to be identified, trained, and sent from our church.
+- Pray for more leaders to be sent with these future church plants
+
+---
+
+Jeremiah 10:19-21 (ESV) Woe is me because of my hurt!
+My wound is grievous.
+But I said, “Truly this is an affliction,
+and I must bear it.”
+My tent is destroyed,
+and all my cords are broken;
+my children have gone from me,
+and they are not;
+there is no one to spread my tent again
+and to set up my curtains.
+For the shepherds are stupid
+and do not inquire of the LORD;
+therefore they have not prospered,
+and all their flock is scattered.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

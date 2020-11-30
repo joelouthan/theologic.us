@@ -11,6 +11,19 @@ tags:
 draft: true
 ---
 
+## Pray for Cornerstone Mumbai
+
+Our church planting team in Mumbai has had to adjust plans several times over the last 9 months, due to the challenges of living in a large, global city in this pandemic. But in the midst of this season, the grace of God has been felt deeply. As they continue to engage the city and settle their families in a new country, we want to spend some time asking God to be very near to them
+
+- Pray for the Jacob and Lange families as they continue to settle into Mumbai, and learn how to navigate life complicated by this pandemic.
+- Ask God for new friendships and community for the Jacobs and the Langes, as the core for this new church plant is formed.
+- Pray for new relationships with people in the city who do not yet know Jesus.
+- Ask the Holy Spirit for direction regarding next steps in ministry there.
+
+Please note: Due to the intense restrictions and resistance towards church planting in that region of India, please do not share this information online or on social media.
+
+---
+
 Jeremiah 9:7-9 (ESV) Therefore thus says the LORD of hosts:
 “Behold, I will refine them and test them,
 for what else can I do, because of my people?

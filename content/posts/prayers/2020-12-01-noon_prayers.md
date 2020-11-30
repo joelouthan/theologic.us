@@ -11,7 +11,29 @@ tags:
 draft: true
 ---
 
+Acts 2:44-45 “And all who believed were together and had all things in common. 45 And they were selling their possessions and belongings and distributing the proceeds to all, as any had need.”
 
+Pray for:
+
+- Unity
+- Leadership
+- Ministry teams
+- The needy among us
+
+---
+
+Jeremiah 9:12-19 (ESV) Who is the man so wise that he can understand this? To whom has the mouth of the LORD spoken, that he may declare it? Why is the land ruined and laid waste like a wilderness, so that no one passes through? And the LORD says: “Because they have forsaken my law that I set before them, and have not obeyed my voice or walked in accord with it, but have stubbornly followed their own hearts and have gone after the Baals, as their fathers taught them. Therefore thus says the LORD of hosts, the God of Israel: Behold, I will feed this people with bitter food, and give them poisonous water to drink. I will scatter them among the nations whom neither they nor their fathers have known, and I will send the sword after them, until I have consumed them.”
+Thus says the LORD of hosts:
+“Consider, and call for the mourning women to come;
+send for the skillful women to come;
+let them make haste and raise a wailing over us,
+that our eyes may run down with tears
+and our eyelids flow with water.
+For a sound of wailing is heard from Zion:
+How we are ruined!
+We are utterly shamed,
+because we have left the land,
+because they have cast down our dwellings.’”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

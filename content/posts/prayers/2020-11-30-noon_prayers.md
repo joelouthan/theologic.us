@@ -11,6 +11,19 @@ tags:
 draft: true
 ---
 
+Acts 2:42-43 “And they devoted themselves to the apostles’ teaching and the fellowship, to the breaking of bread and the prayers. And awe came upon every soul, and many wonders and signs were being done through the apostles.”
+
+Pray for:
+
+- Devotion to word of God
+- Devotion to Each other
+- Breaking of bread together
+- Awe to fill our souls
+- Miracles
+- Expectations
+
+---
+
 Jeremiah 9:4-6 (ESV) Let everyone beware of his neighbor,
 and put no trust in any brother,
 for every brother is a deceiver,

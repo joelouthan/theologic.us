@@ -11,7 +11,16 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 9:10-11 (ESV) “I will take up weeping and wailing for the mountains,
+and a lamentation for the pastures of the wilderness,
+because they are laid waste so that no one passes through,
+and the lowing of cattle is not heard;
+both the birds of the air and the beasts
+have fled and are gone.
+I will make Jerusalem a heap of ruins,
+a lair of jackals,
+and I will make the cities of Judah a desolation,
+without inhabitant.”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

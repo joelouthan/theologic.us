@@ -11,7 +11,35 @@ tags:
 draft: true
 ---
 
+## Pray for Frontline Congregations
 
+As one church in multiple contexts, we want to pray for our fellow Frontline congregations as they love their cities and surrounding communities in the hope of the Gospel.
+- Pray for the community groups in each of our congregations, that they might love and serve their surrounding communities well.
+- Ask God for grace, wisdom, and presence for our elders, deacons, staff, and leaders as they lead our church in the middle of this challenging season.
+- Pray for unity in each of our congregations, and as one church.
+- Pray for mission out of each of our congregations.
+- Ask God for more church planters and church planting leaders to help multiply more churches and congregations in the future.
+
+---
+
+Jeremiah 10:6-10 (ESV) There is none like you, O LORD;
+you are great, and your name is great in might.
+Who would not fear you, O King of the nations?
+For this is your due;
+for among all the wise ones of the nations
+and in all their kingdoms
+there is none like you.
+They are both stupid and foolish;
+the instruction of idols is but wood!
+Beaten silver is brought from Tarshish,
+and gold from Uphaz.
+They are the work of the craftsman and of the hands of the goldsmith;
+their clothing is violet and purple;
+they are all the work of skilled men.
+But the LORD is the true God;
+he is the living God and the everlasting King.
+At his wrath the earth quakes,
+and the nations cannot endure his indignation.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

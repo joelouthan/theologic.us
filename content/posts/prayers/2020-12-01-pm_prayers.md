@@ -11,7 +11,30 @@ tags:
 draft: true
 ---
 
+## Pray for Sacred Mission Church
 
+Around 18 months ago a team moved from Frontline Edmond to rural Iowa to plant a new Gospel-centered church in Collins, Iowa. They have recently celebrated the first anniversary since their public launch, and have seen many people meet Jesus and be cared for by Gospel community. We want to ask God to continue to give them grace as that church is established.
+
+- Thank God for the ways he has worked in and through Sacred Mission over this first year.
+- Pray for the leadership team, for continued unity, passion, and wisdom as they minister in Collins.
+- Ask God for more leaders for this new church.
+- Pray that their ministries may continue to do kingdom work, shining light into dark places through Gospel community.
+
+---
+
+Jeremiah 9:20-22 (ESV) Hear, O women, the word of the LORD,
+and let your ear receive the word of his mouth;
+teach to your daughters a lament,
+and each to her neighbor a dirge.
+For death has come up into our windows;
+it has entered our palaces,
+cutting off the children from the streets
+and the young men from the squares.
+Speak: “Thus declares the LORD,
+The dead bodies of men shall fall
+like dung upon the open field,
+like sheaves after the reaper,
+and none shall gather them.’”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

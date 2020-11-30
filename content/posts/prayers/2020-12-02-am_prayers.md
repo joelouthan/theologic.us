@@ -11,7 +11,8 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 9:23-26 (ESV) Thus says the LORD: “Let not the wise man boast in his wisdom, let not the mighty man boast in his might, let not the rich man boast in his riches, but let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth. For in these things I delight, declares the LORD.”
+“Behold, the days are coming, declares the LORD, when I will punish all those who are circumcised merely in the flesh— Egypt, Judah, Edom, the sons of Ammon, Moab, and all who dwell in the desert who cut the corners of their hair, for all these nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

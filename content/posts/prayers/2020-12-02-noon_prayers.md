@@ -11,7 +11,35 @@ tags:
 draft: true
 ---
 
+Acts 2:46-47 “And day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, praising God and having favor with all the people.”
 
+Pray for:
+
+- Grateful people
+- God’s work in and through the church - Generous church
+- increase of Jesus’ ministry
+- Persons of peace in the city
+
+---
+
+Jeremiah 10:1-5 (ESV) 
+Hear the word that the LORD speaks to you, O house of Israel. Thus says the LORD:
+“Learn not the way of the nations,
+nor be dismayed at the signs of the heavens
+because the nations are dismayed at them,
+for the customs of the peoples are vanity.
+A tree from the forest is cut down
+and worked with an axe by the hands of a craftsman.
+They decorate it with silver and gold;
+they fasten it with hammer and nails
+so that it cannot move.
+Their idols are like scarecrows in a cucumber field,
+and they cannot speak;
+they have to be carried,
+for they cannot walk.
+Do not be afraid of them,
+for they cannot do evil,
+neither is it in them to do good.”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

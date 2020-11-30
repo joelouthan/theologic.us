@@ -11,7 +11,27 @@ tags:
 draft: true
 ---
 
+Acts 2:47b “And the Lord added to their number day by day those who were being saved.”
 
+Pray for:
+
+- Revival
+- Salvation
+- City
+- Mission
+- Justice
+- Nations
+- Your 3
+
+---
+
+Jeremiah 10:17-18 (ESV) Gather up your bundle from the ground,
+O you who dwell under siege!
+For thus says the LORD:
+“Behold, I am slinging out the inhabitants of the land
+at this time,
+and I will bring distress on them,
+that they may feel it.”
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 

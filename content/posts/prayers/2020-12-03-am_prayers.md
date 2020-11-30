@@ -11,7 +11,26 @@ tags:
 draft: true
 ---
 
-
+Jeremiah 10:11-16 (ESV) 
+Thus shall you say to them: 
+“The gods who did not make the heavens and the earth shall perish from the earth and from under the heavens.”
+It is he who made the earth by his power,
+who established the world by his wisdom,
+and by his understanding stretched out the heavens.
+When he utters his voice, there is a tumult of waters in the heavens,
+and he makes the mist rise from the ends of the earth.
+He makes lightning for the rain,
+and he brings forth the wind from his storehouses.
+Every man is stupid and without knowledge;
+every goldsmith is put to shame by his idols,
+for his images are false,
+and there is no breath in them.
+They are worthless, a work of delusion;
+at the time of their punishment they shall perish.
+Not like these is he who is the portion of Jacob,
+for he is the one who formed all things,
+and Israel is the tribe of his inheritance;
+the LORD of hosts is his name.
 
 > **2 Timothy 4:1-5 (ESV) I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.**
 
