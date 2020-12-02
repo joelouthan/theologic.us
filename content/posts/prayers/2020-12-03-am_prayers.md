@@ -11,8 +11,8 @@ tags:
 draft: true
 ---
 
-Jeremiah 10:11-16 (ESV) 
-Thus shall you say to them: 
+Jeremiah 10:11-16 (ESV)
+Thus shall you say to them:
 “The gods who did not make the heavens and the earth shall perish from the earth and from under the heavens.”
 It is he who made the earth by his power,
 who established the world by his wisdom,
