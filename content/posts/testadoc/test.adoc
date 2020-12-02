@@ -1,13 +1,14 @@
 ---
-title: 'Testing AsciiDoc in Hugo'
-date: 2020-12-01
-draft: false
-url: /testadoc/test.adoc
+title: 'Testing AsciiDoc within hugo'
+author: Joseph Louthan
+type: post
+publishDate: 2020-12-01
+url: /testadoc/test.adoc/
 categories:
-  - "category1"
+  - Testing
 tags:
-  - "tag1"
-  - "tag2"
+  - 'Testing'
+draft: false
 ---
 Asciidoctor Demo
 ================
@@ -142,12 +143,12 @@ after this brief interruption.
 
 == We're back!
 
-Want to see a image:tiger.png[Tiger]?
+Want to see a image:/images/tiger.png[Tiger]?
 
 Do you feel safer with the tiger in a box?
 
 .Tiger in a box
-image::tiger.png[]
+image::/images/tiger.png[]
 
 include::content/posts/testadoc/include.adoc[]
 
