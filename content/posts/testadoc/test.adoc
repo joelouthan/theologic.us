@@ -1,5 +1,5 @@
 ---
-title: 'Testing AsciiDoc within hugo'
+title: 'Testing AsciiDoc using Hugo'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-01
