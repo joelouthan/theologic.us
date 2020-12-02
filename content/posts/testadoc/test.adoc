@@ -1,3 +1,14 @@
+---
+title: 'Testing AsciiDoc in Hugo'
+date: 2020-12-01
+draft: false
+url: /testadoc/test.adoc
+categories:
+  - "category1"
+tags:
+  - "tag1"
+  - "tag2"
+---
 Asciidoctor Demo
 ================
 ////
@@ -138,7 +149,7 @@ Do you feel safer with the tiger in a box?
 .Tiger in a box
 image::tiger.png[]
 
-include::content/posts/include.adoc[]
+include::content/posts/testadoc/include.adoc[]
 
 .Asciidoctor usage example, should contain 3 lines
 [source, ruby]
