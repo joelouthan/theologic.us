@@ -14,6 +14,7 @@ draft: true
 ## Pray for Frontline Congregations
 
 As one church in multiple contexts, we want to pray for our fellow Frontline congregations as they love their cities and surrounding communities in the hope of the Gospel.
+
 - Pray for the community groups in each of our congregations, that they might love and serve their surrounding communities well.
 - Ask God for grace, wisdom, and presence for our elders, deacons, staff, and leaders as they lead our church in the middle of this challenging season.
 - Pray for unity in each of our congregations, and as one church.
