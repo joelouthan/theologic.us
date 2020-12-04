@@ -13,3 +13,4 @@ tags:
 {{ .Site.Author.name }} {{ with .Site.Author.email }}<{{ . }}>{{ end }}
 {{ dateFormat "2006-01-02" .Date }}
 :imagesdir: ./content/post/images/
+:hardbreaks:

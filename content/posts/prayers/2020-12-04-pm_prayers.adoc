@@ -10,7 +10,7 @@ tags:
  - 'Prayers'
 draft: true
 ---
-[verse, Jeremiah 11:1-20 (ESV)]
+[quote, Jeremiah 11:1-20 (ESV)]
 ____
 The word that came to Jeremiah from the LORD: “Hear the words of this covenant, and speak to the men of Judah and the inhabitants of Jerusalem. You shall say to them, Thus says the LORD, the God of Israel: Cursed be the man who does not hear the words of this covenant that I commanded your fathers when I brought them out of the land of Egypt, from the iron furnace, saying, Listen to my voice, and do all that I command you. So shall you be my people, and I will be your God, that I may confirm the oath that I swore to your fathers, to give them a land flowing with milk and honey, as at this day.” Then I answered, “So be it, LORD.”
 
@@ -34,12 +34,12 @@ But, O LORD of hosts, who judges righteously,
   let me see your vengeance upon them,
   for to you have I committed my cause.
 ____
-[verse, 2 Timothy 4:1-5 (ESV)]
+[quote, 2 Timothy 4:1-5 (ESV)]
 ____
  I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.
 ____
 
-[verse, Revelation 11:1-14 (ESV)]
+[quote, Revelation 11:1-14 (ESV)]
 ____
 Then I was given a measuring rod like a staff, and I was told, "`Rise and measure the temple of God and the altar and those who worship there, but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months. And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.`"
 
