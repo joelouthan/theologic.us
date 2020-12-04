@@ -10,16 +10,14 @@ tags:
  - 'Prayers'
 draft: true
 ---
-[verse, ]
+[quote, ]
 ____
 
 ____
-[verse, 2 Timothy 4:1-5 (ESV)]
-____
- I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.
-____
+[quote, 2 Timothy 4:1-5 (ESV)]
+I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.
 
-[verse, Revelation 11:1-14 (ESV)]
+[quote, Revelation 11:1-14 (ESV)]
 ____
 Then I was given a measuring rod like a staff, and I was told, "`Rise and measure the temple of God and the altar and those who worship there, but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months. And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.`"
 
