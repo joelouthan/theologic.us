@@ -10,6 +10,7 @@ tags:
  - 'Prayers'
 draft: true
 ---
+'''
 
 Lord, do we plant churches in Norman? 
 
@@ -22,71 +23,11 @@ Amen.
 '''
 [verse,,Valley of Vision]
 ____
-O LORD MY LORD,
 
-This is thy day,
-      the heavenly ordinance of rest,
-    the open door of worship,
-    the record of Jesus’ resurrection,
-    the seal of the sabbath to come,
-    the day when saints militant and triumphant
-      unite in endless song.
-I bless thee for the throne of grace,
-  that here free favour reigns;
-  that open access to it is through the blood
-    of Jesus;
-  that the veil is torn aside and I can enter
-    the holiest
-      and find thee ready to hear,
-      waiting to be gracious,
-      inviting me to pour out my needs,
-      encouraging my desires,
-      promising to give more than I ask or think.
-But while I bless thee, shame and confusion
-    are mine:
-I remember my past misuse of sacred things,
-  my irreverent worship,
-  my base ingratitude,
-  my cold, dull praise.
-Sprinkle all my past sabbaths with the cleansing
-    blood of Jesus,
-  and may this day witness deep improvement
-  in me.
-Give me in rich abundance
-  the blessings the Lord’s Day was designed
-    to impart;
-May my heart be fast bound against worldly
-    thoughts or cares;
-Flood my mind with peace
-      beyond understanding;
-  may my meditations be sweet,
-  my acts of worship life, liberty, joy,
-  my drink the streams that flow
-      from thy throne,
-  my food the precious Word,
-  my defence the shield of faith,
-    and may my heart be more knit to Jesus.
 ____
-[verse, Jeremiah 12:1-4 (ESV)]
+[quote, ]
 ____
-Righteous are you, O LORD,
-when I complain to you;
-yet I would plead my case before you.
-Why does the way of the wicked prosper?
-Why do all who are treacherous thrive?
-You plant them, and they take root;
-they grow and produce fruit;
-you are near in their mouth
-and far from their heart.
-But you, O LORD, know me;
-you see me, and test my heart toward you.
-Pull them out like sheep for the slaughter,
-and set them apart for the day of slaughter.
-How long will the land mourn
-and the grass of every field wither?
-For the evil of those who dwell in it
-the beasts and the birds are swept away,
-because they said, “He will not see our latter end.”
+
 ____
 [quote, 2 Timothy 4:1-5 (ESV)]
 I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, and will turn away from listening to the truth and wander off into myths. As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.

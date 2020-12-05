@@ -10,6 +10,7 @@ tags:
  - 'Prayers'
 draft: true
 ---
+'''
 
 Lord, do we plant churches in Norman? 
 
