@@ -8,7 +8,7 @@ categories:
   - Testing
 tags:
   - 'Testing'
-draft: false
+draft: true
 ---
 Asciidoctor Demo
 ================
