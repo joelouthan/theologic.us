@@ -7,32 +7,54 @@ date: 20200318T00:00:00-06:00
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
-# Tuesday, November 8, 2020 Switching gears to just Psalmist Prayers
+## NaNoWriMo: How Did I Do?
 
-Late start to [NaNoWriMo](https://nanowrimo.org/participants/joelouthan/projects). Which is okay because I don't write novels. But that is neither here nor there.
+### Sunday, December 13, 2020
 
-I have prepped for the next ten weeks (i.e. chapters) of Monday's [Commentary on Romans](/tags/commentary-romans/). But my confidence was a bit waning on even completing those ten weeks, which would have been about 20,000 words.
+Let's check the results:
 
-With that, I also wanted to make a hard dent into [Now Sings My Soul](/tags/now-sings-my-soul-psalms/). So I went to prepping for that. And prepping turned into writing. And writing into a filling up my heart with such joy and affections for my sweet Savior God.
+```zsh
+jlouthan@Ironhide  ~/bin/wc   master  cat wc_theo_totals
+Week Of	    Total  Current Since
+2020-11-02 1046072 51911  868292
+2020-11-09 1080786 34714  903006
+2020-11-16 1105046 24260  927266
+2020-11-23 1185668 80622  1007888
+2020-11-30 1232570 28952  1054790
+```
 
-I looked at the pace of which I write these prayers. In the beginning, I was writing a prayer per Psalm. But the more I read, the more I sat still. The more I dwelled on the Psalms, the more that each verse and idea starting to spring up more and more prayers. To be honest, each Psalm verse was generating a new prayer.
+According to my calculations, the number of words written for the month of November: 186,498.
 
-Then reality sets in. If I want to complete the project, how long would it take me?
+Not too shabby.
 
-There are 2,461 verses in the Psalms. Source: [Study.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjUvse7mvTsAhVNEawKHbDgCPkQFjACegQIBhAC&url=https%3A%2F%2Fstudy.com%2Facademy%2Fanswer%2Fhow-many-verses-are-in-psalms.html&usg=AOvVaw3dUPM2mKGxYPzqrnEHvHIQ)
+Here's the kick: most of that is not in blog. Most of those words won't see the light of day. Most of those are my private, intimate moments with God.
 
-I have covered 53 verses thus far. That leaves me 2,408 verses to pray over. 
+And yet, essentially, I had my prayer journal within my blog--all with Draft status as `true`.  I felt as though I was playing with fire. I wouldn't know what to do if they accidentally published or somehow if Google was able to index it and made it available.
 
-At my current rate, if I wrote one prayer per verse per week, this project would have taken me a little over 46 years.
+So I had to pull them out and put them into their own repo.
 
-But what if I wrote one prayer per day? Six and a half years
+Which divides up the word count like so:
 
-What about three per day? A little over two years.
+```zsh
+====================================================
+Week Of    Theo    Prayers  Total     Current Since
+2020-12-10 325611  1176342  1501953   1176879 1324173
+```
 
-So challenge accepted!
+Index:
 
-So I am going to use NaNoWriMo to make a hard, 90 chapter push into completing Now Sings My Soul.
+`Theo` - Total word count within my blog
 
-I have put out 70 prayers. After this, month I will be 160 prayers in with over 2000 left to go.
+`Prayers` - Total word count within my prayer journals
 
-To God be the glory alone.
+`Total` - Theo plus Prayers
+
+`Current` - Total words written minus last weeks' total
+
+`Since` - Total words written since migration to Hugo back in April 2020
+
+What I am so deeply encouraged by is that for every four words written in prayer, one word is written on the blog. I like that a lot. It feels like I am on the right track.
+
+I still need to keep punching on Prayers on the Psalms if I am going to finish within my lifetime.
+
+Pray for me.
