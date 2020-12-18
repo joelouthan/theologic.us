@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/joelouthan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theologic.us
+  * I am joelouthan (https://keybase.io/joelouthan) on keybase.
+  * I have a public key with fingerprint C1E8 40BC 7C14 FD29 347B  AE6F B1A2 E99F 1498 38FD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206f3c5c72519b836d0069038767f82a21221680f4e2b980b7548db566792118bd0a",
+      "fingerprint": "c1e840bc7c14fd29347bae6fb1a2e99f149838fd",
+      "host": "keybase.io",
+      "key_id": "b1a2e99f149838fd",
+      "kid": "0101a9e7f1ea89c16567bcf60fee9a574a660a448cdd982fde8ff83c178df854c37d0a",
+      "uid": "0a6237d8b9dbdf49bb386d8a954beb19",
+      "username": "joelouthan"
+    },
+    "merkle_root": {
+      "ctime": 1608318245,
+      "hash_meta": "4ecd2c2880df0d32378e1f970bafc7b379e0daa332077965080db552d00b7f46",
+      "seqno": 18443178
+    },
+    "revoke": {
+      "sig_ids": [
+        "85ea79a7623fc71a80ce5ad326a0ecb447010ecb6f6414c029de9fa731c732dd0f"
+      ]
+    },
+    "service": {
+      "hostname": "theologic.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1608318249,
+  "expire_in": 157680000,
+  "prev": "b42770cc3a0c63e91879d4cddc083a21015006dedf89251a142f3bcd7c37d10f",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQAAnicbVNrUFVVGOWiaDAhPjBUKuuIpkV43ntvfIxo/DDHhikVSeyyX4d7BO7B
+c89FkZjSpglTyzJUMvORhg/GEZ0stHxnjo8snJgsRE1tQtNKGdQMah8f/Wg6f85r
+fetb3/rWPpjYJSYhUL+2dVXyctgROLq/PBoTbO4YViERh5VLmRVSEb9z48WMR7xg
+kc2kTElWVNm0NGpQoBoKIlAzmSybSNYgMIEFVawqqqqYULZ0rhIEZQIMHTJimCZA
+qqJAwmQspUuWHS7kbqlrhz1BSxUOdZlQQBXdYirSdEAwNy2iYJUjZCk6ghq0mCgM
+ORG/QogjOMIzbEd8Ey/BO/L+B39ft6xgxIGlcAwRVUzDBIRapmxxjrABdGyaMtZ1
+SBlDULUYh5YFNaoAyCxo6FQDd3VH79JhUxVfIEGMMEtHhGjQZBAjQyecKMgHRrgb
+xiVcoGc4vNiJeiEclirTpRLuFhXzoOs4nm8v9WwfpJgy1BSo6oYYEUdCwRLuYVGr
+c8pUqkIoM0tmmugKuWIhIBNsUUA0gLjMMNY0VQYAmYYsgMQwVLEVAizdFEoifGbY
+ER2grmtiHiHB5WVOEfe7R+xC4VxEypwmQYNjgDAQkwlmBUOZcgOLliaWOSW6DoSJ
+4sG0TF3RqawixpGFgaZQoKmMyZY0vdLv5pbZ9A65v6p7Fngh7hQ7hTbNiEaEpFLX
+8RzqFIs/Ic8rjWT6xnjlpT50FifBeyRBYoeZCIqoKONuxHbCYgyB/K9nKF3is0tt
+lwdtH2EAkT9x+X14mR8LXQVAplTDMjU1jhQIENPFqqkgEImVFUOEmHGxaiRijRVd
+tTRCGfDXrojB/jVRV4VOXCg4hXNh7EVdLlXu35ffNSaQENMtLtY/QTEJ8T3vnytw
+JKkT5e8Yzitz/8azxt/Qsx8pBrWhPssPrzzYVl8Te/BL+1zz24sG9T0wsNfSi3V7
+AlN2erXri1ob1vWILLxEs99teGoUUb+5IJflN7/U0T2uo1faQ2DT+cdnVnedn1PS
+cua9MQVHhsRuOPxOGJ4e6tRd6/fhnCuHaHsqlK5OaciqXXK0ZEXb1szf9JLbh74u
+3xicu+VywpInf4nr9+LNcdFNfZcFb4z0Al3S684VOJ3BY4eO98we6H5b/PMzf8Se
++tUde6kzbfWPb3x1dkXmtedPNsU3j0peW5VcGXhs3AHpE2tq3taa33e9mp+eN/aj
+zxe91WPXyOObkwbtHZ/y6MqMZcHLExPn7082HmhtvEUussVnFt54bc+tNxPTFn26
+OaVx2pac04EjDX1uje97YuX1DUMWvPLw9LwfBkr0uSZn3tY5+MpfUzf0ObYl7+VJ
+K04tYdlV8ROfWNOeu7blp3gwJqt31ZkBKa2vr5rQv6bxwd7qYvhd/cmCpeji+tpt
+7ZMmV4zqlfdso7e3c/b3I45WS/0vfbGtcvfI7R93O9GYOiC3rWjnjsWrQ0Mb3Qwc
+76yrs/90r6bejk6b3POcsWlZ25zdN73gvN5ZNYPdxKoFSdvnztgYGf3B09UvNI3L
+IKxfXEtut7M367tXXDipTth3un09ej9nzLCWtPOfHe7elnqiuoZNGaFcGB2bE9N0
++3ph4uCUNUkFw8de3fYPejMDUg==
+=O341
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joelouthan
+
+==================================================================
