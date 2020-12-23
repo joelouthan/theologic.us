@@ -22,7 +22,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
   
   disqusShortname = "joelouthan"
   
-  google_fonts = [
+  google-fonts = [
     ["Cinzel", "100, 200, 300, 400, 500, 600, 700, 800, 900"]
   ]
 
@@ -37,11 +37,11 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     weight = 2
   [[menu.nav]]
     name = "Monday :: Commentary: Romans"
-	url = "/tags/commentary_romans/"
+	url = "/tags/commentary-romans/"
     weight = 11
   [[menu.nav]]
     name = "Tuesday :: Now Sings My Soul: Prayers based on the Psalms"
-    url = "/tags/now_sings_my_soul-psalms/"
+    url = "/tags/now-sings-my-soul-psalms/"
     weight = 12
   [[menu.nav]]
     name = "Wednesday :: Thinking Through Ministry: Journaling through Pastoral Epistles"
@@ -49,7 +49,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     weight = 13
   [[menu.nav]]
     name = "Thursday :: Family Devotions: Luke"
-    url = "/tags/family_devotions-luke/"
+    url = "/tags/family-devotions-luke/"
     weight = 14
   [[menu.nav]]
     name = "Friday :: A Few Points"
@@ -57,7 +57,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     weight = 15
   [[menu.nav]]
     name = "Saturday :: Sundry Items"
-    url = "/tags/sundry_saturday/"
+    url = "/tags/sundry-saturday/"
     weight = 16
   [[menu.nav]]
     name = "MANUSCRIPT :: Here is Love: Exposition in Romans 8"
@@ -65,7 +65,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     weight = 20
   [[menu.nav]]
     name = "MANUSCRIPT :: Family Devotions: Mark"
-    url = "/tags/family_devotions-mark/"
+    url = "/tags/family-devotions-mark/"
     weight = 21
   [[menu.nav]]
     name = "MANUSCRIPT :: The Lord's Prayer"

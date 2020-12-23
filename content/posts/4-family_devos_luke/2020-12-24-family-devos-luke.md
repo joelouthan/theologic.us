@@ -1,5 +1,5 @@
 ---
-title: 'Luke '
+title: 'Luke 8 Yet, Christ Calls Mankind (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-24
