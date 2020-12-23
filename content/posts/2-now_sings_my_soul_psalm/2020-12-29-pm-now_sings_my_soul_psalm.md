@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 36:5-6'
+title: 'Now Sings My Soul: Psalm 36:5'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-29T20:00:00-06:00

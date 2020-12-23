@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: Psalm 35:6'
 author: Joseph Louthan
 type: post
 publishDate: 2021-01-05T06:00:00-06:00
@@ -8,14 +8,12 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: false
+draft: true
 ---
 <pre>
 <div style="font-variant: small-caps;">
 
 </div>
-Ps 36:5-6
-
 I search this earth
 for something that is good and holy
 and none I can find
@@ -23,15 +21,17 @@ I see semblances
 but none fulfilling
 
 But you lead me to your word
-and your word speaks of you
-I see that you alone are good
-holy
-justified
-merciful
-gracious
+  and your word speaks of you
+  I see that you alone are good
+  holy
+  justified
+  merciful
+  gracious
 loving
 and righteous
-and we are so far from youI see my own heartand I am an infinite distanec from your precense
+and we are so far from you
+
+I see my own heartand I am an infinite distanec from your precense
 Who would bridge this gap?
 Is it I?
 Let me try my best
