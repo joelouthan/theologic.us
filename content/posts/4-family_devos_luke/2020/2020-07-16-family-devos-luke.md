@@ -11,26 +11,28 @@ tags:
 draft: false
 ---
 
-## Blessed Are The Poor
+### Blessed Are The Poor
 
-<pre><b>Luke 6:20 (CSB) Then looking up at his disciples, he said: 
+~~~text
+Luke 6:20 (CSB) Then looking up at his disciples, he said: 
       Blessed are you who are poor, 
       because the kingdom of God is yours. 
-</b></pre> 
+~~~
 
 *What do you think Christ meant by poor?*
 
-**Luke 17:5–6 (CSB) The apostles said to the Lord, “Increase our faith.” 6 “If you have faith the size of a mustard seed,” the Lord said, “you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.**
+Luke 17:5–6 (CSB) The apostles said to the Lord, “Increase our faith.” 6 “If you have faith the size of a mustard seed,” the Lord said, “you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.
 
-**Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.**
+Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
 *If we have just a little faith, will we still receive God? Do we still get God?*
 
 ------
 
-## Blessed Are The Hungry
+### Blessed Are The Hungry
 
-<pre><b>Luke 6:21a (CSB) 
+~~~text
+Luke 6:21a (CSB) 
       Blessed are you who are hungry now, 
       because you will be filled.
 
@@ -54,7 +56,7 @@ Revelation 7:15–17 (CSB)
 Psalm 17:15 (CSB)
       But I will see your face in righteousness; 
       when I awake, I will be satisfied with your presence.
-</b></pre> 
+~~~
 
 *Can you imagine never being hungry or thirst again?*
 
@@ -62,7 +64,7 @@ Psalm 17:15 (CSB)
 
 *Can you imagine never being sad or lonely again?*
 
-**Ecclesiastes 3:11 (CSB) He has made everything appropriate in its time. He has also put eternity in their hearts, but no one can discover the work God has done from beginning to end.**
+Ecclesiastes 3:11 (CSB) He has made everything appropriate in its time. He has also put eternity in their hearts, but no one can discover the work God has done from beginning to end.
 
 *Who can fill the loneliness, anger, bitterness, emptiness within our hearts?*
 
@@ -70,14 +72,15 @@ Psalm 17:15 (CSB)
 
 ------
 
-## Blessed Are The Sad
+### Blessed Are The Sad
 
-<pre><b>Luke 6:21b (CSB)
+~~~text
+Luke 6:21b (CSB)
       Blessed are you who weep now, 
-      because you will laugh. 
-</b></pre> 
+      because you will laugh.
+~~~
 
-**Romans 12:15 (CSB) Rejoice with those who rejoice; weep with those who weep.**
+Romans 12:15 (CSB) Rejoice with those who rejoice; weep with those who weep.
 
 *What is comfort? What is like to be comforted?*
 
@@ -85,26 +88,27 @@ Psalm 17:15 (CSB)
 
 ------
 
-## Blessed Are The Hated
+### Blessed Are The Hated
 
-<pre><b>Luke 6:22-23 (CSB)
+~~~text
+Luke 6:22-23 (CSB)
       Blessed are you when people hate you, 
       when they exclude you, insult you, 
       and slander your name as evil 
       because of the Son of Man.
 
 “Rejoice in that day and leap for joy. Take note—your reward is great in heaven, for this is the way their ancestors used to treat the prophets.
-</b></pre> 
+~~~
 
-**Romans 12:14 (CSB) Bless those who persecute you; bless and do not curse.**
+Romans 12:14 (CSB) Bless those who persecute you; bless and do not curse.
 
 *Do you think anybody hates you? If so, how can you bless them?*
 
 ------
 
-## Curse of Sin
+### Curse of Sin
 
-<pre><b>
+~~~text
 Genesis 3:16–19 (CSB) He said to the woman: 
       I will intensify your labor pains; 
       you will bear children with painful effort. 
@@ -121,7 +125,7 @@ Genesis 3:16–19 (CSB) He said to the woman:
       since you were taken from it. 
       For you are dust, 
       and you will return to dust.”
-</b></pre> 
+~~~
 
 *What is a curse?*
 
@@ -129,24 +133,26 @@ Genesis 3:16–19 (CSB) He said to the woman:
 
 *What are the effects of sin? Does God give us a way out of sin and back to him?*
 
-**Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.**
+Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
 ------
 
-## Woe to Those Who Are Comforted Not in God
+### Woe to Those Who Are Comforted Not in God
 
-<pre><b>Luke 6:24 (CSB)
+~~~text
+Luke 6:24 (CSB)
       24 But woe to you who are rich, 
       for you have received your comfort. 
-</b></pre>
+~~~
 
 *Where does all of our money come from?*
 
-**Matthew 5:45 (CSB) so that you may be children of your Father in heaven. For he causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.**
+Matthew 5:45 (CSB) so that you may be children of your Father in heaven. For he causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
 
 *Should we put our security into the gifts that God give or into God himself?*
 
-<pre><b>Proverbs 30:8–9 (CSB)
+~~~text
+Proverbs 30:8–9 (CSB)
       Keep falsehood and deceitful words far from me. 
       Give me neither poverty nor wealth; 
       feed me with the food I need. 
@@ -154,15 +160,16 @@ Genesis 3:16–19 (CSB) He said to the woman:
       and deny you, saying, “Who is the LORD?” 
       or I might have nothing and steal, 
       profaning the name of my God.
-</b></pre>
+~~~
 
 *How can we trust God more than the gifts of God?*
 
 ------
 
-## Woe to Those Who Are Filled Not By God
+### Woe to Those Who Are Filled Not By God
 
-<pre><b>Luke 6:25a (CSB)
+~~~text
+Luke 6:25a (CSB)
       25 Woe to you who are now full, 
       for you will be hungry. 
 
@@ -174,15 +181,16 @@ Psalm 22:26 (CSB)
 1 Peter 5:6 (CSB) Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you at the proper time,
 
 Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
-</b></pre> 
+~~~
 
 *What is Christ actually talking about? Is he talking about food?*
 
 ------
 
-## Woe to Those Whose Joy Does Not Come From God
+### Woe to Those Whose Joy Does Not Come From God
 
-<pre><b>Luke 6:25b (CSB)
+~~~text
+Luke 6:25b (CSB)
       Woe to you who are now laughing, 
       for you will mourn and weep.
 
@@ -197,7 +205,7 @@ Psalm 30:5 (CSB)
       Weeping may stay overnight, 
       but there is joy in the morning.
       
-</b></pre>
+~~~
 
 *How long does joy and happiness last when it comes from sin and wrongdoing? What happens with joy if comes from God? Even in sad times?*
 
@@ -205,9 +213,10 @@ Psalm 30:5 (CSB)
 
 ------
 
-## Woe to Those Who Say Things That God Didn't Say
+### Woe to Those Who Say Things That God Didn't Say
 
-<pre><b>Luke 6:26 (CSB)
+~~~text
+Luke 6:26 (CSB)
       26 Woe to you 
       when all people speak well of you,  
       for this is the way their ancestors
@@ -218,11 +227,11 @@ Jeremiah 8:11 (CSB)
       of my dear people superficially, 
       claiming, ‘Peace, peace,’ 
       when there is no peace.
-</b></pre>      
+~~~
 
 *Why do we not say things that God did not say? Why is that so important?*
 
 *If we lie, does that bring death to others or life to others?*
 
-**2 Corinthians 2:15–17 (CSB) For to God we are the fragrance of Christ among those who are being saved and among those who are perishing. 16 To some we are an aroma of death leading to death, but to others, an aroma of life leading to life. Who is adequate for these things? 17 For we do not market the word of God for profit like so many. On the contrary, we speak with sincerity in Christ, as from God and before God.**
+2 Corinthians 2:15–17 (CSB) For to God we are the fragrance of Christ among those who are being saved and among those who are perishing. 16 To some we are an aroma of death leading to death, but to others, an aroma of life leading to life. Who is adequate for these things? 17 For we do not market the word of God for profit like so many. On the contrary, we speak with sincerity in Christ, as from God and before God.
 
