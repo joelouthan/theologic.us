@@ -3,7 +3,7 @@ title: 'Luke 6:20-26 What Does The Lord Give? (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-16
-url: /family_devos_luke/2020-07-16-family_devos_luke/
+url: /family-devos-luke/2020-07-16-family-devos-luke/
 categories:
   - Devotions
 tags:

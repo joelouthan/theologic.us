@@ -3,7 +3,7 @@ title: 'Luke '
 author: Joseph Louthan
 type: post
 publishDate: 2021-02-04
-url: /family_devos_luke/2021-02-04-family_devos_luke/
+url: /family-devos-luke/2021-02-04-family-devos-luke/
 categories:
   - Devotions
 tags:

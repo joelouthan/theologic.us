@@ -3,7 +3,7 @@ title: '✅Luke 3:23-38 How was Jesus Like You and Me?'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-04
-url: /family_devos_luke/2020-06-04-family_devos_luke/
+url: /family-devos-luke/2020-06-04-family-devos-luke/
 categories:
   - Devotions
 tags:

@@ -3,7 +3,7 @@ title: '✅Luke 1:26-38 God Calls Us To Him'
 author: Joseph Louthan
 type: post
 publishDate: 2019-12-11
-url: /family_devos_luke/2019-12-11-family_devos_luke/
+url: /family-devos-luke/2019-12-11-family-devos-luke/
 categories:
   - Devotions
 tags:

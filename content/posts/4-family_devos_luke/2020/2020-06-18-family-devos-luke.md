@@ -3,7 +3,7 @@ title: 'Luke 4:14–37 The Word of the Lord (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-06-18
-url: /family_devos_luke/2020-06-18-family_devos_luke/
+url: /family-devos-luke/2020-06-18-family-devos-luke/
 categories:
   - Devotions
 tags:

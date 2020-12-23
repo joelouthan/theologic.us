@@ -3,7 +3,7 @@ title: "✅Luke 1:1-4 To Be Called A Witness"
 author: Joseph Louthan
 type: post
 publishDate: 2019-11-06
-url: /devotions/2019-11-06-family_devos_luke-to-be-called-a-witness/
+url: /devotions/2019-11-06-family-devos-luke-to-be-called-a-witness/
 categories:
   - Devotions
 tags:

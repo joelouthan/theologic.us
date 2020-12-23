@@ -3,7 +3,7 @@ title: 'Luke 6:39-49 What Does the Lord Teach? (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-30
-url: /family_devos_luke/2020-07-30-family_devos_luke/
+url: /family-devos-luke/2020-07-30-family-devos-luke/
 categories:
   - Devotions
 tags:

@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-**BRAG POST:** If my calculations are correct, [yesterday](https://theologic.us/family_devos_luke/2020-05-07-family_devos_luke/) was my 300th blog post. Started in 2012 with a self-hosted Wordpress to Netlify-hosted Hugo, going through several deep depressions, a handful of jobs, two babies, one miscarriage, one suicide attempt, and one failed marriage, this will forever be the prayer of my heart in my writing:
+**BRAG POST:** If my calculations are correct, [yesterday](https://theologic.us/family-devos-luke/2020-05-07-family-devos-luke/) was my 300th blog post. Started in 2012 with a self-hosted Wordpress to Netlify-hosted Hugo, going through several deep depressions, a handful of jobs, two babies, one miscarriage, one suicide attempt, and one failed marriage, this will forever be the prayer of my heart in my writing:
 
 <pre><b>
 Psalm 19:14

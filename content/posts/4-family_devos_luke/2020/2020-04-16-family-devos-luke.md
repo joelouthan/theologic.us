@@ -3,7 +3,7 @@ title: '✅Luke 2:22-24 Christ Grew In Wisdom and Stature [Part 1]'
 author: Joseph Louthan
 type: post
 publishDate: 2020-04-16
-url: /family_devos_luke/2020-04-16-family_devos_luke/
+url: /family-devos-luke/2020-04-16-family-devos-luke/
 categories:
   - Devotions
 tags:

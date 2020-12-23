@@ -3,7 +3,7 @@ title: 'Luke 6:27-49 What Does the Lord Say? (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-07-23
-url: /family_devos_luke/2020-07-23-family_devos_luke/
+url: /family-devos-luke/2020-07-23-family-devos-luke/
 categories:
   - Devotions
 tags:
