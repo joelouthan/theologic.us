@@ -45,11 +45,9 @@ Luke 7:18-30 Then John’s disciples told him about all these things. So John su
 
 24 After John’s messengers left, he began to speak to the crowds about John: “What did you go out into the wilderness to see? A reed swaying in the wind? 25 What then did you go out to see? A man dressed in soft clothes? See, those who are splendidly dressed and live in luxury are in royal palaces. 26 What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet. 27 This is the one about whom it is written:  
 
-~~~text
-​See, I am sending my messenger
-​ahead of you;
-​he will prepare your way before you.
-~~~
+    ​See, I am sending my messenger
+    ​ahead of you;
+    ​he will prepare your way before you.
 
 28 I tell you, among those born of women no one is greater than John, but the least in the kingdom of God is greater than he.”  
 
@@ -71,12 +69,10 @@ Luke 7:29 (And when all the people, including the tax collectors, heard this, th
 
 Luke 7:31 “To what then should I compare the people of this generation, and what are they like? 32 They are like children sitting in the marketplace and calling to each other:  
 
-~~~text
-​We played the flute for you,  
-​  but you didn’t dance;  
-​  we sang a lament,  
-​  but you didn’t weep!  
-~~~
+    We played the flute for you,  
+    but you didn’t dance;  
+    we sang a lament,  
+    but you didn’t weep!  
 
 33 For John the Baptist did not come eating bread or drinking wine, and you say, ‘He has a demon!’ 34 The Son of Man has come eating and drinking, and you say, ‘Look, a glutton and a drunkard, a friend of tax collectors and sinners!’ 35 Yet wisdom is vindicated by all her children.”  
 

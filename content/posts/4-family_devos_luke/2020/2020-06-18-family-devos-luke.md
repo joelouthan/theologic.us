@@ -22,17 +22,15 @@ Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, 
 
 Luke 4:16–21 (CSB) He came to Nazareth, where he had been brought up. As usual, he entered the synagogue on the Sabbath day and stood up to read.  The scroll of the prophet Isaiah was given to him, and unrolling the scroll, he found the place where it was written:
 
-~~~text
-The Spirit of the Lord is on me,
-  because he has anointed me
-  to preach good news to the poor.
-He has sent me
-  to proclaim release
-  to the captives
-  and recovery of sight to the blind,
-  to set free the oppressed,
-  to proclaim the year of the Lord’s favor.
-~~~
+    The Spirit of the Lord is on me,
+    because he has anointed me
+    to preach good news to the poor.
+    He has sent me
+    to proclaim release
+    to the captives
+    and recovery of sight to the blind,
+    to set free the oppressed,
+    to proclaim the year of the Lord’s favor.
 
 He then rolled up the scroll, gave it back to the attendant, and sat down. And the eyes of everyone in the synagogue were fixed on him.  He began by saying to them, “Today as you listen, this Scripture has been fulfilled.”
 

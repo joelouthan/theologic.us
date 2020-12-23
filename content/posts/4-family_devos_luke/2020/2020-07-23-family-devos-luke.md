@@ -39,12 +39,10 @@ Luke 6:28 bless those who curse you, pray for those who mistreat you.
 
 Luke 6:29-30 If anyone hits you on the cheek, offer the other also. And if anyone takes away your coat, don’t hold back your shirt either. Give to everyone who asks you, and from someone who takes your things, don’t ask for them back.
 
-~~~text
-Psalm 16:5 (CSB)
-      LORD, you are my portion 
-      and my cup of blessing; 
-      you hold my future.
-~~~
+    Psalm 16:5 (CSB)
+    LORD, you are my portion 
+    and my cup of blessing; 
+    you hold my future.
 
 *Again, where does our provision--money, time, home, cars, job, food, water, clothes--comes from?*
 
@@ -58,12 +56,10 @@ Luke 6:31 Just as you want others to do for you, do the same for them.
 
 Romans 12:9–21 (CSB) Let love be without hypocrisy. Detest evil; cling to what is good. 10 Love one another deeply as brothers and sisters. Take the lead in honoring one another. 11 Do not lack diligence in zeal; be fervent in the Spirit; serve the Lord. 12 Rejoice in hope; be patient in affliction; be persistent in prayer. 13 Share with the saints in their needs; pursue hospitality. 14 Bless those who persecute you; bless and do not curse. 15 Rejoice with those who rejoice; weep with those who weep. 16 Live in harmony with one another. Do not be proud; instead, associate with the humble. Do not be wise in your own estimation. 17 Do not repay anyone evil for evil. Give careful thought to do what is honorable in everyone’s eyes. 18 If possible, as far as it depends on you, live at peace with everyone. 19 Friends, do not avenge yourselves; instead, leave room for God’s wrath, because it is written, Vengeance belongs to me; I will repay, says the Lord. 20 But
 
-~~~text
-If your enemy is hungry, feed him.
-  If he is thirsty, give him something to drink. 
-  For in so doing 
-  you will be heaping fiery coals on his head.
-~~~
+    If your enemy is hungry, feed him.
+    If he is thirsty, give him something to drink. 
+    For in so doing 
+    you will be heaping fiery coals on his head.
 
 21 Do not be conquered by evil, but conquer evil with good.
 
@@ -123,11 +119,9 @@ Luke 6:38 Give, and it will be given to you; a good measure—pressed down, shak
 
 2 Corinthians 8:1–6 (CSB) We want you to know, brothers and sisters, about the grace of God that was given to the churches of Macedonia: 2 During a severe trial brought about by affliction, their abundant joy and their extreme poverty overflowed in a wealth of generosity on their part. 3 I can testify that, according to their ability and even beyond their ability, of their own accord, 4 they begged us earnestly for the privilege of sharing in the ministry to the saints, 5 and not just as we had hoped. Instead, they gave themselves first to the Lord and then to us by God’s will. 6 So we urged Titus that just as he had begun, so he should also complete among you this act of grace.
 
-~~~text
-Psalm 50:10 (CSB)
-         for every animal of the forest is mine, 
-         the cattle on a thousand hills. 
-~~~
+    Psalm 50:10 (CSB)
+    for every animal of the forest is mine, 
+    the cattle on a thousand hills. 
 
 *If everything--money, time, possessions, riches--belong to God and God is our Father, is it possible to give more?*
 

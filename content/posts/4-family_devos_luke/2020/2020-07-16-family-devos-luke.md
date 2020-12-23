@@ -13,11 +13,10 @@ draft: false
 
 ### Blessed Are The Poor
 
-~~~text
+
 Luke 6:20 (CSB) Then looking up at his disciples, he said: 
       Blessed are you who are poor, 
       because the kingdom of God is yours. 
-~~~
 
 *What do you think Christ meant by poor?*
 
@@ -31,32 +30,30 @@ Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, bu
 
 ### Blessed Are The Hungry
 
-~~~text
-Luke 6:21a (CSB) 
-      Blessed are you who are hungry now, 
-      because you will be filled.
+    Luke 6:21a (CSB) 
+    Blessed are you who are hungry now, 
+    because you will be filled.
 
-Psalm 42:1 (CSB)
-      As a deer longs for flowing streams, 
-      so I long for you, God.
+    Psalm 42:1 (CSB)
+    As a deer longs for flowing streams, 
+    so I long for you, God.
 
-Revelation 7:15–17 (CSB)
-      For this reason they are before the throne of God, 
-      and they serve him day and night in his temple. 
-      The one seated on the throne will shelter them: 
-      16 They will no longer hunger; 
-      they will no longer thirst; 
-      the sun will no longer strike them, 
-      nor will any scorching heat. 
-      17 For the Lamb who is at the center of the throne 
-      will shepherd them; 
-      he will guide them to springs of the waters of life, 
-      and God will wipe away every tear from their eyes.
+    Revelation 7:15–17 (CSB)
+    For this reason they are before the throne of God, 
+    and they serve him day and night in his temple. 
+    The one seated on the throne will shelter them: 
+    16 They will no longer hunger; 
+    they will no longer thirst; 
+    the sun will no longer strike them, 
+    nor will any scorching heat. 
+    17 For the Lamb who is at the center of the throne 
+    will shepherd them; 
+    he will guide them to springs of the waters of life, 
+    and God will wipe away every tear from their eyes.
 
-Psalm 17:15 (CSB)
-      But I will see your face in righteousness; 
-      when I awake, I will be satisfied with your presence.
-~~~
+    Psalm 17:15 (CSB)
+    But I will see your face in righteousness; 
+    when I awake, I will be satisfied with your presence.
 
 *Can you imagine never being hungry or thirst again?*
 
@@ -74,11 +71,9 @@ Ecclesiastes 3:11 (CSB) He has made everything appropriate in its time. He has a
 
 ### Blessed Are The Sad
 
-~~~text
-Luke 6:21b (CSB)
-      Blessed are you who weep now, 
-      because you will laugh.
-~~~
+    Luke 6:21b (CSB)
+    Blessed are you who weep now, 
+    because you will laugh.
 
 Romans 12:15 (CSB) Rejoice with those who rejoice; weep with those who weep.
 
@@ -90,15 +85,13 @@ Romans 12:15 (CSB) Rejoice with those who rejoice; weep with those who weep.
 
 ### Blessed Are The Hated
 
-~~~text
-Luke 6:22-23 (CSB)
-      Blessed are you when people hate you, 
-      when they exclude you, insult you, 
-      and slander your name as evil 
-      because of the Son of Man.
+    Luke 6:22-23 (CSB)
+    Blessed are you when people hate you, 
+    when they exclude you, insult you, 
+    and slander your name as evil 
+    because of the Son of Man.
 
 “Rejoice in that day and leap for joy. Take note—your reward is great in heaven, for this is the way their ancestors used to treat the prophets.
-~~~
 
 Romans 12:14 (CSB) Bless those who persecute you; bless and do not curse.
 
@@ -108,24 +101,22 @@ Romans 12:14 (CSB) Bless those who persecute you; bless and do not curse.
 
 ### Curse of Sin
 
-~~~text
-Genesis 3:16–19 (CSB) He said to the woman: 
-      I will intensify your labor pains; 
-      you will bear children with painful effort. 
-      Your desire will be for your husband, 
-      yet he will rule over you. 
-17 And he said to the man, “Because you listened to your wife and ate from the tree about which I commanded you, ‘Do not eat from it’: 
-      The ground is cursed because of you. 
-      You will eat from it by means of painful labor 
-      all the days of your life. 
-      18 It will produce thorns and thistles for you, 
-      and you will eat the plants of the field. 
-      19 You will eat bread by the sweat of your brow 
-      until you return to the ground, 
-      since you were taken from it. 
-      For you are dust, 
-      and you will return to dust.”
-~~~
+    Genesis 3:16–19 (CSB) He said to the woman: 
+    I will intensify your labor pains; 
+    you will bear children with painful effort. 
+    Your desire will be for your husband, 
+    yet he will rule over you. 
+    17 And he said to the man, “Because you listened to your wife and ate from the tree about which I commanded you, ‘Do not eat from it’: 
+    The ground is cursed because of you. 
+    You will eat from it by means of painful labor 
+    all the days of your life. 
+    18 It will produce thorns and thistles for you, 
+    and you will eat the plants of the field. 
+    19 You will eat bread by the sweat of your brow 
+    until you return to the ground, 
+    since you were taken from it. 
+    For you are dust, 
+    and you will return to dust.”
 
 *What is a curse?*
 
@@ -139,11 +130,9 @@ Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal 
 
 ### Woe to Those Who Are Comforted Not in God
 
-~~~text
-Luke 6:24 (CSB)
-      24 But woe to you who are rich, 
-      for you have received your comfort. 
-~~~
+    Luke 6:24 (CSB)
+    24 But woe to you who are rich, 
+    for you have received your comfort. 
 
 *Where does all of our money come from?*
 
@@ -151,16 +140,14 @@ Matthew 5:45 (CSB) so that you may be children of your Father in heaven. For he 
 
 *Should we put our security into the gifts that God give or into God himself?*
 
-~~~text
-Proverbs 30:8–9 (CSB)
-      Keep falsehood and deceitful words far from me. 
-      Give me neither poverty nor wealth; 
-      feed me with the food I need. 
-      9 Otherwise, I might have too much 
-      and deny you, saying, “Who is the LORD?” 
-      or I might have nothing and steal, 
-      profaning the name of my God.
-~~~
+    Proverbs 30:8–9 (CSB)
+    Keep falsehood and deceitful words far from me. 
+    Give me neither poverty nor wealth; 
+    feed me with the food I need. 
+    9 Otherwise, I might have too much 
+    and deny you, saying, “Who is the LORD?” 
+    or I might have nothing and steal, 
+    profaning the name of my God.
 
 *How can we trust God more than the gifts of God?*
 
@@ -168,20 +155,18 @@ Proverbs 30:8–9 (CSB)
 
 ### Woe to Those Who Are Filled Not By God
 
-~~~text
-Luke 6:25a (CSB)
-      25 Woe to you who are now full, 
-      for you will be hungry. 
+    Luke 6:25a (CSB)
+    25 Woe to you who are now full, 
+    for you will be hungry. 
 
-Psalm 22:26 (CSB)
-      The humble will eat and be satisfied; 
-      those who seek the LORD will praise him. 
-      May your hearts live forever!
+    Psalm 22:26 (CSB)
+    The humble will eat and be satisfied; 
+    those who seek the LORD will praise him. 
+    May your hearts live forever!
 
 1 Peter 5:6 (CSB) Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you at the proper time,
 
 Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
-~~~
 
 *What is Christ actually talking about? Is he talking about food?*
 
@@ -189,23 +174,20 @@ Romans 8:30 (CSB) And those he predestined, he also called; and those he called,
 
 ### Woe to Those Whose Joy Does Not Come From God
 
-~~~text
-Luke 6:25b (CSB)
-      Woe to you who are now laughing, 
-      for you will mourn and weep.
+    Luke 6:25b (CSB)
+    Woe to you who are now laughing, 
+    for you will mourn and weep.
 
-Psalm 16:11 (CSB)
-       You reveal the path of life to me; 
-       in your presence is abundant joy; 
-       at your right hand are eternal pleasures.
-       
-Psalm 30:5 (CSB)
-      For his anger lasts only a moment, 
-      but his favor, a lifetime. 
-      Weeping may stay overnight, 
-      but there is joy in the morning.
-      
-~~~
+    Psalm 16:11 (CSB)
+    You reveal the path of life to me; 
+    in your presence is abundant joy; 
+    at your right hand are eternal pleasures.
+
+    Psalm 30:5 (CSB)
+    For his anger lasts only a moment, 
+    but his favor, a lifetime. 
+    Weeping may stay overnight, 
+    but there is joy in the morning.
 
 *How long does joy and happiness last when it comes from sin and wrongdoing? What happens with joy if comes from God? Even in sad times?*
 
@@ -215,19 +197,17 @@ Psalm 30:5 (CSB)
 
 ### Woe to Those Who Say Things That God Didn't Say
 
-~~~text
-Luke 6:26 (CSB)
-      26 Woe to you 
-      when all people speak well of you,  
-      for this is the way their ancestors
-      used to treat the false prophets.
+    Luke 6:26 (CSB)
+    26 Woe to you 
+    when all people speak well of you,  
+    for this is the way their ancestors
+    used to treat the false prophets.
 
-Jeremiah 8:11 (CSB)
-      They have treated the brokenness 
-      of my dear people superficially, 
-      claiming, ‘Peace, peace,’ 
-      when there is no peace.
-~~~
+    Jeremiah 8:11 (CSB)
+    They have treated the brokenness 
+    of my dear people superficially, 
+    claiming, ‘Peace, peace,’ 
+    when there is no peace.
 
 *Why do we not say things that God did not say? Why is that so important?*
 

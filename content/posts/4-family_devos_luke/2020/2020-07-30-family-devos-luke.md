@@ -45,11 +45,9 @@ Luke 6:43-44 “A good tree doesn’t produce bad fruit; on the other hand, a ba
 
 *Is it possible to do wickedness and sin in the sight of God and be saved to God?*
 
-~~~text
-Psalm 5:4 (CSB)
-  For you are not a God who delights in wickedness; 
-  evil cannot dwell with you.
-~~~
+    Psalm 5:4 (CSB)
+    For you are not a God who delights in wickedness; 
+    evil cannot dwell with you.
 
 ------
 
