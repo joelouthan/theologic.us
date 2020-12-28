@@ -10,43 +10,42 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Only Deliverer
 </div>
-How often do I preach
-  against the sin in others
-  guilt deep in the hearts of men
-  and as they continue to plot in vain
-  as if there is no God.
 
-But my life
-  was filled to the hilt
-  with my own wickedness
-  perversions that few can know
-  evil that cause some to shudder
-  sin that churns and burns in my
-  heart
-  mind
-  and soul
-  continuously.
+    How often do I preach
+      against the sin in others
+      guilt deep in the hearts of men
+      and as they continue to plot in vain
+      as if there is no God.
 
-I was one of these worthless men
-  that sinned all the more
-  I was ill-deserving of any leniency
-  I could not afford grace.
+    But my life
+      was filled to the hilt
+      with my own wickedness
+      perversions that few can know
+      evil that cause some to shudder
+      sin that churns and burns in my
+      heart
+      mind
+      and soul
+      continuously.
 
-But you O Lord
-  had me in your sights
-  and you had sweetest mercy for me
-  and you pulled me out of hell
-  and your rescued me from death
-  and you loved me
-  and you saved me
-  and you bless me.
+    I was one of these worthless men
+      that sinned all the more
+      I was ill-deserving of any leniency
+      I could not afford grace.
 
-My God, keep your hand on my life
-  and keep turning my heart towards you.
+    But you O Lord
+      had me in your sights
+      and you had sweetest mercy for me
+      and you pulled me out of hell
+      and your rescued me from death
+      and you loved me
+      and you saved me
+      and you bless me.
 
-Amen.
-</pre>
+    My God, keep your hand on my life
+      and keep turning my heart towards you.
+
+    Amen.

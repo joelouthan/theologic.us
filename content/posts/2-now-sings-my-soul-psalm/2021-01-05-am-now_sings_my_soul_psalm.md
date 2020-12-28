@@ -8,49 +8,84 @@ categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
-draft: true
+draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
+    My Only Path
+    </div>
 
-</div>
-I search this earth
-for something that is good and holy
-and none I can find
-I see semblances
-but none fulfilling
+    I search this earth
+      for something that is good and holy
+      none I can find
+      I see semblances
+      but none fulfilling
 
-But you lead me to your word
-  and your word speaks of you
-  I see that you alone are good
-  holy
-  justified
-  merciful
-  gracious
-loving
-and righteous
-and we are so far from you
+    But you lead me to your word
+      your word speaks of you
+      I see that you alone are good
+      holy
+      justified
+      merciful
+      gracious
+      loving
+      righteous
+      we are so far from you
 
-I see my own heartand I am an infinite distanec from your precense
-Who would bridge this gap?
-Is it I?
-Let me try my best
-let me abstain from sinlet me not look at porn
-let me not lust after someone eclipseslet me not steal 
-let me not lifelet me not swell in predestinedlet me fail not in helping those in need
-let me do good
-Oh but everything I do is infected with sinI see it because I know it in my heartwhen I am helpful, I do so in order for poeple to like meWhen I am nice, I want people to think I am goodbut if they could see my heartif they could see the thoughts of my mindsin would run continuouslyand they judge me wanting
+    I see my own heart
+      I am an infinite distance from your presence.
+    
+    Who would bridge this gap?
+    
+    Is it I?
+    
+    Let me try my best
+      let me abstain from sinlet me not look at porn
+      let me not lust after someone eclipseslet me not steal 
+      let me not lifelet me not swell in predestinedlet me fail not in helping those in need
+      let me do good.
 
-But you saw the depths of my souleven beyond what I can seein the darkness and despair
-and you did not shrudded 
-you did not look awayyou took pity on this old fool
-and you gave me your Sonaqnd you gave me your Spiritand you gave me your inheritance
-your dailymercies
-your sweetest graceand your steadfast love.
+    Oh but everything I do is infected with sin
+      I see it because I know it in my heart
+      
+    When I am helpful
+      I do so in order for people to like me
+    
+    When I am nice
+      I want people to think I am good
+      but if they could see my heart
+      if they could see the thoughts of my mind
+      they would run continuously
+      they judge me wanting.
 
-Keep me in palms of your hands O LordI stand on the spoken word of your Sonthat no onenot everythingsin
-Satandeath
-demonsand hellcan take me from your handsand you will never let me God.
+    But you saw the depths of my soul
+      even beyond what I can see
+      in the darkness and despair
+      you did not shudder 
+      you did not look away
+      you took pity on this old fool
+      you gave me your Son
+      you gave me your Spirit
+      you gave me your inheritance
+      your daily mercies
+      your sweetest grace 
+      your steadfast love
+      forever.
 
-Keep me in your heartand speak into my souland write your words in my heartthat I may never sin against you.
+    Keep me in palms of your hands
+      O Lord
+      I stand on the spoken word of your Son
+      that no one
+      not anything
+      Satan
+      death
+      demons
+      hell
+      can take me from your hands
+      I know
+      you will never let me go.
+
+    Keep me in your heart
+      speak into my soul
+      write your words in my heart
+      that I may never sin against you.
 </pre>

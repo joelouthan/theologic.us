@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm Psalm 36:10-12'
+title: 'Now Sings My Soul: Psalm 36:10-12'
 author: Joseph Louthan
 type: post
 publishDate: 2021-01-05T20:00:00-06:00
@@ -10,46 +10,45 @@ tags:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Only Savior
 </div>
-Keep your love upon me
-  do not let me go
-  do not turn your back on me
-  do not forget me
-  do not forsake me
 
-If I am arrogant
-  then discipline me
+    Keep your love upon me
+      do not let me go
+      do not turn your back on me
+      do not forget me
+      do not forsake me
 
-If I am wicked
-  then wash me clean
+    If I am arrogant
+      then discipline me
 
-If I am evil
-  then make me holy.
+    If I am wicked
+      then wash me clean
 
-Whatever you can do
-  to keep me close
-  then do it.
+    If I am evil
+      then make me holy.
 
-Because I want you
-  and nobody else
-  and not even sin
-  nor things of this world
-  would be worth
-  be one second apart
-  from your love.
+    Whatever you can do
+      to keep me close
+      then do it.
 
-Keep me Lord
+    Because I want you
+      and nobody else
+      and not even sin
+      nor things of this world
+      would be worth
+      be one second apart
+      from your love.
 
-Defeat my real enemies
+    Keep me Lord
 
-Love those who oppose you
-  and save them to you.
+    Defeat my real enemies
 
-You are the only God
-  who is mighty to save.
+    Love those who oppose you
+      and save them to you.
 
-Amen.
-</pre>
+    You are the only God
+      who is mighty to save.
+
+    Amen.
