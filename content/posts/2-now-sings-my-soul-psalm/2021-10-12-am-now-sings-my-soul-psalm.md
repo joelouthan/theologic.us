@@ -1,18 +1,16 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: '
 author: Joseph Louthan
 type: post
-publishDate: T06:00:00-06:00
-url: /now-sings-my-soul-psalm/-am-now-sings-my-soul-psalm/
+publishDate: 2021-10-12T06:00:00-06:00
+url: /now-sings-my-soul-psalm/2021-10-12-am-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
   - 'Now Sings My Soul: Psalms'
 draft: true
 ---
-<pre>
 <div style="font-variant: small-caps;">
 
 </div>
-
-</pre>
+    start-here

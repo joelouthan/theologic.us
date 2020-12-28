@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: Psalm 3:'
+title: 'Now Sings My Soul: '
 author: Joseph Louthan
 type: post
 publishDate: 2021-03-02T20:00:00-06:00
@@ -13,4 +13,4 @@ draft: true
 <div style="font-variant: small-caps;">
 
 </div>
-    
+    start-here
