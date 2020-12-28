@@ -1,5 +1,5 @@
 ---
-title: 'Luke 8 But God Calls Mankind (Series)'
+title: 'Luke 8 But Christ Calls (Series)'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-24
@@ -13,7 +13,8 @@ draft: false
 
 ## Christ Calls Us Out From Under Darkness
 
-Luke 8:1-3 (ESV) Soon afterward he went on through cities and villages, proclaiming and bringing the good news of the kingdom of God. And the twelve were with him, 2 and also some women who had been healed of evil spirits and infirmities: Mary, called Magdalene, from whom seven demons had gone out, 3 and Joanna, the wife of Chuza, Herod's household manager, and Susanna, and many others, who provided for them out of their means.
+Luke 8:1-3 (CSB) Afterward he was traveling from one town and village to another, preaching and telling the good news of the kingdom of God. The Twelve were with him,<sup> 2 </sup>and also some women who had been healed of evil spirits and sicknesses: Mary, called Magdalene (seven demons had come out of her);<sup> 3 </sup>Joanna the wife of Chuza, Herod’s steward; Susanna; and many others who were supporting them from their possessions.
+
 
 *If God did nothing, could we ever know God?*
 
@@ -21,57 +22,66 @@ Luke 8:1-3 (ESV) Soon afterward he went on through cities and villages, proclaim
 
 ## Christ Calls Us With the Gospel
 
-Luke 8:4-8 And when a great crowd was gathering and people from town after town came to him, he said in a parable, 5 “A sower went out to sow his seed. And as he sowed, some fell along the path and was trampled underfoot, and the birds of the air devoured it. 6 And some fell on the rock, and as it grew up, it withered away, because it had no moisture. 7 And some fell among thorns, and the thorns grew up with it and choked it. 8 And some fell into good soil and grew and yielded a hundredfold.” As he said these things, he called out, “He who has ears to hear, let him hear.”
+Luke 8:4-8 (CSB) As a large crowd was gathering, and people were coming to Jesus from every town, he said in a parable,<sup> 5 </sup>“A sower went out to sow his seed. As he sowed, some seed fell along the path; it was trampled on, and the birds of the sky devoured it.<sup> 6 </sup>Other seed fell on the rock; when it grew up, it withered away, since it lacked moisture.<sup> 7 </sup>Other seed fell among thorns; the thorns grew up with it and choked it.<sup> 8 </sup>Still other seed fell on good ground; when it grew up, it produced fruit: a hundred times what was sown.” As he said this, he called out, “Let anyone who has ears to hear listen.”
 
 *When the gospel is preached, does it accomplish what God wants it to do?*
 
     Isaiah 55:10-11 (ESV)
     “For as the rain and the snow come down from heaven
-    and do not return there but water the earth,
+      and do not return there but water the earth,
     making it bring forth and sprout,
-    giving seed to the sower and bread to the eater,
-    11 so shall my word be that goes out from my mouth;
+      giving seed to the sower and bread to the eater,
+      so shall my word be that goes out from my mouth;
     it shall not return to me empty,
-    but it shall accomplish that which I purpose,
-    and shall succeed in the thing for which I sent it.
+      but it shall accomplish that which I purpose,
+      and shall succeed in the thing for which I sent it.
 
-Romans 1:16-17 (ESV) For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. 17 For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”
+Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.<sup> 17 </sup>For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
 -----
 
 ## Christ Calls Us By Giving Us New Hearts
 
-Luke 8:9-16 And when his disciples asked him what this parable meant, 10 he said, “To you it has been given to know the secrets of the kingdom of God, but for others they are in parables, so that ‘seeing they may not see, and hearing they may not understand.’ 11 Now the parable is this: The seed is the word of God. 12 The ones along the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. 13 And the ones on the rock are those who, when they hear the word, receive it with joy. But these have no root; they believe for a while, and in time of testing fall away. 14 And as for what fell among the thorns, they are those who hear, but as they go on their way they are choked by the cares and riches and pleasures of life, and their fruit does not mature. 15 As for that in the good soil, they are those who, hearing the word, hold it fast in an honest and good heart, and bear fruit with patience.
+Luke 8:9-15 (CSB) Then his disciples asked him, “What does this parable mean?”<sup> 10 </sup>So he said, “The secrets of the kingdom of God have been given for you to know, but to the rest it is in parables, so that
+    Looking they may not see,
+      and hearing they may not understand.
 
+<sup>11</sup> “This is the meaning of the parable: The seed is the word of God.<sup> 12 </sup>The seed along the path are those who have heard and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.<sup> 13 </sup>And the seed on the rock are those who, when they hear, receive the word with joy. Having no root, these believe for a while and fall away in a time of testing.<sup> 14 </sup>As for the seed that fell among thorns, these are the ones who, when they have heard, go on their way and are choked with worries, riches, and pleasures of life, and produce no mature fruit.<sup> 15 </sup>But the seed in the good ground—these are the ones who, having heard the word with an honest and good heart, hold on to it and by enduring, produce fruit.
+ 
 *What does God have to do in order for us to believe and trust in Him?*
 
-Ezekiel 36:25-27 (ESV) I will sprinkle clean water on you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you. 26 And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. 27 And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules.
+Ezekiel 36:25-27 (CSB) I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.<sup> 26 </sup>I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.<sup> 27 </sup>I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
 
 -----
 
 ## Christ Calls Us By Shining Into the Darkness
 
-Luke 8:16-18 “No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may see the light. 17 For nothing is hidden that will not be made manifest, nor is anything secret that will not be known and come to light. 18 Take care then how you hear, for to the one who has, more will be given, and from the one who has not, even what he thinks that he has will be taken away.”
+Luke 8:16-18 (CSB) “No one, after lighting a lamp, covers it with a basket or puts it under a bed, but puts it on a lampstand so that those who come in may see its light.<sup> 17 </sup>For nothing is concealed that won’t be revealed, and nothing hidden that won’t be made known and brought to light.<sup> 18 </sup>Therefore take care how you listen. For whoever has, more will be given to him; and whoever does not have, even what he thinks he has will be taken away from him.”
 
 *What happened when Christ became Man?*
 
-John 1:1-5 (ESV) In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was in the beginning with God. 3 All things were made through him, and without him was not any thing made that was made. 4 In him was life, and the life was the light of men. 5 The light shines in the darkness, and the darkness has not overcome it.
+John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God.<sup> 2 </sup>He was with God in the beginning.<sup> 3 </sup>All things were created through him, and apart from him not one thing was created that has been created.<sup> 4 </sup>In him was life, and that life was the light of men.<sup> 5 </sup>That light shines in the darkness, and yet the darkness did not overcome it.
 
 -----
 
 ## Christ Calls Us To Be Co-Heirs
 
-Luke 8:19-21 Then his mother and his brothers came to him, but they could not reach him because of the crowd. 20 And he was told, “Your mother and your brothers are standing outside, desiring to see you.” 21 But he answered them, “My mother and my brothers are those who hear the word of God and do it.”
+Luke 8:19-21 (CSB) Then his mother and brothers came to him, but they could not meet with him because of the crowd.<sup> 20 </sup>He was told, “Your mother and your brothers are standing outside, wanting to see you.”
+<sup> 21 </sup>But he replied to them, “My mother and my brothers are those who hear and do the word of God.”
 
 *If you believe and trust in Christ, then who is our Oldest Brother?*
 
-Romans 8:14-17 (ESV) For all who are led by the Spirit of God are sons of God. 15 For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” 16 The Spirit himself bears witness with our spirit that we are children of God, 17 and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons.<sup> 15 </sup>For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!”<sup> 16 </sup>The Spirit himself testifies together with our spirit that we are God’s children,<sup> 17 </sup>and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
 -----
 
 ## Christ Calls Us While We Are in the World 
 
-Luke 8:22-25 One day he got into a boat with his disciples, and he said to them, “Let us go across to the other side of the lake.” So they set out, 23 and as they sailed he fell asleep. And a windstorm came down on the lake, and they were filling with water and were in danger. 24 And they went and woke him, saying, “Master, Master, we are perishing!” And he awoke and rebuked the wind and the raging waves, and they ceased, and there was a calm. 25 He said to them, “Where is your faith?” And they were afraid, and they marveled, saying to one another, “Who then is this, that he commands even winds and water, and they obey him?”
+Luke 8:22-25 (CSB) One day he and his disciples got into a boat, and he told them, “Let’s cross over to the other side of the lake.” So they set out,<sup> 23 </sup>and as they were sailing he fell asleep. Then a fierce windstorm came down on the lake; they were being swamped and were in danger.<sup> 24 </sup>They came and woke him up, saying, “Master, Master, we’re going to die!”
+
+Then he got up and rebuked the wind and the raging waves. So they ceased, and there was a calm.<sup> 25 </sup>He said to them, “Where is your faith?”
+
+They were fearful and amazed, asking one another, “Who then is this? He commands even the winds and the waves, and they obey him!”
 
 *What is God in charge over?*
 
@@ -82,29 +92,39 @@ Luke 8:22-25 One day he got into a boat with his disciples, and he said to them,
 -----
 
 ## Christ Calls Us While We Are Under Attack
+Luke 8:26-39 (CSB) Then they sailed to the region of the Gerasenes, which is opposite Galilee.<sup> 27 </sup>When he got out on land, a demon-possessed man from the town met him. For a long time he had worn no clothes and did not stay in a house but in the tombs.<sup> 28 </sup>When he saw Jesus, he cried out, fell down before him, and said in a loud voice, “What do you have to do with me, Jesus, Son of the Most High God? I beg you, don’t torment me!”<sup> 29 </sup>For he had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was guarded, bound by chains and shackles, he would snap the restraints and be driven by the demon into deserted places.
 
-26 Then they sailed to the country of the Gerasenes, which is opposite Galilee. 27 When Jesus had stepped out on land, there met him a man from the city who had demons. For a long time he had worn no clothes, and he had not lived in a house but among the tombs. 28 When he saw Jesus, he cried out and fell down before him and said with a loud voice, “What have you to do with me, Jesus, Son of the Most High God? I beg you, do not torment me.” 29 For he had commanded the unclean spirit to come out of the man. (For many a time it had seized him. He was kept under guard and bound with chains and shackles, but he would break the bonds and be driven by the demon into the desert.) 30 Jesus then asked him, “What is your name?” And he said, “Legion,” for many demons had entered him. 31 And they begged him not to command them to depart into the abyss. 32 Now a large herd of pigs was feeding there on the hillside, and they begged him to let them enter these. So he gave them permission. 33 Then the demons came out of the man and entered the pigs, and the herd rushed down the steep bank into the lake and drowned.
+<sup>30 </sup>“What is your name?” Jesus asked him. “Legion,” he said, because many demons had entered him.<sup> 31 </sup>And they begged him not to banish them to the abyss.
 
-34 When the herdsmen saw what had happened, they fled and told it in the city and in the country. 35 Then people went out to see what had happened, and they came to Jesus and found the man from whom the demons had gone, sitting at the feet of Jesus, clothed and in his right mind, and they were afraid. 36 And those who had seen it told them how the demon-possessed man had been healed. 37 Then all the people of the surrounding country of the Gerasenes asked him to depart from them, for they were seized with great fear. So he got into the boat and returned. 38 The man from whom the demons had gone begged that he might be with him, but Jesus sent him away, saying, 39 “Return to your home, and declare how much God has done for you.” And he went away, proclaiming throughout the whole city how much Jesus had done for him.
+<sup>32 </sup>A large herd of pigs was there, feeding on the hillside. The demons begged him to permit them to enter the pigs, and he gave them permission.<sup> 33 </sup>The demons came out of the man and entered the pigs, and the herd rushed down the steep bank into the lake and drowned.
 
-*Who are the real enemies of God and his people? Is it unbelievers? Or is it something else?*
+<sup>34 </sup>When the men who tended them saw what had happened, they ran off and reported it in the town and in the countryside.<sup> 35 </sup>Then people went out to see what had happened. They came to Jesus and found the man the demons had departed from, sitting at Jesus’s feet, dressed and in his right mind. And they were afraid.<sup> 36 </sup>Meanwhile, the eyewitnesses reported to them how the demon-possessed man was delivered.<sup> 37 </sup>Then all the people of the Gerasene region asked him to leave them, because they were gripped by great fear. So getting into the boat, he returned.
 
-Ephesians 6:10-12 (ESV) Finally, be strong in the Lord and in the strength of his might. 11 Put on the whole armor of God, that you may be able to stand against the schemes of the devil. 12 For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.
+<sup>38 </sup>The man from whom the demons had departed begged him earnestly to be with him. But he sent him away and said,<sup> 39 </sup>“Go back to your home, and tell all that God has done for you.” And off he went, proclaiming throughout the town how much Jesus had done for him.
+
+*Does Christ waits until we fix our lives before accepting us into His life?*
 
 -----
 
 ## Christ Calls Us Out of Disease and Death
+Luke 8:40-56 (CSB) When Jesus returned, the crowd welcomed him, for they were all expecting him.<sup> 41 </sup>Just then, a man named Jairus came. He was a leader of the synagogue. He fell down at Jesus’s feet and pleaded with him to come to his house,<sup> 42 </sup>because he had an only daughter about twelve years old, and she was dying.
+While he was going, the crowds were nearly crushing him.<sup> 43 </sup>A woman suffering from bleeding for twelve years, who had spent all she had on doctors and yet could not be healed by any,<sup> 44 </sup>approached from behind and touched the end of his robe. Instantly her bleeding stopped.
 
-40 Now when Jesus returned, the crowd welcomed him, for they were all waiting for him. 41 And there came a man named Jairus, who was a ruler of the synagogue. And falling at Jesus' feet, he implored him to come to his house, 42 for he had an only daughter, about twelve years of age, and she was dying.
+<sup>45 </sup>“Who touched me?” Jesus asked.
+When they all denied it, Peter said, “Master, the crowds are hemming you in and pressing against you.”
 
-As Jesus went, the people pressed around him. 43 And there was a woman who had had a discharge of blood for twelve years, and though she had spent all her living on physicians, she could not be healed by anyone. 44 She came up behind him and touched the fringe of his garment, and immediately her discharge of blood ceased. 45 And Jesus said, “Who was it that touched me?” When all denied it, Peter said, “Master, the crowds surround you and are pressing in on you!” 46 But Jesus said, “Someone touched me, for I perceive that power has gone out from me.” 47 And when the woman saw that she was not hidden, she came trembling, and falling down before him declared in the presence of all the people why she had touched him, and how she had been immediately healed. 48 And he said to her, “Daughter, your faith has made you well; go in peace.”
+<sup>46 </sup>“Someone did touch me,” said Jesus. “I know that power has gone out from me.”<sup> 47 </sup>When the woman saw that she was discovered, she came trembling and fell down before him. In the presence of all the people, she declared the reason she had touched him and how she was instantly healed.<sup> 48 </sup>“Daughter,” he said to her, “your faith has saved you. Go in peace.”
 
-49 While he was still speaking, someone from the ruler's house came and said, “Your daughter is dead; do not trouble the Teacher any more.” 50 But Jesus on hearing this answered him, “Do not fear; only believe, and she will be well.” 51 And when he came to the house, he allowed no one to enter with him, except Peter and John and James, and the father and mother of the child. 52 And all were weeping and mourning for her, but he said, “Do not weep, for she is not dead but sleeping.” 53 And they laughed at him, knowing that she was dead. 54 But taking her by the hand he called, saying, “Child, arise.” 55 And her spirit returned, and she got up at once. And he directed that something should be given her to eat. 56 And her parents were amazed, but he charged them to tell no one what had happened.
+<sup>49 </sup>While he was still speaking, someone came from the synagogue leader’s house and said, “Your daughter is dead. Don’t bother the teacher anymore.”
+
+<sup>50 </sup>When Jesus heard it, he answered him, “Don’t be afraid. Only believe, and she will be saved.”<sup> 51 </sup>After he came to the house, he let no one enter with him except Peter, John, James, and the child’s father and mother.<sup> 52 </sup>Everyone was crying and mourning for her. But he said, “Stop crying, because she is not dead but asleep.”
+
+<sup>53 </sup>They laughed at him, because they knew she was dead.<sup> 54 </sup>So he took her by the hand and called out, “Child, get up!”<sup> 55 </sup>Her spirit returned, and she got up at once. Then he gave orders that she be given something to eat.<sup> 56 </sup>Her parents were astounded, but he instructed them to tell no one what had happened.
 
 *What happened when sin entered into the world? What happened when Christ entered into the world?*
 
-Romans 5:12-21 (ESV) Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned— 13 for sin indeed was in the world before the law was given, but sin is not counted where there is no law. 14 Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.
+Romans 5:12-21 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.<sup> 13 </sup>In fact, sin was in the world before the law, but sin is not charged to a person’s account when there is no law.<sup> 14 </sup>Nevertheless, death reigned from Adam to Moses, even over those who did not sin in the likeness of Adam’s transgression. He is a type of the Coming One.
 
-15 But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many. 16 And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification. 17 For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ.
+<sup>15 </sup>But the gift is not like the trespass. For if by the one man’s trespass the many died, how much more have the grace of God and the gift which comes through the grace of the one man Jesus Christ overflowed to the many.<sup> 16 </sup>And the gift is not like the one man’s sin, because from one sin came the judgment, resulting in condemnation, but from many trespasses came the gift, resulting in justification.<sup> 17 </sup>If by the one man’s trespass, death reigned through that one man, how much more will those who receive the overflow of grace and the gift of righteousness reign in life through the one man, Jesus Christ.
 
-18 Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. 19 For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous. 20 Now the law came in to increase the trespass, but where sin increased, grace abounded all the more, 21 so that, as sin reigned in death, grace also might reign through righteousness leading to eternal life through Jesus Christ our Lord.
+<sup>18 </sup>So then, as through one trespass there is condemnation for everyone, so also through one righteous act there is justification leading to life for everyone.<sup> 19 </sup>For just as through one man’s disobedience the many were made sinners, so also through the one man’s obedience the many will be made righteous.<sup> 20 </sup>The law came along to multiply the trespass. But where sin multiplied, grace multiplied even more<sup> 21 </sup>so that, just as sin reigned in death, so also grace will reign through righteousness, resulting in eternal life through Jesus Christ our Lord.

@@ -41,7 +41,7 @@ John 6:66–69 (CSB) From that moment many of his disciples turned back and no l
 
 ## Christ is Lord of Our Bodies
 
-Luke 5:12-16 While he was in one of the cities, there came a man full of leprosy. And when he saw Jesus, he fell on his face and begged him, “Lord, if you will, you can make me clean.” 13 And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately the leprosy left him. 14 And he charged him to tell no one, but “go and show yourself to the priest, and make an offering for your cleansing, as Moses commanded, for a proof to them.” 15 But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities. 16 But he would withdraw to desolate places and pray.
+Luke 5:12-16 While he was in one of the cities, there came a man full of leprosy. And when he saw Jesus, he fell on his face and begged him, “Lord, if you will, you can make me clean.”<sup><sup> 13 </sup></sup>And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately the leprosy left him.<sup><sup> 14 </sup></sup>And he charged him to tell no one, but “go and show yourself to the priest, and make an offering for your cleansing, as Moses commanded, for a proof to them.”<sup><sup> 15 </sup></sup>But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities.<sup><sup> 16 </sup></sup>But he would withdraw to desolate places and pray.
 
 *Does the God who created us would be in charge over us? Why or why not?*
 
@@ -49,7 +49,7 @@ Luke 5:12-16 While he was in one of the cities, there came a man full of leprosy
 
 ## Christ is Lord of Faith
 
-Luke 5:17-20 On one of those days, as he was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was with him to heal. 18 And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before Jesus, 19 but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before Jesus. 20 And when he saw their faith, he said, “Man, your sins are forgiven you.”
+Luke 5:17-20 On one of those days, as he was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was with him to heal.<sup><sup> 18 </sup></sup>And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before Jesus,<sup><sup> 19 </sup></sup>but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before Jesus.<sup><sup> 20 </sup></sup>And when he saw their faith, he said, “Man, your sins are forgiven you.”
 
 Romans 1:16–17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: "The righteous will live by faith."
 
@@ -67,7 +67,7 @@ Hebrews 12:1–2 (CSB) Therefore, since we also have such a large cloud of witne
 
 ## Christ is Lord Who Forgives Sins
 
-Luke 5:21-26 And the scribes and the Pharisees began to question, saying, “Who is this who speaks blasphemies? Who can forgive sins but God alone?” 22 When Jesus perceived their thoughts, he answered them, “Why do you question in your hearts? 23 Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Rise and walk’? 24 But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the man who was paralyzed—“I say to you, rise, pick up your bed and go home.” 25 And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God. 26 And amazement seized them all, and they glorified God and were filled with awe, saying, “We have seen extraordinary things today.”
+Luke 5:21-26 And the scribes and the Pharisees began to question, saying, “Who is this who speaks blasphemies? Who can forgive sins but God alone?”<sup><sup> 22 </sup></sup>When Jesus perceived their thoughts, he answered them, “Why do you question in your hearts?<sup><sup> 23 </sup></sup>Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Rise and walk’?<sup><sup> 24 </sup></sup>But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the man who was paralyzed—“I say to you, rise, pick up your bed and go home.”<sup><sup> 25 </sup></sup>And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God.<sup><sup> 26 </sup></sup>And amazement seized them all, and they glorified God and were filled with awe, saying, “We have seen extraordinary things today.”
 
 *When you sin, do you run away from God or run to the God who forgives you and cleanses you of your sin?*
 
@@ -77,7 +77,7 @@ Luke 5:21-26 And the scribes and the Pharisees began to question, saying, “Who
 
 ## Christ is Lord of Vocation
 
-Luke 5:27-28 After this he went out and saw a tax collector named Levi, sitting at the tax booth. And he said to him, “Follow me.” 28 And leaving everything, he rose and followed him.
+Luke 5:27-28 After this he went out and saw a tax collector named Levi, sitting at the tax booth. And he said to him, “Follow me.”<sup><sup> 28 </sup></sup>And leaving everything, he rose and followed him.
 
 *What is success? What is happiness?*
 
@@ -87,7 +87,7 @@ Luke 5:27-28 After this he went out and saw a tax collector named Levi, sitting 
 
 ## Christ is Lord of Righteousness
 
-Luke 5:29 And Levi made him a great feast in his house, and there was a large company of tax collectors and others reclining at table with them. 30 And the Pharisees and their scribes grumbled at his disciples, saying, “Why do you eat and drink with tax collectors and sinners?” 31 And Jesus answered them, “Those who are well have no need of a physician, but those who are sick. 32 I have not come to call the righteous but sinners to repentance.”
+Luke 5:29 And Levi made him a great feast in his house, and there was a large company of tax collectors and others reclining at table with them.<sup><sup> 30 </sup></sup>And the Pharisees and their scribes grumbled at his disciples, saying, “Why do you eat and drink with tax collectors and sinners?”<sup><sup> 31 </sup></sup>And Jesus answered them, “Those who are well have no need of a physician, but those who are sick.<sup><sup> 32 </sup></sup>I have not come to call the righteous but sinners to repentance.”
 
 Isaiah 64:6 (CSB) All of us have become like something unclean, and all our righteous acts are like a polluted garment; all of us wither like a leaf, and our iniquities carry us away like the wind.
 
@@ -101,7 +101,7 @@ Isaiah 64:6 (CSB) All of us have become like something unclean, and all our righ
 
 ## Christ is the Lord of the Church
 
-Luke 5:33 And they said to him, “The disciples of John fast often and offer prayers, and so do the disciples of the Pharisees, but yours eat and drink.” 34 And Jesus said to them, “Can you make wedding guests fast while the bridegroom is with them? 35 The days will come when the bridegroom is taken away from them, and then they will fast in those days.”
+Luke 5:33 And they said to him, “The disciples of John fast often and offer prayers, and so do the disciples of the Pharisees, but yours eat and drink.”<sup><sup> 34 </sup></sup>And Jesus said to them, “Can you make wedding guests fast while the bridegroom is with them?<sup><sup> 35 </sup></sup>The days will come when the bridegroom is taken away from them, and then they will fast in those days.”
 
 Ephesians 5:22–33 (CSB) Wives, submit to your husbands as to the Lord,  because the husband is the head of the wife as Christ is the head of the church. He is the Savior of the body.  Now as the church submits to Christ, so also wives are to submit to their husbands in everything.  Husbands, love your wives, just as Christ loved the church and gave himself for her  to make her holy, cleansing her with the washing of water by the word.  He did this to present the church to himself in splendor, without spot or wrinkle or anything like that, but holy and blameless.  In the same way, husbands are to love their wives as their own bodies. He who loves his wife loves himself.  For no one ever hates his own flesh but provides and cares for it, just as Christ does for the church,  since we are members of his body.  For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.  This mystery is profound, but I am talking about Christ and the church.  To sum up, each one of you is to love his wife as himself, and the wife is to respect her husband.
 
@@ -119,8 +119,8 @@ Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multi
 
 ## Christ is the Lord of Making All Things New
 
-Luke 5:36 He also told them a parable: “No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old. 37 And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed. 38 But new wine must be put into fresh wineskins. 39 And no one after drinking old wine desires new, for he says, ‘The old is good.’ ”
-
-2 Corinthians 5:16–21 (CSB) From now on, then, we do not know anyone from a worldly perspective. Even if we have known Christ from a worldly perspective, yet now we no longer know him in this way.  Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come!  Everything is from God, who has reconciled us to himself through Christ and has given us the ministry of reconciliation.  That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and he has committed the message of reconciliation to us.  Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.”  He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+Luke 5:36 He also told them a parable: “No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old.<sup><sup> 37 </sup></sup>And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed.<sup><sup> 38 </sup></sup>But new wine must be put into fresh wineskins.<sup><sup> 39 </sup></sup>And no one after drinking old wine desires new, for he says, ‘The old is good.’ ”
+<sup><sup>
+2 </sup></sup>Corinthians 5:16–21 (CSB) From now on, then, we do not know anyone from a worldly perspective. Even if we have known Christ from a worldly perspective, yet now we no longer know him in this way.  Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come!  Everything is from God, who has reconciled us to himself through Christ and has given us the ministry of reconciliation.  That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and he has committed the message of reconciliation to us.  Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.”  He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
 *Why does Christ have to make us new in Him? What does that even mean?*

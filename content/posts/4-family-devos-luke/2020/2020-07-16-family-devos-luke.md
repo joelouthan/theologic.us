@@ -20,7 +20,7 @@ Luke 6:20 (CSB) Then looking up at his disciples, he said:
 
 *What do you think Christ meant by poor?*
 
-Luke 17:5–6 (CSB) The apostles said to the Lord, “Increase our faith.” 6 “If you have faith the size of a mustard seed,” the Lord said, “you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.
+Luke 17:5–6 (CSB) The apostles said to the Lord, “Increase our faith.”<sup> 6 </sup>“If you have faith the size of a mustard seed,” the Lord said, “you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.
 
 Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
@@ -42,11 +42,11 @@ Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, bu
     For this reason they are before the throne of God, 
     and they serve him day and night in his temple. 
     The one seated on the throne will shelter them: 
-    16 They will no longer hunger; 
+   <sup> 16 </sup>They will no longer hunger; 
     they will no longer thirst; 
     the sun will no longer strike them, 
     nor will any scorching heat. 
-    17 For the Lamb who is at the center of the throne 
+   <sup> 17 </sup>For the Lamb who is at the center of the throne 
     will shepherd them; 
     he will guide them to springs of the waters of life, 
     and God will wipe away every tear from their eyes.
@@ -106,13 +106,13 @@ Romans 12:14 (CSB) Bless those who persecute you; bless and do not curse.
     you will bear children with painful effort. 
     Your desire will be for your husband, 
     yet he will rule over you. 
-    17 And he said to the man, “Because you listened to your wife and ate from the tree about which I commanded you, ‘Do not eat from it’: 
+   <sup> 17 </sup>And he said to the man, “Because you listened to your wife and ate from the tree about which I commanded you, ‘Do not eat from it’: 
     The ground is cursed because of you. 
     You will eat from it by means of painful labor 
     all the days of your life. 
-    18 It will produce thorns and thistles for you, 
+   <sup> 18 </sup>It will produce thorns and thistles for you, 
     and you will eat the plants of the field. 
-    19 You will eat bread by the sweat of your brow 
+   <sup> 19 </sup>You will eat bread by the sweat of your brow 
     until you return to the ground, 
     since you were taken from it. 
     For you are dust, 
@@ -131,7 +131,7 @@ Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal 
 ### Woe to Those Who Are Comforted Not in God
 
     Luke 6:24 (CSB)
-    24 But woe to you who are rich, 
+   <sup> 24 </sup>But woe to you who are rich, 
     for you have received your comfort. 
 
 *Where does all of our money come from?*
@@ -144,7 +144,7 @@ Matthew 5:45 (CSB) so that you may be children of your Father in heaven. For he 
     Keep falsehood and deceitful words far from me. 
     Give me neither poverty nor wealth; 
     feed me with the food I need. 
-    9 Otherwise, I might have too much 
+   <sup> 9 </sup>Otherwise, I might have too much 
     and deny you, saying, “Who is the LORD?” 
     or I might have nothing and steal, 
     profaning the name of my God.
@@ -156,15 +156,15 @@ Matthew 5:45 (CSB) so that you may be children of your Father in heaven. For he 
 ### Woe to Those Who Are Filled Not By God
 
     Luke 6:25a (CSB)
-    25 Woe to you who are now full, 
+   <sup> 25 </sup>Woe to you who are now full, 
     for you will be hungry. 
 
     Psalm 22:26 (CSB)
     The humble will eat and be satisfied; 
     those who seek the LORD will praise him. 
     May your hearts live forever!
-
-1 Peter 5:6 (CSB) Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you at the proper time,
+<sup>
+1 </sup>Peter 5:6 (CSB) Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you at the proper time,
 
 Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
@@ -198,7 +198,7 @@ Romans 8:30 (CSB) And those he predestined, he also called; and those he called,
 ### Woe to Those Who Say Things That God Didn't Say
 
     Luke 6:26 (CSB)
-    26 Woe to you 
+   <sup> 26 </sup>Woe to you 
     when all people speak well of you,  
     for this is the way their ancestors
     used to treat the false prophets.
@@ -212,6 +212,6 @@ Romans 8:30 (CSB) And those he predestined, he also called; and those he called,
 *Why do we not say things that God did not say? Why is that so important?*
 
 *If we lie, does that bring death to others or life to others?*
-
-2 Corinthians 2:15–17 (CSB) For to God we are the fragrance of Christ among those who are being saved and among those who are perishing. 16 To some we are an aroma of death leading to death, but to others, an aroma of life leading to life. Who is adequate for these things? 17 For we do not market the word of God for profit like so many. On the contrary, we speak with sincerity in Christ, as from God and before God.
+<sup>
+2 </sup>Corinthians 2:15–17 (CSB) For to God we are the fragrance of Christ among those who are being saved and among those who are perishing.<sup> 16 </sup>To some we are an aroma of death leading to death, but to others, an aroma of life leading to life. Who is adequate for these things?<sup> 17 </sup>For we do not market the word of God for profit like so many. On the contrary, we speak with sincerity in Christ, as from God and before God.
 
