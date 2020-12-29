@@ -1,5 +1,5 @@
 ---
-title: 'Luke '
+title: 'Luke 10'
 author: Joseph Louthan
 type: post
 publishDate: 2021-01-07

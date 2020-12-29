@@ -15,27 +15,31 @@ draft: false
 
 ## Christ Calls Us to Proclaim
 
-Luke 9:1 And he called the twelve together and gave them power and authority over all demons and to cure diseases,<sup> 2 </sup>and he sent them out to proclaim the kingdom of God and to heal.<sup> 3 </sup>And he said to them, “Take nothing for your journey, no staff, nor bag, nor bread, nor money; and do not have two tunics.<sup> 4 </sup>And whatever house you enter, stay there, and from there depart.<sup> 5 </sup>And wherever they do not receive you, when you leave that town shake off the dust from your feet as a testimony against them.”<sup> 6 </sup>And they departed and went through the villages, preaching the gospel and healing everywhere.
+Luke 9:1–6 (CSB) Summoning the Twelve, he gave them power and authority over all the demons and to heal diseases.  Then he sent them to proclaim the kingdom of God and to heal the sick.
+
+“Take nothing for the road,” he told them, “no staff, no traveling bag, no bread, no money; and don’t take an extra shirt.  Whatever house you enter, stay there and leave from there.  If they do not welcome you, when you leave that town, shake off the dust from your feet as a testimony against them.”  So they went out and traveled from village to village, proclaiming the good news and healing everywhere.
 
 *When is the Kingdom of God going to arrive?*
 
 *What has God asked his followers to go and do?*
 
-Matthew 28:16–20 (ESV) Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.  And when they saw him they worshiped him, but some doubted.  And Jesus came and said to them, “All authority in heaven and on earth has been given to me.  Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,  teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”
+Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them.  When they saw him, they worshiped, but some doubted.  Jesus came near and said to them, “All authority has been given to me in heaven and on earth.  Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,  teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”
 
-Mark 16:14–20 (ESV) Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen.  And he said to them, “Go into all the world and proclaim the gospel to the whole creation.  Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.  And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues;  they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover.”
+Mark 16:14–20 (CSB) Later he appeared to the Eleven themselves as they were reclining at the table. He rebuked their unbelief and hardness of heart, because they did not believe those who saw him after he had risen.  Then he said to them, “Go into all the world and preach the gospel to all creation.  Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.  And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;  they will pick up snakes; if they should drink anything deadly, it will not harm them; they will lay hands on the sick, and they will get well.”
 
-So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God.  And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.
+So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God.  And they went out and preached everywhere, while the Lord worked with them and confirmed the word by the accompanying signs.]
 
-Luke 24:44–49 (ESV) Then he said to them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.”  Then he opened their minds to understand the Scriptures,  and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead,  and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.  You are witnesses of these things.  And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.”
+Luke 24:44–49 (CSB) He told them, “These are my words that I spoke to you while I was still with you—that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”  Then he opened their minds to understand the Scriptures.  He also said to them, “This is what is written: The Messiah will suffer and rise from the dead the third day,  and repentance for forgiveness of sins will be proclaimed in his name to all the nations, beginning at Jerusalem.  You are witnesses of these things.  And look, I am sending you what my Father promised. As for you, stay in the city until you are empowered from on high.”
 
-Acts 1:6–8 (ESV) So when they had come together, they asked him, “Lord, will you at this time restore the kingdom to Israel?”  He said to them, “It is not for you to know times or seasons that the Father has fixed by his own authority.  But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.”
+Acts 1:6–8 (CSB) So when they had come together, they asked him, “Lord, are you restoring the kingdom to Israel at this time?”
+
+He said to them, “It is not for you to know times or periods that the Father has set by his own authority.  But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 
 ------
 
 ## Christ Call Us to Absolute Truth
 
-Luke 9:7 Now Herod the tetrarch heard about all that was happening, and he was perplexed, because it was said by some that John had been raised from the dead,<sup> 8 </sup>by some that Elijah had appeared, and by others that one of the prophets of old had risen.<sup> 9 </sup>Herod said, “John I beheaded, but who is this about whom I hear such things?” And he sought to see him.
+Luke 9:7–9 (CSB) Herod the tetrarch heard about everything that was going on. He was perplexed, because some said that John had been raised from the dead,  some that Elijah had appeared, and others that one of the ancient prophets had risen.  “I beheaded John,” Herod said, “but who is this I hear such things about?” And he wanted to see him.
 
 *Who is the Christ? Was John the Baptist the Christ?*
 
@@ -45,7 +49,9 @@ Luke 9:7 Now Herod the tetrarch heard about all that was happening, and he was p
 
 ## Christ Calls Us to Utterly Depend on Him
 
-Luke 9:10 On their return the apostles told him all that they had done. And he took them and withdrew apart to a town called Bethsaida.<sup> 11 </sup>When the crowds learned it, they followed him, and he welcomed them and spoke to them of the kingdom of God and cured those who had need of healing.<sup> 12 </sup>Now the day began to wear away, and the twelve came and said to him, “Send the crowd away to go into the surrounding villages and countryside to find lodging and get provisions, for we are here in a desolate place.”<sup> 13 </sup>But he said to them, “You give them something to eat.” They said, “We have no more than five loaves and two fish—unless we are to go and buy food for all these people.”<sup> 14 </sup>For there were about five thousand men. And he said to his disciples, “Have them sit down in groups of about fifty each.”<sup> 15 </sup>And they did so, and had them all sit down.<sup> 16 </sup>And taking the five loaves and the two fish, he looked up to heaven and said a blessing over them. Then he broke the loaves and gave them to the disciples to set before the crowd.<sup> 17 </sup>And they all ate and were satisfied. And what was left over was picked up, twelve baskets of broken pieces.
+Luke 9:10–17 (CSB) When the apostles returned, they reported to Jesus all that they had done. He took them along and withdrew privately to a town called Bethsaida.  When the crowds found out, they followed him. He welcomed them, spoke to them about the kingdom of God, and healed those who needed healing.  Late in the day, the Twelve approached and said to him, “Send the crowd away, so that they can go into the surrounding villages and countryside to find food and lodging, because we are in a deserted place here.”  “You give them something to eat,” he told them. “We have no more than five loaves and two fish,” they said, “unless we go and buy food for all these people.”  (For about five thousand men were there.)
+
+Then he told his disciples, “Have them sit down in groups of about fifty each.”  They did what he said, and had them all sit down.  Then he took the five loaves and the two fish, and looking up to heaven, he blessed and broke them. He kept giving them to the disciples to set before the crowd.  Everyone ate and was filled. They picked up twelve baskets of leftover pieces.
 
 *Where does our home, food, money, possessions come from?*
 
@@ -55,7 +61,9 @@ Luke 9:10 On their return the apostles told him all that they had done. And he t
 
 ## Christ Calls Us to Worship God
 
-Luke 9:18 Now it happened that as he was praying alone, the disciples were with him. And he asked them, “Who do the crowds say that I am?”<sup> 19 </sup>And they answered, “John the Baptist. But others say, Elijah, and others, that one of the prophets of old has risen.”<sup> 20 </sup>Then he said to them, “But who do you say that I am?” And Peter answered, “The Christ of God.”
+Luke 9:18–20 (CSB) While he was praying in private and his disciples were with him, he asked them, “Who do the crowds say that I am?”  They answered, “John the Baptist; others, Elijah; still others, that one of the ancient prophets has come back.”  “But you,” he asked them, “who do you say that I am?”
+
+    Peter answered, “God’s Messiah.”
 
 *What are we to do if Jesus is God? Should we pay attention to his words and his actions? Should we obey Him as God?*
 
@@ -63,19 +71,19 @@ Luke 9:18 Now it happened that as he was praying alone, the disciples were with 
 
 ## Christ Calls Us to Give Up Sin
 
-Luke 9:21 And he strictly charged and commanded them to tell this to no one,<sup> 22 </sup>saying, “The Son of Man must suffer many things and be rejected by the elders and chief priests and scribes, and be killed, and on the third day be raised.”
+Luke 9:21–22 (CSB) But he strictly warned and instructed them to tell this to no one,  saying, “It is necessary that the Son of Man suffer many things and be rejected by the elders, chief priests, and scribes, be killed, and be raised the third day.”
 
 *Why did Christ have to die?*
-<sup>
-2 </sup>Corinthians 5:21 (ESV) For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 
-Matthew 1:21 (ESV) She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
+2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
 ------
 
 ## Christ Calls Us to Take Up Our Cross
 
-Luke 9:23 And he said to all, “If anyone would come after me, let him deny himself and take up his cross daily and follow me.<sup> 24 </sup>For whoever would save his life will lose it, but whoever loses his life for my sake will save it.<sup> 25 </sup>For what does it profit a man if he gains the whole world and loses or forfeits himself?<sup> 26 </sup>For whoever is ashamed of me and of my words, of him will the Son of Man be ashamed when he comes in his glory and the glory of the Father and of the holy angels.<sup> 27 </sup>But I tell you truly, there are some standing here who will not taste death until they see the kingdom of God.”
+Luke 9:23–27 (CSB) Then he said to them all, “If anyone wants to follow after me, let him deny himself, take up his cross daily, and follow me.  For whoever wants to save his life will lose it, but whoever loses his life because of me will save it.  For what does it benefit someone if he gains the whole world, and yet loses or forfeits himself?  For whoever is ashamed of me and my words, the Son of Man will be ashamed of him when he comes in his glory and that of the Father and the holy angels.  Truly I tell you, there are some standing here who will not taste death until they see the kingdom of God.”
 
 *What does it mean to take up our cross?*
 
@@ -83,11 +91,15 @@ Luke 9:23 And he said to all, “If anyone would come after me, let him deny him
 
 ## Christ Calls Us to Glory
 
-Luke 9:28 Now about eight days after these sayings he took with him Peter and John and James and went up on the mountain to pray.<sup> 29 </sup>And as he was praying, the appearance of his face was altered, and his clothing became dazzling white.<sup> 30 </sup>And behold, two men were talking with him, Moses and Elijah,<sup> 31 </sup>who appeared in glory and spoke of his departure, which he was about to accomplish at Jerusalem.<sup> 32 </sup>Now Peter and those who were with him were heavy with sleep, but when they became fully awake they saw his glory and the two men who stood with him.<sup> 33 </sup>And as the men were parting from him, Peter said to Jesus, “Master, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah”—not knowing what he said.<sup> 34 </sup>As he was saying these things, a cloud came and overshadowed them, and they were afraid as they entered the cloud.<sup> 35 </sup>And a voice came out of the cloud, saying, “This is my Son, my Chosen One; listen to him!”<sup> 36 </sup>And when the voice had spoken, Jesus was found alone. And they kept silent and told no one in those days anything of what they had seen.
+Luke 9:28–36 (CSB) About eight days after this conversation, he took along Peter, John, and James and went up on the mountain to pray.  As he was praying, the appearance of his face changed, and his clothes became dazzling white.  Suddenly, two men were talking with him—Moses and Elijah.  They appeared in glory and were speaking of his departure, which he was about to accomplish in Jerusalem.  Peter and those with him were in a deep sleep, and when they became fully awake, they saw his glory and the two men who were standing with him.  As the two men were departing from him, Peter said to Jesus, “Master, it’s good for us to be here. Let’s set up three shelters: one for you, one for Moses, and one for Elijah”—not knowing what he was saying.  
 
-John 1:14 (ESV) And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.
+While he was saying this, a cloud appeared and overshadowed them. They became afraid as they entered the cloud.  Then a voice came from the cloud, saying, “This is my Son, the Chosen One; listen to him!”  
 
-Romans 8:30 (ESV) And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
+After the voice had spoken, Jesus was found alone. They kept silent, and at that time told no one what they had seen.
+
+John 1:14 (CSB) The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
+
+Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
 *If we are predestined, called, and justified in the sight of God, what does it mean when God promises to 'glorify' us?*
 
@@ -95,13 +107,13 @@ Romans 8:30 (ESV) And those whom he predestined he also called, and those whom h
 
 ## Christ Calls Us to Freedom
 
-Luke 9:37 On the next day, when they had come down from the mountain, a great crowd met him.<sup> 38 </sup>And behold, a man from the crowd cried out, “Teacher, I beg you to look at my son, for he is my only child.<sup> 39 </sup>And behold, a spirit seizes him, and he suddenly cries out. It convulses him so that he foams at the mouth, and shatters him, and will hardly leave him.<sup> 40 </sup>And I begged your disciples to cast it out, but they could not.”<sup> 41 </sup>Jesus answered, “O faithless and twisted generation, how long am I to be with you and bear with you? Bring your son here.”<sup> 42 </sup>While he was coming, the demon threw him to the ground and convulsed him. But Jesus rebuked the unclean spirit and healed the boy, and gave him back to his father.<sup> 43 </sup>And all were astonished at the majesty of God.
+Luke 9:37–43a (CSB) The next day, when they came down from the mountain, a large crowd met him.  Just then a man from the crowd cried out, “Teacher, I beg you to look at my son, because he’s my only child.  A spirit seizes him; suddenly he shrieks, and it throws him into convulsions until he foams at the mouth; severely bruising him, it scarcely ever leaves him.  I begged your disciples to drive it out, but they couldn’t.”  Jesus replied, “You unbelieving and perverse generation, how long will I be with you and put up with you? Bring your son here.”  As the boy was still approaching, the demon knocked him down and threw him into severe convulsions. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father.  And they were all astonished at the greatness of God.
 
-Colossians 1:13-14 (ESV) He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son,<sup> 14 </sup>in whom we have redemption, the forgiveness of sins.
+Colossians 1:13–14 (CSB) He has rescued us from the domain of darkness and transferred us into the kingdom of the Son he loves.  In him we have redemption, the forgiveness of sins.
 
-Colossians 2:13-15 (ESV) And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses,<sup> 14 </sup>by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross.<sup> 15 </sup>He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him.
+Colossians 2:13–15 (CSB) And when you were dead in trespasses and in the uncircumcision of your flesh, he made you alive with him and forgave us all our trespasses.  He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross.  He disarmed the rulers and authorities and disgraced them publicly; he triumphed over them in him.
 
-Romans 8:20-21 (ESV) For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope<sup> 21 </sup>that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God.
+Romans 8:20–21 (CSB) For the creation was subjected to futility—not willingly, but because of him who subjected it—in the hope  that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.
 
 *What does it mean to be truly free if we are in Christ?*
 
@@ -109,11 +121,11 @@ Romans 8:20-21 (ESV) For the creation was subjected to futility, not willingly, 
 
 ## Christ Calls Us to Believe
 
-Luke 9:43b But while they were all marveling at everything he was doing, Jesus said to his disciples,<sup> 44 </sup>“Let these words sink into your ears: The Son of Man is about to be delivered into the hands of men.”<sup> 45 </sup>But they did not understand this saying, and it was concealed from them, so that they might not perceive it. And they were afraid to ask him about this saying.
+Luke 9:43b–45 (CSB) While everyone was amazed at all the things he was doing, he told his disciples,  “Let these words sink in: The Son of Man is about to be betrayed into the hands of men.”  But they did not understand this statement; it was concealed from them so that they could not grasp it, and they were afraid to ask him about it.
 
-John 6:60-71 (ESV) When many of his disciples heard it, they said, “This is a hard saying; who can listen to it?”<sup> 61 </sup>But Jesus, knowing in himself that his disciples were grumbling about this, said to them, “Do you take offense at this?<sup> 62 </sup>Then what if you were to see the Son of Man ascending to where he was before?<sup> 63 </sup>It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life.<sup> 64 </sup>But there are some of you who do not believe.” (For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him.)<sup> 65 </sup>And he said, “This is why I told you that no one can come to me unless it is granted him by the Father.”
-<sup>
-66 </sup>After this many of his disciples turned back and no longer walked with him.<sup> 67 </sup>So Jesus said to the twelve, “Do you want to go away as well?”<sup> 68 </sup>Simon Peter answered him, “Lord, to whom shall we go? You have the words of eternal life,<sup> 69 </sup>and we have believed, and have come to know, that you are the Holy One of God.”<sup> 70 </sup>Jesus answered them, “Did I not choose you, the twelve? And yet one of you is a devil.”<sup> 71 </sup>He spoke of Judas the son of Simon Iscariot, for he, one of the twelve, was going to betray him.
+John 6:60–71 (CSB) Therefore, when many of his disciples heard this, they said, “This teaching is hard. Who can accept it?”  Jesus, knowing in himself that his disciples were grumbling about this, asked them, “Does this offend you?  Then what if you were to observe the Son of Man ascending to where he was before?  The Spirit is the one who gives life. The flesh doesn’t help at all. The words that I have spoken to you are spirit and are life.  But there are some among you who don’t believe.” (For Jesus knew from the beginning those who did not believe and the one who would betray him.)  He said, “This is why I told you that no one can come to me unless it is granted to him by the Father.”
+
+From that moment many of his disciples turned back and no longer accompanied him.  So Jesus said to the Twelve, “You don’t want to go away too, do you?”  Simon Peter answered, “Lord, to whom will we go? You have the words of eternal life.  We have come to believe and know that you are the Holy One of God.”  Jesus replied to them, “Didn’t I choose you, the Twelve? Yet one of you is a devil.”  He was referring to Judas, Simon Iscariot’s son, one of the Twelve, because he was going to betray him.
 
 *Christ has hard sayings.  How can we believe His words?*
 
@@ -121,22 +133,50 @@ John 6:60-71 (ESV) When many of his disciples heard it, they said, “This is a 
 
 ## Christ Calls Us to Our Proper Place
 
-Luke 9:46 An argument arose among them as to which of them was the greatest.<sup> 47 </sup>But Jesus, knowing the reasoning of their hearts, took a child and put him by his side<sup> 48 </sup>and said to them, “Whoever receives this child in my name receives me, and whoever receives me receives him who sent me. For he who is least among you all is the one who is great.”
+Luke 9:46–48 (CSB) An argument started among them about who was the greatest of them.  But Jesus, knowing their inner thoughts, took a little child and had him stand next to him.  He told them, “Whoever welcomes this little child in my name welcomes me. And whoever welcomes me welcomes him who sent me. For whoever is least among you—this one is great.”
+
+James 4:6–10 (CSB) But he gives greater grace. Therefore he says: God resists the proud but gives grace to the humble.  Therefore, submit to God. Resist the devil, and he will flee from you.  Draw near to God, and he will draw near to you. Cleanse your hands, sinners, and purify your hearts, you double-minded.  Be miserable and mourn and weep. Let your laughter be turned to mourning and your joy to gloom.  Humble yourselves before the Lord, and he will exalt you.
+
+*What does it mean to be humble?*
+
+*What is the opposite of humility?*
+
+*Is the opposite of humility a sin?*
+
+*Why does God oppose the proud?*
 
 ------
 
 ## Christ Calls Us to Unity
 
-Luke 9:49 John answered, “Master, we saw someone casting out demons in your name, and we tried to stop him, because he does not follow with us.”<sup> 50 </sup>But Jesus said to him, “Do not stop him, for the one who is not against you is for you.”
+Luke 9:49–50 (CSB) John responded, “Master, we saw someone driving out demons in your name, and we tried to stop him because he does not follow us.”  “Don’t stop him,” Jesus told him, “because whoever is not against you is for you.”
+
+*Do all churches do the exact same thing?*
+
+*Do all churches believe the exact same way? Give some examples?*
+
+*How are churches united in which ways?*
+
+*If all churches believe in the same Christ, why do they do things different from church to church?*
+
+*If other people believe and obey Christ, can they ever be our enemies? Are they our friends or are they more than that? What does God call them?*
 
 ------
 
 ## Christ Calls Us to Grace
 
-Luke 9:51 When the days drew near for him to be taken up, he set his face to go to Jerusalem.<sup> 52 </sup>And he sent messengers ahead of him, who went and entered a village of the Samaritans, to make preparations for him.<sup> 53 </sup>But the people did not receive him, because his face was set toward Jerusalem.<sup> 54 </sup>And when his disciples James and John saw it, they said, “Lord, do you want us to tell fire to come down from heaven and consume them?”<sup> 55 </sup>But he turned and rebuked them.<sup> 56 </sup>And they went on to another village.
+Luke 9:51–56 (CSB) When the days were coming to a close for him to be taken up, he determined to journey to Jerusalem.  He sent messengers ahead of himself, and on the way they entered a village of the Samaritans to make preparations for him.  But they did not welcome him, because he determined to journey to Jerusalem.  When the disciples James and John saw this, they said, “Lord, do you want us to call down fire from heaven to consume them?”  But he turned and rebuked them,  and they went to another village.
+
+*When people refuse to believe and even reject the God's good news, how do we respond?*
 
 ------
 
 ## Christ Calls Us to Follow Him
 
-Luke 9:57 As they were going along the road, someone said to him, “I will follow you wherever you go.”<sup> 58 </sup>And Jesus said to him, “Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head.”<sup> 59 </sup>To another he said, “Follow me.” But he said, “Lord, let me first go and bury my father.”<sup> 60 </sup>And Jesus said to him, “Leave the dead to bury their own dead. But as for you, go and proclaim the kingdom of God.”<sup> 61 </sup>Yet another said, “I will follow you, Lord, but let me first say farewell to those at my home.”<sup> 62 </sup>Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
+Luke 9:57–62 (CSB) As they were traveling on the road someone said to him, “I will follow you wherever you go.”  Jesus told him, “Foxes have dens, and birds of the sky have nests, but the Son of Man has no place to lay his head.”  Then he said to another, “Follow me.” “Lord,” he said, “first let me go bury my father.”  But he told him, “Let the dead bury their own dead, but you go and spread the news of the kingdom of God.”  Another said, “I will follow you, Lord, but first let me go and say good-bye to those at my house.”  But Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
+
+*Will you follow Christ even if you lost everything?*
+
+*Will you follow Christ even if you lose your loved ones?*
+
+*Will you lay your old life down, right now, and follow Christ?*

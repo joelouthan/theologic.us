@@ -26,15 +26,17 @@ Luke 8:4-8 (CSB) As a large crowd was gathering, and people were coming to Jesus
 
 *When the gospel is preached, does it accomplish what God wants it to do?*
 
-    Isaiah 55:10-11 (ESV)
-    “For as the rain and the snow come down from heaven
-      and do not return there but water the earth,
-    making it bring forth and sprout,
-      giving seed to the sower and bread to the eater,
-      so shall my word be that goes out from my mouth;
-    it shall not return to me empty,
-      but it shall accomplish that which I purpose,
-      and shall succeed in the thing for which I sent it.
+    Isaiah 55:10–11 (CSB)
+      For just as rain and snow fall from heaven 
+        and do not return there 
+        without saturating the earth 
+        and making it germinate and sprout, 
+        and providing seed to sow 
+        and food to eat, 
+      so my word that comes from my mouth 
+        will not return to me empty, 
+      but it will accomplish what I please 
+        and will prosper in what I send it to do.”
 
 Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.<sup> 17 </sup>For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
