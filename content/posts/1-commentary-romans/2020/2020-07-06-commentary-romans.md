@@ -27,15 +27,14 @@ I don't know where I got this mantra but there is no way I can take credit for i
 
 Here's an example: "There is no Penal Substitutionary Atonement, that is, the belief that Jesus Christ takes on the sin of his people, pays for the sins of his people, and in exchange hands over His righteousness (Matthew 1:21, 2 Cor 5:21) and here's why." Think about that for a moment: you are going to claim not a doctrine? What about the hole you just uncovered? What do you fill it with This is akin to Jesus' teaching about removing an unclean spirit only to find seven more moves in.
 
-> **Matthew 12:43–45 (ESV) “When the unclean spirit has gone out of a person, it passes through waterless places seeking rest, but finds none.  Then it says, ‘I will return to my house from which I came.’ And when it comes, it finds the house empty, swept, and put in order.  Then it goes and brings with it seven other spirits more evil than itself, and they enter and dwell there, and the last state of that person is worse than the first. So also will it be with this evil generation.”** 
+> **Matthew 12:43–45 (ESV) “When the unclean spirit has gone out of a person, it passes through waterless places seeking rest, but finds none.  Then it says, ‘I will return to my house from which I came.’ And when it comes, it finds the house empty, swept, and put in order.  Then it goes and brings with it seven other spirits more evil than itself, and they enter and dwell there, and the last state of that person is worse than the first. So also will it be with this evil generation.”**
 
 You might think that is a stretch to connect two thoughts like that but in my experience, I see the argument for something that isn't only to be filled with more lies. Christ even prophesies that for that generation. How much more is that true for our generation.
 
 You might argue yourself out of a doctrine like the atonement but you have not done anything about your sin that dwells in you. "Okay, so my certain select sins are not sins." Do you see the fallacy? You have to continue to argue and prove that something is not something one right after the other until you get to the point of **there is no God**.
 
-This line of thinking does not work because all you are doing is uncovering holes that are not there and filling them with lies that will only fill the hearer with despair. 
+This line of thinking does not work because all you are doing is uncovering holes that are not there and filling them with lies that will only fill the hearer with despair.
 
 The truth of it is: God does exist, he has not spoken in secret (Isaiah 48:16) and he has made himself know. (John 1:18) God is not far but he is near. God loves you. If you trust him at His word, He has made a way to cover all of your sins, remove them from your heart, give you a new heart, give you His Spirit to lead and guide and empower you to do his will, all because of His Son's perfect work and all-satisfying death upon the cross. We don't have to figure out what to do with our sin. There is only despair and tragedy when we have declared certain sins, not a sin. But as believers in Christ, we can take our sin and give those over to God and he put those on his Son while His Son puts his righteousness and holiness upon us.
 
 You can try to keep your sin. I must warn you that keeping that one sin will only lead to death and not life. But the gift of God is eternal life through Christ Jesus our Lord.
-

@@ -23,7 +23,7 @@ Habakkuk 2:4 "Behold, his soul is puffed up; it is not upright within him, but t
 
 A good rule of thumb in determining Biblical doctrine is this: if mentioned once, it is usually not considered primary, Biblical, orthodox right theology and doctrine. Consider the doctrine of sects and cults such as:
 
--  **Mormons** - among other things, baptism for the dead, according to 1 Corinthians 15:29
+- **Mormons** - among other things, baptism for the dead, according to 1 Corinthians 15:29
 - **Jehovah's Witnesses** - Christ is not God according to John 3:16 *God's only begotten Son*
 - sects such as **Disciples of Christ and Churches of Christ  -** Baptism regeneration according to John 3:5
 
@@ -33,15 +33,15 @@ The difference between those sects and cults versus orthodox Christianity is the
 
 I say all of that to say this: I find it most fascinating is that it took a decline of virtue and theology within the Christian church until the 1500s for this bold, orthodox, precise teaching of "The righteous shall live by faith" to make an impact and shake the core of the church. But that was all the will of God.
 
-When a certain German monk named Martin Luther penned his commentary on Romans and came across this particular passage, this statement changed him. God opened the eyes of his heart, and for the first time, Luther was able to see, know, and feel the love of God for his life. 
+When a certain German monk named Martin Luther penned his commentary on Romans and came across this particular passage, this statement changed him. God opened the eyes of his heart, and for the first time, Luther was able to see, know, and feel the love of God for his life.
 
-I think when we understand what it is for the righteous to live by faith, we too would have this Spirit-filled eye-opening experience. When God wills it to be so for you to know and live in his love, your life is never the same. 
+I think when we understand what it is for the righteous to live by faith, we too would have this Spirit-filled eye-opening experience. When God wills it to be so for you to know and live in his love, your life is never the same.
 
 And the best way I can describe it is this quote which I pray daily:
 
-**"On Christ's glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy."** 
-
-John Owen, The Glory of Christ
+> **"On Christ's glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy."**
+> 
+> John Owen. The Glory of Christ.
 
 Even more than that:
 
@@ -55,7 +55,7 @@ But what is it to believe? If you believe something, you live according to that 
 
 It is that plain. It is that simple.
 
-Yet, from Genesis 3 until Christ returns, mankind will always battle against the simplicity of God and his gospel. We see it in Scripture, and we see it in our times. The gospel for believers is the removal of our sins and the bestowed the righteousness of God upon believers. 
+Yet, from Genesis 3 until Christ returns, mankind will always battle against the simplicity of God and his gospel. We see it in Scripture, and we see it in our times. The gospel for believers is the removal of our sins and the bestowed the righteousness of God upon believers.
 
 Simple.
 
@@ -67,7 +67,7 @@ In our sin, we make the gospel complex.
 
 In God, the gospel is simple:
 
-For here is love: **Genesis 3:15** **I will put enmity between you and the woman,** **and between your offspring and her offspring;** **he shall bruise your head,** **and you shall bruise his heel.** 
+For here is love: **Genesis 3:15** **I will put enmity between you and the woman,** **and between your offspring and her offspring;** **he shall bruise your head,** **and you shall bruise his heel.**
 
 And here is love: **Deuteronomy 7:6-8 "For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples, but it is because the LORD loves you and is keeping the oath that he swore to your fathers, that the LORD has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.**
 
@@ -97,4 +97,4 @@ And here is love: **Romans 8:38-39 For I am sure that neither death nor life, no
 
 And, **1 John 4:10 In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.**
 
-We do not have to remove one of our sins in order to live because the wages of our sin is our death! But the gift of God is eternal life through Jesus Christ our Lord because He alone is the way, truth, and the life. No one lives if Christ does not save. 
+We do not have to remove one of our sins in order to live because the wages of our sin is our death! But the gift of God is eternal life through Jesus Christ our Lord because He alone is the way, truth, and the life. No one lives if Christ does not save.

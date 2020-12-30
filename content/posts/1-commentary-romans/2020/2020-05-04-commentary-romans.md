@@ -40,15 +40,15 @@ What did we get through reading? The gospel is the power of God in salvation. Co
 
 Consider:
 
-> **Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."** 
+> **Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."**
 >
-> **Deuteronomy 7:7 It was not because you were more in number than any other people that the Lord set his love on you and chose you, for you were the fewest of all peoples,** 
+> **Deuteronomy 7:7 It was not because you were more in number than any other people that the Lord set his love on you and chose you, for you were the fewest of all peoples,**
 >
-> **Isaiah 48:9–13 "For my name's sake I defer my anger; for the sake of my praise I restrain it for you, that I may not cut you off.  Behold, I have refined you, but not as silver; I have tried you in the furnace of affliction.  For my own sake, for my own sake, I do it, for how should my name be profaned? My glory I will not give to another. "Listen to me, O Jacob, and Israel, whom I called! I am he; I am the first, and I am the last.  My hand laid the foundation of the earth, and my right hand spread out the heavens; when I call to them, they stand forth together.** 
+> **Isaiah 48:9–13 "For my name's sake I defer my anger; for the sake of my praise I restrain it for you, that I may not cut you off.  Behold, I have refined you, but not as silver; I have tried you in the furnace of affliction.  For my own sake, for my own sake, I do it, for how should my name be profaned? My glory I will not give to another. "Listen to me, O Jacob, and Israel, whom I called! I am he; I am the first, and I am the last.  My hand laid the foundation of the earth, and my right hand spread out the heavens; when I call to them, they stand forth together.**
 >
-> **Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."** 
+> **Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."**
 >
-> **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.** 
+> **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
 
 The power is not in the person believing but in God who has made the one way for our salvation.
 
@@ -56,13 +56,13 @@ Consider this. We know that Romans 1:16 does not say, "... for it is the power o
 
 In a semi-hard press against this truth, Christians will then quote the most famous verse of all time and then want to scream, "Whosoever!" But that is not what the text says:
 
-> **John 3:16 "For God so loved the world, that he gave his only Son, that whoever believes *and does not believe* in him should not perish but have eternal life.** 
+> **John 3:16 "For God so loved the world, that he gave his only Son, that whoever believes *and does not believe* in him should not perish but have eternal life.**
 
-God does not save the unbeliever. I don't care how good you might think your neighbor is or how much you give to charity or how much you don't cuss or how little porn you watch. If you do not believe in Jesus Christ, you will not be saved. 
+God does not save the unbeliever. I don't care how good you might think your neighbor is or how much you give to charity or how much you don't cuss or how little porn you watch. If you do not believe in Jesus Christ, you will not be saved.
 
 And to what happens to the unbeliever? You don't have to leave John 3 to find your answer;
 
-> **John 3:36 Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.** 
+> **John 3:36 Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.**
 
 So the gospel would save the unbeliever all the while the unbeliever has the wrath of God upon them?
 

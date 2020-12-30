@@ -17,7 +17,7 @@ The people of Africa, as a whole or vast number of individuals, do not owe any a
 
 Why do I bring this up? My point brings me to two nations in our world in recent history. Both countries sinned and kidnapped natives of parts of the world and exchanged these people as commodities like livestock or fruits and vegetables. No human in either one of these countries had any moral, Biblical, and righteous right to purchase people and do with them as they pleased.
 
-> Exodus 21:16 (ESV) "Whoever steals a man and sells him, and anyone found in possession of him, shall be put to death. 
+> Exodus 21:16 (ESV) "Whoever steals a man and sells him, and anyone found in possession of him, shall be put to death.
 
 The word of the Lord makes this plain and clear.
 
@@ -36,7 +36,7 @@ As one who has finished High School over twenty years ago, it was easy for me to
 
 ## The Simplicity of God
 
-**Romans 1:19 For what can be known about God is plain to them because God has shown it to them.** 
+**Romans 1:19 For what can be known about God is plain to them because God has shown it to them.**
 
 What is it about God that is so plain to us?
 
@@ -44,17 +44,17 @@ Let me contend for three things:
 
 One, God created the creation and everything in it.
 
->  **Genesis 1:1 (ESV) In the beginning, God created the heavens and the earth.**
+> **Genesis 1:1 (ESV) In the beginning, God created the heavens and the earth.**
 
 John goes into metaphysical detail:
 
 > **John 1:3 (ESV) All things were made through him, and without him was not any thing made that was made.**
 
-Furthermore, we have taken good things from God alone, namely science, wisdom, and knowledge, and used this to disprove God's work in creation or argue that God does not exist.  It is futile in thinking. 
+Furthermore, we have taken good things from God alone, namely science, wisdom, and knowledge, and used this to disprove God's work in creation or argue that God does not exist.  It is futile in thinking.
 
 And someone might read this and attempt to look down on me and dismiss me as an idiot because I don't believe the theory that the universe, which exhibits order, was born out of chaos. But, by God's grace, I have taken what is plain to me and tried to answer my own questions and choose to do so from an authority higher than mankind.
 
-Two, God's provision to all of mankind. 
+Two, God's provision to all of mankind.
 
 > Matthew 5:45b For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.
 
@@ -72,7 +72,7 @@ The Jews have the law of God. Gentiles do not. But what Gentiles do have is a co
 
 Four, God's right judgment against the nations of the world for all of mankind's history. I remember in my High School U.S. History class, and one of my fellow students asked a poignant question. "Teacher, why is it that history is marked by only wars?" Great evil has fallen on mankind, and we have seen in our lives when left unchecked, sin and evil will bubble up and explode, causing strife between people.
 
->  Matthew 24:5–8 (ESV) For many will come in my name, saying, 'I am the Christ,' and they will lead many astray. And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. All these are but the beginning of the birth pains.
+> Matthew 24:5–8 (ESV) For many will come in my name, saying, 'I am the Christ,' and they will lead many astray. And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. All these are but the beginning of the birth pains.
 
 Christ not only prophesied, but He promised to be so. And just when we think it could not worsen, Christ declares, "All these are but the beginning of the birth pains."
 
