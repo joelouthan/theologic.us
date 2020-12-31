@@ -36,6 +36,10 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     url = "/posts/"
     weight = 2
   [[menu.nav]]
+    name = "Bible Study: Romans"
+    url = "/tags/bible-study-romans/"
+    weight = 3  
+  [[menu.nav]]
     name = "Monday :: Commentary: Romans"
 	url = "/tags/commentary-romans/"
     weight = 11
