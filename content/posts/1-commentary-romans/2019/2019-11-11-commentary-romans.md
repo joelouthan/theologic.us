@@ -20,9 +20,9 @@ And even starting this commentary with focusing on Paul doesn't make sense. But 
 
 Turn back to Acts 7:51-60. Some of you guys know the story, but it bears repeating.
 
-This was a time in the church where there was just a little growth. I say that jokingly. Thousands upon thousands were added to the church daily. These Christians were giving up their time, resources, hospitality, food, and money just to love one another and to make sure that more could be included in their fellowship. 
+This was a time in the church where there was just a little growth. I say that jokingly. Thousands upon thousands were added to the church daily. These Christians were giving up their time, resources, hospitality, food, and money just to love one another and to make sure that more could be included in their fellowship.
 
-This outpouring of love did two things. One, people knew who Christ is because the church loved one another. That's a promise from Christ himself back in the Gospels. 
+This outpouring of love did two things. One, people knew who Christ is because the church loved one another. That's a promise from Christ himself back in the Gospels.
 
 The second thing that happens that when you add to the church by the thousands and you have people who are seeking to live life under the lordship of Christ who is King of kings and Lord of lords and God himself has asked each of us to obey him and believe in him and listen to him. When we do that, we are going to be at odds with the world. The world is not going to understand people who do that. The world would go as far as hate those who would call themselves Christians — also, a promise of Christ himself.
 
@@ -48,13 +48,13 @@ Listen, if you know the Bible. At all familiar with the Gospels, this sermon sou
 
 Remembered what happened to Jesus? Let's find out what happens to Stephen when you preach what you believe:
 
-> Now when they heard these things, they were enraged, and they ground their teeth at him. But he, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God. And he said, Behold, I see the heavens opened, and the Son of Man standing at the right hand of God. But they cried out with a loud voice and stopped their ears and rushed together at him. Then they cast him out of the city and stoned him. And the witnesses laid down their garments at the feet of a young man named Saul. And as they were stoning Stephen, he called out, Lord Jesus, receive my spirit. And falling to his knees, he cried out with a loud voice, Lord, do not hold this sin against them. And when he had said this, he fell asleep. 
+> Now when they heard these things, they were enraged, and they ground their teeth at him. But he, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God. And he said, Behold, I see the heavens opened, and the Son of Man standing at the right hand of God. But they cried out with a loud voice and stopped their ears and rushed together at him. Then they cast him out of the city and stoned him. And the witnesses laid down their garments at the feet of a young man named Saul. And as they were stoning Stephen, he called out, Lord Jesus, receive my spirit. And falling to his knees, he cried out with a loud voice, Lord, do not hold this sin against them. And when he had said this, he fell asleep.
 
 A few of you would say, "That's absolutely metal!" and you would be absolutely correct. The rest of you all would shuddered and feared at such a thought and rightfully so.
 
 There is a newcomer in the Acts of the Apostles, a Pharisee named Saul. He was so approving of the death of any Christian that would allow he was sitting idly by while his brothers would take their cloaks off to throw stones harder at the man who preached the truth.
 
-Saul didn't change his mind. He just doubled down. Let's see how that turns out. 
+Saul didn't change his mind. He just doubled down. Let's see how that turns out.
 
 **Acts 9:1-8 But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest and asked him for letters to the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem.**
 
@@ -78,11 +78,11 @@ Saul always knew who Jesus was. He chose to take the truth of God and suppress i
 
 Saul was and did all of those things exceedingly well. But the very moment he caught a glimpse of the glory and grace of God, he declares this:
 
-> Philippians 3:4–11 though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more: circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless. **But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith**—that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death, that by any means possible I may attain the resurrection from the dead. 
+> Philippians 3:4–11 though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more: circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless. **But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith**—that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death, that by any means possible I may attain the resurrection from the dead.
 
 He was completely undone. Just like Isaiah. Just like Mary. Just like the tax collector in the back of the church.
 
-If it was really up to the way you and I did things in the world and generally in church, there would be no pickin' way we would pick Paul to teach others, become an apostle, missionary, and a church planter--let alone, an author of several books of the Bible. With us, that would be impossible. 
+If it was really up to the way you and I did things in the world and generally in church, there would be no pickin' way we would pick Paul to teach others, become an apostle, missionary, and a church planter--let alone, an author of several books of the Bible. With us, that would be impossible.
 
 It is only possible because God is rich in mercy, abounding in steadfast love, might one to save and delights and rejoices in seeing his little one come home.
 

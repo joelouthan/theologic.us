@@ -20,13 +20,13 @@ Now if God says exactly who He is--and he does in his word and through His Word,
 
 Because if I am totally honest, I am nothing like that. Sure, I have my good days but more often than not, I miss that mark by a long shot. If I miss the mark, does God either expect or demands for me to be perfect?
 
-Let us start at the beginning: 
+Let us start at the beginning:
 
-> **Genesis 1:27  So God created man in his own image,  
- in the image of God he created him;  
+> **Genesis 1:27  So God created man in his own image, 
+ in the image of God he created him; 
  male and female he created them.**
 
-So we are made in the image of God. Every single one of us. 
+So we are made in the image of God. Every single one of us.
 
 First, Let me point out the obvious distinction: no other living being ever created was ever created to bear God's image. No dog, no cat, no pet, nothing else.  Animals can show emotions. Plants grow and face the sun but we are the only living beings born with a body, soul, heart, will, emotions, and mind.
 
@@ -46,9 +46,9 @@ Two, the ability to choose God is not based on the heart. "Do you *feel* God? Th
 
 Three, we know that it is not because of the family we are born into. Now, is there an special blessing for kids born to Christian blessings that children of unbelievers are not privy to? Absolutely. To Christian Moms and Dads: know the incredible grace and special blessing it is for your children to be born into this world always knowing the love of God. Does it mean they will be saved? The Bible makes no guarantees but they cannot say they did not know. And if we are saved based on our ethnicity, then I have an entire book called the Bible where that theory is ultimately verified as false.
 
-Fourth and lastly, we know that we cannot choose God simply based on the will. Can we all agree that choosing God is not the same as choosing what we had for breakfast? Placing affections, desires, and worship to God is not the same as me choosing to eat eggs sunny side up, hash browns, and black coffee. Also, God is not another an possible answer to a pop quiz question, "Who is the One True God and the only one worthy of our praises?" So that analogy is out. And certainly choosing God is not the same as choosing your spouse and your spouse choosing you. Single folks, I hear you and you know how this feels: you keep choosing someone who doesn't choose you. Wow, I am certainly glad God doesn't operate like that. 
+Fourth and lastly, we know that we cannot choose God simply based on the will. Can we all agree that choosing God is not the same as choosing what we had for breakfast? Placing affections, desires, and worship to God is not the same as me choosing to eat eggs sunny side up, hash browns, and black coffee. Also, God is not another an possible answer to a pop quiz question, "Who is the One True God and the only one worthy of our praises?" So that analogy is out. And certainly choosing God is not the same as choosing your spouse and your spouse choosing you. Single folks, I hear you and you know how this feels: you keep choosing someone who doesn't choose you. Wow, I am certainly glad God doesn't operate like that.
 
-The fact of the matter is that we lack the ability, the will, the heart, the mind, and the might to choose God. 
+The fact of the matter is that we lack the ability, the will, the heart, the mind, and the might to choose God.
 
 **Genesis 18:27 Abraham answered and said, Behold, I have undertaken to speak to the Lord, I who am but dust and ashes**
 
@@ -58,7 +58,7 @@ The fact of the matter is that we lack the ability, the will, the heart, the min
 
 **Jeremiah 17:9  The heart is deceitful above all things, and desperately sick; who can understand it?**
 
-**Romans 3:10-18 as it is written:   None is righteous, no, not one;  no one understands; no one seeks for God.  All have turned aside; together they have become worthless; no one does good, not even one.  Their throat is an open grave; they use their tongues to deceive. The venom of asps is under their lips.  Their mouth is full of curses and bitterness.  Their feet are swift to shed blood;  in their paths are ruin and misery,  and the way of peace they have not known.  There is no fear of God before their eyes.**  
+**Romans 3:10-18 as it is written:   None is righteous, no, not one;  no one understands; no one seeks for God.  All have turned aside; together they have become worthless; no one does good, not even one.  Their throat is an open grave; they use their tongues to deceive. The venom of asps is under their lips.  Their mouth is full of curses and bitterness.  Their feet are swift to shed blood;  in their paths are ruin and misery,  and the way of peace they have not known.  There is no fear of God before their eyes.** 
 
 **Romans 3:23 for all have sinned and fall short of the glory of God**
 
@@ -70,11 +70,11 @@ Okay, if none of us can go to God *freely* on our own then what hope do we have?
 
 Continue on in John chapter 1:
 
-> John 1:14-18 **And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.**  (John bore witness about him, and cried out, This was he of whom I said, He who comes after me ranks before me, because he was before me.)  **For from his fullness we have all received, grace upon grace.  For the law was given through Moses; grace and truth came through Jesus Christ.  No one has ever seen God; the only God, who is at the Father’s side, he has made him known.**   
+> John 1:14-18 **And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.**  (John bore witness about him, and cried out, This was he of whom I said, He who comes after me ranks before me, because he was before me.)  **For from his fullness we have all received, grace upon grace.  For the law was given through Moses; grace and truth came through Jesus Christ.  No one has ever seen God; the only God, who is at the Father’s side, he has made him known.**  
 
 Paul will go on to say: "It is in this hope we were saved."
 
-Our only hope is in Christ alone. 
+Our only hope is in Christ alone.
 
 Bible makes it abundantly clear that we cannot choose God on our own. Not all the classes nor books in the world; not all the Christian worship concerts nor conferences; not being born in the right family, suburb, or even going to the right church is going to guarantee your salvation. It is not even saying the right prayer at 7 years old but live a life for the next 25 years not serving, worshiping nor pleasing God. (Oddly specific because that is my testimony.)
 

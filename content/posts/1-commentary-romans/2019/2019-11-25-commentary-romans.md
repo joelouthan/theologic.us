@@ -16,18 +16,18 @@ Five, the gospel **which he promised beforehand through his prophets**. You have
 
 But God, being rich in mercy, sought them both, and his precious saving grace fell upon them. While Satan twisted the promises of God directly to Eve while her husband looked on, God turns to Satan and delivers his judgment while Adam and Eve saw and heard:
 
-> I will put enmity between you and the woman,  
-and between your offspring and her offspring;  
-he shall bruise your head,  
+> I will put enmity between you and the woman, 
+and between your offspring and her offspring; 
+he shall bruise your head, 
 and you shall bruise his heel.
 
 And we know that Adam and Eve both heard and believe God's counter-reality good news because God *made for Adam and for his wife garments of skins and clothed them.* In other words and stop me if this sounds familiar, God sacrificed a living animal and covered His children's own wickedness, shame, and self-righteousness with something only He could have done.
 
-And the prophets continues to beat that same drum with the same rhythm over and over again until God's own son, Jesus Christ, who lived and sacrificed his own life so that we hear His good news, believe in Him and be covered with His own spotless clothes. 
+And the prophets continues to beat that same drum with the same rhythm over and over again until God's own son, Jesus Christ, who lived and sacrificed his own life so that we hear His good news, believe in Him and be covered with His own spotless clothes.
 
 Six, God's gospel, **in the holy Scriptures concerning his Son**, that is, Jesus Christ. Simply put, and this statement cannot be overemphasized, that the Scriptures are about Jesus Christ our Lord. You guys know what I am going to mention next:
 
-> Luke 24:25-27 And he said to them, O foolish ones, and slow of heart to believe all that the prophets have spoken!  Was it not necessary that the Christ should suffer these things and enter into his glory?  And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.  
+> Luke 24:25-27 And he said to them, O foolish ones, and slow of heart to believe all that the prophets have spoken!  Was it not necessary that the Christ should suffer these things and enter into his glory?  And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself. 
 
 To read the Bible in another context is a fool's errand and doing so, will not give anybody life. If you go searching the Scriptures trying to find the one thing to save you and you don't come back with the unequivical answer of Jesus Christ, go back and look again. Only this time, plead with the Holy Spirit of God to open your eyes so that you might see and open your mind so that you would understand and bathe in his glory and grace.
 
@@ -37,7 +37,7 @@ Not Roman. Not Greek. Not American. Not *whatever empire God allowed to be in po
 
 A little baby boy out of a rural town in Israel (not unlike a place like Rosedale, OK). Not glorious in splendor. But dirt poor. Not wealthy king and queen but a dad who didn't know what the heck and a teenage mom.  Out of a people group who God called:
 
-> Deuteronomy 7:6-8 For you are a people holy to the Lord your God. The Lord your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.  It was not because you were more in number than any other people that the Lord set his love on you and chose you, for you were the fewest of all peoples,  but it is because the Lord loves you and is keeping the oath that he swore to your fathers, that the Lord has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt. 
+> Deuteronomy 7:6-8 For you are a people holy to the Lord your God. The Lord your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.  It was not because you were more in number than any other people that the Lord set his love on you and chose you, for you were the fewest of all peoples,  but it is because the Lord loves you and is keeping the oath that he swore to your fathers, that the Lord has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
 
 Not the mightiest. But the tiniest nation. So that they (and by that, I mean, we) could never say, "Look at what we have done" but worship and praise the worthy God and sing, "Look at what He has done for us!"
 
@@ -51,13 +51,13 @@ Now, sin has been committed by mankind and it is **only** mankind that can atone
 
 The author goes on to quote Christ:
 
-> Consequently, when Christ came into the world, he said,  
+> Consequently, when Christ came into the world, he said, 
 
-> <pre>“Sacrifices and offerings you have not desired,  
-  but a body have you prepared for me;  
-  in burnt offerings and sin offerings  
-		you have taken no pleasure.  
-	Then I said, ‘Behold, I have come to do your will, O God,  
+> <pre>“Sacrifices and offerings you have not desired, 
+  but a body have you prepared for me; 
+  in burnt offerings and sin offerings 
+		you have taken no pleasure. 
+	Then I said, ‘Behold, I have come to do your will, O God, 
 		as it is written of me in the scroll of the book.’”</pre>
 
 > 	When he said above, “You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings” (these are offered according to the law), then he added, “Behold, I have come to do your will.” He does away with the first in order to establish the second. And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.
@@ -66,11 +66,11 @@ Jesus Christ is the worthy Lamb who was slained. Jesus Christ, Son of God who is
 
 Spoiler alert: Paul will go on to say this in Romans 5:
 
-> Romans 5:6-11 For while we were still weak, at the right time Christ died for the ungodly.  For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—  but God shows his love for us in that while we were still sinners, Christ died for us.  Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.  More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. 
+> Romans 5:6-11 For while we were still weak, at the right time Christ died for the ungodly.  For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—  but God shows his love for us in that while we were still sinners, Christ died for us.  Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.  More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
 
 And again in Romans 8:1-4:
 
-> There is therefore now no condemnation for those who are in Christ Jesus.  For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.  For God has done what the law, weakened by the flesh, could not do. **By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,  in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**   
+> There is therefore now no condemnation for those who are in Christ Jesus.  For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.  For God has done what the law, weakened by the flesh, could not do. **By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,  in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**  
 
 It was imperative that God would become flesh, man, human because only man can atone for his sins.
 
@@ -80,11 +80,11 @@ Nine, Jesus Christ **was declared to be the Son of God.** We need no other words
 
 Paul further demonstrates this in **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
 
-Ten, Jesus Christ coming, lived, cared, ministered, crucified, rose, and ascended **in power according to the Spirit of holiness.**  God has given Jesus His Spirit without measure so that Christ could utter the words of God (John 3:34]. 
+Ten, Jesus Christ coming, lived, cared, ministered, crucified, rose, and ascended **in power according to the Spirit of holiness.**  God has given Jesus His Spirit without measure so that Christ could utter the words of God (John 3:34].
 
 Furthermore, Christ rose again only by the power of the Holy Spirit. **Romans 8:11 If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.**
 
-Eleven, **Christ's resurrection from the dead** and it is in this hope we were saved. 
+Eleven, **Christ's resurrection from the dead** and it is in this hope we were saved.
 
 Paul elaborates:
 
