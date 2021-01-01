@@ -13,11 +13,17 @@ draft: false
 Let's get the personal stuff out of the way.
 
 **Name**: Joseph Louthan
+
 **Family**: Wife with three kids
+
 **Vocation**: Consultant with [Red Hat](https://redhat.com/)
+
 **Church**: Intern at [Frontline Church](https://frontlinechurch.com), Oklahoma City, OK
+
 **Instagram**: [josephlouthan](https://instagram.com/josephlouthan)
+
 **Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
+
 **Twitter**: [@JosephLouthan](https://twitter.com/JosephLouthan)
 
 So what will this study be? 
