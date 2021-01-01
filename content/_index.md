@@ -7,6 +7,11 @@ date: 20200318T00:00:00-06:00
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## Update! 
+
+I am going to start writing and recording but I need a head start.  let me get a month's worth of episodes  before releasing.
+
+
 ## NEW! Study: Romans
 
 ### Thursday, December 31, 2020
