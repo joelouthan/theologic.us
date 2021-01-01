@@ -2,8 +2,8 @@
 title: 'Study: Romans  '
 author: Joseph Louthan
 type: post
-publishDate: 2021-01-14
-url: /study-romans/2021-01-14-study-romans/
+publishDate: 2021-02-13
+url: /study-romans/2021-02-13-study-romans/
 categories:
   - Bible Study
 tags:
