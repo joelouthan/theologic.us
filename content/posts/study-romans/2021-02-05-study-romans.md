@@ -21,4 +21,3 @@ draft: false
 ## The Gospel
 
 ## Our Responsibility
-
