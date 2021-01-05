@@ -6,8 +6,10 @@ publishDate: 2021-02-05
 url: /study-romans/2021-02-05-study-romans/
 categories:
   - Bible Study
+  - Podcast
 tags:
   - 'Bible Study: Romans'
+  - Podcast
 draft: false
 ---
 ## The Text

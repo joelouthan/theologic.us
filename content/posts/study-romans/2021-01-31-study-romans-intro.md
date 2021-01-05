@@ -1,13 +1,15 @@
 ---
-title: 'Study: Romans, An Introduction'
+title: 'The Study Podcast'
 author: Joseph Louthan
 type: post
 publishDate: 2021-01-31
-url: /study-romans/2021-01-31-study-romans/
+url: /study-romans/2021-01-31-study-podcast/
 categories:
   - Bible Study
+  - Podcast
 tags:
   - 'Bible Study: Romans'
+  - Podcast
 draft: false
 ---
 Let's get the personal stuff out of the way.
@@ -86,4 +88,20 @@ What do we do now? Or as I like to say, "Where does God's grace have me now?"
 
 This might be audacious of me but I want to release recordings every evening in time for the following day's study.  That means I have tons of writing and recording to get ahead of time. And then, only by God's good grace, continuously go forward.
 
-Join me in what I call, "Paul's Biblical Systematic Theology based on the Ministry of Jesus Christ".
+Join me in studying Romans or what I call the Epistle, "Paul's Biblical Systematic Theology based on the Ministry of Jesus Christ".
+
+## The Bonuses
+
+Not promising these are a regular basis, but from time to time, I will release bonus episodes.
+
+Topics include:
+
+* Writing
+* Books
+* Movies
+* Video Games
+* Enneagram
+* Church
+* Traveling
+
+... and so much more.  (These episodes might not have an accompanying transcript aka blog post. But it makes more sense for me to have a video connected with it.)
