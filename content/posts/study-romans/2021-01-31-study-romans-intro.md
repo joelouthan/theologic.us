@@ -88,7 +88,7 @@ What do we do now? Or as I like to say, "Where does God's grace have me now?"
 
 This might be audacious of me but I want to release recordings every evening in time for the following day's study.  That means I have tons of writing and recording to get ahead of time. And then, only by God's good grace, continuously go forward.
 
-Join me in studying Romans or what I call the Epistle, "Paul's Biblical Systematic Theology based on the Ministry of Jesus Christ".
+Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ".
 
 ## The Bonuses
 
