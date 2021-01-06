@@ -2,8 +2,8 @@
 title: 'Study: The Epistle to the Church in Rome'
 author: Joseph Louthan
 type: post
-publishDate: 2021-01-30
-url: /study-romans/2021-01-30-romans/
+publishDate: 2021-01-05
+url: /study-romans/2021-01-05-romans/
 categories:
   - Bible Study
   - Podcast
