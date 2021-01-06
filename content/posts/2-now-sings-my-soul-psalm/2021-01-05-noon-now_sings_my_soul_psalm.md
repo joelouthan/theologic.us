@@ -24,7 +24,7 @@ My Only Steadfast Love
       and then my mom
     My family is wicked and deceived
       and I had no inheritance.
-    I was introduced to the abhorist evil
+    I was introduced to the revolting evil
       at an age when I should have not known
       and that sin
       quickly overcame my heart
@@ -51,7 +51,7 @@ My Only Steadfast Love
     My God,
       your love as always been on my life
       and I see it now
-      perserve me
+      preserve me
       keep me in your hands
       and never let me go.
 
