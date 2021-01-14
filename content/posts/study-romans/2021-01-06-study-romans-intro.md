@@ -30,6 +30,10 @@ Let's get the personal stuff out of the way.
 
 **Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
 
+**Twitch**: [NachozSupremo](https://www.twitch.tv/nachozsupremo)
+
+**Discord**: [Theologicus](https://discord.gg/DntJ4rh5eN)
+
 ___
 
 ## Not This
