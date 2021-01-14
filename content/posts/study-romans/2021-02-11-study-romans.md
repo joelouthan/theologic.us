@@ -16,7 +16,7 @@ draft: true
 
 ## The Support
 
-## Our God
+## God
 
 ## The Gospel
 
