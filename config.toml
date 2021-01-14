@@ -43,65 +43,65 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
 #    weight = 3  
   [[menu.nav]]
     name = """
-      Monday:
+      MONDAY 
       Commentary: Romans"""
     url = "/tags/commentary-romans/"
     weight = 11
   [[menu.nav]]
     name = """
-      Tuesday:
+      TUESDAY 
       Now Sings My Soul:
       Psalmic Prayers"""
     url = "/tags/now-sings-my-soul-psalms/"
     weight = 12
   [[menu.nav]]
     name = """
-      Wednesday:
+      WEDNESDAY 
       Reflections on Pastoral Epistles"""
     url = "/tags/philosophy-of-ministry/"
     weight = 13
   [[menu.nav]]
     name = """
-      Thursday:
+      THURSDAY 
       Family Devotions
       Luke"""
     url = "/tags/family-devotions-luke/"
     weight = 14
   [[menu.nav]]
     name = """
-      Friday:
+      FRIDAY 
       A Few Points"""
     url = "/tags/a-few-points-for-friday/"
     weight = 15
   [[menu.nav]]
     name = """
-      Saturday:
+      SATURDAY 
       Sundry Items"""
     url = "/tags/sundry-saturday/"
     weight = 16
   [[menu.nav]]
     name = """
-      MANUSCRIPT:
+      MANUSCRIPT 
       Here is Love:
       Exposition in Romans 8"""
     url = "/tags/here-is-love/"
     weight = 20
   [[menu.nav]]
     name = """
-      MANUSCRIPT
+      MANUSCRIPT 
       Family Devotions: Mark"""
     url = "/tags/family-devotions-mark/"
     weight = 21
   [[menu.nav]]
     name = """
-      MANUSCRIPT:
+      MANUSCRIPT 
       The Lord's Prayer"""
     url = "/tags/the-lords-prayer/"
     weight = 22
   [[menu.nav]]
     name = """
-      MANUSCRIPT:
-      Ordo Salutis:
+      MANUSCRIPT 
+      Ordo Salutis: 
       Devotions on Salvation"""
     url = "/tags/ordo-salutis/"
     weight = 23
