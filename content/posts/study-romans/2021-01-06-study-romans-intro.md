@@ -34,6 +34,8 @@ Let's get the personal stuff out of the way.
 
 **Discord**: [Theologicus](https://discord.gg/DntJ4rh5eN)
 
+**Github**: [@joelouthan](https://github.com/joelouthan)
+
 ___
 
 ## Not This
