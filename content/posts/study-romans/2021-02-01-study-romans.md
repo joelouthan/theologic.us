@@ -52,7 +52,7 @@ But Saul grew stronger and kept confounding the Jews who lived in Damascus by pr
 
 After many days had passed, the Jews conspired to kill him, but Saul learned of their plot. So they were watching the gates day and night intending to kill him, but his disciples took him by night and lowered him in a large basket through an opening in the wall.
 
-## Our God
+## God
 
 Fulfills His Promises -
 

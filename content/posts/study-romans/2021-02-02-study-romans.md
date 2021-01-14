@@ -24,7 +24,7 @@ draft: true
 
 ### Saul Proclaiming the Messiah
 
-## Our God
+## God
 
 ## The Gospel
 
