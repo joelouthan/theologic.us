@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Theologicus"
 description = """
 No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. – Samuel Rutherford"""
-theme = "cupper"
+theme = "cupper-hugo-theme"
 googleAnalytics = "G-V3GC3P3REE"
 
 [params]
@@ -37,51 +37,78 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     url = "/posts/"
     weight = 2
 #  [[menu.nav]]
-#    name = "Bible Study: Romans"
+#    name = """
+#      Bible Study: Romans"""
 #    url = "/tags/bible-study-romans/"
 #    weight = 3  
   [[menu.nav]]
-    name = "Monday :: Commentary: Romans"
-	url = "/tags/commentary-romans/"
+    name = """
+      Monday:
+      Commentary: Romans"""
+    url = "/tags/commentary-romans/"
     weight = 11
   [[menu.nav]]
-    name = "Tuesday :: Now Sings My Soul: Prayers based on the Psalms"
+    name = """
+      Tuesday:
+      Now Sings My Soul:
+      Psalmic Prayers"""
     url = "/tags/now-sings-my-soul-psalms/"
     weight = 12
   [[menu.nav]]
-    name = "Wednesday :: Thinking Through Ministry: Journaling through Pastoral Epistles"
+    name = """
+      Wednesday:
+      Reflections on Pastoral Epistles"""
     url = "/tags/philosophy-of-ministry/"
     weight = 13
   [[menu.nav]]
-    name = "Thursday :: Family Devotions: Luke"
+    name = """
+      Thursday:
+      Family Devotions
+      Luke"""
     url = "/tags/family-devotions-luke/"
     weight = 14
   [[menu.nav]]
-    name = "Friday :: A Few Points"
+    name = """
+      Friday:
+      A Few Points"""
     url = "/tags/a-few-points-for-friday/"
     weight = 15
   [[menu.nav]]
-    name = "Saturday :: Sundry Items"
+    name = """
+      Saturday:
+      Sundry Items"""
     url = "/tags/sundry-saturday/"
     weight = 16
   [[menu.nav]]
-    name = "MANUSCRIPT :: Here is Love: Exposition in Romans 8"
+    name = """
+      MANUSCRIPT:
+      Here is Love:
+      Exposition in Romans 8"""
     url = "/tags/here-is-love/"
     weight = 20
   [[menu.nav]]
-    name = "MANUSCRIPT :: Family Devotions: Mark"
+    name = """
+      MANUSCRIPT
+      Family Devotions: Mark"""
     url = "/tags/family-devotions-mark/"
     weight = 21
   [[menu.nav]]
-    name = "MANUSCRIPT :: The Lord's Prayer"
+    name = """
+      MANUSCRIPT:
+      The Lord's Prayer"""
     url = "/tags/the-lords-prayer/"
     weight = 22
   [[menu.nav]]
-    name = "MANUSCRIPT :: Ordo Salutis: Devotions on Salvation"
+    name = """
+      MANUSCRIPT:
+      Ordo Salutis:
+      Devotions on Salvation"""
     url = "/tags/ordo-salutis/"
     weight = 23
   [[menu.nav]]
-    name = "REFERENCE :: Thanksgiving: Scriptural Reference on Thanks"
+    name = """
+      REFERENCE:
+      Thanksgiving"""
     url = "/tags/thanksgiving/"
     weight = 24
   [[menu.nav]]
