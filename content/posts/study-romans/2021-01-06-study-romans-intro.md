@@ -76,7 +76,7 @@ What is the text we will be studying today?
 
 What, if any, other text supports what we are studying today? (If there is none, then we will won't get bogged down.)
 
-### Our God
+### God
 
 What does the text say about God?
 
