@@ -26,9 +26,9 @@ Let's get the personal stuff out of the way.
 
 **Instagram**: [josephlouthan](https://instagram.com/josephlouthan)
 
-**Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
-
 **Twitter**: [@JosephLouthan](https://twitter.com/JosephLouthan)
+
+**Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
 
 ___
 
