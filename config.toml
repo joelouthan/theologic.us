@@ -5,6 +5,7 @@ description = """
 No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. – Samuel Rutherford"""
 theme = "cupper-hugo-theme"
 googleAnalytics = "G-V3GC3P3REE"
+footnoteReturnLinkContents = "↩"
 
 [params]
   description = """
@@ -22,8 +23,6 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
   katex = true
   
   disqusShortname = "joelouthan"
-
-  footnoteReturnLinkContents = "↩"
   
   google-fonts = [
     ["Cinzel", "100, 200, 300, 400, 500, 600, 700, 800, 900"]
