@@ -64,4 +64,11 @@ Protects -
 
 ## The Gospel
 
+The good is this: that there is nothing that you could have ever done or will evrr do that will keep you separated from the love of Christ. 
+
+Make no mistake: without a faith in Christ Jesus as your Lord and Savior, you will not be saved. Your salvation is noy dependent on you but Him. 
+
 ## Our Responsibility
+
+God has made the call to you. He is asking you to trust in Him and take him at his word.  Dont wait. right now 
+is a good time to obey the Lord.
