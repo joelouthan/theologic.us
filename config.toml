@@ -11,7 +11,7 @@ googleAnalytics = "G-V3GC3P3REE"
 No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. 
 – Samuel Rutherford"""
   
-  homeMetaContent = "Collection of my theological and doctrinal writings"
+  homeMetaContent = "Collection of theological and doctrinal writings from Joseph Louthan"
   
   footer = 'Copyright &#xA9; [Joseph Louthan](/about/). Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).'
 
@@ -22,6 +22,8 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
   katex = true
   
   disqusShortname = "joelouthan"
+
+  footnoteReturnLinkContents = "↩"
   
   google-fonts = [
     ["Cinzel", "100, 200, 300, 400, 500, 600, 700, 800, 900"]
