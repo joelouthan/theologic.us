@@ -10,7 +10,7 @@ categories:
 tags:
   - 'Bible Study: Romans'
   - Podcast
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -72,13 +72,15 @@ Compare the love for the world versus the tender, affectionate, personal, relati
 
 All the promises of God are yes and amen - 2 Cor 1:20
 
-All of the promises in the Old Testament, starting from Genesis 3:15
+All of the promises in the Old Testament, starting from Genesis 3:15, through the law and the prophets, through songs and wisdom, all culminating that God would save his people. In other words, we will be his people and he will forever be our God.
 
-Sent his Son to save - Matt 1:21
+Sent his Son to save his people - Matt 1:21
 
 Did so by the power of the Holy Spirit - Luke 3 unto Luke 4; John 3:34 For whom God has sent utters the words of God, for he gives the Spirit without measure.
 
 ## The Gospel
+
+Here is the gospel proclamation:
 
 John 3:16 For God so loved the world that he gave his only begotten Son, that whosoever shall believe in Him shall not perish but have everlasting life.
 
@@ -86,9 +88,14 @@ The opposite is also true; v36: Whoever believes in the Son has eternal life; wh
 
 ## Our Responsibility
 
-Trust in God. Nothing on this earth. "Let the things of earth grow strangely dim in the light of his glory and grace."
+This is the call: trust in God alone.
 
-"On Christ's glory I would fix all of my thoughts and desires, and the more I see of the glory of Christ , the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy."
-John Owen. The Glory of Christ.
+Theologically, we know that God does not lie. But how do we know that to be sure? His written word is the transcript of all of his promises. More so, it is the transcription of His heart. Now, some things in the bible are too difficult for us to understand and some too mysterious. That is okay. Because what we do have is His Son, Christ Jesus our Lord.  Even the most hardcore atheist would be foolish to deny the historical life of Jesus Christ. But Christ was not a merely changed all of mankind's history. He came so that he completely, definitely, perfectly fulfilled one thing: be our righteousness.
 
----
+Trust in God. Nothing on this earth. How does that old hymn go? "Let the things of earth grow strangely dim in the light of his glory and grace."
+
+Or to put it in another way:
+
+> "On Christ's glory I would fix all of my thoughts and desires, and the more I see of the glory of Christ , the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy."
+>
+> John Owen. The Glory of Christ.

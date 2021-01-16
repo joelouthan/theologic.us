@@ -37,93 +37,81 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     name = "Recent"
     url = "/posts/"
     weight = 2
-#  [[menu.nav]]
-#    name = """
-#      Bible Study: Romans"""
-#    url = "/tags/bible-study-romans/"
-#    weight = 3  
   [[menu.nav]]
     name = """
-      MONDAY 
-      Commentary: Romans"""
+      Bible Study: Romans"""
+    url = "/tags/bible-study-romans/"
+    weight = 3  
+  [[menu.nav]]
+    name = """
+    Commentary: Romans"""
     url = "/tags/commentary-romans/"
-    weight = 11
+    weight = 10
   [[menu.nav]]
     name = """
-      TUESDAY 
-      Now Sings My Soul:
-      Psalmic Prayers"""
-    url = "/tags/now-sings-my-soul-psalms/"
-    weight = 12
-  [[menu.nav]]
-    name = """
-      WEDNESDAY 
-      Reflections on Pastoral Epistles"""
-    url = "/tags/philosophy-of-ministry/"
-    weight = 13
-  [[menu.nav]]
-    name = """
-      THURSDAY 
-      Family Devotions
-      Luke"""
-    url = "/tags/family-devotions-luke/"
-    weight = 14
-  [[menu.nav]]
-    name = """
-      FRIDAY 
-      A Few Points"""
-    url = "/tags/a-few-points-for-friday/"
-    weight = 15
-  [[menu.nav]]
-    name = """
-      SATURDAY 
-      Sundry Items"""
-    url = "/tags/sundry-saturday/"
-    weight = 16
-  [[menu.nav]]
-    name = """
-      MANUSCRIPT 
       Here is Love:
       Exposition in Romans 8"""
     url = "/tags/here-is-love/"
+    weight = 11
+  [[menu.nav]]
+    name = """
+      Reflections on the Pastoral Epistles"""
+    url = "/tags/philosophy-of-ministry/"
+    weight = 15
+  [[menu.nav]]
+    name = """
+      Now Sings My Soul:
+      Psalmic Prayers"""
+    url = "/tags/now-sings-my-soul-psalms/"
     weight = 20
   [[menu.nav]]
     name = """
-      MANUSCRIPT 
-      Family Devotions: Mark"""
-    url = "/tags/family-devotions-mark/"
+      Prayers on The Lord's Prayer"""
+    url = "/tags/the-lords-prayer/"
     weight = 21
   [[menu.nav]]
     name = """
-      MANUSCRIPT 
-      The Lord's Prayer"""
-    url = "/tags/the-lords-prayer/"
-    weight = 22
+      Family Devotions: Luke"""
+    url = "/tags/family-devotions-luke/"
+    weight = 40
+      [[menu.nav]]
+    name = """
+      Family Devotions: Mark"""
+    url = "/tags/family-devotions-mark/"
+    weight = 41
   [[menu.nav]]
     name = """
-      MANUSCRIPT 
       Ordo Salutis: 
       Devotions on Salvation"""
     url = "/tags/ordo-salutis/"
-    weight = 23
+    weight = 42
   [[menu.nav]]
     name = """
-      REFERENCE:
-      Thanksgiving"""
+      A Few Points"""
+    url = "/tags/a-few-points-for-friday/"
+    weight = 90
+  [[menu.nav]]
+    name = """
+      Sundry Items"""
+    url = "/tags/sundry-saturday/"
+    weight = 90
+  [[menu.nav]]
+    name = """
+      Scripture Prooftext on Thanksgiving"""
     url = "/tags/thanksgiving/"
-    weight = 24
+    weight = 9999
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
-    weight = 100
+    weight = 10000
   [[menu.nav]]
     name = "Categories"
     url = "/categories/"
-    weight = 101
+    weight = 10001
   [[menu.nav]]
     name = "Contact"
     url = "/about/"
-    weight = 1000
+    weight = 10010
 
 [markup.goldmark.renderer]
 unsafe= true
