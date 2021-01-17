@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul: '
+title: 'Now Sings My Soul: Psalm 44'
 author: Joseph Louthan
 type: post
 publishDate: 2021-02-16T12:00:00-06:00
