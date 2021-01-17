@@ -113,15 +113,15 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     url = "/tags/sundry-saturday/"
     weight = 92
   [[menu.nav]]
-    name = "Tags"
+    name = "TAGS"
     url = "/tags/"
-    weight = 10000
-  [[menu.nav]]
-    name = "Categories"
-    url = "/categories/"
     weight = 10001
   [[menu.nav]]
-    name = "Contact"
+    name = "CATEGORIES"
+    url = "/categories/"
+    weight = 10002
+  [[menu.nav]]
+    name = "CONTACT"
     url = "/about/"
     weight = 10010
 
