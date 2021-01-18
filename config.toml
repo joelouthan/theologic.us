@@ -37,7 +37,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     name = "Recent"
     url = "/posts/"
     weight = 2
-  [[menu.nav]]
+  [[menu.nav]]  
     name = "WORKS IN PROGRESS"
     weight = 9
   [[menu.nav]]
@@ -121,7 +121,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     url = "/categories/"
     weight = 10002
   [[menu.nav]]
-    name = "CONTACT"
+    name = "Contact"
     url = "/about/"
     weight = 10010
 
