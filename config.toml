@@ -37,7 +37,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     name = "Recent"
     url = "/posts/"
     weight = 2
-  [[menu.nav]]  
+  [[menu.divider]]  
     name = "WORKS IN PROGRESS"
     weight = 9
   [[menu.nav]]
@@ -66,7 +66,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
       Family Devotions: Luke"""
     url = "/tags/family-devotions-luke/"
     weight = 14
-  [[menu.nav]]
+  [[menu.divider]]
     name = "MANUSCRIPTS"
     weight = 20
   [[menu.nav]]
@@ -91,7 +91,7 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
       Devotions on Salvation"""
     url = "/tags/ordo-salutis/"
     weight = 24
-  [[menu.nav]]
+  [[menu.divider]]
     name = "REFERENCES"
     weight = 30
   [[menu.nav]]
@@ -99,8 +99,8 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
       Scripture Prooftext on Thanksgiving"""
     url = "/tags/thanksgiving/"
     weight = 31
-  [[menu.nav]]
-    name = "AROUND THE WEBS"
+  [[menu.divider]]
+    name = "OTHER ITEMS"
     weight = 90
   [[menu.nav]]
     name = """
