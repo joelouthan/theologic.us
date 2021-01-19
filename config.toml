@@ -38,7 +38,7 @@ google-fonts = [
     url = "/posts/"
     weight = 2
   [[menu.nav]]  
-    name = "——————— WORKS IN PROGRESS ———————"
+    name = "WORKS IN PROGRESS"
     weight = 9
   [[menu.nav]]
     name = """
@@ -67,7 +67,7 @@ google-fonts = [
     url = "/tags/family-devotions-luke/"
     weight = 14
   [[menu.nav]]
-    name = "——————— MANUSCRIPTS ———————"
+    name = "MANUSCRIPTS"
     weight = 20
   [[menu.nav]]
     name = """
@@ -92,7 +92,7 @@ google-fonts = [
     url = "/tags/ordo-salutis/"
     weight = 24
   [[menu.nav]]
-    name = "——————— REFERENCES ———————"
+    name = "REFERENCES"
     weight = 30
   [[menu.nav]]
     name = """
@@ -100,7 +100,7 @@ google-fonts = [
     url = "/tags/thanksgiving/"
     weight = 31
   [[menu.nav]]
-    name = "——————— OTHER ITEMS ———————"
+    name = "OTHER ITEMS"
     weight = 90
   [[menu.nav]]
     name = """
