@@ -8,23 +8,23 @@ googleAnalytics = "G-V3GC3P3REE"
 footnoteReturnLinkContents = "↩"
 
 [params]
-  description = """
+description = """
 No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. 
 – Samuel Rutherford"""
   
-  homeMetaContent = "Collection of theological and doctrinal writings from Joseph Louthan"
+homeMetaContent = "Collection of theological and doctrinal writings from Joseph Louthan"
   
-  footer = 'Copyright &#xA9; [Joseph Louthan](/about/). Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).'
+footer = 'Copyright &#xA9; [Joseph Louthan](/about/). Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).'
 
-  dateFormat = "02 Jan 2006 15:04"
+dateFormat = "02 Jan 2006 15:04"
   
-  codePenUser = "joe"
+codePenUser = "joe"
   
-  katex = true
+katex = true
   
-  disqusShortname = "joelouthan"
+disqusShortname = "joelouthan"
   
-  google-fonts = [
+google-fonts = [
     ["Cinzel", "100, 200, 300, 400, 500, 600, 700, 800, 900"]
   ]
 
@@ -37,8 +37,8 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
     name = "Recent"
     url = "/posts/"
     weight = 2
-  [[menu.divider]]  
-    name = "WORKS IN PROGRESS"
+  [[menu.nav]]  
+    name = "——————— WORKS IN PROGRESS ———————"
     weight = 9
   [[menu.nav]]
     name = """
@@ -66,8 +66,8 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
       Family Devotions: Luke"""
     url = "/tags/family-devotions-luke/"
     weight = 14
-  [[menu.divider]]
-    name = "MANUSCRIPTS"
+  [[menu.nav]]
+    name = "——————— MANUSCRIPTS ———————"
     weight = 20
   [[menu.nav]]
     name = """
@@ -91,16 +91,16 @@ No pen, no words, no image can express to you the loveliness of my only, only Lo
       Devotions on Salvation"""
     url = "/tags/ordo-salutis/"
     weight = 24
-  [[menu.divider]]
-    name = "REFERENCES"
+  [[menu.nav]]
+    name = "——————— REFERENCES ———————"
     weight = 30
   [[menu.nav]]
     name = """
       Scripture Prooftext on Thanksgiving"""
     url = "/tags/thanksgiving/"
     weight = 31
-  [[menu.divider]]
-    name = "OTHER ITEMS"
+  [[menu.nav]]
+    name = "——————— OTHER ITEMS ———————"
     weight = 90
   [[menu.nav]]
     name = """
