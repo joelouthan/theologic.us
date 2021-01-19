@@ -24,6 +24,8 @@ Let's get the personal stuff out of the way.
 
 **Church**: Intern at [Frontline Church](https://frontlinechurch.com), Oklahoma City, OK
 
+**Discord**: [Theologicus](https://discord.gg/DntJ4rh5eN) - Yes, this is the Discord for this page, podcast, and study!
+
 **Instagram**: [josephlouthan](https://instagram.com/josephlouthan)
 
 **Twitter**: [@JosephLouthan](https://twitter.com/JosephLouthan)
@@ -31,8 +33,6 @@ Let's get the personal stuff out of the way.
 **Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
 
 **Twitch**: [NachozSupremo](https://www.twitch.tv/nachozsupremo)
-
-**Discord**: [Theologicus](https://discord.gg/DntJ4rh5eN)
 
 **Github**: [@joelouthan](https://github.com/joelouthan)
 
