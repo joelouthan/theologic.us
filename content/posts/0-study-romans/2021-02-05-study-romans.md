@@ -10,16 +10,84 @@ categories:
 tags:
   - 'Bible Study: Romans'
   - Podcast
-draft: true
+draft: false
 ---
 ## The Text
 
-<sup>16</sup> For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. <sup>17</sup> For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
+Romans 1:16-17 For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. <sup>17</sup> For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
 ## The Support
 
+> Habakkuk 2:2–5 (CSB) The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it.  For the vision is yet for the appointed time; it testifies about the end and will not lie. Though it delays, wait for it, since it will certainly come and not be late.  Look, his ego is inflated; he is without integrity. **But the righteous one will live by his faith.**  Moreover, wine betrays; an arrogant man is never at rest. He enlarges his appetite like Sheol, and like Death he is never satisfied. He gathers all the nations to himself; he collects all the peoples for himself.
+
+> Galatians 3:11–14 (CSB) Now it is clear that no one is justified before God by the law, because **the righteous will live by faith.**  But the law is not based on faith; instead, the one who does these things will live by them.  Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, Cursed is everyone who is hung on a tree.  The purpose was that the blessing of Abraham would come to the Gentiles by Christ Jesus, so that we could receive the promised Spirit through faith.
+
+> Hebrews 10:36–39 (CSB) For you need endurance, so that after you have done God’s will, you may receive what was promised.  For yet in a very little while, the Coming One will come and not delay.  **But my righteous one will live by faith**; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved.
+
 ## God
+
+**God is the only source of the prophets** - Hab 2:2 "The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it."
+
+**God is the only justifier of the law, not the law itself** - Gal 3:11 "Now it is clear that no one is justified before God by the law, because the righteous will live by faith."
+
+**God is the only Savior** - Heb 10:38-39 "But my righteous one will live by faith; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved."
 
 ## The Gospel
 
+*What is the gospel?* Can you clearly articulate the gospel of Christ?
+
+How does Paul define the gospel?
+
+> Romans 1:16–17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
+
+1. The gospel is the power of God for salvation to everyone who believes, first to the Jew, and also the Greek
+
+2. For in the gospel, that is, in the power of God for salvation, the righteousness of God is revealed from faith to faith.
+
+Let me sum up these two points. When you proclaim the gospel, that holds the power of God for salvation to everyone who believes. For when the gospel is preached, these words put together reveal the righteousness of God from faith to faith.
+
+Think about that. Mere words. Mere words strung together. No other piece of literature. No poem. No mere conversation. No random set of data. No social media post will contain the power of God for salvation to everyone who believes. No other words will be able to reveal the righteousness of God from faith, which is a gift of God and not of yourself, to faith you now receive.
+
+And the real kick to the pants is this: notice what the Scriptures never say. It never says, "The gospel is the power of God in salvation for those who do and *do not* believe."
+
+Or think about John 3:16. It never says, "For God so loved the world that he gave his only begotten Son that whosoever believes *and does not believe* shall never perish but have everlasting life.
+
+The gospel saves only those who believe. The gospel saves only to those who call upon the name of the Lord. The gospel saves only to those who have been given the faith to believe and trust in him.
+
 ## Our Responsibility
+
+Now sit and think about all that. And now consider every verse you have read or heard you had about preaching:
+
+> Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+> Genesis 3:21 (CSB) The LORD God made clothing from skins for the man and his wife, and he clothed them.
+
+> Isaiah 55:11 (CSB) so my word that comes from my mouth will not return to me empty, but it will accomplish what I please and will prosper in what I send it to do.”
+
+> How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher?  And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news.  But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message?  So faith comes from what is heard, and what is heard comes through the message about Christ.
+
+> Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them.  When they saw him, they worshiped, but some doubted.  Jesus came near and said to them, “All authority has been given to me in heaven and on earth.  Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,  teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”
+
+> Mark 16:15–20 (CSB) Then he said to them, “Go into all the world and preach the gospel to all creation.  Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.  And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;  they will pick up snakes; if they should drink anything deadly, it will not harm them; they will lay hands on the sick, and they will get well.”  So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God.  And they went out and preached everywhere, while the Lord worked with them and confirmed the word by the accompanying signs.]
+
+> Luke 24:44–49 (CSB) He told them, “These are my words that I spoke to you while I was still with you—that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”  Then he opened their minds to understand the Scriptures.  He also said to them, “This is what is written: The Messiah will suffer and rise from the dead the third day,  and repentance for forgiveness of sins will be proclaimed in his name to all the nations, beginning at Jerusalem.  You are witnesses of these things.  And look, I am sending you what my Father promised. As for you, stay in the city until you are empowered from on high.”
+
+> Acts 1:8 (CSB) But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
+
+You want sure thing in this world outside believing in Christ and you shall be saved? You want a surefire way to being perfectly successful? Like, if you do this, you will be a success?
+
+Here it is: preach the gospel.
+
+That is it. That is the message.
+
+All you gotta do is proclaim the gospel in the best of your ability. God does it all.
+
+You cannot lose. It is a win win. You cannot fail.
+
+But you might be saying, "What if I share the gospel and nobody gets saved?" But you see, you are not God. If you are not God, you have no idea what work God is doing on the hearts of those who have heard you. Also you have no idea of the magnitude and the ripple effect of the power of God.
+
+But what about stories of missionaries who went, preached, died and never saw fruit. Yep, stories like David Brainerd, missionary to the Native Americans in the 18th century. He didn't see fruit. He got sick and had to try to recover from illness. Only then his Native American church of 130 members moved and established a little Christian community.
+
+If you want your words to mean something and to endure beyond the end of time? Proclaim the gospel. Preach the gospel to every creature everywhere for all time. Be his witness. Teach them everything Christ commanded. I promise you He will be with you to the end of the age.
+
+Amen.

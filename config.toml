@@ -100,7 +100,7 @@ google-fonts = [
     url = "/tags/thanksgiving/"
     weight = 31
   [[menu.nav]]
-    name = "OTHER ITEMS"
+    name = "AROUND THE WEB"
     weight = 90
   [[menu.nav]]
     name = """

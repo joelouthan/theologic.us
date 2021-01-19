@@ -1,0 +1,19 @@
+<nav id="patterns-nav" class="patterns" role="navigation">
+  <h2 class="vh">{{ T "nav_main_navigation" }}</h2>
+  <button id="menu-button" aria-expanded="false">
+    <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
+      <use xlink:href="#menu"></use>
+    </svg>
+    {{ T "nav_button_menu" }}
+  </button>
+  {{ $current := . }}
+  <ul id="patterns-list">
+  {{ range .Site.Menus.divider }}
+    <li class="pattern">
+      {{ $active := or ($current.IsMenuCurrent "divider" .) ($current.HasMenuCurrent "divider" .) }}
+      {{ $active = or $active (eq .Name $current.Title) }}
+        <span class="text">{{ .Name }}</span>
+    </li>
+  {{ end }}
+  </ul>
+</nav>
