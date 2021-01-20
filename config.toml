@@ -72,7 +72,7 @@ google-fonts = [
   [[menu.nav]]
     name = """
       Here is Love:
-      Exposition in Romans 8"""
+      Exposition on Romans 8"""
     url = "/tags/here-is-love/"
     weight = 21
   [[menu.nav]]

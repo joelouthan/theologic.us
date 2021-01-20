@@ -39,7 +39,7 @@ I want to point out the obvious: I am going to guess and say that none of her te
 
 "But Joseph," you might exclaim, "how can you say that? If your parents never met, you wouldn't be here today." You see, that's my point. If they had met, got married, and lived happily forever after, then it would be a touching story, and I am not opposed to touching stories.
 
-But this touching and romantic story is bookended with depravity before and evilness of sin afterward. My dad, being a real piece of work before meeting my mom, proceeds to marry my mom and becomes even worse since marrying my mom. That's the part that doesn't make sense to me. So in my defense, I do have the right to question that meeting and marriage for the rest of my days. I am here right now--I am already born. I cannot change the past with my questions. 
+But this touching and romantic story is bookend with depravity before and evilness of sin afterward. My dad, being a real piece of work before meeting my mom, proceeds to marry my mom and becomes even worse since marrying my mom. That's the part that doesn't make sense to me. So in my defense, I do have the right to question that meeting and marriage for the rest of my days. I am here right now--I am already born. I cannot change the past with my questions. 
 
 My dad is dead, and I haven't seen my mom since I was five. So unless my mom magically appears out of nowhere, I am probably not going to get answers to those questions anytime soon.
 
