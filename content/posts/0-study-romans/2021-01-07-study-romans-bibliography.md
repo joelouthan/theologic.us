@@ -21,7 +21,7 @@ draft: false
 
 ## By Me
 
-[Here is Love: Exposition on Romans 8](/tags/here-is-love/) This is the work that really started it all. And by all I mean, all of reading, writing, studying, teaching, and preaching. I worked on this from 2012 to 2018.  I cannot begin to tell you the agonizing and cripplingly darkness I went through while writing this book. At the end, it ended up being my worshipful testimony of the heights and depths of the beauty of God's grace alone.  Even outside of Romans 8 in the Bible, I will unashamedlyoften refer to Romans 8. Why? Romans 8 is contains the entire gospel.
+[Here is Love: Exposition on Romans 8](/tags/here-is-love/) This is the work that really started it all. And by all I mean, all of reading, writing, studying, teaching, and preaching. I worked on this from 2012 to 2018.  I cannot begin to tell you the agonizing and cripplingly darkness I went through while writing this book. At the end, it ended up being my worshipful testimony of the heights and depths of the beauty of God's grace alone.  Even outside of Romans 8 in the Bible, I will unashamedly often refer to Romans 8. Why? Romans 8 is contains the entire gospel.
 
 You can certainly do worse than to memorize it, write songs about it, and even write books about it.  There are too many rightful references to Romans 8 being Mount Everest of any chapter in the Bible.  Martin Luther called it, "The clearest gospel of all."
 
