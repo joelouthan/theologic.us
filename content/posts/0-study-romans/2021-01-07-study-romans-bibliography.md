@@ -98,7 +98,7 @@ I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://
 <p style="clear:both;">
 
 <a href="https://www.amazon.com/Commentary-Romans-Luther-Classic-Commentaries/dp/0825431204/ref=as_li_ss_il?dchild=1&keywords=Martin+Luther+romans&qid=1611176834&sr=8-3&linkCode=li3&tag=theologicus-20&linkId=c2b311be7da18731c47128c29289dbf6&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825431204&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0825431204" width="0" height="0" border="0" alt="" style="float: left;" />  
-Commentary on Romans</a>  \
+Commentary on Romans</a>  
 by Martin Luther (Author), J. Theodore Mueller (Translator)  
 2003, Kregel  
 
