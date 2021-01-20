@@ -43,7 +43,7 @@ For more of a complete review, read mine here at [Goodreads.com](https://www.goo
 
 <p style="clear:both;">
 
-<a href="https://www.amazon.com/dp/1642891886/ref=as_li_ss_il?psc=1&pd_rd_i=1642891886&pd_rd_w=i6r9R&pf_rd_p=45e679f6-d55f-4626-99ea-f1ec7720af94&pd_rd_wg=LUfcC&pf_rd_r=4P6NWN2W4FPDGYNGRMBM&pd_rd_r=0f7acbe3-4027-40e9-8983-869ebaf8ba16&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyT0Q4Rk42VUozWFhMJmVuY3J5cHRlZElkPUEwNjk5NzcyM0Q0MzFJQ1ROODU2SiZlbmNyeXB0ZWRBZElkPUEwNzc5NjkyM1BZSVBSRUdSWFU5ViZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li3&tag=theologicus-20&linkId=1cfeaea22958961af0624cac987dcd95&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642891886&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=1642891886" width="0" height="0" border="0" alt="" style="float: left;" />  
+<a href="https://www.amazon.com/dp/1642891886/ref=as_li_ss_il?psc=1&pd_rd_i=1642891886&pd_rd_w=i6r9R&pf_rd_p=45e679f6-d55f-4626-99ea-f1ec7720af94&pd_rd_wg=LUfcC&pf_rd_r=4P6NWN2W4FPDGYNGRMBM&pd_rd_r=0f7acbe3-4027-40e9-8983-869ebaf8ba16&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyT0Q4Rk42VUozWFhMJmVuY3J5cHRlZElkPUEwNjk5NzcyM0Q0MzFJQ1ROODU2SiZlbmNyeXB0ZWRBZElkPUEwNzc5NjkyM1BZSVBSRUdSWFU5ViZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li3&tag=theologicus-20&linkId=1cfeaea22958961af0624cac987dcd95&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642891886&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=1642891886" width="0" height="0" border="0" alt="" style="float: left;" />  
 Romans (St. Andrews Expositional Commentary)</a>  
 R.C. Sproul  
 2009, Crossway.  
@@ -52,7 +52,7 @@ If I was forced at gunpoint to choose one commentary for Romans, this would be t
 
 <p style="clear:both;">
 
-<a href="https://www.amazon.com/Epistle-Romans-International-Commentary-Testament/dp/0802823173/ref=as_li_ss_il?crid=11PR15B6KFK8G&dchild=1&keywords=douglas+moo+romans+commentary&qid=1611171334&sprefix=Douglas+moo+%2Caps%2C164&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=7d6fa2b8bcf7eda439780c1a3856cfb8&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802823173&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0802823173" width="0" height="0" border="0" alt="" style="float: left;" />  
+<a href="https://www.amazon.com/Epistle-Romans-International-Commentary-Testament/dp/0802823173/ref=as_li_ss_il?crid=11PR15B6KFK8G&dchild=1&keywords=douglas+moo+romans+commentary&qid=1611171334&sprefix=Douglas+moo+%2Caps%2C164&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=7d6fa2b8bcf7eda439780c1a3856cfb8&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802823173&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0802823173" width="0" height="0" border="0" alt="" style="float: left;" />  
 The Epistle to the Romans (First Edition) (NICNT)</a>   
 by Douglas Moo  
 1996, Eerdmans.  
@@ -61,7 +61,7 @@ I only mentioned the first edition because the second edition came out in 2020 a
 
 <p style="clear:both;">
 
-<a href="https://www.amazon.com/Commentary-Romans-William-Swan-Plumer/dp/0825435439/ref=as_li_ss_il?dchild=1&keywords=0825435439&qid=1611173880&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=24f7590a3af3cdb837c4c6637b63fab5&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825435439&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 20px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0825435439" width="0" height="0" border="0" alt="" style="float: left;" />   
+<a href="https://www.amazon.com/Commentary-Romans-William-Swan-Plumer/dp/0825435439/ref=as_li_ss_il?dchild=1&keywords=0825435439&qid=1611173880&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=24f7590a3af3cdb837c4c6637b63fab5&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825435439&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 20px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0825435439" width="0" height="0" border="0" alt="" style="float: left;" />   
 Commentary on Romans</a>  
 by William S. Plumer  
 1993, Kregel.  
@@ -70,7 +70,7 @@ This dude is pre-Liberalism Princeton Theological Seminary. I have not read thro
 
 <p style="clear:both;">
 
-<a href="https://www.amazon.com/Romans-Exegetical-Theological-Exposition-Commentary/dp/080540127X/ref=as_li_ss_il?dchild=1&keywords=Romans+Mounce&qid=1611174269&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=2388612e8b4ca4395dd76cc8c7d5e02a&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=080540127X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=080540127X" width="0" height="0" border="0" alt="" style="float: left;" />  
+<a href="https://www.amazon.com/Romans-Exegetical-Theological-Exposition-Commentary/dp/080540127X/ref=as_li_ss_il?dchild=1&keywords=Romans+Mounce&qid=1611174269&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=2388612e8b4ca4395dd76cc8c7d5e02a&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=080540127X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=080540127X" width="0" height="0" border="0" alt="" style="float: left;" />  
 Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)</a>  
 by Robert Mounce  
 1995, Holman Reference  
@@ -79,7 +79,7 @@ Going by what other commentaries I have by Mounce, this stays in my library as w
 
 <p style="clear:both;">
 
-<a href="https://www.amazon.com/Romans-Ancient-Christian-Commentary-Scripture/dp/083081356X/ref=as_li_ss_il?crid=1F66D6EH2UW9B&dchild=1&keywords=ancient+commentary+on+scripture+romans&qid=1611175242&sprefix=ancient+comm%2Caps%2C171&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=f434c9e181fba0bb9100d79b5b8f539b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=083081356X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=083081356X" width="0" height="0" border="0" alt="" style="float: left;" />  
+<a href="https://www.amazon.com/Romans-Ancient-Christian-Commentary-Scripture/dp/083081356X/ref=as_li_ss_il?crid=1F66D6EH2UW9B&dchild=1&keywords=ancient+commentary+on+scripture+romans&qid=1611175242&sprefix=ancient+comm%2Caps%2C171&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=f434c9e181fba0bb9100d79b5b8f539b&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=083081356X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=083081356X" width="0" height="0" border="0" alt="" style="float: left;" />  
 Romans (Ancient Christian Commentary on Scripture, NT Volume 6)</a>  
 by Gerald L. Bray (Editor)  
 2005, IVP Academic  
@@ -97,8 +97,8 @@ I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://
 
 <p style="clear:both;">
 
-<a href="https://www.amazon.com/Commentary-Romans-Luther-Classic-Commentaries/dp/0825431204/ref=as_li_ss_il?dchild=1&keywords=Martin+Luther+romans&qid=1611176834&sr=8-3&linkCode=li3&tag=theologicus-20&linkId=c2b311be7da18731c47128c29289dbf6&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825431204&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0825431204" width="0" height="0" border="0" alt="" style="float: left;" />  
-Commentary on Romans</a>  
+<a href="https://www.amazon.com/Commentary-Romans-Luther-Classic-Commentaries/dp/0825431204/ref=as_li_ss_il?dchild=1&keywords=Martin+Luther+romans&qid=1611176834&sr=8-3&linkCode=li3&tag=theologicus-20&linkId=c2b311be7da18731c47128c29289dbf6&language=en_US" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825431204&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" style="float: left;padding: 10px;"><img src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0825431204" width="0" height="0" border="0" alt="" style="float: left;" />  
+Commentary on Romans</a>  \
 by Martin Luther (Author), J. Theodore Mueller (Translator)  
 2003, Kregel  
 
