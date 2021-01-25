@@ -14,11 +14,21 @@ draft: true
 ---
 ## The Text
 
+
+
 ## The Support
+
+
 
 ## God
 
+
+
 ## The Gospel
 
+
+
 ## Our Responsibility
+
+
 

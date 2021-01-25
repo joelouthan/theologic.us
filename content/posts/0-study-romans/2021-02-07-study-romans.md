@@ -14,9 +14,9 @@ draft: false
 ---
 ## The Text
 
-Romans 1:26-32 For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones. <sup>27</sup> The men in the same way also left natural relations with women and were inflamed in their lust for one another. Men committed shameless acts with men and received in their own persons the appropriate penalty of their error.
+**Romans 1:26-32 For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones. <sup>27</sup> The men in the same way also left natural relations with women and were inflamed in their lust for one another. Men committed shameless acts with men and received in their own persons the appropriate penalty of their error.**
 
-<sup>28</sup> And because they did not think it worthwhile to acknowledge God, God delivered them over to a corrupt mind so that they do what is not right. <sup>29</sup> They are filled with all unrighteousness, evil, greed, and wickedness. They are full of envy, murder, quarrels, deceit, and malice. They are gossips, <sup>30</sup> slanderers, God-haters, arrogant, proud, boastful, inventors of evil, disobedient to parents, <sup>31</sup> senseless, untrustworthy, unloving, and unmerciful. <sup>32</sup> Although they know God’s just sentence—that those who practice such things deserve to die,—they not only do them, but even applaud, others who practice them.
+**<sup>28</sup> And because they did not think it worthwhile to acknowledge God, God delivered them over to a corrupt mind so that they do what is not right. <sup>29</sup> They are filled with all unrighteousness, evil, greed, and wickedness. They are full of envy, murder, quarrels, deceit, and malice. They are gossips, <sup>30</sup> slanderers, God-haters, arrogant, proud, boastful, inventors of evil, disobedient to parents, <sup>31</sup> senseless, untrustworthy, unloving, and unmerciful. <sup>32</sup> Although they know God’s just sentence—that those who practice such things deserve to die,—they not only do them, but even applaud, others who practice them.**
 
 ## The Support
 
@@ -38,73 +38,67 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 
 ### All Wrath Belongs to God
 
-    Hebrews 1:8 (CSB)
+> Hebrews 1:8 (CSB)
+> but to the Son:
+> Your throne, God,
+> is forever and ever,
+> and the scepter of your kingdom
+> is a scepter of justice.
 
-    but to the Son: 
+> Psalm 110:1 (CSB)
+> This is the declaration of the LORD to my Lord:
+> “Sit at my right hand
+> until I make your enemies your footstool.”
 
-      Your throne, God, 
-      is forever and ever, 
-      and the scepter of your kingdom 
-      is a scepter of justice.
-
-
-    Psalm 110:1 (CSB)
-
-    This is the declaration of the LORD to my Lord:
-      “Sit at my right hand 
-      until I make your enemies your footstool.”
-
-
-    Psalm 7 (CSB)
-
-      LORD my God, I seek refuge in you; 
-      save me from all my pursuers and rescue me, 
-      or they will tear me like a lion, 
-      ripping me apart with no one to rescue me. 
-
-      LORD my God, if I have done this, 
-      if there is injustice on my hands, 
-      if I have done harm to one at peace with me 
-      or have plundered my adversary without cause, 
-      may an enemy pursue and overtake me; 
-      may he trample me to the ground 
-      and leave my honor in the dust. 
-                                      Selah 
-
-      Rise up, LORD, in your anger; 
-      lift yourself up against the fury of my adversaries; 
-      awake for me; 
-      you have ordained a judgment. 
-      Let the assembly of peoples gather around you; 
-      take your seat on high over it. 
-      The LORD judges the peoples; 
-      vindicate me, LORD, 
-      according to my righteousness and my integrity. 
-
-      Let the evil of the wicked come to an end, 
-      but establish the righteous. 
-      The one who examines the thoughts and emotions 
-      is a righteous God. 
-      My shield is with God, 
-      who saves the upright in heart. 
-      God is a righteous judge 
-      and a God who shows his wrath every day. 
-
-      If anyone does not repent, 
-      he will sharpen his sword; 
-      he has strung his bow and made it ready. 
-      He has prepared his deadly weapons; 
-      he tips his arrows with fire. 
-
-      See, the wicked one is pregnant with evil, 
-      conceives trouble, and gives birth to deceit. 
-      He dug a pit and hollowed it out 
-      but fell into the hole he had made. 
-      His trouble comes back on his own head; 
-      his own violence comes down on top of his head. 
-
-      I will thank the LORD for his righteousness; 
-      I will sing about the name of the LORD Most High.
+> Psalm 7 (CSB)
+> LORD my God, I seek refuge in you;
+> save me from all my pursuers and rescue me,
+> or they will tear me like a lion,
+> ripping me apart with no one to rescue me.
+>
+> LORD my God, if I have done this,
+> if there is injustice on my hands,
+> if I have done harm to one at peace with me
+> or have plundered my adversary without cause,
+> may an enemy pursue and overtake me;
+> may he trample me to the ground
+> and leave my honor in the dust.
+> Selah
+>
+> Rise up, LORD, in your anger;
+> lift yourself up against the fury of my adversaries;
+> awake for me;
+> you have ordained a judgment.
+> Let the assembly of peoples gather around you;
+> take your seat on high over it.
+> The LORD judges the peoples;
+> vindicate me, LORD,
+> according to my righteousness and my integrity.
+>
+> Let the evil of the wicked come to an end,
+> but establish the righteous.
+> The one who examines the thoughts and emotions
+> is a righteous God.
+> My shield is with God,
+> who saves the upright in heart.
+> God is a righteous judge
+> and a God who shows his wrath every day.
+>
+> If anyone does not repent,
+> he will sharpen his sword;
+> he has strung his bow and made it ready.
+> He has prepared his deadly weapons;
+> he tips his arrows with fire.
+>
+> See, the wicked one is pregnant with evil,
+> conceives trouble, and gives birth to deceit.
+> He dug a pit and hollowed it out
+> but fell into the hole he had made.
+> His trouble comes back on his own head;
+> his own violence comes down on top of his head.
+>
+> I will thank the LORD for his righteousness;
+> I will sing about the name of the LORD Most High.
 
 Mankind has always thought of themselves more highly than they out. That is the brokenness of sin upon our lives. That is the folly of the sin. That is how we know we have all fallen short--that none of us think that we can get that bad off.
 
@@ -124,7 +118,7 @@ I tell you this: God certainly did this to me.  When people ask me about my test
 
 And I am not the best person who can read other people's reactions. But what should have been an obvious "absolutely not", I have seen some pause to think about it. I think that says more about our culture than anything else.
 
-But there I was: working in the creation of and distribution of porn and at the same time thinking I was a Christian simply because I raised my hand when I was 7 years old at a Baptist church in Oklahoma City because I didn't want to go to hell.  I have no doubt the kid to my right or left sincerely trusted in the Lord with all of their heart. Me? I tried to always do the right thing: pray, read my KJV Bible, get baptized and go to church.  But I never repented. I never trusted God with my sin and wickedness and my salvation. And I kept running back to porn over and over again from age 8 onward. It got so bad that I thought it would be a wonderful idea to help create and distribute porn in the early days of the Internet. 
+But there I was: working in the creation of and distribution of porn and at the same time thinking I was a Christian simply because I raised my hand when I was 7 years old at a Baptist church in Oklahoma City because I didn't want to go to hell.  I have no doubt the kid to my right or left sincerely trusted in the Lord with all of their heart. Me? I tried to always do the right thing: pray, read my KJV Bible, get baptized and go to church.  But I never repented. I never trusted God with my sin and wickedness and my salvation. And I kept running back to porn over and over again from age 8 onward. It got so bad that I thought it would be a wonderful idea to help create and distribute porn in the early days of the Internet.
 
 That is God delivering me over to a corrupt mind so that I do what was not right.
 
