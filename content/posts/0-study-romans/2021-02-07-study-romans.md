@@ -36,7 +36,7 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 
 ## God
 
-### God is Absolute Judge
+### All Wrath Belongs to God
 
     Hebrews 1:8 (CSB)
 
