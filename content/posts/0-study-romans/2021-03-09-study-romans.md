@@ -2,8 +2,8 @@
 title: 'Study: Romans 2:17-29'
 author: Joseph Louthan
 type: post
-publishDate: 2021-02-09
-url: /study-romans/2021-02-09-study-romans/
+publishDate: 2021-03-09
+url: /study-romans/2021-03-09-study-romans/
 categories:
   - Bible Study
   - Podcast

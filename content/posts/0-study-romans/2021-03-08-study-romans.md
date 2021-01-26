@@ -2,8 +2,8 @@
 title: 'Study: Romans 2:1-16'
 author: Joseph Louthan
 type: post
-publishDate: 2021-02-08
-url: /study-romans/2021-02-08-study-romans/
+publishDate: 2021-03-08
+url: /study-romans/2021-03-08-study-romans/
 categories:
   - Bible Study
   - Podcast

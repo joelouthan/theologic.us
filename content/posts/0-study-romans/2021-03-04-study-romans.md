@@ -2,8 +2,8 @@
 title: 'Study: Romans 1:13-15'
 author: Joseph Louthan
 type: post
-publishDate: 2021-02-04
-url: /study-romans/2021-02-04-study-romans/
+publishDate: 2021-03-04
+url: /study-romans/2021-03-04-study-romans/
 categories:
   - Bible Study
   - Podcast

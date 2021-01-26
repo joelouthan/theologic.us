@@ -2,8 +2,8 @@
 title: 'Study: Romans 1:16-17'
 author: Joseph Louthan
 type: post
-publishDate: 2021-02-05
-url: /study-romans/2021-02-05-study-romans/
+publishDate: 2021-03-05
+url: /study-romans/2021-03-05-study-romans/
 categories:
   - Bible Study
   - Podcast

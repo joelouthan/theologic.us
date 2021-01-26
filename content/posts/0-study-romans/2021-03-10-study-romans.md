@@ -2,8 +2,8 @@
 title: 'Study: Romans 3:1-8'
 author: Joseph Louthan
 type: post
-publishDate: 2021-02-10
-url: /study-romans/2021-02-10-study-romans/
+publishDate: 2021-03-10
+url: /study-romans/2021-03-10-study-romans/
 categories:
   - Bible Study
   - Podcast
@@ -29,86 +29,20 @@ draft: false
 
 > Deuteronomy 7:6-8 (ESV) “For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples, but it is because the LORD loves you and is keeping the oath that he swore to your fathers, that the LORD has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
 
-> Isaiah 42:8 (CSB)
-> I am the LORD. That is my name,
-> and I will not give my glory to another
-> or my praise to idols.
+>       Isaiah 42:8 (CSB)
+>       I am the LORD. That is my name,
+>       and I will not give my glory to another
+>       or my praise to idols.
 
-> Isaiah 48:3-22 (CSB)
-> I declared the past events long ago;
-> they came out of my mouth; I proclaimed them.
-> Suddenly I acted, and they occurred.
-> Because I know that you are stubborn,
-> and your neck is iron
-> and your forehead bronze,
-> therefore I declared to you long ago.
-> I announced it to you before it occurred,
-> so you could not claim, ‘My idol caused them;
-> my carved image and cast idol control them.’
-> You have heard it. Observe it all.
-> Will you not acknowledge it?
-> From now on I will announce new things to you,
-> hidden things that you have not known.
-> They have been created now, and not long ago;
-> you have not heard of them before today,
-> so you could not claim, ‘I already knew them!’
-> You have never heard; you have never known;
-> for a long time your ears have not been open.
-> For I knew that you were very treacherous,
-> and were known as a rebel from birth.
-> I will delay my anger for the sake of my name,
-> and I will restrain myself for your benefit and for my praise,
-> so that you will not be destroyed.
-> Look, I have refined you, but not as silver;
-> I have tested you in the furnace of affliction.
-> I will act for my own sake, indeed, my own,
-> for how can I be defiled?
-> I will not give my glory to another.
-> “Listen to me, Jacob,
-> and Israel, the one called by me:
-> I am he; I am the first,
-> I am also the last.
-> My own hand founded the earth,
-> and my right hand spread out the heavens;
-> when I summoned them,
-> they stood up together.
-> All of you, assemble and listen!
-> Who among the idols has declared these things?
-> The LORD loves him;
-> he will accomplish his will against Babylon,
-> and his arm will be against the Chaldeans.
-> I—I have spoken;
-> yes, I have called him;
-> I have brought him,
-> and he will succeed in his mission.
-> Approach me and listen to this.
-> From the beginning I have not spoken in secret;
-> from the time anything existed, I was there.”
-> And now the Lord GOD
-> has sent me and his Spirit.
-> This is what the LORD, your Redeemer, the Holy One of Israel says:
-> I am the LORD your God,
-> who teaches you for your benefit,
-> who leads you in the way you should go.
-> If only you had paid attention to my commands.
-> Then your peace would have been like a river,
-> and your righteousness like the waves of the sea.
-> Your descendants would have been as countless as the sand,
-> and the offspring of your body like its grains;
-> their name would not be cut off
-> or eliminated from my presence.
-> Leave Babylon,
-> flee from the Chaldeans!
-> Declare with a shout of joy,
-> proclaim this,
-> let it go out to the end of the earth;
-> announce,
-> “The LORD has redeemed his servant Jacob!”
-> They did not thirst
-> when he led them through the deserts;
-> he made water flow from the rock for them;
-> he split the rock, and water gushed out.
-> “There is no peace for the wicked,” says the LORD.
+>       Isaiah 48:9–11 (CSB)
+>       I will delay my anger for the sake of my name, 
+>       and I will restrain myself for your benefit and for my praise, 
+>       so that you will not be destroyed. 
+>       Look, I have refined you, but not as silver; 
+>       I have tested you in the furnace of affliction. 
+>       I will act for my own sake, indeed, my own, 
+>       for how can I be defiled? 
+>       I will not give my glory to another.
 
 ## God
 
@@ -120,12 +54,12 @@ He is not a mixture of holiness or love; of righteousness or mercy; or just or g
 
 Theologians have called this the Aseity of God--the simplicity of God. If you are able to grasp what this means--that he is simply who he says he is and nothing more nor less and he is not whimsical nor capricious, then you will begin to grasp who God really is. It is why Moses sung:
 
-> Psalms 90:1-2 (ESV)
-> Lord, you have been our dwelling place
-> in all generations.
-> Before the mountains were brought forth,
-> or ever you had formed the earth and the world,
-> from everlasting to everlasting you are God.
+>       Psalms 90:1-2 (ESV)
+>       Lord, you have been our dwelling place
+>       in all generations.
+>       Before the mountains were brought forth,
+>       or ever you had formed the earth and the world,
+>       from everlasting to everlasting you are God.
 
 ## The Gospel
 
@@ -135,10 +69,10 @@ Our little stupid weak gods are exactly like this. That is why we make them up t
 
 Because God is simply and forever glorious, when the Bible says:
 
-> Genesis 3:15 (CSB) I will put hostility between you and the woman,
-> and between your offspring and her offspring.
-> He will strike your head,
-> and you will strike his heel.
+>       Genesis 3:15 (CSB) I will put hostility between you and the woman,
+>       and between your offspring and her offspring.
+>       He will strike your head,
+>       and you will strike his heel.
 
 and
 
@@ -146,24 +80,24 @@ and
 
 and
 
-> Psalms 103:15-18 (CSB) As for man, his days are like grass—
-> he blooms like a flower of the field;
-> when the wind passes over it, it vanishes,
-> and its place is no longer known.
-> But from eternity to eternity
-> the LORD’s faithful love is toward those who fear him,
-> and his righteousness toward the grandchildren
-> of those who keep his covenant,
-> who remember to observe his precepts.
+>       Psalms 103:15-18 (CSB) As for man, his days are like grass—
+>       he blooms like a flower of the field;
+>       when the wind passes over it, it vanishes,
+>       and its place is no longer known.
+>       But from eternity to eternity
+>       the LORD’s faithful love is toward those who fear him,
+>       and his righteousness toward the grandchildren
+>       of those who keep his covenant,
+>       who remember to observe his precepts.
 
 and
 
-> Lamentations 3:22-23 (CSB)
-> Because of the LORD’s faithful love
-> we do not perish,
-> for his mercies never end.
-> They are new every morning;
-> great is your faithfulness!
+>       Lamentations 3:22-23 (CSB)
+>       Because of the LORD’s faithful love
+>       we do not perish,
+>       for his mercies never end.
+>       They are new every morning;
+>       great is your faithfulness!
 
 > Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 

@@ -2,8 +2,8 @@
 title: 'Study: Romans 1:8-12'
 author: Joseph Louthan
 type: post
-publishDate: 2021-02-03
-url: /study-romans/2021-02-03-study-romans/
+publishDate: 2021-03-03
+url: /study-romans/2021-03-03-study-romans/
 categories:
   - Bible Study
   - Podcast
