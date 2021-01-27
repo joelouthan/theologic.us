@@ -14,7 +14,7 @@ draft: true
 
 </div>
     |<---start-here
-> Psalm 54 (CSB For the choir director: with stringed instruments. A Maskil of David. When the Ziphites went and said to Saul, “Is David not hiding among us?” 
+> Psalm 54 (CSB) For the choir director: with stringed instruments. A Maskil of David. When the Ziphites went and said to Saul, “Is David not hiding among us?” 
 
       God, save me by your name, 
       and vindicate me by your might! 
