@@ -56,7 +56,7 @@ params:
         imageTitle: "Papa, Bubs & SNAKE!"
         buttons:
             - name: Updates
-              url: posts
+              url: updates
             - name: Tags
               url: tags
 
