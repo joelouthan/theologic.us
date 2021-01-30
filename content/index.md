@@ -1,19 +1,25 @@
 ---
-title: Theologicus
+title: Updates
 author: Joseph Louthan
 type: post
-date: 20200318T00:00:00-06:00
-
+date: 2021-01-30T22:41:05.006Z
+url: "/posts/"
+draft: false
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
-## Update
+## Progress: Study Romans
 
-I am going to start writing and recording but I need a head start. Let me get a month's worth of episodes before releasing.
+Tentative Release Date: Mar 1st
 
-## NEW! Study: Romans
+Status:
 
-### Thursday, December 31, 2020
+- Written 19/65
+- Record 1/65
+
+## NEW! Study Romans
+
+**Thursday, December 31, 2020**
 
 Since starting an internship at my local church, I am prayerfully and utterly dependent on God for direction and steps. Most certainly, "**The heart of man plans his way, but the LORD establishes his steps.**"[^1]
 
@@ -58,7 +64,7 @@ So join me for a new daily series, [Study: Romans](https://theologic.us/tags/bib
 
 ## NaNoWriMo: How Did I Do?
 
-### Sunday, December 13, 2020
+**Sunday, December 13, 2020**
 
 Let's check the results:
 
