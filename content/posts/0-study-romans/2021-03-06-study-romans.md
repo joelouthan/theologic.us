@@ -97,66 +97,66 @@ If we are the adopted children of God who have been bought with the price of His
 
 The prophet Isaiah says it best:
 
-> Isaiah 40:18–31 (CSB)
-> With whom will you compare God?
-> What likeness will you set up for comparison with him?
-> An idol?—something that a smelter casts
-> and a metalworker plates with gold
-> and makes silver chains for?
-> A poor person contributes wood for a pedestal
-> that will not rot.
-> He looks for a skilled craftsman
-> to set up an idol that will not fall over.
-
-> Do you not know?
-> Have you not heard?
-> Has it not been declared to you
-> from the beginning?
-> Have you not considered
-> the foundations of the earth?
-> God is enthroned above the circle of the earth;
-> its inhabitants are like grasshoppers.
-> He stretches out the heavens like thin cloth
-> and spreads them out like a tent to live in.
-> He reduces princes to nothing
-> and makes judges of the earth like a wasteland.
-> They are barely planted, barely sown,
-> their stem hardly takes root in the ground
-> when he blows on them and they wither,
-> and a whirlwind carries them away like stubble.
-
-> “To whom will you compare me,
-> or who is my equal?” asks the Holy One.
-> Look up and see!
-> Who created these?
-> He brings out the stars by number;
-> he calls all of them by name.
-> Because of his great power and strength,
-> not one of them is missing.
-> Jacob, why do you say,
-> and Israel, why do you assert,
-> “My way is hidden from the LORD,
-> and my claim is ignored by my God”?
-> Do you not know?
-> Have you not heard?
-> The LORD is the everlasting God,
-> the Creator of the whole earth.
+> Isaiah 40:18–31 (CSB)  
+> With whom will you compare God?  
+> What likeness will you set up for comparison with him?  
+> An idol?—something that a smelter casts  
+> and a metalworker plates with gold  
+> and makes silver chains for?  
+> A poor person contributes wood for a pedestal  
+> that will not rot.  
+> He looks for a skilled craftsman  
+> to set up an idol that will not fall over.  
+  
+> Do you not know?  
+> Have you not heard?  
+> Has it not been declared to you  
+> from the beginning?  
+> Have you not considered  
+> the foundations of the earth?  
+> God is enthroned above the circle of the earth;  
+> its inhabitants are like grasshoppers.  
+> He stretches out the heavens like thin cloth  
+> and spreads them out like a tent to live in.  
+> He reduces princes to nothing  
+> and makes judges of the earth like a wasteland.  
+> They are barely planted, barely sown,  
+> their stem hardly takes root in the ground  
+> when he blows on them and they wither,  
+> and a whirlwind carries them away like stubble.  
+  
+> “To whom will you compare me,  
+> or who is my equal?” asks the Holy One.  
+> Look up and see!  
+> Who created these?  
+> He brings out the stars by number;  
+> he calls all of them by name.  
+> Because of his great power and strength,  
+> not one of them is missing.  
+> Jacob, why do you say,  
+> and Israel, why do you assert,  
+> “My way is hidden from the LORD,  
+> and my claim is ignored by my God”?  
+> Do you not know?  
+> Have you not heard?  
+> The LORD is the everlasting God,  
+> the Creator of the whole earth.  
 
 God is not calling you just to obey God because He is God. That is reason enough. But our futile minds cannot process that easily. What we do know, if we are truly honest with ourselves, that our idols and our sin demand too much from us. They will keep taking and taking and taking until we die. The wages of sin is death.
 
 But look at what God has in store for you. Continue with verse 29.
 
-> He never becomes faint or weary;
-> there is no limit to his understanding.
-> He gives strength to the faint
-> and strengthens the powerless.
-> Youths may become faint and weary,
-> and young men stumble and fall,
-> but those who trust in the LORD
-> will renew their strength;
-> they will soar on wings like eagles;
-> they will run and not become weary,
-> they will walk and not faint.
+> He never becomes faint or weary;  
+> there is no limit to his understanding.  
+> He gives strength to the faint  
+> and strengthens the powerless.  
+> Youths may become faint and weary,  
+> and young men stumble and fall,  
+> but those who trust in the LORD  
+> will renew their strength;  
+> they will soar on wings like eagles;  
+> they will run and not become weary,  
+> they will walk and not faint.  
 
 ## The Gospel
 

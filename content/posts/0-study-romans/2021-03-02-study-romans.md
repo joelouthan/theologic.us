@@ -30,12 +30,6 @@ This is the Old Testament.
 
 Consider:
 
-- Genesis 3:15
-- Abraham - father of faith, father of many nations; Romans 8:29 "firstborn among many brethren"
-- Isaac - seed of Abraham yet Christ is "the seed of Abraham"; sacrifice of Isaac but God will provide the perfect sacrifice in Christ
-- Jacob - name literally means, "trickster"; Yet, Jesus bears all the sins of all of his people 2 Cor 5:21
-- Joseph - All dominion, power, authority, honor, and glory is given to Christ - Daniel 7
-
 > Ephesians 1:20–23 (CSB): He exercised this power in Christ by raising him from the dead and seating him at his right hand in the heavens—21 far above every ruler and authority, power and dominion, and every title given, not only in this age but also in the one to come. 22 And he subjected everything under his feet and appointed him as head over everything for the church, 23 which is his body, the fullness of the one who fills all things in every way.
 
 **who was descended from David** - Matthew 1, Luke 3:23-28; Davidic Covenant (this is in place despite God's blood curse on one line from David in Jeremiah 22)

@@ -31,20 +31,20 @@ draft: false
 
 > Deuteronomy 7:6-8 (ESV) “For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples, but it is because the LORD loves you and is keeping the oath that he swore to your fathers, that the LORD has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
 
->       Isaiah 42:8 (CSB)
->       I am the LORD. That is my name,
->       and I will not give my glory to another
->       or my praise to idols.
-
->       Isaiah 48:9–11 (CSB)
->       I will delay my anger for the sake of my name, 
->       and I will restrain myself for your benefit and for my praise, 
->       so that you will not be destroyed. 
->       Look, I have refined you, but not as silver; 
->       I have tested you in the furnace of affliction. 
->       I will act for my own sake, indeed, my own, 
->       for how can I be defiled? 
->       I will not give my glory to another.
+> Isaiah 42:8 (CSB)  
+> I am the LORD. That is my name,  
+> and I will not give my glory to another  
+> or my praise to idols.  
+  
+> Isaiah 48:9–11 (CSB)  
+> I will delay my anger for the sake of my name,   
+> and I will restrain myself for your benefit and for my praise,   
+> so that you will not be destroyed.   
+> Look, I have refined you, but not as silver;   
+> I have tested you in the furnace of affliction.   
+> I will act for my own sake, indeed, my own,   
+> for how can I be defiled?   
+> I will not give my glory to another.  
 
 ## God
 
@@ -56,12 +56,12 @@ He is not a mixture of holiness or love; of righteousness or mercy; or just or g
 
 Theologians have called this the Aseity of God--the simplicity of God. If you are able to grasp what this means--that he is simply who he says he is and nothing more nor less and he is not whimsical nor capricious, then you will begin to grasp who God really is. It is why Moses sung:
 
->       Psalms 90:1-2 (ESV)
->       Lord, you have been our dwelling place
->       in all generations.
->       Before the mountains were brought forth,
->       or ever you had formed the earth and the world,
->       from everlasting to everlasting you are God.
+> Psalms 90:1-2 (ESV)  
+> Lord, you have been our dwelling place  
+> in all generations.  
+> Before the mountains were brought forth,  
+> or ever you had formed the earth and the world,  
+> from everlasting to everlasting you are God.  
 
 ## The Gospel
 
@@ -71,10 +71,10 @@ Our little stupid weak gods are exactly like this. That is why we make them up t
 
 Because God is simply and forever glorious, when the Bible says:
 
->       Genesis 3:15 (CSB) I will put hostility between you and the woman,
->       and between your offspring and her offspring.
->       He will strike your head,
->       and you will strike his heel.
+> Genesis 3:15 (CSB) I will put hostility between you and the woman,  
+> and between your offspring and her offspring.  
+> He will strike your head,  
+> and you will strike his heel.  
 
 and
 
@@ -82,24 +82,24 @@ and
 
 and
 
->       Psalms 103:15-18 (CSB) As for man, his days are like grass—
->       he blooms like a flower of the field;
->       when the wind passes over it, it vanishes,
->       and its place is no longer known.
->       But from eternity to eternity
->       the LORD’s faithful love is toward those who fear him,
->       and his righteousness toward the grandchildren
->       of those who keep his covenant,
->       who remember to observe his precepts.
+> Psalms 103:15-18 (CSB) As for man, his days are like grass—  
+> he blooms like a flower of the field;  
+> when the wind passes over it, it vanishes,  
+> and its place is no longer known.  
+> But from eternity to eternity  
+> the LORD’s faithful love is toward those who fear him,  
+> and his righteousness toward the grandchildren  
+> of those who keep his covenant,  
+> who remember to observe his precepts.  
 
 and
 
->       Lamentations 3:22-23 (CSB)
->       Because of the LORD’s faithful love
->       we do not perish,
->       for his mercies never end.
->       They are new every morning;
->       great is your faithfulness!
+> Lamentations 3:22-23 (CSB)  
+> Because of the LORD’s faithful love  
+> we do not perish,  
+> for his mercies never end.  
+> They are new every morning;  
+> great is your faithfulness!  
 
 > Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 

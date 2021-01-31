@@ -40,64 +40,64 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 
 ### All Wrath Belongs to God
 
->       Hebrews 1:8 (CSB)
->       but to the Son:
->       Your throne, God,
->       is forever and ever,
->       and the scepter of your kingdom
->       is a scepter of justice.
-
->       Psalm 110:1 (CSB)
->       This is the declaration of the LORD to my Lord:
->       “Sit at my right hand
->       until I make your enemies your footstool.”
-
->       Psalm 7 (CSB)
->       LORD my God, I seek refuge in you;
->       save me from all my pursuers and rescue me,
->       or they will tear me like a lion,
->       ripping me apart with no one to rescue me. 
->       LORD my God, if I have done this,
->       if there is injustice on my hands,
->       if I have done harm to one at peace with me
->       or have plundered my adversary without cause,
->       may an enemy pursue and overtake me;
->       may he trample me to the ground
->       and leave my honor in the dust.
-
->       Selah
-
->       Rise up, LORD, in your anger;
->       lift yourself up against the fury of my adversaries;
->       awake for me;
->       you have ordained a judgment.
->       Let the assembly of peoples gather around you;
->       take your seat on high over it.
->       The LORD judges the peoples;
->       vindicate me, LORD,
->       according to my righteousness and my integrity.
->       Let the evil of the wicked come to an end,
->       but establish the righteous.
->       The one who examines the thoughts and emotions
->       is a righteous God.
->       My shield is with God,
->       who saves the upright in heart.
->       God is a righteous judge
->       and a God who shows his wrath every day. 
->       If anyone does not repent,
->       he will sharpen his sword;
->       he has strung his bow and made it ready.
->       He has prepared his deadly weapons;
->       he tips his arrows with fire.
->       See, the wicked one is pregnant with evil,
->       conceives trouble, and gives birth to deceit.
->       He dug a pit and hollowed it out
->       but fell into the hole he had made.
->       His trouble comes back on his own head;
->       his own violence comes down on top of his head.
- 
->       I will thank the LORD for his righteousness;
->       I will sing about the name of the LORD Most High.
+> Hebrews 1:8 (CSB)  
+> but to the Son:  
+> Your throne, God,  
+> is forever and ever,  
+> and the scepter of your kingdom  
+> is a scepter of justice.  
+  
+> Psalm 110:1 (CSB)  
+> This is the declaration of the LORD to my Lord:  
+> “Sit at my right hand  
+> until I make your enemies your footstool.”  
+  
+> Psalm 7 (CSB)  
+> LORD my God, I seek refuge in you;  
+> save me from all my pursuers and rescue me,  
+> or they will tear me like a lion,  
+> ripping me apart with no one to rescue me.   
+> LORD my God, if I have done this,  
+> if there is injustice on my hands,  
+> if I have done harm to one at peace with me  
+> or have plundered my adversary without cause,  
+> may an enemy pursue and overtake me;  
+> may he trample me to the ground  
+> and leave my honor in the dust.  
+  
+> Selah  
+  
+> Rise up, LORD, in your anger;  
+> lift yourself up against the fury of my adversaries;  
+> awake for me;  
+> you have ordained a judgment.  
+> Let the assembly of peoples gather around you;  
+> take your seat on high over it.  
+> The LORD judges the peoples;  
+> vindicate me, LORD,  
+> according to my righteousness and my integrity.  
+> Let the evil of the wicked come to an end,  
+> but establish the righteous.  
+> The one who examines the thoughts and emotions  
+> is a righteous God.  
+> My shield is with God,  
+> who saves the upright in heart.  
+> God is a righteous judge  
+> and a God who shows his wrath every day.   
+> If anyone does not repent,  
+> he will sharpen his sword;  
+> he has strung his bow and made it ready.  
+> He has prepared his deadly weapons;  
+> he tips his arrows with fire.  
+> See, the wicked one is pregnant with evil,  
+> conceives trouble, and gives birth to deceit.  
+> He dug a pit and hollowed it out  
+> but fell into the hole he had made.  
+> His trouble comes back on his own head;  
+> his own violence comes down on top of his head.  
+   
+> I will thank the LORD for his righteousness;  
+> I will sing about the name of the LORD Most High.  
 
 Mankind has always thought of themselves more highly than they out. That is the brokenness of sin upon our lives. That is the folly of the sin. That is how we know we have all fallen short--that none of us think that we can get that bad off.
 

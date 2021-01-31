@@ -24,19 +24,19 @@ draft: false
 
 > Matthew 23:3-4 (CSB) Therefore do whatever they tell you, and observe it. But don’t do what they do, because they don’t practice what they teach. They tie up heavy loads that are hard to carry and put them on people’s shoulders, but they themselves aren’t willing to lift a finger to move them.
 
-> Isaiah 64:5-7 (CSB)
-> You welcome the one who joyfully does what is right;
-> they remember you in your ways.
-> But we have sinned, and you were angry.
-> How can we be saved if we remain in our sins?
-> All of us have become like something unclean,
-> and all our righteous acts are like a polluted garment;
-> all of us wither like a leaf,
-> and our iniquities carry us away like the wind.
-> No one calls on your name,
-> striving to take hold of you.
-> For you have hidden your face from us
-> and made us melt because of our iniquity.
+> Isaiah 64:5-7 (CSB)  
+> You welcome the one who joyfully does what is right;  
+> they remember you in your ways.  
+> But we have sinned, and you were angry.  
+> How can we be saved if we remain in our sins?  
+> All of us have become like something unclean,  
+> and all our righteous acts are like a polluted garment;  
+> all of us wither like a leaf,  
+> and our iniquities carry us away like the wind.  
+> No one calls on your name,  
+> striving to take hold of you.  
+> For you have hidden your face from us  
+> and made us melt because of our iniquity.  
 
 > James 2:10 (CSB) For whoever keeps the entire law, and yet stumbles at one point, is guilty of breaking it all.
 

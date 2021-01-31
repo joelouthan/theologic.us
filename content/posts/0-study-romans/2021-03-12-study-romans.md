@@ -21,10 +21,10 @@ draft: false
 
 ## The Support
 
->       Isaiah 42:8 (CSB)
->       I am the LORD. That is my name,
->       and I will not give my glory to another
->       or my praise to idols.
+> Isaiah 42:8 (CSB)  
+> I am the LORD. That is my name,  
+> and I will not give my glory to another  
+> or my praise to idols.  
 
 > Matthew 23:3-4 (CSB) Therefore do whatever they tell you, and observe it. But don’t do what they do, because they don’t practice what they teach. They tie up heavy loads that are hard to carry and put them on people’s shoulders, but they themselves aren’t willing to lift a finger to move them.
 

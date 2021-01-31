@@ -95,10 +95,10 @@ But can I tell you something: for all the testimonies I have ever heard, I have 
 
 My friends, God is not a "Escape From Hell" fire insurance card that you keep in your back pocket in case of emergency. The best and distinctly description I would have of God would be this:
 
-> Psalms 16:11 (ESV)
-> You make known to me the path of life;
-> in your presence there is fullness of joy;
-> at your right hand are pleasures forevermore.
+> Psalms 16:11 (ESV)  
+> You make known to me the path of life;  
+> in your presence there is fullness of joy;  
+> at your right hand are pleasures forevermore.  
 
 Don't be insane. Choose real life, fullness of joy and pleasures forevermore. Trust in God. Your circumstances might not change. I cannot promise that. You might have to go through a lot of healing of your mind and heart. Hey, God promises that we will be conformed to the image of His Son. Trust in him. Don't wait. Right now. Trust in him.
 

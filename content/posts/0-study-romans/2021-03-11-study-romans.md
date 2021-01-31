@@ -19,21 +19,21 @@ draft: false
 
 > Romans 3:9–26 (CSB) What then? Are we any better off? Not at all! For we have already charged that both Jews and Greeks are all under sin, as it is written:
 
->      There is no one righteous, not even one.
->      There is no one who understands;
->      there is no one who seeks God.
->      All have turned away;
->      all alike have become worthless.
->      There is no one who does what is good,
->      not even one.
->      Their throat is an open grave;
->      they deceive with their tongues.
->      Vipers’ venom is under their lips.
->      Their mouth is full of cursing and bitterness.
->      Their feet are swift to shed blood;
->      ruin and wretchedness are in their paths,
->      and the path of peace they have not known.
->      There is no fear of God before their eyes.
+> There is no one righteous, not even one.  
+> There is no one who understands;  
+> there is no one who seeks God.  
+> All have turned away;  
+> all alike have become worthless.  
+> There is no one who does what is good,  
+> not even one.  
+> Their throat is an open grave;  
+> they deceive with their tongues.  
+> Vipers’ venom is under their lips.  
+> Their mouth is full of cursing and bitterness.  
+> Their feet are swift to shed blood;  
+> ruin and wretchedness are in their paths,  
+> and the path of peace they have not known.  
+> There is no fear of God before their eyes.  
 
 > Now we know that whatever the law says, it speaks to those who are subject to the law, so that every mouth may be shut and the whole world may become subject to God’s judgment. For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law.
 
@@ -41,8 +41,7 @@ draft: false
 
 ## The Support
 
-> Genesis 3:7–19 (CSB)
-> Then the eyes of both of them were opened, and they knew they were naked; so they sewed fig leaves together and made coverings for themselves.
+> Genesis 3:7–19 (CSB) Then the eyes of both of them were opened, and they knew they were naked; so they sewed fig leaves together and made coverings for themselves.
 >
 > Then the man and his wife heard the sound of the LORD God walking in the garden at the time of the evening breeze, and they hid from the LORD God among the trees of the garden. So the LORD God called out to the man and said to him, “Where are you?”
 >
@@ -58,35 +57,35 @@ draft: false
 >
 > So the LORD God said to the serpent:
 
->      Because you have done this,
->      you are cursed more than any livestock
->      and more than any wild animal.
->      You will move on your belly
->      and eat dust all the days of your life.
->      I will put hostility between you and the woman,
->      and between your offspring and her offspring.
->      He will strike your head,
->      and you will strike his heel.
-
-> He said to the woman:
-
->      I will intensify your labor pains;
->      you will bear children with painful effort.
->      Your desire will be for your husband,
->      yet he will rule over you.
+> Because you have done this,  
+> you are cursed more than any livestock  
+> and more than any wild animal.  
+> You will move on your belly  
+> and eat dust all the days of your life.  
+> I will put hostility between you and the woman,  
+> and between your offspring and her offspring.  
+> He will strike your head,  
+> and you will strike his heel.  
+  
+> He said to the woman:  
+  
+> I will intensify your labor pains;  
+> you will bear children with painful effort.  
+> Your desire will be for your husband,  
+> yet he will rule over you.  
 
 > And he said to the man, “Because you listened to your wife and ate from the tree about which I commanded you, ‘Do not eat from it’:
 
->      The ground is cursed because of you.
->      You will eat from it by means of painful labor
->      all the days of your life.
->      It will produce thorns and thistles for you,
->      and you will eat the plants of the field.
->      You will eat bread by the sweat of your brow
->      until you return to the ground,
->      since you were taken from it.
->      For you are dust,
->      and you will return to dust.”
+> The ground is cursed because of you.  
+> You will eat from it by means of painful labor  
+> all the days of your life.  
+> It will produce thorns and thistles for you,  
+> and you will eat the plants of the field.  
+> You will eat bread by the sweat of your brow  
+> until you return to the ground,  
+> since you were taken from it.  
+> For you are dust,  
+> and you will return to dust.”  
 
 How do I know, without a shadow of a doubt, that "No one is good, no, not even one" and "All have sinned and fallen short of the glory of God?"
 
