@@ -11,6 +11,7 @@ tags:
   - lyrics
 series:
   - 'Scriptual Prooftext Lyrics'
+draft: true
 ---
 <table id="tablepress-20180728" class="tablepress tablepress-id-20180728">
   <tr class="row-1">

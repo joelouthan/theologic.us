@@ -11,7 +11,7 @@ tags:
   - Prooftext
 series:
   - 'Confession with Prooftext'
-
+draft: true
 ---
 <table id="tablepress-1-no-2" class="tablepress tablepress-id-1">
   <tr class="row-1 odd">

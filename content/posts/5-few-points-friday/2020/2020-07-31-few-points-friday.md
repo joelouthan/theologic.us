@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 ## Sweeter Than Honey and the Drippings of the Honeycomb
 

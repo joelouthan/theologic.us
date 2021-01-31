@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 >Three Persons and one God, I bless and praise thee,<br>

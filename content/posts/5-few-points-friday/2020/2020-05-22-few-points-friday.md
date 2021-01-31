@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 **On legalism and self-righteousness**

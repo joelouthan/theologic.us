@@ -55,12 +55,14 @@ params:
         imageHeight: 300
         imageTitle: "Papa, Bubs & SNAKE!"
         buttons:
-            - name: Posts
+            - name: Recent Posts
               url: posts
             - name: Updates
               url: updates
-            - name: Tags
-              url: tags
+            - name: Series
+              url: series
+            - name: "Bible Study: Romans"
+              url: /series/bible-study-romans/
 
     # home-info mode
     homeInfoParams:
@@ -107,10 +109,14 @@ menu:
           name: series
           url: /series/
           weight: 10
+        - identifier: Categories
+          name: categories
+          url: /categories/
+          weight: 20
         - identifier: 
           name: tags
           url: /tags/
-          weight: 20
+          weight: 30
 
 taxonomies:
     category: categories

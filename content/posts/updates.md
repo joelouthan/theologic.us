@@ -25,10 +25,8 @@ Since starting an internship at my local church, I am prayerfully and utterly de
 
 What boils that down for me is to answer this question at every turn, "**Where does God's grace have me at the moment?**" I am future guy. What that means is that nine times out of ten, I think about the future, stay in the future, and "live" in the future. The past? That is old news. I don't have time for history. The present? As you can imagine, I have had a difficult time staying present when I spend all of my time trying to get to the future.
 
-<figure>
-    <img src='https://theologic.us/images/doc-brown.png' alt='Doc Brown, Back to the Future' />
-    <figcaption>Me and Doc Brown are one.</figcaption>
-</figure>
+
+{{< figure src="../images/doc-brown.png#center" caption="Doc Brown and I are one" >}}
 
 But when I ask the question, "**Where does God's grace have me right now?**", that anchors me to the present and makes me realize what God is doing now.
 
