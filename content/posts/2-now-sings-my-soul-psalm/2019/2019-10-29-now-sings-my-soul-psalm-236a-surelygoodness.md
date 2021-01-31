@@ -7,6 +7,8 @@ url: /prayers/2019-10-29-surely-goodness/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---

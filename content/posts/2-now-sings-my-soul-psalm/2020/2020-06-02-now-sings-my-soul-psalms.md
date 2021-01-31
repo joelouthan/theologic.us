@@ -7,6 +7,8 @@ url: /now-sings-my-soul-psalms/2020-06-02-now-sings-my-soul-psalms/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---

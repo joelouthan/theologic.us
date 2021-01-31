@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 [<img class="alignright size-thumbnail wp-image-2155" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/brand_nubians_everythingiseverything.jpg?resize=300%2C300" alt="brand_nubians_everythingiseverything" width="300" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/brand_nubians_everythingiseverything.jpg?resize=300%2C300 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/brand_nubians_everythingiseverything.jpg?w=400 400w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]

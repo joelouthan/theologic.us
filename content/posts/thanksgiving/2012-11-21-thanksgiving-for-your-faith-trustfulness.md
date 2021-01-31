@@ -10,6 +10,8 @@ categories:
   - Doxology
   - Scriptures
 tags:
+  - Soteriology
+series:
   - Thanksgiving
 
 ---

@@ -7,8 +7,9 @@ url: /prayer/3821/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
   My God,
   

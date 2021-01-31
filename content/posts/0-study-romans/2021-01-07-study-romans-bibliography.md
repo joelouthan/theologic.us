@@ -1,5 +1,5 @@
 ---
-title: 'Study: Romans Bibliography'
+title: 'Study: Romans, A Few Resources'
 author: Joseph Louthan
 type: post
 publishDate: 2021-01-07
@@ -7,9 +7,13 @@ url: /study-romans/2021-01-07-study-romans-bibliography/
 categories:
   - Bible Study
   - Podcast
+  - Bibliography
 tags:
-  - 'Bible Study: Romans'
+  - Romans
   - Podcast
+  - Books
+series:
+  - 'Bible Study: Romans'
 draft: false
 ---
 

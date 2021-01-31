@@ -7,6 +7,8 @@ url: /family-devos-luke/2021-07-08-family-devos-luke/
 categories:
   - Devotions
 tags:
+  - Luke
+series:
   - 'Family Devotions: Luke'
 draft: true
 ---

@@ -7,6 +7,8 @@ url: /memoir/2020-03-15-a-life-of-compromise/
 categories:
   - Memoir
 tags:
+  - Personal
+series:
   - 'A Life of Compromise'
 draft: true
 ---

@@ -6,7 +6,11 @@ date: 2018-08-11T12:00:46+00:00
 url: /scriptual-prooftext-lyrics/in-christ-alone/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/08/91pNKDTmv6L.jpg?resize=825%2C510
 categories:
-  - Scriptual Prooftext Lyrics
+  - lyrics
+tags:
+  - lyrics
+series:
+  - 'Scriptual Prooftext Lyrics'
 
 ---
 <table id="tablepress-20180811" class="tablepress tablepress-id-20180811">

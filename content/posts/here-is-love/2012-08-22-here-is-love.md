@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Doxology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 <pre style="padding-left: 30px;">Here is love, vast as the ocean,

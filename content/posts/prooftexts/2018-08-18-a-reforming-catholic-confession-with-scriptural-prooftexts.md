@@ -6,7 +6,11 @@ date: 2018-08-18T12:00:54+00:00
 url: /scriptual-prooftext-lyrics/a-reforming-catholic-confession-with-scriptural-prooftexts/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2017/09/Luther95theses.jpg?resize=825%2C510
 categories:
-  - Scriptual Prooftext Lyrics
+  - Confession
+tags:
+  - Prooftext
+series:
+  - 'Confession with Prooftext'
 
 ---
 <table id="tablepress-1-no-2" class="tablepress tablepress-id-1">

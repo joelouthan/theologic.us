@@ -8,6 +8,8 @@ featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/Raphae
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 
 ---

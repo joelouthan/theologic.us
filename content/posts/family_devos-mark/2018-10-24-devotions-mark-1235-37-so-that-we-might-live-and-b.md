@@ -5,11 +5,13 @@ type: post
 date: 2018-10-24  
 url: /family_devotions/2018-10-24-mark-1235-37-so-that-we-might-live-and-b.md/  
 categories:  
-  - Devotions  
-tags:  
-  - 'Family Devotions: Mark'  
-draft: false  
----  
+  - Devotions
+tags:
+  - Mark
+series:
+  - 'Family Devotions: Mark'
+draft: false
+---
 
 **Mark 12:35–37 And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David? David himself, in the Holy Spirit, declared,  
   “‘The Lord said to my Lord,  

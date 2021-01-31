@@ -6,7 +6,11 @@ date: 2018-08-04T12:00:24+00:00
 url: /scriptual-prooftext-lyrics/a-billion-times/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/maxresdefault-1.jpg?resize=825%2C510
 categories:
-  - Scriptual Prooftext Lyrics
+  - lyrics
+tags:
+  - lyrics
+series:
+  - 'Scriptual Prooftext Lyrics'
 
 ---
 <table id="tablepress-20180804" class="tablepress tablepress-id-20180804">

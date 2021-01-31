@@ -7,8 +7,9 @@ url: /prayer/psalm-231a-the-lord-is-my-shepherd/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 </pre>
 You are my Good Shepherd.

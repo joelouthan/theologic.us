@@ -7,6 +7,8 @@ url: /prayers/2019-11-05-now-sings-my-soul-psalm-236b-mercies/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---

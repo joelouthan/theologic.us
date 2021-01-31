@@ -8,8 +8,11 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/buildc
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 <p class="p1">
   Matthew 16:15-19 <b>He said to them, “But who do you say that I am?” Simon Peter replied, “You are the Christ, the Son of the living God.” And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.</b>

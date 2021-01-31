@@ -7,6 +7,8 @@ url: /family_devotions/2018-12-28-mark-14-10-11-every-step-is-joy-christ-will-be
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

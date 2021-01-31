@@ -6,8 +6,10 @@ url: /ordo-salutis/ordo-salutis-iv-we-are-destined-for-death/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/Death.jpg?resize=825%2C510
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 <p class="p1">
   <span class="s1"><b>&#8220;How does God determine who he will save and not save?&#8221;</b></span>

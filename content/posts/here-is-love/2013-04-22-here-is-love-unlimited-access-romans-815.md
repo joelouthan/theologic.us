@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 <figure id="attachment_1992" style="width: 300px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-1992 " src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/father-and-son.jpg?resize=300%2C168" alt="Paul Kline/iStockphoto.com" width="300" height="168" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/father-and-son.jpg?resize=300%2C168 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/father-and-son.jpg?resize=400%2C224 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/father-and-son.jpg?resize=600%2C336 600w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/father-and-son.jpg?w=1120 1120w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Paul Kline/iStockphoto.com</figcaption></figure>

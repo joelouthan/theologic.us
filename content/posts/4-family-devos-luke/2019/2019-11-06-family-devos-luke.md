@@ -7,6 +7,8 @@ url: /devotions/2019-11-06-family-devos-luke-to-be-called-a-witness/
 categories:
   - Devotions
 tags:
+  - Luke
+series:
   - 'Family Devotions: Luke'
 draft: false
 ---

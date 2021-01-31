@@ -1,6 +1,6 @@
 baseURL: "https://theologic.us"
 title: Theologicus
-paginate: 10
+paginate: 100
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -30,7 +30,7 @@ params:
     comments: false
     hidemeta: false
     showtoc: true
-    tocopen: true
+    tocopen: false
 
     assets:
         # disableHLJS: true # to disable highlight.js
@@ -55,6 +55,8 @@ params:
         imageHeight: 300
         imageTitle: "Papa, Bubs & SNAKE!"
         buttons:
+            - name: Posts
+              url: posts
             - name: Updates
               url: updates
             - name: Tags
@@ -101,14 +103,19 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: Series
+          name: series
+          url: /series/
           weight: 10
-        - identifier: tags
+        - identifier: 
           name: tags
           url: /tags/
           weight: 20
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

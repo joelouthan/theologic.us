@@ -4,12 +4,12 @@ author: Joseph Louthan
 type: post
 date: 2018-08-07T12:00:58+00:00
 url: /prayer/now-sings-my-soul-psalm-235a-circumstances-abound/
-featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/image.png?resize=550%2C367
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 </pre>
   My God,

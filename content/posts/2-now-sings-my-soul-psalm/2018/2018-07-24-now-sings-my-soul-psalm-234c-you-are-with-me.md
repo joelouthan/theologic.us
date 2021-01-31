@@ -4,12 +4,12 @@ author: Joseph Louthan
 type: post
 date: 2018-07-24T12:00:36+00:00
 url: /prayer/now-sings-my-soul-psalm-234c-you-are-with-me/
-featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/Tulipa_systola_2_gp.jpg?resize=640%2C481
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 </pre>
   My Lord and my God,

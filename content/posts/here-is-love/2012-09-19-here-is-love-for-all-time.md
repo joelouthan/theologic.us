@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 And here is love: **Psalm 103:15-18 As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more.** **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children&#8217;s children, to those who keep his covenant and remember to do his commandments.** 

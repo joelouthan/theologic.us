@@ -8,8 +8,10 @@ categories:
   - Bible Study
   - Podcast
 tags:
-  - 'Bible Study: Romans'
+  - Romans
   - Podcast
+series:
+  - 'Bible Study: Romans'
 draft: false
 ---
 ## The Text

@@ -7,6 +7,8 @@ url: /family_devotions/2018-09-26-mark-121-12-so-that-we-might-live-and-be.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

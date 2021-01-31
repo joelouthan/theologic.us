@@ -7,6 +7,8 @@ url: /commentary-romans/2019-12-23-commentary-romans/
 categories:
   - Commentary
 tags:
+  - Romans
+series:
   - 'Commentary: Romans'
 draft: false
 ---

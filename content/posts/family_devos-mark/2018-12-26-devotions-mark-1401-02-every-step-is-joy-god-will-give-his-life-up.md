@@ -7,6 +7,8 @@ url: /family_devotions/2018-12-26-mark-1401-02-every-step-is-joy-god-will-give-h
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

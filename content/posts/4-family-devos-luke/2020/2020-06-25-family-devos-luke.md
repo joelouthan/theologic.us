@@ -7,6 +7,8 @@ url: /family-devos-luke/2020-06-25-family-devos-luke/
 categories:
   - Devotions
 tags:
+  - Luke
+series:
   - 'Family Devotions: Luke'
 draft: false
 ---

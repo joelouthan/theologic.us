@@ -7,6 +7,8 @@ url: /prayers/now-sings-my-soul-psalm-18-pt-1/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 
 ---

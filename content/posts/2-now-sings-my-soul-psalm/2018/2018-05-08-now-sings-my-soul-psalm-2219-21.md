@@ -8,6 +8,8 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/IMG_09
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 
 ---

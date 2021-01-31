@@ -8,6 +8,9 @@ url: /theology/2019-10-31-here-is-love-1-john-410-that-god-loved-us/
 categories:
   - Theology
 tags:
+  - 1 John
+  - Romans
+series:
   - 'Here is Love'
 ---
 For here is love: **Genesis 3:15**  

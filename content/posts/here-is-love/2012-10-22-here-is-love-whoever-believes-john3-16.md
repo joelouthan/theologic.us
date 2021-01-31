@@ -7,7 +7,9 @@ url: /theology/here-is-love-whoever-believes-john3-16/
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 ![image-20200505135217506](../../images/image-20200505135217506.png)

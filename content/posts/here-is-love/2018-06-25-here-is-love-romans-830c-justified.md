@@ -8,7 +8,9 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/B4jUH2
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 And here is love: **&#8230; and those whom he called he also justified..**.

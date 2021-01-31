@@ -8,8 +8,10 @@ dsq_thread_id:
   - 6608336729
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 > <p class="p1">
 >   <span class="s1">To proclaim ourselves as Christians to proclaim that we believe and trust upon Christ as our Saviour and Lord. </span>

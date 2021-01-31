@@ -10,6 +10,8 @@ dsq_thread_id:
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 
 ---

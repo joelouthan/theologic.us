@@ -7,6 +7,8 @@ url: /prayer/now-sings-my-soul-psalm-21/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 
 ---

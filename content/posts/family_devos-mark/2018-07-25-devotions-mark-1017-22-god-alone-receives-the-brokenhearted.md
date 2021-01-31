@@ -8,6 +8,8 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/Dishon
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 
 ---

@@ -7,6 +7,8 @@ url: /commentary-romans/2020-05-11-commentary-romans/
 categories:
   - Commentary
 tags:
+  - Romans
+series:
   - 'Commentary: Romans'
 draft: false
 ---

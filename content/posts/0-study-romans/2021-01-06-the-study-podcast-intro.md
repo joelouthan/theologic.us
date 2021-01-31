@@ -7,8 +7,10 @@ categories:
   - Bible Study
   - Podcast
 tags:
-  - 'Bible Study: Romans'
+  - Romans
   - Podcast
+series:
+  - 'Bible Study: Romans'
 draft: false
 ---
 Let's get the personal stuff out of the way.

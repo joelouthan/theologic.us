@@ -8,8 +8,11 @@ featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/ManPra
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 **Pray then like this:**
 

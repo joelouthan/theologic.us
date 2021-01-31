@@ -7,6 +7,8 @@ url: /family_devotions/2018-10-10-mark-1218-27-so-that-we-might-live-and-b.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

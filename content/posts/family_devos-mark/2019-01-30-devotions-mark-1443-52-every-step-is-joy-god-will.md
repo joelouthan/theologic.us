@@ -7,6 +7,8 @@ url: /family_devotions/2019-01-30-mark-1443-52-every-step-is-joy-god-will.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---
