@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   Dear God!
 </div>
+&nbsp;
 
 Who am I that I have been rejected a million times and despised a million times more?
 

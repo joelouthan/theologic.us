@@ -18,6 +18,7 @@ the earth is full of the steadfast love of the LORD.
 <div style="font-variant: small-caps;">
 My Eternal Righteousness
 </div>
+&nbsp;
 I have spent a lifetime
   ignoring this precious truth
   that you loved the world so much

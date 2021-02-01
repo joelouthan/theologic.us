@@ -11,7 +11,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 <p class="p1">
   <span class="s1">Mark 9:42 “<strong>Whoever causes one of these little ones who believe in me to sin, it would be better for him if a great millstone were hung around his neck and he were thrown into the sea.</strong>&#8221; </span>

@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My All-Good
 </div>
+&nbsp;
 My lips have spoken evil
   because my heart was filled with wickedness.
 

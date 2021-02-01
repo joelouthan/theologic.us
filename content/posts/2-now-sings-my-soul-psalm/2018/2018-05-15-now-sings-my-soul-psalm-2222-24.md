@@ -17,6 +17,7 @@ series:
 <div style="font-variant: small-caps;">
   My God in Heaven,
 </div>
+&nbsp;
 
 There is none like you!
 

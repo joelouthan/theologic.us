@@ -15,6 +15,7 @@ draft: false
 <div style="font-variant: small-caps;">
 The Only One Worthy of My Trust
 </div>
+&nbsp;
 
 What is my life, O Lord,
   that I have spent

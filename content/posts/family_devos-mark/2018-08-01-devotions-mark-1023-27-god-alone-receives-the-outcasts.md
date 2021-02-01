@@ -11,7 +11,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 <div>
   Mark 10:23-27 <strong>And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!” And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” And they were exceedingly astonished, and said to him, “Then who can be saved?” Jesus looked at them and said, “With man it is impossible, but not with God. For all things are possible with God.”</strong>

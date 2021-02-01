@@ -35,13 +35,13 @@ But why such extremes? Why did the Son of God have to perish so that others will
 
 For you see, apart from God and without God we stand before God with no representation. We stand before a good and right judge who rightly judges his people from not his people.
 
-Divide those who called upon His name to be saved and those who suppress their own knowledge in order to defy his plainly observed existence. [<sup>1</sup>][1]{#return-note-3612-1.simple-footnote}
+Divide those who called upon His name to be saved and those who suppress their own knowledge in order to defy his plainly observed existence. [][1]{#return-note-3612-1.simple-footnote}
 
-Bifurcate those who have the gift of the Holy Spirit from those have experience and claim the deeds the power of the Holy Spirit for themselves. [<sup>2</sup>][2]{#return-note-3612-2.simple-footnote}
+Bifurcate those who have the gift of the Holy Spirit from those have experience and claim the deeds the power of the Holy Spirit for themselves. [][2]{#return-note-3612-2.simple-footnote}
 
-Separate those who live according to the Spirit from those who live according to the flesh. [<sup>3</sup>][3]{#return-note-3612-3.simple-footnote}
+Separate those who live according to the Spirit from those who live according to the flesh. [][3]{#return-note-3612-3.simple-footnote}
 
-Redirect those who have entered the narrow gate of life away of the masses on the wide gate to destruction. [<sup>4</sup>][4]{#return-note-3612-4.simple-footnote}
+Redirect those who have entered the narrow gate of life away of the masses on the wide gate to destruction. [][4]{#return-note-3612-4.simple-footnote}
 
 Justification is often referred to as a legal term because one, it is and two, a trial actually occurred.
 
@@ -53,9 +53,9 @@ And there is no mistake that the gospel of Matthew has more details about this o
 
 Barabbas was guilty as sin. Yet, Christ stood in his place to appease the blood-thirsty crowds.
 
-We are guilty as sin. Yet, Christ stood in our place to satisfy the just and holy wrath of God upon those do not believe and obey the Son of God. [<sup>5</sup>][5]{#return-note-3612-5.simple-footnote}
+We are guilty as sin. Yet, Christ stood in our place to satisfy the just and holy wrath of God upon those do not believe and obey the Son of God. [][5]{#return-note-3612-5.simple-footnote}
 
-And here is love, the cross of Christ where &#8220;**<span lang="en-US">steadfast love and faithfulness meet and righteousness and peace kiss each other&#8221;.</span>** <span lang="en-US"><a class="simple-footnote" title="Psalm 85:10" id="return-note-3612-6" href="#note-3612-6"><sup>6</sup></a></span>
+And here is love, the cross of Christ where &#8220;**<span lang="en-US">steadfast love and faithfulness meet and righteousness and peace kiss each other&#8221;.</span>** <span lang="en-US"><a class="simple-footnote" title="Psalm 85:10" id="return-note-3612-6" href="#note-3612-6"></a></span>
 
 In the end, we will all stand before that same Son of Man. I will stand before my Savior. But instead of Jesus being mocked, stripped naked, shamed, and in excruciating torturous pain crying out to His Father, Christ Jesus will be glorious, sitting in majesty and at the right hand of the Father.
 

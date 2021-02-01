@@ -13,7 +13,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 **Mark 7:24-30 And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. But immediately a woman whose little daughter had an unclean spirit heard of him and came and fell down at his feet. Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter. And he said to her, “Let the children be fed first, for it is not right to take the children&#8217;s bread and throw it to the dogs.” But she answered him, “Yes, Lord; yet even the dogs under the table eat the children&#8217;s crumbs.” And he said to her, “For this statement you may go your way; the demon has left your daughter.” And she went home and found the child lying in bed and the demon gone.**
 

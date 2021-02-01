@@ -38,7 +38,7 @@ series:
 </p>
 
 <p class="p1">
-  Take a look at this passage: “<b>Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world…”</b> Paul is exhorting us that God is blessed and God has definitely blessed us with every spiritual blessing in the heavenly places. However, for our sake and our thinking is contained within the element of time (while God is not), those blessings did not start with us, within the family we were born, the place in the world where we grew up, nor the people we know although we do know God purposely chooses all of that for us so that we “should seek God, and perhaps feel their way toward him and find him.” <a class="simple-footnote" title="Acts 17:26-28" id="return-note-3556-1" href="#note-3556-1"><sup>1</sup></a>.<span class="Apple-converted-space">  </span>And with the essence of time, it doesn’t necessarily even start with the cross of Christ—although all of God’s glorious aforementioned attributes definitely are on the fullest display at that cross. <a class="simple-footnote" title="Psalm 85:10" id="return-note-3556-2" href="#note-3556-2"><sup>2</sup></a> It started before the foundations of the earth were laid and even before time and space were spoken into existence. It started before Genesis 1:1.
+  Take a look at this passage: “<b>Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world…”</b> Paul is exhorting us that God is blessed and God has definitely blessed us with every spiritual blessing in the heavenly places. However, for our sake and our thinking is contained within the element of time (while God is not), those blessings did not start with us, within the family we were born, the place in the world where we grew up, nor the people we know although we do know God purposely chooses all of that for us so that we “should seek God, and perhaps feel their way toward him and find him.” <a class="simple-footnote" title="Acts 17:26-28" id="return-note-3556-1" href="#note-3556-1"></a>.<span class="Apple-converted-space">  </span>And with the essence of time, it doesn’t necessarily even start with the cross of Christ—although all of God’s glorious aforementioned attributes definitely are on the fullest display at that cross. <a class="simple-footnote" title="Psalm 85:10" id="return-note-3556-2" href="#note-3556-2"></a> It started before the foundations of the earth were laid and even before time and space were spoken into existence. It started before Genesis 1:1.
 </p>
 
 <p class="p1">
@@ -54,7 +54,7 @@ series:
 </p>
 
 <p class="p1">
-  Jesus said it distinctly, “You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.” <a class="simple-footnote" title="John 15:16" id="return-note-3556-3" href="#note-3556-3"><sup>3</sup></a>
+  Jesus said it distinctly, “You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.” <a class="simple-footnote" title="John 15:16" id="return-note-3556-3" href="#note-3556-3"></a>
 </p>
 
 <p class="p1">

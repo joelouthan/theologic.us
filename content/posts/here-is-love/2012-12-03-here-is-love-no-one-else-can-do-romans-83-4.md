@@ -50,7 +50,7 @@ Funny thing is that we can treat the law as a giant checklist and we are still n
 
 God sent the law but the law was never meant to save. Oh, it is holy. It is holy because every single one of those laws keeps pointing back to the God who is holy.
 
-Yet, God saves. God sends someone to perfectly fulfill his own law—not for bragging rights but to live the life we were supposed to live and could not. The law only pointed to God. God sends Himself as His Son in the man Jesus Christ. Christ fulfills the law. Christ points to God. Christ tells the world, “**This is the way, the truth, and the life. Come this way in order to get to God.**” [<sup>1</sup>][2]{#return-note-1489-1.simple-footnote}
+Yet, God saves. God sends someone to perfectly fulfill his own law—not for bragging rights but to live the life we were supposed to live and could not. The law only pointed to God. God sends Himself as His Son in the man Jesus Christ. Christ fulfills the law. Christ points to God. Christ tells the world, “**This is the way, the truth, and the life. Come this way in order to get to God.**” [][2]{#return-note-1489-1.simple-footnote}
 
 In other words, in order for Man to get to God, God has to be the way to God by the way of God through God by God for God alone.
 

@@ -10,10 +10,12 @@ tags:
   - Luke
 series:
   - 'Family Devotions: Luke'
+css: "family-devos"
 draft: false
 ---
 
-**Luke 2:39–40 (CSB) When they had completed everything according to the law of the Lord, they returned to Galilee, to their own town of Nazareth.  The boy grew up and became strong, filled with wisdom, and God’s grace was on him.** 
+Luke 2:39–40 (CSB) When they had completed everything according to the law of the Lord, they returned to Galilee, to their own town of Nazareth.  The boy grew up and became strong, filled with wisdom, and God’s grace was on him.
 
-*What do you think it means for Christ to be fully human--to grew and became strong, filled with wisdom--yet, Jesus was also fully God?*
-
+```text
+What do you think it means for Christ to be fully human--to grew and became strong, filled with wisdom--yet, Jesus was also fully God?
+```

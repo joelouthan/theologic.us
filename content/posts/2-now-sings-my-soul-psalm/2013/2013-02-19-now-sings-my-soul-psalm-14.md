@@ -17,6 +17,7 @@ series:
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
+&nbsp;
 
 I would say to you, “I have not forgotten you.” But what about those times I succumb to the wickedness of my heart, to the depravity of the world, or to the lies of Satan? What about those times?
 

@@ -32,15 +32,15 @@ series:
 </p>
 
 <p class="p1">
-  <b>Nor was it to offer himself repeatedly, as the high priest enters the holy places every year with blood not his own,<span class="Apple-converted-space">  </span>for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself.<span class="Apple-converted-space">  </span>And just as it is appointed for man to die once, and after that comes judgment,<span class="Apple-converted-space">  </span>so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.</b> <a class="simple-footnote" title="Hebrews 9:25–28" id="return-note-3610-1" href="#note-3610-1"><sup>1</sup></a>
+  <b>Nor was it to offer himself repeatedly, as the high priest enters the holy places every year with blood not his own,<span class="Apple-converted-space">  </span>for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself.<span class="Apple-converted-space">  </span>And just as it is appointed for man to die once, and after that comes judgment,<span class="Apple-converted-space">  </span>so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.</b> <a class="simple-footnote" title="Hebrews 9:25–28" id="return-note-3610-1" href="#note-3610-1"></a>
 </p>
 
 <p class="p1">
-  He takes away sin. All sin. For the whole world. For all of his people. And when we are with him, finally with him, we will be with him in a place where “<b>nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life</b>” and “<b>no longer will there be anything accursed</b>.” <a class="simple-footnote" title="Revelation 21:22–22:5" id="return-note-3610-2" href="#note-3610-2"><sup>2</sup></a>
+  He takes away sin. All sin. For the whole world. For all of his people. And when we are with him, finally with him, we will be with him in a place where “<b>nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life</b>” and “<b>no longer will there be anything accursed</b>.” <a class="simple-footnote" title="Revelation 21:22–22:5" id="return-note-3610-2" href="#note-3610-2"></a>
 </p>
 
 <p class="p1">
-  Because of Christ took away sin, “<b>He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.</b>” <a class="simple-footnote" title="Revelation 21:4" id="return-note-3610-3" href="#note-3610-3"><sup>3</sup></a>
+  Because of Christ took away sin, “<b>He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.</b>” <a class="simple-footnote" title="Revelation 21:4" id="return-note-3610-3" href="#note-3610-3"></a>
 </p>
 
 <p class="p1">
@@ -52,7 +52,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.</b> <a class="simple-footnote" title="Revelation 22:5" id="return-note-3610-4" href="#note-3610-4"><sup>4</sup></a>
+  <b>And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.</b> <a class="simple-footnote" title="Revelation 22:5" id="return-note-3610-4" href="#note-3610-4"></a>
 </p>
 
 <p class="p1">
@@ -64,15 +64,15 @@ series:
 </p>
 
 <p class="p1">
-  The same God who <b>made known for me the path of life</b> and therefore, because of all that Christ has done, when I do get to him, I will experience the <b>fullness of joy and pleasures forevermore</b>. <a class="simple-footnote" title="Psalm 16:11" id="return-note-3610-5" href="#note-3610-5"><sup>5</sup></a>
+  The same God who <b>made known for me the path of life</b> and therefore, because of all that Christ has done, when I do get to him, I will experience the <b>fullness of joy and pleasures forevermore</b>. <a class="simple-footnote" title="Psalm 16:11" id="return-note-3610-5" href="#note-3610-5"></a>
 </p>
 
 <p class="p1">
-  It is only there when we will finally experience “<b>the peace of God, which surpasses all understanding.</b>” <a class="simple-footnote" title="Philippians 4:7" id="return-note-3610-6" href="#note-3610-6"><sup>6</sup></a>
+  It is only there when we will finally experience “<b>the peace of God, which surpasses all understanding.</b>” <a class="simple-footnote" title="Philippians 4:7" id="return-note-3610-6" href="#note-3610-6"></a>
 </p>
 
 <p class="p1">
-  It is only there when we will finally <b>“behold your face in righteousness; when I awake, I shall be satisfied with your likeness.”</b> <a class="simple-footnote" title="Psalm 17:15" id="return-note-3610-7" href="#note-3610-7"><sup>7</sup></a>
+  It is only there when we will finally <b>“behold your face in righteousness; when I awake, I shall be satisfied with your likeness.”</b> <a class="simple-footnote" title="Psalm 17:15" id="return-note-3610-7" href="#note-3610-7"></a>
 </p>
 
 <p class="p1">
@@ -80,7 +80,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>The Spirit himself bears witness with our spirit that we are children of God, </b><i> </i><b>and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him. </b><i> </i><b>For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.</b> <a class="simple-footnote" title="Romans 8:16–18" id="return-note-3610-8" href="#note-3610-8"><sup>8</sup></a>
+  <b>The Spirit himself bears witness with our spirit that we are children of God, </b><i> </i><b>and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him. </b><i> </i><b>For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.</b> <a class="simple-footnote" title="Romans 8:16–18" id="return-note-3610-8" href="#note-3610-8"></a>
 </p>
 
 <p class="p1">
@@ -88,7 +88,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>This is the disciple who is bearing witness about these things, and who has written these things, and we know that his testimony is true. </b><i> </i><b>Now there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written.</b> <a class="simple-footnote" title="John 21:24–25" id="return-note-3610-9" href="#note-3610-9"><sup>9</sup></a>
+  <b>This is the disciple who is bearing witness about these things, and who has written these things, and we know that his testimony is true. </b><i> </i><b>Now there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written.</b> <a class="simple-footnote" title="John 21:24–25" id="return-note-3610-9" href="#note-3610-9"></a>
 </p>
 
 <p class="p1">
@@ -97,11 +97,11 @@ series:
 
 Until then, I pray:
 
-If Your promises hold true—if You say You will make all things right despite our folly and sin [<sup>10</sup>][1]{#return-note-3610-10.simple-footnote}; if You say You will bear our iniquities and our trespasses [<sup>11</sup>][2]{#return-note-3610-11.simple-footnote} and You will draw near to us just when we think You are so far away [<sup>12</sup>][3]{#return-note-3610-12.simple-footnote}, then my life and my love is all in Your Word. I have nowhere else to go and no one else to turn to.
+If Your promises hold true—if You say You will make all things right despite our folly and sin [][1]{#return-note-3610-10.simple-footnote}; if You say You will bear our iniquities and our trespasses [][2]{#return-note-3610-11.simple-footnote} and You will draw near to us just when we think You are so far away [][3]{#return-note-3610-12.simple-footnote}, then my life and my love is all in Your Word. I have nowhere else to go and no one else to turn to.
 
-Who can I trust? Where I can seek refuge in? Where shall I go? For you alone have the words to eternal life. [<sup>13</sup>][4]{#return-note-3610-13.simple-footnote}
+Who can I trust? Where I can seek refuge in? Where shall I go? For you alone have the words to eternal life. [][4]{#return-note-3610-13.simple-footnote}
 
-Whom have I in heaven but You? Is there anyone on earth I desire besides You? My heart and flesh will fail but you are my strength and my portion forever. [<sup>14</sup>][5]{#return-note-3610-14.simple-footnote}
+Whom have I in heaven but You? Is there anyone on earth I desire besides You? My heart and flesh will fail but you are my strength and my portion forever. [][5]{#return-note-3610-14.simple-footnote}
 
 This much is true: for you are my God. You loved me and you are always mindful of me even before you created time and space.
 

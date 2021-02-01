@@ -10,15 +10,18 @@ tags:
   - Luke
 series:
   - 'Family Devotions: Luke'
+css: "family-devos"
 draft: false
 ---
 ## The Lord Heals
 
 Luke 4:38–40 (CSB) After he left the synagogue, he entered Simon’s house. Simon’s mother-in-law was suffering from a high fever, and they asked him about her.  So he stood over her and rebuked the fever, and it left her. She got up immediately and began to serve them.  When the sun was setting, all those who had anyone sick with various diseases brought them to him. As he laid his hands on each one of them, he healed them.
 
-*Can we trust God to heal us if we are sick?*
+```text
+Can we trust God to heal us if we are sick?
 
-*In what ways does God heals us? What about doctors, nurses, medicine, or science? Are they from God?*
+In what ways does God heals us? What about doctors, nurses, medicine, or science? Are they from God?
+```
 
 ------
 
@@ -30,9 +33,11 @@ Psalm 37:40 (CSB) The Lord helps and delivers them; he will deliver them from th
 
 John 10:28–29 (CSB) I give them eternal life, and they will never perish. No one will snatch them out of my hand.  My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand.
 
-*If we believe in Jesus, what evils are we being delivered from?*
+```text
+If we believe in Jesus, what evils are we being delivered from?
 
-*Then what are being delivered to?*
+Then what are being delivered to?
+```
 
 ------
 
@@ -42,4 +47,6 @@ Luke 4:42–44 (CSB) When it was day, he went out and made his way to a deserted
 
 Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
-*Why did Jesus come down from heaven?*
+```text
+Why did Jesus come down from heaven?
+```

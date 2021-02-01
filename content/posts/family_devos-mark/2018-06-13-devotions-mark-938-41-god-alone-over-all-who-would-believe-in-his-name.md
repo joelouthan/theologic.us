@@ -11,7 +11,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 <div>
   Mark 9:38-41<strong> John said to him, “Teacher, we saw someone casting out demons in your name, and we tried to stop him because he was not following us.” But Jesus said, “Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me. For the one who is not against us is for us. For truly, I say to you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward.</strong>

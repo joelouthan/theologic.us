@@ -19,5 +19,6 @@ draft: true
 
 <pre>
 <div style="font-variant: small-caps;">My Only Comfort in Life</div>
+&nbsp;
 Lorem ipsum
 </pre>

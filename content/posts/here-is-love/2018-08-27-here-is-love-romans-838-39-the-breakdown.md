@@ -16,7 +16,7 @@ series:
 
 In the year of our 2018, we have Christians contending that their faith would be unshaken if the resurrection never took place. That argument is nothing new. For the orthodox Christian, this is not our first rodeo. Paul was already dealing with this argument thirty years after Jesus ascended to glory:
 
-Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain. [<sup>1</sup>][1]
+Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain. [][1]
 
 Many people today and throughout history love to believe in the love of God, abide in the love of God and attempt to the best of their ability to live by the love of God. But they do that will no mindset or thought about Jesus Christ our Lord and Savior.
 
@@ -26,7 +26,7 @@ But if I change or disbelieve in sin, sin’s effects upon me and my life and th
 
 What I hope that you, the reader, realize is that there is no love of God apart from Jesus Christ our Lord.
 
-Sure, God has grace for the good and the evil, the just and the unjust. [<sup>2</sup>][2]
+Sure, God has grace for the good and the evil, the just and the unjust. [][2]
 
 **If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? No one has ascended into heaven except he who descended from heaven, the Son of Man. And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.**
 
@@ -38,13 +38,13 @@ Here is the rub: the world expects that that they will be saved because God love
 
 John goes on to say: 
 
-**Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.** [<sup>4</sup>][4]
+**Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.** [][4]
 
 This verse (and with the rest of the Bible) flies in the face of what _the world thinks_ is the love of God.
 
 The love of God for you has to be through Jesus Christ the Lord and Savior in order for you to be saved to God. Apart from Jesus, you then remain under the wrath of God.
 
-To the Christian, the 8th chapter of Romans is a full-blown out description of Christ as the path of life, the fullness of joy and pleasures forevermore [<sup>5</sup>][5]. This is a book that cries out, “See what God has done! Come to Him, one who gives great love and sweet rest for your tiresome soul!”
+To the Christian, the 8th chapter of Romans is a full-blown out description of Christ as the path of life, the fullness of joy and pleasures forevermore [][5]. This is a book that cries out, “See what God has done! Come to Him, one who gives great love and sweet rest for your tiresome soul!”
 
 Let me contend to you that God has spelled out precisely what His love is all about—that is, it was all about Jesus Christ his Son.
 
@@ -60,7 +60,7 @@ Let me fall away seven million times, but I am counted righteous unto him and ge
 
 Let all of life wear me down. And then watch the Father come running after me to rescue me yet again that I might live to Him.
 
-Let death come knocking on my door. But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God. [<sup>15</sup>][15]
+Let death come knocking on my door. But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God. [][15]
 
 Let angels, rulers, and powers come at me! For my Christ Jesus is the Commander of the Most High and the Grand Champion and Conqueror over Satan, demons, sin, hell, and death. He is my shield, my sword, strong tower and mighty fortress. I shall not be moved!
 

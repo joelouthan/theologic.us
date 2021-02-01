@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Precious Redeemer</div>
+&nbsp;
 I am going to worship you,
 	all of my days
 	for all of my life

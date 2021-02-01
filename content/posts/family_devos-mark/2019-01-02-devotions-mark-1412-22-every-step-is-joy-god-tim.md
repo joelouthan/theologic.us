@@ -10,6 +10,7 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
+css: "family-devos"
 draft: false
 ---
 **Mark 14:12-22 And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?” And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him, and wherever he enters, say to the master of the house, The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’ And he will show you a large upper room furnished and ready; there prepare for us.” And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.**

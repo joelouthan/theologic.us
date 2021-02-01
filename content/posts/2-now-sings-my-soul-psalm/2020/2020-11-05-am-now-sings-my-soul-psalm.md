@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Creator and Redeemer
 </div>
+&nbsp;
 You are majestic
   and altogether mighty.
 

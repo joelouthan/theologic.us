@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Essence of Faith
 </div>
+&nbsp;
 For all of my life
   I have pretended to be in fear of nothing
 

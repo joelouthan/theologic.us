@@ -10,6 +10,7 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
+css: "family-devos"
 draft: false
 ---
 **Mark 14:1–2 It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, for they said, “Not during the feast, lest there be an uproar from the people.”**

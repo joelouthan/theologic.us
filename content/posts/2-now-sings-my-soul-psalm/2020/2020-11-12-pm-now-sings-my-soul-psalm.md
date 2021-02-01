@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Conquering God
 </div>
+&nbsp;
 You descended to the cross
   with great joy.
 

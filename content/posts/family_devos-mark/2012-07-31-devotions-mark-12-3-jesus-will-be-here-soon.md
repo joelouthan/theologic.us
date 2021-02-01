@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 **Mark 1:2-3 As it is written in Isaiah the prophet,[<img class="alignright size-medium wp-image-162" title="jesus_face_shroud" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/07/jesus_face_shroud.jpeg?resize=246%2C300" width="246" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/07/jesus_face_shroud.jpeg?resize=246%2C300 246w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/07/jesus_face_shroud.jpeg?w=369 369w" sizes="(max-width: 246px) 100vw, 246px" data-recalc-dims="1" />][1]
   

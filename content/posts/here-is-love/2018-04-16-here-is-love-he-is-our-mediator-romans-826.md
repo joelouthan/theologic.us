@@ -19,9 +19,9 @@ Romans 8:26 **Likewise the Spirit helps us in our weakness. For we do not know w
 
 When coming to the full acknowledgment of the pain and anguish of sin that he seems to never be able to overcome, Paul cries the same incredible prayer in the same spirit as the tax collector in the synagogue:
 
-“**Wretched man that I am! Who will deliver me from this body of death?**” [<sup>1</sup>][1]{#return-note-3204-1.simple-footnote}
+“**Wretched man that I am! Who will deliver me from this body of death?**” [][1]{#return-note-3204-1.simple-footnote}
 
-And I believe the totality of Romans 8 is the extended, thorough, exegetical explanation to his powerful nine-word answer: “**Thanks be to God through Christ Jesus our Lord!****”** [<sup>2</sup>][2]{#return-note-3204-2.simple-footnote}
+And I believe the totality of Romans 8 is the extended, thorough, exegetical explanation to his powerful nine-word answer: “**Thanks be to God through Christ Jesus our Lord!****”** [][2]{#return-note-3204-2.simple-footnote}
 
 So let’s suppose that we find ourselves in the same shoes as Paul. We see our sin and we even try to wrestle it and overcome it and try to choke the life out of it but we all know that our strength is neither perfect nor mighty. It wanes day to day and even moment to moment. We are not as strong as the Almighty Savior who counted it as all joy to ascend to the cross and hand over his life as a ransom for many.
 
@@ -29,15 +29,15 @@ What shall we do? Do we give up hope? Do we scream out “Forget this! This is t
 
 But don’t you see? Your cries are exactly like those of the children of Israel. The Old Testament is your prayer and the New Testament is your answer.
 
-What, you can&#8217;t do it? God knows and He shows us His great love for us in that while we were yet sinners, Christ died for us? [<sup>3</sup>][3]{#return-note-3204-3.simple-footnote}
+What, you can&#8217;t do it? God knows and He shows us His great love for us in that while we were yet sinners, Christ died for us? [][3]{#return-note-3204-3.simple-footnote}
 
-Remember before God saved you to himself and filled your heart with His Holy Spirit? When you were “once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.” [<sup>4</sup>][4]{#return-note-3204-4.simple-footnote}
+Remember before God saved you to himself and filled your heart with His Holy Spirit? When you were “once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.” [][4]{#return-note-3204-4.simple-footnote}
 
 Yes, God was mindful of you, saw you, and saved you despite your own wickedness, evilness, and malice towards the Himself.
 
 If God is so good and powerful to do that, what do you think He’s going to do when you know you are weak, sick and more need of a Savior? Leave you? NO! You are His precious adopted child to whom all that belongs to His only begotten Son also is yours.
 
-That gift includes the world. [<sup>5</sup>][5]{#return-note-3204-5.simple-footnote} But that includes something much greater than all of anything that we could want or desire on this earth:
+That gift includes the world. [][5]{#return-note-3204-5.simple-footnote} But that includes something much greater than all of anything that we could want or desire on this earth:
 
 God himself.
 
@@ -59,7 +59,7 @@ So why would he leave you at your weakest?
 
 Paul goes on to say:
 
-&#8220;**But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior, so that being justified by his grace we might become heirs according to the hope of eternal life.**&#8220; [<sup>6</sup>][6]{#return-note-3204-6.simple-footnote}
+&#8220;**But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior, so that being justified by his grace we might become heirs according to the hope of eternal life.**&#8220; [][6]{#return-note-3204-6.simple-footnote}
 
 When sin crouches like a hungry lion ready to devour our souls.
 

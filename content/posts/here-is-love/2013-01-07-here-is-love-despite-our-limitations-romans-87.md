@@ -28,9 +28,9 @@ Have we sat and thought about our thinking? Do we know how we know things? How d
 
 For those who know God, how do you know God?
 
-Is it through some sort of intelligence quotient? If so, what is the minimum IQ for knowing God? Already we see the absurdity of asking such a question, as though anyone with such little intelligence cannot possibly know God. But we know that God has taken the “**foolish of the world in order to shame the wise**.” [<sup>1</sup>][1]{#return-note-1696-1.simple-footnote}
+Is it through some sort of intelligence quotient? If so, what is the minimum IQ for knowing God? Already we see the absurdity of asking such a question, as though anyone with such little intelligence cannot possibly know God. But we know that God has taken the “**foolish of the world in order to shame the wise**.” [][1]{#return-note-1696-1.simple-footnote}
 
-To that end, by the absurdity of such a question, we can easily dismiss any notion of studying or education in order to become a Christian. As C.S. Lewis so aptly says that “Christianity needs no special education to be a Christian is that Christianity is an education itself. That is why an uneducated believer like Bunyan was able to write a book that has astonished the whole world. [<sup>2</sup>][2]{#return-note-1696-2.simple-footnote}
+To that end, by the absurdity of such a question, we can easily dismiss any notion of studying or education in order to become a Christian. As C.S. Lewis so aptly says that “Christianity needs no special education to be a Christian is that Christianity is an education itself. That is why an uneducated believer like Bunyan was able to write a book that has astonished the whole world. [][2]{#return-note-1696-2.simple-footnote}
 
 For the foolish and the wise, for the not-so-smart and the smart, and for the handicapped and the savant, our salvation rests not in our intelligence (which was given to us by God) but rather, rests in the finished work and person of Jesus Christ by the will of the Father and the power of the Holy Spirit alone.
 
@@ -46,7 +46,7 @@ Our minds, apart from God, cannot think on God. Not rightfully so. The world and
 
 The truth is that there are an infinite number of ways to get to God but every single one of them goes through and suffers His incredible wrath. _All paths lead to God’s wrath_. But there is one singular way in which that wrath is absorbed by the person walking the and that is God Himself in Jesus Christ my Lord and Savior.
 
-Here is the incredible grace of God: if you accept that to be true, know that to be true, believe that to be true, and have staked your life on that truth, then my beloved, you have been given the Holy Spirit, which has given you the understanding of the gift of God. No studying, no books, no degrees and no amount of education could ever produce faith in God. For it is that the Holy Spirit gave you the ability to understand and now your eyes now see, your ear now hears, and your new heart now loves. [<sup>3</sup>][3]{#return-note-1696-3.simple-footnote}
+Here is the incredible grace of God: if you accept that to be true, know that to be true, believe that to be true, and have staked your life on that truth, then my beloved, you have been given the Holy Spirit, which has given you the understanding of the gift of God. No studying, no books, no degrees and no amount of education could ever produce faith in God. For it is that the Holy Spirit gave you the ability to understand and now your eyes now see, your ear now hears, and your new heart now loves. [][3]{#return-note-1696-3.simple-footnote}
 
 What kind of foolishness is that? That is love.
 

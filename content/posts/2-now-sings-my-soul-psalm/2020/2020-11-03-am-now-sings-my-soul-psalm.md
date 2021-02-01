@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Man of sorrows
 </div>
+&nbsp;
 I have spent much of my life
   not turning to you
   not loving you

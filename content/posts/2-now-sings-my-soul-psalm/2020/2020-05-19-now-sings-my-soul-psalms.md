@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My God</div>
+&nbsp;
 My days here are just for a moment,
 	and you have number them all.
 	My life remains in your hands,

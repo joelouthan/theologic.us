@@ -27,7 +27,7 @@ series:
 </p>
 
 <p class="p1">
-  You are God. You are so exalted and so glorious that You have declared Your only begotten Son the King of kings and the Lord of lords <a class="simple-footnote" title="1 Timothy 6:15, Revelation 17:14, Revelation 19:16 cf. Daniel 7:9-14" id="return-note-3800-1" href="#note-3800-1"><sup>1</sup></a>.
+  You are God. You are so exalted and so glorious that You have declared Your only begotten Son the King of kings and the Lord of lords <a class="simple-footnote" title="1 Timothy 6:15, Revelation 17:14, Revelation 19:16 cf. Daniel 7:9-14" id="return-note-3800-1" href="#note-3800-1"></a>.
 </p>
 
 <p class="p1">
@@ -51,7 +51,7 @@ series:
 </p>
 
 <p class="p1">
-  Your kingdom come and it will advance no matter what. The Church is built upon Christ as our Solid Rock and not even the gates of hell can contain your Bride. <a class="simple-footnote" title="Matthew 16:18" id="return-note-3800-2" href="#note-3800-2"><sup>2</sup></a><span class="Apple-converted-space">  </span>
+  Your kingdom come and it will advance no matter what. The Church is built upon Christ as our Solid Rock and not even the gates of hell can contain your Bride. <a class="simple-footnote" title="Matthew 16:18" id="return-note-3800-2" href="#note-3800-2"></a><span class="Apple-converted-space">  </span>
 </p>
 
 <p class="p1">
@@ -67,7 +67,7 @@ series:
 </p>
 
 <p class="p1">
-  To the captives, You hold the keys to death and Hell, proclaim freedom and set the captives free. <a class="simple-footnote" title="Isaiah 61:1" id="return-note-3800-3" href="#note-3800-3"><sup>3</sup></a>
+  To the captives, You hold the keys to death and Hell, proclaim freedom and set the captives free. <a class="simple-footnote" title="Isaiah 61:1" id="return-note-3800-3" href="#note-3800-3"></a>
 </p>
 
 <p class="p1">

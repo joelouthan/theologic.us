@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   My Lord, Our Lord,
 </div>
+&nbsp;
 
 Your name is known throughout all the earth.  
 Your fame knows no bounds.  

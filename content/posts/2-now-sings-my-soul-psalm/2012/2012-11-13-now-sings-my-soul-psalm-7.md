@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   O Lord my God,
 </div>
+&nbsp;
 
 It might feel like the world is against me. I might feel like I am a being persecuted. But the real battle is not the world versus me but rather, my own sin and my own iniquities versus the spirit inside of me.
 

@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Holy Shield
 </div>
+&nbsp;
 Is there some sort of target on me?
 
 Why has the enemy been so focused on my life?

@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Fairest of ten-thousands
 </div>
+&nbsp;
 My God.
   Keep me close to you.
   Let me see your face.

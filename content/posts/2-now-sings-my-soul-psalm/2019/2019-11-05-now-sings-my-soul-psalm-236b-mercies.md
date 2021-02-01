@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 O Lord,  
 </div>
+&nbsp;
 Tender mercies,
 	you have given me
 	every single day that I life.  

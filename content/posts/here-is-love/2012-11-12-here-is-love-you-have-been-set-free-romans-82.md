@@ -16,23 +16,23 @@ series:
 ---
 [<img class="alignright size-medium wp-image-1369 hoverZoomLink" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?resize=300%2C271" alt="" width="300" height="271" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?resize=300%2C271 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?w=358 358w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]{.hoverZoomLink}There are 613 commandments in the Old Testament.
 
-Don’t eat pork. [<sup>1</sup>][2]{#return-note-1367-1.simple-footnote}
+Don’t eat pork. [][2]{#return-note-1367-1.simple-footnote}
 
-Don’t eat eel. [<sup>2</sup>][3]{#return-note-1367-2.simple-footnote}
+Don’t eat eel. [][3]{#return-note-1367-2.simple-footnote}
 
-Don’t get tattoos. [<sup>3</sup>][4]{#return-note-1367-3.simple-footnote}
+Don’t get tattoos. [][4]{#return-note-1367-3.simple-footnote}
 
-If you have a slave, there are rules on beating your slave. [<sup>4</sup>][5]{#return-note-1367-4.simple-footnote}
+If you have a slave, there are rules on beating your slave. [][5]{#return-note-1367-4.simple-footnote}
 
-Women, if it is that “time of the month”, there are rules for that. [<sup>5</sup>][6]{#return-note-1367-5.simple-footnote}
+Women, if it is that “time of the month”, there are rules for that. [][6]{#return-note-1367-5.simple-footnote}
 
-Don’t marry somebody outside of your faith. [<sup>6</sup>][7]{#return-note-1367-6.simple-footnote}
+Don’t marry somebody outside of your faith. [][7]{#return-note-1367-6.simple-footnote}
 
-Be kind to the immigrant—illegal or otherwise—and treat them as you would your own countryman. [<sup>7</sup>][8]{#return-note-1367-7.simple-footnote}
+Be kind to the immigrant—illegal or otherwise—and treat them as you would your own countryman. [][8]{#return-note-1367-7.simple-footnote}
 
-You have to sacrifice every day and sometimes twice a day. [<sup>8</sup>][9]{#return-note-1367-8.simple-footnote}
+You have to sacrifice every day and sometimes twice a day. [][9]{#return-note-1367-8.simple-footnote}
 
-When (not if) you have to slice the animals’ throat and drain the blood to prevent eating of blood within meat. [<sup>9</sup>][10]{#return-note-1367-9.simple-footnote}
+When (not if) you have to slice the animals’ throat and drain the blood to prevent eating of blood within meat. [][10]{#return-note-1367-9.simple-footnote}
 
 Do not want your neighbor’s stuff.
 
@@ -50,9 +50,9 @@ Take a day off.
 
 Don’t flippantly use the name of God.
 
-Don’t make images of God for you are the imagebearers of God. [<sup>10</sup>][11]{#return-note-1367-10.simple-footnote}
+Don’t make images of God for you are the imagebearers of God. [][11]{#return-note-1367-10.simple-footnote}
 
-Don’t put anything before or above God. [<sup>11</sup>][12]{#return-note-1367-11.simple-footnote}
+Don’t put anything before or above God. [][12]{#return-note-1367-11.simple-footnote}
 
 As Christians, have we inherited a bunch of archaic rules to follow? Or since, we have evolved so much since the days of the OT (hint: not really), there are only certain laws we have to obey?
 
@@ -62,11 +62,11 @@ All of the law—all of God’s law—that he impressed upon His people and the 
 
 We were born into this. All of us were. And it’s not fair. This life sucks and there is nothing we can do about it. Maybe this life is not so bad but still, bad things happen to us and the people we love. In the end, to us all, we are still die.
 
-So, maybe there is no God. But even that thought is conjured up by the brokenness of our minds and hearts in the _futile_ attempt to suppress the truth in the fact there is One God. [<sup>12</sup>][13]{#return-note-1367-12.simple-footnote}
+So, maybe there is no God. But even that thought is conjured up by the brokenness of our minds and hearts in the _futile_ attempt to suppress the truth in the fact there is One God. [][13]{#return-note-1367-12.simple-footnote}
 
 That is the law of sin and death.
 
-The wages of our sin and the sin in this world is death. All have sinned and fallen short of the glory of God. [<sup>13</sup>][14]{#return-note-1367-13.simple-footnote}
+The wages of our sin and the sin in this world is death. All have sinned and fallen short of the glory of God. [][14]{#return-note-1367-13.simple-footnote}
 
 Is there any hope for us?
 
@@ -80,11 +80,11 @@ That new law is called grace.
 
 Grace is the law of the Spirit of life.
 
-He gives the verdict, “**No condemnation**” for those who are His people. [<sup>14</sup>][15]{#return-note-1367-14.simple-footnote}
+He gives the verdict, “**No condemnation**” for those who are His people. [][15]{#return-note-1367-14.simple-footnote}
 
 Now he gives the sentence for who are His people:
 
-> **For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.** [<sup>15</sup>][16]{#return-note-1367-15.simple-footnote}
+> **For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.** [][16]{#return-note-1367-15.simple-footnote}
 
 In the most legal sense, that is gracious and merciful love.
 

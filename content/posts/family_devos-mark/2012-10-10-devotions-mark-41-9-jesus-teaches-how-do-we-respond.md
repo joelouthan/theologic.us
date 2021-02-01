@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 **[<img class="alignright size-thumbnail wp-image-742" title="sowing_seeds" alt="" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/sowing_seeds.jpg?resize=150%2C150" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/sowing_seeds.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/sowing_seeds.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 4:1-9 Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land. And he was teaching them many things in parables, and in his teaching he said to them: “Listen! Behold, a sower went out to sow. And as he sowed, some seed fell along the path, and the birds came and devoured it. Other seed fell on rocky ground, where it did not have much soil, and immediately it sprang up, since it had no depth of soil. And when the sun rose, it was scorched, and since it had no root, it withered away. Other seed fell among thorns, and the thorns grew up and choked it, and it yielded no grain. And other seeds fell into good soil and produced grain, growing up and increasing and yielding thirtyfold and sixtyfold and a hundredfold.” And he said, “He who has ears to hear, let him hear.”**
 

@@ -67,7 +67,7 @@ series:
 </p>
 
 <p class="p2">
-  You alone chose me, saved me and adopted me.<span class="Apple-converted-space">  </span>You are perfect, you cannot lose me because a Perfect Father does not lose His kids.<span class="Apple-converted-space">  </span>You cannot go back on your promises for it is impossible for you to break your own promise. <a class="simple-footnote" title="Hebrews 6:18 cf. Genesis 15:1-20" id="return-note-3823-1" href="#note-3823-1"><sup>1</sup></a>
+  You alone chose me, saved me and adopted me.<span class="Apple-converted-space">  </span>You are perfect, you cannot lose me because a Perfect Father does not lose His kids.<span class="Apple-converted-space">  </span>You cannot go back on your promises for it is impossible for you to break your own promise. <a class="simple-footnote" title="Hebrews 6:18 cf. Genesis 15:1-20" id="return-note-3823-1" href="#note-3823-1"></a>
 </p>
 
 <p class="p2">
@@ -99,7 +99,7 @@ series:
 </p>
 
 <p class="p2">
-  You know my heart and as long as I am here on earth, you are constantly conforming me to the image of your Son. <a class="simple-footnote" title="Romans 8:29" id="return-note-3823-2" href="#note-3823-2"><sup>2</sup></a>
+  You know my heart and as long as I am here on earth, you are constantly conforming me to the image of your Son. <a class="simple-footnote" title="Romans 8:29" id="return-note-3823-2" href="#note-3823-2"></a>
 </p>
 
 <p class="p2">
@@ -107,7 +107,7 @@ series:
 </p>
 
 <p class="p2">
-  But even if my trust gives way, Lord, have your Holy Spirit gently and boldly remind me to consider others before myself. For you have me. You got me. I cannot be lost. I am going to be taken care of. You will bless me and keep me and because of what your Son has done, you said you will shine your face upon me, be ever so gracious to me, smile upon me and give me peace. <a class="simple-footnote" title="Numbers 6:24-26" id="return-note-3823-3" href="#note-3823-3"><sup>3</sup></a>
+  But even if my trust gives way, Lord, have your Holy Spirit gently and boldly remind me to consider others before myself. For you have me. You got me. I cannot be lost. I am going to be taken care of. You will bless me and keep me and because of what your Son has done, you said you will shine your face upon me, be ever so gracious to me, smile upon me and give me peace. <a class="simple-footnote" title="Numbers 6:24-26" id="return-note-3823-3" href="#note-3823-3"></a>
 </p>
 
 <p class="p2">

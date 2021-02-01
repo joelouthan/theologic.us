@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Great God,
 </div>
+&nbsp;
 
 I am reminded what Christ declared:  
 You alone are good.

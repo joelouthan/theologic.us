@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">The All Good</div>
+&nbsp;
 My Lord,
 	my life bears witness
 	that you alone protect me

@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Deliverer from Death
 </div>
+&nbsp;
 People of God,
   inhabitants of the world
   dwellers in the city

@@ -15,6 +15,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Only Gift of Righteousness
 </div>
+&nbsp;
 
 All of my days  
   were filled with evil  

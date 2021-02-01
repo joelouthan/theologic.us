@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My God
 </div>
+&nbsp;
 I know that all of mankind
   will wonder into ungodliness 
   will stray into wickedness

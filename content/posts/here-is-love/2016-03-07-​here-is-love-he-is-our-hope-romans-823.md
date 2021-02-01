@@ -32,7 +32,7 @@ He is our condemned sinful flesh.
 
 He is our righteous requirement.
 
-It is His Spirit by which we live, move and have our being. [<sup>1</sup>][1]{#return-note-3102-1.simple-footnote}
+It is His Spirit by which we live, move and have our being. [][1]{#return-note-3102-1.simple-footnote}
 
 It is His Spirit that dwells in us.
 

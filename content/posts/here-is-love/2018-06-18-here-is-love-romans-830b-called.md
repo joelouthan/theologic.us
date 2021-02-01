@@ -46,7 +46,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>“And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.”</b> <a class="simple-footnote" title="Ephesians 2:1-3" id="return-note-3581-1" href="#note-3581-1"><sup>1</sup></a>
+  <b>“And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.”</b> <a class="simple-footnote" title="Ephesians 2:1-3" id="return-note-3581-1" href="#note-3581-1"></a>
 </p>
 
 <p class="p1">
@@ -54,7 +54,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.</b> <a class="simple-footnote" title="Titus 3:3" id="return-note-3581-2" href="#note-3581-2"><sup>2</sup></a>
+  <b>For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.</b> <a class="simple-footnote" title="Titus 3:3" id="return-note-3581-2" href="#note-3581-2"></a>
 </p>
 
 <p class="p1">
@@ -86,7 +86,7 @@ series:
 </p>
 
 <p class="p1">
-  The Bible never lists those who don’t follow God upon his calling because God’s almighty word never returns void. In other words, His word does not return back to him without fulfilling what God wants to do. <a class="simple-footnote" title="Isaiah 55:10-11" id="return-note-3581-3" href="#note-3581-3"><sup>3</sup></a> Consider this parable from Jesus:
+  The Bible never lists those who don’t follow God upon his calling because God’s almighty word never returns void. In other words, His word does not return back to him without fulfilling what God wants to do. <a class="simple-footnote" title="Isaiah 55:10-11" id="return-note-3581-3" href="#note-3581-3"></a> Consider this parable from Jesus:
 </p>
 
 <p class="p1">
@@ -106,7 +106,7 @@ series:
 </p>
 
 <p class="p2">
-  <b>What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each.<span class="Apple-converted-space">  </span>I planted, Apollos watered, but God gave the growth.<span class="Apple-converted-space">  </span>So neither he who plants nor he who waters is anything, but only God who gives the growth.<span class="Apple-converted-space">  </span>He who plants and he who waters are one, and each will receive his wages according to his labor.<span class="Apple-converted-space">  </span>For we are God’s fellow workers. You are God’s field, God’s building.</b> <a class="simple-footnote" title="1 Corinthians 3:5–9" id="return-note-3581-4" href="#note-3581-4"><sup>4</sup></a>
+  <b>What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each.<span class="Apple-converted-space">  </span>I planted, Apollos watered, but God gave the growth.<span class="Apple-converted-space">  </span>So neither he who plants nor he who waters is anything, but only God who gives the growth.<span class="Apple-converted-space">  </span>He who plants and he who waters are one, and each will receive his wages according to his labor.<span class="Apple-converted-space">  </span>For we are God’s fellow workers. You are God’s field, God’s building.</b> <a class="simple-footnote" title="1 Corinthians 3:5–9" id="return-note-3581-4" href="#note-3581-4"></a>
 </p>
 
 <p class="p2">
@@ -122,7 +122,7 @@ series:
 </p>
 
 <p class="p2">
-  <b>Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. Jesus said, “Take away the stone.” Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.” Jesus said to her, “Did I not tell you that if you believed you would see the glory of God?” So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.” When he had said these things, he cried out with a loud voice, “Lazarus, come out.” The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, “Unbind him, and let him go.”</b> <a class="simple-footnote" title="John 11:38-44" id="return-note-3581-5" href="#note-3581-5"><sup>5</sup></a>
+  <b>Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. Jesus said, “Take away the stone.” Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.” Jesus said to her, “Did I not tell you that if you believed you would see the glory of God?” So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.” When he had said these things, he cried out with a loud voice, “Lazarus, come out.” The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, “Unbind him, and let him go.”</b> <a class="simple-footnote" title="John 11:38-44" id="return-note-3581-5" href="#note-3581-5"></a>
 </p>
 
 <p class="p2">

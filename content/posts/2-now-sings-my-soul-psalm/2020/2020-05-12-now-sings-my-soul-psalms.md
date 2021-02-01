@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My God and Lord, </div>
+&nbsp;
 What blessings have you bestowed upon me,
 	my unshakable foundation,
 	my Solid Rock,

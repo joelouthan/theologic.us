@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Lord and God,</div>
+&nbsp;
 Your Son has shed his blood for me,  
 	so that I now believe.
 

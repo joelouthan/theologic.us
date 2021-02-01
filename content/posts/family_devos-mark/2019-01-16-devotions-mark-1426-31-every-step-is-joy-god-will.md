@@ -10,6 +10,7 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
+css: "family-devos"
 draft: false
 ---
 **Mark 14:26-31 And when they had sung a hymn, they went out to the Mount of Olives. And Jesus said to them, “You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’ But after I am raised up, I will go before you to Galilee.” Peter said to him, “Even though they all fall away, I will not.” And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.” But he said emphatically, “If I must die with you, I will not deny you.” And they all said the same.**

@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Lover of my soul</div>
+&nbsp;
 You are the only being
   when you speak
   things actually happen

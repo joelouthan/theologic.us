@@ -13,7 +13,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 <p class="p1">
   <span class="s1"><b>Mark 7:7-13</b></span>
@@ -72,11 +73,11 @@ series:
 </p>
 
 <p class="p1">
-  If I go after my own desires, I get an empty, broken heart. If I want something that God says is not good or is good but not complete, I might obtain that but that thing is finite: whether that be money, fame, marriage, relationships, kids, job, Whatever. Finite things do not fill an infinite heart. Only God, who is infinite, does that. <a class="simple-footnote" title="Ecclesiastes 3:11" id="return-note-3016-1" href="#note-3016-1"><sup>1</sup></a>
+  If I go after my own desires, I get an empty, broken heart. If I want something that God says is not good or is good but not complete, I might obtain that but that thing is finite: whether that be money, fame, marriage, relationships, kids, job, Whatever. Finite things do not fill an infinite heart. Only God, who is infinite, does that. <a class="simple-footnote" title="Ecclesiastes 3:11" id="return-note-3016-1" href="#note-3016-1"></a>
 </p>
 
 <p class="p1">
-  However, we know that God gives the desires of a new heart that was given to us by God. With a new heart by God, we desire God who gives Himself freely to us. Since He is infinite, we fills our hearts and then, we are satisfied not just now but forevermore. <a class="simple-footnote" title="Ezekiel 11:14-21 cf. Psalms 37:4, Psalms 16:11" id="return-note-3016-2" href="#note-3016-2"><sup>2</sup></a>
+  However, we know that God gives the desires of a new heart that was given to us by God. With a new heart by God, we desire God who gives Himself freely to us. Since He is infinite, we fills our hearts and then, we are satisfied not just now but forevermore. <a class="simple-footnote" title="Ezekiel 11:14-21 cf. Psalms 37:4, Psalms 16:11" id="return-note-3016-2" href="#note-3016-2"></a>
 </p>
 
 <div class="simple-footnotes">

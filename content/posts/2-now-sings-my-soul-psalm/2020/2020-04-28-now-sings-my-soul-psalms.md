@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">O LORD my God,</div>
+&nbsp;
 I sing praises to your name,
 	for you are worthy
 	and worthy to be praised.

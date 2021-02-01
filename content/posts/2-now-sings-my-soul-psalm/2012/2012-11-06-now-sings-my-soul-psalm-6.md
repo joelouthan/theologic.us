@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   My Holy Lord Above All,
 </div>
+&nbsp;
 
 My deeds have warranted not your affections but your attentions—attention to correct my path. However , it is not simply that, it is more serious, more deadly than that.
 

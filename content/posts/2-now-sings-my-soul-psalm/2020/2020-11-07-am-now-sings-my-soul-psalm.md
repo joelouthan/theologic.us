@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Reigning King</div>
+&nbsp;
 We read in your word
   where you have called a tiny nation
   unto you

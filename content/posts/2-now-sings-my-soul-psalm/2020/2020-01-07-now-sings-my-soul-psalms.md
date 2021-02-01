@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">O Lord</div>
+&nbsp;
 
 Every single adult who were suppose to love me and care for me
 	did not.

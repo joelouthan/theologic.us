@@ -49,7 +49,7 @@ The only thing we have done right is sin. However, by faith alone, we can place 
 
 In his beatings, his whippings, his crowning of thorns, in the nails stabbing through his hands and the spear through his heart were all needed to drain our Savior of his life-giving blood. He had his people to save and He must do it perfectly:
 
-Indeed, under the law, almost everything is purified with blood, and without the shedding of blood, there is no forgiveness of sins. [<sup>1</sup>][1]{#return-note-3442-1.simple-footnote}
+Indeed, under the law, almost everything is purified with blood, and without the shedding of blood, there is no forgiveness of sins. [][1]{#return-note-3442-1.simple-footnote}
 
 This is the only way it could be done: violently, excruciatingly, vomit-inducing, and sickly because that is what sin is to our Holy God.
 
@@ -59,17 +59,17 @@ He had to change his people.
 
 He had to cleanse his people so that they can know Him:
 
-And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.” [<sup>2</sup>][2]{#return-note-3442-2.simple-footnote}
+And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.” [][2]{#return-note-3442-2.simple-footnote}
 
 He will not be angry at his people forever because He loves them too much. He does not bestow his righteous and just wrath upon his people because his people cannot bear it, to lest they are destroyed and be apart from him forever. His love is as high and as great as the distance between heaven and earth, so too is the same distance our sins, wickedness, and atrocities our removed from us.
 
-Our God is One of compassion. [<sup>3</sup>][3]{#return-note-3442-3.simple-footnote}
+Our God is One of compassion. [][3]{#return-note-3442-3.simple-footnote}
 
 This all culminates into His Son who died on the cross, who pour out all of his blood just like a lamb to the slaughter.
 
 We must admit the exceeding sinfulness of our sin. We must be desperate for to someone greater than us to save us.
 
-**If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.** [<sup>4</sup>][4]{#return-note-3442-4.simple-footnote}
+**If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.** [][4]{#return-note-3442-4.simple-footnote}
 
 We call upon him. We look towards him. We reach out and cry, “Lord, have mercy on me, a sinner.” God, who is merciful, gives us His Son because He is the God who actually saves.
 

@@ -43,15 +43,15 @@ series:
 </p>
 
 <p class="p1">
-  Before You, we are complete strangers. <a class="simple-footnote" title="1 Chronicles 29:15" id="return-note-3740-1" href="#note-3740-1"><sup>1</sup></a>
+  Before You, we are complete strangers. <a class="simple-footnote" title="1 Chronicles 29:15" id="return-note-3740-1" href="#note-3740-1"></a>
 </p>
 
 <p class="p1">
-  Before You, we are children who sit under Your just and necessary wrath. <a class="simple-footnote" title="Ephesians 2:3" id="return-note-3740-2" href="#note-3740-2"><sup>2</sup></a>
+  Before You, we are children who sit under Your just and necessary wrath. <a class="simple-footnote" title="Ephesians 2:3" id="return-note-3740-2" href="#note-3740-2"></a>
 </p>
 
 <p class="p1">
-  Before You, we are dead. <a class="simple-footnote" title="Ephesians 2:5" id="return-note-3740-3" href="#note-3740-3"><sup>3</sup></a>
+  Before You, we are dead. <a class="simple-footnote" title="Ephesians 2:5" id="return-note-3740-3" href="#note-3740-3"></a>
 </p>
 
 <p class="p1">

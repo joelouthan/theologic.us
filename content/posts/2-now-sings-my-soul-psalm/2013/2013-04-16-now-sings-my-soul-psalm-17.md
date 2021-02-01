@@ -17,6 +17,7 @@ series:
 <div style="font-variant: small-caps;">
   O Father,
 </div>
+&nbsp;
 
 You are God of the Universe. Holy, righteous, just. High above my idols. High above my sins. High above my faults. High above the twisted wickedness of my own heart. In no way could I have ever approach you.
 

@@ -18,6 +18,7 @@ and shout for joy, all you upright in heart!
 <div style="font-variant: small-caps;">
 My Joy and Righteousness
 </div>
+&nbsp;
 When I was
   a beast before you
   a worm beneath the dirt

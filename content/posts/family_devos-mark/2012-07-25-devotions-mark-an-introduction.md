@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 I still remember our first night of devotions. I was a brand new stepdad and barely getting to know my four new bonus kids, whom I loved so much. I was quite nervous because I had no clue how my kids would receive God&#8217;s words. I prayed and God reminded me that He sends out His Word according to Isaiah 55:10-11. His Spirit through His Word gave me peace.
 

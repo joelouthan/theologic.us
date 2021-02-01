@@ -22,7 +22,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>I give them eternal life, and they will never perish, and no one will snatch them out of my hand. </b><i> </i><b>My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. </b><i> </i><b>I and the Father are one.”</b> <a class="simple-footnote" title="John 10:28–30" id="return-note-3850-1" href="#note-3850-1"><sup>1</sup></a>
+  <b>I give them eternal life, and they will never perish, and no one will snatch them out of my hand. </b><i> </i><b>My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. </b><i> </i><b>I and the Father are one.”</b> <a class="simple-footnote" title="John 10:28–30" id="return-note-3850-1" href="#note-3850-1"></a>
 </p>
 
 <p class="p1">
@@ -46,11 +46,11 @@ series:
 </p>
 
 <p class="p1">
-  <b>“And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God, </b><i> </i><b>but the one who denies me before men will be denied before the angels of God.</b> <a class="simple-footnote" title="Luke 12:8–9" id="return-note-3850-2" href="#note-3850-2"><sup>2</sup></a>
+  <b>“And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God, </b><i> </i><b>but the one who denies me before men will be denied before the angels of God.</b> <a class="simple-footnote" title="Luke 12:8–9" id="return-note-3850-2" href="#note-3850-2"></a>
 </p>
 
 <p class="p1">
-  and further prophecies that Peter himself would not just deny Christ once but three times <a class="simple-footnote" title="John 13:38;  18:25-27" id="return-note-3850-3" href="#note-3850-3"><sup>3</sup></a>, but it was the same Christ in John 21 who called and confirmed Peter not once but three times.
+  and further prophecies that Peter himself would not just deny Christ once but three times <a class="simple-footnote" title="John 13:38;  18:25-27" id="return-note-3850-3" href="#note-3850-3"></a>, but it was the same Christ in John 21 who called and confirmed Peter not once but three times.
 </p>
 
 <p class="p1">
@@ -62,7 +62,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, </b><i> </i><b>and have tasted the goodness of the word of God and the powers of the age to come, </b><i> </i><b>and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt.</b> <a class="simple-footnote" title="Hebrews 6:4–6" id="return-note-3850-4" href="#note-3850-4"><sup>4</sup></a>
+  <b>For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, </b><i> </i><b>and have tasted the goodness of the word of God and the powers of the age to come, </b><i> </i><b>and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt.</b> <a class="simple-footnote" title="Hebrews 6:4–6" id="return-note-3850-4" href="#note-3850-4"></a>
 </p>
 
 <p class="p1">
@@ -70,7 +70,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. </b><i> </i><b>On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ </b><i> </i><b>And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’</b> <a class="simple-footnote" title="Matthew 7:21–23" id="return-note-3850-5" href="#note-3850-5"><sup>5</sup></a>
+  <b>“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. </b><i> </i><b>On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ </b><i> </i><b>And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’</b> <a class="simple-footnote" title="Matthew 7:21–23" id="return-note-3850-5" href="#note-3850-5"></a>
 </p>
 
 <p class="p1">
@@ -106,11 +106,11 @@ series:
 </p>
 
 <p class="p1">
-  My friends, we do not wage war against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places. <a class="simple-footnote" title="Ephesians 6:12" id="return-note-3850-6" href="#note-3850-6"><sup>6</sup></a> This is not a battlefield that you or I have ever seen in wartime nor even in history books nor video games. It is a war that God started not with a warhorn blasting through the sky but with a simple righteous declaration of redemption and restoration:
+  My friends, we do not wage war against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places. <a class="simple-footnote" title="Ephesians 6:12" id="return-note-3850-6" href="#note-3850-6"></a> This is not a battlefield that you or I have ever seen in wartime nor even in history books nor video games. It is a war that God started not with a warhorn blasting through the sky but with a simple righteous declaration of redemption and restoration:
 </p>
 
 <p class="p1">
-  <b>I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”</b> <a class="simple-footnote" title="Genesis 3:15" id="return-note-3850-7" href="#note-3850-7"><sup>7</sup></a>
+  <b>I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”</b> <a class="simple-footnote" title="Genesis 3:15" id="return-note-3850-7" href="#note-3850-7"></a>
 </p>
 
 <p class="p1">
@@ -126,7 +126,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>“Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.</b> <a class="simple-footnote" title="Matthew 10:34" id="return-note-3850-8" href="#note-3850-8"><sup>8</sup></a>
+  <b>“Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.</b> <a class="simple-footnote" title="Matthew 10:34" id="return-note-3850-8" href="#note-3850-8"></a>
 </p>
 
 <p class="p1">

@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Steadfast Lover</div>
+&nbsp;
 Who is like you, my Lord,
 	clothed in majesty
 	and who alone is good.

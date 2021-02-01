@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Fear and my Joy
 </div>
+&nbsp;
 I sit
   and make no excuses
   for my sin blinds me

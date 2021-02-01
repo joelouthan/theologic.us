@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My everything 
 </div>
+&nbsp;
 I lack.
   I am weak.
   I have nothing.

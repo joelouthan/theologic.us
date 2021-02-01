@@ -32,7 +32,7 @@ Here’s the hope of the Christian: all that is broke will now be fixed. For a m
 
 In other words, you might say to yourself, “_Perfection is impossible—Even I started right now, there is no way I can be perfect._” You are right. Furthermore, if you have deluded yourself thinking you can be perfect for the rest of your life, think about this: _Then why are you still going to die? _Righteousness is perfection not because of a high mark to achieve but it is the bare minimum standard to abide by for life itself. It is not that we have all missed the high mark, as though it is a world record to be beaten, but rather all of us fail to meet the minimum requirement of life:
 
-**for all have sinned and fall short of the glory of God,** [<sup>1</sup>][2]{#return-note-1805-1.simple-footnote}
+**for all have sinned and fall short of the glory of God,** [][2]{#return-note-1805-1.simple-footnote}
 
 That is a crushing, despairing truth.
 
@@ -48,11 +48,11 @@ You and I and we need someone else’s righteousness. in order to live. In order
 
 God speaks. He has spoken and it was recorded in the Scriptures.
 
-**And he believed the LORD, and he counted it to him as righteousness.** [<sup>2</sup>][3]{#return-note-1805-2.simple-footnote}
+**And he believed the LORD, and he counted it to him as righteousness.** [][3]{#return-note-1805-2.simple-footnote}
 
 Believe what God has said and He will give you His own righteousness so that you can be with Him and enjoy Him forever. Enjoy the source of all truth, all good, all satisfaction, all life, all peace, all joy, and all pleasures forever.
 
-**For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.** [<sup>3</sup>][4]{#return-note-1805-3.simple-footnote}
+**For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.** [][4]{#return-note-1805-3.simple-footnote}
 
 The question bares to be asked: _Is Christ in you?_
 

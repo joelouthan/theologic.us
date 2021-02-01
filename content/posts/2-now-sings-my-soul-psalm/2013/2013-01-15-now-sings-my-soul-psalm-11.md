@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   Dear God,
 </div>
+&nbsp;
 
 I have seen the volley of artillery rain down all around me and You, O Lord, my precious shield, have absorbed their attacks. Yet, the enemy’s sharpshooters have taken careful aim at my heart. Their fiery bullets have pierced my chest. Their lies have penetrated my mind. Their blasphemous words have laid weight upon my soul.
 

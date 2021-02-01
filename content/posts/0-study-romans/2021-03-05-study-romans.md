@@ -12,11 +12,12 @@ tags:
   - Podcast
 series:
   - 'Bible Study: Romans'
+TocOpen: true
 draft: false
 ---
 ## The Text
 
-**Romans 1:16-17 For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. <sup>17</sup> For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.**
+**Romans 1:16-17 For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.**
 
 ## The Support
 

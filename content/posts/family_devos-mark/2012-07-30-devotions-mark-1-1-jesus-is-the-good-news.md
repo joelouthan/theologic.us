@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 **Mark 1:1 The beginning of the gospel of Jesus Christ, the Son of God.**
 

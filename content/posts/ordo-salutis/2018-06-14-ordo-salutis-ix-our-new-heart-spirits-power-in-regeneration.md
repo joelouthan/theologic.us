@@ -60,7 +60,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>But Noah found favor in the eyes of the LORD.</b> <a class="simple-footnote" title="Genesis 6:8" id="return-note-3570-1" href="#note-3570-1"><sup>1</sup></a>
+  <b>But Noah found favor in the eyes of the LORD.</b> <a class="simple-footnote" title="Genesis 6:8" id="return-note-3570-1" href="#note-3570-1"></a>
 </p>
 
 <p class="p1">
@@ -146,7 +146,7 @@ Romans 8:7–8 **For the mind that is set on the flesh is hostile to God, for it
 </p>
 
 <p class="p1">
-  Wait a minute here. These people were doing what Christ told us to do: prophesy, cast out demons, and do mighty works in his name. Christ would go on to say for us not to rejoice because we can do mighty works and the spirits are subject to us but rejoice that your names are written in heaven. <a class="simple-footnote" title="Luke 10:20" id="return-note-3570-2" href="#note-3570-2"><sup>2</sup></a>
+  Wait a minute here. These people were doing what Christ told us to do: prophesy, cast out demons, and do mighty works in his name. Christ would go on to say for us not to rejoice because we can do mighty works and the spirits are subject to us but rejoice that your names are written in heaven. <a class="simple-footnote" title="Luke 10:20" id="return-note-3570-2" href="#note-3570-2"></a>
 </p>
 
 <p class="p1">
@@ -174,11 +174,11 @@ Romans 8:7–8 **For the mind that is set on the flesh is hostile to God, for it
 </p>
 
 <p class="p1">
-  It is only then that God removes us from death and despair; takes the blood of Christ and washes us clean from all unrighteousness <a class="simple-footnote" title="Titus 3:3-7; 2 Corinthians 5:21" id="return-note-3570-3" href="#note-3570-3"><sup>3</sup></a>; give us a brand new soften heart and a new spirit that <i>causes </i>you to walk in His statutes and being careful to obey His rules.
+  It is only then that God removes us from death and despair; takes the blood of Christ and washes us clean from all unrighteousness <a class="simple-footnote" title="Titus 3:3-7; 2 Corinthians 5:21" id="return-note-3570-3" href="#note-3570-3"></a>; give us a brand new soften heart and a new spirit that <i>causes </i>you to walk in His statutes and being careful to obey His rules.
 </p>
 
 <p class="p1">
-  Because of what He has done, we now <i>get</i> to dwell in the house of the Lord forever <a class="simple-footnote" title="Psalm 23:6" id="return-note-3570-4" href="#note-3570-4"><sup>4</sup></a> because we are His people and He is our God!
+  Because of what He has done, we now <i>get</i> to dwell in the house of the Lord forever <a class="simple-footnote" title="Psalm 23:6" id="return-note-3570-4" href="#note-3570-4"></a> because we are His people and He is our God!
 </p>
 
 <div class="simple-footnotes">

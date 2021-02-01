@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 The Absolute of All His Promises,
 </div>
+&nbsp;
 I remember when you fulfilled your word
   in the gospel to Adam and Eve
   in the promise to Noah and his family

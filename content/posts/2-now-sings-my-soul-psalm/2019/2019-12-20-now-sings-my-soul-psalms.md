@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Beholder of my righteousness</div>
+&nbsp;
 You are my Lord,
 	the defender of my heart
 	the rescuer of my joy

@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My God,</div>
+&nbsp;
 I sit in awe
 	of your wonderous works
 	but more of your love for me

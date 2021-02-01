@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Lover of my soul</div>
+&nbsp;
 I cry and grieve for those 
   who do not know you. 
   I pray that their hearts

@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Sovereign</div>
+&nbsp;
 We have made the grandest plans
   devised the biggest schemes
   and planned our legacy

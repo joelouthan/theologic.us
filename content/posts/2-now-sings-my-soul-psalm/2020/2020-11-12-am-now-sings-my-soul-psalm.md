@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 The Sovereign Power over my life
 </div>
+&nbsp;
 My God,
   if I was raped
   tortured

@@ -10,7 +10,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 _[<img class="alignright size-medium wp-image-590" title="man_christ" alt="" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg?resize=233%2C300" width="233" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg?resize=233%2C300 233w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/man_christ.jpg?w=403 403w" sizes="(max-width: 233px) 100vw, 233px" data-recalc-dims="1" />][1]People wanted to kill Christ_
 

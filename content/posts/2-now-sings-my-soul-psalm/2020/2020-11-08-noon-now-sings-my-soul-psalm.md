@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Blessed is He
 </div>
+&nbsp;
 With my lips
   I will speak blessings
   to my God

@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Keeper of my heart</div>
+&nbsp;
 I have spent all of my days
   wandering from your presence
   searching for new idols

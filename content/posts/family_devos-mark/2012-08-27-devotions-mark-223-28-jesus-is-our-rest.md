@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 **     [<img class="alignright size-medium wp-image-525" title="Jesus-resting" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/Jesus-resting.jpg?resize=298%2C300" width="298" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/Jesus-resting.jpg?resize=298%2C300 298w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/Jesus-resting.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/Jesus-resting.jpg?w=465 465w" sizes="(max-width: 298px) 100vw, 298px" data-recalc-dims="1" />][1]Mark 2:23-28 One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain. And the Pharisees were saying to him, “Look, why are they doing what is not lawful on the Sabbath?” And he said to them, “Have you never read what David did, when he was in need and was hungry, he and those who were with him: how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?” And he said to them, “The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath.”**
 

@@ -24,7 +24,7 @@ series:
 </p>
 
 <p class="p1">
-  And just when we think that Paul is being too critical or even too harsh, look at what the Apostle John has to say <a class="simple-footnote" title="I do not completely ascribe the red letters as being absolutely the spoke words of Christ, even though all words are from Christ. So I take precaution to automatically crediting red words to Christ unless the author specifically said, “Jesus said”" id="return-note-3596-1" href="#note-3596-1"><sup>1</sup></a>:
+  And just when we think that Paul is being too critical or even too harsh, look at what the Apostle John has to say <a class="simple-footnote" title="I do not completely ascribe the red letters as being absolutely the spoke words of Christ, even though all words are from Christ. So I take precaution to automatically crediting red words to Christ unless the author specifically said, “Jesus said”" id="return-note-3596-1" href="#note-3596-1"></a>:
 </p>
 
 <p class="p1">
@@ -277,7 +277,7 @@ series:
 </p>
 
 <p class="p4">
-  God makes the clear distinction between unbelievers and believers. Calls them goats and sheep <a class="simple-footnote" title="Matthew 23:33" id="return-note-3596-2" href="#note-3596-2"><sup>2</sup></a>. Chaff and wheat <a class="simple-footnote" title="Matt 3:12" id="return-note-3596-3" href="#note-3596-3"><sup>3</sup></a>. Weeds and wheat <a class="simple-footnote" title="Matthew 13:24-30" id="return-note-3596-4" href="#note-3596-4"><sup>4</sup></a>. Many of those who are on the wide road of destruction versus those who go through the narrow door of salvation <a class="simple-footnote" title="Matthew 7:13-14" id="return-note-3596-5" href="#note-3596-5"><sup>5</sup></a>. Those who set their mind on the flesh versus those who set their mind on the Spirit. <a class="simple-footnote" title="Romans 8:4-8" id="return-note-3596-6" href="#note-3596-6"><sup>6</sup></a>
+  God makes the clear distinction between unbelievers and believers. Calls them goats and sheep <a class="simple-footnote" title="Matthew 23:33" id="return-note-3596-2" href="#note-3596-2"></a>. Chaff and wheat <a class="simple-footnote" title="Matt 3:12" id="return-note-3596-3" href="#note-3596-3"></a>. Weeds and wheat <a class="simple-footnote" title="Matthew 13:24-30" id="return-note-3596-4" href="#note-3596-4"></a>. Many of those who are on the wide road of destruction versus those who go through the narrow door of salvation <a class="simple-footnote" title="Matthew 7:13-14" id="return-note-3596-5" href="#note-3596-5"></a>. Those who set their mind on the flesh versus those who set their mind on the Spirit. <a class="simple-footnote" title="Romans 8:4-8" id="return-note-3596-6" href="#note-3596-6"></a>
 </p>
 
 <p class="p4">

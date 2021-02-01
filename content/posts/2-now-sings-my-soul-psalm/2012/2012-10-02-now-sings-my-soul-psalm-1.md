@@ -14,6 +14,7 @@ series:
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
+&nbsp;
 
 Like a child, I have fallen and all of my strength has left me.  
 As my precious Father, put me back up on my feet and hold my hands so I can learn to run to you.  

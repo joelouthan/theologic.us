@@ -10,9 +10,10 @@ tags:
   - Luke
 series:
   - 'Family Devotions: Luke'
+css: "family-devos"
 draft: false
 ---
-**Luke 1:1–4 (CSB) Many have undertaken to compile a narrative about the events that have been fulfilled among us,  just as the original eyewitnesses and servants of the word handed them down to us.  So it also seemed good to me, since I have carefully investigated everything from the very first, to write to you in an orderly sequence, most honorable Theophilus,  so that you may know the certainty of the things about which you have been instructed.** 
+Luke 1:1–4 (CSB) Many have undertaken to compile a narrative about the events that have been fulfilled among us,  just as the original eyewitnesses and servants of the word handed them down to us.  So it also seemed good to me, since I have carefully investigated everything from the very first, to write to you in an orderly sequence, most honorable Theophilus,  so that you may know the certainty of the things about which you have been instructed. 
 
 What is it to witness? In the court of law, it is one who testifies to crime that was committed or to the whereabouts of one that is accused.
 

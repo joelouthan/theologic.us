@@ -24,7 +24,7 @@ and all our righteous deeds are like a polluted garment.
   
 We all fade like a leaf,
   
-and our iniquities, like the wind, take us away.** [<sup>1</sup>][1]{#return-note-1731-1.simple-footnote}
+and our iniquities, like the wind, take us away.** [][1]{#return-note-1731-1.simple-footnote}
 
 **as it is written:
   
@@ -40,9 +40,9 @@ together they have become worthless;
   
 no one does good,
   
-not even one.&#8221;** [<sup>2</sup>][2]{#return-note-1731-2.simple-footnote}
+not even one.&#8221;** [][2]{#return-note-1731-2.simple-footnote}
 
-**for all have sinned and fall short of the glory of God,** [<sup>3</sup>][3]{#return-note-1731-3.simple-footnote}
+**for all have sinned and fall short of the glory of God,** [][3]{#return-note-1731-3.simple-footnote}
 
 Would it not be the very definition of love if God would let us decide how to be saved apart from His just wrath? Would it be lovely of the Father that we got to choose which path we got to go to God? That within the _brokenness_ of our minds, in the _rottenness_ of our bodies, and in the death-nay, the _non-existence_-of our spirits, that we possessed the right amount of goodness in order to choose God and approach God to ask God to save us?
 

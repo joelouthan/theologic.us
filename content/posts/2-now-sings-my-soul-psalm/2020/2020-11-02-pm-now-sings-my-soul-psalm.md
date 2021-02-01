@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 Spirit of Christ
 </div>
+&nbsp;
 Without you,
   I am completely ignorant of you.
 

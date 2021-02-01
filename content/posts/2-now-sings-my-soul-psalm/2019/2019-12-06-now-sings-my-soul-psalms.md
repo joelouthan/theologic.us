@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Ascended God</div>
+&nbsp;
 All of Creation is yours.
   It belongs to you,
   And you rule overall.

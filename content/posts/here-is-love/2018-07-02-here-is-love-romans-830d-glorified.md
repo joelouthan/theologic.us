@@ -22,7 +22,7 @@ series:
 </p>
 
 <p class="p1">
-  There is no whittling or dwindling of numbers as we move along the list, Christ said, “<b>I give them eternal life, and they will never perish, and no one will snatch them out of my hand.<span class="Apple-converted-space">  </span>My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand.<span class="Apple-converted-space">  </span>I and the Father are one.</b>” <a class="simple-footnote" title="John 10:28–31" id="return-note-3642-1" href="#note-3642-1"><sup>1</sup></a>
+  There is no whittling or dwindling of numbers as we move along the list, Christ said, “<b>I give them eternal life, and they will never perish, and no one will snatch them out of my hand.<span class="Apple-converted-space">  </span>My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand.<span class="Apple-converted-space">  </span>I and the Father are one.</b>” <a class="simple-footnote" title="John 10:28–31" id="return-note-3642-1" href="#note-3642-1"></a>
 </p>
 
 <p class="p1">
@@ -38,7 +38,7 @@ series:
 </p>
 
 <p class="p1">
-  Do you know that his grace is upon grace for you? <a class="simple-footnote" title="John 1:16" id="return-note-3642-2" href="#note-3642-2"><sup>2</sup></a> Do you know that his steadfast love never ceases? Do you know that his mercies never end because they are brand new every morning? Do you how great is his faithfulness? <a class="simple-footnote" title="Lamentations 3:22-23" id="return-note-3642-3" href="#note-3642-3"><sup>3</sup></a>
+  Do you know that his grace is upon grace for you? <a class="simple-footnote" title="John 1:16" id="return-note-3642-2" href="#note-3642-2"></a> Do you know that his steadfast love never ceases? Do you know that his mercies never end because they are brand new every morning? Do you how great is his faithfulness? <a class="simple-footnote" title="Lamentations 3:22-23" id="return-note-3642-3" href="#note-3642-3"></a>
 </p>
 
 <p class="p1">
@@ -58,39 +58,39 @@ series:
 </p>
 
 <p class="p1">
-  For me, who came into this world naked and helpless. <a class="simple-footnote" title="Job 1:21" id="return-note-3642-4" href="#note-3642-4"><sup>4</sup></a>
+  For me, who came into this world naked and helpless. <a class="simple-footnote" title="Job 1:21" id="return-note-3642-4" href="#note-3642-4"></a>
 </p>
 
 <p class="p1">
-  For me, just a worm and not a man, scorned by mankind and despised by the people. <a class="simple-footnote" title="Psalm 22:6" id="return-note-3642-5" href="#note-3642-5"><sup>5</sup></a>
+  For me, just a worm and not a man, scorned by mankind and despised by the people. <a class="simple-footnote" title="Psalm 22:6" id="return-note-3642-5" href="#note-3642-5"></a>
 </p>
 
 <p class="p1">
-  For me, dead in my trespasses and sins<span class="Apple-converted-space">  </span>in which I once walked, followed the course of this world, followed the prince of the power of the air, the spirit that is now at work in other sons of disobedience—<span class="Apple-converted-space">  </span>among whom I once lived in the passions of my flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. <a class="simple-footnote" title="Ephesians 2:1–3" id="return-note-3642-6" href="#note-3642-6"><sup>6</sup></a>
+  For me, dead in my trespasses and sins<span class="Apple-converted-space">  </span>in which I once walked, followed the course of this world, followed the prince of the power of the air, the spirit that is now at work in other sons of disobedience—<span class="Apple-converted-space">  </span>among whom I once lived in the passions of my flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. <a class="simple-footnote" title="Ephesians 2:1–3" id="return-note-3642-6" href="#note-3642-6"></a>
 </p>
 
 <p class="p1">
-  For me, foolish, disobedient, led astray, slave to various passions and pleasures, passing my days in malice and envy, hated by others and hating everybody else. <a class="simple-footnote" title="Titus 3:3" id="return-note-3642-7" href="#note-3642-7"><sup>7</sup></a>
+  For me, foolish, disobedient, led astray, slave to various passions and pleasures, passing my days in malice and envy, hated by others and hating everybody else. <a class="simple-footnote" title="Titus 3:3" id="return-note-3642-7" href="#note-3642-7"></a>
 </p>
 
 <p class="p1">
-  For me, the clear chief of all sinners, a blasphemer, persecutor, and insolent opponent, acting ignorantly in unbelief. <a class="simple-footnote" title="1 Timothy 1:13" id="return-note-3642-8" href="#note-3642-8"><sup>8</sup></a>
+  For me, the clear chief of all sinners, a blasphemer, persecutor, and insolent opponent, acting ignorantly in unbelief. <a class="simple-footnote" title="1 Timothy 1:13" id="return-note-3642-8" href="#note-3642-8"></a>
 </p>
 
 <p class="p1">
-  But for me, God, being rich in mercy, because of the great love with which he loved me,<span class="Apple-converted-space">  </span>even when I was dead in my trespasses, made me alive together with Christ—by grace I have been saved—<span class="Apple-converted-space">  </span>and raised me up with him and seated me with him in the heavenly places in Christ Jesus,<span class="Apple-converted-space">  </span>so that in the coming ages he might show the immeasurable riches of his grace in kindness toward me in Christ Jesus.<span class="Apple-converted-space">  </span>For by grace I have been saved through faith. And this is not my own doing; it is the gift of God,<span class="Apple-converted-space">  </span>not a result of works so that I cannot boast.<span class="Apple-converted-space">  </span>For I am his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that I should walk in them. <a class="simple-footnote" title="Ephesians 2:4–10" id="return-note-3642-9" href="#note-3642-9"><sup>9</sup></a>
+  But for me, God, being rich in mercy, because of the great love with which he loved me,<span class="Apple-converted-space">  </span>even when I was dead in my trespasses, made me alive together with Christ—by grace I have been saved—<span class="Apple-converted-space">  </span>and raised me up with him and seated me with him in the heavenly places in Christ Jesus,<span class="Apple-converted-space">  </span>so that in the coming ages he might show the immeasurable riches of his grace in kindness toward me in Christ Jesus.<span class="Apple-converted-space">  </span>For by grace I have been saved through faith. And this is not my own doing; it is the gift of God,<span class="Apple-converted-space">  </span>not a result of works so that I cannot boast.<span class="Apple-converted-space">  </span>For I am his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that I should walk in them. <a class="simple-footnote" title="Ephesians 2:4–10" id="return-note-3642-9" href="#note-3642-9"></a>
 </p>
 
 <p class="p1">
-  But for me, God my Savior appeared by his goodness and loving kindness, he saved me, not because of works done by me in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,<span class="Apple-converted-space">  </span>whom he poured out on me richly through Jesus Christ my Savior,<span class="Apple-converted-space">  </span>so that being justified by his grace I might become heirs according to the hope of eternal life. <a class="simple-footnote" title="Titus 3:4–7" id="return-note-3642-10" href="#note-3642-10"><sup>10</sup></a>
+  But for me, God my Savior appeared by his goodness and loving kindness, he saved me, not because of works done by me in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,<span class="Apple-converted-space">  </span>whom he poured out on me richly through Jesus Christ my Savior,<span class="Apple-converted-space">  </span>so that being justified by his grace I might become heirs according to the hope of eternal life. <a class="simple-footnote" title="Titus 3:4–7" id="return-note-3642-10" href="#note-3642-10"></a>
 </p>
 
 <p class="p1">
-  But for me, since birth, even when I didn’t know him nor loved him nor trusted him, He has been my God! <a class="simple-footnote" title="Psalm 22:9-10" id="return-note-3642-11" href="#note-3642-11"><sup>11</sup></a>
+  But for me, since birth, even when I didn’t know him nor loved him nor trusted him, He has been my God! <a class="simple-footnote" title="Psalm 22:9-10" id="return-note-3642-11" href="#note-3642-11"></a>
 </p>
 
 <p class="p1">
-  But for me, I received mercy when the grace of my Lord overflowed for me with the faith and love that are in Christ Jesus. <a class="simple-footnote" title="1 Timothy 1:14-15" id="return-note-3642-12" href="#note-3642-12"><sup>12</sup></a>
+  But for me, I received mercy when the grace of my Lord overflowed for me with the faith and love that are in Christ Jesus. <a class="simple-footnote" title="1 Timothy 1:14-15" id="return-note-3642-12" href="#note-3642-12"></a>
 </p>
 
 <p class="p1">
@@ -98,7 +98,7 @@ series:
 </p>
 
 <p class="p1">
-  But for me, I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. <a class="simple-footnote" title="1 Timothy 1:14–16" id="return-note-3642-13" href="#note-3642-13"><sup>13</sup></a>
+  But for me, I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. <a class="simple-footnote" title="1 Timothy 1:14–16" id="return-note-3642-13" href="#note-3642-13"></a>
 </p>
 
 <p class="p1">
@@ -118,7 +118,7 @@ series:
 </p>
 
 <p class="p1">
-  I give thanks who has given me strength; He is Christ Jesus my Lord because He judged me faithful and appointed me to his service. <a class="simple-footnote" title="1 Timothy 1:12" id="return-note-3642-14" href="#note-3642-14"><sup>14</sup></a>
+  I give thanks who has given me strength; He is Christ Jesus my Lord because He judged me faithful and appointed me to his service. <a class="simple-footnote" title="1 Timothy 1:12" id="return-note-3642-14" href="#note-3642-14"></a>
 </p>
 
 <p class="p1">
@@ -126,7 +126,7 @@ series:
 </p>
 
 <p class="p1">
-  He is the Lord, most high above all the earth. I will exalt him far above all other gods. I can only worship the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen. <a class="simple-footnote" title="Psalm 97:9, 1 Timothy 1:14–17" id="return-note-3642-15" href="#note-3642-15"><sup>15</sup></a>
+  He is the Lord, most high above all the earth. I will exalt him far above all other gods. I can only worship the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen. <a class="simple-footnote" title="Psalm 97:9, 1 Timothy 1:14–17" id="return-note-3642-15" href="#note-3642-15"></a>
 </p>
 
 <div class="simple-footnotes">

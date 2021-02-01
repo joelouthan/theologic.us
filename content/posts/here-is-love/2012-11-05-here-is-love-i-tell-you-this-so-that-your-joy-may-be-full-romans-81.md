@@ -52,7 +52,7 @@ I was destined for death. I was destined to die.
 
 **Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord!** 
 
-**So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin. [<sup>1</sup>][2]{#return-note-1213-1.simple-footnote}**
+**So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin. [][2]{#return-note-1213-1.simple-footnote}**
 
 I won’t be perfect. Temptations are still there. Pride is still there.
 
@@ -65,7 +65,7 @@ His work will be complete. My work will be finished.
 For all of my past, present, and future failures, sins, trespasses, and iniquities, there is no truth so eye-blurring beautiful, so life-giving, so death-destroying, so mercy-renewing, so grace abounding, so love overflowing as the complete, perfect, definite, and absolute truth as this one verse:
 
 > <p style="text-align: left;">
->   <strong>There is therefore now no condemnation for those who are in Christ Jesus. <a class="simple-footnote" title="Romans 8:1" id="return-note-1213-2" href="#note-1213-2"><sup>2</sup></a></strong>
+>   <strong>There is therefore now no condemnation for those who are in Christ Jesus. <a class="simple-footnote" title="Romans 8:1" id="return-note-1213-2" href="#note-1213-2"></a></strong>
 > </p>
 
 Done and Amen.
@@ -86,7 +86,7 @@ If you do, then know it is because His Holy Spirit dwells in you.
 
 Then it won&#8217;t be just you trying to justify yourself before God.
 
-At the end of days, you will stand in line before the Judge of judges. You see countless people in front of you giving their own testimony before God on what _they_ have done for God. You notice that there are no other witnesses that can give an account of _who _ they are before God. One right after the other, Jesus calmly gives the sentence, &#8216;**I never knew you; depart from me, you workers of lawlessness.**’ [<sup>3</sup>][3]{#return-note-1213-3.simple-footnote}
+At the end of days, you will stand in line before the Judge of judges. You see countless people in front of you giving their own testimony before God on what _they_ have done for God. You notice that there are no other witnesses that can give an account of _who _ they are before God. One right after the other, Jesus calmly gives the sentence, &#8216;**I never knew you; depart from me, you workers of lawlessness.**’ [][3]{#return-note-1213-3.simple-footnote}
 
 There is fear. Yet, you starting to see more and more of His beautiful glory and you can&#8217;t wait to see just a little more. _That love!_ That love that was there the moment God saved you. There is that feeling-will-thought-idea-belief-emotion-knowledge-security-peace. The more you see of him, the more you long to see the face of the one who saved you from death to life.
 

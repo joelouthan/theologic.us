@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 **[<img class="alignright size-medium wp-image-450" title="bride-wedding-frock-waiting" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg?resize=228%2C300" width="228" height="300" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg?resize=228%2C300 228w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/bride-wedding-frock-waiting.jpg?w=300 300w" sizes="(max-width: 228px) 100vw, 228px" data-recalc-dims="1" />][1]Mark 2:18-22 ESV Now John&#8217;s disciples and the Pharisees were fasting. And people came and said to him, “Why do John&#8217;s disciples and the disciples of the Pharisees fast, but your disciples do not fast?” And Jesus said to them, “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. The days will come when the bridegroom is taken away from them, and then they will fast in that day. No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. And no one puts new wine into old wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”**
 

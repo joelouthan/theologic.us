@@ -11,7 +11,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 <p class="p1">
   <span class="s1">Mark 10:28-31 <strong>Peter began to say to him, “See, we have left everything and followed you.” Jesus said, “Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. But many who are first will be last, and the last first.”</strong></span>

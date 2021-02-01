@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Blessed Lord</div>
+&nbsp;
 
 How many times, my God,
 	must you rescue me?

@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">The Strength of My Heart</div>
+&nbsp;
 My Lord,
 	if it be your will
 	and under your grace alone,

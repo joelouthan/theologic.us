@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   My King and my God,
 </div>
+&nbsp;
 
 My heart grieves. My soul groans. I am in need of your Spirit.
 

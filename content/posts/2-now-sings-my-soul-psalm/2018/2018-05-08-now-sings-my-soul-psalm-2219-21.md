@@ -16,6 +16,7 @@ series:
 <div style="font-variant: small-caps;">
   Almighty God,
 </div>
+&nbsp;
 
 Who are you, my Lord, whose glory fills the entire earth? Whether I am in the heavens or make my bed in hell, you are there with me. If I ascend the mountain of your glory or wander in the desert of the wilderness, you are face to face and closer than a whisper.
 

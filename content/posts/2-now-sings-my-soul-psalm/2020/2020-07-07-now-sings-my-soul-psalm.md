@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">Savior of My Life</div>
+&nbsp;
 How many times,
 	my Lord,
 	was I left for dead?

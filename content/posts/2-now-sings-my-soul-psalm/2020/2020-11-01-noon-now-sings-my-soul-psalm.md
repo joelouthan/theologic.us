@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Judge and Mercy Alone</div>
+&nbsp;
 Every sin against me
    does not counter
    any of my sins.

@@ -11,7 +11,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 Mark 8:27–30 **And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, “Who do people say that I am?” And they told him, “John the Baptist; and others say, Elijah; and others, one of the prophets.” And he asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.” And he strictly charged them to tell no one about him.**
 

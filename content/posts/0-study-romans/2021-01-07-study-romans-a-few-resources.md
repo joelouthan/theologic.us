@@ -14,14 +14,9 @@ tags:
   - Books
 series:
   - 'Bible Study: Romans'
+TocOpen: true
 draft: false
 ---
-
-<style type="text/css">
-  body{
-  font-size: 12pt;
-}
-</style>
 
 ## Personal
 

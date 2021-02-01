@@ -15,6 +15,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Only Lamb whom was Slained,
 </div>
+&nbsp;
 
 Holy, holy, holy  
   are you, my Lord.  

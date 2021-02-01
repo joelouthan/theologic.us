@@ -11,6 +11,7 @@ tags:
   - Podcast
 series:
   - 'Bible Study: Romans'
+TocOpen: true
 draft: false
 ---
 Let's get the personal stuff out of the way.

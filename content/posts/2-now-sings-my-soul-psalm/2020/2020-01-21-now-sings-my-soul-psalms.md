@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Lord</div>
+&nbsp;
 I will worship you
 	with all of my days.
 

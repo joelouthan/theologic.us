@@ -10,6 +10,7 @@ tags:
   - Luke
 series:
   - 'Family Devotions: Luke'
+css: "family-devos"
 draft: false
 ---
 
@@ -21,9 +22,11 @@ Luke 9:1–6 (CSB) Summoning the Twelve, he gave them power and authority over a
 
 “Take nothing for the road,” he told them, “no staff, no traveling bag, no bread, no money; and don’t take an extra shirt.  Whatever house you enter, stay there and leave from there.  If they do not welcome you, when you leave that town, shake off the dust from your feet as a testimony against them.”  So they went out and traveled from village to village, proclaiming the good news and healing everywhere.
 
-*When is the Kingdom of God going to arrive?*
+```text
+When is the Kingdom of God going to arrive?
 
-*What has God asked his followers to go and do?*
+What has God asked his followers to go and do?
+```
 
 Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them.  When they saw him, they worshiped, but some doubted.  Jesus came near and said to them, “All authority has been given to me in heaven and on earth.  Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,  teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”
 
@@ -43,9 +46,11 @@ He said to them, “It is not for you to know times or periods that the Father h
 
 Luke 9:7–9 (CSB) Herod the tetrarch heard about everything that was going on. He was perplexed, because some said that John had been raised from the dead,  some that Elijah had appeared, and others that one of the ancient prophets had risen.  “I beheaded John,” Herod said, “but who is this I hear such things about?” And he wanted to see him.
 
-*Who is the Christ? Was John the Baptist the Christ?*
+```text
+Who is the Christ? Was John the Baptist the Christ?
 
-*What does it mean to be the Christ?*
+What does it mean to be the Christ?
+```
 
 ------
 
@@ -55,9 +60,11 @@ Luke 9:10–17 (CSB) When the apostles returned, they reported to Jesus all that
 
 Then he told his disciples, “Have them sit down in groups of about fifty each.”  They did what he said, and had them all sit down.  Then he took the five loaves and the two fish, and looking up to heaven, he blessed and broke them. He kept giving them to the disciples to set before the crowd.  Everyone ate and was filled. They picked up twelve baskets of leftover pieces.
 
-*Where does our home, food, money, possessions come from?*
+```text
+Where does our home, food, money, possessions come from?
 
-*Where can we be more dependent on God?*
+Where can we be more dependent on God?
+```
 
 ------
 
@@ -65,9 +72,11 @@ Then he told his disciples, “Have them sit down in groups of about fifty each.
 
 Luke 9:18–20 (CSB) While he was praying in private and his disciples were with him, he asked them, “Who do the crowds say that I am?”  They answered, “John the Baptist; others, Elijah; still others, that one of the ancient prophets has come back.”  “But you,” he asked them, “who do you say that I am?”
 
-    Peter answered, “God’s Messiah.”
+Peter answered, “God’s Messiah.”
 
-*What are we to do if Jesus is God? Should we pay attention to his words and his actions? Should we obey Him as God?*
+```text
+What are we to do if Jesus is God? Should we pay attention to his words and his actions? Should we obey Him as God?
+```
 
 ------
 
@@ -75,7 +84,9 @@ Luke 9:18–20 (CSB) While he was praying in private and his disciples were with
 
 Luke 9:21–22 (CSB) But he strictly warned and instructed them to tell this to no one,  saying, “It is necessary that the Son of Man suffer many things and be rejected by the elders, chief priests, and scribes, be killed, and be raised the third day.”
 
-*Why did Christ have to die?*
+```text
+Why did Christ have to die?
+```
 
 2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
@@ -87,7 +98,9 @@ Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, 
 
 Luke 9:23–27 (CSB) Then he said to them all, “If anyone wants to follow after me, let him deny himself, take up his cross daily, and follow me.  For whoever wants to save his life will lose it, but whoever loses his life because of me will save it.  For what does it benefit someone if he gains the whole world, and yet loses or forfeits himself?  For whoever is ashamed of me and my words, the Son of Man will be ashamed of him when he comes in his glory and that of the Father and the holy angels.  Truly I tell you, there are some standing here who will not taste death until they see the kingdom of God.”
 
-*What does it mean to take up our cross?*
+```text
+What does it mean to take up our cross?
+```
 
 ------
 
@@ -103,7 +116,9 @@ John 1:14 (CSB) The Word became flesh and dwelt among us. We observed his glory,
 
 Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
-*If we are predestined, called, and justified in the sight of God, what does it mean when God promises to 'glorify' us?*
+```text
+If we are predestined, called, and justified in the sight of God, what does it mean when God promises to 'glorify' us?
+```
 
 ------
 
@@ -117,7 +132,9 @@ Colossians 2:13–15 (CSB) And when you were dead in trespasses and in the uncir
 
 Romans 8:20–21 (CSB) For the creation was subjected to futility—not willingly, but because of him who subjected it—in the hope  that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.
 
-*What does it mean to be truly free if we are in Christ?*
+```text
+What does it mean to be truly free if we are in Christ?
+```
 
 ------
 
@@ -129,7 +146,9 @@ John 6:60–71 (CSB) Therefore, when many of his disciples heard this, they said
 
 From that moment many of his disciples turned back and no longer accompanied him.  So Jesus said to the Twelve, “You don’t want to go away too, do you?”  Simon Peter answered, “Lord, to whom will we go? You have the words of eternal life.  We have come to believe and know that you are the Holy One of God.”  Jesus replied to them, “Didn’t I choose you, the Twelve? Yet one of you is a devil.”  He was referring to Judas, Simon Iscariot’s son, one of the Twelve, because he was going to betray him.
 
-*Christ has hard sayings.  How can we believe His words?*
+```text
+Christ has hard sayings.  How can we believe His words?
+```
 
 ------
 
@@ -139,13 +158,15 @@ Luke 9:46–48 (CSB) An argument started among them about who was the greatest o
 
 James 4:6–10 (CSB) But he gives greater grace. Therefore he says: God resists the proud but gives grace to the humble.  Therefore, submit to God. Resist the devil, and he will flee from you.  Draw near to God, and he will draw near to you. Cleanse your hands, sinners, and purify your hearts, you double-minded.  Be miserable and mourn and weep. Let your laughter be turned to mourning and your joy to gloom.  Humble yourselves before the Lord, and he will exalt you.
 
-*What does it mean to be humble?*
+```text
+What does it mean to be humble?
 
-*What is the opposite of humility?*
+What is the opposite of humility?
 
-*Is the opposite of humility a sin?*
+Is the opposite of humility a sin?
 
-*Why does God oppose the proud?*
+Why does God oppose the proud?
+```
 
 ------
 
@@ -153,15 +174,17 @@ James 4:6–10 (CSB) But he gives greater grace. Therefore he says: God resists 
 
 Luke 9:49–50 (CSB) John responded, “Master, we saw someone driving out demons in your name, and we tried to stop him because he does not follow us.”  “Don’t stop him,” Jesus told him, “because whoever is not against you is for you.”
 
-*Do all churches do the exact same thing?*
+```text
+Do all churches do the exact same thing?
 
-*Do all churches believe the exact same way? Give some examples?*
+Do all churches believe the exact same way? Give some examples?
 
-*How are churches united in which ways?*
+How are churches united in which ways?
 
-*If all churches believe in the same Christ, why do they do things different from church to church?*
+If all churches believe in the same Christ, why do they do things different from church to church?
 
-*If other people believe and obey Christ, can they ever be our enemies? Are they our friends or are they more than that? What does God call them?*
+If other people believe and obey Christ, can they ever be our enemies? Are they our friends or are they more than that? What does God call them?
+```
 
 ------
 
@@ -169,7 +192,9 @@ Luke 9:49–50 (CSB) John responded, “Master, we saw someone driving out demon
 
 Luke 9:51–56 (CSB) When the days were coming to a close for him to be taken up, he determined to journey to Jerusalem.  He sent messengers ahead of himself, and on the way they entered a village of the Samaritans to make preparations for him.  But they did not welcome him, because he determined to journey to Jerusalem.  When the disciples James and John saw this, they said, “Lord, do you want us to call down fire from heaven to consume them?”  But he turned and rebuked them,  and they went to another village.
 
-*When people refuse to believe and even reject the God's good news, how do we respond?*
+```text
+When people refuse to believe and even reject the God's good news, how do we respond?
+```
 
 ------
 
@@ -177,8 +202,10 @@ Luke 9:51–56 (CSB) When the days were coming to a close for him to be taken up
 
 Luke 9:57–62 (CSB) As they were traveling on the road someone said to him, “I will follow you wherever you go.”  Jesus told him, “Foxes have dens, and birds of the sky have nests, but the Son of Man has no place to lay his head.”  Then he said to another, “Follow me.” “Lord,” he said, “first let me go bury my father.”  But he told him, “Let the dead bury their own dead, but you go and spread the news of the kingdom of God.”  Another said, “I will follow you, Lord, but first let me go and say good-bye to those at my house.”  But Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
 
-*Will you follow Christ even if you lost everything?*
+```text
+Will you follow Christ even if you lost everything?
 
-*Will you follow Christ even if you lose your loved ones?*
+Will you follow Christ even if you lose your loved ones?
 
-*Will you lay your old life down, right now, and follow Christ?*
+Will you lay your old life down, right now, and follow Christ?
+```

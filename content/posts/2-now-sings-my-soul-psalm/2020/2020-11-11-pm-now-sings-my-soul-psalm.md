@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Life and Heart
 </div>
+&nbsp;
 Why would you spare me?
 
 I have seen the evil that men have done

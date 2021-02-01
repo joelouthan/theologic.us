@@ -22,7 +22,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>The Lord is my shepherd; I shall not want.</b> <a class="simple-footnote" title="Psalm 23:1" id="return-note-3702-1" href="#note-3702-1"><sup>1</sup></a>
+  <b>The Lord is my shepherd; I shall not want.</b> <a class="simple-footnote" title="Psalm 23:1" id="return-note-3702-1" href="#note-3702-1"></a>
 </p>
 
 <p class="p1">
@@ -30,7 +30,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>The Spirit himself bears witness with our spirit that we are children of God, </b><i> </i><b>and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.</b> <a class="simple-footnote" title="Romans 8:16–17" id="return-note-3702-2" href="#note-3702-2"><sup>2</sup></a><i> </i><b>Long ago, at many times and in many ways, God spoke to our fathers by the prophets, </b><i> </i><b>but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.</b> <a class="simple-footnote" title="Hebrews 1:1–2" id="return-note-3702-3" href="#note-3702-3"><sup>3</sup></a>
+  <b>The Spirit himself bears witness with our spirit that we are children of God, </b><i> </i><b>and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.</b> <a class="simple-footnote" title="Romans 8:16–17" id="return-note-3702-2" href="#note-3702-2"></a><i> </i><b>Long ago, at many times and in many ways, God spoke to our fathers by the prophets, </b><i> </i><b>but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.</b> <a class="simple-footnote" title="Hebrews 1:1–2" id="return-note-3702-3" href="#note-3702-3"></a>
 </p>
 
 <p class="p1">
@@ -42,11 +42,11 @@ series:
 </p>
 
 <p class="p1">
-  And we even know that God “<b>makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.”</b> <a class="simple-footnote" title="Matthew 5:45" id="return-note-3702-4" href="#note-3702-4"><sup>4</sup></a>
+  And we even know that God “<b>makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.”</b> <a class="simple-footnote" title="Matthew 5:45" id="return-note-3702-4" href="#note-3702-4"></a>
 </p>
 
 <p class="p1">
-  There is a disparaging difference between the rich and the poor or how we are finding out now, depending on which zip code you were born and lived. Nevermind the fact that God alone determines what time you would be born but what socio-economical status aka your zip code you would be born into just so that you would seek God. <a class="simple-footnote" title="Acts 17:24–26" id="return-note-3702-5" href="#note-3702-5"><sup>5</sup></a>
+  There is a disparaging difference between the rich and the poor or how we are finding out now, depending on which zip code you were born and lived. Nevermind the fact that God alone determines what time you would be born but what socio-economical status aka your zip code you would be born into just so that you would seek God. <a class="simple-footnote" title="Acts 17:24–26" id="return-note-3702-5" href="#note-3702-5"></a>
 </p>
 
 <p class="p1">
@@ -98,7 +98,7 @@ series:
 </p>
 
 <p class="p1">
-  You might reject this because it is an easy answer. I assured you when the Father gave up His Son so that His children are saved to Him, that was not easy! We do know that Christ gave up his Spirit and the Father pour his wrath upon His Son—the two most God-awful things that will ever happen to a person. But Isaiah says, &#8220;It pleased God to bruised his Son.&#8221; <a class="simple-footnote" title="Isaiah 53:10" id="return-note-3702-6" href="#note-3702-6"><sup>6</sup></a>
+  You might reject this because it is an easy answer. I assured you when the Father gave up His Son so that His children are saved to Him, that was not easy! We do know that Christ gave up his Spirit and the Father pour his wrath upon His Son—the two most God-awful things that will ever happen to a person. But Isaiah says, &#8220;It pleased God to bruised his Son.&#8221; <a class="simple-footnote" title="Isaiah 53:10" id="return-note-3702-6" href="#note-3702-6"></a>
 </p>
 
 <p class="p1">
@@ -106,11 +106,11 @@ series:
 </p>
 
 <p class="p1">
-  <b>I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.</b> <a class="simple-footnote" title="Galatians 2:20" id="return-note-3702-7" href="#note-3702-7"><sup>7</sup></a>
+  <b>I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.</b> <a class="simple-footnote" title="Galatians 2:20" id="return-note-3702-7" href="#note-3702-7"></a>
 </p>
 
 <p class="p1">
-  And Christ went to the cross and hung himself there with great joy for my sake so that I would be set free in Him. <a class="simple-footnote" title="Hebrews 12:1-2" id="return-note-3702-8" href="#note-3702-8"><sup>8</sup></a>
+  And Christ went to the cross and hung himself there with great joy for my sake so that I would be set free in Him. <a class="simple-footnote" title="Hebrews 12:1-2" id="return-note-3702-8" href="#note-3702-8"></a>
 </p>
 
 <p class="p1">
@@ -122,7 +122,7 @@ series:
 </p>
 
 <p class="p1">
-  <b>Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, </b><i> </i><b>lest I be full and deny you and say, “Who is the Lord?” or lest I be poor and steal and profane the name of my God.</b> <a class="simple-footnote" title="Proverbs 30:8–9" id="return-note-3702-9" href="#note-3702-9"><sup>9</sup></a>
+  <b>Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, </b><i> </i><b>lest I be full and deny you and say, “Who is the Lord?” or lest I be poor and steal and profane the name of my God.</b> <a class="simple-footnote" title="Proverbs 30:8–9" id="return-note-3702-9" href="#note-3702-9"></a>
 </p>
 
 <p class="p1">

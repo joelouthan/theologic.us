@@ -57,7 +57,7 @@ Ezekiel 11:19–20 **And I will give them one heart, and a new spirit I will put
 
 Notice the order. First, he gives us a new heart. Next, a new spirit. He does so by removing our stony, hard, cancerous sin-filled hearts and replaces it with a soft, healthy, fleshy heart. But it is only now we have this new heart, we _get_ to walk in his statutes and keep his rules and obey them.<span class="Apple-converted-space"> </span>
 
-So you see, this is the work of God in your active obedience to God that He will transform you to the image of His Son. [<sup>1</sup>][1]{#return-note-3608-1.simple-footnote}
+So you see, this is the work of God in your active obedience to God that He will transform you to the image of His Son. [][1]{#return-note-3608-1.simple-footnote}
 
 But we just established that this process doesn’t often happen overnight but rather in a lifetime. I think we know our part: we see it in the Bible. But what is God’s part in all of this?
 
@@ -67,17 +67,17 @@ First, he will sanctify, or that is, make us holy by our faith. Look at what Pau
 
 Acts 26:15-18 **And I said, ‘Who are you, Lord?’ And the Lord said, ‘I am Jesus whom you are persecuting. But rise and stand upon your feet, for I have appeared to you for this purpose, to appoint you as a servant and witness to the things in which you have seen me and to those in which I will appear to you, delivering you from your people and from the Gentiles—to whom I am sending you to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.’**
 
-It is your faith, which is a gift from God [<sup>2</sup>][2]{#return-note-3608-2.simple-footnote}, that makes you holy. Not only you are declared holy because God is holy [<sup>3</sup>][3]{#return-note-3608-3.simple-footnote}, you will be holy because of your faith in the God who the angels in heaven declare is “holy, holy, holy!”
+It is your faith, which is a gift from God [][2]{#return-note-3608-2.simple-footnote}, that makes you holy. Not only you are declared holy because God is holy [][3]{#return-note-3608-3.simple-footnote}, you will be holy because of your faith in the God who the angels in heaven declare is “holy, holy, holy!”
 
 You are declared and made righteous because of your faith in God. If you believe in his word and trust his promises, you will live as though you believe. Not to do so is hypocrisy.
 
-It is this very idea that separates the theologies and doctrines of the Roman Catholics and the Protestants: It is not that the little things we do that have no heart and no meaning behind them in order to pay for our sins, but it is that we, Protestants, believe that Christ took care of all of my sins once and for all and now, he sits at the right hand of the Father interceding for us. We contend that the righteous shall live by faith. [<sup>4</sup>][4]{#return-note-3608-4.simple-footnote}
+It is this very idea that separates the theologies and doctrines of the Roman Catholics and the Protestants: It is not that the little things we do that have no heart and no meaning behind them in order to pay for our sins, but it is that we, Protestants, believe that Christ took care of all of my sins once and for all and now, he sits at the right hand of the Father interceding for us. We contend that the righteous shall live by faith. [][4]{#return-note-3608-4.simple-footnote}
 
 Second, he will continue to refine us by allowing us to be put into certain situations or experience certain afflictions so that we would grow and mature. God gave Paul a messenger of Satan to harass him so that “it would keep him from being conceited.”
 
 We might think of that is insanity or even cruel. I am going to use a phrase that only the most serious gym-goer would understand: progressive overload. Progressive overload is the idea that for you to be faster, stronger, and have more endurance; you will need to keep increasing your weights, reps, and your time. In other words, you cannot keep going to the gym, keep doing the same thing over and over again. In fact, if you do, you will become weaker because the body is exceptionally terrific at being efficient.
 
-Likewise, whatever God sends our way, even suffering, will produce not only endurance, and not only a godly character, but ultimately produces a hope that does not put us to shame, because God’s love has been poured into our hearts through the Holy Spirit who has been given to us. [<sup>5</sup>][5]{#return-note-3608-5.simple-footnote}
+Likewise, whatever God sends our way, even suffering, will produce not only endurance, and not only a godly character, but ultimately produces a hope that does not put us to shame, because God’s love has been poured into our hearts through the Holy Spirit who has been given to us. [][5]{#return-note-3608-5.simple-footnote}
 
 Third, when we mess up, He will discipline us as a good parent would.
 
@@ -89,11 +89,11 @@ I hesitate to share this story, but I know that this is the clearest example I k
 
 <span class="Apple-converted-space"> </span>So, what will all of this sanctifying conformation look like?
 
-Some of it will look like suffering. To be heirs of God and fellow heirs with Christ, we will have to suffer with him so that we may be glorified with him. But we are not to consider the sufferings of this present time to be worthy of comparison to the glory that will be revealed to us. [<sup>6</sup>][6]{#return-note-3608-6.simple-footnote}
+Some of it will look like suffering. To be heirs of God and fellow heirs with Christ, we will have to suffer with him so that we may be glorified with him. But we are not to consider the sufferings of this present time to be worthy of comparison to the glory that will be revealed to us. [][6]{#return-note-3608-6.simple-footnote}
 
-Some of it will look like Israelites wandering in the desert (see the book of Exodus) but know it is God that drew you out in the wilderness but He also is the same God who will be closer than a whisper and will never leave your side. [<sup>7</sup>][7]{#return-note-3608-7.simple-footnote}
+Some of it will look like Israelites wandering in the desert (see the book of Exodus) but know it is God that drew you out in the wilderness but He also is the same God who will be closer than a whisper and will never leave your side. [][7]{#return-note-3608-7.simple-footnote}
 
-Some of it will look like death as though we are walking through the valley of the stench of death but never forget that Jesus Christ is the lily of the valley whose fragrance smells of life. [<sup>8</sup>][8]{#return-note-3608-8.simple-footnote}
+Some of it will look like death as though we are walking through the valley of the stench of death but never forget that Jesus Christ is the lily of the valley whose fragrance smells of life. [][8]{#return-note-3608-8.simple-footnote}
 
 <div class="simple-footnotes">
   <p class="notes">

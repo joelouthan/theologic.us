@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Dearest God</div>
+&nbsp;
 You were mindful of me,  
 	before the foundations of the world  
 	were formed by you.  

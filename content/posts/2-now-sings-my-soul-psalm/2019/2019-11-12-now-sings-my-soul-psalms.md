@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Blessed Redeemer,</div>
+&nbsp;
 Your Word stands true.
 
 For you have declared that,  

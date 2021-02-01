@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">O Lord</div>
+&nbsp;
 
 My enemies have been numerous,
 	and they attack me relentless.

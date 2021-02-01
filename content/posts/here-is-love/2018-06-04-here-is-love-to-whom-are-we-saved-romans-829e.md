@@ -54,11 +54,11 @@ series:
 </p>
 
 <p class="p1">
-  And just so we are clear: the term firstborn might be a weird adjective to describe the Word of God who has always been from eternally past. But remember that Christ is the Alpha and the Omega, the Beginning and the End <a class="simple-footnote" title="Revelation 21:6" id="return-note-3481-1" href="#note-3481-1"><sup>1</sup></a>—the creator, founder, begetter, and perfector of our faith.
+  And just so we are clear: the term firstborn might be a weird adjective to describe the Word of God who has always been from eternally past. But remember that Christ is the Alpha and the Omega, the Beginning and the End <a class="simple-footnote" title="Revelation 21:6" id="return-note-3481-1" href="#note-3481-1"></a>—the creator, founder, begetter, and perfector of our faith.
 </p>
 
 <p class="p1">
-  And since he proceeds everything, in a strange, “outside-of-time” way, it is the firstborn, founder and perfector of all the faith of the saints, both in the New and in the Old Testament. <a class="simple-footnote" title="Hebrew 11:1-12:2 cf. Romans 3:21-26" id="return-note-3481-2" href="#note-3481-2"><sup>2</sup></a>
+  And since he proceeds everything, in a strange, “outside-of-time” way, it is the firstborn, founder and perfector of all the faith of the saints, both in the New and in the Old Testament. <a class="simple-footnote" title="Hebrew 11:1-12:2 cf. Romans 3:21-26" id="return-note-3481-2" href="#note-3481-2"></a>
 </p>
 
 <p class="p1">
@@ -78,7 +78,7 @@ series:
 </p>
 
 <p class="p2">
-  Forever, there is <b>no condemnation</b> for those who are in Christ <a class="simple-footnote" title="Romans 8:1" id="return-note-3481-3" href="#note-3481-3"><sup>3</sup></a> and <b>no separation</b> for those who are in Christ <a class="simple-footnote" title="Romans 8:38-39" id="return-note-3481-4" href="#note-3481-4"><sup>4</sup></a>.
+  Forever, there is <b>no condemnation</b> for those who are in Christ <a class="simple-footnote" title="Romans 8:1" id="return-note-3481-3" href="#note-3481-3"></a> and <b>no separation</b> for those who are in Christ <a class="simple-footnote" title="Romans 8:38-39" id="return-note-3481-4" href="#note-3481-4"></a>.
 </p>
 
 <p class="p2">
@@ -102,7 +102,7 @@ series:
 </p>
 
 <p class="p1">
-  We are to meet together not to throw guilt, shame, and condemnation at one another but to build up each other in encouragement. (Sounds familiar? That’s why we have the gifts of the Spirit, particular with the gifts of encouragement and prophecy. <a class="simple-footnote" title="1 Corinthians 14:3-4" id="return-note-3481-5" href="#note-3481-5"><sup>5</sup></a>)
+  We are to meet together not to throw guilt, shame, and condemnation at one another but to build up each other in encouragement. (Sounds familiar? That’s why we have the gifts of the Spirit, particular with the gifts of encouragement and prophecy. <a class="simple-footnote" title="1 Corinthians 14:3-4" id="return-note-3481-5" href="#note-3481-5"></a>)
 </p>
 
 <p class="p1">

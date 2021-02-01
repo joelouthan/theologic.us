@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 God of my little belief
 </div>
+&nbsp;
 Oh how many times, O Lord,
   have I whispered nothings
   gave half-hearted thanks

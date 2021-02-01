@@ -15,6 +15,7 @@ series:
 <div style="font-variant: small-caps;">
   My Great God,
 </div>
+&nbsp;
 
 How many times have you rescued me from not only eternal death but certain death and doom?
 

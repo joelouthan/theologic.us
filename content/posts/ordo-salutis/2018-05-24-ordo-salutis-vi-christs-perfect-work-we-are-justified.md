@@ -16,11 +16,11 @@ series:
 </p>
 
 <p class="p1">
-  Interesting is that the Holy Spirit took killed a husband and his wife for lying to God about the selling land and the giving of proceeds from that sale. <a class="simple-footnote" title="Acts 5:1-11" id="return-note-3504-1" href="#note-3504-1"><sup>1</sup></a>
+  Interesting is that the Holy Spirit took killed a husband and his wife for lying to God about the selling land and the giving of proceeds from that sale. <a class="simple-footnote" title="Acts 5:1-11" id="return-note-3504-1" href="#note-3504-1"></a>
 </p>
 
 <p class="p1">
-  It is even more interesting to note that the Apostle John wrote in his Gospel in chapter 3 “For God so loved the world that he gave his only begotten Son that whosever believes in Him shall not perish but have eternal life” <a class="simple-footnote" title="John 3:16" id="return-note-3504-2" href="#note-3504-2"><sup>2</sup></a>, did not finish that statement without further claiming and clarifying, “Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him”. <a class="simple-footnote" title="John 3:36" id="return-note-3504-3" href="#note-3504-3"><sup>3</sup></a>
+  It is even more interesting to note that the Apostle John wrote in his Gospel in chapter 3 “For God so loved the world that he gave his only begotten Son that whosever believes in Him shall not perish but have eternal life” <a class="simple-footnote" title="John 3:16" id="return-note-3504-2" href="#note-3504-2"></a>, did not finish that statement without further claiming and clarifying, “Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him”. <a class="simple-footnote" title="John 3:36" id="return-note-3504-3" href="#note-3504-3"></a>
 </p>
 
 <p class="p1">
@@ -28,7 +28,7 @@ series:
 </p>
 
 <p class="p1">
-  But what about His love, mercy, and grace? What about His gospel which Paul utterly declares to be “<b>… the power of God in salvation for those who believe, to the Jew first and also the Greek</b>” <a class="simple-footnote" title="Romans 1:16" id="return-note-3504-4" href="#note-3504-4"><sup>4</sup></a>, to which he was not ashamed of?
+  But what about His love, mercy, and grace? What about His gospel which Paul utterly declares to be “<b>… the power of God in salvation for those who believe, to the Jew first and also the Greek</b>” <a class="simple-footnote" title="Romans 1:16" id="return-note-3504-4" href="#note-3504-4"></a>, to which he was not ashamed of?
 </p>
 
 <p class="p1">
@@ -91,7 +91,7 @@ series:
 
 It is out of the perfection and fullness of God&#8217;s love, desires, affections, mercy, grace, justice, righteousness, patience, peace, holiness, aseity, omnipotence, omniscience, and omnipresence, we can fully see in God&#8217;s response.
 
-God doesn&#8217;t chastise or even condemn. (Bare with me. I will get to that in a moment.)  Instead, God responds with, &#8220;Satan, I will send Someone to make this right. You might think you have hurt him but he will crush your skull underneath his barefoot once and for all.&#8221; [<sup>5</sup>][1]{#return-note-3504-5.simple-footnote}
+God doesn&#8217;t chastise or even condemn. (Bare with me. I will get to that in a moment.)  Instead, God responds with, &#8220;Satan, I will send Someone to make this right. You might think you have hurt him but he will crush your skull underneath his barefoot once and for all.&#8221; [][1]{#return-note-3504-5.simple-footnote}
 
 <p class="p1">
   God promises the monster that he will be destroyed and God makes this threat in front of his half-naked, scared, frightened, sin-filled kids. With Adam and Eve as his first witnesses, God promises He alone will fix what they did. Step number one was sending someone to be born of a woman, step two was for this savior to be hurt in some way and step three was that this person would smash Satan&#8217;s head to smithereens.
@@ -138,15 +138,15 @@ God doesn&#8217;t chastise or even condemn. (Bare with me. I will get to that in
 </p>
 
 <p class="p1">
-  God knows everything about you. He determines when you were born and where you would live <a class="simple-footnote" title="Acts 17:24-28" id="return-note-3504-6" href="#note-3504-6"><sup>6</sup></a>. On top of that, He knows when you were far from him, running away from him and commiting treason against Him. He sees all of that. He knows all of that. God also knows when you appear to do good things but your heart is not in the right place. Namely, your heart is not about God. But when God saw you in your unrighteousness, he decided not to instantly judge you to instant condemnation. But even before the creation of the world, God decided to save you <a class="simple-footnote" title="Romans 5:8; Ephesians 1:3-10" id="return-note-3504-7" href="#note-3504-7"><sup>7</sup></a>.
+  God knows everything about you. He determines when you were born and where you would live <a class="simple-footnote" title="Acts 17:24-28" id="return-note-3504-6" href="#note-3504-6"></a>. On top of that, He knows when you were far from him, running away from him and commiting treason against Him. He sees all of that. He knows all of that. God also knows when you appear to do good things but your heart is not in the right place. Namely, your heart is not about God. But when God saw you in your unrighteousness, he decided not to instantly judge you to instant condemnation. But even before the creation of the world, God decided to save you <a class="simple-footnote" title="Romans 5:8; Ephesians 1:3-10" id="return-note-3504-7" href="#note-3504-7"></a>.
 </p>
 
 <p class="p1">
-  Just as God slew an animal to clothe his kids, the slaying of that animal did save them. Just as God proclaims his law to His people, that law could not and did not save them—it was too weak to do so. Even when God laid out the instructions to spill the blood of perfect, spotless animals in order to show his people what God must do in order to<span class="Apple-converted-space">  </span>save them, not even the animals&#8217; dried blood that completely stain the bronze altar would not save his people <a class="simple-footnote" title="Hebrews 9:11–22; Hebrews 10:3-7" id="return-note-3504-8" href="#note-3504-8"><sup>8</sup></a>!
+  Just as God slew an animal to clothe his kids, the slaying of that animal did save them. Just as God proclaims his law to His people, that law could not and did not save them—it was too weak to do so. Even when God laid out the instructions to spill the blood of perfect, spotless animals in order to show his people what God must do in order to<span class="Apple-converted-space">  </span>save them, not even the animals&#8217; dried blood that completely stain the bronze altar would not save his people <a class="simple-footnote" title="Hebrews 9:11–22; Hebrews 10:3-7" id="return-note-3504-8" href="#note-3504-8"></a>!
 </p>
 
 <p class="p1">
-  No! God demanded the Perfect Sacrifice and that sacrifice had to be Man. But here&#8217;s the dilemma: no one ever born of man is perfect. No one! All who were born of Adam inherited Adam’s wicked and depraved heart. No one is righteous. No, not one. All of us have fallen way short of the glory of God. But under the law of God, the shedding of blood purified everything and without the shedding of blood, there is no removal of sin. Man has fallen into sin, committed sin even when they thought they were obeying the law of God (they were not) and only Man can atone for sin. You cannot atone for sin when you are filled with sin. God has a perfect requirement to atone for sin: it is a perfect man who lives perfectly and this same man would not ever know sin. This man could even be tempted as we are but still freed from sin. From the moment I was made in my mother’s womb, I was automatically disqualified from atoning for my own sin. My very birth was into sin and my continuous disobedience condemns me before the righteous and just God. And don’t get hung up on the word ‘continuous’ as thought I could somehow stop sinning on my own. If I had broken one of the laws of God, I have broken all of the laws of God <a class="simple-footnote" title="James 2:10" id="return-note-3504-9" href="#note-3504-9"><sup>9</sup></a>.
+  No! God demanded the Perfect Sacrifice and that sacrifice had to be Man. But here&#8217;s the dilemma: no one ever born of man is perfect. No one! All who were born of Adam inherited Adam’s wicked and depraved heart. No one is righteous. No, not one. All of us have fallen way short of the glory of God. But under the law of God, the shedding of blood purified everything and without the shedding of blood, there is no removal of sin. Man has fallen into sin, committed sin even when they thought they were obeying the law of God (they were not) and only Man can atone for sin. You cannot atone for sin when you are filled with sin. God has a perfect requirement to atone for sin: it is a perfect man who lives perfectly and this same man would not ever know sin. This man could even be tempted as we are but still freed from sin. From the moment I was made in my mother’s womb, I was automatically disqualified from atoning for my own sin. My very birth was into sin and my continuous disobedience condemns me before the righteous and just God. And don’t get hung up on the word ‘continuous’ as thought I could somehow stop sinning on my own. If I had broken one of the laws of God, I have broken all of the laws of God <a class="simple-footnote" title="James 2:10" id="return-note-3504-9" href="#note-3504-9"></a>.
 </p>
 
 <p class="p1">

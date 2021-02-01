@@ -20,7 +20,7 @@ _What is the flesh?_
 
 Is it something inherently evil? Is it that this body cannot do anything right? As it is written:
 
-**For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out.** [<sup>1</sup>][1]{#return-note-1602-1.simple-footnote}
+**For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out.** [][1]{#return-note-1602-1.simple-footnote}
 
 No. It is not the fact that the flesh—our bodies, our thoughts, our hearts, our wills—are evil and therefore incapable of doing good. Our bodies were created by God and God himself declared His creation to be good. But it is that our flesh is apart from God and separated from God which makes our bodies incapable of doing good.
 
@@ -36,7 +36,7 @@ My friends that is death. To think of _us_ as the source of these good things is
 
 Yet, here is goodness, here is mercy, and here is grace:
   
-**And he said, “I will make all my goodness pass before you and will proclaim before you my name ‘The LORD.’ And I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.** [<sup>2</sup>][2]{#return-note-1602-2.simple-footnote}
+**And he said, “I will make all my goodness pass before you and will proclaim before you my name ‘The LORD.’ And I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.** [][2]{#return-note-1602-2.simple-footnote}
 
 From birth, our minds, our wills, our hearts, our _flesh_ are focused on one destiny: death. We are turned away from God, set ourselves apart from, want nothing to do with God, and do not love God.
 

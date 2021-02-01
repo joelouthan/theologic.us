@@ -12,13 +12,14 @@ tags:
   - Podcast
 series:
   - 'Bible Study: Romans'
+TocOpen: true
 draft: false
 ---
 ## The Text
 
-**Romans 1:26-32 For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones. <sup>27</sup> The men in the same way also left natural relations with women and were inflamed in their lust for one another. Men committed shameless acts with men and received in their own persons the appropriate penalty of their error.**
+**Romans 1:26-32 For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones. The men in the same way also left natural relations with women and were inflamed in their lust for one another. Men committed shameless acts with men and received in their own persons the appropriate penalty of their error.**
 
-**<sup>28</sup> And because they did not think it worthwhile to acknowledge God, God delivered them over to a corrupt mind so that they do what is not right. <sup>29</sup> They are filled with all unrighteousness, evil, greed, and wickedness. They are full of envy, murder, quarrels, deceit, and malice. They are gossips, <sup>30</sup> slanderers, God-haters, arrogant, proud, boastful, inventors of evil, disobedient to parents, <sup>31</sup> senseless, untrustworthy, unloving, and unmerciful. <sup>32</sup> Although they know God’s just sentence—that those who practice such things deserve to die,—they not only do them, but even applaud, others who practice them.**
+**And because they did not think it worthwhile to acknowledge God, God delivered them over to a corrupt mind so that they do what is not right. They are filled with all unrighteousness, evil, greed, and wickedness. They are full of envy, murder, quarrels, deceit, and malice. They are gossips, slanderers, God-haters, arrogant, proud, boastful, inventors of evil, disobedient to parents, senseless, untrustworthy, unloving, and unmerciful. Although they know God’s just sentence—that those who practice such things deserve to die,—they not only do them, but even applaud, others who practice them.**
 
 ## The Support
 
@@ -56,7 +57,7 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 > LORD my God, I seek refuge in you;  
 > save me from all my pursuers and rescue me,  
 > or they will tear me like a lion,  
-> ripping me apart with no one to rescue me.   
+> ripping me apart with no one to rescue me.  
 > LORD my God, if I have done this,  
 > if there is injustice on my hands,  
 > if I have done harm to one at peace with me  
@@ -83,7 +84,7 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 > My shield is with God,  
 > who saves the upright in heart.  
 > God is a righteous judge  
-> and a God who shows his wrath every day.   
+> and a God who shows his wrath every day.  
 > If anyone does not repent,  
 > he will sharpen his sword;  
 > he has strung his bow and made it ready.  
@@ -95,7 +96,7 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 > but fell into the hole he had made.  
 > His trouble comes back on his own head;  
 > his own violence comes down on top of his head.  
-   
+
 > I will thank the LORD for his righteousness;  
 > I will sing about the name of the LORD Most High.  
 

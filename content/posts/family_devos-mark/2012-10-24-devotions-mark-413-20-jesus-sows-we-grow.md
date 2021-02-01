@@ -12,7 +12,8 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
-
+css: "family-devos"
+draft: false
 ---
 [<img class="alignright size-full wp-image-741" title="sower-icon" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/sower-icon.jpg?resize=168%2C276" width="168" height="276" data-recalc-dims="1" />][1]Mark 4:13-20** And he said to them, “Do you not understand this parable? How then will you understand all the parables?** 
 

@@ -16,6 +16,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Only Shield of Salvation
 </div>
+&nbsp;
 I remembered
   being attacked
   all of my days

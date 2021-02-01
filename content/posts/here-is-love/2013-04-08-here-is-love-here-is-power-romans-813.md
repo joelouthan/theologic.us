@@ -24,27 +24,27 @@ So what if you live according to your emotions, thoughts, feelings, and instinct
 
 **There is a way that seems right to a man,
   
-but its end is the way to death.** [<sup>1</sup>][2]{#return-note-1928-1.simple-footnote}
+but its end is the way to death.** [][2]{#return-note-1928-1.simple-footnote}
 
 **The heart is deceitful above all things,
   
 and desperately sick;
   
-who can understand it?** [<sup>2</sup>][3]{#return-note-1928-2.simple-footnote}
+who can understand it?** [][3]{#return-note-1928-2.simple-footnote}
 
 You don’t need me to hand-picked Scriptures to tell you that we are all going to die. So is this what Paul is referring to, a physical death? Not likely because the context of all of Romans. Paul was not contending for your physical bodily health. Paul didn’t do it and neither did Christ.
 
-**Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?” She said to him, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.”** [<sup>3</sup>][4]{#return-note-1928-3.simple-footnote}****
+**Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?” She said to him, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.”** [][4]{#return-note-1928-3.simple-footnote}****
 
-**Yet a little while and the world will see me no more, but you will see me. Because I live, you also will live. In that day you will know that I am in my Father, and you in me, and I in you.** [<sup>4</sup>][5]{#return-note-1928-4.simple-footnote}****
+**Yet a little while and the world will see me no more, but you will see me. Because I live, you also will live. In that day you will know that I am in my Father, and you in me, and I in you.** [][5]{#return-note-1928-4.simple-footnote}****
 
-**“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.** [<sup>5</sup>][6]{#return-note-1928-5.simple-footnote}****
+**“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.** [][6]{#return-note-1928-5.simple-footnote}****
 
 **I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”**
 
 **The Jews then disputed among themselves, saying, “How can this man give us his flesh to eat?” So Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day. For my flesh is true food, and my blood is true drink. Whoever feeds on my flesh and drinks my blood abides in me, and I in him. As the living Father sent me, and I live because of the Father, so whoever feeds on me, he also will live because of me. This is the bread that came down from heaven, not like the bread the fathers ate, and died. Whoever feeds on this bread will live forever.” Jesus said these things in the synagogue, as he taught at Capernaum.**
 
-**When many of his disciples heard it, they said, “This is a hard saying; who can listen to it?” But Jesus, knowing in himself that his disciples were grumbling about this, said to them, “Do you take offense at this? Then what if you were to see the Son of Man ascending to where he was before? It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life. But there are some of you who do not believe.” For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him. And he said, “This is why I told you that no one can come to me unless it is granted him by the Father.” After this many of his disciples turned back and no longer walked with him. So Jesus said to the Twelve, “Do you want to go away as well?” Simon Peter answered him, “Lord, to whom shall we go? You have the words of eternal life, and we have believed, and have come to know, that you are the Holy One of God.”** [<sup>6</sup>][7]{#return-note-1928-6.simple-footnote}
+**When many of his disciples heard it, they said, “This is a hard saying; who can listen to it?” But Jesus, knowing in himself that his disciples were grumbling about this, said to them, “Do you take offense at this? Then what if you were to see the Son of Man ascending to where he was before? It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life. But there are some of you who do not believe.” For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him. And he said, “This is why I told you that no one can come to me unless it is granted him by the Father.” After this many of his disciples turned back and no longer walked with him. So Jesus said to the Twelve, “Do you want to go away as well?” Simon Peter answered him, “Lord, to whom shall we go? You have the words of eternal life, and we have believed, and have come to know, that you are the Holy One of God.”** [][7]{#return-note-1928-6.simple-footnote}
 
 Even when Christ dealt with physical death when he raised Lazarus from the dead in John 11, notice that he didn’t command Death to stand down. No! He calls out Lazarus from Death. He doesn’t dismiss Death directly but he overtakes Death by giving life unto death. All of John 11 is a parallel between physical death that we know here on earth and the reality of our spirit without God.
 
@@ -54,7 +54,7 @@ This is a hard saying. Right now, kids call this truth just a “story about zom
 
 So what can do? We can do nothing.
 
-Try to live by your own power? One, it’s impossible. Two, if it appears that you are succeeding on your own, then you will be filled with pride and that is an abomination to the Lord. Then try to present your self-righteousness to the Almighty God and don’t be surprised when he dismisses you as he never knew you as you sit there holding a pile of filthy rags. [<sup>7</sup>][8]{#return-note-1928-7.simple-footnote}
+Try to live by your own power? One, it’s impossible. Two, if it appears that you are succeeding on your own, then you will be filled with pride and that is an abomination to the Lord. Then try to present your self-righteousness to the Almighty God and don’t be surprised when he dismisses you as he never knew you as you sit there holding a pile of filthy rags. [][8]{#return-note-1928-7.simple-footnote}
 
 Our only hope is to trust in the one who gives power. Your sin, your iniquity, your transgressions, and your wickedness will lay nearby waiting to overtake you and devour you. Sometimes that’s why when we don’t struggle with recent past sins, we think we have beaten it. Maybe. In my experience, it only comes back stronger and more hardcore.
 

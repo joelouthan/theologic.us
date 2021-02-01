@@ -19,7 +19,7 @@ Romans 8:27 **And he who searches hearts knows what is the mind of the Spirit, b
 
 This is a fantastic God
 
-What compares to the knowledge of God when He alone reveals all truth and science to us? Yet, he is not merely the best supercomputer in the world with every single piece of knowledge and scientific fact ever. [<sup>1</sup>][1]{#return-note-3245-1.simple-footnote}
+What compares to the knowledge of God when He alone reveals all truth and science to us? Yet, he is not merely the best supercomputer in the world with every single piece of knowledge and scientific fact ever. [][1]{#return-note-3245-1.simple-footnote}
 
 What compares to the knowledge of God that he numbers the stars in the all of the cosmos, grains of sand on all the beaches and even the number of the hairs on your head? But he is not the greatest calculator that can count really, really high.
 
@@ -51,7 +51,7 @@ But what if you don’t know God like this? What if this is all foreign to you? 
 
 Let the Almighty God take you into his strong arms as he begins to constantly, consistently, thoughtfully, and lovingly pray and intercede for you according His own will because he loves you.
 
-I pray that everyone who reads these words would know that God didn’t create you and left you behind. He didn’t save you and then distance from you. God didn’t rescue you and then be disconnected from you. No! He saved you, pulled you in close, whispers blessings into your ear, rejoices and sings over you in gladness! [<sup>2</sup>][2]{#return-note-3245-2.simple-footnote}
+I pray that everyone who reads these words would know that God didn’t create you and left you behind. He didn’t save you and then distance from you. God didn’t rescue you and then be disconnected from you. No! He saved you, pulled you in close, whispers blessings into your ear, rejoices and sings over you in gladness! [][2]{#return-note-3245-2.simple-footnote}
 
 Because he loves you.
 

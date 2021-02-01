@@ -14,6 +14,7 @@ draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Steadfast Lover</div>
+&nbsp;
 My enemies have long shamed me
   and I have been beaten to death.
   I have decided, "My Lord is not for me,

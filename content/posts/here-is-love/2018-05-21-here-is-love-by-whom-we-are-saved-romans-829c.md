@@ -19,7 +19,7 @@ series:
 
 <span style="font-weight: 400;">Romans 7:24–25 </span>**Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh, I serve the law of sin.**
 
-<span style="font-weight: 400;">Seem familiar? Don’t we hear the same desperation in anyone, who by the grace of God, see their own sins as an affront and treason against holy and loving God? It is the great cry of the tax collector, “&#8230; standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’” <a class="simple-footnote" title="Luke 18:13" id="return-note-3320-1" href="#note-3320-1"><sup>1</sup></a></span>
+<span style="font-weight: 400;">Seem familiar? Don’t we hear the same desperation in anyone, who by the grace of God, see their own sins as an affront and treason against holy and loving God? It is the great cry of the tax collector, “&#8230; standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’” <a class="simple-footnote" title="Luke 18:13" id="return-note-3320-1" href="#note-3320-1"></a></span>
 
 <span style="font-weight: 400;">Even more than that, it seems to be the same question Isaiah asked:</span>
 
@@ -45,7 +45,7 @@ series:
 
 <span style="font-weight: 400;">Let that be one of the many banners over our souls and hearts: “THERE IS NO CONDEMNATION BECAUSE I AM IN CHRIST AND HE IS IN ME FOREVER!”</span>
 
-<span style="font-weight: 400;">But this is not some standalone “theory” that we have to do doctrinal gymnastics in order to arrive at this point. The world wants to make the Bible more difficult than it needs to be. By either claiming to be nonsense, or it is a book filled with fantasy, or that God is an angry god or there are just too many contradictions. To such counters I will say two things: One, you cannot understand any gift of God without the Holy Spirit of God <a class="simple-footnote" title="1 Corinthians 2:12" id="return-note-3320-2" href="#note-3320-2"><sup>2</sup></a>. Two, once you have the Holy Spirit and by his will, power and wisdom alone, you can now begin to grasp the Bible for it really is—the word of God.  All of a sudden, when we read passages like Luke 24 when Jesus taught his disciples about all the Scriptures, we realize that the Bible is really all about Him.</span>
+<span style="font-weight: 400;">But this is not some standalone “theory” that we have to do doctrinal gymnastics in order to arrive at this point. The world wants to make the Bible more difficult than it needs to be. By either claiming to be nonsense, or it is a book filled with fantasy, or that God is an angry god or there are just too many contradictions. To such counters I will say two things: One, you cannot understand any gift of God without the Holy Spirit of God <a class="simple-footnote" title="1 Corinthians 2:12" id="return-note-3320-2" href="#note-3320-2"></a>. Two, once you have the Holy Spirit and by his will, power and wisdom alone, you can now begin to grasp the Bible for it really is—the word of God.  All of a sudden, when we read passages like Luke 24 when Jesus taught his disciples about all the Scriptures, we realize that the Bible is really all about Him.</span>
 
 <span style="font-weight: 400;">If the Bible is all about Jesus, then logic and reason dictate that salvation comes through Christ alone.</span>
 
@@ -75,17 +75,17 @@ series:
 
 <span style="font-weight: 400;">Numbers &#8211; the progressive sanctification of his people or to put it into other words, <strong>being conformed to the image of His Son</strong>.</span>
 
-<span style="font-weight: 400;">But how do we know that Christ was the Savior of those in the Old Testament when they didn&#8217;t even know His name? Paul says that in Romans 3 that God put Jesus Christ forward as a propitiation with Christ’s own blood to be received by faith. Not only with us the New Testament saints but the Old Testaments as well. God was passing over their sins in divine forbearance because those saints believed in Christ Jesus. <a class="simple-footnote" title="see Romans 3:21-26" id="return-note-3320-3" href="#note-3320-3"><sup>3</sup></a></span>
+<span style="font-weight: 400;">But how do we know that Christ was the Savior of those in the Old Testament when they didn&#8217;t even know His name? Paul says that in Romans 3 that God put Jesus Christ forward as a propitiation with Christ’s own blood to be received by faith. Not only with us the New Testament saints but the Old Testaments as well. God was passing over their sins in divine forbearance because those saints believed in Christ Jesus. <a class="simple-footnote" title="see Romans 3:21-26" id="return-note-3320-3" href="#note-3320-3"></a></span>
 
 <span style="font-weight: 400;">Saints of old and saints of new were all perfectly saved by Christ alone.</span>
 
-<span style="font-weight: 400;">We know that those old saints were under the burden of the law with sacrifices and shedding of blood. But the shedding of the blood of ox and goats or even following the law perfect never intended to save God’s people <a class="simple-footnote" title="Hebrews 9:1-28 Cf. Romans 8:1-4" id="return-note-3320-4" href="#note-3320-4"><sup>4</sup></a>.</span>
+<span style="font-weight: 400;">We know that those old saints were under the burden of the law with sacrifices and shedding of blood. But the shedding of the blood of ox and goats or even following the law perfect never intended to save God’s people <a class="simple-footnote" title="Hebrews 9:1-28 Cf. Romans 8:1-4" id="return-note-3320-4" href="#note-3320-4"></a>.</span>
 
 <span style="font-weight: 400;">Jesus Christ was born, lived, died, rose again, and ascended to the right hand of the Father to rule and reign over everyone, everywhere, and everything.</span>
 
 <span style="font-weight: 400;">And Christ rules, reigns and saved his people because He went to the cross in humility and joy.</span>
 
-<span style="font-weight: 400;">Jesus Christ is the literal crux where God’s steadfast love and God’s faithfulness meet and He is where His righteousness and His perfect peace kiss each other. <a class="simple-footnote" title="Psalm 85.10" id="return-note-3320-5" href="#note-3320-5"><sup>5</sup></a></span>
+<span style="font-weight: 400;">Jesus Christ is the literal crux where God’s steadfast love and God’s faithfulness meet and He is where His righteousness and His perfect peace kiss each other. <a class="simple-footnote" title="Psalm 85.10" id="return-note-3320-5" href="#note-3320-5"></a></span>
 
 <span style="font-weight: 400;">Because of all that he has done and because of what he is doing now and will do, there will be one fine day that I will stand in the presence of my Savior, just as Joshua did before the Commander of the Most High or as the adulteress caught red-handed and thrown before this King of Kings. I saw my Savior’s beautiful face but can I approach him? I can say nothing. But I fall to the ground in worship and in true awe before the one who saved me.</span>
 

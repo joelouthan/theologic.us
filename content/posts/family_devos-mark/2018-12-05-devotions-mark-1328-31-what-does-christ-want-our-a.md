@@ -10,6 +10,7 @@ tags:
   - Mark
 series:
   - 'Family Devotions: Mark'
+css: "family-devos"
 draft: false
 ---
 **Mark 13:28–31 “From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near. So also, when you see these things taking place, you know that he is near, at the very gates. Truly, I say to you, this generation will not pass away until all these things take place. Heaven and earth will pass away, but my words will not pass away.**

@@ -35,7 +35,7 @@ What did God say would happen?
 
 Genesis 2:15-17 **The LORD God took the man and put him in the garden of Eden to work it and keep it. And the LORD God commanded the man, saying, “You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”** 
 
-Forthwith, the wages of sin is death. [<sup>1</sup>][1]{#return-note-3393-1.simple-footnote}
+Forthwith, the wages of sin is death. [][1]{#return-note-3393-1.simple-footnote}
 
 Did God kill them right away? No. But what cannot be denied, evident by the entire history of mankind, is that when sin came into this universe, all of the cosmos shattered and broke into a million pieces.
 
@@ -109,29 +109,29 @@ So based on Genesis 2 and Romans 6:23, what do you think is going to happen to t
 
 Let’s go to other places where it is not so obvious.
 
-God commands. Pharaoh disobeys. Pharaoh pretends to confess his sins but as soon as the current plague disappears, he sins and hardens his heart. [<sup>2</sup>][2]{#return-note-3393-2.simple-footnote}
+God commands. Pharaoh disobeys. Pharaoh pretends to confess his sins but as soon as the current plague disappears, he sins and hardens his heart. [][2]{#return-note-3393-2.simple-footnote}
 
-God warned Pharoah of his judgment and wrath [<sup>3</sup>][3]{#return-note-3393-3.simple-footnote}. God&#8217;s own people believed. [<sup>4</sup>][4]{#return-note-3393-4.simple-footnote}
+God warned Pharoah of his judgment and wrath [][3]{#return-note-3393-3.simple-footnote}. God&#8217;s own people believed. [][4]{#return-note-3393-4.simple-footnote}
 
 But Pharaoh did not believe. Genesis 12:29-32 **At midnight the LORD struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock. And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was a great cry in Egypt, for there was not a house where someone was not dead. Then he summoned Moses and Aaron by night and said, “Up, go out from among my people, both you and the people of Israel; and go, serve the LORD, as you have said. Take your flocks and your herds, as you have said, and be gone, and bless me also!”**
 
-Judgment of the family within camp [<sup>5</sup>][5]{#return-note-3393-5.simple-footnote}
+Judgment of the family within camp [][5]{#return-note-3393-5.simple-footnote}
 
-Judgment of idol worshippers [<sup>6</sup>][6]{#return-note-3393-6.simple-footnote}
+Judgment of idol worshippers [][6]{#return-note-3393-6.simple-footnote}
 
-The judgment of nations that surrounded Israel [<sup>7</sup>][7]{#return-note-3393-7.simple-footnote}
+The judgment of nations that surrounded Israel [][7]{#return-note-3393-7.simple-footnote}
 
-Judgment of entire nations [<sup>8</sup>][8]{#return-note-3393-8.simple-footnote}
+Judgment of entire nations [][8]{#return-note-3393-8.simple-footnote}
 
 I am not going to sugar coat this at all. Sometimes, the women and the children were judged. Upon hearing that, our minds instantly click and thinks, “Those are women and children, they are innocent. They have done nothing wrong. They have been not been tried and judged.”
 
 Perhaps they were innocent in the laws of their land. But did they sin against God? Strike that—did we not all sin against God?
 
-**for all have sinned and fall short of the glory of God** [<sup>9</sup>][9]{#return-note-3393-9.simple-footnote}
+**for all have sinned and fall short of the glory of God** [][9]{#return-note-3393-9.simple-footnote}
 
-**Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned** [<sup>10</sup>][10]{#return-note-3393-10.simple-footnote}
+**Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned** [][10]{#return-note-3393-10.simple-footnote}
 
-**For whoever keeps the whole law but fails in one point has become accountable for all of it.** [<sup>11</sup>][11]{#return-note-3393-11.simple-footnote}
+**For whoever keeps the whole law but fails in one point has become accountable for all of it.** [][11]{#return-note-3393-11.simple-footnote}
 
 If this is your first time hearing this or this is your millionth time hearing this, it is not easy to hear. This is not soft chew candy. This is tough, gristly meat cooked burnt to a well-done crisp that you have to chew on for days and even then, it&#8217;s painful to swallow.
 
@@ -153,11 +153,11 @@ Here is the greatest news that the world has ever known or will ever know:
 
 For those who would believe in the Son of God then all the wrath, hatred and judgment that was rightfully meant for those same sinners fall then upon the Son of God, Jesus Christ our Lord. His perfect obedient life, called out to us by the Father, empowered by the Holy Spirit, as he gives his life over, nails himself to the cross and takes on the full wrath of the Father and the forsaking of the Spirit so for that those who believe in Him would never experience that.
 
-God loves you so much. Before the creation of the world, he loved you. He looks upon all eternity and declares, “I must have you in my family. You are my son. You are my precious daughter. Yet you are running from me and you are so far from me. I cannot count on you to come back to me. You have no power to do so. Yet, I have all the power. I will send my Son and he will close that gap with his own life.” God the Father loved you so much that it pleased Him to send His Son to the cross [<sup>12</sup>][12]{#return-note-3393-12.simple-footnote}. Father’s joy. Likewise, Christ loved you so much that for His glory, he saved you to Himself [<sup>13</sup>][13]{#return-note-3393-13.simple-footnote} and he did it with all humility and joy [<sup>14</sup>][14]{#return-note-3393-14.simple-footnote}. How do we know this? The evidence of the Spirit of God within us who produces His fruit [<sup>15</sup>][15]{#return-note-3393-15.simple-footnote}, leads us, guides us, bears witness with our spirit that we are His children [<sup>16</sup>][16]{#return-note-3393-16.simple-footnote}, comforts us, reminds of us everything that God has taught [<sup>17</sup>][17]{#return-note-3393-17.simple-footnote}, convicts us of sin when we do not believe but reminds us of our righteousness because of everything that God has done in us [<sup>18</sup>][18]{#return-note-3393-18.simple-footnote}.
+God loves you so much. Before the creation of the world, he loved you. He looks upon all eternity and declares, “I must have you in my family. You are my son. You are my precious daughter. Yet you are running from me and you are so far from me. I cannot count on you to come back to me. You have no power to do so. Yet, I have all the power. I will send my Son and he will close that gap with his own life.” God the Father loved you so much that it pleased Him to send His Son to the cross [][12]{#return-note-3393-12.simple-footnote}. Father’s joy. Likewise, Christ loved you so much that for His glory, he saved you to Himself [][13]{#return-note-3393-13.simple-footnote} and he did it with all humility and joy [][14]{#return-note-3393-14.simple-footnote}. How do we know this? The evidence of the Spirit of God within us who produces His fruit [][15]{#return-note-3393-15.simple-footnote}, leads us, guides us, bears witness with our spirit that we are His children [][16]{#return-note-3393-16.simple-footnote}, comforts us, reminds of us everything that God has taught [][17]{#return-note-3393-17.simple-footnote}, convicts us of sin when we do not believe but reminds us of our righteousness because of everything that God has done in us [][18]{#return-note-3393-18.simple-footnote}.
 
 From the Lord’s furious righteous anger against sin is meant to make all things right. All things right is joy, love, and happiness forever and ever.
 
-Jesus Christ being our sacrificial lamb (propitiation) and scapegoat (expiation) is that singular righteous requirement of the law might be fulfilled. [<sup>19</sup>][19]{#return-note-3393-19.simple-footnote} In a nutshell, the law required in order for you and me to be in the presence of God, you will have to sacrifice a spotless lamb and take all the sins of the people, place them on a goat and release the goat into the wilderness never to return back again. Those rituals in the Old Testament was a foreshadow to whom Jesus Christ is and what he does. But those were just that: foreshadows. Never the real thing. The real thing is that man must shed his blood to atone for his sins. Herein lies the problem: Man is not perfect. Man cannot atone for his sin. [<sup>20</sup>][20]{#return-note-3393-20.simple-footnote}
+Jesus Christ being our sacrificial lamb (propitiation) and scapegoat (expiation) is that singular righteous requirement of the law might be fulfilled. [][19]{#return-note-3393-19.simple-footnote} In a nutshell, the law required in order for you and me to be in the presence of God, you will have to sacrifice a spotless lamb and take all the sins of the people, place them on a goat and release the goat into the wilderness never to return back again. Those rituals in the Old Testament was a foreshadow to whom Jesus Christ is and what he does. But those were just that: foreshadows. Never the real thing. The real thing is that man must shed his blood to atone for his sins. Herein lies the problem: Man is not perfect. Man cannot atone for his sin. [][20]{#return-note-3393-20.simple-footnote}
 
 There is only One who is not only willing to save and able to save but he is the only one who has the power to save.
 
@@ -193,9 +193,9 @@ But with God’s will, by the power of the Holy Spirit, Jesus Christ knew us so 
 
 This work was done once. Only once. We don’t need to crucify Christ again.
 
-**For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit** [<sup>21</sup>][21]{#return-note-3393-21.simple-footnote}
+**For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit** [][21]{#return-note-3393-21.simple-footnote}
 
-For those who are in Christ, God is not out to get you. God is not out to pour his wrath on you. Will God discipline you if you try to go astray? That is to be sure. That is because He is your Father in heaven who loves you and would only do what any good Father would do but do so without shame, condemnation, abuse, torment, affliction. He would do so in perfect love, gentleness, kindness, never leaving you nor forsaking you forever. [<sup>22</sup>][22]{#return-note-3393-22.simple-footnote}
+For those who are in Christ, God is not out to get you. God is not out to pour his wrath on you. Will God discipline you if you try to go astray? That is to be sure. That is because He is your Father in heaven who loves you and would only do what any good Father would do but do so without shame, condemnation, abuse, torment, affliction. He would do so in perfect love, gentleness, kindness, never leaving you nor forsaking you forever. [][22]{#return-note-3393-22.simple-footnote}
 
 But Christ, with his life and his love, protects and saves His people so that God can make all things right-standing with Himself.
 
