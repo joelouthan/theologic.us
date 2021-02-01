@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 _<img class="alignright" src="https://i1.wp.com/2.bp.blogspot.com/-CIjokVY1aN0/UFCyhA9GYnI/AAAAAAAADJc/KOenAtr8Rxc/s1600/kid%2Blooking%2Bout%2Bwindow.jpg?resize=296%2C201" alt="" width="296" height="201" data-recalc-dims="1" />What is there to look forward to?_

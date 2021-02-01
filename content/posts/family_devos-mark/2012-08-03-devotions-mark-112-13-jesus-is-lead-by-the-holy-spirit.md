@@ -7,6 +7,8 @@ url: /family_devotions/mark-112-13-jesus-is-lead-by-the-holy-spirit/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 
 ---

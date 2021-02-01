@@ -1,15 +1,16 @@
 ---
 title: 'The Study Podcast'
 author: Joseph Louthan
-type: post
-publishDate: 2021-01-06
+date: 2021-01-06
 url: /study-romans/2021-01-06-study-podcast/
 categories:
   - Bible Study
   - Podcast
 tags:
-  - 'Bible Study: Romans'
+  - Romans
   - Podcast
+series:
+  - 'Bible Study: Romans'
 draft: false
 ---
 Let's get the personal stuff out of the way.

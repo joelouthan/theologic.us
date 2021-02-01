@@ -1,0 +1,138 @@
+baseURL: "https://theologic.us"
+title: Theologicus
+paginate: 100
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-V3GC3P3REE
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Theologicus
+    description: "Trying to waste my time with God."
+    author: Joseph Louthan
+    # images: ["/content/images/"]
+
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    disableSpecial1stPost: false
+    comments: false
+    hidemeta: false
+    showtoc: true
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "favicon.ico"
+        favicon16x16: "favicon-16x16.png"
+        favicon32x32: "favicon-32x32.png"
+        apple_touch_icon: "apple-touch-icon.png"
+        safari_pinned_tab: "safari-pinned-tab.svg"
+
+    label:
+        text: "Home"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Theologicus
+        imageUrl: "images/joe-eli-snake-400x-circular.png"
+        imageWidth: 300
+        imageHeight: 300
+        imageTitle: "Papa, Bubs & SNAKE!"
+        buttons:
+            - name: Recent Posts
+              url: posts
+            - name: Updates
+              url: updates
+            - name: Series
+              url: series
+            - name: "Bible Study: Romans"
+              url: /series/bible-study-romans/
+            - name: "Now Sings My Soul: Psalmic Prayers"
+              url: /series/now-sings-my-soul-psalms/
+            - name: "Family Devotions: Luke"
+              url: /series/family-devotions-luke/
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Theologicus"
+        Content: "Trying to waste my time with God."
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/josephlouthan"
+        - name: github
+          url: "https://github.com/joelouthan"
+        - name: discord
+          url: "https://discord.gg/DntJ4rh5eN"
+        - name: instagram
+          url: "https://instagram.com/josephlouthan"
+        - name: twitch
+          url: "https://www.twitch.tv/nachozsupremo"
+        - name: facebook
+          url: "https://www.facebook.com/joseph.louthan"
+        
+
+    analytics:
+        google:
+            SiteVerificationTag: "G-V3GC3P3REE"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: Series
+          name: series
+          url: /series/
+          weight: 10
+        - identifier: Categories
+          name: categories
+          url: /categories/
+          weight: 20
+        - identifier: 
+          name: tags
+          url: /tags/
+          weight: 30
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

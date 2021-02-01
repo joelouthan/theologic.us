@@ -8,8 +8,11 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/f91fde
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 <p class="p1">
   Romans 8:14-17 <b>For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.</b>

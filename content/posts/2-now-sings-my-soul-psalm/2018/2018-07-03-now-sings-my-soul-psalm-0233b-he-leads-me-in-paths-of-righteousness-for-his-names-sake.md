@@ -4,12 +4,12 @@ author: Joseph Louthan
 type: post
 date: 2018-07-03T12:00:41+00:00
 url: /prayer/now-sings-my-soul-psalm-0233b-he-leads-me-in-paths-of-righteousness-for-his-names-sake/
-featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/Pink-Tulips-2009.jpg?resize=825%2C510
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 > <p class="p1">
 >   My Precious God,

@@ -7,6 +7,8 @@ url: /letters-to-timothy/2020-07-08-letters-to-timothy/
 categories:
   - Ministry
 tags:
+  - 1 Timothy
+series:
   - 'Philosophy of Ministry'
 draft: false
 ---

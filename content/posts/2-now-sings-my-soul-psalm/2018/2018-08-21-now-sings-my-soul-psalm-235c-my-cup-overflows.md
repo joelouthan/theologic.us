@@ -7,6 +7,8 @@ url: /prayer/now-sings-my-soul-psalm-235c-my-cup-overflows/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 ---
   My Lord,

@@ -7,6 +7,8 @@ url: /prayer/now-sings-my-soul-psalm-231b-i-shall-not-want/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 ---
 </pre>My Lord Above,

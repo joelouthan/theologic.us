@@ -8,8 +8,9 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/lily-o
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 <div style="font-variant: small-caps;">
   My Great God,

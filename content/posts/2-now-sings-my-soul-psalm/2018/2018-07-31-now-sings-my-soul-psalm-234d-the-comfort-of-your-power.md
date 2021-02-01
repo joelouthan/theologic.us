@@ -4,12 +4,12 @@ author: Joseph Louthan
 type: post
 date: 2018-07-31T12:00:33+00:00
 url: /prayer/now-sings-my-soul-psalm-234d-the-comfort-of-your-power/
-featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/thumb-1920-308968.jpg?resize=825%2C510
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 <div style="font-variant: small-caps;">
   My God,

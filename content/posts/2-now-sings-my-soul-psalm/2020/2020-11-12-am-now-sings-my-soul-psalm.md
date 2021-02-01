@@ -7,10 +7,11 @@ url: /now-sings-my-soul-psalm/2020-11-12-am-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-
 <pre>
 <div style="font-variant: small-caps;">
 The Sovereign Power over my life

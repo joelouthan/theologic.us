@@ -4,12 +4,12 @@ author: Joseph Louthan
 type: post
 date: 2018-06-26T12:00:47+00:00
 url: /prayer/now-sings-my-soul-psalm-23_3a-he-restores-my-soul/
-featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/Tulip-Spring-Green-2_x2000_crop_center.jpg?resize=825%2C510
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
 > <p class="p1">
 >   My Lord,

@@ -7,6 +7,8 @@ url: /family_devotions/2018-11-07-mark-1241-44-what-does-christ-want-our-e.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

@@ -8,6 +8,8 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/Arnold
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 
 ---

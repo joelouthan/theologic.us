@@ -8,8 +8,11 @@ featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/08/4_eart
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 Psalm 73:21–26
   

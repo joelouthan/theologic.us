@@ -6,8 +6,10 @@ url: /ordo-salutis/ordo-salutis-vii-christs-sufficient-work-we-are-clean/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/unnamed.jpg?resize=512%2C340
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 This is the magnificence of the True God.
 

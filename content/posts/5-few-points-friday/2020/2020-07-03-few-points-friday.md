@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## Breaking news: unrepentant  sinners do not get to be in the presence of God

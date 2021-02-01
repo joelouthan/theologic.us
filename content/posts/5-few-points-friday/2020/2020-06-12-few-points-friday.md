@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## I could do a whole lot worse than setting up a collecting of Dustin Benge tweets

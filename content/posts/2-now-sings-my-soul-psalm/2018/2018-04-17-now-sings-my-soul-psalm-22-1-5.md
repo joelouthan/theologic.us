@@ -7,6 +7,8 @@ url: /prayer/now-sings-my-soul-psalm-22-1-5/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 
 ---
@@ -30,7 +32,7 @@ Your people before me trusted you and I trust you now. You have never failed me.
 
 You have rescued my grandmother and my dad.
 
-Now rescue me! 
+Now rescue me!
 
 Save me, O God.
 

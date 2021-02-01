@@ -8,8 +8,10 @@ categories:
   - Bible Study
   - Podcast
 tags:
-  - 'Bible Study: Romans'
+  - Romans
   - Podcast
+series:
+  - 'Bible Study: Romans'
 draft: false
 ---
 ## The Text
@@ -43,10 +45,10 @@ Fun math fact: infinity minus one equals infinity. It is not that our 1, 2, 1000
 
 That infinite distance of God from man is what we call the holiness of God.
 
-> Isaiah 6:1–4 (CSB) In the year that King Uzziah died, I saw the Lord seated on a high and lofty throne, and the hem of his robe filled the temple. Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another: 
+> Isaiah 6:1–4 (CSB) In the year that King Uzziah died, I saw the Lord seated on a high and lofty throne, and the hem of his robe filled the temple. Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another:
 >
->      Holy, holy, holy is the LORD of Armies; 
->      his glory fills the whole earth. 
+> Holy, holy, holy is the LORD of Armies;  
+> his glory fills the whole earth.  
 >
 >The foundations of the doorways shook at the sound of their voices, and the temple was filled with smoke.
 
@@ -70,13 +72,12 @@ Or as Paul is going to say later in the Romans 7: "Wretched man that I am! Who w
 
 Or as Isaiah responded further in Isaiah 6:
 
-> Isaiah 6:5 (CSB Then I said:
->
->      Woe is me for I am ruined 
->      because I am a man of unclean lips 
->      and live among a people of unclean lips, 
->      and because my eyes have seen the King, 
->      the LORD of Armies.
+> Isaiah 6:5 (CSB) Then I said:  
+> Woe is me for I am ruined  
+> because I am a man of unclean lips  
+> and live among a people of unclean lips,  
+> and because my eyes have seen the King,  
+> the LORD of Armies.  
 
 Look at how Jesus Christ himself:
 
@@ -84,13 +85,13 @@ Look at how Jesus Christ himself:
 
 responds to the prophet Isaiah:
 
-> Isaiah 6:6–7 (CSB) Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken from the altar with tongs. He touched my mouth with it and said: 
+> Isaiah 6:6–7 (CSB) Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken from the altar with tongs. He touched my mouth with it and said:
 >
->      Now that this has touched your lips, 
->      your iniquity is removed 
->      and your sin is atoned for.
+> Now that this has touched your lips,  
+> your iniquity is removed  
+> and your sin is atoned for.  
 
-Isaiah confesses his sin. How does our lovely, gentle, and lowly God with an immeasurable heart from sinners responds?  With the removal of sin. 
+Isaiah confesses his sin. How does our lovely, gentle, and lowly God with an immeasurable heart from sinners responds?  With the removal of sin.
 
 > Ephesians 2:1–10 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
 

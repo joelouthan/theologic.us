@@ -8,18 +8,20 @@ categories:
   - Bible Study
   - Podcast
 tags:
-  - 'Bible Study: Romans'
+  - Romans
   - Podcast
+series:
+  - 'Bible Study: Romans'
 draft: false
 ---
 ## The Text
 
 > Romans 4:6–12 (CSB) Just as David also speaks of the blessing of the person to whom God credits righteousness apart from works:
 >
->      Blessed are those whose lawless acts are forgiven
->      and whose sins are covered.
->      Blessed is the person
->      the Lord will never charge with sin.
+> Blessed are those whose lawless acts are forgiven  
+> and whose sins are covered.  
+> Blessed is the person  
+> the Lord will never charge with sin.  
 >
 > Is this blessing only for the circumcised, then? Or is it also for the uncircumcised? For we say, Faith was credited to Abraham for righteousness. In what way, then, was it credited—while he was circumcised, or uncircumcised? It was not while he was circumcised, but uncircumcised. And he received the sign of circumcision as a seal of the righteousness that he had by faith while still uncircumcised. This was to make him the father of all who believe but are not circumcised, so that righteousness may be credited to them also. And he became the father of the circumcised, who are not only circumcised but who also follow in the footsteps of the faith our father Abraham had while he was still uncircumcised.
 
@@ -35,13 +37,13 @@ God has consistently never been satisfied with the bare minimum. Just something 
 
 > Genesis 17:11 (CSB) You must circumcise the flesh of your foreskin to serve as a sign of the covenant between me and you.
 
-> Jeremiah 4:4 (CSB)
->      Circumcise yourselves to the LORD;
->      remove the foreskin of your hearts,
->      men of Judah and residents of Jerusalem.
->      Otherwise, my wrath will break out like fire
->      and burn with no one to extinguish it
->      because of your evil deeds.
+> Jeremiah 4:4 (CSB)  
+> Circumcise yourselves to the LORD;  
+> remove the foreskin of your hearts,  
+> men of Judah and residents of Jerusalem.  
+> Otherwise, my wrath will break out like fire  
+> and burn with no one to extinguish it  
+> because of your evil deeds.  
 
 ## The Gospel
 

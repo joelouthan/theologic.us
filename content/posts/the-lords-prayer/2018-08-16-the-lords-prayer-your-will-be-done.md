@@ -8,8 +8,11 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/08/Fashio
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 <p class="p1">
   Ephesians 1:11-14 <strong>In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.</strong>

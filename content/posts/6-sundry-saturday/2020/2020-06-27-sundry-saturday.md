@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'Sundry Saturday'
-draft: false
+draft: true
 ---
 ## I Write Some
 And now I am curious abut the amount of of the words I write per week *concerning* my blog only.

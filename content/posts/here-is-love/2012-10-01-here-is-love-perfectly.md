@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 [<img class="alignright size-thumbnail wp-image-775 hoverZoomLink" title="cross-backlit" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?zoom=2&resize=150%2C150 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg?zoom=3&resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]{.hoverZoomLink}And here is love:  **Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”**

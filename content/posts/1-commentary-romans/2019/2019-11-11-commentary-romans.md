@@ -7,6 +7,8 @@ url: /commentary-romans/2019-11-11-commentary-romans1-1-who-are-you-lord/
 categories:
   - Commentary
 tags:
+  - Romans
+series:
   - 'Commentary: Romans'
 draft: false
 ---

@@ -7,6 +7,8 @@ url: /family_devotions/2019-04-10-mark-1614-20-all-that-god-has-done-for-u.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

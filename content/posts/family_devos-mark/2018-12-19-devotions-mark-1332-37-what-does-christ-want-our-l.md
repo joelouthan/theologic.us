@@ -7,6 +7,8 @@ url: /family_devotions/2018-12-19-mark-1332-37-what-does-christ-want-our-l.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

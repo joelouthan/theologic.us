@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 <a href="http://theologic.us/theology/here-is-love-despite-us-for-us/attachment/broken-world/" rel="attachment wp-att-1604"><img class="alignright size-medium wp-image-1604" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/Broken-world.jpg?resize=300%2C238" alt="Broken world" width="300" height="238" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/Broken-world.jpg?resize=300%2C238 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/Broken-world.jpg?w=700 700w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Romans 8:5-6 **For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit. For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace.**

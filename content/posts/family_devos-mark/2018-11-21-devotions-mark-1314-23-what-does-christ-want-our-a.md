@@ -7,6 +7,8 @@ url: /family_devotions/2018-11-21-mark-1314-23-what-does-christ-want-our-a.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

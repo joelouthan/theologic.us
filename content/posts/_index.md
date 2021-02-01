@@ -1,8 +1,8 @@
 ---
-title: 'Most Recently'
-date: 2019-10-30
+title: Updates
 author: Joseph Louthan
+type: post
+date: 2021-01-30T22:41:05.006Z
+url: "/posts/"
+draft: false
 ---
-### Completed manuscripts are listed in the Menu
-
-### Recent posts listed below:

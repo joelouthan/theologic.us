@@ -8,8 +8,11 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/00000i
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 <p class="p1">
   Revelation 4:8 <b>And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say,</b>

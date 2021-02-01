@@ -9,7 +9,9 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/Screen
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 My life is not my own. My heart, my soul, my flesh, my mind, and my strength: all of it does not belong to me.

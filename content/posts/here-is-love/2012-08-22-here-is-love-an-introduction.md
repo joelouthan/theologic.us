@@ -9,8 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
-
+  - Romans 8
+series:
+  - 'Here is Love'
 ---
 _What is love?_
 

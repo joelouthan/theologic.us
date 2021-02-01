@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 [<img class="alignright size-thumbnail wp-image-813" title="greatexchange" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]And here is love: **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**

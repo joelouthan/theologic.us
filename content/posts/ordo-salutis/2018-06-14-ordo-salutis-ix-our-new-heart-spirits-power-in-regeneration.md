@@ -6,8 +6,10 @@ url: /ordo-salutis/ordo-salutis-ix-our-new-heart-spirits-power-in-regeneration/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/moses-charlton-hes_3135760b.jpg?resize=620%2C387
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 <p class="p1">
   When God saved us from eternity past, His saving work was not finished when Christ lived, died, buried, and rose again, as though there is nothing for him for his people.

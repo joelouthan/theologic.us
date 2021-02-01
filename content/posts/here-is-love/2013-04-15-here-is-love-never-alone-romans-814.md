@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 **<img class="alignright size-thumbnail wp-image-1958" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?resize=200%2C200" alt="kid1" width="200" height="200" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?resize=200%2C200 200w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?resize=400%2C400 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?w=500 500w" sizes="(max-width: 200px) 100vw, 200px" data-recalc-dims="1" />Romans 8:14 For all who are led by the Spirit of God are sons of God.**

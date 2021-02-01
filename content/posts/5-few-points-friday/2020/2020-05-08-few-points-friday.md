@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 **BRAG POST:** If my calculations are correct, [yesterday](https://theologic.us/family-devos-luke/2020-05-07-family-devos-luke/) was my 300th blog post. Started in 2012 with a self-hosted Wordpress to Netlify-hosted Hugo, going through several deep depressions, a handful of jobs, two babies, one miscarriage, one suicide attempt, and one failed marriage, this will forever be the prayer of my heart in my writing:

@@ -6,8 +6,10 @@ url: /ordo-salutis/ordo-salutis-ii-the-weight-of-sin/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/04/article-2185142-146E8926000005DC-938_634x588.jpg?resize=634%2C510
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 Before we can even try to understand what God has done in Salvation, we must first truly understand our condition as human beings born on this earth. I feel compelled to at least touch on this doctrine for I believe that many Christians sometimes either forget their natural state before God saved them or they simply don&#8217;t remember being that &#8216;bad&#8217; of a person before being saved. It is not that we have to dwell on our depravity, our flesh, our sin nature but to ignore or forget about it would absolutely rob our heart of joy and worship before the Lord.
 

@@ -8,8 +8,11 @@ featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/115004
 categories:
   - Prayers
 tags:
+  - Prayers
+  - Matthew
+  - Luke
+series:
   - "The Lord's Prayer"
-
 ---
 <p class="p1">
   Ezekiel 11:19-20 <b>And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.</b>

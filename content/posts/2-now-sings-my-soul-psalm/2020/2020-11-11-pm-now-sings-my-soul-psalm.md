@@ -7,10 +7,11 @@ url: /now-sings-my-soul-psalm/2020-11-11-pm-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-
 <pre>
 <div style="font-variant: small-caps;">
 My Life and Heart

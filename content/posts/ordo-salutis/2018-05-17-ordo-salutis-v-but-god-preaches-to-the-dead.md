@@ -6,8 +6,10 @@ url: /ordo-salutis/ordo-salutis-v-but-god-preaches-to-the-dead/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/1024px-Jean-Baptiste_Jouvenet_-_The_Raising_of_Lazarus_-_WGA12033.jpg?resize=825%2C510
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 <p class="p1">
   <span class="s1"><a href="http://bible.logos.com/passage/esv/John%206.44-47"><b>John 6:44-47</b></a></span><span class="s2"><b> No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day. It is written in the Prophets, ‘And they will all be taught by God.’ Everyone who has heard and learned from the Father comes to me—not that anyone has seen the Father except he is from God; he has seen the Father. Truly, truly, I say to you, whoever believes has eternal life.</b></span>

@@ -7,6 +7,8 @@ url: /prayer/now-sings-my-soul-psalm-21/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 
 ---
@@ -16,12 +18,12 @@ My focus is far from you, the one who sets up Kings and puts them down.
 I have been distracted by the choosing of kings rather to place my focus on the King of kings.  
 
 It is in you, O Lord, where my strength resides
-  
+
 my salvation is present
-  
-my heart&#8217;s desire
-  
-my soul&#8217;s fulfillment.
+
+my heart's desire
+
+my soul's fulfillment.
 
 Be my provision. Be my grace. Be my mercy.  
 Be my life. Be my zeal. Be my might.  

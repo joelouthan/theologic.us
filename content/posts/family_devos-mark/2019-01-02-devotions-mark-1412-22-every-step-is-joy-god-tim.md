@@ -7,6 +7,8 @@ url: /family_devotions/2019-01-02-mark-1412-22-every-step-is-joy-god-tim.md/
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 draft: false
 ---

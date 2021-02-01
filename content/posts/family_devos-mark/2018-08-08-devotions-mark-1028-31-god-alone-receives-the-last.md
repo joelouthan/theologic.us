@@ -8,6 +8,8 @@ featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/bars.j
 categories:
   - Devotions
 tags:
+  - Mark
+series:
   - 'Family Devotions: Mark'
 
 ---

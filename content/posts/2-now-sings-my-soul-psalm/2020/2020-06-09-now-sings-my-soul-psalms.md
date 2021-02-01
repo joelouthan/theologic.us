@@ -7,10 +7,11 @@ url: /now-sings-my-soul-psalms/2020-06-09-now-sings-my-soul-psalms/
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-
 <pre>
 <div style="font-variant: small-caps;">My Only Redeemer</div>
 Who is like you, God?

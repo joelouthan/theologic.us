@@ -8,7 +8,9 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/04/a9b.jp
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 <span style="font-weight: 400;">Romans 8:28 </span>**And we know that for those who love God all things work together for good, for those who are called according to his purpose.**

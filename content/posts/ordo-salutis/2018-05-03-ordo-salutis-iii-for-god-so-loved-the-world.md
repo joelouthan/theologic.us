@@ -6,8 +6,10 @@ url: /ordo-salutis/ordo-salutis-iii-for-god-so-loved-the-world/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/04/moses.jpg?resize=825%2C510
 categories:
   - Theology
-tags:
-  - Ordo Salutis
+tags:   - Theology
+  - Soteriology
+series:
+  - 'Ordo Salutis'
 ---
 Now that we have established who we are in the sight of God, let us tackle the bigger, nay impossible question:
 

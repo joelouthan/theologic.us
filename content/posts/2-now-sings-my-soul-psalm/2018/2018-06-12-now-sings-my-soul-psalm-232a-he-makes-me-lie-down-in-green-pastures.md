@@ -4,12 +4,12 @@ author: Joseph Louthan
 type: post
 date: 2018-06-12T12:00:25+00:00
 url: /prayer/now-sings-my-soul-psalm-232a-he-makes-me-lie-down-in-green-pastures/
-featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/new-2017_Bale_Tote_Implement_Photo-update_1_.jpg?resize=825%2C510
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
-
 ---
   My Lord,
 

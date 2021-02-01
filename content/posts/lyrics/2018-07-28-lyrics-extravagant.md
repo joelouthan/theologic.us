@@ -6,8 +6,12 @@ date: 2018-07-28T12:00:17+00:00
 url: /scriptual-prooftext-lyrics/extravagant/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/maxresdefault.jpg?resize=825%2C510
 categories:
-  - Scriptual Prooftext Lyrics
-
+  - lyrics
+tags:
+  - lyrics
+series:
+  - 'Scriptual Prooftext Lyrics'
+draft: true
 ---
 <table id="tablepress-20180728" class="tablepress tablepress-id-20180728">
   <tr class="row-1">

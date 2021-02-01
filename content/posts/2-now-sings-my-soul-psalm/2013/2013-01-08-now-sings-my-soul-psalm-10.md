@@ -9,6 +9,8 @@ dsq_thread_id:
 categories:
   - Prayers
 tags:
+  - Psalms
+series:
   - 'Now Sings My Soul: Psalms'
 ---
 <div style="font-variant: small-caps;">

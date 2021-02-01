@@ -8,7 +8,9 @@ featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/brazen
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 <span style="font-weight: 400;">Romans 8:29</span> **For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.** 

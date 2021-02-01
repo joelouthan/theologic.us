@@ -9,7 +9,9 @@ dsq_thread_id:
 categories:
   - Theology
 tags:
-  - Here is Love
+  - Romans 8
+series:
+  - 'Here is Love'
 
 ---
 <figure id="attachment_1767" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1767" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?resize=300%2C300" alt="&quot;Winter Loneliness&quot; - Dominique Jost" width="300" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?resize=300%2C300 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?w=640 640w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">&#8220;Winter Loneliness&#8221; &#8211; Dominique Jost</figcaption></figure>

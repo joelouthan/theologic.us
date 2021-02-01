@@ -8,7 +8,7 @@ categories:
   - Links
 tags:
   - 'Sundry Saturday'
-draft: false
+draft: true
 ---
 
 **When people act out of their personality** - I like to call this, "Do they have their Type's playbook in their back pocket?"
