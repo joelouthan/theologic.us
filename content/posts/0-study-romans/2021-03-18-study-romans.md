@@ -46,6 +46,14 @@ But here is the good news: God did not do the sin. God does not do evil. Yet, Go
 
 ## Our Responsibility
 
+Go and sin no more.
+
+Kill off sin.
+
 Repent. Kingdom of God is here.
+
+That is all well and good. But if you actually been plagued by ongoing, the worst thing you can do is give up hope. No. The Bible tells us to trust in Jesus Christ. That is our hope. When we hope in him, that marks us as Christians. Not our works. Not what we say. But where we put our hope in when everything is good and everything has gone to crap.
+
+Trust in the Lord.
 
 Amen.
