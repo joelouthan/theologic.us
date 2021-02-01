@@ -63,6 +63,10 @@ params:
               url: series
             - name: "Bible Study: Romans"
               url: /series/bible-study-romans/
+            - name: "Now Sings My Soul: Psalmic Prayers"
+              url: /series/now-sings-my-soul-psalms/
+            - name: "Family Devotions: Luke"
+              url: /series/family-devotions-luke/
 
     # home-info mode
     homeInfoParams:

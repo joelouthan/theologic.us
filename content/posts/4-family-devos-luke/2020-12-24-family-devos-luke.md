@@ -1,5 +1,5 @@
 ---
-title: 'Luke 8 But Christ Calls (Series)'
+title: 'Luke 8 But Christ Calls'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-24
