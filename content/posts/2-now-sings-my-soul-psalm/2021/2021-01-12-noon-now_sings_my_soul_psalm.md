@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 37:3'
 author: Joseph Louthan
-type: post
 publishDate: 2021-01-12T12:00:00-06:00
 url: /now_sings_my_soul_psalm/2021-01-12-noon-now_sings_my_soul_psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <div style="font-variant: small-caps;">

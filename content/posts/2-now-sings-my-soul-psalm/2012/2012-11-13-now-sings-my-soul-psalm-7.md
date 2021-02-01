@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 7'
 author: Joseph Louthan
-type: post
 date: 2012-11-13
 url: /prayers/now-sings-my-soul-psalm-7/
 categories:

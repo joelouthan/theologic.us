@@ -1,7 +1,6 @@
 ---
 title: Mark 5:35-43 Jesus Has the Power Over Death
 author: Joe Louthan
-type: post
 date: 2013-03-06
 url: /family_devotions/mark-535-43-jesus-has-the-power-over-death/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 1'
 author: Joseph Louthan
-type: post
 date: 2012-10-02T14:00:12+00:00
 url: /prayers/now-sings-my-soul-psalm-1/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: Mark 4:23-25 Jesus Gives More, Do We Receive?
 author: Joe Louthan
-type: post
 date: 2012-11-07
 url: /family_devotions/mark-423-25-jesus-gives-more-do-we-receive/
 dsq_thread_id:

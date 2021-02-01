@@ -1,7 +1,6 @@
 ---
 title: Mark 7:7-13 The Word of God is First
 author: Joe Louthan
-type: post
 date: 2015-09-09T12:00:54+00:00
 url: /family_devotions/mark-77-13-the-word-of-god-is-first/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/09/rebel-without-a-cause-original.jpg?resize=825%2C510

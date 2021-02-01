@@ -1,7 +1,6 @@
 ---
 title: 'Mark 14:22-25 Every Step is Joy: Christ Is Broken For Us'
 author: Joseph Louthan
-type: post
 date: 2019-01-09
 url: /family_devotions/2019-01-09-mark-1417-22-every-step-is-joy-god-will.md/
 categories:

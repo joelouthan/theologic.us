@@ -1,7 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Our Father in Heaven'
 author: Joseph Louthan
-type: post
 date: 2018-07-26T12:00:51+00:00
 url: /prayer/the-lords-prayer-our-father-in-heaven/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/f91fde4c4c5136761be8349db8c34cf4.png?resize=445%2C347

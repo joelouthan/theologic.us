@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: We Like Hockey!'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-06
 url: /sundry_saturday/2020-06-06-sundry_saturday/
 categories:

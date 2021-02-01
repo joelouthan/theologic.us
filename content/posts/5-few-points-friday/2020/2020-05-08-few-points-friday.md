@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: Hitting 300 & Blocking Porn at the DNS Level Edition'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-08
 url: /few_points_friday/2020-05-08-few_points_friday/
 categories:

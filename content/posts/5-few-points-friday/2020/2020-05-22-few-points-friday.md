@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: Whose Righteousness Are We Talking About Edition'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-22
 url: /few_points_friday/2020-05-22-few_points_friday/
 categories:

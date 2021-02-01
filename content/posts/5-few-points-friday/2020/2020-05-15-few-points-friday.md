@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: The Philosophy of Praying Edition'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-15
 url: /few_points_friday/2020-05-15-few_points_friday/
 categories:

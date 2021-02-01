@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 22:12-18'
 author: Joseph Louthan
-type: post
 date: 2018-05-01T12:00:30+00:00
 url: /prayer/now-sings-my-soul-psalm-2212-18/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/04/IMG_0994.jpg?resize=825%2C510

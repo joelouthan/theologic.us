@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 8'
 author: Joseph Louthan
-type: post
 date: 2012-12-04
 url: /prayers/now-sings-my-soul-psalm-8/
 categories:

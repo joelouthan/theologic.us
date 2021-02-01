@@ -1,7 +1,6 @@
 ---
 title: '✅Luke 3:1–20 Who Heralds The Kingdom of God?'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-21
 url: /family-devos-luke/2020-05-21-family-devos-luke/
 categories:

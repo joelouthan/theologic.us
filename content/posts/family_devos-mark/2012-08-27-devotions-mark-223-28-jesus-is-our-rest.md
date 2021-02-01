@@ -1,7 +1,6 @@
 ---
 title: Mark 2:23-28 Jesus is Our Rest
 author: Joe Louthan
-type: post
 date: 2012-08-27
 url: /family_devotions/13-mark-223-28-jesus-is-our-rest/
 dsq_thread_id:

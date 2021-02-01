@@ -1,7 +1,6 @@
 ---
 title: 'Luke 4:38-44 The Lord Does'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-25
 url: /family-devos-luke/2020-06-25-family-devos-luke/
 categories:

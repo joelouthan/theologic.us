@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: All is Grace Edition'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-05
 url: /few_points_friday/2020-06-05-few_points_friday/
 categories:

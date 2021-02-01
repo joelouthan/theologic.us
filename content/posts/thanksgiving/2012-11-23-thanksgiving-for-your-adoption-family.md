@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving for Your Adoption—Family
 author: Joseph Louthan
-type: post
 date: 2012-11-23
 url: /scriptures/thanksgiving-for-your-adoption-family/
 categories:

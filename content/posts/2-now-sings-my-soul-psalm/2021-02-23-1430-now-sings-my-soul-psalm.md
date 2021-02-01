@@ -1,7 +1,6 @@
 ---
 title: "Now Sings My Soul: Psalm "
 author: Joseph Louthan
-type: post
 publishDate: 2021-02-23T14:30:00-06:00
 url: /now-sings-my-soul-psalm/2021-02-23-1430-now-sings-my-soul-psalm/
 categories:

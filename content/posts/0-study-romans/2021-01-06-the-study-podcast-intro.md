@@ -1,7 +1,7 @@
 ---
 title: 'The Study Podcast'
 author: Joseph Louthan
-date: 2021-01-06
+date: 2021-01-06T06:00:00-06:00
 url: /study-romans/2021-01-06-study-podcast/
 categories:
   - Bible Study

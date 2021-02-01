@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 4'
 author: Joseph Louthan
-type: post
 date: 2012-10-23
 url: /prayers/now-sings-my-soul-psalm-4/
 categories:

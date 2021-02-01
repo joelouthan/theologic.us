@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 18, Pt 1'
 author: Joseph Louthan
-type: post
 date: 2013-04-23
 url: /prayers/now-sings-my-soul-psalm-18-pt-1/
 categories:

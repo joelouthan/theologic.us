@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: For Your Consideration - Romans 8:37'
 author: Joseph Louthan
-type: post
 date: 2018-08-20T12:00:38+00:00
 url: /theology/here-is-love-romans-837-for-your-consideration/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/08/MV5BMTI2OTA1MTEzMV5BMl5BanBnXkFtZTcwMzg1NTIyMw@@._V1_SX1777_CR001777927_AL_.jpg?resize=825%2C510

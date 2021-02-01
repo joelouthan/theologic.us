@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans, A Few Resources'
 author: Joseph Louthan
-type: post
-publishDate: 2021-01-07
+publishDate: 2021-01-07T06:00:00-06:00
 url: /study-romans/2021-01-07-study-romans-a-few-resources/
 categories:
   - Bible Study

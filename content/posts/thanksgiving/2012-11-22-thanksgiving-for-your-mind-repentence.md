@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving for Your Mind—Repentence
 author: Joseph Louthan
-type: post
 date: 2012-11-22
 url: /scriptures/thanksgiving-for-your-mind-repentence/
 categories:

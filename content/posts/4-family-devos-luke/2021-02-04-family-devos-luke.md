@@ -1,7 +1,6 @@
 ---
 title: 'Luke 10 What is Christ Inviting Us To Do?'
 author: Joseph Louthan
-type: post
 publishDate: 2021-02-04
 url: /family-devos-luke/2021-02-04-family-devos-luke/
 categories:

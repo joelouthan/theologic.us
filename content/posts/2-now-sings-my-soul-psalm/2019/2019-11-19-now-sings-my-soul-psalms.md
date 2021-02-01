@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:6d All The Days of My Life'
 author: Joseph Louthan
-type: post
 publishDate: 2019-11-19
 url: /now-sings-my-soul-psalms/2019-11-19-now-sings-my-soul-psalms/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

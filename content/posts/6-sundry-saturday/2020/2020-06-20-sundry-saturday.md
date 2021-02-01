@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Google Fonts in Hugo'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-20
 url: /sundry_saturday/2020-06-20-sundry_saturday/
 categories:

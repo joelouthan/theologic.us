@@ -1,7 +1,6 @@
 ---
 title: 'The Lord’s Prayer: On Earth As Is It In Heaven'
 author: Joseph Louthan
-type: post
 date: 2018-08-23T12:00:55+00:00
 url: /prayer/the-lords-prayer-on-earth-as-is-it-in-heaven/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/08/4_earth.jpg?resize=825%2C510

@@ -1,7 +1,6 @@
 ---
 title: Here is Love, An Introduction
 author: Joseph Louthan
-type: post
 date: 2012-08-22T14:00:38+00:00
 url: /theology/here-is-love-an-introduction/
 dsq_thread_id:

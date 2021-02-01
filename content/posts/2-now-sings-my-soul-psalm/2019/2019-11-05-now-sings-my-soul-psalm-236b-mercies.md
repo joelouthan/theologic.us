@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:6b Mercies'
 author: Joseph Louthan
-type: post
 publishDate: 2019-11-05
 url: /prayers/2019-11-05-now-sings-my-soul-psalm-236b-mercies/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: Called by God - Romans 8:30b'
 author: Joseph Louthan
-type: post
 date: 2018-06-18T12:00:43+00:00
 url: /theology/here-is-love-romans-830b-called/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/tenor-1.gif?resize=498%2C348

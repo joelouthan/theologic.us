@@ -1,7 +1,6 @@
 ---
 title: "The Lord's Prayer: Forgive Us--Help Us to Forgive"
 author: Joseph Louthan
-type: post
 publishDate: 2019-11-14
 url: /the-lords-prayer/2019-11-14-the-lords-prayer/
 categories:

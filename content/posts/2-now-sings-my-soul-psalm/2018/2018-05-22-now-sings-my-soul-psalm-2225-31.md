@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 22:25-31'
 author: Joseph Louthan
-type: post
 date: 2018-05-22T12:00:16+00:00
 url: /prayer/now-sings-my-soul-psalm-2225-31/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/DETA-72.jpg?resize=825%2C510

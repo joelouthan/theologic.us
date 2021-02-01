@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 1:1-7'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-02
+publishDate: 2021-03-02T06:00:00-06:00
 url: /study-romans/2021-03-02-study-romans/
 categories:
   - Bible Study

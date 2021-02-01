@@ -1,7 +1,6 @@
 ---
 title: 'Thinking Through Ministry: 1 Timothy '
 author: Joseph Louthan
-type: post
 publishDate: 2021-02-10
 url: /letters-to-timothy/2021-02-10-letters-to-timothy/
 categories:

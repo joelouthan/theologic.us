@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: Sheep to the Slaughter - Romans 8:36'
 author: Joseph Louthan
-type: post
 date: 2018-08-13T12:00:13+00:00
 url: /theology/here-is-love-romans-836-sheep-to-the-slaughter/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/08/sheep-herds-around-the-world-25.jpg?resize=825%2C510

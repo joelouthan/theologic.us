@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 3:9–26'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-11
+publishDate: 2021-03-11T06:00:00-06:00
 url: /study-romans/2021-03-11-study-romans/
 categories:
   - Bible Study

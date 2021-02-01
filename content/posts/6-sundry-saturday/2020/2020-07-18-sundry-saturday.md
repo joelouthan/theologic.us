@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Nocode Edition'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-18
 url: /sundry_saturday/2020-07-18-sundry_saturday/
 categories:

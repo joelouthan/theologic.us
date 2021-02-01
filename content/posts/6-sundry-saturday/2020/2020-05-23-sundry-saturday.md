@@ -1,7 +1,6 @@
 ---
 title: "Sundry Saturdays: The Madonna is Right Edition"
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-23
 url: /sundry_saturday/2020-05-23-sundry_saturday/
 categories:

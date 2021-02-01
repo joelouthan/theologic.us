@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 35:7-28'
 author: Joseph Louthan
-type: post
 publishDate: 2020-12-29T06:00:00-06:00
 url: /now_sings_my_soul_psalm/2020-12-29-am-now_sings_my_soul_psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <div style="font-variant: small-caps;">

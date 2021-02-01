@@ -1,7 +1,6 @@
 ---
 title: 'Romans 1:18-20 The Righteousness of God: His Simplicity'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-29
 url: /commentary-romans/2020-06-29-commentary-romans/
 categories:

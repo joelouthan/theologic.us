@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 19'
 author: Joseph Louthan
-type: post
 date: 2013-09-03
 url: /prayers/now-sings-my-soul-psalm-19/
 dsq_thread_id:

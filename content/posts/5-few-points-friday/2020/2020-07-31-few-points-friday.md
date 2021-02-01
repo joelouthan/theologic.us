@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: Praying for Wolves'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-31
 url: /few_points_friday/2020-07-31-few_points_friday/
 categories:

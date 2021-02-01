@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 3'
 author: Joseph Louthan
-type: post
 date: 2012-10-16
 url: /prayers/now-sings-my-soul-psalm-3/
 categories:

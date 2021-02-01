@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: We Are Just Like Esau'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-12
 url: /few_points_friday/2020-06-12-few_points_friday/
 categories:

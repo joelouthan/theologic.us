@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 32:3'
 author: Joseph Louthan
-type: post
 publishDate: 2020-08-18
 url: /now-sings-my-soul-psalm/2020-08-18-now-sings-my-soul-psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: true
 ---
 ## Psalm 32:3

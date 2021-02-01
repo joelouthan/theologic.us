@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: He is Our End – Romans 8:18'
 author: Joseph Louthan
-type: post
 date: 2013-08-26T13:00:30+00:00
 url: /theology/here-is-love_he-is-our-end-romans-8_18/
 dsq_thread_id:

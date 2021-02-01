@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 31:11-13'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-30
 url: /now-sings-my-soul-psalm/2020-06-30-now-sings-my-soul-psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

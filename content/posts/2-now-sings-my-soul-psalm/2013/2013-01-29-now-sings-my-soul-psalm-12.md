@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 12'
 author: Joseph Louthan
-type: post
 date: 2013-01-29
 url: /prayers/now-sings-my-soul-psalm-12/
 categories:

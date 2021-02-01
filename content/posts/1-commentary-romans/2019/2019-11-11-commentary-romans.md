@@ -1,7 +1,6 @@
 ---
 title: 'Romans 1:1a Who Are You, Lord?'
 author: Joseph Louthan
-type: post
 publishDate: 2019-11-11
 url: /commentary-romans/2019-11-11-commentary-romans1-1-who-are-you-lord/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: '✅Luke 1:18-25 Can We Keep Secrets From God?'
 author: Joseph Louthan
-type: post
 publishDate: 2019-12-04
 url: /family-devos-luke/2019-12-04-family-devos-luke/
 categories:

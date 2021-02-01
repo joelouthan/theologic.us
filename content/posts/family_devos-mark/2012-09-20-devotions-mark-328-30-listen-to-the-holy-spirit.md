@@ -1,7 +1,6 @@
 ---
 title: Mark 3:28-30 Listen to the Holy Spirit
 author: Joe Louthan
-type: post
 date: 2012-09-20
 url: /family_devotions/mark-328-30-listen-to-the-holy-spirit/
 dsq_thread_id:

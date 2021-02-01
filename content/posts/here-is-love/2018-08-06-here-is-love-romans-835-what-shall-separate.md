@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: What Shall Separate? - Romans 8:35'
 author: Joseph Louthan
-type: post
 date: 2018-08-06T12:00:32+00:00
 url: /theology/here-is-love-romans-835-what-shall-separate/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/Grand-Canyon-–-hero-1400x500.jpg?resize=825%2C500

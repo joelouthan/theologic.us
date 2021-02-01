@@ -1,7 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Your Will Be Done'
 author: Joseph Louthan
-type: post
 date: 2018-08-16T12:00:20+00:00
 url: /prayer/the-lords-prayer-your-will-be-done/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/08/Fashion-Goblet-Red-Wine-Cup-Handmade-Chinese-Style-Handmade-Natural-Wooden-Tea-Cups-Wooden-Cups-Drinkware.jpg_640x640.jpg?resize=640%2C510

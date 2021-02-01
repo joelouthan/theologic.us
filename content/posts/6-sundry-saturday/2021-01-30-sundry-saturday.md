@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: '
 author: Joseph Louthan
-type: post
 publishDate: 2021-01-30
 url: /sundry_saturday/2021-01-30-sundry_saturday/
 categories:

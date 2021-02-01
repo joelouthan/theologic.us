@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 5'
 author: Joseph Louthan
-type: post
 date: 2012-10-30
 url: /prayers/now-sings-my-soul-psalm-5/
 categories:

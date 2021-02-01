@@ -1,7 +1,6 @@
 ---
 title: 'Luke 9 What is Christ Calling Us To?'
 author: Joseph Louthan
-type: post
 publishDate: 2020-12-31
 url: /family-devos-luke/2020-12-31-family-devos-luke/
 categories:

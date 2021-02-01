@@ -1,7 +1,6 @@
 ---
 title: '✅Luke 2:1-7 God Becomes Man [Part 1]'
 author: Joseph Louthan
-type: post
 publishDate: 2020-01-15
 url: /family-devos-luke/2020-01-15-family-devos-luke/
 categories:

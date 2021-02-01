@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:4a Through the Valley of the Shadow of Death'
 author: Joseph Louthan
-type: post
 date: 2018-07-10T12:00:41+00:00
 url: /prayer/now-sings-my-soul-psalm-0234a-through-the-valley-of-the-shadow-of-death/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/lily-of-the-valley-poisoning.jpg?resize=825%2C510

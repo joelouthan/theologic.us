@@ -1,7 +1,6 @@
 ---
 title: 'Thinking Through Ministry: 1 Timothy 1:1-2 What Do I Believe About God? [Part 1]'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-10
 url: /letters-to-timothy/2020-06-10-letters-to-timothy/
 categories:

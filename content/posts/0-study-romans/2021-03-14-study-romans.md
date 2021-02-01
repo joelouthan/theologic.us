@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 4:13-25'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-14
+publishDate: 2021-03-14T06:00:00-06:00
 url: /study-romans/2021-03-14-study-romans/
 categories:
   - Bible Study

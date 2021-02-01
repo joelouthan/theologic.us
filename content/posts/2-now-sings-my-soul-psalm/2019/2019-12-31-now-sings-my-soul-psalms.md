@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 27:4-6'
 author: Joseph Louthan
-type: post
 publishDate: 2019-12-31
 url: /now-sings-my-soul-psalms/2019-12-31-now-sings-my-soul-psalms/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

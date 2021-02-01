@@ -1,7 +1,6 @@
 ---
 title: "The Lord's Prayer: Deliver Us From Evil"
 author: Joseph Louthan
-type: post
 publishDate: 2019-11-21
 url: /the-lords-prayer/2019-11-21-the-lords-prayer/
 categories:

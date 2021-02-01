@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 3:1-8'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-10
+publishDate: 2021-03-10T06:00:00-06:00
 url: /study-romans/2021-03-10-study-romans/
 categories:
   - Bible Study

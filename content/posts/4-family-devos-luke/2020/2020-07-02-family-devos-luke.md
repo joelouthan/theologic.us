@@ -1,7 +1,6 @@
 ---
 title: 'Luke 5: Christ is Lord Over Everything'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-02
 url: /family-devos-luke/2020-07-02-family-devos-luke/
 categories:

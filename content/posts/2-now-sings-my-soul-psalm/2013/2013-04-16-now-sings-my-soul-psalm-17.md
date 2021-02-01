@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 17'
 author: Joseph Louthan
-type: post
 date: 2013-04-16
 url: /prayers/now-sings-my-soul-psalm-17/
 dsq_thread_id:

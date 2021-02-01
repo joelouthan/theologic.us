@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 16'
 author: Joseph Louthan
-type: post
 date: 2013-04-09
 url: /prayers/now-sings-my-soul-psalm-16/
 dsq_thread_id:

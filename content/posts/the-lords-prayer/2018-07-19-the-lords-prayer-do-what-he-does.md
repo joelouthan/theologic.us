@@ -1,7 +1,6 @@
 ---
 title: 'The Lord’s Prayer: Do What He Does'
 author: Joseph Louthan
-type: post
 date: 2018-07-19T12:00:20+00:00
 url: /prayer/do-what-he-does/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/115004187.jpg?resize=825%2C510

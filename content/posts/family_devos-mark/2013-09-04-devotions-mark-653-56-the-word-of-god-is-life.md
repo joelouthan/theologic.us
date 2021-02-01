@@ -1,7 +1,6 @@
 ---
 title: Mark 6:53-56 The Word of God is Life
 author: Joe Louthan
-type: post
 date: 2013-09-04
 url: /family_devotions/mark-653-56-the-word-of-god-is-life/
 dsq_thread_id:

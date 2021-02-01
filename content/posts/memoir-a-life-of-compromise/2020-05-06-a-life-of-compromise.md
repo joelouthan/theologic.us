@@ -1,7 +1,6 @@
 ---
 title: 'A Life of Compromise: 6. Yearning For Comfort in Sin'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-06
 url: /memoir/2020-05-06-a-life-of-compromise/
 categories:

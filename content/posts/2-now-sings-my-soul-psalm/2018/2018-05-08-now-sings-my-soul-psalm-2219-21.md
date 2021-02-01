@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 22:19-21'
 author: Joseph Louthan
-type: post
 date: 2018-05-08T12:00:50+00:00
 url: /prayer/now-sings-my-soul-psalm-2219-21/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/IMG_0956-EFFECTS.jpg?resize=825%2C510

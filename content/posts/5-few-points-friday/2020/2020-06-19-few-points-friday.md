@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: Praying and Fasting Until'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-19
 url: /few_points_friday/2020-06-19-few_points_friday/
 categories:

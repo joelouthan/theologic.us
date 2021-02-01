@@ -1,7 +1,6 @@
 ---
 title: Mark 11:15-19 So That We Might Live and Be Saved
 author: Joseph Louthan
-type: post
 date: 2018-09-12
 url: /family_devotions/2018-09-12-mark-1115-19-so-that-we-might-live-and-b.md/
 categories:

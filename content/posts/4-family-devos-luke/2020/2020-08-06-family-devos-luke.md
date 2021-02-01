@@ -1,7 +1,6 @@
 ---
 title: 'Luke 7 The Responses of Mankind'
 author: Joseph Louthan
-type: post
 publishDate: 2020-08-06
 url: /family-devos-luke/2020-08-06-family-devos-luke/
 categories:

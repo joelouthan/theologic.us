@@ -1,7 +1,6 @@
 ---
 title: 'Luke '
 author: Joseph Louthan
-type: post
 publishDate: 2021-07-01
 url: /family-devos-luke/2021-07-01-family-devos-luke/
 categories:

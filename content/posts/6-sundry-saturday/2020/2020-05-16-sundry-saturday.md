@@ -1,7 +1,6 @@
 ---
 title: "Sundry Saturdays: Enneagram 8s and RTJ4 Edition"
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-16
 url: /sundry_saturday/2020-05-16-sundry_saturday/
 categories:

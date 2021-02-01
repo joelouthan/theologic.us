@@ -1,7 +1,6 @@
 ---
 title: 'Luke 6:27-49 What Does the Lord Say?'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-23
 url: /family-devos-luke/2020-07-23-family-devos-luke/
 categories:

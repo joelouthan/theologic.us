@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: Perfectly—Matthew 1:21'
 author: Joseph Louthan
-type: post
 date: 2012-10-01T14:02:58+00:00
 url: /theology/here-is-love-perfectly/
 dsq_thread_id:

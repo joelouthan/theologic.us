@@ -1,7 +1,6 @@
 ---
 title: Mark 11:27-33 So That We Might Live and Know Him
 author: Joseph Louthan
-type: post
 date: 2018-09-19
 url: /family_devotions/2018-09-19-mark-11-27-33-so-that-we-might-live-and.md/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 22:6-11'
 author: Joseph Louthan
-type: post
 date: 2018-04-24T12:00:39+00:00
 url: /prayer/now-sings-my-soul-psalm-22-6-11/
 categories:

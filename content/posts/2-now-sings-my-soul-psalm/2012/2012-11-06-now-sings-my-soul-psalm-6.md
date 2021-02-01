@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 6'
 author: Joseph Louthan
-type: post
 date: 2012-11-06
 url: /prayers/now-sings-my-soul-psalm-6/
 categories:

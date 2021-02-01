@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 1:26-32'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-07
+publishDate: 2021-03-07T06:00:00-06:00
 url: /study-romans/2021-03-07-study-romans/
 categories:
   - Bible Study

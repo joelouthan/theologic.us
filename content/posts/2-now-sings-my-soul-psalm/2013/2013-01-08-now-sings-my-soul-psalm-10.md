@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 10'
 author: Joseph Louthan
-type: post
 date: 2013-01-08
 url: /prayers/now-sings-my-soul-psalm-10/
 dsq_thread_id:

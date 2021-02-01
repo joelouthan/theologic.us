@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 33:11'
 author: Joseph Louthan
-type: post
 publishDate: 2020-11-06T20:00:00-06:00
 url: /now-sings-my-soul-psalm/2020-11-06-pm-now-sings-my-soul-psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

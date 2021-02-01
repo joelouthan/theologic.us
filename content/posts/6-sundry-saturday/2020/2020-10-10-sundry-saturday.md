@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Virtualbox on macOS - GIMME YOUR DHCP ADDRESSES!'
 author: Joseph Louthan
-type: post
 publishDate: 2020-10-07
 url: /sundry_saturday/2020-11-07-sundry_saturday/
 categories:

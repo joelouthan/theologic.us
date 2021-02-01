@@ -1,7 +1,6 @@
 ---
 title: Mark 12:28-34 So That We Might Live and Love Him and Others
 author: Joseph Louthan
-type: post
 date: 2018-10-17
 url: /family_devotions/2018-10-17-mark-1228-34-so-that-we-might-live-and-l.md/
 categories:

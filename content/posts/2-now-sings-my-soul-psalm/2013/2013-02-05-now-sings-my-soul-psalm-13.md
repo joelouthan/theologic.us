@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 13'
 author: Joseph Louthan
-type: post
 date: 2013-02-05
 url: /prayers/now-sings-my-soul-psalm-13/
 dsq_thread_id:

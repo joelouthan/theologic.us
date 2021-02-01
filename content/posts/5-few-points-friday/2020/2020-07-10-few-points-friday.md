@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: Gospel of God Foremost '
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-10
 url: /few_points_friday/2020-07-10-few_points_friday/
 categories:

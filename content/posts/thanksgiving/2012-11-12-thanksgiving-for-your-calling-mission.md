@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving for Your Calling—Mission
 author: Joseph Louthan
-type: post
 date: 2012-11-12
 url: /scriptures/thanksgiving-for-your-calling-mission/
 categories:

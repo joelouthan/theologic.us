@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Secularization, As Does Life, Comes At You Fast'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-13
 url: /sundry_saturday/2020-06-13-sundry_saturday/
 categories:

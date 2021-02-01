@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving for Your Mercies—Propitiation
 author: Joseph Louthan
-type: post
 date: 2012-11-13
 url: /scriptures/thanksgiving-for-your-mercies-propitiation/
 dsq_thread_id:

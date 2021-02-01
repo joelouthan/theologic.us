@@ -1,7 +1,6 @@
 ---
 title: Mark 10:46-52 God Alone Receives Those Who Cannot See Him
 author: Joe Louthan
-type: post
 date: 2018-08-22T12:00:52+00:00
 url: /family_devotions/mark-1046-52-god-alone-receives-those-who-cannot-see-him/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/08/night-vision-720x720.jpg?resize=720%2C480

@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving for Your Work–Sanctification
 author: Joseph Louthan
-type: post
 date: 2012-11-27
 url: /scriptures/thanksgiving-for-your-work-sanctification/
 dsq_thread_id:

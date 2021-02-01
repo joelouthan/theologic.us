@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 3:27–4:5'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-12
+publishDate: 2021-03-12T06:00:00-06:00
 url: /study-romans/2021-03-12-study-romans/categories
   - Bible Study
   - Podcast

@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: Death and Life – Galatians 2:20'
 author: Joseph Louthan
-type: post
 date: 2012-10-29T14:00:13+00:00
 excerpt: I was in full decay. My soul was in furthest most depths of the ocean. The weighty, freezing water on top of me was my own sin crushing my own soul.
 url: /theology/here-is-love-death-and-life-galatians-220/

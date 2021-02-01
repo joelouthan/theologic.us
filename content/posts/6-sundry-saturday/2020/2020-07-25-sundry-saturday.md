@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Having the Police on Speed Dial'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-25
 url: /sundry_saturday/2020-07-25-sundry_saturday/
 categories:

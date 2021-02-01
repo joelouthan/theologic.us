@@ -1,7 +1,6 @@
 ---
 title: Mark 5:25-34 Jesus Has The Power Over Disease
 author: Joe Louthan
-type: post
 date: 2013-02-20
 url: /family_devotions/mark-525-34-jesus-has-the-power-over-disease/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving for Your Choice—Election
 author: Joseph Louthan
-type: post
 date: 2012-11-09
 url: /scriptures/thanksgiving-for-your-choice-election/
 categories:

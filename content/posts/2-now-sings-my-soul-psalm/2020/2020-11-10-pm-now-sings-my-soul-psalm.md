@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 34:9'
 author: Joseph Louthan
-type: post
 publishDate: 2020-11-10T20:00:00-06:00
 url: /now-sings-my-soul-psalm/2020-11-10-pm-now-sings-my-soul-psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

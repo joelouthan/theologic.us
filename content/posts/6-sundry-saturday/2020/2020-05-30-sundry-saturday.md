@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Health Is When You Stop Acting Out of Personality'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-30
 url: /sundry_saturday/2020-05-30-sundry_saturday/
 categories:

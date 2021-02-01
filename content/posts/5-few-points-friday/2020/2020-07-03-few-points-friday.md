@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: What Are You Believing?'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-03
 url: /few_points_friday/2020-07-03-few_points_friday/
 categories:

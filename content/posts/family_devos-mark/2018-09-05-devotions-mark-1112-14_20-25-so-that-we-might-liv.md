@@ -1,7 +1,6 @@
 ---
 title: Mark 11:12-14; 20-25 So That We Might Live and Never Die
 author: Joseph Louthan
-type: post
 date: 2018-09-05
 url: /family_devotions/2018-09-05-mark-1112-14_20-25-so-that-we-might-liv.md/
 categories:

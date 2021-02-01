@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: Why Did God Save Us? – Romans 8:29d'
 author: Joseph Louthan
-type: post
 date: 2018-05-28T12:00:26+00:00
 url: /theology/here-is-love-why-did-god-save-us-romans-829d/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/seraphimandisaiah.jpg?resize=825%2C510

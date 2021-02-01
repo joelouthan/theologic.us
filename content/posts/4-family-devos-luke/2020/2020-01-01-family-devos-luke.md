@@ -1,7 +1,6 @@
 ---
 title: '✅Luke 1:57-66 What is Your Calling?'
 author: Joseph Louthan
-type: post
 publishDate: 2020-01-01
 url: /family-devos-luke/2020-01-01-family-devos-luke/
 categories:

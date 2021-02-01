@@ -1,7 +1,6 @@
 ---
 title: 'Mark 13:1-2 What Does Christ Want? Our Sin'
 author: Joseph Louthan
-type: post
 date: 2018-11-14
 url: /family_devotions/2018-11-14-mark-131-2-what-does-christ-want-our-sin.md/
 categories:

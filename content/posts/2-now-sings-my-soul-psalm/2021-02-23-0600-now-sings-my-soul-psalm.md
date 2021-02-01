@@ -1,7 +1,6 @@
 ---
 title: "Now Sings My Soul: Psalm 49"
 author: Joseph Louthan
-type: post
 publishDate: 2021-02-23T06:00:00-06:00
 url: /now-sings-my-soul-psalm/2021-02-23-0600-now-sings-my-soul-psalm/
 categories:

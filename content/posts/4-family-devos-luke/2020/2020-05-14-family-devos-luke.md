@@ -1,7 +1,6 @@
 ---
 title: '✅Luke 2:41-52 Christ Grew In Wisdom and Stature [Part 5]'
 author: Joseph Louthan
-type: post
 publishDate: 2020-05-14
 url: /family-devos-luke/2020-05-14-family-devos-luke/
 categories:

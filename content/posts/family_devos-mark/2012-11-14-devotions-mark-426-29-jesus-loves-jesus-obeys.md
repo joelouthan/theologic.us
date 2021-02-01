@@ -1,7 +1,6 @@
 ---
 title: Mark 4:26-29 Jesus Loves; Jesus Obeys
 author: Joe Louthan
-type: post
 date: 2012-11-14
 url: /family_devotions/mark-426-29-jesus-loves-jesus-obeys/
 dsq_thread_id:

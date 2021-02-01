@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: No One Else Can Do – Romans 8:3-4'
 author: Joseph Louthan
-type: post
 date: 2012-12-03T15:00:22+00:00
 url: /theology/here-is-love-no-one-else-can-do-romans-83-4/
 dsq_thread_id:

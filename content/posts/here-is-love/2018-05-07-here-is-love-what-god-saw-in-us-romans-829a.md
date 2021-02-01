@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: What God Saw In Us – Romans 8:29a'
 author: Joseph Louthan
-type: post
 date: 2018-05-07T12:00:14+00:00
 url: /theology/here-is-love-what-god-saw-in-us-romans-829a/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/05/X-Men-Apocalypse-Time-Period-1983-Cerebro-Photo.jpg?resize=600%2C316

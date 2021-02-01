@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 23:6a Surely Goodness'
 author: Joseph Louthan
-type: post
 date: 2019-10-29
 url: /prayers/2019-10-29-surely-goodness/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

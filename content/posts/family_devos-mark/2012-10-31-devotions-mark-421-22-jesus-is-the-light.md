@@ -1,7 +1,6 @@
 ---
 title: Mark 4:21-22 Jesus is the Light
 author: Joe Louthan
-type: post
 date: 2012-10-31
 url: /family_devotions/mark-421-22-jesus-is-the-light/
 dsq_thread_id:

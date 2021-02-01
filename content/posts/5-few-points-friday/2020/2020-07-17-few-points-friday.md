@@ -1,7 +1,6 @@
 ---
 title: 'A Few Points for Friday: Expository Preaching'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-17
 url: /few_points_friday/2020-07-17-few_points_friday/
 categories:

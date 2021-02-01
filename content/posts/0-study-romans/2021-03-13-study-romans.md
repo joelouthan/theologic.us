@@ -1,8 +1,7 @@
 ---
 title: 'Study: Romans 4:6–12'
 author: Joseph Louthan
-type: post
-publishDate: 2021-03-13
+publishDate: 2021-03-13T06:00:00-06:00
 url: /study-romans/2021-03-13-study-romans/
 categories:
   - Bible Study

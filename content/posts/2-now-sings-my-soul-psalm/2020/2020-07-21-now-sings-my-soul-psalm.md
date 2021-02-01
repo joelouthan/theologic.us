@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 31:21-22'
 author: Joseph Louthan
-type: post
 publishDate: 2020-07-21
 url: /now-sings-my-soul-psalm/2020-07-21-now-sings-my-soul-psalm/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

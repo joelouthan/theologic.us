@@ -1,7 +1,6 @@
 ---
 title: 'A Life of Compromise: 2. Why Do I Remember Everything?'
 author: Joseph Louthan
-type: post
 publishDate: 2020-03-27
 url: /memoir/2020-03-27-a-life-of-compromise-02/
 categories:

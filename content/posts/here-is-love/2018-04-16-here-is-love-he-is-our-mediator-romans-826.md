@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: He is Our Mediator – Romans 8:26'
 author: Joseph Louthan
-type: post
 date: 2018-04-16T12:00:00+00:00
 url: /theology/here-is-love-he-is-our-mediator-romans-826/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/04/mikhal-bleeding-nose-deadlift.png?resize=575%2C340

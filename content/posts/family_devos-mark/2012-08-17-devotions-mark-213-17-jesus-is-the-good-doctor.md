@@ -1,7 +1,6 @@
 ---
 title: Mark 2:13-17 Jesus is the Good Doctor
 author: Joe Louthan
-type: post
 date: 2012-08-17
 url: /family_devotions/mark-213-17-jesus-is-the-good-doctor/
 dsq_thread_id:

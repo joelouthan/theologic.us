@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 27:1-3'
 author: Joseph Louthan
-type: post
 publishDate: 2019-12-24
 url: /now-sings-my-soul-psalms/2019-12-24-now-sings-my-soul-psalms/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <div style="font-variant: small-caps;">Beholder of my Righteousness</div>

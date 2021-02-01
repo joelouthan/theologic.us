@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: Who Can Condemn? - Romans 8:34'
 author: Joseph Louthan
-type: post
 date: 2018-07-30T12:00:40+00:00
 url: /theology/here-is-love-romans-834-who-can-condemn/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/07/427569a2a3bad1ac6ac427e88975d68f.gif?resize=500%2C225

@@ -1,7 +1,6 @@
 ---
 title: 'Family Devotions: Mark, A Few Resources'
 author: Joe Louthan
-type: post
 date: 2012-07-25
 url: /family_devotions/mark-a-few-resources/
 categories:

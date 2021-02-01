@@ -1,7 +1,6 @@
 ---
 title: 'Now Sings My Soul: Psalm 29'
 author: Joseph Louthan
-type: post
 publishDate: 2020-04-21
 url: /now-sings-my-soul-psalms/2020-04-21-now-sings-my-soul-psalms/
 categories:
@@ -10,6 +9,7 @@ tags:
   - Psalms
 series:
   - 'Now Sings My Soul: Psalms'
+showtoc: false
 draft: false
 ---
 <pre>

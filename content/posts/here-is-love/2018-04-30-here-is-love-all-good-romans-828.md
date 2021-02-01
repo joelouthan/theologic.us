@@ -1,7 +1,6 @@
 ---
 title: 'Here is Love: All Good – Romans 8:28'
 author: Joseph Louthan
-type: post
 date: 2018-04-30T12:00:32+00:00
 url: /theology/here-is-love-all-good-romans-828/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/04/a9b.jpg?resize=680%2C510

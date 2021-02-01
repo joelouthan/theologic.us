@@ -1,7 +1,6 @@
 ---
 title: 'Sundry Saturdays: Getting the Real Word Count'
 author: Joseph Louthan
-type: post
 publishDate: 2020-06-27
 url: /sundry_saturday/2020-06-27-sundry_saturday/
 categories:
