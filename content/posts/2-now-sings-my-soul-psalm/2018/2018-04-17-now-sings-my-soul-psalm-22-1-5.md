@@ -32,7 +32,7 @@ Your people before me trusted you and I trust you now. You have never failed me.
 
 You have rescued my grandmother and my dad.
 
-Now rescue me! 
+Now rescue me!
 
 Save me, O God.
 

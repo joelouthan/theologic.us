@@ -12,7 +12,6 @@ series:
   - 'Now Sings My Soul: Psalms'
 draft: false
 ---
-
 <pre>
 <div style="font-variant: small-caps;">My Only Redeemer</div>
 Who is like you, God?
