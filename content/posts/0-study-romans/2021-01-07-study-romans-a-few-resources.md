@@ -87,7 +87,6 @@ ___
 
 <p style="clear:both;">
 
-<a href="" target="_blank"><img border="0" src="" style="float: left;padding: 10px;"><img src="" width="0" height="0" border="0" alt="" style="float: left;" />
 {{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=080540127X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=080540127X#floatleft" width="0" height="0" border="0" alt="" >}}
 [**Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)**](https://www.amazon.com/Romans-Exegetical-Theological-Exposition-Commentary/dp/080540127X/ref=as_li_ss_il?dchild=1&keywords=Romans+Mounce&qid=1611174269&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=2388612e8b4ca4395dd76cc8c7d5e02a&language=en_US)  
 by Robert Mounce  

@@ -1,6 +1,6 @@
 baseURL: "https://theologic.us"
 title: Theologicus
-paginate: 100
+paginate: 1000
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -57,8 +57,8 @@ params:
         buttons:
             - name: Recent Posts
               url: posts
-            - name: Updates
-              url: updates
+            - name: Update
+              url: update
             - name: Series
               url: series
             - name: "Bible Study: Romans"
@@ -136,3 +136,22 @@ taxonomies:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
