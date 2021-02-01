@@ -139,8 +139,11 @@ taxonomies:
 #         lineNos: true
 #         style: monokai
 
-# markup:
-#   goldmark:
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+#       hardWraps: false
 #     extensions:
 #       definitionList: true
 #       footnote: true
