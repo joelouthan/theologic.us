@@ -17,15 +17,13 @@ draft: false
 
 ```text
 I will worship you
-	with all of my days.
+  with all of my days.
 
 You are my King and my God.
-	and there is none like you.
+  and there is none like you.
 
 You called me to wait,
-	and wait upon you, I will.
+  and wait upon you, I will.
 
 Be blessed, O my Lord.
-
-  
 ```

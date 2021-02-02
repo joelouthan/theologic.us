@@ -52,6 +52,4 @@ Feed my body
   be my forever salvation.
 
 In you, will I trust.
-
 ```
-

@@ -74,6 +74,4 @@ Sin has not conquered me
   forever.
 
 I love you, Lord.
-
 ```
-

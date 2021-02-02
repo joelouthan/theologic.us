@@ -41,7 +41,4 @@ Who are you, my Lord?
   Forevermore.
 
 Amen.
-
-
 ```
-

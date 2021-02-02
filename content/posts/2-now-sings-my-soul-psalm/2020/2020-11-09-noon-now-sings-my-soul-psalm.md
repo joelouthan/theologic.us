@@ -51,8 +51,6 @@ Never ever an orphan but your son.
 Never alone for you are with me forever.
 
 Bring me home.
- Let me see your face.
- But if it isn’t now then I will do your will.
-
+  Let me see your face.
+  But if it isn’t now then I will do your will.
 ```
-

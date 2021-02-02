@@ -1,15 +1,17 @@
 ---
 title: 'Now Sings My Soul: Psalm 18, Pt. 5'
 author: Joseph Louthan
-date: 2013-08-27
+date: 2013-08-27T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-18-pt-5/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 I was once so far from you. I was once lost. I was once your sworn enemy. Instead of casting me out, you sought me out. Instead of leaving me lost, you found me.
 Instead of leaving me to die, you found me and gave me life. Instead being at war with me, you call me friend.
@@ -29,3 +31,4 @@ All of this was made possible from your sovereign grace by the power of Your Spi
 My God, I love you. My Spirit, I love you. My Lord, I love you.
 
 Amen.
+```

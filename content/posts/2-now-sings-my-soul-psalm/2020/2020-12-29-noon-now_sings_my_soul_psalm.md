@@ -18,6 +18,7 @@ draft: false
 My Only Deliverer
 </div>
 
+```text
 How often do I preach
   against the sin in others
   guilt deep in the hearts of men
@@ -53,3 +54,4 @@ My God, keep your hand on my life
   and keep turning my heart towards you.
 
 Amen.
+```

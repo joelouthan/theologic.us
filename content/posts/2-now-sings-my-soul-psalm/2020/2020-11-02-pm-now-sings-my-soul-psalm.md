@@ -68,6 +68,4 @@ Mark us
   unto the Father.
 
 Praise your holy name.
-
 ```
-

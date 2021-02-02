@@ -13,8 +13,6 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-Psalms 32:11 (ESV) Be glad in the LORD, and rejoice, O righteous,
-and shout for joy, all you upright in heart!
 <div style="font-variant: small-caps;">
 My Joy and Righteousness
 </div>

@@ -88,6 +88,4 @@ But why?
   according to the hope of eternal life.
 
 Praise your lovely name on high.
-
 ```
-

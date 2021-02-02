@@ -18,5 +18,4 @@ draft: true
 </div>
 
 ```text
-
 ```

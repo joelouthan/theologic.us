@@ -17,8 +17,8 @@ draft: false
 
 ```text
 Who is like you, my Lord,
-	clothed in majesty
-	and who alone is good.
+  clothed in majesty
+  and who alone is good.
 
 When I have realized
  the extent of my pain
@@ -28,11 +28,11 @@ When I have realized
  and the infection of my heart.
 
 I called upon you
-	and swiftly, you answered me.
-	"Here I am!"
-	and in your gentleness
-	and loving kindness
-	and grace abounding
+  and swiftly, you answered me.
+  "Here I am!"
+  and in your gentleness
+  and loving kindness
+  and grace abounding
   saved me to yourself.
 
 Be exalted.

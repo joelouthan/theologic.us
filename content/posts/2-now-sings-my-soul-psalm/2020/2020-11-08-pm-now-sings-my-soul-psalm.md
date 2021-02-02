@@ -81,6 +81,4 @@ Your circumstances might not change
 
 Worship God!
   He alone is worthy.
-
 ```
-

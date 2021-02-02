@@ -43,9 +43,13 @@ Who would bridge this gap?
 Is it I?
 
 Let me try my best
-  let me abstain from sinlet me not look at porn
-  let me not lust after someone eclipseslet me not steal 
-  let me not lifelet me not swell in predestinedlet me fail not in helping those in need
+  let me abstain from sin
+  let me not look at porn
+  let me not lust after someone eclipses
+  let me not steal 
+  let me not life
+  let me not swell in predestined
+  let me fail not in helping those in need
   let me do good.
 
 Oh but everything I do is infected with sin

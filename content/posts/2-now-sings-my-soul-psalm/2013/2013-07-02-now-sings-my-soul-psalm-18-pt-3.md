@@ -1,16 +1,19 @@
 ---
 title: 'Now Sings My Soul: Psalm 18, Pt. 3'
 author: Joseph Louthan
-date: 2013-07-02
+date: 2013-07-02T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-18-pt-3/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
+```text
 You are my Way,
 
 I am a man with little mercy. My life is filled with shame. My heart is ridden with cancerous sin. My will longs for the wide path well-traveled.
@@ -28,3 +31,4 @@ I run to you. Protect me.
 God help me.
 
 Amen.
+```

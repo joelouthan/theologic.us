@@ -62,6 +62,4 @@ But you reached down
   and I am yours forever.'
 
 Praise your sweet name.
-
 ```
-

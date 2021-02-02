@@ -18,7 +18,6 @@ draft: true
 </div>
 
 ```text
-
 ```> Psalm 56 (CSB)
 For the choir director: according to “A Silent Dove Far Away.” A Miktam of David. When the Philistines seized him in Gath.
       Be gracious to me, God, for a man is trampling me; 

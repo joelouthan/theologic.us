@@ -1,21 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 9'
 author: Joseph Louthan
-date: 2012-12-18
+date: 2012-12-18T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-9/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   Dear Lord,
 </div>
 
 ```text
-
 I will not and cannot list what I _think_ you have not done for me. That is preposterous! What you have done for me, in me, and through me is too great to even list. But I thank you so much. I thank you for you are absolutely good, absolutely merciful, absolutely gracious, and absolutely love. These I know of you and know you well.
 
 God, you are high and exalted far above all creation, including any little thing I might create with my mind and my hands. I thank you for those many gifts that you have given me. I thank you for the life that you have given me. I thank you for the loves that you have given me. I thank you all.
@@ -34,3 +36,4 @@ Thank you.
 
 In your Son’s incredible name I pray.
 Amen.
+```

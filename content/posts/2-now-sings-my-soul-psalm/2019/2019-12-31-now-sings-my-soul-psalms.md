@@ -16,7 +16,6 @@ draft: false
 <div style="font-variant: small-caps;">My Lord Protector</div>
 
 ```text
-
 Who has been my shield
   and my armour
   of my life?
@@ -55,6 +54,4 @@ I have sinned all the more
 
 I praise you, God
   and praise your holy name forever. Amen.
-
-
 ```

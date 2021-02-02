@@ -18,7 +18,6 @@ My Only Love
 </div>
 
 ```text
-
 My life
   I have only experienced
   enemies trying to take my life
@@ -97,3 +96,4 @@ Save my enemies O Lord
   my Savior and my Redeemer forever.
 
 Amen.
+```

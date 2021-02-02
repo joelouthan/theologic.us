@@ -49,6 +49,4 @@ You rule and reign
   and the spiritual
 
 No one is like you.
-
 ```
-

@@ -18,7 +18,6 @@ draft: true
 </div>
 
 ```text
-
 ```> Psalm 57 (CSB)
 For the choir director: “Do Not Destroy.” A Miktam of David. When he fled before Saul into the cave.
       Be gracious to me, God, be gracious to me, 

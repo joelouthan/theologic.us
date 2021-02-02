@@ -1,24 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 16'
 author: Joseph Louthan
-date: 2013-04-09
+date: 2013-04-09T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-16/
-dsq_thread_id:
-  - 2083989578
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
 
 ```text
-
 I have gone everywhere. I have not found any good apart from you.
 
 When I turn away from you or try to find _not You_, my sorrow and grief run deep. It crushes my hearts and buries my soul.
@@ -44,3 +43,4 @@ I love you, Lord and all that is in me I will bless your holy name forever.
 
 In your Son’s perfect name I pray,
 Amen.
+```

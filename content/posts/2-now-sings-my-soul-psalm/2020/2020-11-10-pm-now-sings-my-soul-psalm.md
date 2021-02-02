@@ -57,6 +57,4 @@ Tell me I am yours forever
   and free in you
 
 Praise your holy name forever
-
 ```
-

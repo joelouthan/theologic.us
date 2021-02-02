@@ -1,21 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 3'
 author: Joseph Louthan
-date: 2012-10-16
+date: 2012-10-16T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-3/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My God,
 </div>
 
 ```text
-
 In my finite perception, my circumstances would seem to say I am in despair. I feel that. I feel that onslaught. I feel that pressure.
 Many would say, ”Ah, your God has failed. Your God is not good. Your God does not deliver. Your God does not save.”
 
@@ -28,6 +30,7 @@ Your Son took all of my affliction and wrath and absorbed all the violence that 
 Salvation belongs to you, O Lord, for you are the mighty one to save.
 
 Be with me, Lord. I have no one else to turn to. You alone have the words to eternal life.
-By Your Son&#8217;s beautiful name,
+By Your Son's beautiful name,
 
 Amen
+```

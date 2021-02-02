@@ -64,6 +64,4 @@ And with you in me
   I will bless your holy name forever.
 
 Amen.
-
 ```
-

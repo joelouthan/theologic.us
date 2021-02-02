@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 8'
 author: Joseph Louthan
-date: 2012-12-04
+date: 2012-12-04T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-8/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My Lord, Our Lord,
 </div>
 
 ```text
-
 Your name is known throughout all the earth.
 Your fame knows no bounds.
 Your glory will not be given to another.
@@ -35,3 +36,4 @@ God, I love you. For all of my life and all of eternity, I will forever proclaim
 
 In your name, I pray.
 Amen.
+```

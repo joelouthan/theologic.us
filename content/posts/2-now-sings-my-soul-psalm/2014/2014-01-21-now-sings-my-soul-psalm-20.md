@@ -1,16 +1,20 @@
 ---
 title: 'Now Sings My Soul: Psalm 20'
 author: Joseph Louthan
-date: 2014-01-21
+date: 2014-01-21T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-20/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
+
+```text
 If I cry out for you, will you answer me?
 
 If you alone made the provisions and the sacrifices, will you save me?
@@ -28,3 +32,4 @@ Help me, God, help me.
 Save me.
 
 Amen
+```

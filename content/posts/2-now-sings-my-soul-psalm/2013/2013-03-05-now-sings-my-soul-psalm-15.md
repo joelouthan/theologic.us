@@ -1,24 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 15'
 author: Joseph Louthan
-date: 2013-03-05
+date: 2013-03-05T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-15/
-dsq_thread_id:
-  - 1799694917
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
 
 ```text
-
 How could I possibly worship you? I am not worthy to commune with you and be with you. I sin even now. My heart strays. My soul wanders.
 
 Yet, you, O God, are not far from me. When I am in the wilderness, you are closer than a whisper. When I have fallen, you set me back up on solid ground and you rejoice over me with singing. When I ran away from you, you sent your Son to live the life I could not live and die in my place for my sins.
@@ -38,3 +37,4 @@ I love you, God.
 
 In name of Your mighty Son, I pray.
 Amen.
+```

@@ -8,14 +8,16 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
 
 ```text
-
 Like a child, I have fallen and all of my strength has left me.
 As my precious Father, put me back up on my feet and hold my hands so I can learn to run to you.
 
@@ -34,3 +36,4 @@ My little heart and feeble mind wants to give up and turn my face back towards d
 Then I would leave Life. I would step out of the fullness of joy. I would then settle for lesser pleasures. I would not have You.
 
 God, I am still weak like a little child. Give me your strength and love. Turn my heart towards you. Run towards me and pick me up once more.
+```

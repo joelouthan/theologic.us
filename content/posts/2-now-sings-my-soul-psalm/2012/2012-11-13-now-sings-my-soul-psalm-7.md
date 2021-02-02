@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 7'
 author: Joseph Louthan
-date: 2012-11-13
+date: 2012-11-13T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-7/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   O Lord my God,
 </div>
 
 ```text
-
 It might feel like the world is against me. I might feel like I am a being persecuted. But the real battle is not the world versus me but rather, my own sin and my own iniquities versus the spirit inside of me.
 
 Dear God, my very best works and all of my good deeds before you are nothing more than used menstrual rags and bags of crap. I got nothing else in my hands—this is the best I can do.
@@ -40,3 +41,4 @@ I have nothing but you, God. Keep me.
 
 In your Son’s name, I pray.
 Amen.
+```

@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 18, Pt. 2'
 author: Joseph Louthan
-date: 2013-04-30
+date: 2013-04-30T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-18-pt-2/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
 
 ```text
-
 My hands are not clean. My hands are washed in my own sin. They stink of feces and dung. If you judge me according to what I have done, then surely I am damned!
 
 What hope do I have in myself and the works that I have done? I have nothing to give you, God.
@@ -36,3 +37,4 @@ I love you.
 
 In your great name, I pray.
 Amen.
+```

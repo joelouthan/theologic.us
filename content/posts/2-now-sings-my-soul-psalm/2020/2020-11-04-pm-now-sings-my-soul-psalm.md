@@ -13,8 +13,6 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-Psalms 33:5 (ESV) He loves righteousness and justice;
-the earth is full of the steadfast love of the LORD.
 <div style="font-variant: small-caps;">
 My Eternal Righteousness
 </div>

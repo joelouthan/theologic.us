@@ -59,6 +59,4 @@ Now, only because of You
   and sin no more.
 
 Praise be to your loveliest name.
-
 ```
-

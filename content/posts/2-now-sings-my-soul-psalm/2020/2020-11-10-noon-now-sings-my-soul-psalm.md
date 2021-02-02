@@ -47,6 +47,4 @@ I am so weak
   My God, adopt me as your own.
 
 Be glorified. Today.
-
 ```
-

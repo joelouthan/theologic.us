@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 12'
 author: Joseph Louthan
-date: 2013-01-29
+date: 2013-01-29T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-12/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
 
 ```text
-
 My legacy has already passed through my lips. I have nothing but strongest bitterness and the most potent venom to come out of my mouth.
 I have lied. I have manipulated. I have cheated.
 With my snake tongue, I have tried to get others to do my bidding, believing the lie that I am the one that needs to control them in order for my soul to be at peace.
@@ -35,3 +36,4 @@ I love you, Lord. Thank you for saving me to You.
 
 In your Son’s precious and beautiful name, I pray.
 Amen.
+```

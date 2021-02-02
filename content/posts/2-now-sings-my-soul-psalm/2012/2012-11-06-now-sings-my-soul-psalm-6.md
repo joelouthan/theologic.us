@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 6'
 author: Joseph Louthan
-date: 2012-11-06
+date: 2012-11-06T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-6/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My Holy Lord Above All,
 </div>
 
 ```text
-
 My deeds have warranted not your affections but your attentions—attention to correct my path. However , it is not simply that, it is more serious, more deadly than that.
 
 I continuously want death. I continuously want counterfeit. I continuously want less.
@@ -39,4 +40,5 @@ I ask for you and you cannot say no.
 
 I love you.
 
-In your Son&#8217;s incredibly beautiful name, Amen.
+In your Son's incredibly beautiful name, Amen.
+```

@@ -55,6 +55,5 @@ My Lord,
 
 You are worthy to be praised. Forever.
 
-Amen. 
-
+Amen.
 ```

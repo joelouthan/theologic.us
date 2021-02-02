@@ -17,20 +17,22 @@ draft: false
 
 ```text
 I am going to worship you,
-	all of my days
-	for all of my life
-	for all that I have.
+  all of my days
+  for all of my life
+  for all that I have.
+
 I can declare this in boldness
-	nothing of my own strength
-	and I have no righteousness to speak of.
+  nothing of my own strength
+  and I have no righteousness to speak of.
+
 Because I have seen the fullness of your grace,
-	and the ongoing gift of kindness
-	the daily portion of mercies every morning
-	and the steadfastness of your love.
+  and the ongoing gift of kindness
+  the daily portion of mercies every morning
+  and the steadfastness of your love.
+
 I have failed
-	but you are God.
+  but you are God.
+
 Let my life and love and my words glorify you
-	al of my days.
-
-
+  all of my days.
 ```

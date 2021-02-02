@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 5'
 author: Joseph Louthan
-date: 2012-10-30
+date: 2012-10-30T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-5/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My King and my God,
 </div>
 
 ```text
-
 My heart grieves. My soul groans. I am in need of your Spirit.
 
 My own pride has kept me far from you. My own arrogance has caused you to look away. Yet, I am in need of your holiness—the very thing that keeps me far is the very thing that keeps me close.
@@ -35,3 +36,4 @@ Cover me. Protect me. Keep me in your hands.
 
 In your Son’s mighty name I pray,
 Amen.
+```

@@ -1,22 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 18, Pt 1'
 author: Joseph Louthan
-date: 2013-04-23
+date: 2013-04-23T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-18-pt-1/
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
 
 ```text
-
 You are my All-in-all.
 
 Beyond my Provider, it is by your very thought that you hold me together. By your will, I am pointed in your direction. By your great Spirit, I have strength.
@@ -42,3 +43,4 @@ You rescued me because You loved me. I have done nothing to deserve your love or
 
 I love you, Lord and it is in Your Name, I pray.
 Amen.
+```

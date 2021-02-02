@@ -47,6 +47,4 @@ But when the waves were about to swallow me whole
 
 You alone are my strength and shield
   I will worship and rest in you.
-
 ```
-

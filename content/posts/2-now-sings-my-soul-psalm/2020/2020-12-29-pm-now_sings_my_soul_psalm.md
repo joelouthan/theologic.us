@@ -18,6 +18,7 @@ draft: false
 My Only Righteousness
 </div>
 
+```text
 I search this earth
   for something that is good and holy
   none I can find
@@ -47,12 +48,11 @@ Is it I?
   let me abstain from sin
   let me not look at porn
   let me not lust after someone eclipses
-  let me not steal 
+  let me not steal
   let me not life
   let me not swell in pride
   let me fail not in helping those in need
   let me do good1
-
 
 Oh but everything I do is infected with sin.
 
@@ -102,3 +102,4 @@ Keep me in your heart
   and speak into my soul
   and write your words in my heart
   that I may never sin against you.
+```

@@ -50,6 +50,4 @@ Forever I will sing
     you are my strength
 
 And I will sing.
-
 ```
-

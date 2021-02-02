@@ -59,6 +59,4 @@ I see you
 I love you Lord
 and I will worship you
 my Redeemer.
-
 ```
-

@@ -51,6 +51,4 @@ Yet, in your great love,
   with pleasures forevermore.
 
 Amen.
-
 ```
-

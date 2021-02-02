@@ -1,24 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 17'
 author: Joseph Louthan
-date: 2013-04-16
+date: 2013-04-16T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-17/
-dsq_thread_id:
-  - 1898910499
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   O Father,
 </div>
 
 ```text
-
 You are God of the Universe. Holy, righteous, just. High above my idols. High above my sins. High above my faults. High above the twisted wickedness of my own heart. In no way could I have ever approach you.
 
 But you, O Lord, abundant in mercy and rich in grace, made the way. You sent your Son to come get me. Now I am yours.
@@ -37,3 +36,4 @@ I love you.
 
 In your Son’s beautiful name, I pray.
 Amen.
+```

@@ -1,24 +1,23 @@
 ---
 title: 'Now Sings My Soul: Psalm 13'
 author: Joseph Louthan
-date: 2013-02-05
+date: 2013-02-05T06:00:00-06:00
 url: /prayers/now-sings-my-soul-psalm-13/
-dsq_thread_id:
-  - 1906390897
 categories:
   - Prayers
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
 
 ```text
-
 You have not forgotten me.
 You have not hidden your lovely face from me.
 Your comfort and wisdom warm my soul.
@@ -36,3 +35,4 @@ Thank you for You.
 
 In Your Son’s incredible and mighty name, I pray.
 Amen.
+```

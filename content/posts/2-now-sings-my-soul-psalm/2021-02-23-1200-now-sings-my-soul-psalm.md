@@ -18,7 +18,6 @@ draft: true
 </div>
 
 ```text
-
 ```> Psalm 51 (CSB)
 For the choir director. A psalm of David, when the prophet Nathan came to him after he had gone to Bathsheba.
       Be gracious to me, God, 

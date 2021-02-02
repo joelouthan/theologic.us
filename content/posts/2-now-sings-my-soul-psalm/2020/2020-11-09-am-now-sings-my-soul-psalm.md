@@ -68,6 +68,4 @@ Save me Lord.
  and to you and in you and by you forever.
 
 Amen.
-
 ```
-

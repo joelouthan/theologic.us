@@ -64,6 +64,4 @@ Please keep me closer
   I just want to be with you
 
 I love you Lord.
-
 ```
-

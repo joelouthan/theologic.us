@@ -8,9 +8,12 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
+```text
 My Lord and My God,
 
 My focus is far from you, the one who sets up Kings and puts them down.
@@ -41,3 +44,4 @@ Protect me from the enemy of my soul.
 My life is yours, O God. I love you with all of my heart.
 
 Amen.
+```

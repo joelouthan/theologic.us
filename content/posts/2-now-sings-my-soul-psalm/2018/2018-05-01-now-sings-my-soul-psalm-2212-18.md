@@ -9,26 +9,36 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
-
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
 <div style="font-variant: small-caps;">
   Dear God,
 </div>
 
 ```text
-My enemies are on all sides and their attacks are relentless, you are my protector.
+My enemies are on all sides 
+  and their attacks are relentless, 
+  you are my protector.
 
-When lions clamp down on my guts, you are the teeth-breaker and my healer.
+When lions clamp down on my guts, 
+  you are the teeth-breaker and my healer.
 
-When I am buried, you call me out of the ground.
+When I am buried, 
+  you call me out of the ground.
 
-When I was dead in my sins, you lived, died, and rose alive so that I might live.
+When I was dead in my sins, 
+  you lived, died, and rose alive
+  so that I might live.
 
 You have never left me.
 
-You have always been with me even when I did not know nor loved you.
+You have always been with me 
+  even when I did not know nor loved you.
 
 You have always been there.
 
 And I will forever worship you, my God.
+```

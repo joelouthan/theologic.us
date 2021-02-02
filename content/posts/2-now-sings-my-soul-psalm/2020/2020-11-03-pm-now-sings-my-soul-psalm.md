@@ -40,6 +40,4 @@ Because you alone are
 I will worship you
   forever I will worship
   there is none like you
-
 ```
-

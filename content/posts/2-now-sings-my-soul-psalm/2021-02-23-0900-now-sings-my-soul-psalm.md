@@ -18,7 +18,6 @@ draft: true
 </div>
 
 ```text
-
 ```> Psalm 50 (CSB)
 A psalm of Asaph.
       The Mighty One, God, the LORD, speaks; 

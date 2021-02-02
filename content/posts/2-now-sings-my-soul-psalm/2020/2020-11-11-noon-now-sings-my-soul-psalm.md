@@ -59,6 +59,4 @@ Oh Lord,
 Now, tomorrow and forever more.
 
 I love you, Lord.
-
 ```
-

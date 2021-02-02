@@ -57,6 +57,4 @@ Be exalted
   I will worship you
   forever I will
   you alone are my God.
-
 ```
-

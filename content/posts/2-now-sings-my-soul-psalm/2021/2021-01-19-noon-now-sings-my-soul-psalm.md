@@ -47,7 +47,7 @@ Be my Rock of Ages
   Be my source
   Be the water to my thirst
   nourishment to my hunger
-  satisfaction to my emptyiness
+  satisfaction to my emptiness
   peace to my soul.
 
 I love you Lord

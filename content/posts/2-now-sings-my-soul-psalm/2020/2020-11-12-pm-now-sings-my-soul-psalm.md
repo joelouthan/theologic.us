@@ -71,6 +71,4 @@ And all the angels bear witness,
   and is to come.
 
 Amen.
-
 ```
-

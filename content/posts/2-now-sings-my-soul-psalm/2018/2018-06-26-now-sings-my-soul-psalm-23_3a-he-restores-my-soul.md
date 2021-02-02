@@ -8,44 +8,49 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
+draft: false
 ---
-> <p class="p1">
->   My Lord,
-> </p>
-> 
-> <p class="p1">
->   I perish without you.
-> </p>
-> 
-> <p class="p1">
->   I cannot live without you.
-> </p>
-> 
-> <p class="p1">
->   Apart from you., the hole in my inner being remained infinitely empty. Without you, I strived and pushed and pulled and made idols and did whatever I need to do in order to fill my soul.
-> </p>
-> 
-> <p class="p1">
->   But all of it comes up empty.
-> </p>
-> 
-> <p class="p1">
->   But you, O Lord, not only fills my heart to the brim but gives my soul brand new life. Now, I run after you. Now I walk with you. Now you are with me and I am with you forever.
-> </p>
-> 
-> <p class="p1">
->   Lord, give me the fullness of your Spirit so I might walk in your statues and obey your commands. More than that, that I would have the strength to do you what you have called me to do.
-> </p>
-> 
-> <p class="p1">
->   For my joy and your glory.
-> </p>
-> 
-> <p class="p1">
->   Forevermore.
-> </p>
-> 
-> <p class="p1">
->   I love you.
-> </p>
+<div style='font-variant: small-caps;'>
+My Lord,
+</div>
+
+```text
+I perish without you.
+
+I cannot live without you.
+
+Apart from you, the hole in my inner being remained infinitely empty.
+
+Without you, I strived
+  and pushed
+  and pulled
+  and made idols
+  and did whatever I need to do in order to fill my soul.
+
+But all of it comes up empty.
+
+But you, O Lord, not only fills my heart to the brim but gives my soul b
+  and new life.
+
+Now, I run after you.
+
+Now I walk with you.
+
+Now you are with me
+  and I am with you forever.
+
+Lord, give me the fullness of your Spirit so I might walk in your statues
+  and obey your commands.
+
+More than that, that I would have the strength to do you what you have called me to do.
+
+For my joy
+  and your glory.
+
+Forevermore.
+
+I love you.
+```

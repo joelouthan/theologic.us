@@ -18,8 +18,7 @@ My Only Gift of Righteousness
 </div>
 
 ```text
-
-```All of my days
+All of my days
   were filled with evil
   treason
   unholiness

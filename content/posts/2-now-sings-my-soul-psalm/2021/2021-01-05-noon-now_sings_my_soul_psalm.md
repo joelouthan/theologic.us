@@ -18,8 +18,7 @@ My Only Steadfast Love
 </div>
 
 ```text
-
-```I love you, Lord
+I love you, Lord
   but only for a little while.
 I have known you for most of my life
   but loved you just a little.
