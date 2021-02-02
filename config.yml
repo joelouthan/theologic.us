@@ -5,7 +5,7 @@ theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: true
+buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-V3GC3P3REE
