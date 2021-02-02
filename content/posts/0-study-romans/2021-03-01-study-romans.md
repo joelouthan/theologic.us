@@ -16,7 +16,7 @@ draft: false
 ---
 ## The Text
 
-> **Paul, a servant of Christ Jesus, called as an apostle, and set apart for the gospel of God— which he promised beforehand  through his prophets in the Holy Scriptures— concerning his Son, Jesus Christ our Lord, who was a descendant of David, according to the flesh  and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.  Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,  including you who are also called by Jesus Christ.**
+**Paul, a servant of Christ Jesus, called as an apostle, and set apart for the gospel of God— which he promised beforehand  through his prophets in the Holy Scriptures— concerning his Son, Jesus Christ our Lord, who was a descendant of David, according to the flesh  and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.  Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,  including you who are also called by Jesus Christ.**
 
 **To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ.**
 

@@ -18,7 +18,7 @@ draft: false
 ## The Text
 
 > Romans 3:9–26 (CSB) What then? Are we any better off? Not at all! For we have already charged that both Jews and Greeks are all under sin, as it is written:
-
+>
 > There is no one righteous, not even one.  
 > There is no one who understands;  
 > there is no one who seeks God.  
@@ -34,9 +34,9 @@ draft: false
 > ruin and wretchedness are in their paths,  
 > and the path of peace they have not known.  
 > There is no fear of God before their eyes.  
-
+>
 > Now we know that whatever the law says, it speaks to those who are subject to the law, so that every mouth may be shut and the whole world may become subject to God’s judgment. For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law.
-
+>
 > But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets. The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction. For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
 
 ## The Support
