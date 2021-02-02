@@ -18,7 +18,6 @@ My Only Peace
 </div>
 
 ```text
-
 You alone
   are my righteousness
   and my exalted Lord
