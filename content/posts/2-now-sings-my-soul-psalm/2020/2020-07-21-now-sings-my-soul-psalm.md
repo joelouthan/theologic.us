@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Steadfast Lover</div>
-&nbsp;
+
+```text
 Who is like you, my Lord,
 	clothed in majesty
 	and who alone is good.
@@ -40,4 +40,5 @@ Be exalted.
 My Lord, be exalted.
 
 Amen.
-</pre>
+
+```

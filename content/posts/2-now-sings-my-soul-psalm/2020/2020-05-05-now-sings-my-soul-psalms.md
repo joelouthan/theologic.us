@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My God,</div>
-&nbsp;
+
+```text
 I sit in awe
 	of your wonderous works
 	but more of your love for me
@@ -48,4 +48,5 @@ Whatever pain, betrayals,
 Save my soul, O Lord,
 	and let me see your glory.
 
-Amen.</pre>
+Amen.
+```

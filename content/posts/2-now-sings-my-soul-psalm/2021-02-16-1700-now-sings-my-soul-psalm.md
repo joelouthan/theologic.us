@@ -1,5 +1,5 @@
 ---
-title: "Now Sings My Soul: Psalm "
+title: "Now Sings My Soul: Psalm 47"
 author: Joseph Louthan
 publishDate: 2021-02-16T17:00:00-06:00
 url: /now-sings-my-soul-psalm/2021-02-16-1700-now-sings-my-soul-psalm/
@@ -11,35 +11,52 @@ series:
 - 'Now Sings My Soul: Psalms'
 showtoc: false
 css: "prayer"
-draft: true
+draft: false
 ---
 <div style="font-variant: small-caps;">
-
+My Only Worthy of Praise
 </div>
 
 ```text
+I will sing
+  of all of your done
+  of your salvation of my soul
+  of your goodness to me
+  of your provision when I have nothing
+  of your presence when I was alone.
 
-```> Psalm 47 (CSB)
+I will proclaim
+  that you alone are good
+  that you alone are righteous
+  that you alone are worthy
+  that you alone are holy
+  holy
+  holy.
 
-For the choir director. A psalm of the sons of Korah.
-      Clap your hands, all you peoples; 
-      shout to God with a jubilant cry. 
-      For the LORD, the Most High, is awe-inspiring, 
-      a great King over the whole earth. 
-      He subdues peoples under us 
-      and nations under our feet. 
-      He chooses for us our inheritance—
-      the pride of Jacob, whom he loves. 
-                                      Selah
-      God ascends among shouts of joy, 
-      the LORD, with the sound of a ram’s horn. 
-      Sing praise to God, sing praise; 
-      sing praise to our King, sing praise! 
-      Sing a song of wisdom, 
-      for God is King of the whole earth.
-      God reigns over the nations; 
-      God is seated on his holy throne. 
-      The nobles of the peoples have assembled 
-      with the people of the God of Abraham. 
-      For the leaders of the earth belong to God; 
-      he is greatly exalted.
+I will preach
+  that Christ came to save sinners
+  of whom I am the foremost
+  that Christ came to save His people
+  from their sins
+  that Christ is gentle and lowly
+  and will take our sins
+  of Christ alone
+  and him crucified.
+
+I will confess
+  with a changed heart
+  and a renewed mind
+  and with your Spirit within me
+  and your Son who died for me
+  of all of my sins
+  that you are God alone
+  there is none like you.
+
+I will live
+  unto you alone
+  because you are my precious God
+  and my Lord
+  forevermore.
+
+Amen.
+```

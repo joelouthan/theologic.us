@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Infinite holder of my infinite space
 </div>
-&nbsp;
+
+```text
 I have sought all of my life
   to prey on the weak
   to consume to my stomach's content
@@ -52,4 +52,6 @@ Feed my body
   be my forever salvation.
 
 In you, will I trust.
-</pre>
+
+```
+

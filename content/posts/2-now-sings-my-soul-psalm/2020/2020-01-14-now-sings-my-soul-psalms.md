@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">O Lord</div>
-&nbsp;
+
+```text
 
 My enemies have been numerous,
 	and they attack me relentless.
@@ -33,4 +33,5 @@ You are the sweet love of my life forever.
 
 Amen.
 
-</pre>
+
+```

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">The Strength of My Heart</div>
-&nbsp;
+
+```text
 My Lord,
 	if it be your will
 	and under your grace alone,
@@ -41,4 +41,5 @@ You are my Savior
 	and the love of my life
 	forever.
 Amen.
-</pre>
+
+```

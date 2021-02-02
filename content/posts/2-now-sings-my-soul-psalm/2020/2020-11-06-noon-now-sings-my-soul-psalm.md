@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Sovereign</div>
-&nbsp;
+
+```text
 We have made the grandest plans
   devised the biggest schemes
   and planned our legacy
@@ -49,4 +49,6 @@ You rule and reign
   and the spiritual
 
 No one is like you.
-</pre>
+
+```
+

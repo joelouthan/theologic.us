@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 God of my little belief
 </div>
-&nbsp;
+
+```text
 Oh how many times, O Lord,
   have I whispered nothings
   gave half-hearted thanks
@@ -60,4 +60,6 @@ You rescued me
 
 Be exalted, O Lord.
 Be exalted higher and higher.
-</pre>
+
+```
+

@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 O Lord,
 </div>
-&nbsp;
+
+```text
 Tender mercies,
 	you have given me
 	every single day that I life.
@@ -52,4 +52,5 @@ I love you, Lord.
 	and I lift my voice
 	to worship you.
 	Forevermore.
-</pre>
+
+```

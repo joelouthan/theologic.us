@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Lord</div>
-&nbsp;
+
+```text
 I will worship you
 	with all of my days.
 
@@ -27,4 +27,5 @@ You called me to wait,
 
 Be blessed, O my Lord.
 
-  </pre>
+  
+```

@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My God
 </div>
-&nbsp;
+
+```text
 I know that all of mankind
   will wonder into ungodliness 
   will stray into wickedness
@@ -56,4 +56,5 @@ My Lord,
 You are worthy to be praised. Forever.
 
 Amen. 
-</pre>
+
+```

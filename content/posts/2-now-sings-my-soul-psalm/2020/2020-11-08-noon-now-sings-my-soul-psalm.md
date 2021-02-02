@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Blessed is He
 </div>
-&nbsp;
+
+```text
 With my lips
   I will speak blessings
   to my God
@@ -57,4 +57,6 @@ Be exalted
   I will worship you
   forever I will
   you alone are my God.
-</pre>
+
+```
+

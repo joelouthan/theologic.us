@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My All-Good
 </div>
-&nbsp;
+
+```text
 My lips have spoken evil
   because my heart was filled with wickedness.
 
@@ -59,4 +59,6 @@ Oh Lord,
 Now, tomorrow and forever more.
 
 I love you, Lord.
-</pre>
+
+```
+

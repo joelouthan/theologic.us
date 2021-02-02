@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Beholder of my righteousness</div>
-&nbsp;
+
+```text
 You are my Lord,
 	the defender of my heart
 	the rescuer of my joy
@@ -42,4 +42,5 @@ You are the one who set His affections upon me
 
 Be thou my righteousness forever.
 	It is only you that I trust.
-</pre>
+
+```

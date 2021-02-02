@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Fairest of ten-thousands
 </div>
-&nbsp;
+
+```text
 My God.
   Keep me close to you.
   Let me see your face.
@@ -53,4 +53,6 @@ Never alone for you are with me forever.
 Bring me home.
  Let me see your face.
  But if it isn’t now then I will do your will.
-</pre>
+
+```
+

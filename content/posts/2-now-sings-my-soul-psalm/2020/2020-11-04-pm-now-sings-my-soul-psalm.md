@@ -15,11 +15,11 @@ draft: false
 ---
 Psalms 33:5 (ESV) He loves righteousness and justice;
 the earth is full of the steadfast love of the LORD.
-<pre>
 <div style="font-variant: small-caps;">
 My Eternal Righteousness
 </div>
-&nbsp;
+
+```text
 I have spent a lifetime
   ignoring this precious truth
   that you loved the world so much
@@ -60,4 +60,5 @@ Lord,
   all the days of my life
 
 Amen
-</pre>
+
+```

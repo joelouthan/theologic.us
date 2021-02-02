@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Essence of Faith
 </div>
-&nbsp;
+
+```text
 For all of my life
   I have pretended to be in fear of nothing
 
@@ -68,4 +68,6 @@ Save me Lord.
  and to you and in you and by you forever.
 
 Amen.
-</pre>
+
+```
+

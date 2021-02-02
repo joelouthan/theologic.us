@@ -14,7 +14,8 @@ series:
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
-&nbsp;
+
+```text
 
 You are my All-in-all.
 

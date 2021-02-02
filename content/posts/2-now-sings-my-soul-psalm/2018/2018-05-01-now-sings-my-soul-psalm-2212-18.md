@@ -15,7 +15,8 @@ series:
 <div style="font-variant: small-caps;">
   Dear God,
 </div>
-&nbsp;
+
+```text
 My enemies are on all sides and their attacks are relentless, you are my protector.
 
 When lions clamp down on my guts, you are the teeth-breaker and my healer.

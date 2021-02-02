@@ -14,7 +14,8 @@ series:
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
-&nbsp;
+
+```text
 
 My legacy has already passed through my lips. I have nothing but strongest bitterness and the most potent venom to come out of my mouth.
 I have lied. I have manipulated. I have cheated.

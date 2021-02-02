@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 The Lyrics of the Sweetest Songs
 </div>
-&nbsp;
+
+```text
 With my voice
   with every breath
   I will shout out
@@ -40,4 +40,6 @@ Because you alone are
 I will worship you
   forever I will worship
   there is none like you
-</pre>
+
+```
+

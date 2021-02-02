@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">O LORD my God,</div>
-&nbsp;
+
+```text
 I sing praises to your name,
 	for you are worthy
 	and worthy to be praised.
@@ -53,4 +53,5 @@ For all of my treacherous sins,
 	and then rose to glory
 	All because you are glorious.
 
-There is none like you.</pre>
+There is none like you.
+```

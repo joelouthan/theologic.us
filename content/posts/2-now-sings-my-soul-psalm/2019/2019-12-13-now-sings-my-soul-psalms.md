@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Steadfast Lover</div>
-&nbsp;
+
+```text
 My enemies have long shamed me
   and I have been beaten to death.
   I have decided, "My Lord is not for me,
@@ -47,4 +47,5 @@ Do not stop rescuing me.
   Keep me in your presence.
   And draw my heart towards you.
 
-</pre>
+
+```

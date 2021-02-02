@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 To the Rock of Ages
 </div>
-&nbsp;
+
+```text
 The world
   and the Prince of the Air
   and his demons
@@ -47,4 +47,6 @@ But when the waves were about to swallow me whole
 
 You alone are my strength and shield
   I will worship and rest in you.
-</pre>
+
+```
+

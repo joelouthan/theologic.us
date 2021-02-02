@@ -11,7 +11,9 @@ tags:
 series:
   - 'Now Sings My Soul: Psalms'
 ---
-</pre>
+
+```
+
 You are my Good Shepherd.
 You fled the ninety-nine
     in order to come rescue me,
@@ -33,4 +35,5 @@ Lord, keep me in your care,
 	to and fro by every wind of doctrine
 	but stay the course because
 	you are their strength and resolve.
-I praise your holy name ever.</pre>
+I praise your holy name ever.
+```

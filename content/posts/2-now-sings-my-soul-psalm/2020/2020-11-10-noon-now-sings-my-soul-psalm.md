@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 All of my desires and affections
 </div>
-&nbsp;
+
+```text
 What did your Son say?
   Eat of my flesh
   Drink of my blood
@@ -47,4 +47,6 @@ I am so weak
   My God, adopt me as your own.
 
 Be glorified. Today.
-</pre>
+
+```
+

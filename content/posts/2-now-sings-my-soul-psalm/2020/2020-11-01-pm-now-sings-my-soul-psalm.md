@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">The Cover of my Iniquity</div>
-&nbsp;
+
+```text
 How long, O Lord,
    when I have not confess to you
    when I have spoken of my evil
@@ -53,4 +53,5 @@ And give me your Son
    forever.
  
 Amen.
-</pre>
+
+```

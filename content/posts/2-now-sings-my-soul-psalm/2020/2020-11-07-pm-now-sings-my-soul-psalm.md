@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Only Rescuer
 </div>
-&nbsp;
+
+```text
 In my darkest moments,
   greatest fears
   deepest pains
@@ -64,4 +64,6 @@ Please keep me closer
   I just want to be with you
 
 I love you Lord.
-</pre>
+
+```
+

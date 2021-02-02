@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Precious Redeemer</div>
-&nbsp;
+
+```text
 I am going to worship you,
 	all of my days
 	for all of my life
@@ -32,4 +32,5 @@ I have failed
 Let my life and love and my words glorify you
 	al of my days.
 
-</pre>
+
+```

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Dearest God</div>
-&nbsp;
+
+```text
 You were mindful of me,
 	before the foundations of the world
 	were formed by you.
@@ -90,4 +90,6 @@ Because my God,
 	Forever.
 
 Amen.
-</pre>
+
+```
+

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Blessed Lord</div>
-&nbsp;
+
+```text
 
 How many times, my God,
 	must you rescue me?
@@ -39,4 +39,5 @@ I am in desperate need of your hand
 	and violence.
 Be my blessed Rock
 	forever. Amen.
-</pre>
+
+```

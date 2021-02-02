@@ -16,7 +16,8 @@ series:
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
-&nbsp;
+
+```text
 
 You have not forgotten me.
 You have not hidden your lovely face from me.

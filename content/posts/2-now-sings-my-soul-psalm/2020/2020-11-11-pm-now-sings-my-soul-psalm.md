@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Life and Heart
 </div>
-&nbsp;
+
+```text
 Why would you spare me?
 
 I have seen the evil that men have done
@@ -59,4 +59,6 @@ Now, only because of You
   and sin no more.
 
 Praise be to your loveliest name.
-</pre>
+
+```
+

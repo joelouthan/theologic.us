@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My God and Lord, </div>
-&nbsp;
+
+```text
 What blessings have you bestowed upon me,
 	my unshakable foundation,
 	my Solid Rock,
@@ -42,4 +42,5 @@ Blessed be your holy name forever.
 
 Amen.
 
-</pre>
+
+```

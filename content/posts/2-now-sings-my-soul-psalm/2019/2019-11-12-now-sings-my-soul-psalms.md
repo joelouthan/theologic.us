@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Blessed Redeemer,</div>
-&nbsp;
+
+```text
 Your Word stands true.
 
 For you have declared that,
@@ -56,4 +56,6 @@ If you say your Spirit has sealed me,
 	then I am yours forever.
 Be exalted in my praise,
 	my Lord and God.
-</pre>
+
+```
+

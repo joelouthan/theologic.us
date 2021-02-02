@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
-<div style="font-variant: small-caps;">My Only Redeemer</div>
-&nbsp;
+<div style="font-variant: small-caps;">My Only Incomparable</div>
+
+```text
 Who is like you, God?
 
 And who would compare to you?
@@ -59,4 +59,5 @@ One blessed day,
 	blessed
 	forevermore.
 
-</pre>
+
+```

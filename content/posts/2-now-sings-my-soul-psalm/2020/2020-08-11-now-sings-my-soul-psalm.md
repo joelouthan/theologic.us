@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Only Redeemer</div>
-&nbsp;
+
+```text
 I am filled with iniquity,
    Lord, look at my sins?
    How can you not count
@@ -63,4 +63,5 @@ Christ saved me in
 Blessed be your name forever.
 
 Amen.
-</pre>
+
+```

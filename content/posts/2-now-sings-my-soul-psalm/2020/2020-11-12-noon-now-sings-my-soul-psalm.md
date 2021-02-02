@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Only Shield of Salvation
 </div>
-&nbsp;
+
+```text
 I remembered
   being attacked
   all of my days
@@ -74,4 +74,6 @@ Sin has not conquered me
   forever.
 
 I love you, Lord.
-</pre>
+
+```
+

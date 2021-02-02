@@ -13,7 +13,8 @@ series:
 <div style="font-variant: small-caps;">
   Dear Lord,
 </div>
-&nbsp;
+
+```text
 
 I will not and cannot list what I _think_ you have not done for me. That is preposterous! What you have done for me, in me, and through me is too great to even list. But I thank you so much. I thank you for you are absolutely good, absolutely merciful, absolutely gracious, and absolutely love. These I know of you and know you well.
 

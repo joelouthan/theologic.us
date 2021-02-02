@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 The Absolute of All His Promises,
 </div>
-&nbsp;
+
+```text
 I remember when you fulfilled your word
   in the gospel to Adam and Eve
   in the promise to Noah and his family
@@ -68,4 +68,6 @@ I am my Beloved
 and he is mine forever.
 
 Amen.
-</pre>
+
+```
+

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Keeper of my heart</div>
-&nbsp;
+
+```text
 I have spent all of my days
   wandering from your presence
   searching for new idols
@@ -44,4 +44,5 @@ But I love you Lord
  bless your holy name
  Forever.
 Amen. 
-</pre>
+
+```

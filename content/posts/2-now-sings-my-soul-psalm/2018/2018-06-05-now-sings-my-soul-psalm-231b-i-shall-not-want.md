@@ -11,7 +11,9 @@ tags:
 series:
   - 'Now Sings My Soul: Psalms'
 ---
-</pre>My Lord Above,
+
+```
+My Lord Above,
 I thank you for your perfect provision.
 You are my Good Father in heaven
     and because I am your child,
@@ -50,4 +52,5 @@ I will praise you
     with every single breath you give me.
 And I will love you
     with all the love you have given me.
-</pre>
+
+```

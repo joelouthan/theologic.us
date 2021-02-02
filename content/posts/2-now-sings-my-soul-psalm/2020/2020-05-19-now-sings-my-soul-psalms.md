@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My God</div>
-&nbsp;
+
+```text
 My days here are just for a moment,
 	and you have number them all.
 	My life remains in your hands,
@@ -50,4 +50,5 @@ And now from his fullness,
 	today.
 Amen.
 
-</pre>
+
+```

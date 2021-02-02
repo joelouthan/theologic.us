@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Judge and Mercy Alone</div>
-&nbsp;
+
+```text
 Every sin against me
    does not counter
    any of my sins.
@@ -78,4 +78,5 @@ But you sent your Son
 You are my God forever.
 
 Forever I will love you.
-</pre>
+
+```

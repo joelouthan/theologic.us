@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Creator and Redeemer
 </div>
-&nbsp;
+
+```text
 You are majestic
   and altogether mighty.
 
@@ -51,4 +51,6 @@ Yet, in your great love,
   with pleasures forevermore.
 
 Amen.
-</pre>
+
+```
+

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Savior of My Life</div>
-&nbsp;
+
+```text
 How many times,
 	my Lord,
 	was I left for dead?
@@ -59,4 +59,5 @@ Keep me,
 Be my portion and love,
 	forever.
 Amen.
-</pre>
+
+```

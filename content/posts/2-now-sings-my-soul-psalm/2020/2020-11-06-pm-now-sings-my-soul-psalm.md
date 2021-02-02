@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Preacher of the Lost Souls
 </div>
-&nbsp;
+
+```text
 What does your word say?
   Your word goes out
   and does it sets to accomplishes
@@ -46,4 +46,5 @@ And this is perfectly true
 
 Be exalted, O God,
   higher and higher.
-</pre>
+
+```

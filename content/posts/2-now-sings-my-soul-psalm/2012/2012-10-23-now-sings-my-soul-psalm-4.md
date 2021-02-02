@@ -13,7 +13,8 @@ series:
 <div style="font-variant: small-caps;">
   Dear God,
 </div>
-&nbsp;
+
+```text
 
 Help!
 

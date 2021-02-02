@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My everything 
 </div>
-&nbsp;
+
+```text
 I lack.
   I am weak.
   I have nothing.
@@ -61,4 +61,6 @@ Keep me close to you.
   to keep me with you.
 
 Amen.
-</pre>
+
+```
+

@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Awe and Wonder
 </div>
-&nbsp;
+
+```text
 We know that 
 sins crouched for us.
 
@@ -64,4 +64,6 @@ And with you in me
   I will bless your holy name forever.
 
 Amen.
-</pre>
+
+```
+

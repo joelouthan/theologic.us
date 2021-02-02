@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Spirit of Christ
 </div>
-&nbsp;
+
+```text
 Without you,
   I am completely ignorant of you.
 
@@ -68,4 +68,6 @@ Mark us
   unto the Father.
 
 Praise your holy name.
-</pre>
+
+```
+

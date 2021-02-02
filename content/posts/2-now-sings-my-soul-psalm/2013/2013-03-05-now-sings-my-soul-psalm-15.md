@@ -16,7 +16,8 @@ series:
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
-&nbsp;
+
+```text
 
 How could I possibly worship you? I am not worthy to commune with you and be with you. I sin even now. My heart strays. My soul wanders.
 

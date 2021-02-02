@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Lord and God,</div>
-&nbsp;
+
+```text
 Your Son has shed his blood for me,
 	so that I now believe.
 
@@ -37,4 +37,6 @@ Come make your home in me,
 
 Make your home within me,
 	so that I might not sin against thee.
-</pre>
+
+```
+

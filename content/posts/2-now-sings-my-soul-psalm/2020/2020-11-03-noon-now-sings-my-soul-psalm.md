@@ -15,11 +15,11 @@ draft: false
 ---
 Psalms 32:11 (ESV) Be glad in the LORD, and rejoice, O righteous,
 and shout for joy, all you upright in heart!
-<pre>
 <div style="font-variant: small-caps;">
 My Joy and Righteousness
 </div>
-&nbsp;
+
+```text
 When I was
   a beast before you
   a worm beneath the dirt
@@ -73,4 +73,5 @@ Be my everything.
 
 For I am yours
   and you are mine.
-</pre>
+
+```

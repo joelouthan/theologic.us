@@ -15,7 +15,8 @@ series:
 <div style="font-variant: small-caps;">
   O Lord,
 </div>
-&nbsp;
+
+```text
 
 My sin wakes me up from my slumber.
 At my weakest, my iniquities flood my mind. My mind is not sharp. My soul is asleep. In the pitch blackness of the night, I cannot see.

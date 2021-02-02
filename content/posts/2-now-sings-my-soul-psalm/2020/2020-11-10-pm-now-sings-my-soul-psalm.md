@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 The Absolute Longings of my Heart
 </div>
-&nbsp;
+
+```text
 My God
   I have suffered so much due
   to all the sin I’ve committed
@@ -57,4 +57,6 @@ Tell me I am yours forever
   and free in you
 
 Praise your holy name forever
-</pre>
+
+```
+

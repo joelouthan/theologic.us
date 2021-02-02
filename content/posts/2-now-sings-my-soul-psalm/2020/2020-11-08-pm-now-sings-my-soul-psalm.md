@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Deliverer from Death
 </div>
-&nbsp;
+
+```text
 People of God,
   inhabitants of the world
   dwellers in the city
@@ -81,4 +81,6 @@ Your circumstances might not change
 
 Worship God!
   He alone is worthy.
-</pre>
+
+```
+

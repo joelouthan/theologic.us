@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Great God,
 </div>
-&nbsp;
+
+```text
 
 I am reminded what Christ declared:
 You alone are good.
@@ -45,4 +45,5 @@ I praise you
     and we do not.
 
 Amen
-</pre>
+
+```

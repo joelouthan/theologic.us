@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Blessed Redeemer,</div>
-&nbsp;
+
+```text
 Who is like you,
     splendid in majesty
     high and exalted
@@ -50,4 +50,6 @@ Forever I will sing
     you are my strength
 
 And I will sing.
-</pre>
+
+```
+

@@ -13,10 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">O Lord</div>
-&nbsp;
 
+```text
 Every single adult who were suppose to love me and care for me
 	did not.
 
@@ -40,5 +39,4 @@ My God, save me.
 	to be with you forever.
 
 Amen.
-
-</pre>
+```

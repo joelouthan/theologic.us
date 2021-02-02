@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 The Sovereign Power over my life
 </div>
-&nbsp;
+
+```text
 My God,
   if I was raped
   tortured
@@ -88,4 +88,6 @@ But why?
   according to the hope of eternal life.
 
 Praise your lovely name on high.
-</pre>
+
+```
+

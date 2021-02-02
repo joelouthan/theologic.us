@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Reigning King</div>
-&nbsp;
+
+```text
 We read in your word
   where you have called a tiny nation
   unto you
@@ -54,4 +54,5 @@ For one day,
 Oh, King of kings
 Oh my Lord of Lords
 Blessed be your glorious name.
-</pre>
+
+```

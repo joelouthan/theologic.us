@@ -14,9 +14,10 @@ css: "prayer"
 draft: false
 ---
 <div style="font-variant: small-caps;">
-My Only Savior
+My Only Love
 </div>
-&nbsp;
+
+```text
 
 My life
   I have only experienced

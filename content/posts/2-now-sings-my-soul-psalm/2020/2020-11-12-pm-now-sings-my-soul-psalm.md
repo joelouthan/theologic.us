@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Conquering God
 </div>
-&nbsp;
+
+```text
 You descended to the cross
   with great joy.
 
@@ -71,4 +71,6 @@ And all the angels bear witness,
   and is to come.
 
 Amen.
-</pre>
+
+```
+

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Lover of my soul</div>
-&nbsp;
+
+```text
 I cry and grieve for those 
   who do not know you. 
   I pray that their hearts
@@ -41,4 +41,5 @@ You rescued me
   by the power of your Spirit.
 I will love you
   for all of my days. 
-</pre>
+
+```

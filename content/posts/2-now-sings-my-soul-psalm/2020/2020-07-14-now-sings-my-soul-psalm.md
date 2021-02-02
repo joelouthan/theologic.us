@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">The All Good</div>
-&nbsp;
+
+```text
 My Lord,
 	my life bears witness
 	that you alone protect me
@@ -49,4 +49,5 @@ Have mercy on me,
 	so I can stare into your eyes
 	for all of eternity.
 Amen.
-</pre>
+
+```

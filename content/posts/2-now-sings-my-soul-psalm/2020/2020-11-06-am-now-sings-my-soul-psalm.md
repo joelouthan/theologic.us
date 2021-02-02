@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">Lover of my soul</div>
-&nbsp;
+
+```text
 You are the only being
   when you speak
   things actually happen
@@ -49,4 +49,5 @@ You have spoken my name
   and perfect.
 
 Be glorified today.
-</pre>
+
+```

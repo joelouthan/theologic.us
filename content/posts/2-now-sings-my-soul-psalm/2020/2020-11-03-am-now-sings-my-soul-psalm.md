@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Man of sorrows
 </div>
-&nbsp;
+
+```text
 I have spent much of my life
   not turning to you
   not loving you
@@ -59,4 +59,6 @@ I see you
 I love you Lord
 and I will worship you
 my Redeemer.
-</pre>
+
+```
+

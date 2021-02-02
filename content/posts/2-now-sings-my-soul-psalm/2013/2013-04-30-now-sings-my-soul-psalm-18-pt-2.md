@@ -14,7 +14,8 @@ series:
 <div style="font-variant: small-caps;">
   My Lord,
 </div>
-&nbsp;
+
+```text
 
 My hands are not clean. My hands are washed in my own sin. They stink of feces and dung. If you judge me according to what I have done, then surely I am damned!
 

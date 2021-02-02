@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 Only One Worthy of all my praises
 </div>
-&nbsp;
+
+```text
 Who was the only one
   who created the heavens
   from a thought
@@ -67,4 +67,5 @@ You alone are God.
 You alone are good forever.
 
 Amen.
-</pre>
+
+```

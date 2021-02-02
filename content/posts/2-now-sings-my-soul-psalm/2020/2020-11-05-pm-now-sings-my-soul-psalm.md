@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Fear and my Joy
 </div>
-&nbsp;
+
+```text
 I sit
   and make no excuses
   for my sin blinds me
@@ -62,4 +62,6 @@ But you reached down
   and I am yours forever.'
 
 Praise your sweet name.
-</pre>
+
+```
+

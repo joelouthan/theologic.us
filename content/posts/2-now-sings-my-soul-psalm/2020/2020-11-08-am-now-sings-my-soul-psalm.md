@@ -13,11 +13,11 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">
 My Holy Shield
 </div>
-&nbsp;
+
+```text
 Is there some sort of target on me?
 
 Why has the enemy been so focused on my life?
@@ -62,4 +62,5 @@ Protect me from death
   safe and sound with you.
 
 You are my Rock and Redeemer.
-</pre>
+
+```

@@ -13,9 +13,9 @@ showtoc: false
 css: "prayer"
 draft: false
 ---
-<pre>
 <div style="font-variant: small-caps;">My Ascended God</div>
-&nbsp;
+
+```text
 All of Creation is yours.
   It belongs to you,
   And you rule overall.
@@ -42,4 +42,6 @@ Who are you, my Lord?
 
 Amen.
 
-</pre>
+
+```
+
