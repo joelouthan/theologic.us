@@ -5,7 +5,7 @@ theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
 googleAnalytics: G-V3GC3P3REE
@@ -16,7 +16,6 @@ minify:
 
 params:
     ShowPostNavLinks: true
-    code_nocode_css: ["css/code_nocode.css"]
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Theologicus
