@@ -24,9 +24,9 @@ Yet, you, O God, are not far from me. When I am in the wilderness, you are close
 
 Worthiness is not a feeling. Worthiness is an absolute truth.
 
-You have justified me because I trust your Son.  
-You have given me your Son’s righteousness because He received my sin.  
-You have declared me to be holy because You alone are holy.  
+You have justified me because I trust your Son.
+You have given me your Son’s righteousness because He received my sin.
+You have declared me to be holy because You alone are holy.
 You have marked me as worthy because of the infinite worth of your Son.
 
 I am my Beloved’s and He is mine. Forevermore.

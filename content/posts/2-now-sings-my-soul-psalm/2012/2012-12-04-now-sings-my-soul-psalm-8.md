@@ -16,9 +16,9 @@ series:
 </div>
 &nbsp;
 
-Your name is known throughout all the earth.  
-Your fame knows no bounds.  
-Your glory will not be given to another.  
+Your name is known throughout all the earth.
+Your fame knows no bounds.
+Your glory will not be given to another.
 Your love is simply unmatched.
 
 And who you are and what you do is not determined and defined by the world around me. You are defined by your thoughts, your mind, your heart, and upon your revelation alone. I ask not for you to reveal more than what you have already reveal for my mind and soul and heart can barely comprehend your fullness now.

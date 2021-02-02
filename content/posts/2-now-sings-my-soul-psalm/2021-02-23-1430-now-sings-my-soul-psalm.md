@@ -6,17 +6,19 @@ url: /now-sings-my-soul-psalm/2021-02-23-1430-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    |<---start-here
-> Psalm 52 (CSB)
-For the choir director. A Maskil of David. When Doeg the Edomite went and reported to Saul, telling him, “David went to Ahimelech’s house.” 
 
+```text> Psalm 52 (CSB)
+For the choir director. A Maskil of David. When Doeg the Edomite went and reported to Saul, telling him, “David went to Ahimelech’s house.”
       Why boast about evil, you hero! 
       God’s faithful love is constant. 
       Like a sharpened razor, 
@@ -36,8 +38,7 @@ For the choir director. A Maskil of David. When Doeg the Edomite went and report
       “Here is the man 
       who would not make God his refuge, 
       but trusted in the abundance of his riches, 
-      taking refuge in his destructive behavior.” 
-
+      taking refuge in his destructive behavior.”
       But I am like a flourishing olive tree 
       in the house of God; 
       I trust in God’s faithful love forever and ever. 

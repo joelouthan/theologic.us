@@ -18,10 +18,10 @@ series:
 </div>
 &nbsp;
 
-You have not forgotten me.  
-You have not hidden your lovely face from me.  
-Your comfort and wisdom warm my soul.  
-Your joy and hope fill my heart all the day long.  
+You have not forgotten me.
+You have not hidden your lovely face from me.
+Your comfort and wisdom warm my soul.
+Your joy and hope fill my heart all the day long.
 
 You are mindful of me and when I call out your name, you answer me. You have answered me by saving me. You saved me by giving Yourself to me.
 

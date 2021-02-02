@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -18,7 +19,7 @@ draft: false
 Every sin against me
    does not counter
    any of my sins.
-   
+ 
 Their sins are their sins.
    My sins are my sins.
    And you will judge accordingly.
@@ -28,7 +29,7 @@ But I know of your perfection,
    your majesty
    your holiness
    and your righteousness.
-   
+ 
 If you looked upon me,
    you will see my treason
    my affairs
@@ -36,10 +37,10 @@ If you looked upon me,
    my heart's desires
    my lusts
    my wickedness!
-   
+ 
 And by that,
    you will be left wanting.
-   
+ 
 But it is my sins,
    my treason
    my trespass
@@ -53,7 +54,7 @@ But it is my sins,
    alone upon your mercy
    alone upon your sweet love
    and you saved me.
-   
+ 
 How?
 
 I was meant to die
@@ -73,7 +74,7 @@ But you sent your Son
    through you
    and from you
    alone.
-   
+ 
 You are my God forever.
 
 Forever I will love you.

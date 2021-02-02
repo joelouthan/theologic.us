@@ -21,14 +21,12 @@ Who are you, my Lord, whose glory fills the entire earth? Whether I am in the he
 
 My God, you are never far! You are with me! Always. While I might feel desperate or despair sadness or anger or happiness, you are with me and within me.
 
-You are at work in my soul and heart. Because you are at work, I know that it is you that gives me true life and the fullness thereof. 
-
-For once I was lost, now found.  
-Blind, now I can see.  
-Deaf, now can hear.  
-Mute, now preach your gospel.  
-Ignorant of unbelief, now I know you. 
-
+You are at work in my soul and heart. Because you are at work, I know that it is you that gives me true life and the fullness thereof.
+For once I was lost, now found.
+Blind, now I can see.
+Deaf, now can hear.
+Mute, now preach your gospel.
+Ignorant of unbelief, now I know you.
 Once dead, now fully alive.
 
 You’ve sent your Son to die in my place for my sins so I can be with you. His cross is where my enemies were trampled underfoot and their teeth shattered. It is his empty grave where the bulls’ necks are broken by burying my sin and to stay buried forevermore.

@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -31,7 +32,7 @@ Whatever I have is from you.
   My wonderful children.
   My running cars.
   My vocation.
-  
+
 All of it comes from you alone.
 
 But I have everything.
@@ -39,7 +40,7 @@ But I have everything.
   I am strong.
   I am the richest.
   I am fully alive.
-  
+
 All of because I am in full possession of your Son Jesus Christ.
 
 He is my rock

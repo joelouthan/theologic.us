@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -19,7 +20,7 @@ I am filled with iniquity,
    Lord, look at my sins?
    How can you not count
    my wickedness against me?
-   
+ 
 Are you a god
    that turns his head
    and ignores evil?
@@ -29,7 +30,7 @@ Are you a god
    and destroy everything
    that you alone have created
    and that you have loved?
-   
+ 
 My Lord,
    you did not ignore my sin
    you did not turn the other way
@@ -40,7 +41,7 @@ You thought of me,
    laid your affections upon me
    saw me in my wickedness and deceit
    and you loved me.
-   
+ 
 And then you sent your Son,
    Jesus Christ the Holy One of God
    who is God
@@ -52,13 +53,13 @@ And then you sent your Son,
    upon himself
    and saved me from the outermost
    to himself.
-   
+ 
 Christ saved me in
    Your grace
    Your sovereign
    Your power
    alone.
-   
+ 
 Blessed be your name forever.
 
 Amen.

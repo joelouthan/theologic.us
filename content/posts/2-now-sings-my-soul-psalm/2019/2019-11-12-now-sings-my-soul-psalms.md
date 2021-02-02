@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -17,43 +18,42 @@ draft: false
 &nbsp;
 Your Word stands true.
 
-For you have declared that,  
-	your law is perfect  
+For you have declared that,
+	your law is perfect
 	and it revives my soul.
 
-Your testimony is *sure*,  
-  turning my foolishness  
+Your testimony is *sure*,
+  turning my foolishness
   into wisdom.
 
-Moreover, your precepts are always right,  
+Moreover, your precepts are always right,
 	my heart rejoices.
 
-Your commandments are pure,  
+Your commandments are pure,
 	now my eyes can now see.
 
-To fear you is my righteousness,  
+To fear you is my righteousness,
   I will be with you forever.
 
-Once more, your rules are truth,  
+Once more, your rules are truth,
 	and right-standing altogether.
 
-I desire you, O Lord,  
+I desire you, O Lord,
 	more so than all the riches.
 
-I love you, my God,  
-	and you are sweeter than honey,  
-	and the drippings of  
+I love you, my God,
+	and you are sweeter than honey,
+	and the drippings of
 		a honeycomb.
 
-If you say you have spoken to me,  
+If you say you have spoken to me,
 	then you will abide me forever.
 
-If you say your Son died for me  
+If you say your Son died for me
 	then I will live to you forever.
 
-If you say your Spirit has sealed me,  
+If you say your Spirit has sealed me,
 	then I am yours forever.
- 
-Be exalted in my praise,  
+Be exalted in my praise,
 	my Lord and God.
 </pre>

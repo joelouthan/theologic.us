@@ -6,11 +6,17 @@ url: /now-sings-my-soul-psalm/2021-03-30-1430-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    |<---start-here
+
+```text
+
+```

@@ -6,17 +6,21 @@ url: /now-sings-my-soul-psalm/2021-03-02-1200-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    start-here
-> Psalm 57 (CSB)
-For the choir director: “Do Not Destroy.” A Miktam of David. When he fled before Saul into the cave. 
 
+```text
+
+```> Psalm 57 (CSB)
+For the choir director: “Do Not Destroy.” A Miktam of David. When he fled before Saul into the cave.
       Be gracious to me, God, be gracious to me, 
       for I take refuge in you. 
       I will seek refuge in the shadow of your wings 
@@ -37,8 +41,7 @@ For the choir director: “Do Not Destroy.” A Miktam of David. When he fled be
       I was despondent. 
       They dug a pit ahead of me, 
       but they fell into it! 
-                                      Selah 
-
+                                      Selah
       My heart is confident, God, my heart is confident. 
       I will sing; I will sing praises. 
       Wake up, my soul! 

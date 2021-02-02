@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -22,15 +23,12 @@ I am going to worship you,
 I can declare this in boldness
 	nothing of my own strength
 	and I have no righteousness to speak of.
-	
 Because I have seen the fullness of your grace,
 	and the ongoing gift of kindness
 	the daily portion of mercies every morning
 	and the steadfastness of your love.
-	
 I have failed
 	but you are God.
-	
 Let my life and love and my words glorify you
 	al of my days.
 

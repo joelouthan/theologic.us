@@ -6,17 +6,21 @@ url: /now-sings-my-soul-psalm/2021-02-23-0900-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    start-here
-> Psalm 50 (CSB)
-A psalm of Asaph. 
 
+```text
+
+```> Psalm 50 (CSB)
+A psalm of Asaph.
       The Mighty One, God, the LORD, speaks; 
       he summons the earth 
       from the rising of the sun to its setting. 
@@ -31,8 +35,7 @@ A psalm of Asaph.
       those who made a covenant with me by sacrifice.” 
       The heavens proclaim his righteousness, 
       for God is the Judge. 
-                                      Selah 
-
+                                      Selah
       “Listen, my people, and I will speak; 
       I will testify against you, Israel. 
       I am God, your God. 
@@ -52,8 +55,7 @@ A psalm of Asaph.
       Offer a thanksgiving sacrifice to God, 
       and pay your vows to the Most High. 
       Call on me in a day of trouble; 
-      I will rescue you, and you will honor me.” 
-
+      I will rescue you, and you will honor me.”
       But God says to the wicked: 
       “What right do you have to recite my statutes 
       and to take my covenant on your lips? 
@@ -69,8 +71,7 @@ A psalm of Asaph.
       You have done these things, and I kept silent; 
       you thought I was just like you. 
       But I will rebuke you 
-      and lay out the case before you. 
-
+      and lay out the case before you.
       “Understand this, you who forget God, 
       or I will tear you apart, 
       and there will be no one to rescue you. 

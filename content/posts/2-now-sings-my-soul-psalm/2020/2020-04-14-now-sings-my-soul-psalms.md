@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -30,15 +31,12 @@ But you, O my Lord, rescued me
 	saved me
 	because you loved me
 	from the very beginning.
-	
 I need you, Lord,
 	now more than ever.
-	
 I am in desperate need of your hand
 	to rescue me
 	from despair
 	and violence.
-	
 Be my blessed Rock
 	forever. Amen.
 </pre>

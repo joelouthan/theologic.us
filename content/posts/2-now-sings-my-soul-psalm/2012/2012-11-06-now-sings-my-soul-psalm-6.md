@@ -20,10 +20,10 @@ My deeds have warranted not your affections but your attentions—attention to c
 
 I continuously want death. I continuously want counterfeit. I continuously want less.
 
-You, my Father, don’t want that for me.  
+You, my Father, don’t want that for me.
 You want life for me. You want truth for me. You want the most for me.
 
-I rebel. You correct. I run. You pursue.  
+I rebel. You correct. I run. You pursue.
 I deserve every bit of wrath. Your justice has me in your crosshairs. Surely, I would perish.
 
 But your Son, the Infinite Bridge between God and Mankind, steps in the way and takes in all of your wrath for my sin, once, forevermore.

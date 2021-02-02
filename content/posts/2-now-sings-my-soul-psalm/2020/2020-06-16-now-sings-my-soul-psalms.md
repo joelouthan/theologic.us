@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -19,11 +20,11 @@ I cry and grieve for those
   who do not know you. 
   I pray that their hearts
   would be turned towards you. 
-  
+
 You have rescued me countless times. 
   And all I have ever found
   was your loving grace. 
-  
+
 Lord, you did not abandon me
   Not to hell
   Not to sin
@@ -31,14 +32,13 @@ Lord, you did not abandon me
   Not to Satan
   Not to demons 
   Not to death
-  
+
 You rescued me
   with your compassion. 
   You restored my soul
   for the sake of your Son. 
   You gave me life
-  by the power of your Spirit. 
-
+  by the power of your Spirit.
 I will love you
   for all of my days. 
 </pre>

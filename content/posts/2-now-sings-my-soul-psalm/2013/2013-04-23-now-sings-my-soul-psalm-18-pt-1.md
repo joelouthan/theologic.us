@@ -24,12 +24,12 @@ You give unlimited might for this very weak man.
 
 You put an immovable foundation beneath my weary feet.
 
-You are my home where I can peacefully lay to rest.  
-You are my rescuer and it is in your arms, I know I am coming home.  
-You are my shield and my enemies’ fiery arrows lay to waste around me.  
-You are my command and the flame around my heart burns with desire for you.  
-You are my salvation and it is now that I am abundantly alive.  
-You are peace and you have removed all sin in me and around me.  
+You are my home where I can peacefully lay to rest.
+You are my rescuer and it is in your arms, I know I am coming home.
+You are my shield and my enemies’ fiery arrows lay to waste around me.
+You are my command and the flame around my heart burns with desire for you.
+You are my salvation and it is now that I am abundantly alive.
+You are peace and you have removed all sin in me and around me.
 
 Now, I sing to you—I sing love songs of joy for your sweet name. I sing love songs of peace for your incredible name. I sing long songs of hope for your awesome name.
 

@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -18,20 +19,18 @@ My Awe and Wonder
 </div>
 &nbsp;
 We know that 
-sins crouched for us.  
+sins crouched for us.
 
 We know that the devil
-  sets his snares for our souls. 
-
+  sets his snares for our souls.
 We know that the world
-  beckons our hearts towards death. 
-
+  beckons our hearts towards death.
 But you alone are
   worthy to be praised
 
 You alone are
   holy and holy and holy
-  
+
 You alone are
   righteous
   for there is none like you

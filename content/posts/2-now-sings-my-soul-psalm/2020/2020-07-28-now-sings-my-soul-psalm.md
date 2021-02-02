@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -29,20 +30,15 @@ You are my Love and my Heart,
 	You are more beautiful,
 	and the fairest of 10,000
 	there is none like you.
-	
 You are good,
 	perfectly holy
 	and altogether lovely.
-	
 Be my safe place
 	be my refuge
 	be my vision
 	be my shield.
-	
 You are my Savior
 	and the love of my life
 	forever.
-	
 Amen.
 </pre>
-

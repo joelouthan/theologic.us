@@ -8,86 +8,88 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <div style="font-variant: small-caps;">
 My Only Path
 </div>
-&nbsp;
 
-I search this earth  
-  for something that is good and holy  
-  none I can find  
-  I see semblances  
-  but none fulfilling  
+```text
+I search this earth
+  for something that is good and holy
+  none I can find
+  I see semblances
+  but none fulfilling
+
+But you lead me to your word
+  your word speaks of you
+  I see that you alone are good
+  holy
+  justified
+  merciful
+  gracious
+  loving
+  righteous
+  we are so far from you
+
+I see my own heart
+  I am an infinite distance from your presence.
+
+Who would bridge this gap?
+
+Is it I?
+
+Let me try my best
+  let me abstain from sinlet me not look at porn
+  let me not lust after someone eclipseslet me not steal 
+  let me not lifelet me not swell in predestinedlet me fail not in helping those in need
+  let me do good.
+
+Oh but everything I do is infected with sin
+  I see it because I know it in my heart
   
-But you lead me to your word  
-  your word speaks of you  
-  I see that you alone are good  
-  holy  
-  justified  
-  merciful  
-  gracious  
-  loving  
-  righteous  
-  we are so far from you  
-  
-I see my own heart  
-  I am an infinite distance from your presence.  
-  
-Who would bridge this gap?  
-  
-Is it I?  
-  
-Let me try my best  
-  let me abstain from sinlet me not look at porn  
-  let me not lust after someone eclipseslet me not steal   
-  let me not lifelet me not swell in predestinedlet me fail not in helping those in need  
-  let me do good.  
-  
-Oh but everything I do is infected with sin  
-  I see it because I know it in my heart  
-    
-When I am helpful  
-  I do so in order for people to like me  
-  
-When I am nice  
-  I want people to think I am good  
-  but if they could see my heart  
-  if they could see the thoughts of my mind  
-  they would run continuously  
-  they judge me wanting.  
-  
-But you saw the depths of my soul  
-  even beyond what I can see  
-  in the darkness and despair  
-  you did not shudder   
-  you did not look away  
-  you took pity on this old fool  
-  you gave me your Son  
-  you gave me your Spirit  
-  you gave me your inheritance  
-  your daily mercies  
-  your sweetest grace   
-  your steadfast love  
-  forever.  
-  
-Keep me in palms of your hands  
-  O Lord  
-  I stand on the spoken word of your Son  
-  that no one  
-  not anything  
-  Satan  
-  death  
-  demons  
-  hell  
-  can take me from your hands  
-  I know  
-  you will never let me go.  
-  
-Keep me in your heart  
-  speak into my soul  
-  write your words in my heart  
-  that I may never sin against you.  
+When I am helpful
+  I do so in order for people to like me
+
+When I am nice
+  I want people to think I am good
+  but if they could see my heart
+  if they could see the thoughts of my mind
+  they would run continuously
+  they judge me wanting.
+
+But you saw the depths of my soul
+  even beyond what I can see
+  in the darkness and despair
+  you did not shudder 
+  you did not look away
+  you took pity on this old fool
+  you gave me your Son
+  you gave me your Spirit
+  you gave me your inheritance
+  your daily mercies
+  your sweetest grace 
+  your steadfast love
+  forever.
+
+Keep me in palms of your hands
+  O Lord
+  I stand on the spoken word of your Son
+  that no one
+  not anything
+  Satan
+  death
+  demons
+  hell
+  can take me from your hands
+  I know
+  you will never let me go.
+
+Keep me in your heart
+  speak into my soul
+  write your words in my heart
+  that I may never sin against you.
+```

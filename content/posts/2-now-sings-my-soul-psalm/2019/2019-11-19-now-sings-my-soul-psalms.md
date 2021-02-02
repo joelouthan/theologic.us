@@ -8,32 +8,33 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
 <div style="font-variant: small-caps;">My Lord and God,</div>
 &nbsp;
-Your Son has shed his blood for me,  
+Your Son has shed his blood for me,
 	so that I now believe.
 
-Your Son has given up his life,  
+Your Son has given up his life,
 	so that I might live forever.
 
-You have taken my sin-filled heart,  
-	and my wonton desires,  
-	and replaced them with your own heart,  
+You have taken my sin-filled heart,
+	and my wonton desires,
+	and replaced them with your own heart,
 	and my desire is only for you.
 
-Because you have done it all,  
-	to save me to yourself,  
+Because you have done it all,
+	to save me to yourself,
 	I am yours.
 
-Come make your home in me,  
-	Lord Jesus, come into my heart.  
+Come make your home in me,
+	Lord Jesus, come into my heart.
 	Spirit of God, fill my life.
 
-Make your home within me,  
+Make your home within me,
 	so that I might not sin against thee.
 </pre>

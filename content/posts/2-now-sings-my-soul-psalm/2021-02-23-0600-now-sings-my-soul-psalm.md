@@ -6,17 +6,19 @@ url: /now-sings-my-soul-psalm/2021-02-23-0600-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    |<---start-here
-> Psalm 49 (CSB)
-For the choir director. A psalm of the sons of Korah. 
 
+```text> Psalm 49 (CSB)
+For the choir director. A psalm of the sons of Korah.
       Hear this, all you peoples; 
       listen, all who inhabit the world, 
       both low and high, 
@@ -24,8 +26,7 @@ For the choir director. A psalm of the sons of Korah.
       My mouth speaks wisdom; 
       my heart’s meditation brings understanding. 
       I turn my ear to a proverb; 
-      I explain my riddle with a lyre. 
-
+      I explain my riddle with a lyre.
       Why should I fear in times of trouble? 
       The iniquity of my foes surrounds me. 
       They trust in their wealth 
@@ -35,8 +36,7 @@ For the choir director. A psalm of the sons of Korah.
       since the price of redeeming him is too costly, 
       one should forever stop trying—
       so that he may live forever 
-      and not see the Pit. 
-
+      and not see the Pit.
       For one can see that the wise die; 
       the foolish and stupid also pass away. 
       Then they leave their wealth to others. 
@@ -44,8 +44,7 @@ For the choir director. A psalm of the sons of Korah.
       their dwellings from generation to generation, 
       though they have named estates after themselves. 
       But despite his assets, mankind will not last; 
-      he is like the animals that perish. 
-
+      he is like the animals that perish.
       This is the way of those who are arrogant, 
       and of their followers, 
       who approve of their words. 
@@ -58,8 +57,7 @@ For the choir director. A psalm of the sons of Korah.
       But God will redeem me 
       from the power of Sheol, 
       for he will take me. 
-                                      Selah 
-
+                                      Selah
       Do not be afraid when a person gets rich, 
       when the wealth of his house increases. 
       For when he dies, he will take nothing at all; 

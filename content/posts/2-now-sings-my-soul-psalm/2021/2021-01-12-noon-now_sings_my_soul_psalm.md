@@ -8,15 +8,16 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <div style="font-variant: small-caps;">
 The Only One Worthy of My Trust
 </div>
-&nbsp;
 
+```text
 What is my life, O Lord,
   that I have spent
   most of my years
@@ -52,3 +53,4 @@ Save me from hell and death
   till the end of time.
 
 Amen.
+```

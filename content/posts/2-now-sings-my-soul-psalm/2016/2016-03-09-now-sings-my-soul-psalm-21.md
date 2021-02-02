@@ -13,8 +13,8 @@ series:
 ---
 My Lord and My God,
 
-My focus is far from you, the one who sets up Kings and puts them down.  
-I have been distracted by the choosing of kings rather to place my focus on the King of kings.  
+My focus is far from you, the one who sets up Kings and puts them down.
+I have been distracted by the choosing of kings rather to place my focus on the King of kings.
 
 It is in you, O Lord, where my strength resides
 
@@ -24,8 +24,8 @@ my heart's desire
 
 my soul's fulfillment.
 
-Be my provision. Be my grace. Be my mercy.  
-Be my life. Be my zeal. Be my might.  
+Be my provision. Be my grace. Be my mercy.
+Be my life. Be my zeal. Be my might.
 Be my glory.
 
 Bless me, O Lord.

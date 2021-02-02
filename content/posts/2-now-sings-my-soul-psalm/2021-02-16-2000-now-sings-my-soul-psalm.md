@@ -6,18 +6,21 @@ url: /now-sings-my-soul-psalm/2021-02-16-2000-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    |<---start-here
 
-> Psalm 48 (CSB)
-A song. A psalm of the sons of Korah. 
+```text
 
+```> Psalm 48 (CSB)
+A song. A psalm of the sons of Korah.
       The LORD is great and highly praised 
       in the city of our God. 
       His holy mountain, rising splendidly, 
@@ -25,8 +28,7 @@ A song. A psalm of the sons of Korah.
       Mount Zion—the summit of Zaphon—
       is the city of the great King. 
       God is known as a stronghold 
-      in its citadels. 
-
+      in its citadels.
       Look! The kings assembled; 
       they advanced together. 
       They looked and froze with fear; 
@@ -39,8 +41,7 @@ A song. A psalm of the sons of Korah.
       in the city of the LORD of Armies, 
       in the city of our God; 
       God will establish it forever. 
-                                      Selah 
-
+                                      Selah
       God, within your temple, 
       we contemplate your faithful love. 
       Like your name, God, so your praise 
@@ -48,8 +49,7 @@ A song. A psalm of the sons of Korah.
       your right hand is filled with justice. 
       Mount Zion is glad. 
       Judah’s villages rejoice 
-      because of your judgments. 
-
+      because of your judgments.
       Go around Zion, encircle it; 
       count its towers, 
       note its ramparts; tour its citadels 

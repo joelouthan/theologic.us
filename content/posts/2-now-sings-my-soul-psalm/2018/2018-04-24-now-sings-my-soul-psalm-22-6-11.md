@@ -20,8 +20,7 @@ Who am I that I have been rejected a million times and despised a million times 
 
 You say, “Speak of my love” and it falls on deaf ears. You say, “Speak of my power” and it means little to the strong. You say, “Speak of my glory” and their eyes remain blind.
 
-However, you saved me. You made me with your hands. You are the one who started my heartbeat. More than that, when I was wicked and evil and when I despised your holy name, you did nothing but see me and let your grace and love fall on me. 
-
+However, you saved me. You made me with your hands. You are the one who started my heartbeat. More than that, when I was wicked and evil and when I despised your holy name, you did nothing but see me and let your grace and love fall on me.
 Once more, you were always my God. Even after my mother abandoned me and while my father sought to destroy me, You were my God.
 
 Even when I didn’t know you, your righteousness and holiness tainted my walking corpse and I tasted of your power.

@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -22,19 +23,19 @@ I know that all of mankind
   will stray into wickedness
   and by their own sin,
   fall away in ignorance. 
-  
+
 I was once
   atheistic
   evil
   blasphemous
   ignorant in unbelief
-  
+
 But yet
   You gave me more grace
   with the faith and love
   that can only be found 
   in your Son.
-  
+
 My God,
   we know that you see us
   you know we are not good
@@ -42,7 +43,7 @@ My God,
   to condemn us
   But you’ve sent your Son
   to save us.
-  
+
 My Lord,
   Be merciful to me
   Give me grace beyond measure
@@ -51,7 +52,7 @@ My Lord,
   Do not forsake me
   Do not forget me
   Just be with me
-  
+
 You are worthy to be praised. Forever.
 
 Amen. 

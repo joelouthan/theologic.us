@@ -22,10 +22,10 @@ What hope do I have in myself and the works that I have done? I have nothing to 
 
 But you knew. You knew and you came to be born as a man like me. But unlike me, you lived the perfect spot less life. Why, so that you would live? No, you lived the perfect life so that you might die so that I may live.
 
-You alone have kept your ways of perfection and goodness.  
-You alone abided by your rules. You alone kept your statutes. You alone are blameless. You alone are free from guilt.  
-You perfectly followed the laws of holiness because every single law speaks of you.  
-You alone are the righteousness. You alone are the source of righteousness. Therefore, you are my righteousness.  
+You alone have kept your ways of perfection and goodness.
+You alone abided by your rules. You alone kept your statutes. You alone are blameless. You alone are free from guilt.
+You perfectly followed the laws of holiness because every single law speaks of you.
+You alone are the righteousness. You alone are the source of righteousness. Therefore, you are my righteousness.
 
 Where else can I go? You alone have the words of eternal life.
 

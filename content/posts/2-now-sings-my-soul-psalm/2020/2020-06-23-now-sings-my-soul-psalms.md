@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -33,8 +34,7 @@ Lord, I have no idea of what you’ve called me
   but it will not be easy
   and it will take all of your grace
   and you must give me your heart and Spirit
-  for me to do your will. 
-
+  for me to do your will.
 But I love you Lord
  and I cry out loud
  to worship and praise your holy name. 
@@ -42,7 +42,6 @@ But I love you Lord
  May everything in me
  and all that I have 
  bless your holy name
- Forever. 
-
+ Forever.
 Amen. 
 </pre>

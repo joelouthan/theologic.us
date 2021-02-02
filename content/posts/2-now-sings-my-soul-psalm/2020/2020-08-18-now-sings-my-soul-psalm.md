@@ -8,15 +8,15 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: true
 ---
 ## Psalm 32:3
 
       3 For when I kept silent, my bones wasted away 
-      through my groaning all day long. 
-
+      through my groaning all day long.
 <pre>
 <div style="font-variant: small-caps;">My Only Comfort in Life</div>
 &nbsp;

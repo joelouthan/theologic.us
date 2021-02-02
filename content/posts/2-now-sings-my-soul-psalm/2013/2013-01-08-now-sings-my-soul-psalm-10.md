@@ -17,8 +17,8 @@ series:
 </div>
 &nbsp;
 
-My sin wakes me up from my slumber.  
-At my weakest, my iniquities flood my mind. My mind is not sharp. My soul is asleep. In the pitch blackness of the night, I cannot see.  
+My sin wakes me up from my slumber.
+At my weakest, my iniquities flood my mind. My mind is not sharp. My soul is asleep. In the pitch blackness of the night, I cannot see.
 Sin is like a ravenous, rabid dog who sits upon my chest, waiting to devour me. I can smell it’s breath. I can taste the poison stench. My eardrums break from the deafening bark.
 
 My birth and my life before haunts me.
@@ -31,8 +31,8 @@ My King, my wits are lost. My soul is dormant. My heart is nearly still. I do no
 
 My God, be my faithful protector—continuously and forevermore.
 
-Every waking moment and every minute of sleep, there is not a time when I don’t need you.  
-I need you, God. Don’t leave me. Stay with me. Help me. Love me. Care for me.  
+Every waking moment and every minute of sleep, there is not a time when I don’t need you.
+I need you, God. Don’t leave me. Stay with me. Help me. Love me. Care for me.
 
 I love you.
 

@@ -22,7 +22,7 @@ Dear God, my very best works and all of my good deeds before you are nothing mor
 
 My sin is my own and no one else’s.
 
-My iniquities belong to me and no one else is to blame.  
+My iniquities belong to me and no one else is to blame.
 And yet, you called out to me—you called out to me in your sweet love, in your perfect kindness, in your never-ending mercies, and unchanging grace. You called to me!
 Where else can I turn to? If I go away from you, then I am far from you. Far from my desires from my new heart—the new heart that you gave me. Clearly, that is not the answer.
 

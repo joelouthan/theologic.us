@@ -6,37 +6,36 @@ url: /now-sings-my-soul-psalm/2021-03-02-1430-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    |<---start-here
-> Psalm 58 (CSB)
-For the choir director: “Do Not Destroy.” A Miktam of David. 
 
+```text> Psalm 58 (CSB)
+For the choir director: “Do Not Destroy.” A Miktam of David.
       Do you really speak righteously, you mighty ones? 
       Do you judge people fairly? 
       No, you practice injustice in your hearts; 
-      with your hands you weigh out violence in the land. 
-
+      with your hands you weigh out violence in the land.
       The wicked go astray from the womb; 
       liars wander about from birth. 
       They have venom like the venom of a snake, 
       like the deaf cobra that stops up its ears, 
       that does not listen to the sound of the charmers 
-      who skillfully weave spells. 
-
+      who skillfully weave spells.
       God, knock the teeth out of their mouths; 
       LORD, tear out the young lions’ fangs. 
       May they vanish like water that flows by; 
       may they aim their blunted arrows. 
       Like a slug that moves along in slime, 
       like a woman’s miscarried child, 
-      may they not see the sun. 
-
+      may they not see the sun.
       Before your pots can feel the heat of the thorns—
       whether green or burning—
       he will sweep them away. 

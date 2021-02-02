@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -21,35 +22,29 @@ How many times,
 
 The amount of people who wished me dead
 	were too many to count.
-	
 I have been abused,
 	and used for others' perverse sins.
 	I have been forgotten,
 	and not attended to my needs.
 	I have been exposed,
 	and called a liar.
-	
 But you, O my God,
 	are the only one who has saved me.
 	Many people want to save me
 	but lack the will and the power.
 	Their heart has been turned
 	but they could not help me.
-	
 My heart has been broken,
 	my mind has gone.
 	And I have no power within me.
-	
 But you've healed my broken,
 	renewed my mind,
 	and gave me your Almighty Spirit.
-	
 Since you have rescued me,
 	restored me,
 	redeemed me,
 	and kept me,
 	I am yours.
-	
 I am yours,
 	and you are mine forever.
 
@@ -61,9 +56,7 @@ Keep me,
 	and I will perish in hell
 	apart from you.
 	And that is a thought I cannot stand to bear.
-	
 Be my portion and love,
 	forever.
-	
 Amen.
 </pre>

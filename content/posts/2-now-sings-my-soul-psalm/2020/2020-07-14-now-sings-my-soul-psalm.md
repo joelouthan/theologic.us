@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -27,13 +28,11 @@ You hold me like a child,
 	for I am just as vulnerable
 	and would be devoured by dogs
 	if it was not for you.
-	
 I praise your holy name
 	for you are Lord Most High.
 	So be exalted
 	in my life
 	and with my words.
-	
 Thank you for sparing me
  and thank you for saving my life
  Thank you for shielding me
@@ -49,6 +48,5 @@ Have mercy on me,
 	and bring me home quickly
 	so I can stare into your eyes
 	for all of eternity.
-	
 Amen.
 </pre>

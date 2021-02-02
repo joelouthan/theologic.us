@@ -26,8 +26,7 @@ What about those times when I rely on my rational thought process, the very good
 
 What if I want to do good things that seem to glorify you but in deepest heart, only meagerly fulfill my desire for worship when it is you, O Lord, who has set eternity into my heart so that I would be left desolated when I tried to fulfill that hole with anything else other than the Infinite God?
 
-But you know me. You have known me before you created time. You have known me and in your knowledge of all my pain, my heartaches, my troubles, my sin, my depravity, my iniquities, _you loved me_. You loved me with all of your infinite being. You loved me and you created me. You take joy in me, you watch over me, and you sing over me. 
-
+But you know me. You have known me before you created time. You have known me and in your knowledge of all my pain, my heartaches, my troubles, my sin, my depravity, my iniquities, _you loved me_. You loved me with all of your infinite being. You loved me and you created me. You take joy in me, you watch over me, and you sing over me.
 One day, you will come and get me so I can be with you for all of eternity.
 
 And you have sent your Son to live when I could not live, to die when I should have died, to be buried when my sins would have soon crushed me, and to be raised to life because I have none.

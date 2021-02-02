@@ -22,19 +22,19 @@ It hurts me so.
 
 But You, O God, are endlessly faithful:
 <p style="padding-left: 30px;">
-  Faithful to save.  
+  Faithful to save.
 </p>
 <p style="padding-left: 30px;">
-  Faithful to heal.  
+  Faithful to heal.
 </p>
 <p style="padding-left: 30px;">
-  Faithful to restore.  
+  Faithful to restore.
 </p>
 <p style="padding-left: 30px;">
-  Faithful to equip.  
+  Faithful to equip.
 </p>
 <p style="padding-left: 30px;">
-  Faithful to send.  
+  Faithful to send.
 </p>
 
 My Commander of Hosts, help me in my moment of despair. My feet, which are strapped with Your gospel of peace, have been firmly planted into the Rock of Ages. I will and cannot retreat. I shall not be moved.
@@ -45,5 +45,5 @@ Your finished work continues to grow in ranks by the indwelling of your Holy Spi
 
 May I continue to herald your great works and your great name for the rest of my days.
 
-In your name, I pray.  
+In your name, I pray.
 Amen.

@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -32,7 +33,7 @@ But I was crippled
 I did whatever
   I could to harden my heart
   so I wouldn’t have to feel.
-  
+
 
 But I was sad
   alone
@@ -42,13 +43,12 @@ But I was sad
   I was so lonely.
   And my life was worth nothing.
 
-And remember when I tried to be the good guy? 
-
+And remember when I tried to be the good guy?
 Outside I was nice and honorable.
   But on the inside?
   Full of wickedness and sin.
   Heart was filled with perversion.
-  
+
 I am afraid
   but I know this to be true:
   a million times more wicked

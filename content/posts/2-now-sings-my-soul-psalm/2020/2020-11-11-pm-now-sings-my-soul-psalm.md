@@ -8,8 +8,9 @@ categories:
 tags:
   - Psalms
 series:
-  - 'Now Sings My Soul: Psalms'
+- 'Now Sings My Soul: Psalms'
 showtoc: false
+css: "prayer"
 draft: false
 ---
 <pre>
@@ -31,7 +32,7 @@ My sins filled more
   I have done more evil in your sight
   than all of humanity
   I am the supreme chief of sinners
-  
+
 But yet
   you saw me
   not the good that I could ever do

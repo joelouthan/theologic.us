@@ -11,8 +11,7 @@ series:
   - 'Now Sings My Soul: Psalms'
 
 ---
-I was once so far from you. I was once lost. I was once your sworn enemy. Instead of casting me out, you sought me out. Instead of leaving me lost, you found me. 
-
+I was once so far from you. I was once lost. I was once your sworn enemy. Instead of casting me out, you sought me out. Instead of leaving me lost, you found me.
 Instead of leaving me to die, you found me and gave me life. Instead being at war with me, you call me friend.
 
 You are my only hope. You are my life. You are my salvation. You alone hold the words of eternal life.

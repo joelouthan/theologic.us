@@ -6,17 +6,19 @@ url: /now-sings-my-soul-psalm/2021-03-02-2000-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:
-  - "Now Sings My Soul: Psalms"
+  - Psalms
+series:
+- 'Now Sings My Soul: Psalms'
+showtoc: false
+css: "prayer"
 draft: true
 ---
 <div style="font-variant: small-caps;">
 
 </div>
-&nbsp;
-    |<---start-here
-> Psalm 60 (CSB)
-For the choir director: according to “The Lily of Testimony.” A Miktam of David for teaching. When he fought with Aram-naharaim and Aram-zobah, and Joab returned and struck Edom in Salt Valley, killing twelve thousand. 
 
+```text> Psalm 60 (CSB)
+For the choir director: according to “The Lily of Testimony.” A Miktam of David for teaching. When he fought with Aram-naharaim and Aram-zobah, and Joab returned and struck Edom in Salt Valley, killing twelve thousand.
       God, you have rejected us; 
       you have broken us down; 
       you have been angry. Restore us! 
@@ -29,8 +31,7 @@ For the choir director: according to “The Lily of Testimony.” A Miktam of Da
       so that they can flee before the archers. 
                                       Selah 
       Save with your right hand, and answer me, 
-      so that those you love may be rescued. 
-
+      so that those you love may be rescued.
       God has spoken in his sanctuary: 
       “I will celebrate! 
       I will divide up Shechem. 
@@ -40,8 +41,7 @@ For the choir director: according to “The Lily of Testimony.” A Miktam of Da
       Judah is my scepter. 
       Moab is my washbasin. 
       I throw my sandal on Edom; 
-      I shout in triumph over Philistia.” 
-
+      I shout in triumph over Philistia.”
       Who will bring me to the fortified city? 
       Who will lead me to Edom? 
       God, haven’t you rejected us? 
