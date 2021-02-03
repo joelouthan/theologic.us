@@ -3,8 +3,6 @@ title: Mark 1:29-34 Jesus Heals the Sick
 author: Joe Louthan
 date: 2012-08-09
 url: /family_devotions/mark-129-34-jesus-heals-the-sick/
-dsq_thread_id:
-  - 1796586378
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**[<img class="alignright size-thumbnail wp-image-187" title="healing_sm" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?resize=150%2C150" width="150" height="150" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?resize=150%2C150 150w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/healing_sm.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon&#8217;s mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**
+**Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon&#8217;s mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**
 
 **That evening at sundown they brought to him all who were sick or oppressed by demons. And the whole city was gathered together at the door. And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.**
 

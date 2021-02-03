@@ -17,6 +17,31 @@ TocOpen: true
 draft: false
 ---
 
+## It Goes Without Say
+
+{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EOCFU4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}
+[**The Bible**](https://www.amazon.com/Bible-English-Standard-Version-Cross-References-ebook/dp/B001EOCFU4?dchild=1&keywords=ESV+Bible&qid=1612370921&sr=8-4&linkCode=li2&tag=theologicus-20&linkId=77b59dbc9a627743f4fa64f61464f51d&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
+
+Slow down, pray, read, chew and meditate.  
+&nbsp;  
+
+___
+
+<p style="clear:both;">
+
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1433524619" width="1" height="1" border="0" >}}
+[**ESV Study Bible**](https://www.amazon.com/dp/1433524619?&linkCode=li2&tag=theologicus-20&linkId=2c7acb245df24de2bdd7463dc5d664a9&language=en_US&ref_=as_li_ss_il) Incredible resource.
+
+I have purchased this resource multiple times over.
+
+If I had to pick just one, I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
+&nbsp;  
+&nbsp;  
+
+___
+
+<p style="clear:both;">
+
 ## Personal
 
 [Here is Love: Exposition on Romans 8](/tags/here-is-love/) This is the work that really started it all. And by all I mean, all of reading, writing, studying, teaching, and preaching. I worked on this from 2012 to 2018.  I cannot begin to tell you the agonizing and cripplingly darkness I went through while writing this book. At the end, it ended up being my worshipful testimony of the heights and depths of the beauty of God's grace alone.  Even outside of Romans 8 in the Bible, I will unashamedly often refer to Romans 8. Why? Romans 8 is contains the entire gospel.
@@ -105,13 +130,13 @@ ___
 <p style="clear:both;">
 
 {{< figure src="https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/537/0037_TP.jpg#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0801013313#floatleft" width="0" height="0" border="0" alt="" >}}
-[**Commentaries on the Epistle of the Paul the Apostle to the Romans**](https://www.amazon.com/Calvins-Commentaries-Vol-John-Calvin/dp/0801013313/ref=as_li_ss_il?crid=3BE112SRHVN47&dchild=1&keywords=calvin+commentary+set&qid=1611178269&sprefix=Calvin+Comm%2Caps%2C169&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=6ec914d2fa99d13f5465bc2a2eece759&language=en_US)  
+[**Calvin's Commentaries**](https://www.amazon.com/Calvins-Commentaries-Vol-John-Calvin/dp/0801013313/ref=as_li_ss_il?crid=3BE112SRHVN47&dchild=1&keywords=calvin+commentary+set&qid=1611178269&sprefix=Calvin+Comm%2Caps%2C169&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=6ec914d2fa99d13f5465bc2a2eece759&language=en_US)  
 by John Calvin (Writer); John Owens (Translator)  
 2009, Baker Books
 
-I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40.\
-\
-&nbsp;
+I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40.  
+&nbsp;  
+
 ___
 
 <p style="clear:both;">

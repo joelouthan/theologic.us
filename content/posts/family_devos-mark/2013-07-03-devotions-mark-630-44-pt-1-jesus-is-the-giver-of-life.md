@@ -3,8 +3,6 @@ title: Mark 6:30-44 Pt. 1 Jesus is the Giver of Life
 author: Joe Louthan
 date: 2013-07-03
 url: /family_devotions/mark-630-44-pt-1-jesus-is-the-giver-of-life/
-dsq_thread_id:
-  - 1782281867
 categories:
   - Devotions
 tags:

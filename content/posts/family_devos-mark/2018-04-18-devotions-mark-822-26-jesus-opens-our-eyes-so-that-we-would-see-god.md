@@ -4,8 +4,6 @@ author: Joe Louthan
 date: 2018-04-18T12:00:53+00:00
 url: /family_devotions/mark-822-26-jesus-opens-our-eyes-so-that-we-would-see-god/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/04/maxresdefault.jpg?resize=825%2C510
-dsq_thread_id:
-  - 6608327622
 categories:
   - Devotions
 tags:

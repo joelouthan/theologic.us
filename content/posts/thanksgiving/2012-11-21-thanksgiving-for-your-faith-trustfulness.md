@@ -3,8 +3,6 @@ title: Thanksgiving for Your Faith—Trustfulness
 author: Joseph Louthan
 date: 2012-11-21
 url: /scriptures/thanksgiving-for-your-faith-trustfulness/
-dsq_thread_id:
-  - 1819069440
 categories:
   - Doxology
   - Scriptures

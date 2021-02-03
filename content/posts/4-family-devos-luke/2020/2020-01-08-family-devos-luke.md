@@ -1,7 +1,7 @@
 ---
 title: '✅Luke 1:67-80 What Are You Saved From and To?'
 author: Joseph Louthan
-publishDate: 2020-01-08
+publishDate: 2020-01-08T06:00:00-06:00
 url: /family-devos-luke/2020-01-08-family-devos-luke/
 categories:
   - Devotions

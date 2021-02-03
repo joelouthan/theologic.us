@@ -3,8 +3,6 @@ title: 'Here is Love: He is Our Longing – Romans 8:23'
 author: Joseph Louthan
 date: 2014-01-20T15:00:23+00:00
 url: /theology/here-is-love-he-is-our-longing-romans-823/
-dsq_thread_id:
-  - 2117336521
 categories:
   - Theology
 tags:
@@ -13,7 +11,6 @@ series:
   - 'Here is Love'
 
 ---
-_<img class="alignright" src="https://i1.wp.com/2.bp.blogspot.com/-CIjokVY1aN0/UFCyhA9GYnI/AAAAAAAADJc/KOenAtr8Rxc/s1600/kid%2Blooking%2Bout%2Bwindow.jpg?resize=296%2C201" alt="" width="296" height="201" data-recalc-dims="1" />What is there to look forward to?_
 
 Romans 8:23 **And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.**
 

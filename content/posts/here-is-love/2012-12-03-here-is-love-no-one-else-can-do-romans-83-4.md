@@ -3,8 +3,6 @@ title: 'Here is Love: No One Else Can Do – Romans 8:3-4'
 author: Joseph Louthan
 date: 2012-12-03T15:00:22+00:00
 url: /theology/here-is-love-no-one-else-can-do-romans-83-4/
-dsq_thread_id:
-  - 2520561568
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-[<img class="alignright size-medium wp-image-1501" title="DOC-no_one_can_do_it_better" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/DOC-no_one_can_do_it_better.jpg?resize=300%2C300" alt="" width="300" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/DOC-no_one_can_do_it_better.jpg?resize=300%2C300 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/DOC-no_one_can_do_it_better.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/DOC-no_one_can_do_it_better.jpg?w=500 500w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]Romans 8:3-4 **For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**
+Romans 8:3-4 **For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**
 
 What is the law?
 

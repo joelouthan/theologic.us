@@ -3,8 +3,6 @@ title: Mark 6:53-56 The Word of God is Life
 author: Joe Louthan
 date: 2013-09-04
 url: /family_devotions/mark-653-56-the-word-of-god-is-life/
-dsq_thread_id:
-  - 1766125714
 categories:
   - Devotions
 tags:
@@ -16,7 +14,7 @@ draft: false
 ---
 1. _When we hardened our hearts against God&#8217;s love (we refuse to hear what God has to say, we refuse to believe what God has done), does God still love us?_
 
-[<img class="alignright size-full wp-image-2212" alt="icon_christ_woman_issue_blood_detail" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/09/icon_christ_woman_issue_blood_detail.jpg?resize=192%2C288" width="192" height="288" data-recalc-dims="1" />][1]2. _When we hardened our hearts against God (mad at him, accuse him of being bad), does God still shows us his love?_
+2. _When we hardened our hearts against God (mad at him, accuse him of being bad), does God still shows us his love?_
 
 Mark 6:53-56 **When they had crossed over, they came to land at Gennesaret and moored to the shore. And when they got out of the boat, the people immediately recognized him and ran about the whole region and began to bring the sick people on their beds to wherever they heard he was. And wherever he came, in villages, cities, or countryside, they laid the sick in the marketplaces and implored him that they might touch even the fringe of his garment. And as many as touched it were made well.**
 

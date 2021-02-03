@@ -4,8 +4,6 @@ author: Joe Louthan
 date: 2015-10-07T12:00:00+00:00
 url: /family_devotions/mark-731-37-jesus-opens-our-ears-so-we-now-hear-god/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2015/10/alg-sloan-churman-jpg.jpg?resize=825%2C510
-dsq_thread_id:
-  - 4203252384
 categories:
   - Devotions
 tags:

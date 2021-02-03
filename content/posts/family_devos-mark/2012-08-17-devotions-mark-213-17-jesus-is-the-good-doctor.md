@@ -3,8 +3,6 @@ title: Mark 2:13-17 Jesus is the Good Doctor
 author: Joe Louthan
 date: 2012-08-17
 url: /family_devotions/mark-213-17-jesus-is-the-good-doctor/
-dsq_thread_id:
-  - 2043711368
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**[<img class="alignright size-thumbnail wp-image-426" title="stethoscope-backgrounds-wallpapers" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/stethoscope-backgrounds-wallpapers.jpg?resize=150%2C150" width="150" height="150" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/stethoscope-backgrounds-wallpapers.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/stethoscope-backgrounds-wallpapers.jpg?resize=300%2C300 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/stethoscope-backgrounds-wallpapers.jpg?resize=1024%2C1024 1024w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/stethoscope-backgrounds-wallpapers.jpg?w=1200 1200w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 2:13-17 He went out again beside the sea, and all the crowd was coming to him, and he was teaching them. And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him. And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, “Why does he eat with tax collectors and sinners?” And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”**
+**Mark 2:13-17 He went out again beside the sea, and all the crowd was coming to him, and he was teaching them. And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him. And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, “Why does he eat with tax collectors and sinners?” And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”**
 
 1. _Whom did Jesus hang out with?_
 

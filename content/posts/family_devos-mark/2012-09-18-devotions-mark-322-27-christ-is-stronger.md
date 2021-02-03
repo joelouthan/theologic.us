@@ -3,8 +3,6 @@ title: Mark 3:22-27 Christ is Stronger
 author: Joe Louthan
 date: 2012-09-18
 url: /family_devotions/mark-322-27-christ-is-stronger/
-dsq_thread_id:
-  - 1984606744
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**[<img class="alignright size-full wp-image-596" title="satan1" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/satan1.jpg?resize=289%2C290" width="289" height="290" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/satan1.jpg?w=289 289w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/satan1.jpg?resize=150%2C150 150w" sizes="(max-width: 289px) 100vw, 289px" data-recalc-dims="1" />][1]Mark 3:22-27 And the scribes who came down from Jerusalem were saying, “He is possessed by Beelzebul,” and “by the prince of demons he casts out the demons.” And he called them to him and said to them in parables, “How can Satan cast out Satan? If a kingdom is divided against itself, that kingdom cannot stand. And if a house is divided against itself, that house will not be able to stand. And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. But no one can enter a strong man&#8217;s house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house.**
+**Mark 3:22-27 And the scribes who came down from Jerusalem were saying, “He is possessed by Beelzebul,” and “by the prince of demons he casts out the demons.” And he called them to him and said to them in parables, “How can Satan cast out Satan? If a kingdom is divided against itself, that kingdom cannot stand. And if a house is divided against itself, that house will not be able to stand. And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. But no one can enter a strong man&#8217;s house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house.**
 
 _Is Satan a god?
   

@@ -3,8 +3,6 @@ title: Thanksgiving for Your Righteousness—Perfection
 author: Joseph Louthan
 date: 2012-11-19
 url: /scriptures/thanksgiving-for-your-righteousness-perfection/
-dsq_thread_id:
-  - 1820902841
 categories:
   - Doxology
   - Scriptures

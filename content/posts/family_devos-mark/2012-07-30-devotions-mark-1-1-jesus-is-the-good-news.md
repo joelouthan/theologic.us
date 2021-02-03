@@ -3,8 +3,6 @@ title: Mark 1:1 Jesus is the Good News
 author: Joe Louthan
 date: 2012-07-30
 url: /family_devotions/mark-1-1-jesus-is-the-good-news/
-dsq_thread_id:
-  - 2217242727
 categories:
   - Devotions
 tags:
@@ -30,7 +28,7 @@ _What does Mark write about?_
   
 Mark testifies about Christ Jesus
 
-Each of the Gospels tells a different perspective about Jesus:[<img class="alignright size-thumbnail wp-image-124" title="Muskoxen (Ovibos muschatus)" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/Ox-8.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/Ox-8.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/Ox-8.jpg?zoom=2&resize=150%2C150 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/Ox-8.jpg?zoom=3&resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]
+Each of the Gospels tells a different perspective about Jesus:
 
 <p style="padding-left: 30px;">
   Matthew &#8211; Jesus is King (Lion of Judah)<br /> Mark &#8211; Jesus is Servant (The Ox)<br /> Luke &#8211; Jesus is Man (The Human)<br /> John &#8211; Jesus is God (The Eagle)
@@ -60,7 +58,7 @@ _Who is Jesus Christ?_
 
 **I and the Father are one. John 10:30**
 
-Yet, as Athanasius (early church father) so boldly declare:[<img class="alignright size-full wp-image-125" title="athanasius" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/athanasius.jpg?resize=200%2C269" alt="" width="200" height="269" data-recalc-dims="1" />][2]
+Yet, as Athanasius (early church father) so boldly declare:
 
 > The Son of God became man so that men might become sons of God.
 

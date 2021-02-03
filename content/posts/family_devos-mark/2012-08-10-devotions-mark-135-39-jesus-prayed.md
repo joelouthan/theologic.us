@@ -3,8 +3,6 @@ title: Mark 1:35-39 Jesus Prayed
 author: Joe Louthan
 date: 2012-08-10
 url: /family_devotions/mark-135-39-jesus-prayed/
-dsq_thread_id:
-  - 1768163143
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**[<img class="alignright size-thumbnail wp-image-190" title="christ-in-gesthemane-01" alt="" src="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/christ-in-gesthemane-01.jpg?resize=150%2C150" width="150" height="150" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/christ-in-gesthemane-01.jpg?resize=150%2C150 150w, https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/christ-in-gesthemane-01.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 1:35-39 And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. And Simon and those who were with him searched for him, and they found him and said to him, “Everyone is looking for you.” And he said to them, “Let us go on to the next towns, that I may preach there also, for that is why I came out.” And he went throughout all Galilee, preaching in their synagogues and casting out demons.**
+**Mark 1:35-39 And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. And Simon and those who were with him searched for him, and they found him and said to him, “Everyone is looking for you.” And he said to them, “Let us go on to the next towns, that I may preach there also, for that is why I came out.” And he went throughout all Galilee, preaching in their synagogues and casting out demons.**
 
 _1. What is prayer?_
   

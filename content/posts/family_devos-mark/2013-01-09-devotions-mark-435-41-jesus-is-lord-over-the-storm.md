@@ -3,8 +3,6 @@ title: Mark 4:35-41 Jesus Is Lord Over The Storm
 author: Joe Louthan
 date: 2013-01-09
 url: /family_devotions/mark-435-41-jesus-is-lord-over-the-storm/
-dsq_thread_id:
-  - 2222798953
 categories:
   - Devotions
 tags:

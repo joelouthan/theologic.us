@@ -3,8 +3,6 @@ title: 'Here is Love: You Can’t Give a Dead Man Anything – Romans 8:12'
 author: Joseph Louthan
 date: 2013-03-04T15:00:06+00:00
 url: /theology/here-is-love-you-cant-give-a-dead-man-anything-romans-812/
-dsq_thread_id:
-  - 1790945434
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-**[<img class="alignright size-medium wp-image-1898" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/r_shockwave027.jpg?resize=300%2C225" alt="r_shockwave027" width="300" height="225" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/r_shockwave027.jpg?resize=300%2C225 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/r_shockwave027.jpg?w=500 500w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]Romans 8:12 So then, brothers, we are debtors, not to the flesh, to live according to the flesh.**
+**Romans 8:12 So then, brothers, we are debtors, not to the flesh, to live according to the flesh.**
 
 _What is the debt?_****
 

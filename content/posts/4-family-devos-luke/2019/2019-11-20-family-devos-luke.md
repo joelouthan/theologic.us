@@ -1,7 +1,7 @@
 ---
 title: '✅Luke 1:8–10 How Can We Worship God Everyday?'
 author: Joseph Louthan
-publishDate: 2019-11-20
+publishDate: 2019-11-20T06:00:00-06:00
 url: /family-devos-luke/2019-11-20-family-devos-luke/
 categories:
   - Devotions

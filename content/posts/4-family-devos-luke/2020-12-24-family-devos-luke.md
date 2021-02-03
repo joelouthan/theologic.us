@@ -1,7 +1,7 @@
 ---
 title: 'Luke 8 But Christ Calls'
 author: Joseph Louthan
-publishDate: 2020-12-24
+publishDate: 2020-12-24T06:00:00-06:00
 url: /family-devos-luke/2020-12-24-family-devos-luke/
 categories:
   - Devotions

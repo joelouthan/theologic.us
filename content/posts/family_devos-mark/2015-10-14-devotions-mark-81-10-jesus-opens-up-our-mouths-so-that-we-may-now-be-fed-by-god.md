@@ -4,8 +4,6 @@ author: Joe Louthan
 date: 2015-10-14T12:00:51+00:00
 url: /family_devotions/mark-81-10-jesus-opens-up-our-mouths-so-that-we-may-now-be-fed-by-god/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/10/272453-fish-and-chips.jpg?resize=825%2C510
-dsq_thread_id:
-  - 4209106594
 categories:
   - Devotions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Luke '
 author: Joseph Louthan
-publishDate: 2021-11-25
+publishDate: 2021-11-25T06:00:00-06:00
 url: /family-devos-luke/2021-11-25-family-devos-luke/
 categories:
   - Devotions

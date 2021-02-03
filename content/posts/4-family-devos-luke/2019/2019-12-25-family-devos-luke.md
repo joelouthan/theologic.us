@@ -1,7 +1,7 @@
 ---
 title: '✅Luke 1:46–55 What is Your Song?'
 author: Joseph Louthan
-publishDate: 2019-12-25
+publishDate: 2019-12-25T06:00:00-06:00
 url: /family-devos-luke/2019-12-25-family-devos-luke/
 categories:
   - Devotions

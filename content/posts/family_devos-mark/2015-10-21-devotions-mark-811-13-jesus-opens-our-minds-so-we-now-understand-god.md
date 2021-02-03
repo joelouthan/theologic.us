@@ -4,8 +4,6 @@ author: Joe Louthan
 date: 2015-10-21T12:00:44+00:00
 url: /family_devotions/mark-811-13-jesus-opens-our-minds-so-we-now-understand-god/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/10/open-mind.jpg?resize=600%2C400
-dsq_thread_id:
-  - 4307146952
 categories:
   - Devotions
 tags:

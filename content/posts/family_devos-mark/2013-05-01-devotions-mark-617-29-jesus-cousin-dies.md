@@ -3,8 +3,6 @@ title: Mark 6:17-29 Jesus’ Cousin Dies
 author: Joe Louthan
 date: 2013-05-01
 url: /family_devotions/mark-617-29-jesus-cousin-dies/
-dsq_thread_id:
-  - 1953529765
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-<figure id="attachment_2035" style="width: 300px" class="wp-caption alignright"><img class="size-thumbnail wp-image-2035" alt="&quot;Salome with the Head of John the Baptist&quot; by Caravaggio" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=300%2C254" width="300" height="254" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=300%2C254 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=400%2C339 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?resize=600%2C509 600w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/CaravaggioSalomeLondon.jpg?w=1190 1190w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /><figcaption class="wp-caption-text">&#8220;Salome with the Head of John the Baptist&#8221; by Caravaggio</figcaption></figure>
+
 
 Mark 6:17-29** For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip&#8217;s wife, because he had married her. For John had been saying to Herod, “It is not lawful for you to have your brother&#8217;s wife.” And Herodias had a grudge against him and wanted to put him to death. But she could not, for Herod feared John, knowing that he was a righteous and holy man, and he kept him safe. When he heard him, he was greatly perplexed, and yet he heard him gladly.**
 

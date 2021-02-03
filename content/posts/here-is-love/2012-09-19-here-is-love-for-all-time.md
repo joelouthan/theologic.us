@@ -3,8 +3,6 @@ title: 'Here is Love: For All Time—Psalm 103:15-18'
 author: Joseph Louthan
 date: 2012-09-19T14:00:10+00:00
 url: /theology/here-is-love-for-all-time/
-dsq_thread_id:
-  - 4607635571
 categories:
   - Theology
 tags:

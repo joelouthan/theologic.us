@@ -1,7 +1,7 @@
 ---
 title: 'Luke 6:1-19 What Does the Lord Do?'
 author: Joseph Louthan
-publishDate: 2020-07-09
+publishDate: 2020-07-09T06:00:00-06:00
 url: /family-devos-luke/2020-07-09-family-devos-luke/
 categories:
   - Devotions

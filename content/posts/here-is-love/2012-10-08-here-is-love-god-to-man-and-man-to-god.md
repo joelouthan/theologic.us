@@ -3,8 +3,6 @@ title: 'Here is Love: God to Man and Man to God—2 Corinthians 5:21'
 author: Joseph Louthan
 date: 2012-10-08T14:00:52+00:00
 url: /theology/here-is-love-god-to-man-and-man-to-god/
-dsq_thread_id:
-  - 2529762612
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-[<img class="alignright size-thumbnail wp-image-813" title="greatexchange" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg?zoom=2&resize=150%2C150 300w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]And here is love: **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
+And here is love: **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
 
 _Ah ha!_
 

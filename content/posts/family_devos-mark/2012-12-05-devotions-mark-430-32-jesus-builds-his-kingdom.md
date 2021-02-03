@@ -3,8 +3,6 @@ title: Mark 4:30-32 Jesus Builds His Kingdom
 author: Joe Louthan
 date: 2012-12-05
 url: /family_devotions/mark-430-32-jesus-builds-his-kingdom/
-dsq_thread_id:
-  - 1782493105
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-[<img class="alignright size-medium wp-image-1492" title="MustardSeed" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg?resize=300%2C225" width="300" height="225" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg?resize=300%2C225 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg?w=960 960w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1] Mark 4:30-32 **And he said, “With what can we compare the kingdom of God, or what parable shall we use for it? It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade.”**
+ Mark 4:30-32 **And he said, “With what can we compare the kingdom of God, or what parable shall we use for it? It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade.”**
 
 1. _What can Jesus use to grow his kingdom?_
 

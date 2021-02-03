@@ -3,8 +3,6 @@ title: 'Here is Love: You Have Been Set Free – Romans 8:2'
 author: Joseph Louthan
 date: 2012-11-12T15:00:23+00:00
 url: /theology/here-is-love-you-have-been-set-free-romans-82/
-dsq_thread_id:
-  - 1972833627
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-[<img class="alignright size-medium wp-image-1369 hoverZoomLink" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?resize=300%2C271" alt="" width="300" height="271" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?resize=300%2C271 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/11/LCCH_Courtroom_3.jpg?w=358 358w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]{.hoverZoomLink}There are 613 commandments in the Old Testament.
+{.hoverZoomLink}There are 613 commandments in the Old Testament.
 
 Don’t eat pork. [][2]{#return-note-1367-1.simple-footnote}
 

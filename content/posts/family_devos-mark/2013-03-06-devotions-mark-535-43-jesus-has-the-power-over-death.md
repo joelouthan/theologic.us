@@ -3,8 +3,6 @@ title: Mark 5:35-43 Jesus Has the Power Over Death
 author: Joe Louthan
 date: 2013-03-06
 url: /family_devotions/mark-535-43-jesus-has-the-power-over-death/
-dsq_thread_id:
-  - 1783402699
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-[<img class="alignright size-medium wp-image-1907" alt="mark5-41-talitha" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/mark5-41-talitha.jpg?resize=300%2C253" width="300" height="253" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/mark5-41-talitha.jpg?resize=300%2C253 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/03/mark5-41-talitha.jpg?w=412 412w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]Mark 5:35-43 **While he was still speaking, there came from the ruler&#8217;s house some who said, “Your daughter is dead. Why trouble the Teacher any further?” But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” And he allowed no one to follow him except Peter and James and John the brother of James. They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.” And they laughed at him. But he put them all outside and took the child&#8217;s father and mother and those who were with him and went in where the child was. Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.” And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. And he strictly charged them that no one should know this, and told them to give her something to eat.**
+Mark 5:35-43 **While he was still speaking, there came from the ruler&#8217;s house some who said, “Your daughter is dead. Why trouble the Teacher any further?” But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” And he allowed no one to follow him except Peter and James and John the brother of James. They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.” And they laughed at him. But he put them all outside and took the child&#8217;s father and mother and those who were with him and went in where the child was. Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.” And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. And he strictly charged them that no one should know this, and told them to give her something to eat.**
   
 ** **
 

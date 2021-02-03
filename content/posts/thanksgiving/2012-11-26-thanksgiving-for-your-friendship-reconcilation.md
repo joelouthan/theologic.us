@@ -3,8 +3,6 @@ title: Thanksgiving for Your Friendship—Reconcilation
 author: Joseph Louthan
 date: 2012-11-26
 url: /scriptures/thanksgiving-for-your-friendship-reconcilation/
-dsq_thread_id:
-  - 2224227270
 categories:
   - Doxology
   - Scriptures

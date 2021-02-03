@@ -4,8 +4,6 @@ author: Joe Louthan
 date: 2015-09-16T12:00:18+00:00
 url: /family_devotions/mark-714-23-the-word-of-god-is-righteousness/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/09/stomach-highlighted.jpg?resize=825%2C510
-dsq_thread_id:
-  - 4138722003
 categories:
   - Devotions
 tags:

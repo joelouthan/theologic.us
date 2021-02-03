@@ -4,8 +4,6 @@ author: Joe Louthan
 date: 2015-09-23T12:00:47+00:00
 url: /family_devotions/mark-724-30-the-word-of-god-saves/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2015/09/cdsc_0026_hq.jpg?resize=825%2C510
-dsq_thread_id:
-  - 4480932052
 categories:
   - Devotions
 tags:

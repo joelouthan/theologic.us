@@ -3,8 +3,6 @@ title: 'Here is Love: Never Alone, Can’t Do It Alone – Romans 8:9'
 author: Joseph Louthan
 date: 2013-01-28T15:00:54+00:00
 url: /theology/here-is-love-never-alone-cant-do-it-alone-romans-89/
-dsq_thread_id:
-  - 1788005172
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-<figure id="attachment_1767" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1767" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?resize=300%2C300" alt="&quot;Winter Loneliness&quot; - Dominique Jost" width="300" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?resize=300%2C300 300w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?resize=150%2C150 150w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/01/winter.loneliness.jpg?w=640 640w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">&#8220;Winter Loneliness&#8221; &#8211; Dominique Jost</figcaption></figure>
+
 
 **Romans 8:9 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.**
 

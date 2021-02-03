@@ -4,8 +4,6 @@ author: Joseph Louthan
 date: 2018-04-23T12:00:37+00:00
 url: /theology/here-is-love-he-is-the-one-who-knows-us-romans-827/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/04/Intimacy-image.jpg?resize=825%2C510
-dsq_thread_id:
-  - 6610571748
 categories:
   - Theology
 tags:

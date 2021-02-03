@@ -3,8 +3,6 @@ title: 'Here is Love: Logic – Romans 8:11'
 author: Joseph Louthan
 date: 2013-02-18T15:00:18+00:00
 url: /theology/here-is-love-logic-romans-811/
-dsq_thread_id:
-  - 1813697243
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-[<img class="alignright" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/02/Thinking-Mind_of_Man.jpg?resize=300%2C300" alt="Thinking-Mind_of_Man" width="300" height="300" data-recalc-dims="1" />][1]
+
 
 _What is certain?_
 

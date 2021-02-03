@@ -3,8 +3,6 @@ title: 'Here is Love: He is Our Revelation – Romans 8:19-22'
 author: Joseph Louthan
 date: 2013-09-02T13:00:21+00:00
 url: /theology/here-is-love-he-is-our-revelation-romans-819-22/
-dsq_thread_id:
-  - 1766129637
 categories:
   - Theology
 tags:
@@ -17,7 +15,7 @@ series:
   
 _ 
 
-_[<img class="alignright size-thumbnail wp-image-2202" src="https://i2.wp.com/theologic.us/wp-content/uploads/2013/09/3wolfmoon_7785.jpg?resize=242%2C300" alt="3wolfmoon_7785" width="242" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2013/09/3wolfmoon_7785.jpg?resize=242%2C300 242w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/09/3wolfmoon_7785.jpg?resize=323%2C400 323w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/09/3wolfmoon_7785.jpg?resize=484%2C600 484w, https://i2.wp.com/theologic.us/wp-content/uploads/2013/09/3wolfmoon_7785.jpg?w=516 516w" sizes="(max-width: 242px) 100vw, 242px" data-recalc-dims="1" />][1]What is the creation?_
+_What is the creation?_
 
 Creation is the entire material plane, every bit of the universe, every part of the world and all of its inhabitants.  This includes all of the earth with its oceans, mountains, volcanos, tsunamis, hurricanes, tornados, and blizzards. [][2]{#return-note-2201-1.simple-footnote} _The whole creation subjected to bondage of corruption and futility and vanity; it waits and groans together in the pains of childbirth until now._
 

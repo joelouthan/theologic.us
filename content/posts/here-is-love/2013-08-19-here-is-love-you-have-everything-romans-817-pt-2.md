@@ -3,8 +3,6 @@ title: 'Here is Love: You Have Everything– Romans 8:17, Pt. 2'
 author: Joseph Louthan
 date: 2013-08-19T14:00:51+00:00
 url: /theology/here-is-love-you-have-everything-romans-817-pt-2/
-dsq_thread_id:
-  - 2041836056
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-[<img class="alignright size-thumbnail wp-image-2155" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/brand_nubians_everythingiseverything.jpg?resize=300%2C300" alt="brand_nubians_everythingiseverything" width="300" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/brand_nubians_everythingiseverything.jpg?resize=300%2C300 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/brand_nubians_everythingiseverything.jpg?w=400 400w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]
+
 
 ** **_Will there be suffering?_
 

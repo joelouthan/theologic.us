@@ -1,7 +1,7 @@
 ---
 title: 'Family Devotions: Mark, A Few Resources'
 author: Joe Louthan
-date: 2012-07-25
+date: 2012-07-25T06:00:00-06:00
 url: /family_devotions/mark-a-few-resources/
 categories:
   - Bibliography
@@ -14,29 +14,99 @@ series:
 css: "family-devos"
 draft: false
 ---
-Here just the very small list of resources on Mark that I have found most helpful.[<img class="alignright size-full wp-image-69" title="170px-Stmark" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/170px-Stmark.jpg?resize=170%2C460" width="170" height="460" data-recalc-dims="1" />][1]
+_Updated: February 2, 2021_
 
-**The Bible** &#8211; Should go without say. However, many times, many teachers, preachers, and small group leaders (myself included) will &#8220;cut straight to the chase&#8221; and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author. Slow down, pray, read, chew and meditate.
+Here just the very small list of resources on Mark that I have found most helpful.
 
-[**ESV Study Bible**][2] &#8211; Incredible resource. I use the [online][3] more than the actual book.
+## It Goes Without Say
 
-**['Family Devotions: Mark' (NICNT)][4] by William L. Lane** &#8211; Incredible thorough and wonderfully written, Dr. Lane walks the reader masterfully through not only the Gospel but the perspective of the writer Mark.
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EOCFU4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}
+[**The Bible**](https://www.amazon.com/Bible-English-Standard-Version-Cross-References-ebook/dp/B001EOCFU4?dchild=1&keywords=ESV+Bible&qid=1612370921&sr=8-4&linkCode=li2&tag=theologicus-20&linkId=77b59dbc9a627743f4fa64f61464f51d&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God.
 
-**[Calvin&#8217;s Commentary on the Synoptic Gospels (Matthew, Mark, Luke)][5] by John Calvin** &#8211; I like to keep an old school commentary for better perspective. (Note: if you don&#8217;t find the exact passage in this commentary, just locate the commentary for the similar passages in Matthew and Luke.
+Remember, the commentaries are not without error—they are the observations of the author. Slow down, pray, read, chew and meditate.
+&nbsp;  
+&nbsp;  
 
-[**Savior of the Suffering (Mark) at Internet Monk**][6] &#8211; I was looking for a cool Byzantine picture of St. Mark and ran into this very cool resource that lays out Mark, using the aforementioned Lane commentary as resource, for your studying pleasure.
+___
 
-**<a title="Mark by R.C. Sproul" href="https://www.amazon.com/dp/1567692656/ref=as_li_ss_til?tag=iamlipr-20&camp=0&creative=0&linkCode=as4&creativeASIN=1567692656&adid=0FN87NDVRXDJWXA56RFZ&" target="_blank">Mark (St. Andrews Expositional Commentary) by R.C. Sproul</a>** &#8211; I got this for my birthday this year. As I reading from page 1, I am using this as a reference for where we were at. Excellently written and a real joy to read thus far.
+<p style="clear:both;">
 
-**Update:
-  
-** 
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1433524619" width="1" height="1" border="0" >}}
+[**ESV Study Bible**](https://www.amazon.com/dp/1433524619?&linkCode=li2&tag=theologicus-20&linkId=2c7acb245df24de2bdd7463dc5d664a9&language=en_US&ref_=as_li_ss_il) Incredible resource.
 
-  1. Added the book, Mark by R.C. Sproul
+I have purchased this resource multiple times over.
 
- [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/07/170px-Stmark.jpg
- [2]: http://www.crossway.org/search/?q=%22ESV+Study+Bible%22&sa=
- [3]: http://www.esvbible.org/mark%201/ "ESV Study Bible: Mark 1"
- [4]: https://www.amazon.com/dp/0802825028/ref=as_li_ss_til?tag=iamlipr-20&camp=0&creative=0&linkCode=as4&creativeASIN=0802825028&adid=1RA7XVDTH4BEC88SP2FB&
- [5]: http://www.ccel.org/ccel/calvin/calcom31.html
- [6]: http://www.internetmonk.com/archive/savior-of-the-suffering-mark
+If I had to pick just one, I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
+&nbsp;  
+&nbsp;  
+
+___
+
+## Commentaries
+
+<p style="clear:both;">
+
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642891797&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1642891797" width="1" height="1" border="0" >}}
+[**Mark: An Expositional Commentary**](https://www.amazon.com/Mark-Expositional-Commentary-R-C-Sproul/dp/1642891797?dchild=1&keywords=Mark+RC+Sproul&qid=1612371889&s=books&sr=1-3&linkCode=li2&tag=theologicus-20&linkId=dee6f30c8344cff8bd1da51288e2d45b&language=en_US&ref_=as_li_ss_il)  
+R.C. Sproul  
+2011, Reformation Trust Publisher.
+
+If you had to get just one commentary series to collect, get this one. There are just seven in the series with [Luke](https://amzn.to/3cCPxYr) was just released.
+
+Easily read cover-to-cover.  
+&nbsp;  
+
+___
+
+<p style="clear:both;">
+
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801041147&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0801041147" width="1" height="1" border="0" >}}  
+[**Mark (New Testament Commentary)**](https://www.amazon.com/New-Testament-Commentary-Exposition-According/dp/0801041147?&linkCode=li2&tag=theologicus-20&linkId=1ec35be41362244096463baede18683f&language=en_US&ref_=as_li_ss_il)  
+William Hendriksen
+1981, Baker.
+
+Sheer luck (aka sheer blessing from God) that I ran into a small incomplete set of Hendriksen's Commentaries at my local [Half Priced Books](https://www.hpb.com/). I have never heard of this guy and the only facts I could find out about him was from [Wikipedia](william hendriksen commentary online).
+
+From the article:
+
+> In his influential work Israel and Prophecy, written a year after the 1967 war, and still in print, Hendriksen criticized the view, held by dispensationalists and Christian Zionists, that the Bible prophesies the return and restoration of the Jews to the land of Israel.[^1] Dispensationalist pastor Barry Horner describes Hendriksen's work as "a classic representation of replacement theology".[^2]
+
+Make no bones about it: it grieves me to the core that Dispensationalism is the auto-default eschatology of too many American Evangelical churches--including every single church I have ever attended in my life with the exception of the church I attend now. It saddens and frustrates me that I was born into a church that automatically taught a doctrine that was born within the 20th century. But as with anything, theology and doctrine are to be taught and never assumed.
+
+That said, that one little blurb in Wikipedia and knowing there was one (1) pastor who bucked against Rapture theology, Hendriksen forever became 'my boy'.
+
+[^1]: Hendriksen, William (2007). Israel in prophecy. London: Wakeman, (Originally published by Baker Book House in 1968). p. 16.
+[^2]: Horner, Barry (15 January 2015). "The Reformed Eschatology of William Hendriksen" (PDF). Future Israel website. Archived from the original (PDF) on 8 March 2015. Retrieved 8 March 2015.
+___
+
+<p style="clear:both;">
+
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802825028&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0802825028" width="1" height="1" border="0" >}}
+[**The Gospel of Mark**](https://www.amazon.com/Gospel-according-Mark-Introduction-International/dp/0802825028?dchild=1&keywords=mark+by+william+lane&qid=1612371379&s=books&sr=1-1&linkCode=li2&tag=theologicus-20&linkId=a62b781f63a312bf8ae91f7f2f5d7d20&language=en_US&ref_=as_li_ss_il)  
+William L. Lane  
+1974, Eerdman's.
+
+Incredible thorough and wonderfully written, Dr. Lane walks the reader masterfully through not only the Gospel but the perspective of the writer Mark.
+
+___
+
+<p style="clear:both;">
+
+{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802808026&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0802808026#floatleft" width="0" height="0" border="0" alt="" >}}
+[**Calvin's Commentaries**](https://www.amazon.com/Calvins-Commentaries-Vol-John-Calvin/dp/0801013313/ref=as_li_ss_il?crid=3BE112SRHVN47&dchild=1&keywords=calvin+commentary+set&qid=1611178269&sprefix=Calvin+Comm%2Caps%2C169&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=6ec914d2fa99d13f5465bc2a2eece759&language=en_US)  
+by John Calvin (Writer)
+2009, Baker Books
+
+I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40.  
+&nbsp;  
+
+___
+
+<p style="clear:both;">
+
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0830814183&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0830814183" width="1" height="1" border="0" >}}
+[**Mark (Ancient Christian Commentary on Scripture, NT Volume 2)**](https://www.amazon.com/Mark-Ancient-Christian-Commentary-Scripture/dp/0830814183?dchild=1&keywords=Ancient+Commentary+on+Scripture+Mark&qid=1612372192&s=books&sr=1-1&linkCode=li2&tag=theologicus-20&linkId=0e1f0d83fd3f5a764ed0aa6fcf5012ce&language=en_US&ref_=as_li_ss_il)  
+by Thomas C. Odin & Christopher A. Hall (Editors)  
+2005, IVP Academic
+
+I think this entire series is an excellent resource to have on hand if you can pony up the scratch.  It's all fine and good to read guys from within the last few centuries. But how about reading commentary from within the first few centuries after the ascension of Christ. You ain't going to read anything shockingly new.  But what you are going realize there is absolutely new under the sun and Jesus Christ the same yesterday, today, and tomorrow.

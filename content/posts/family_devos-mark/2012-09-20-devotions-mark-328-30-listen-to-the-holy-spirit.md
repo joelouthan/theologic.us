@@ -3,8 +3,6 @@ title: Mark 3:28-30 Listen to the Holy Spirit
 author: Joe Louthan
 date: 2012-09-20
 url: /family_devotions/mark-328-30-listen-to-the-holy-spirit/
-dsq_thread_id:
-  - 2196204049
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**[<img class="alignright size-thumbnail wp-image-652" title="holySpiritStPeters" alt="" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/holySpiritStPeters.jpg?resize=150%2C150" width="150" height="150" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/holySpiritStPeters.jpg?resize=150%2C150 150w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/holySpiritStPeters.jpg?zoom=2&resize=150%2C150 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/holySpiritStPeters.jpg?zoom=3&resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />][1]Mark 3:28-30 “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin”—for they were saying, “He has an unclean spirit.” **
+**Mark 3:28-30 “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin”—for they were saying, “He has an unclean spirit.” **
 
 _What is blasphemy?_
 

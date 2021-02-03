@@ -3,8 +3,6 @@ title: 'Here is Love: He is Our End – Romans 8:18'
 author: Joseph Louthan
 date: 2013-08-26T13:00:30+00:00
 url: /theology/here-is-love_he-is-our-end-romans-8_18/
-dsq_thread_id:
-  - 1767994071
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-[<img class="alignright size-thumbnail wp-image-2171" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=300%2C168" alt="muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video--387b85c789" width="300" height="168" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=300%2C168 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=400%2C224 400w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?resize=600%2C337 600w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/08/muhammad-ali-s-greatness-remixed-for-maximum-inspiration-video-387b85c789.jpg?w=950 950w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]_Why even bother?_
+_Why even bother?_
 
 ******Romans 8:18 For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.**
 

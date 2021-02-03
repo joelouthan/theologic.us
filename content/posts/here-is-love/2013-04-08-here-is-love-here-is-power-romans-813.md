@@ -3,8 +3,6 @@ title: 'Here is Love: Here is Power – Romans 8:13'
 author: Joseph Louthan
 date: 2013-04-08T14:00:27+00:00
 url: /theology/here-is-love-here-is-power-romans-813/
-dsq_thread_id:
-  - 2117850889
 categories:
   - Theology
 tags:
@@ -13,7 +11,7 @@ series:
   - 'Here is Love'
 
 ---
-<figure id="attachment_1930" style="width: 231px" class="wp-caption alignright">[<img class="size-medium wp-image-1930" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/the_zombie_king_by_rhazcrossbones-d3470ff.png?resize=231%2C300" alt="The Zombie King by *Rhazcrossbones" width="231" height="300" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">The Zombie King by *Rhazcrossbones</figcaption></figure>
+
 
 **Romans 8:13 For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live.**
 

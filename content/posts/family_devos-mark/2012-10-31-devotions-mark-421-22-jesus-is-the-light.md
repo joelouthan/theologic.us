@@ -3,8 +3,6 @@ title: Mark 4:21-22 Jesus is the Light
 author: Joe Louthan
 date: 2012-10-31
 url: /family_devotions/mark-421-22-jesus-is-the-light/
-dsq_thread_id:
-  - 1945006659
 categories:
   - Devotions
 tags:
@@ -14,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-[<img class="alignright size-medium wp-image-1175" title="129-jesus-christ-light-of-the-world" alt="" src="https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg?resize=206%2C300" width="206" height="300" srcset="https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg?resize=206%2C300 206w, https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg?w=248 248w" sizes="(max-width: 206px) 100vw, 206px" data-recalc-dims="1" />][1]Mark 4:21-25** And he said to them, “Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? For nothing is hidden except to be made manifest; nor is anything secret except to come to light.**
+Mark 4:21-25** And he said to them, “Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? For nothing is hidden except to be made manifest; nor is anything secret except to come to light.**
 
 John 1:1-13 **In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it.**
   
