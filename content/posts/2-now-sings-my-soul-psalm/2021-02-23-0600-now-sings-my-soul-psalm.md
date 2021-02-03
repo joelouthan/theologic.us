@@ -11,61 +11,83 @@ series:
 - 'Now Sings My Soul: Psalms'
 showtoc: false
 css: "prayer"
-draft: true
+draft: false
 ---
 <div style="font-variant: small-caps;">
-
+The Fulfillment of My Desires
 </div>
 
-```text> Psalm 49 (CSB)
-For the choir director. A psalm of the sons of Korah.
-      Hear this, all you peoples; 
-      listen, all who inhabit the world, 
-      both low and high, 
-      rich and poor together. 
-      My mouth speaks wisdom; 
-      my heart’s meditation brings understanding. 
-      I turn my ear to a proverb; 
-      I explain my riddle with a lyre.
-      Why should I fear in times of trouble? 
-      The iniquity of my foes surrounds me. 
-      They trust in their wealth 
-      and boast of their abundant riches. 
-      Yet these cannot redeem a person 
-      or pay his ransom to God—
-      since the price of redeeming him is too costly, 
-      one should forever stop trying—
-      so that he may live forever 
-      and not see the Pit.
-      For one can see that the wise die; 
-      the foolish and stupid also pass away. 
-      Then they leave their wealth to others. 
-      Their graves are their permanent homes, 
-      their dwellings from generation to generation, 
-      though they have named estates after themselves. 
-      But despite his assets, mankind will not last; 
-      he is like the animals that perish.
-      This is the way of those who are arrogant, 
-      and of their followers, 
-      who approve of their words. 
-                                      Selah 
-      Like sheep they are headed for Sheol; 
-      Death will shepherd them. 
-      The upright will rule over them in the morning, 
-      and their form will waste away in Sheol, 
-      far from their lofty abode. 
-      But God will redeem me 
-      from the power of Sheol, 
-      for he will take me. 
-                                      Selah
-      Do not be afraid when a person gets rich, 
-      when the wealth of his house increases. 
-      For when he dies, he will take nothing at all; 
-      his wealth will not follow him down. 
-      Though he blesses himself during his lifetime—
-      and you are acclaimed when you do well for yourself—
-      he will go to the generation of his ancestors; 
-      they will never see the light. 
-      Mankind, with his assets 
-      but without understanding, 
-      is like the animals that perish.
+```text
+I am so ashamed
+  because I have tried so hard
+  to take the things of this world
+  with me to the end
+  and foolishly
+  beyond the end.
+
+I pat myself on the back
+  and congratulate myself
+  for not chasing after wealth
+  power
+  or anything else
+  and called myself holy
+  and worthy to be in your presence.
+
+But the one thing I sought
+  for all of my days
+  was not you
+  never you
+  but to fulfill the lusts
+  I had within my heart.
+
+The more sex
+  the more porn
+  the more perversion
+  the more idolatry
+  the more immorality
+  I could grab a hold of
+  the better.
+
+And exactly like the world
+  I dare justify it
+  and ignored it
+  and destroyed everything around me to obtain it.
+
+But you, O Lord
+  like how you saw Noah in the midst of evil
+  how you saw John in the midst of his mother's womb
+  how you saw Paul in the midst of his blasphemy
+  you saw me.
+
+I was not lovely to look at
+  my heart was grotesque and wicked
+  and hated others
+  especially women.
+
+But you set your eyes upon me
+  you appear
+  you called upon me
+  called me to life
+  and I was dead in my trespasses
+  but dead men have no choice
+  but to be risen to life
+  when they are awaken by the Living God.
+
+How many times
+  have I tried to wander
+  back to death
+  since then.
+
+But how many more times
+  have you
+  come and get me.
+
+Keep my feet planted
+  O Lord
+  break my heart
+  seal my soul
+  and don't release me
+  until I see you face to face.
+
+Amen
+```

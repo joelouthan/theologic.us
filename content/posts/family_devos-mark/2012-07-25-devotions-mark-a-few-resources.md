@@ -60,7 +60,7 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801041147&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0801041147" width="1" height="1" border="0" >}}  
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801041147&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0801041147" width="1" height="1" border="0" >}}
 [**Mark (New Testament Commentary)**](https://www.amazon.com/New-Testament-Commentary-Exposition-According/dp/0801041147?&linkCode=li2&tag=theologicus-20&linkId=1ec35be41362244096463baede18683f&language=en_US&ref_=as_li_ss_il)  
 William Hendriksen
 1981, Baker.
