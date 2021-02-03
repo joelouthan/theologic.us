@@ -1,8 +1,8 @@
 ---
 title: "Now Sings My Soul: Psalm 48"
 author: Joseph Louthan
-publishDate: 2021-02-16T20:00:00-06:00
-url: /now-sings-my-soul-psalm/2021-02-16-2000-now-sings-my-soul-psalm/
+publishDate: 2021-02-16T21:00:00-06:00
+url: /now-sings-my-soul-psalm/2021-02-16-2100-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:

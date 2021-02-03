@@ -1,8 +1,8 @@
 ---
 title: "Now Sings My Soul: Psalm "
 author: Joseph Louthan
-publishDate: 2021-03-30T20:00:00-06:00
-url: /now-sings-my-soul-psalm/2021-03-30-2000-now-sings-my-soul-psalm/
+publishDate: 2021-03-16T18:00:00-06:00
+url: /now-sings-my-soul-psalm/2021-03-16-1800-now-sings-my-soul-psalm/
 categories:
   - Prayers
 tags:

@@ -1,8 +1,8 @@
 ---
 title: "Now Sings My Soul: Psalm 46"
 author: Joseph Louthan
-publishDate: 2021-02-16T14:30:00-06:00
-url: /now-sings-my-soul-psalm/2021-02-16-1430-now-sings-my-soul-psalm/
+publishDate: 2021-02-16T15:00:00-06:00
+url: /now-sings-my-soul-psalm/2021-02-16-1500-now-sings-my-soul-psalm/
 categories:
 - Prayers
 tags:
