@@ -3,16 +3,15 @@ title: 'Here is Love: By Whom We Are Saved – Romans 8:29c'
 author: Joseph Louthan
 date: 2018-05-21T12:00:32+00:00
 url: /theology/here-is-love-by-whom-we-are-saved-romans-829c/
-featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/Agincourt.jpg?resize=825%2C510
 categories:
   - Theology
 tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-<span style="font-weight: 400;">Romans 8:29</span> **For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.** 
+<span style="font-weight: 400;">Romans 8:29</span> **For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.**
 
 <span style="font-weight: 400;">When we speak of Romans 8, most Christians rightfully cling to the verse 1: </span>**There is therefore now no condemnation for those who are in Christ Jesus.** <span style="font-weight: 400;">But Romans 8:1 is not the very first line of this epistle from Paul to the church in Rome. What I am getting to is that idea didn’t just come out of nowhere. What was Paul responding to? Perhaps we can look at the verses right before:</span>
 
@@ -23,19 +22,19 @@ series:
 <span style="font-weight: 400;">Even more than that, it seems to be the same question Isaiah asked:</span>
 
 <span style="font-weight: 400;">Isaiah 64:5–6 </span><span style="font-weight: 400;"><br /> </span> **     You meet him who joyfully works righteousness,** **
-  
+
 **  **     those who remember you in your ways.** **
-  
+
 **  **     Behold, you were angry, and we sinned;** **
-  
+
 **  **     in our sins we have been a long time, and shall we be saved?** **
-  
-**  **     We have all become like one who is unclean,       ****
-  
-**  **     and all our righteous deeds are like a polluted garment.****
-  
+
+**  **     We have all become like one who is unclean,       
+
+**  **     and all our righteous deeds are like a polluted garment.
+
 **  **     We all fade like a leaf,** **
-  
+
 **  **     and our iniquities, like the wind, take us away.**
 
 <span style="font-weight: 400;">Isaiah the great prophet, to whom Christ unraveled his glory before him and Christ then sent an angel to touch Isaiah’s lips with a hot coal and cleansed his soul from all unrighteousness even asked, “Shall we be saved?”</span>
@@ -56,9 +55,9 @@ series:
 
 <span style="font-weight: 400;">Romans 5:9-10 </span>**Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.**
 
-<span style="font-weight: 400;">1 Corinthians 15:1–11 </span>**Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved if you hold fast to the word I preached to you—unless you believed in vain.** 
+<span style="font-weight: 400;">1 Corinthians 15:1–11 </span>**Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved if you hold fast to the word I preached to you—unless you believed in vain.**
 
-**For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas, then to the twelve. Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one untimely born, he appeared also to me. For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me. Whether then it was I or they, so we preach and so you believed.** 
+**For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas, then to the twelve. Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one untimely born, he appeared also to me. For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me. Whether then it was I or they, so we preach and so you believed.**
 
 <span style="font-weight: 400;">Ephesians 2:1–10  </span>**And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.**
 
@@ -66,15 +65,15 @@ series:
 
 <span style="font-weight: 400;">And the Old Testament says nothing less about it even despite our “Age of Information” brains who can only search by keywords. Go back and start at the beginning.</span>
 
-<span style="font-weight: 400;">Genesis &#8211; beginning of the promise of Jesus Christ</span>
+<span style="font-weight: 400;">Genesis - beginning of the promise of Jesus Christ</span>
 
-<span style="font-weight: 400;">Exodus &#8211; Jesus will save his people from their sins</span>
+<span style="font-weight: 400;">Exodus - Jesus will save his people from their sins</span>
 
-<span style="font-weight: 400;">Leviticus &#8211; the weight of the holy law upon the shoulders of Christ</span>
+<span style="font-weight: 400;">Leviticus - the weight of the holy law upon the shoulders of Christ</span>
 
-<span style="font-weight: 400;">Numbers &#8211; the progressive sanctification of his people or to put it into other words, <strong>being conformed to the image of His Son</strong>.</span>
+<span style="font-weight: 400;">Numbers - the progressive sanctification of his people or to put it into other words, <strong>being conformed to the image of His Son</strong>.</span>
 
-<span style="font-weight: 400;">But how do we know that Christ was the Savior of those in the Old Testament when they didn&#8217;t even know His name? Paul says that in Romans 3 that God put Jesus Christ forward as a propitiation with Christ’s own blood to be received by faith. Not only with us the New Testament saints but the Old Testaments as well. God was passing over their sins in divine forbearance because those saints believed in Christ Jesus. <a class="simple-footnote" title="see Romans 3:21-26" id="return-note-3320-3" href="#note-3320-3"></a></span>
+<span style="font-weight: 400;">But how do we know that Christ was the Savior of those in the Old Testament when they didn't even know His name? Paul says that in Romans 3 that God put Jesus Christ forward as a propitiation with Christ’s own blood to be received by faith. Not only with us the New Testament saints but the Old Testaments as well. God was passing over their sins in divine forbearance because those saints believed in Christ Jesus. <a class="simple-footnote" title="see Romans 3:21-26" id="return-note-3320-3" href="#note-3320-3"></a></span>
 
 <span style="font-weight: 400;">Saints of old and saints of new were all perfectly saved by Christ alone.</span>
 
@@ -104,7 +103,7 @@ series:
   <p class="notes">
     Notes:
   </p>
-  
+
   <ol>
     <li id="note-3320-1">
       Luke 18:13 <a href="#return-note-3320-1">&#8617;</a>

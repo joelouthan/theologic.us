@@ -11,21 +11,22 @@ tags:
   - Romans
 series:
   - 'Here is Love'
+showtoc: false
 ---
-For here is love: **Genesis 3:15**  
-**I will put enmity between you and the woman,**  
-**and between your offspring and her offspring;**  
-**he shall bruise your head,**  
-**and you shall bruise his heel.** 
+For here is love: **Genesis 3:15**
+**I will put enmity between you and the woman,**
+**and between your offspring and her offspring;**
+**he shall bruise your head,**
+**and you shall bruise his heel.**
 
 And here is love: **Deuteronomy 7:6-8 “For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples, but it is because the LORD loves you and is keeping the oath that he swore to your fathers, that the LORD has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.**
 
 And here is love: **Psalm 103:15-18 As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more. But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children’s children, to those who keep his covenant and remember to do his commandments.**
 
-And here is love: **Lamentations 3:22–23**  
-    **The steadfast love of the LORD never ceases;**  
-        **his mercies never come to an end;**  
-    **they are new every morning;**  
+And here is love: **Lamentations 3:22–23**
+    **The steadfast love of the LORD never ceases;**
+        **his mercies never come to an end;**
+    **they are new every morning;**
         **great is your faithfulness.**
 
 And here is love: **Ezekiel 36:22-28 And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.**
@@ -40,10 +41,10 @@ And here is love: **Romans 5:8 but God shows his love for us in that while we we
 
 And here is love: **2 Corinthians 5:21 For our sake, He made Him to be sin who knew no sin so that in Him we might become the righteousness of God.**
 
-And here is love: **Romans 9:25-26**   
-**… Those who were not my people I will call ‘my people,’**  
-**and her who was not beloved I will call ‘beloved.’**  
-**And in the very place where it was said to them, ‘You are not my people,’**  
+And here is love: **Romans 9:25-26**
+**… Those who were not my people I will call ‘my people,’**
+**and her who was not beloved I will call ‘beloved.’**
+**And in the very place where it was said to them, ‘You are not my people,’**
 **there they will be called ‘sons of the living God.’**
 
 And here is love: **Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.**
@@ -80,7 +81,7 @@ Likewise, Jesus Christ, Son of God, who is God, would gladly be obedient to His 
 
 And again, Christ could only live as we should have lived, died the the death we should have died, and be resurrected as we cannot, and ascended to the right hand of His Father as only he can only by the power of the Holy Spirit, who, the only God that searches everyone and violently removes the hearts of stone and replaces it with God's own soft heart of love.  The Spirit himself gives Himself, God's saving grace, everyday mercies, steadfast love to His people.  And in turn, the Spirit is only one worthy enough to seal us forever and bear witness that we are the children of God.
 
-Do not listen to Satan, demons, and the world when they try to change what God has said. Moreso, your thoughts, anxieties, and idols have no power to save you. 
+Do not listen to Satan, demons, and the world when they try to change what God has said. Moreso, your thoughts, anxieties, and idols have no power to save you.
 
 God has shown to the world and has made it perfectly plain: God is love.
 

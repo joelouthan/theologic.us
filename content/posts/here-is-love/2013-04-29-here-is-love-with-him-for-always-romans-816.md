@@ -9,7 +9,7 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 **<img class="alignright size-thumbnail wp-image-2023" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?resize=300%2C168" alt="gty_courtroom_gavel_judge_mw_110908_wblog" width="300" height="168" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?resize=300%2C168 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?resize=400%2C225 400w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?w=478 478w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />Romans 8:16 The Spirit himself bears witness with our spirit that we are children of God,**
 

@@ -9,9 +9,9 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-{.hoverZoomLink}And here is love:  **Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”**
+And here is love:  **Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”**
 
 I have heard it said many times from the pulpit, “_The Bible does not say, ‘Jesus died on the cross for only his people.’”_
 
@@ -54,5 +54,3 @@ There is only ‘will save’ because of the power of the Holy Spirit through th
 With our hearts bursting forth, we can proclaim:
 
 That is love.
-
- [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/cross-backlit.jpg

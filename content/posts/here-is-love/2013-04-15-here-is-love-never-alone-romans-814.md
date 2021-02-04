@@ -9,27 +9,31 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-**<img class="alignright size-thumbnail wp-image-1958" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?resize=200%2C200" alt="kid1" width="200" height="200" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?resize=200%2C200 200w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?resize=400%2C400 400w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/04/kid1.jpg?w=500 500w" sizes="(max-width: 200px) 100vw, 200px" data-recalc-dims="1" />Romans 8:14 For all who are led by the Spirit of God are sons of God.**
-
+> Romans 8:14 For all who are led by the Spirit of God are sons of God.
+> 
 _What does it mean to be led?_
 
 The Holy Spirit is a comfort, a teacher, and a bringer of peace. Never is the Spirit of God associated with violence or forcefulness. So what does it mean to be led? Does this mean that Holy Spirit drags the kicking and screaming sons of God to Jesus Christ? By no means! The power of the Spirit of God is infinitely all-powerful. The Holy Spirit doesn’t have to force the sons of God to the Son of God because the Holy Spirit does not save us by Himself.
 
-What did Christ confirm the way we inherit eternal life? **You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.** [][1]{#return-note-1957-1.simple-footnote}
+What did Christ confirm the way we inherit eternal life? **You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.**[^1]
 
 All of God’s children fall short of loving Him with everything we have. God knew this. God knew that we were dead. In his calling to us to be his sons, how does God respond?
 
-God gives us faith: **For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned. And therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.** [][2]{#return-note-1957-2.simple-footnote}
+God gives us faith: **For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned. And therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.**[^2]
 
-God gives us the gift of repentance: **God exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins.** Also, **and I remembered the word of the Lord, how he said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’ If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God&#8217;s way?” When they heard these things they fell silent. And they glorified God, saying, “Then to the Gentiles also God has granted repentance that leads to life.”** [][3]{#return-note-1957-3.simple-footnote}
+God gives us the gift of repentance: **God exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins.**[^3]
 
-God gives us his heart: **And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.** [][4]{#return-note-1957-4.simple-footnote}
+And...
 
-God renews our minds: **Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.** [][5]{#return-note-1957-5.simple-footnote}
+**... I remembered the word of the Lord, how he said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’ If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way?” When they heard these things they fell silent. And they glorified God, saying, “Then to the Gentiles also God has granted repentance that leads to life.”**[^4]
 
-Since God has given us faith to believe and trust in him, repentance to turn away from our now dead selves, gives us His own soft tender heart, and renewed our minds, He now gives us the desires of our hearts and those desires are for God. When God loves us and calls us to be His sons, we turn from death, turn to him, run to him, ask him for him and we get him. [][6]{#return-note-1957-6.simple-footnote}
+God gives us his heart: **And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.**[^5]
+
+God renews our minds: **Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.**[^6]
+
+Since God has given us faith to believe and trust in him, repentance to turn away from our now dead selves, gives us His own soft tender heart, and renewed our minds, He now gives us the desires of our hearts and those desires are for God. When God loves us and calls us to be His sons, we turn from death, turn to him, run to him, ask him for him and we get him.[^7]
 
 The Holy Spirit has not and will not drag stiff-necked, hard hearted people to God. Those who bow before him with soft, tender hearts have desires for God and yearn for God to lead us to God. In exchange, God pours his new mercies upon us, lavishes grace upon grace, and fully extends out his everlasting love upon us all because Jesus Christ, Son of God who is God, died in our place for our sins, and was raised by the Holy Spirit on the third day.
 
@@ -39,38 +43,10 @@ The Holy Spirit leads the adopted sons of God. Jesus Christ, the Son of God who 
 
 How can we classify such power and awe? That is love. That is great love.
 
-<span style="color: #c0c0c0;"><strong>Series</strong>: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. But this begs the question: what is love? To that end, I began writing a series that answers that question.</span>
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-  
-  <ol>
-    <li id="note-1957-1">
-      Luke 10:25-28 <a href="#return-note-1957-1">&#8617;</a>
-    </li>
-    <li id="note-1957-2">
-      Romans 12:3; Hebrews 12:1-2 <a href="#return-note-1957-2">&#8617;</a>
-    </li>
-    <li id="note-1957-3">
-      Acts 5:31; Acts 11:16-18 <a href="#return-note-1957-3">&#8617;</a>
-    </li>
-    <li id="note-1957-4">
-      Ezekiel 11:19-20 <a href="#return-note-1957-4">&#8617;</a>
-    </li>
-    <li id="note-1957-5">
-      Romans 12:2 <a href="#return-note-1957-5">&#8617;</a>
-    </li>
-    <li id="note-1957-6">
-      Psalm 37:4; Luke 11:5-13 <a href="#return-note-1957-6">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
- [1]: #note-1957-1 "Luke 10:25-28"
- [2]: #note-1957-2 "Romans 12:3; Hebrews 12:1-2"
- [3]: #note-1957-3 "Acts 5:31; Acts 11:16-18"
- [4]: #note-1957-4 "Ezekiel 11:19-20"
- [5]: #note-1957-5 "Romans 12:2"
- [6]: #note-1957-6 "Psalm 37:4; Luke 11:5-13"
+[^1]: Luke 10:25-28
+[^2]: Romans 12:3; Hebrews 12:1-2
+[^3]: Acts 5:31
+[^4]: Acts 11:16-18
+[^5]: Ezekiel 11:19-20
+[^6]: Romans 12:2
+[^7]: Psalm 37:4; Luke 11:5-13

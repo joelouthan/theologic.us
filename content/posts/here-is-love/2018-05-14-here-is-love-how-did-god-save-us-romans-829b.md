@@ -3,46 +3,45 @@ title: 'Here is Love: How Did God Save Us? – Romans 8:29b'
 author: Joseph Louthan
 date: 2018-05-14T12:00:32+00:00
 url: /theology/here-is-love-how-did-god-save-us-romans-829b/
-featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/brazen-serpent-e1450126518962.jpg?resize=451%2C337
 categories:
   - Theology
 tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-<span style="font-weight: 400;">Romans 8:29</span> **For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.** 
+<span style="font-weight: 400;">Romans 8:29</span> **For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.**
 
 <span style="font-weight: 400;">So we have firmly established that God did not look into the future and see that I was good enough to be saved. I did not make the right decision to be saved or do a bunch of “good” works to be saved. We now know that from eternally past, God looked upon me and saw my wickedness, my evilness, my sins, and trespasses and graciously, sovereignly, completely, and mightily decided to save me if for no other reason other than for His glory.</span>
 
 **For my name’s sake I defer my anger;** **
-  
+
 ** **for the sake of my praise I restrain it for you,** **
-  
+
 ** **that I may not cut you off.** **
-  
+
 ** **Behold, I have refined you, but not as silver;** **
-  
+
 ** **I have tried you in the furnace of affliction.** **
-  
+
 ** **For my own sake, for my own sake, I do it,** **
-  
+
 ** **for how should my name be profaned?** **
-  
+
 ** **My glory I will not give to another.** <span style="font-weight: 400;"><a class="simple-footnote" title="Isaiah 48:9–11" id="return-note-3318-1" href="#note-3318-1"></a></span>
 
 <span style="font-weight: 400;">But because God is so glorious, the overabundance of that glory is my joy:</span>
 
 **You make known to me the path of life;** **
-  
+
 ** **in your presence there is fullness of joy;** **
-  
+
 ** **at your right hand are pleasures forevermore.** <span style="font-weight: 400;"><a class="simple-footnote" title="Psalm 16:11" id="return-note-3318-2" href="#note-3318-2"></a></span>
 
 But how did God save us?
 
-In other words, was it enough for God to save us by sending his Son to be born of an unwed, virgin, teenage girl and to live as a carpenter&#8217;s stepson?
+In other words, was it enough for God to save us by sending his Son to be born of an unwed, virgin, teenage girl and to live as a carpenter's stepson?
 
 Was it enough for the Son of God, filled with the Spirit of God, to wait until he was 30 years old to start his earthly ministry, all the while spending his entire life completely sinless and perfectly obeying the law of God?
 
@@ -68,7 +67,7 @@ Was all of that enough for Jesus Christ to save His people?
 
 **He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.** <span style="font-weight: 400;"><a class="simple-footnote" title="1 John 2:2" id="return-note-3318-6" href="#note-3318-6"></a></span>
 
-<span style="font-weight: 400;">But reading 1 John as a whole especially starting with chapter 2 verse 1, we can see that John&#8217;s intention was not to say “the whole world is saved” but rather that all brothers and sisters for all around the world are saved because of the the propitiating work of Jesus Christ who is our advocate with the Father when and if we do sin. <a class="simple-footnote" title="1 John 2:1" id="return-note-3318-7" href="#note-3318-7"></a> To even suggest that the whole world would be saved would directly contradict Matthew’s witness account of Jesus: “</span>**Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.**<span style="font-weight: 400;">” <a class="simple-footnote" title="Matthew 7:13" id="return-note-3318-8" href="#note-3318-8"></a></span>
+<span style="font-weight: 400;">But reading 1 John as a whole especially starting with chapter 2 verse 1, we can see that John's intention was not to say “the whole world is saved” but rather that all brothers and sisters for all around the world are saved because of the the propitiating work of Jesus Christ who is our advocate with the Father when and if we do sin. <a class="simple-footnote" title="1 John 2:1" id="return-note-3318-7" href="#note-3318-7"></a> To even suggest that the whole world would be saved would directly contradict Matthew’s witness account of Jesus: “</span>**Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.**<span style="font-weight: 400;">” <a class="simple-footnote" title="Matthew 7:13" id="return-note-3318-8" href="#note-3318-8"></a></span>
 
 <span style="font-weight: 400;">And I would say that John would be contradicting himself in his own gospel account in the aforementioned John 3:16. But l</span><span style="font-weight: 400;">ook closely: John did not write, “that whoever believes and doesn’t believe in him should not perish” but “</span>**that whoever believes in him should not perish but have eternal life.**<span style="font-weight: 400;">”</span>
 
@@ -76,7 +75,7 @@ Was all of that enough for Jesus Christ to save His people?
 
 <span style="font-weight: 400;">Both John, Matthew and the writers of the Bible are not mincing words when we speak of who God does and does not save (especially when you read about the Kingdom of God in Matthew chapter 13]. Instead of looking at individual verses and making them stand on their own, let us be like Christ when he walked on the road to Emmaus and understand the entire Bible speaks about himself, Jesus Christ.</span>
 
-<span style="font-weight: 400;">So we know that God is powerful to save. We know it wasn’t our “good works” or right decision that attracted the grace and favor of God upon us. We have established that God didn’t send his Son to die in mere hopes that we would make the right decision&#8211;nevermind the fact that that decision was already too late for the Old Testament saints. <a class="simple-footnote" title="Romans 3:21-26" id="return-note-3318-10" href="#note-3318-10"></a></span>
+<span style="font-weight: 400;">So we know that God is powerful to save. We know it wasn’t our “good works” or right decision that attracted the grace and favor of God upon us. We have established that God didn’t send his Son to die in mere hopes that we would make the right decision-nevermind the fact that that decision was already too late for the Old Testament saints. <a class="simple-footnote" title="Romans 3:21-26" id="return-note-3318-10" href="#note-3318-10"></a></span>
 
 <span style="font-weight: 400;">We must always remember that, unlike Christ, we came into this world “<strong>foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.</strong>” <a class="simple-footnote" title="Titus 3:3" id="return-note-3318-11" href="#note-3318-11"></a></span>
 
@@ -125,7 +124,7 @@ Was all of that enough for Jesus Christ to save His people?
   <p class="notes">
     Notes:
   </p>
-  
+
   <ol>
     <li id="note-3318-1">
       Isaiah 48:9–11 <a href="#return-note-3318-1">&#8617;</a>

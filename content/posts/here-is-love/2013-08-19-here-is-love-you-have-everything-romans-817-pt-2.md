@@ -9,7 +9,7 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 
 
@@ -23,11 +23,11 @@ Will you suffer forgetfulness, confusion, doubt, and disbelief?
 
 Will you suffer?
 
-I don’t have to explain all of life and all of mankind to you. You already know this. If you don’t know this, then you are blind and don’t see life around you. But the suffering here that Paul is talking about is not the kind of suffering that comes with the effects of sin for if that was the case, then all would be glorified with Christ our Lord. Christ himself said that would not be the case. [][2]{#return-note-2154-1.simple-footnote}
+I don’t have to explain all of life and all of mankind to you. You already know this. If you don’t know this, then you are blind and don’t see life around you. But the suffering here that Paul is talking about is not the kind of suffering that comes with the effects of sin for if that was the case, then all would be glorified with Christ our Lord. Christ himself said that would not be the case.[^2]
 
-So what is this suffering that Paul speaks of? Is he referring to when Jesus said: “Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven.” Also, when He said,  “Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.”? [][3]{#return-note-2154-2.simple-footnote} I think so.
+So what is this suffering that Paul speaks of? Is he referring to when Jesus said: “Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven.” Also, when He said,  “Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.”?[^3] I think so.
 
-Will it be the same kind of suffering that our Lord much to Peter’s dismay? Jesus Christ, who emptied himself, by taking the form of a servant, being born in the likeness of men, and being found in human form; Jesus Christ, who for the joy that was set before him endured the cross, despising the shame; he humbled himself by becoming obedient to the point of death, even death on a cross. [][4]{#return-note-2154-3.simple-footnote}
+Will it be the same kind of suffering that our Lord much to Peter’s dismay? Jesus Christ, who emptied himself, by taking the form of a servant, being born in the likeness of men, and being found in human form; Jesus Christ, who for the joy that was set before him endured the cross, despising the shame; he humbled himself by becoming obedient to the point of death, even death on a cross.[^4]
 
 For us to behold by God in the richness and loveliness of His glory, we will suffer in the same ways as our Savior and King. But this is not suffering for sake of suffering. Suffering won’t produce righteousness but rather, we are made and declared righteous by God, we will suffer.
 
@@ -45,27 +45,7 @@ The heart of God is this: He knows that is terribly painful and offers sweet rel
 
 That is love.
 
-<span style="color: #c0c0c0;"><strong>Series</strong>: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. But this begs the question: what is love? To that end, I began writing a series that answers that question.</span>
 
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-  
-  <ol>
-    <li id="note-2154-1">
-      Matthew 7:13-14 <a href="#return-note-2154-1">&#8617;</a>
-    </li>
-    <li id="note-2154-2">
-      Matthew 5:10-12 <a href="#return-note-2154-2">&#8617;</a>
-    </li>
-    <li id="note-2154-3">
-      Matthew 16:21-23; Philippians 2:7-8; Hebrews 12:2 <a href="#return-note-2154-3">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
- [1]: http://www.amazon.com/gp/product/B001OGLJZE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001OGLJZE&linkCode=as2&tag=iamlipr-20
- [2]: #note-2154-1 "Matthew 7:13-14"
- [3]: #note-2154-2 "Matthew 5:10-12"
- [4]: #note-2154-3 "Matthew 16:21-23; Philippians 2:7-8; Hebrews 12:2"
+[^2]: Matthew 7:13-14
+[^3]: Matthew 5:10-12
+[^4]: Matthew 16:21-23; Philippians 2:7-8; Hebrews 12:2

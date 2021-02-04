@@ -3,14 +3,13 @@ title: 'Here is Love: All Good – Romans 8:28'
 author: Joseph Louthan
 date: 2018-04-30T12:00:32+00:00
 url: /theology/here-is-love-all-good-romans-828/
-featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/04/a9b.jpg?resize=680%2C510
 categories:
   - Theology
 tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 <span style="font-weight: 400;">Romans 8:28 </span>**And we know that for those who love God all things work together for good, for those who are called according to his purpose.**
 
@@ -22,7 +21,7 @@ series:
 
 <span style="font-weight: 400;">Paul is saying nothing new. There is a distinction between those who love God and do not love God. We just got done reading at the beginning of Romans 8: “For those who live according to the flesh, set their minds on things of the flesh… Those who are in the flesh cannot please God.” <a class="simple-footnote" title="Romans 8:5-8" id="return-note-3282-1" href="#note-3282-1"></a></span>
 
-<span style="font-weight: 400;">Perhaps you might think Paul is too harsh. Let&#8217;s think through things for just a moment:</span>
+<span style="font-weight: 400;">Perhaps you might think Paul is too harsh. Let's think through things for just a moment:</span>
 
 <span style="font-weight: 400;">There are always talks about harmonizing the Gospels of the New Testament but when you study the teachings of Christ and the writings of Paul, what I think is happening that Paul is simply giving a theological explanation to the words and deeds of Christ.</span>
 
@@ -44,7 +43,7 @@ I dare to say that Paul is not giving anything new outside of what Jesus Christ 
 
 <span style="font-weight: 400;">So, what are </span>_<span style="font-weight: 400;">all things</span>_<span style="font-weight: 400;">? That circumstances and sin and wickedness do not dictate the statuses and the faiths of the children of God. Abuse does not.  Trauma does not. Being ignored does not. Being betrayed does not. Being tempted does not. Being poor does not. </span>
 
-<span style="font-weight: 400;">Let the world take everything&#8211;my innocence, my money, my family, my job, my education&#8211;everything that I could put all of my identity in and fall into idol worship. But because I have God, I have everything. </span>
+<span style="font-weight: 400;">Let the world take everything-my innocence, my money, my family, my job, my education-everything that I could put all of my identity in and fall into idol worship. But because I have God, I have everything. </span>
 
 <span style="font-weight: 400;">How’s that you say? Again, let us use the words of Paul: </span>
 
@@ -70,7 +69,7 @@ God, set me on fire so the rest of the world can watch me burn.
   <p class="notes">
     Notes:
   </p>
-  
+
   <ol>
     <li id="note-3282-1">
       Romans 8:5-8 <a href="#return-note-3282-1">&#8617;</a>

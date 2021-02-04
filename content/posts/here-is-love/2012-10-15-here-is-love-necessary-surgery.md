@@ -10,9 +10,9 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-![Open-heart surgery, NIH, 1955 | Format: Still image Extent: … | Flickr](../../images/4644490799_60c4e0baa2_b.jpg)**This is the good news for all time**: that Jesus Christ has come to make all things right-standing with Him.[^1]
+**This is the good news for all time**: that Jesus Christ has come to make all things right-standing with Him.[^1]
 
 [^1]:Romans 5:17; Romans 8:10; Romans 10:4; Romans 14:17; 2 Cor 5:21; Galatians 5:5
 

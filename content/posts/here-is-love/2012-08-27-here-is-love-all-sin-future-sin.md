@@ -9,8 +9,9 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
+showtoc: false
 ---
-Here is love: 
+Here is love:
 
 **Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.**
 
@@ -24,14 +25,12 @@ You were born some time in the 1900s or if you are so happened to read this a fe
 
 Look at the verse again: **but God shows his love for us in that while we were still sinners, Christ died for us.**
 
-Here is the good news: that verse never says, “but God shows his love for us based on all the good stuff we did and the bad stuff we didn’t do, Christ died for us.” It certainly never says, &#8220;God shows his love for us in that time he saw that I went forward in church, said the sinner&#8217;s prayer, Christ died for me.&#8221; It clearly says, &#8220;**while we were still sinners&#8221;**.
+Here is the good news: that verse never says, “but God shows his love for us based on all the good stuff we did and the bad stuff we didn’t do, Christ died for us.” It certainly never says, "God shows his love for us in that time he saw that I went forward in church, said the sinner's prayer, Christ died for me." It clearly says, "**while we were still sinners"**.
 
-There is no other religion, no other faith that makes these claims. The rest of the world wants you to try really hard to be perfect, do the right thing and don&#8217;t do the wrong things.  But God says, “You are going to fail because I know. I already know. Even when you do good things, you sometimes do them for the wrong reason. Even when you had good intentions, sometimes it goes bad. I already know.”
+There is no other religion, no other faith that makes these claims. The rest of the world wants you to try really hard to be perfect, do the right thing and don't do the wrong things.  But God says, “You are going to fail because I know. I already know. Even when you do good things, you sometimes do them for the wrong reason. Even when you had good intentions, sometimes it goes bad. I already know.”
 
 In other words, He looked upon me and saw that I was a horrible guy. He looked at my life and knew I was going to die apart from him. He saw that by my birth and by my choice, I was destined for destruction, decay, disease, and death.
 
 He saw everything about me. He saw it all, and despite my worst, he chose me and loved me anyways and went ahead sent His Son to die for me so I could be with Him instead.
 
 That is love.
-
-[1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/dark-rooms.jpg

@@ -9,10 +9,8 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-![image-20200505135217506](../../images/image-20200505135217506.png)
-
 God loves us. So much so, He came to us.
 
 The one who thinks of themselves as good or even, not-so-bad thinks that this is acceptable. “God should come to us. Why shouldn’t he?  God should come to me and meet me and get to know me and love me and save me despite me.”

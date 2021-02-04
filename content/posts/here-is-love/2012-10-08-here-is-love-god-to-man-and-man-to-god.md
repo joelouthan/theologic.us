@@ -9,7 +9,7 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 And here is love: **2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.**
 
@@ -50,5 +50,3 @@ Here is the exchange—the Great Exchange: Christ, in his perfection, sinless, h
 In short, the question is “_What is imputation?_” or “_How does God give everything that He has for everything that you have?_”
 
 Answer: That is love.
-
- [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/10/greatexchange.jpg

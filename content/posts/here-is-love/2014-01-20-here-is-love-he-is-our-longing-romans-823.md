@@ -9,7 +9,7 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 
 Romans 8:23 **And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.**
@@ -28,7 +28,7 @@ Instead of being the oldest brother in trying to protect my brothers and sisters
 
 Oh, how I need guidance, wisdom, understand, knowledge, comfort, and love. Wouldn’t you know that God gives us all those things and more through His Son by the power of the Holy Spirit.
 
-And by that same Spirit who raised Christ from the dead, I have the power to cry out for my Father, “Father, I&#8217;m hurt. Please make it better. Please take away this pain and torment. Please wipe away my tears. Please make everything right.”
+And by that same Spirit who raised Christ from the dead, I have the power to cry out for my Father, “Father, I'm hurt. Please make it better. Please take away this pain and torment. Please wipe away my tears. Please make everything right.”
 
 _Wait eagerly_? That would be an incredible understatement, Paul. I would give anything to have to be completely, wholly, holy, one with my Savior and Lord. I want to be in His Presence and tangibly know that everything _perfectly_ all right. I need to have that bond between me and God to be impervious to disconnections and dissolution.  I need it all.
 
@@ -36,4 +36,3 @@ I cry out to my God and Lord and Father and Savior and Love and Spirit: “Make 
 
 There is nothing else ever to ever that would have the ability, the will, and the want to answer my call except one: God Almighty.  And God answered my prayers. I wanted God, I cry out to God and therefore I get God. That thought boggles my mind. How else can I respond to such incredible love but lift my eyes to heaven, attempt to look in the face of God, and say, “Thank you for loving me.”
 
-<span style="color: #c0c0c0;"><b>Series</b>: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. So we then have to ask, <i>what is love</i>? This series is my attempt to answer that question as theologically and biblically as possible.</span>

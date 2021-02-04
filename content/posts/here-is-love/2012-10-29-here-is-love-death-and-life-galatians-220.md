@@ -4,14 +4,13 @@ author: Joseph Louthan
 date: 2012-10-29T14:00:13+00:00
 excerpt: I was in full decay. My soul was in furthest most depths of the ocean. The weighty, freezing water on top of me was my own sin crushing my own soul.
 url: /theology/here-is-love-death-and-life-galatians-220/
-featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/Screen-Shot-2018-07-07-at-103842.png?resize=825%2C510
 categories:
   - Theology
 tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 My life is not my own. My heart, my soul, my flesh, my mind, and my strength: all of it does not belong to me.
 
@@ -36,5 +35,3 @@ Christ saw my sin, depravity, wickedness, deceit, anger, lust, frustration, perv
 Galatians 2:20 **I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.**
 
 That is love.
-
-<span style="color: #c0c0c0;"><strong>Series</strong>: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. But this begs the question: what is love? To that end, I began writing a series that answers that question.</span>

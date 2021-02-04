@@ -9,9 +9,9 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-Romans 8:3-4 **For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**
+**Romans 8:3-4 For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.**
 
 What is the law?
 
@@ -25,7 +25,7 @@ Let’s rethink the law. What if the law wasn’t a bunch of rules to follow and
 
 Go back to Genesis 2.
 
-Genesis 2:15-17 **The LORD God took the man and put him in the garden of Eden to work it and keep it. And the LORD God commanded the man, saying, “You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”**
+**Genesis 2:15-17 The LORD God took the man and put him in the garden of Eden to work it and keep it. And the LORD God commanded the man, saying, “You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”**
 
 To the average person, that law is pretty straight forward: don’t eat from that freakin’ tree or you will die.
 
@@ -33,7 +33,7 @@ To the mind of the Spirit, that law serves to point back to the Creator God: eat
 
 That singular law, first given to Adam and then passed on to Eve, was not the _glue_ that kept Mankind connected to God but rather, it was God keeping the connection to Man. Here’s the catch: God is without sin. In other words, God can do without traitorous acts against Him. Logically, that makes sense. You oppose God and God can and does do without your opposition. Furthermore, God cannot tolerate sin. It is affront to His character. It is like eating a piece of sushi that has been left out on the counter for 7 days straight. Would you put that into your body? Absolutely not. Likewise with God, sin has no place in his locale. It is not that he is afraid of it, or it’s too much for him to handle or even he is restricted by its power but for the simple fact, he doesn’t have to deal with it. It is not that God is holy because of sin but rather God is holy despite any ounce of sin left in the universe.
 
-Sin is not natural. Therefore, God will move to (technically speaking,_ has already_) eradicated sin. Long before sin was a part of our world and our lives and long after it is no more, God is still holy.
+Sin is not natural. Therefore, God will move to (technically speaking, has already) eradicated sin. Long before sin was a part of our world and our lives and long after it is no more, God is still holy.
 
 Sometimes we think that as messed up and jacked up as we are, God should let us be with him despite our condition. But by our very messed up nature, we don’t want any part of God or be with God. Be honest with yourself, unbeliever, do you want to be with God? Do you want to live with him? Do you want everything about him. Or do you want him to change even a little bit even though he is eternally perfect and you are far from? Or do you want any good stuff that he might have for you and then not have anything to do with him later on.
 
@@ -47,7 +47,7 @@ Funny thing is that we can treat the law as a giant checklist and we are still n
 
 God sent the law but the law was never meant to save. Oh, it is holy. It is holy because every single one of those laws keeps pointing back to the God who is holy.
 
-Yet, God saves. God sends someone to perfectly fulfill his own law—not for bragging rights but to live the life we were supposed to live and could not. The law only pointed to God. God sends Himself as His Son in the man Jesus Christ. Christ fulfills the law. Christ points to God. Christ tells the world, “**This is the way, the truth, and the life. Come this way in order to get to God.**” [][2]{#return-note-1489-1.simple-footnote}
+Yet, God saves. God sends someone to perfectly fulfill his own law—not for bragging rights but to live the life we were supposed to live and could not. The law only pointed to God. God sends Himself as His Son in the man Jesus Christ. Christ fulfills the law. Christ points to God. Christ tells the world, “**This is the way, the truth, and the life. Come this way in order to get to God.**”[^2]
 
 In other words, in order for Man to get to God, God has to be the way to God by the way of God through God by God for God alone.
 
@@ -57,17 +57,4 @@ And in all of his splendor and majesty, he made himself to be just like the ones
 
 Not saved by law. Not saved by a bunch of rules. Not saved in our own power. Not saved by our own efforts. Not saved by our own strength. Saved alone by love—love of the only God who is love. That is love.
 
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-  
-  <ol>
-    <li id="note-1489-1">
-      John 14:6 <a href="#return-note-1489-1">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
- [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/DOC-no_one_can_do_it_better.jpg
- [2]: #note-1489-1 "John 14:6"
+[^2]: John 14:6

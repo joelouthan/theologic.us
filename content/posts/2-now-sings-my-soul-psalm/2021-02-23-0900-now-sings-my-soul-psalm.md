@@ -1,5 +1,5 @@
 ---
-title: "Now Sings My Soul: Psalm "
+title: "Now Sings My Soul: Psalm 50"
 author: Joseph Louthan
 publishDate: 2021-02-23T09:00:00-06:00
 url: /now-sings-my-soul-psalm/2021-02-23-0900-now-sings-my-soul-psalm/

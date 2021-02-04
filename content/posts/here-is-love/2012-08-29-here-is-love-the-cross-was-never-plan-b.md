@@ -9,7 +9,7 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 Here is love: **Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”**
 
@@ -58,5 +58,3 @@ Grace, pours forever.
 Holy, forever and ever.
 
 And that is love.
-
-[1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/broken-pot.jpg

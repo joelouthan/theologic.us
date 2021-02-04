@@ -9,9 +9,9 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
-And here is love: **Psalm 103:15-18 As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more.** **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children&#8217;s children, to those who keep his covenant and remember to do his commandments.** 
+And here is love: **Psalm 103:15-18 As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more.** **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children's children, to those who keep his covenant and remember to do his commandments.**
 
 This is an amazing declaration. Not that life is short, but that God’s love is declared from infinity past and does not stop all the way to infinity future.
 
@@ -23,7 +23,7 @@ Look at the line: **the steadfast love of the LORD is from everlasting to everla
 
 Look at the line once more: **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him**. It does not say, “_because_ of those who fear him.” It clearly says, “… The steadfast love of the LORD is on those who fear him.” Not _because_ but _on._ God’s love is there. It was on us because He put that on us. Why? He saved us.
 
-We know that is truly amazing. And yet, the amazing doesn’t stop there. **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him  and his righteousness to children&#8217;s children.** What does that mean? The children and the grandchildren of those who are saved will also be saved? We have the entire history of mankind that states otherwise. Have you read the Samuels, Kings and Chronicles? Then you know it isn’t true.
+We know that is truly amazing. And yet, the amazing doesn’t stop there. **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him  and his righteousness to children's children.** What does that mean? The children and the grandchildren of those who are saved will also be saved? We have the entire history of mankind that states otherwise. Have you read the Samuels, Kings and Chronicles? Then you know it isn’t true.
 
 My grandmother knew this verse. She never assumed that my dad’s, my own and my son’s salvation would be automatic. My grandmother prayed—prayed for 50 years before my dad was saved, prayed for 32 before I was saved, and prayed for 5 before my son was saved.
 
@@ -50,5 +50,3 @@ My hope and prayer is that, as God was beautifully merciful with my Dad and me, 
 Mercy. Grace. Hope. Faith. Sovereignty. Power. Might. Holy. Righteousness. Blessing. You know what is called?
 
 That is love.
-
-&nbsp;

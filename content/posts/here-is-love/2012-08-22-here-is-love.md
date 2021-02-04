@@ -9,10 +9,13 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
+css: "prayer"
 ---
-<pre style="padding-left: 30px;">Here is love, vast as the ocean,
-Lovingkindness as the flood,
+
+```text
+Here is love, vast as the ocean,
+Loving-kindness as the flood,
 When the Prince of Life, our Ransom,
 Shed for us His precious blood.
 Who His love will not remember?
@@ -27,9 +30,9 @@ Flowed a vast and gracious tide.
 Grace and love, like mighty rivers,
 Poured incessant from above,
 And Heav’n’s peace and perfect justice
-Kissed a guilty world in love.</pre>
+Kissed a guilty world in love.
 
-<pre style="padding-left: 30px;">Let me all Thy love accepting,
+Let me all Thy love accepting,
 Love Thee, ever all my days;
 Let me seek Thy kingdom only
 And my life be to Thy praise;
@@ -45,6 +48,7 @@ As I trust in Thee, my Lord.
 Of Thy fullness Thou art pouring
 Thy great love and power on me,
 Without measure, full and boundless,
-Drawing out my heart to Thee.</pre>
+Drawing out my heart to Thee.
 
 by William Rees and William Williams.
+```

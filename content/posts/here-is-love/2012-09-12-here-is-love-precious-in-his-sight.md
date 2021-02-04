@@ -9,7 +9,7 @@ tags:
   - Romans 8
 series:
   - 'Here is Love'
-
+showtoc: false
 ---
 And here is love: **Deuteronomy 7:6-8 “For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples, but it is because the LORD loves you and is keeping the oath that he swore to your fathers, that the LORD has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.**
 
@@ -19,9 +19,9 @@ However, when I read the New Testament, I cannot be so quick to dismiss or downp
 
 All that to say: when I read this passage in Deuteronomy, I cannot dismiss this as some obscure Jewish fact. This passage applies to me.
 
-**For you are a people holy to the LORD your God** &#8211; This is simple enough. I am holy because God is holy. (1 Peter 1:16; Leviticus 11:44]
+**For you are a people holy to the LORD your God** - This is simple enough. I am holy because God is holy. (1 Peter 1:16; Leviticus 11:44]
 
-**The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples**. &#8211; Of course, I am just one person. I am a born sinner. My family name is not that great. My city and country are not supreme over all historical cities and empires. I am but a mere mortal—not the strongest, not the richest, not that wise, and not that smart. Only because of Him for him by Him to Him that **out of all the peoples who are on the face of the earth**, He has chosen me. While I was a sinner and I kept on dying and kept on sinning, Christ loved me and gave his life up for me. I have no room to boast. Salvation is of the Lord alone and He is the mighty one to save. (Romans 5:12-21; Jeremiah 9:23-24; Romans 5:8; Galatians 2:20; Jonah 2:9; Zephaniah 3:17)
+**The LORD your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. It was not because you were more in number than any other people that the LORD set his love on you and chose you, for you were the fewest of all peoples**. - Of course, I am just one person. I am a born sinner. My family name is not that great. My city and country are not supreme over all historical cities and empires. I am but a mere mortal—not the strongest, not the richest, not that wise, and not that smart. Only because of Him for him by Him to Him that **out of all the peoples who are on the face of the earth**, He has chosen me. While I was a sinner and I kept on dying and kept on sinning, Christ loved me and gave his life up for me. I have no room to boast. Salvation is of the Lord alone and He is the mighty one to save. (Romans 5:12-21; Jeremiah 9:23-24; Romans 5:8; Galatians 2:20; Jonah 2:9; Zephaniah 3:17)
 
 **it is because the LORD loves you and is keeping the oath that he swore to your fathers** – God set his love, thoughts, mercies, affections, grace upon me. He did infinitely before he made one promise to either of my fathers Adam, Noah, Abraham, Moses, or David. He had his mind made up, He alone had the audacity, power, will, freedom, might, boldness, humility, holiness, righteousness, perfection, just, and love to save me. He handed down those covenants and He is the only being in this universe that cannot possibly lie or break a promise. (Hebrews 6:17-18)
 
