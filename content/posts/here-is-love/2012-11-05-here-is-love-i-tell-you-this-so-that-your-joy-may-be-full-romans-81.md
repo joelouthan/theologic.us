@@ -81,7 +81,7 @@ If you do, then know it is because His Holy Spirit dwells in you.
 
 Then it won't be just you trying to justify yourself before God.
 
-At the end of days, you will stand in line before the Judge of judges. You see countless people in front of you giving their own testimony before God on what _they_ have done for God. You notice that there are no other witnesses that can give an account of _who _ they are before God. One right after the other, Jesus calmly gives the sentence, '**I never knew you; depart from me, you workers of lawlessness.**’[^2]
+At the end of days, you will stand in line before the Judge of judges. You see countless people in front of you giving their own testimony before God on what _they_ have done for God. You notice that there are no other witnesses that can give an account of _who_ they are before God. One right after the other, Jesus calmly gives the sentence, '**I never knew you; depart from me, you workers of lawlessness.**’[^2]
 
 There is fear. Yet, you starting to see more and more of His beautiful glory and you can't wait to see just a little more. _That love!_ That love that was there the moment God saved you. There is that feeling-will-thought-idea-belief-emotion-knowledge-security-peace. The more you see of him, the more you long to see the face of the one who saved you from death to life.
 

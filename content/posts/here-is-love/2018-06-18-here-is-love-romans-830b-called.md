@@ -11,113 +11,77 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-<p class="p1">
-  And here is love: Romans 8:30b <strong>And those whom he predestined he also called…</strong>
+And here is love: Romans 8:30b <strong>And those whom he predestined he also called…</strong>
 
-<p class="p1">
-  So if there was nothing in us to attract, sway, or convinced God to love us and save us, what did God see in us before He saved us?
+So if there was nothing in us to attract, sway, or convinced God to love us and save us, what did God see in us before He saved us?
 
-<p class="p1">
-  There is a war in our world to determine the value of a human’s life. Life today is no longer precious. Consider the life of a newborn or the life of a refugee. What are they to the world as a whole but lambs up for a slaughter.
+There is a war in our world to determine the value of a human’s life. Life today is no longer precious. Consider the life of a newborn or the life of a refugee. What are they to the world as a whole but lambs up for a slaughter.
 
-<p class="p1">
-  But even biologically speaking, life of a human is determined by lungs breathing air, heart pumping blood. We could take it one step further that a life being lived to it’s capacity is one that is functioning on a brain or muscle capacity. And even further still, one that contributes to society.
+But even biologically speaking, life of a human is determined by lungs breathing air, heart pumping blood. We could take it one step further that a life being lived to it’s capacity is one that is functioning on a brain or muscle capacity. And even further still, one that contributes to society.
 
-<p class="p1">
-  But I am here to tell you that without the mark of the Spirit of God upon our lives as sons and daughters of God the Father, we are not fully made alive.
+But I am here to tell you that without the mark of the Spirit of God upon our lives as sons and daughters of God the Father, we are not fully made alive.
 
-<p class="p1">
-  All humans born, or as the Bible puts it as all those born of Adam, do breath air and hearts pump blood. But to be born is to be born under the curse of our original father. That is, to be born is to be born into sin.
+All humans born, or as the Bible puts it as all those born of Adam, do breath air and hearts pump blood. But to be born is to be born under the curse of our original father. That is, to be born is to be born into sin.
 
-<p class="p1">
-  And there is no escaping that. It is impossible for any baby to be born without the sperm of a male to be joined to the egg of the female. It would take a miracle of God to be borned of a woman alone and thus, not to inherit the curse of Adam’s first sin.
+And there is no escaping that. It is impossible for any baby to be born without the sperm of a male to be joined to the egg of the female. It would take a miracle of God to be borned of a woman alone and thus, not to inherit the curse of Adam’s first sin.
 
-<p class="p1">
-  Now, because we are born into sin, we are born to die. Consider Paul in Ephesians:
+Now, because we are born into sin, we are born to die. Consider Paul in Ephesians:
 
-<p class="p1">
-  <b>“And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.”<a class="simple-footnote" title="Ephesians 2:1-3" id="return-note-3581-1" href="#note-3581-1"></a>
+“And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.”
 
-<p class="p1">
-  or this in Titus:
+or this in Titus:
 
-<p class="p1">
-  <b>For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.<a class="simple-footnote" title="Titus 3:3" id="return-note-3581-2" href="#note-3581-2"></a>
+For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.
 
-<p class="p1">
-  Because of sin, we are dead. We are nothing more than spirit-less corpses toiling around until we fully expire. But the world wants to convince us all that there is actually life apart from God. And not only the world, but we ourselves as believers are strongly tempted to sin and stray outside the grace of God.
+Because of sin, we are dead. We are nothing more than spirit-less corpses toiling around until we fully expire. But the world wants to convince us all that there is actually life apart from God. And not only the world, but we ourselves as believers are strongly tempted to sin and stray outside the grace of God.
 
-<p class="p1">
-  We are not fully alive until we are saved by God, given a new heart, and His Spirit within us.
+We are not fully alive until we are saved by God, given a new heart, and His Spirit within us.
 
-<p class="p1">
-  So how does God go about that?
+So how does God go about that?
 
-<p class="p1">
-  First, salvation by God starts with God’s sovereign choice. But salvation certainly doesn’t end there.
+First, salvation by God starts with God’s sovereign choice. But salvation certainly doesn’t end there.
 
-<p class="p1">
-  All throughout the Bible, there is a certain thing that God does over and over again—constant and perfect—prior to someone experience God’s salvation. While we would never know God’s choice in all matters but we can see the effects of some of his choices. And none quicker and clearer than the powerful and effectual calling of God.
+All throughout the Bible, there is a certain thing that God does over and over again—constant and perfect—prior to someone experience God’s salvation. While we would never know God’s choice in all matters but we can see the effects of some of his choices. And none quicker and clearer than the powerful and effectual calling of God.
 
-<p class="p1">
-  Now, we see this in Genesis 12 when God called Abram to trust and obey him. We see the calling of God upon the birth and life of Isaac. Onward with Jacob, Joseph, Noah, Moses, and on it goes.
+Now, we see this in Genesis 12 when God called Abram to trust and obey him. We see the calling of God upon the birth and life of Isaac. Onward with Jacob, Joseph, Noah, Moses, and on it goes.
 
-<p class="p1">
-  But we only see where it was 100% effective. Does God ever call on someone and they don’t follow him? Jonah tried but was made to be convinced otherwise.
+But we only see where it was 100% effective. Does God ever call on someone and they don’t follow him? Jonah tried but was made to be convinced otherwise.
 
-<p class="p1">
-  The Bible never lists those who don’t follow God upon his calling because God’s almighty word never returns void. In other words, His word does not return back to him without fulfilling what God wants to do. <a class="simple-footnote" title="Isaiah 55:10-11" id="return-note-3581-3" href="#note-3581-3"></a> Consider this parable from Jesus:
+The Bible never lists those who don’t follow God upon his calling because God’s almighty word never returns void. In other words, His word does not return back to him without fulfilling what God wants to do.  Consider this parable from Jesus:
 
-<p class="p1">
-  Matthew 13:1–9; 18-23 <b>That same day Jesus went out of the house and sat beside the sea. And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach. And he told them many things in parables, saying: “A sower went out to sow. And as he sowed, some seeds fell along the path, and the birds came and devoured them. Other seeds fell on rocky ground, where they did not have much soil, and immediately they sprang up, since they had no depth of soil, but when the sun rose they were scorched. And since they had no root, they withered away. Other seeds fell among thorns, and the thorns grew up and choked them. Other seeds fell on good soil and produced grain, some a hundredfold, some sixty, some thirty. He who has ears, let him hear.”</b>
+Matthew 13:1–9; 18-23 That same day Jesus went out of the house and sat beside the sea. And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach. And he told them many things in parables, saying: “A sower went out to sow. And as he sowed, some seeds fell along the path, and the birds came and devoured them. Other seeds fell on rocky ground, where they did not have much soil, and immediately they sprang up, since they had no depth of soil, but when the sun rose they were scorched. And since they had no root, they withered away. Other seeds fell among thorns, and the thorns grew up and choked them. Other seeds fell on good soil and produced grain, some a hundredfold, some sixty, some thirty. He who has ears, let him hear.”
 
-<p class="p1">
-  <b>“Hear then the parable of the sower: When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path. As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy, yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away. As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful. As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.”</b>
+“Hear then the parable of the sower: When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path. As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy, yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away. As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful. As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.”
 
-<p class="p1">
-  Christ said to himself that many will hear the word of the kingdom and yet, only a few where that word takes root, grows, and thrives. But we cannot confused the blanket preaching of the gospel to everybody to the ends of the earth (which we can joyfully participate in) along with the effectual calling of God.
+Christ said to himself that many will hear the word of the kingdom and yet, only a few where that word takes root, grows, and thrives. But we cannot confused the blanket preaching of the gospel to everybody to the ends of the earth (which we can joyfully participate in) along with the effectual calling of God.
 
-<p class="p1">
-  For all that God intended to save, God will actually saved. So where we see when God calls individuals, God actually saves individuals. And now, we who possess His Holy Spirit now take the fullness and the power of gospel to everyone and everywhere, proclaim it forth and it is God who still saves.
+For all that God intended to save, God will actually saved. So where we see when God calls individuals, God actually saves individuals. And now, we who possess His Holy Spirit now take the fullness and the power of gospel to everyone and everywhere, proclaim it forth and it is God who still saves.
 
-<p class="p2">
-  <b>What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each. I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth. He who plants and he who waters are one, and each will receive his wages according to his labor. For we are God’s fellow workers. You are God’s field, God’s building.<a class="simple-footnote" title="1 Corinthians 3:5–9" id="return-note-3581-4" href="#note-3581-4"></a>
+What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each. I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth. He who plants and he who waters are one, and each will receive his wages according to his labor. For we are God’s fellow workers. You are God’s field, God’s building.
 
-<p class="p2">
-  So God predestines. From there, God calls. When He actually calls, He actually saves. Salvation includes and new heart that springs forth new desires for God and His Spirit dwells within us.
+So God predestines. From there, God calls. When He actually calls, He actually saves. Salvation includes and new heart that springs forth new desires for God and His Spirit dwells within us.
 
-<p class="p2">
-  If God charged a prophet to a call out to the valley of dry bones and they live, how much more powerful is the calling of God on those who are far from Him.
+If God charged a prophet to a call out to the valley of dry bones and they live, how much more powerful is the calling of God on those who are far from Him.
 
-<p class="p2">
-  Consider the ultimate calling of God from death unto life.
+Consider the ultimate calling of God from death unto life.
 
-<p class="p2">
-  <b>Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. Jesus said, “Take away the stone.” Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.” Jesus said to her, “Did I not tell you that if you believed you would see the glory of God?” So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.” When he had said these things, he cried out with a loud voice, “Lazarus, come out.” The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, “Unbind him, and let him go.”<a class="simple-footnote" title="John 11:38-44" id="return-note-3581-5" href="#note-3581-5"></a>
+Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. Jesus said, “Take away the stone.” Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.” Jesus said to her, “Did I not tell you that if you believed you would see the glory of God?” So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.” When he had said these things, he cried out with a loud voice, “Lazarus, come out.” The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, “Unbind him, and let him go.”
 
-<p class="p2">
-  We know Jesus has raised those who were extremely ill to the point of being thought of as death. But Jesus quickly corrects with, “She’s just asleep”. But Lazarus was someone who was dead for four days. His body was wrapped and laid in the tomb.
+We know Jesus has raised those who were extremely ill to the point of being thought of as death. But Jesus quickly corrects with, “She’s just asleep”. But Lazarus was someone who was dead for four days. His body was wrapped and laid in the tomb.
 
-<p class="p2">
-  This is the first time we’ve seen Christ step before not just His friend’s dead body but at Death itself. Through the deepest and darkest grief and pain of losing his friend, even for a moment, Christ looked upon His Father and with tears running down his cheeks, he simply prays, “Father, I thank you that you hear me and have heard me. I knew that you always heard me but I want everybody around here to know that as well so that they believe in me.”
+This is the first time we’ve seen Christ step before not just His friend’s dead body but at Death itself. Through the deepest and darkest grief and pain of losing his friend, even for a moment, Christ looked upon His Father and with tears running down his cheeks, he simply prays, “Father, I thank you that you hear me and have heard me. I knew that you always heard me but I want everybody around here to know that as well so that they believe in me.”
 
-<p class="p2">
-  It is Jesus Christ—the lord ruling over heaven, earth, and hell; the upcoming victor over Satan and his demons—faced death and with His own voice cut through Death’s power and call his friend back to himself: “Lazarus, come out!”
+It is Jesus Christ—the lord ruling over heaven, earth, and hell; the upcoming victor over Satan and his demons—faced death and with His own voice cut through Death’s power and call his friend back to himself: “Lazarus, come out!”
 
-<p class="p2">
-  This was the first time Christ faced death and won. But wasn’t the last.
+This was the first time Christ faced death and won. But wasn’t the last.
 
-<p class="p2">
-  As Christ broken, hunged, and blood drained upon that cross, through excurciating and tortorous pain and grieve as he had taken all of all the sin of all believers of all time everywhere and as He was absorbing the wrath of God for us, He called upon His Father and declared, “It is finished”, and gave up His Spirit and died.
+As Christ broken, hunged, and blood drained upon that cross, through excurciating and tortorous pain and grieve as he had taken all of all the sin of all believers of all time everywhere and as He was absorbing the wrath of God for us, He called upon His Father and declared, “It is finished”, and gave up His Spirit and died.
 
-<p class="p2">
-  We might think that Satan, demons, hell, and especially Death absolutely believe that God was defeated and Christ was dead and by what they have seen, all of mankind would perish forever.
+We might think that Satan, demons, hell, and especially Death absolutely believe that God was defeated and Christ was dead and by what they have seen, all of mankind would perish forever.
 
-<p class="p2">
-  But no! It was when Christ died and gave up his life as ransom for many is the precise moment that Satan was crushed, demons were lorded over, hell was controlled, our sins abolished, and Death defeated once and for all.
+But no! It was when Christ died and gave up his life as ransom for many is the precise moment that Satan was crushed, demons were lorded over, hell was controlled, our sins abolished, and Death defeated once and for all.
 
-<p class="p2">
-  That is a love that is simply unfathomable but that is exactly the fullest of God’s love for us.
+That is a love that is simply unfathomable but that is exactly the fullest of God’s love for us.
 
 <div class="simple-footnotes">
   <p class="notes">
@@ -138,7 +102,7 @@ showtoc: false
       1 Corinthians 3:5–9 <a href="#return-note-3581-4">&#8617;</a>
     </li>
     <li id="note-3581-5">
-      <span class="s1">John 11:38-44</span> <a href="#return-note-3581-5">&#8617;</a>
+      <span class="s1">John 11:38-44 <a href="#return-note-3581-5">&#8617;</a>
     </li>
   </ol>
 </div>

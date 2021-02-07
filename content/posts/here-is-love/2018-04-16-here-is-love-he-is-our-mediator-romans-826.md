@@ -69,35 +69,6 @@ That’s when the almighty Spirit steps in, shatters the mouth of the lion, shie
 
 That is powerful love.
 
-<span style="color: #c0c0c0;"><strong>Series</strong>: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. So we then have to ask, <em>what is love</em>? This series is my attempt to answer that question as theologically and biblically as possible.</span>
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3204-1">
-      Romans 7:24 <a href="#return-note-3204-1">&#8617;</a>
-    </li>
-    <li id="note-3204-2">
-      Romans 7:25 <a href="#return-note-3204-2">&#8617;</a>
-    </li>
-    <li id="note-3204-3">
-      Romans 5:8 <a href="#return-note-3204-3">&#8617;</a>
-    </li>
-    <li id="note-3204-4">
-      Titus 3:3 <a href="#return-note-3204-4">&#8617;</a>
-    </li>
-    <li id="note-3204-5">
-      Hebrews 1:1-2 <a href="#return-note-3204-5">&#8617;</a>
-    </li>
-    <li id="note-3204-6">
-      Titus 3:4-7 <a href="#return-note-3204-6">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
 [^1]: Romans 7:24
 [^2]: Romans 7:25
 [^3]: Romans 5:8

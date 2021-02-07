@@ -53,22 +53,5 @@ Because he loves you.
 
 Oh, the mighty love of God be will with us all today and forever. Amen.
 
-**Series**: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. So we then have to ask, _what is love_? This series is my attempt to answer that question as theologically and biblically as possible.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3245-1">
-      1 Corinthians 1-3 <a href="#return-note-3245-1">&#8617;</a>
-    </li>
-    <li id="note-3245-2">
-      Hosea 2:14; Zephaniah 3:17 <a href="#return-note-3245-2">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
 [^1]: 1 Corinthians 1-3
 [^2]: Hosea 2:14; Zephaniah 3:17

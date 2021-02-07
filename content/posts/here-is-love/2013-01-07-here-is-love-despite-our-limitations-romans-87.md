@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-**Romans 8:7 **For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot.**
+> Romans 8:7 **For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot.
 
 _What is Paul suggesting here?_ That the mind that is not renewed by the Spirit of God cannot possibly obey God’s law? So does that mean we are not breaking the law of God and therefore sinless before God?Absolutely, not!
 

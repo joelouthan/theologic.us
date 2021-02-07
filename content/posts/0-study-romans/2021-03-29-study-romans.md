@@ -11,7 +11,7 @@ tags:
   - Podcast
 series:
   - 'Bible Study: Romans'
-TocOpen: true
+tocopen: true
 draft: true
 ---
 ## The Text

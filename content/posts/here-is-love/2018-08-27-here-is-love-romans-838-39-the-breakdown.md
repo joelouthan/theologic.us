@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-**Romans 8:38–39 For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.**
+> Romans 8:38–39 For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 
 In the year of our 2018, we have Christians contending that their faith would be unshaken if the resurrection never took place. That argument is nothing new. For the orthodox Christian, this is not our first rodeo. Paul was already dealing with this argument thirty years after Jesus ascended to glory:
 

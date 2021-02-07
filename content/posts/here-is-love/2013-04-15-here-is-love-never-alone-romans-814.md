@@ -12,7 +12,7 @@ series:
 showtoc: false
 ---
 > Romans 8:14 For all who are led by the Spirit of God are sons of God.
-> 
+
 _What does it mean to be led?_
 
 The Holy Spirit is a comfort, a teacher, and a bringer of peace. Never is the Spirit of God associated with violence or forcefulness. So what does it mean to be led? Does this mean that Holy Spirit drags the kicking and screaming sons of God to Jesus Christ? By no means! The power of the Spirit of God is infinitely all-powerful. The Holy Spirit doesn’t have to force the sons of God to the Son of God because the Holy Spirit does not save us by Himself.

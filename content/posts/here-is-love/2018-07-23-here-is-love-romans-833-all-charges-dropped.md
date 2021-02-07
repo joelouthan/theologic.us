@@ -11,121 +11,83 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-<p class="p1">
-  <b>Who shall bring any charge against God’s elect? It is God who justifies.<a class="simple-footnote" title="Romans 8:33" id="return-note-3719-1" href="#note-3719-1"></a>
+Who shall bring any charge against God’s elect? It is God who justifies.
 
-<p class="p1">
-  This world and its inhabitants, princes, rulers, and principalities crouching, and ready to pounce and devour your heart and soul. They are not always going to do it with outright accusations, but they might resort to that.
+This world and its inhabitants, princes, rulers, and principalities crouching, and ready to pounce and devour your heart and soul. They are not always going to do it with outright accusations, but they might resort to that.
 
-<p class="p1">
-  “Look at your life! Look at all the mistakes you’ve made! You can’t even stay married.”
+“Look at your life! Look at all the mistakes you’ve made! You can’t even stay married.”
 
-<p class="p1">
-  “You are a failure! How many times have you switched jobs in your lifetime? Pathetic.”
+“You are a failure! How many times have you switched jobs in your lifetime? Pathetic.”
 
-<p class="p1">
-  “Why are you so fat? You are disgusting. No one can love you. No one is going to look at you.”
+“Why are you so fat? You are disgusting. No one can love you. No one is going to look at you.”
 
-<p class="p1">
-  “Why are you so stupid? You can’t figure out shit!”
+“Why are you so stupid? You can’t figure out shit!”
 
-<p class="p1">
-  “Why even try?”
+“Why even try?”
 
-<p class="p1">
-  “Why do you think such wicked and evil thoughts? Why do you call yourself a Christian? Surely, you are not saved.”
+“Why do you think such wicked and evil thoughts? Why do you call yourself a Christian? Surely, you are not saved.”
 
-<p class="p1">
-  “You are a fake and everybody knows it. God knows it.”
+“You are a fake and everybody knows it. God knows it.”
 
-<p class="p1">
-  I have sinned! I have sinned against countless people. I’ve worked in the porn industry. I have trafficked women for pleasure and profit. Who can out sin me? NOBODY! And if the Bible is correct (bonus: it is), then all of my sins are ultimately against God himself.
+I have sinned! I have sinned against countless people. I’ve worked in the porn industry. I have trafficked women for pleasure and profit. Who can out sin me? NOBODY! And if the Bible is correct (bonus: it is), then all of my sins are ultimately against God himself.
 
-**<span lang="en-US">Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.</span>**[^1]
+**<span lang="en-US">Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.**[^1]
 
-<p class="p1">
-  Was Paul is the chief of sinners? <a class="simple-footnote" title="1 Timothy 1:15" id="return-note-3719-3" href="#note-3719-3"></a> Try again, chief! Paul couldn’t out sin me on his best day. I stand at the top as the chief of all sinners past and future. I have brought wickedness, destruction, chaos, hostility, evil, and trespass against God. I have railed against God. I have warred against the Almighty. I was the greatest enemy of God because I sinned and continued to sin all the while thinking I am saved by Him while displaying no fruit of that salvation.
+Was Paul is the chief of sinners?  Try again, chief! Paul couldn’t out sin me on his best day. I stand at the top as the chief of all sinners past and future. I have brought wickedness, destruction, chaos, hostility, evil, and trespass against God. I have railed against God. I have warred against the Almighty. I was the greatest enemy of God because I sinned and continued to sin all the while thinking I am saved by Him while displaying no fruit of that salvation.
 
-<p class="p1">
-  And I had Satan, and his demons, and the world to constantly remind me of my failures and sins—those still remain against God alone.
+And I had Satan, and his demons, and the world to constantly remind me of my failures and sins—those still remain against God alone.
 
-<p class="p1">
-  But in his great love for me, God saw my wickedness, my depravity, my continuous evil thoughts and actions, and traitorous acts and definitely and defiantly declared, “That is my son! I want him in my family! And I will do so sacrificing my only begotten Son to make it happen!”
+But in his great love for me, God saw my wickedness, my depravity, my continuous evil thoughts and actions, and traitorous acts and definitely and defiantly declared, “That is my son! I want him in my family! And I will do so sacrificing my only begotten Son to make it happen!”
 
-<p class="p1">
-  Let the charges pile up. Let the accusations come. I stand accused as the adultress thrown at the feet of Jesus or the prostitute who saw the armies of the Lord approaching her home. I stand charged as Stephen before the Pharisees and an all-approving slayer of Christians. I stand condemned as a man born evil and always has done evil against the only God who is just and right and good.
+Let the charges pile up. Let the accusations come. I stand accused as the adultress thrown at the feet of Jesus or the prostitute who saw the armies of the Lord approaching her home. I stand charged as Stephen before the Pharisees and an all-approving slayer of Christians. I stand condemned as a man born evil and always has done evil against the only God who is just and right and good.
 
-<p class="p1">
-  But in the furious flames of charges that are poured upon me, Christ alone is my Rock of Ages that protects me as I rest on the cool side as His elect.
+But in the furious flames of charges that are poured upon me, Christ alone is my Rock of Ages that protects me as I rest on the cool side as His elect.
 
-<p class="p1">
-  I have not sinned against the Devil, demons, hell, death, or even the world. I have sinned against God alone! All of my sins—past, present, and future—was a clear statement that I have hated God and his people.
+I have not sinned against the Devil, demons, hell, death, or even the world. I have sinned against God alone! All of my sins—past, present, and future—was a clear statement that I have hated God and his people.
 
-<p class="p1">
-  And yet, it was God who saw me in my great evil, depravity, wickedness, and vileness and only because He loved me, He sent his Son to die for me:
+And yet, it was God who saw me in my great evil, depravity, wickedness, and vileness and only because He loved me, He sent his Son to die for me:
 
-<p class="p1">
-  <b>but God shows his love for us in that while we were still sinners, Christ died for us.<a class="simple-footnote" title="Romans 5:8" id="return-note-3719-4" href="#note-3719-4"></a>
+but God shows his love for us in that while we were still sinners, Christ died for us.
 
-<p class="p1">
-  And it was God who has chosen me before the world began:
+And it was God who has chosen me before the world began:
 
-<p class="p1">
-  <b>Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, </b><b>even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love </b><b>he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will, </b><b>to the praise of his glorious grace, with which he has blessed us in the Beloved. </b><b>In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, </b><b>which he lavished upon us, in all wisdom and insight </b><b>making known to us the mystery of his will, according to his purpose, which he set forth in Christ </b><b>as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. </b><b>In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, </b><b>so that we who were the first to hope in Christ might be to the praise of his glory. </b><b>In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, </b><b>who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.<a class="simple-footnote" title="Ephesians 1:3–14" id="return-note-3719-5" href="#note-3719-5"></a>
+Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.
 
-<p class="p1">
-  And it was God who stepped into creation, called my name and raised me from the dead:
+And it was God who stepped into creation, called my name and raised me from the dead:
 
-<p class="p1">
-  <b>And you were dead in the trespasses and sins </b><b>in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— </b><b>among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.<a class="simple-footnote" title="Ephesians 2:1–3" id="return-note-3719-6" href="#note-3719-6"></a>
+And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.
 
-<p class="p1">
-  While I was doing nothing but evil:
+While I was doing nothing but evil:
 
-<p class="p1">
-  <b>For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.<a class="simple-footnote" title="Titus 3:3" id="return-note-3719-7" href="#note-3719-7"></a>
+For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.
 
-<p class="p1">
-  And it was God who appeared in goodness and loving-kindness:
+And it was God who appeared in goodness and loving-kindness:
 
-<p class="p1">
-  <b>But when the goodness and loving kindness of God our Savior appeared, </b><b>he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, </b><b>whom he poured out on us richly through Jesus Christ our Savior, </b><b>so that being justified by his grace we might become heirs according to the hope of eternal life.<a class="simple-footnote" title="Titus 3:4–7" id="return-note-3719-8" href="#note-3719-8"></a>
+But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior, so that being justified by his grace we might become heirs according to the hope of eternal life.
 
-<p class="p1">
-  And it was God who is rich in mercy:
+And it was God who is rich in mercy:
 
-<p class="p1">
-  <b>But God, being rich in mercy, because of the great love with which he loved us, </b><b>even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— </b><b>and raised us up with him and seated us with him in the heavenly places in Christ Jesus, </b><b>so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus.<a class="simple-footnote" title="Ephesians 2:4–7" id="return-note-3719-9" href="#note-3719-9"></a>
+But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus.
 
-<p class="p1">
-  And it was God who gave me grace and faith:
+And it was God who gave me grace and faith:
 
-<p class="p1">
-  <b>For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, </b><b>not a result of works, so that no one may boast.<a class="simple-footnote" title="Ephesians 2:8–9" id="return-note-3719-10" href="#note-3719-10"></a>
+For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.
 
-<p class="p1">
-  And it was God who overflowed his grace with the same faith and love that are in His Son, Christ Jesus, my Savior, and Lord:
+And it was God who overflowed his grace with the same faith and love that are in His Son, Christ Jesus, my Savior, and Lord:
 
-<p class="p1">
-  <b>… and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus. </b><b>The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. </b><b>But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.<a class="simple-footnote" title="1 Timothy 1:14–16" id="return-note-3719-11" href="#note-3719-11"></a>
+… and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus. The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.
 
-<p class="p1">
-  And it was God who gave me a new heart and His Spirit so that I can walk in his statutes and obey him by loving Him and loving others:
+And it was God who gave me a new heart and His Spirit so that I can walk in his statutes and obey him by loving Him and loving others:
 
-<p class="p1">
-  <b>And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, </b><b>that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.<a class="simple-footnote" title="Ezekiel 11:19–20" id="return-note-3719-12" href="#note-3719-12"></a>
+And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.
 
-<p class="p1">
-  I am elect and justified and saved all because what Christ has done for me:
+I am elect and justified and saved all because what Christ has done for me:
 
-<p class="p1">
-  <b>I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.<a class="simple-footnote" title="Galatians 2:20" id="return-note-3719-13" href="#note-3719-13"></a>
+I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
-<p class="p1">
-  I have sinned against God alone but it is God alone who justifies.
+I have sinned against God alone but it is God alone who justifies.
 
-<p class="p1">
-  Who is like our God and who compares to Him? He alone is love.
+Who is like our God and who compares to Him? He alone is love.
 
 <div class="simple-footnotes">
   <p class="notes">
@@ -137,7 +99,7 @@ showtoc: false
       Romans 8:33 <a href="#return-note-3719-1">&#8617;</a>
     </li>
     <li id="note-3719-2">
-      <span lang="en-US">Psalm 51:4</span> <a href="#return-note-3719-2">&#8617;</a>
+      <span lang="en-US">Psalm 51:4 <a href="#return-note-3719-2">&#8617;</a>
     </li>
     <li id="note-3719-3">
       1 Timothy 1:15 <a href="#return-note-3719-3">&#8617;</a>

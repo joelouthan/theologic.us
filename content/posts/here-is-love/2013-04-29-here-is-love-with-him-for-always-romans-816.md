@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-**<img class="alignright size-thumbnail wp-image-2023" src="https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?resize=300%2C168" alt="gty_courtroom_gavel_judge_mw_110908_wblog" width="300" height="168" srcset="https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?resize=300%2C168 300w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?resize=400%2C225 400w, https://i1.wp.com/theologic.us/wp-content/uploads/2013/04/gty_courtroom_gavel_judge_mw_110908_wblog.jpg?w=478 478w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />Romans 8:16 The Spirit himself bears witness with our spirit that we are children of God,**
+> Romans 8:16 The Spirit himself bears witness with our spirit that we are children of God,
 
 _What can I say when I am in the presence of the Almighty God?_
 
@@ -40,5 +40,3 @@ My beautiful, glorious, majestic Savior stands before the all the witnesses and 
 I tell you all of these things so that your joy may be full.
 
 I tell you all of these things so that you know you are loved.
-
-<span style="color: #c0c0c0;"><strong>Series</strong>: Intrigued by the postmodern oft-used answer of “God is love”, by just by digging a little deeper, what I have learned is that people usually mean, “Love is God”. But this begs the question: what is love? To that end, I began writing a series that answers that question.</span>

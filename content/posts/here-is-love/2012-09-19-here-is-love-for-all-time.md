@@ -11,7 +11,9 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-And here is love: **Psalm 103:15-18 As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more.** **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children's children, to those who keep his covenant and remember to do his commandments.**
+And here is love:
+
+> Psalm 103:15-18 As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more.** **But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children's children, to those who keep his covenant and remember to do his commandments.
 
 This is an amazing declaration. Not that life is short, but that God’s love is declared from infinity past and does not stop all the way to infinity future.
 

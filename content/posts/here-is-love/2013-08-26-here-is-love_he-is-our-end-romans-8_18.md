@@ -47,7 +47,7 @@ All of everything - Nehemiah 9:6–38“You are the Lord, you alone. You have ma
 
 All of me - Psalm 3:3-4 But you, O LORD, are a shield about me, my glory, and the lifter of my head. I cried aloud to the LORD, and he answered me from his holy hill. Selah
 
-All of my salvation - Psalm 21:5 His glory is great through your salvation; splendor and majesty you bestow on him. –<i>and</i>- Psalm 62:7 On God rests my salvation and my glory; my mighty rock, my refuge is God.
+All of my salvation - Psalm 21:5 His glory is great through your salvation; splendor and majesty you bestow on him. –*and*- Psalm 62:7 On God rests my salvation and my glory; my mighty rock, my refuge is God.
 
 All of my strength - Psalm 89:17-18 For you are the glory of their strength; by your favor our horn is exalted. For our shield belongs to the LORD, our king to the Holy One of Israel.
 
@@ -57,7 +57,7 @@ Above me - Isaiah 6:1–7 In the year that King Uzziah died I saw the Lord sitti
 
 At best as I can explain it: the glory of God is everything that He is, everything that proceeds from Him and everything back to him. For the latter point, this is where the English language fails me. It is not everything that is due to him but rather He is due everything and will receive everything.  It is easy for the Christian to say, “He is due all the worship” but is that all the worship that we want for him or all the worship that proceeds from us, even if we intentionally or unintentionally worshiped Him? Every single bit of worship is due to God. When we don’t worship God, God will ensure and guarantee that He will get that worship and that glory. Everything that we do either worships God or worships not God.
 
-Philippians 2:8–11And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. <b>Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.</b>
+Philippians 2:8–11And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 
 We will all confess that Jesus Christ is Lord whether you are child of God or a child of His wrath. As much as this might tear up our hearts and soul, that is the glory of God. If you want to debate wrath and salvation, we won’t do that here. However, if the question you are asking is, “How do I know if I am his child of God or a child that sits under his wrath?” then that we can talk about.
 

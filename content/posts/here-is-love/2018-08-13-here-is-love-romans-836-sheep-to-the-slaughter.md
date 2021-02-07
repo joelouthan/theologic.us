@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-Romans 8:36 As it is written, “For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered.”
+> Romans 8:36 As it is written, “For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered.”
 
 So what if a little “tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword?”[^1] comes our way? God promises suffering for his saints. There is no way around it.
 
@@ -29,11 +29,11 @@ And that is just one example in my own life.
 
 We could forsake everything like Peter and the world will persecute us.
 
- Then he said to them, “Nation will rise against nation, and kingdom against kingdom. There will be great earthquakes, and in various places famines and pestilences. And there will be terrors and great signs from heaven. But before all this they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name’s sake. This will be your opportunity to bear witness. Settle it therefore in your minds not to meditate beforehand how to answer, for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict. You will be delivered up even by parents and brothers and relatives and friends, and some of you they will put to death. You will be hated by all for my name’s sake. But not a hair of your head will perish. By your endurance you will gain your lives.<a class="simple-footnote" title="Luke 21:10–19" id="return-note-3820-5" href="#note-3820-5"></a>
+ Then he said to them, “Nation will rise against nation, and kingdom against kingdom. There will be great earthquakes, and in various places famines and pestilences. And there will be terrors and great signs from heaven. But before all this they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name’s sake. This will be your opportunity to bear witness. Settle it therefore in your minds not to meditate beforehand how to answer, for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict. You will be delivered up even by parents and brothers and relatives and friends, and some of you they will put to death. You will be hated by all for my name’s sake. But not a hair of your head will perish. By your endurance you will gain your lives.
 
 Jesus Christ even promised the “laying on of hands”. My Charismatic friends, that is not the good kind but the the opposite of good-“bar fight with a bunch of drunk dudes at 2am in the morning” kind of laying of hands.
 
- “If the world hates you, know that it has hated me before it hated you. If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you. Remember the word that I said to you: ‘A servant is not greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours. But all these things they will do to you on account of my name, because they do not know him who sent me. If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin. Whoever hates me hates my Father also. If I had not done among them the works that no one else did, they would not be guilty of sin, but now they have seen and hated both me and my Father. But the word that is written in their Law must be fulfilled: ‘They hated me without a cause.’<a class="simple-footnote" title="John 15:18–25" id="return-note-3820-6" href="#note-3820-6"></a>
+ “If the world hates you, know that it has hated me before it hated you. If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you. Remember the word that I said to you: ‘A servant is not greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours. But all these things they will do to you on account of my name, because they do not know him who sent me. If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin. Whoever hates me hates my Father also. If I had not done among them the works that no one else did, they would not be guilty of sin, but now they have seen and hated both me and my Father. But the word that is written in their Law must be fulfilled: ‘They hated me without a cause.’
 
 The Gospel authors Matthew, Mark, Luke, and John all testify that Christ said these words.
 
@@ -51,7 +51,7 @@ Sword, terrible violence, is coming for those who love, believe, trust and follo
 
 And it is so easy to be like David in Psalm 44: on the one hand, only God saves but then immediately yells to God, “you have made us sheep to be slaughtered.”
 
-Because we have all let our own circumstances in life determine our faith in God or even more so than that, let the persecutions and the trials and sufferings of this present time dictate just how much love God has for his children. Remember when Paul said, “ For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.” <a class="simple-footnote" title="Romans 8:18" id="return-note-3820-7" href="#note-3820-7"></a>? He also said in the verse right before that we are indeed children of God and therefore heirs of God and fellow heirs with Christ <i>provided</i> that we suffer with him in order that we may also be glorified with him. <a class="simple-footnote" title="Romans 8:17" id="return-note-3820-8" href="#note-3820-8"></a>
+Because we have all let our own circumstances in life determine our faith in God or even more so than that, let the persecutions and the trials and sufferings of this present time dictate just how much love God has for his children. Remember when Paul said, “ For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.” 
 
 We can take a loss of a job, a loss of a spouse, a loss of marriage or family, a significant drop in income—whatever is your idol—and let that shape your views on God.
 
@@ -59,7 +59,7 @@ Or even one step further: I was the good kid growing up and I did all the right 
 
 More so than that: God gave us everything. Why do I know that? Because God gave us Christ Jesus, who:
 
- He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent, so he opened not his mouth.<a class="simple-footnote" title="Isaiah 53:7" id="return-note-3820-9" href="#note-3820-9"></a>
+ He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent, so he opened not his mouth.
 
 God gave us Christ to not only live for us and die for us but ascended to the cross in perfect obedience and joy.
 

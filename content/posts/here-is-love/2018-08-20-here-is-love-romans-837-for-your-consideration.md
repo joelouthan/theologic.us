@@ -23,7 +23,7 @@ Why would one teach such a thing when the Bible teaches something, not that. Whe
 
 The world calls that insanity or delusional.
 
-Christians know this not as a truth that can be selected from a multiple choice test of truths but rather <i>absolute truth</i>. It is not a mere “what is true for you is only true for you” but rather Jesus Christ, who lived, died, rose again, and ascended to heaven, is in fact ruling and reigning over all of creation demand everyone and everything to repent from their sin and put all of their trust in Him alone.
+Christians know this not as a truth that can be selected from a multiple choice test of truths but rather *absolute truth*. It is not a mere “what is true for you is only true for you” but rather Jesus Christ, who lived, died, rose again, and ascended to heaven, is in fact ruling and reigning over all of creation demand everyone and everything to repent from their sin and put all of their trust in Him alone.
 
 Now, some of you who know Christian history know for every martyr burned at the stake, many did deny Jesus to save their own lives. What about them? Did you know that one of the discussions in the church were whether or not to allow these people back into the fellowship of believers? Now, what each individual church decided, I do not know. However, just as Christ said:
 
@@ -53,7 +53,7 @@ But you see, God is Father. And being that He is our Father, He alone is Perfect
 
 When I heard my dear lovely friends’ sweet words contending for my soul, I repented. I repented of my sin, lust, foolishness, and destructive behavior and yet once again, I turned to Jesus, the author and finisher of my faith.
 
-Now, I don’t necessarily need to hear any other testimonies and stories to know that all of us Christians are weak. Weak in faith, weak in the spirit, and weak in our flesh. We even sing this in little children’s song, to which I correctly sing, “Jesus loves me this I know for the Bible tells me so. Little ones to him belong, <i>we are weak</i>, but he is strong.”
+Now, I don’t necessarily need to hear any other testimonies and stories to know that all of us Christians are weak. Weak in faith, weak in the spirit, and weak in our flesh. We even sing this in little children’s song, to which I correctly sing, “Jesus loves me this I know for the Bible tells me so. Little ones to him belong, *we are weak*, but he is strong.”
 
 But if that is being the case, the fact that we are weak, how on earth does Paul call us not only ‘conquerors’ but 'more than conquerors.’ To add even further insult to injury, the term that Paul uses here ‘more than,’ he uses one other time in 2 Corinthians 4:17-18 which some translations use the phrase “beyond all comparison” or if you grew up with the King James Version, those translators use the phrase, “far more and exceeding.” Yes, the Apostle Paul has the audacity to call us, little weak children, "far more and exceeding conquerors"! How can this be?
 

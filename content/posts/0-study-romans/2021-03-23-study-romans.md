@@ -11,7 +11,7 @@ tags:
   - Podcast
 series:
   - 'Bible Study: Romans'
-TocOpen: true
+tocopen: true
 draft: false
 ---
 ## The Text
@@ -146,3 +146,5 @@ Here's the kick to the pants: submit yourselves now to God, repent of sin and wo
 > and to the Lamb, forever and ever!  
 >
 > The four living creatures said, “Amen,” and the elders fell down and worshiped.  
+
+This is the call for those who have ears to hear: don't assume you are walking the path. I dare you to ask God where are you with him? In his righteousness by the precious blood of his Son or outside of his grace? Pray to him. Go to his word. And let the Spirit examine you right now. And then get up tomorrow and do it all over again.

@@ -13,7 +13,7 @@ tags:
   - Books
 series:
   - 'Bible Study: Romans'
-TocOpen: true
+tocopen: true
 draft: false
 ---
 
