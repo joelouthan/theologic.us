@@ -31,9 +31,9 @@ Not to Sunday School this and end it quickly, but the immediate and correct gues
 
 Remember Romans 8:14–17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
 
-And just so we are clear: the term firstborn might be a weird adjective to describe the Word of God who has always been from eternally past. But remember that Christ is the Alpha and the Omega, the Beginning and the End —the creator, founder, begetter, and perfector of our faith.
+And just so we are clear: the term firstborn might be a weird adjective to describe the Word of God who has always been from eternally past. But remember that Christ is the Alpha and the Omega, the Beginning and the End —the creator, founder, begetter, and perfecter of our faith.
 
-And since he proceeds everything, in a strange, “outside-of-time” way, it is the firstborn, founder and perfector of all the faith of the saints, both in the New and in the Old Testament.
+And since he proceeds everything, in a strange, “outside-of-time” way, it is the firstborn, founder and perfecter of all the faith of the saints, both in the New and in the Old Testament.
 
 So, we see He is first and preeminent. But God did not just merely save us in order to be first. Let’s take a look at the promises of God:
 
@@ -43,7 +43,7 @@ That we won’t simply die in sin, or stay the same but we will look like Him: P
 
 That once belong to Him, no one can take us away from him: John 10:28–30 I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
-Forever, there is no condemnationfor those who are in Christ and no separationfor those who are in Christ .
+Forever, there is no condemnation for those who are in Christ and no separation for those who are in Christ .
 
 We are saved to God forever and ever. Amen.
 
@@ -59,7 +59,7 @@ We are to meet together not to throw guilt, shame, and condemnation at one anoth
 
 Let us not neglect the meeting of the saints so that we can encourage and lift up one another and we do so not just by sincere encouragement, and prophesy that is tested by the word of God but primarily by the exposing of our sin by the law of God and the ocean of grace and love that awaits for us within the gospel of His blessed Son, Jesus Christ.
 
-On the flipside of that: when the church fails to do that, in other words, when it fails to be a safe place for the saints, what are we to do? Then neglect meeting with one another.
+On the flip side of that: when the church fails to do that, in other words, when it fails to be a safe place for the saints, what are we to do? Then neglect meeting with one another.
 
 Listen, we are the Bride. You are saved to the family of believers. You are not alone. I totally understand that if you need to depart and take it easy for a time but don’t totally close yourself off. Keep in touch. Let people know if you need help. Reach out. Allow those who you feel are safe to reach out and help and continue to encourage you.
 

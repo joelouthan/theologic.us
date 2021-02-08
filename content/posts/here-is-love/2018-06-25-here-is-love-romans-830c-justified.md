@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-And here is love: **&#8230; and those whom he called he also justified..**.
+And here is love: **and those whom he called he also justified**.
 
 This is the steadfast chain of salvation that links us to God forever and ever.
 
@@ -43,7 +43,7 @@ Redirect those who have entered the narrow gate of life away of the masses on th
 
 Justification is often referred to as a legal term because one, it is and two, a trial actually occurred.
 
-<span lang="en-US">Matthew 27:15–23 **<span lang="en-US">Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted.  <span lang="en-US">And they had then a notorious prisoner called Barabbas.  <span lang="en-US">So when they had gathered, Pilate said to them, “Whom do you want me to release for you: Barabbas, or Jesus who is called Christ?”  <span lang="en-US">For he knew that it was out of envy that they had delivered him up.  <span lang="en-US">Besides, while he was sitting on the judgment seat, his wife sent word to him, “Have nothing to do with that righteous man, for I have suffered much because of him today in a dream.”  <span lang="en-US">Now the chief priests and the elders persuaded the crowd to ask for Barabbas and destroy Jesus.  <span lang="en-US">The governor again said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.”  <span lang="en-US">Pilate said to them, “Then what shall I do with Jesus who is called Christ?” They all said, “Let him be crucified!”  <span lang="en-US">And he said, “Why? What evil has he done?” But they shouted all the more, “Let him be crucified!”**
+> Matthew 27:15–23 Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted.  And they had then a notorious prisoner called Barabbas.  So when they had gathered, Pilate said to them, “Whom do you want me to release for you: Barabbas, or Jesus who is called Christ?”  For he knew that it was out of envy that they had delivered him up.  Besides, while he was sitting on the judgment seat, his wife sent word to him, “Have nothing to do with that righteous man, for I have suffered much because of him today in a dream.”  Now the chief priests and the elders persuaded the crowd to ask for Barabbas and destroy Jesus.  The governor again said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.”  Pilate said to them, “Then what shall I do with Jesus who is called Christ?” They all said, “Let him be crucified!”  And he said, “Why? What evil has he done?” But they shouted all the more, “Let him be crucified!”
 
 Barabbas is us and Christ is Christ! There is no coincidence nor mistake in the timing of the feast of the governor and the trial of Jesus.
 
@@ -53,7 +53,9 @@ Barabbas was guilty as sin. Yet, Christ stood in his place to appease the blood-
 
 We are guilty as sin. Yet, Christ stood in our place to satisfy the just and holy wrath of God upon those do not believe and obey the Son of God.[^5]
 
-And here is love, the cross of Christ where "**<span lang="en-US">steadfast love and faithfulness meet and righteousness and peace kiss each other".** <span lang="en-US">
+And here is love, the cross of Christ where "steadfast love and faithfulness meet and righteousness and peace kiss each other".[^6]
+
+[^6]: Psalm 85:10
 
 In the end, we will all stand before that same Son of Man. I will stand before my Savior. But instead of Jesus being mocked, stripped naked, shamed, and in excruciating torturous pain crying out to His Father, Christ Jesus will be glorious, sitting in majesty and at the right hand of the Father.
 
@@ -88,33 +90,6 @@ I stare into the face of the loveliest face that I have ever seen in my existenc
 He looks into my eyes, and with the sweetest smile, he says to me, "Enter in the joy of your master."
 
 It is only by the sovereign grace of our Father, through the power and might of the Holy Spirit, by the glorious life, death, and resurrection of Christ Jesus that we are justified to God forever.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3612-1">
-      Acts 2:21; Romans 1:18-23 <a href="#return-note-3612-1">&#8617;</a>
-    </li>
-    <li id="note-3612-2">
-      John 1:33; Matthew 7:21-23 <a href="#return-note-3612-2">&#8617;</a>
-    </li>
-    <li id="note-3612-3">
-      Romans 8:1-8 <a href="#return-note-3612-3">&#8617;</a>
-    </li>
-    <li id="note-3612-4">
-      Matthew 7:13-14 <a href="#return-note-3612-4">&#8617;</a>
-    </li>
-    <li id="note-3612-5">
-      John 3:36 <a href="#return-note-3612-5">&#8617;</a>
-    </li>
-    <li id="note-3612-6">
-      Psalm 85:10 <a href="#return-note-3612-6">&#8617;</a>
-    </li>
-  </ol>
-</div>
 
 [^1]: Acts 2:21; Romans 1:18-23
 [^2]: John 1:33; Matthew 7:21-23

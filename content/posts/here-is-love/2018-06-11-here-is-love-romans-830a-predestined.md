@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-And here is love: Romans 8:30aAnd those whom he predestined …
+And here is love: Romans 8:30a **And those whom he predestined**
 
 We have now established that God loved us not just for the sake of love by itself. It is a warm and sentiment notion to be sure but when it comes to God, it is not just simply His love as though he can be reduced to one feeling. Likewise, while his love remains supreme, it isn’t all that he is. When we speak of God and receive God and take him as our own, we get everything about him. And God is love but God is also holy, righteous, just, merciful, kind, gracious, patient, all-knowing (omniscient), present everywhere (omnipresent), and almighty (omnipotent) just to name a few. Not only that, God is unlike any other being ever in that he is one hundred percent of everything that he is. Furthermore, he doesn’t have to give up one part of himself in order to be the fullest in another. He is maxed-out love, righteousness, holiness, and merciful.
 
@@ -21,7 +21,7 @@ And we know that God saved us because He is glorious. In other words, He didn’
 
 God saved us because He simply saw us and He chose us to be with Him forever.
 
-Ephesians 1:3-10 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. 
+Ephesians 1:3-10 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth.
 
 Take a look at this passage: “Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world…”Paul is exhorting us that God is blessed and God has definitely blessed us with every spiritual blessing in the heavenly places. However, for our sake and our thinking is contained within the element of time (while God is not), those blessings did not start with us, within the family we were born, the place in the world where we grew up, nor the people we know although we do know God purposely chooses all of that for us so that we “should seek God, and perhaps feel their way toward him and find him.”  It started before the foundations of the earth were laid and even before time and space were spoken into existence. It started before Genesis 1:1.
 
@@ -31,7 +31,7 @@ Or flip it the other way: I have done so well all of my life. I did the right th
 
 The argument of “From eternity past, God saw me and saw that I choose him.” We know that Romans 5:8 says otherwise.
 
-Jesus said it distinctly, “You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.” 
+Jesus said it distinctly, “You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.”
 
 We are saved for His glory. And this started with Him choosing us from a long, long time ago. Not because He predestined us to lest we believe that we are saved by election alone.
 
@@ -90,21 +90,3 @@ Recall the cry of the tax collector who cried out to God, “Have mercy on me, a
 Lady, if both of your kids know and love God, if both of your kids walk with Him in their days and keep his commandments not because they are super trying hard but by the power and grace of His Almighty Spirit through the broken and blood drained body of the Son of God, then my friends, I can almost assure you that both of your kids are saved to God.
 
 God’s maxed out love is so tremendous and wonderful that sin, death, hell, Satan, nor his demons would be able to stop Him from rescuing his people. That is the very best love.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3556-1">
-      Acts 17:26-28 <a href="#return-note-3556-1">&#8617;</a>
-    </li>
-    <li id="note-3556-2">
-      Psalm 85:10 <a href="#return-note-3556-2">&#8617;</a>
-    </li>
-    <li id="note-3556-3">
-      John 15:16 <a href="#return-note-3556-3">&#8617;</a>
-    </li>
-  </ol>
-</div>

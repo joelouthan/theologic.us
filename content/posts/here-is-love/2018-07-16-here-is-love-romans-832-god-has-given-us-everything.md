@@ -27,7 +27,7 @@ As an American, I live in the wealthiest land not only now but of all time. But 
 
 And we even know that God “makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.”
 
-There is a disparaging difference between the rich and the poor or how we are finding out now, depending on which zip code you were born and lived. Nevermind the fact that God alone determines what time you would be born but what socio-economical status aka your zip code you would be born into just so that you would seek God. 
+There is a disparaging difference between the rich and the poor or how we are finding out now, depending on which zip code you were born and lived. Never mind the fact that God alone determines what time you would be born but what socio-economical status aka your zip code you would be born into just so that you would seek God.
 
 Now, I remembered being homeless just in the last 18 months. But I now live in the most beautiful home I have ever seen in my life. I also remember when I made minimum wage. But I also remember when one year God doubled my take-home pay the proceeded to steadily increase my salary by 20% on average for seven years straight.
 
@@ -53,13 +53,13 @@ And I tell you, when my thinking of His perfect provision more right-standing wi
 
 For you see, my friend, He has given me His Son, Jesus Christ.
 
-You might reject this because it is an easy answer. I assured you when the Father gave up His Son so that His children are saved to Him, that was not easy! We do know that Christ gave up his Spirit and the Father pour his wrath upon His Son—the two most God-awful things that will ever happen to a person. But Isaiah says, "It pleased God to bruised his Son." 
+You might reject this because it is an easy answer. I assured you when the Father gave up His Son so that His children are saved to Him, that was not easy! We do know that Christ gave up his Spirit and the Father pour his wrath upon His Son—the two most God-awful things that will ever happen to a person. But Isaiah says, "It pleased God to bruised his Son."
 
 And what's even more incredible than that? Jesus Christ wanted to give his life up for mine.
 
 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
-And Christ went to the cross and hung himself there with great joy for my sake so that I would be set free in Him. 
+And Christ went to the cross and hung himself there with great joy for my sake so that I would be set free in Him.
 
 Paul speaks all the time about being content. Paul speaks of having everything and nothing and content with just the same. But I think every one of us now has a tough time grasping that concept. Heck, bills have to be paid. Car needs to be gassed. Clothes on kids wear out. We always need food and water. And none of that comes cheap nor easy.
 
@@ -74,39 +74,3 @@ In Christ, you have given me so much that heaven and earth can give me no more.
 I hope and pray that we would be content with having everything because we have Christ. And because we have Him, we shall not want.
 
 God has provided all because He is a perfect Father who loves his children.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3702-1">
-      Psalm 23:1 <a href="#return-note-3702-1">&#8617;</a>
-    </li>
-    <li id="note-3702-2">
-      Romans 8:16–17 <a href="#return-note-3702-2">&#8617;</a>
-    </li>
-    <li id="note-3702-3">
-      Hebrews 1:1–2 <a href="#return-note-3702-3">&#8617;</a>
-    </li>
-    <li id="note-3702-4">
-      Matthew 5:45 <a href="#return-note-3702-4">&#8617;</a>
-    </li>
-    <li id="note-3702-5">
-      Acts 17:24–26 <a href="#return-note-3702-5">&#8617;</a>
-    </li>
-    <li id="note-3702-6">
-      Isaiah 53:10 <a href="#return-note-3702-6">&#8617;</a>
-    </li>
-    <li id="note-3702-7">
-      Galatians 2:20 <a href="#return-note-3702-7">&#8617;</a>
-    </li>
-    <li id="note-3702-8">
-      Hebrews 12:1-2 <a href="#return-note-3702-8">&#8617;</a>
-    </li>
-    <li id="note-3702-9">
-      Proverbs 30:8–9 <a href="#return-note-3702-9">&#8617;</a>
-    </li>
-  </ol>
-</div>

@@ -45,7 +45,7 @@ So who loves God? We just read that “**Romans 8:27 And he who searches hearts 
 
 So, what are _all things_? That circumstances and sin and wickedness do not dictate the statuses and the faiths of the children of God. Abuse does not.  Trauma does not. Being ignored does not. Being betrayed does not. Being tempted does not. Being poor does not.
 
-Let the world take everything-my innocence, my money, my family, my job, my education-everything that I could put all of my identity in and fall into idol worship. But because I have God, I have everything. 
+Let the world take everything-my innocence, my money, my family, my job, my education-everything that I could put all of my identity in and fall into idol worship. But because I have God, I have everything.
 
 How’s that you say? Again, let us use the words of Paul:
 

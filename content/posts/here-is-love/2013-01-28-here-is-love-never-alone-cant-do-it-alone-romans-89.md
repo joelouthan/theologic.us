@@ -26,14 +26,14 @@ Ah, the modern yet _broken_ mind falls tragically short of being able to _actual
 Can we obtain absolute truths? This is where the post-modern starts off right. We can’t. However, they like to throw their hands up and quit trying. Absolute truths are held by God who is the source of all truths. Absolute truths include God, his love, his being, his purpose, and his will. And the only way for you or I or any of the billions upon billions of people who have lived or will ever have lived know the absolute truth of God is _if_ God and God alone reveals Himself to us.
 
 The wise and the foolish.
-The strong and the weak.  
-The rich and the poor.  
-The black and the white.  
-Nothing of what you were born into or achieved in this life will obtain God.  
-However, to his imagebearers.  
-To the ones he created in the image and likeness of Himself.  
-To ones who were led astray.  
-To the ones who were born under His wrath.  
+The strong and the weak. 
+The rich and the poor. 
+The black and the white. 
+Nothing of what you were born into or achieved in this life will obtain God. 
+However, to his imagebearers. 
+To the ones he created in the image and likeness of Himself. 
+To ones who were led astray. 
+To the ones who were born under His wrath. 
 To the ones who are far from him—
 
 He sent His Son Jesus Christ to live as we should have lived—by the power of the Holy Spirit—and died, buried and rose from death in our place for our sins. It is the same Spirit that descended from God himself and rested upon Christ is the _same_ exact Spirit that reveals the love and glory of God. It is the same Spirit that opened up your eyes to see God. It is the same Spirit that opened up your ears to hear God. It is the same Spirit that unclouded your mind in order to know God. It is the same Spirit that removed your heart of stone and gave you a new soft heart from God so that you would have new desires and your new desires are for Him.

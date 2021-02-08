@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-Who shall bring any charge against God’s elect? It is God who justifies.
+> Romans 8:33 Who shall bring any charge against God’s elect? It is God who justifies.
 
 This world and its inhabitants, princes, rulers, and principalities crouching, and ready to pounce and devour your heart and soul. They are not always going to do it with outright accusations, but they might resort to that.
 
@@ -31,7 +31,7 @@ This world and its inhabitants, princes, rulers, and principalities crouching, a
 
 I have sinned! I have sinned against countless people. I’ve worked in the porn industry. I have trafficked women for pleasure and profit. Who can out sin me? NOBODY! And if the Bible is correct (bonus: it is), then all of my sins are ultimately against God himself.
 
-**<span lang="en-US">Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.**[^1]
+**Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.**[^1]
 
 Was Paul is the chief of sinners?  Try again, chief! Paul couldn’t out sin me on his best day. I stand at the top as the chief of all sinners past and future. I have brought wickedness, destruction, chaos, hostility, evil, and trespass against God. I have railed against God. I have warred against the Almighty. I was the greatest enemy of God because I sinned and continued to sin all the while thinking I am saved by Him while displaying no fruit of that salvation.
 
@@ -88,53 +88,5 @@ I have been crucified with Christ. It is no longer I who live, but Christ who li
 I have sinned against God alone but it is God alone who justifies.
 
 Who is like our God and who compares to Him? He alone is love.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3719-1">
-      Romans 8:33 <a href="#return-note-3719-1">&#8617;</a>
-    </li>
-    <li id="note-3719-2">
-      <span lang="en-US">Psalm 51:4 <a href="#return-note-3719-2">&#8617;</a>
-    </li>
-    <li id="note-3719-3">
-      1 Timothy 1:15 <a href="#return-note-3719-3">&#8617;</a>
-    </li>
-    <li id="note-3719-4">
-      Romans 5:8 <a href="#return-note-3719-4">&#8617;</a>
-    </li>
-    <li id="note-3719-5">
-      Ephesians 1:3–14 <a href="#return-note-3719-5">&#8617;</a>
-    </li>
-    <li id="note-3719-6">
-      Ephesians 2:1–3 <a href="#return-note-3719-6">&#8617;</a>
-    </li>
-    <li id="note-3719-7">
-      Titus 3:3 <a href="#return-note-3719-7">&#8617;</a>
-    </li>
-    <li id="note-3719-8">
-      Titus 3:4–7 <a href="#return-note-3719-8">&#8617;</a>
-    </li>
-    <li id="note-3719-9">
-      Ephesians 2:4–7 <a href="#return-note-3719-9">&#8617;</a>
-    </li>
-    <li id="note-3719-10">
-      Ephesians 2:8–9 <a href="#return-note-3719-10">&#8617;</a>
-    </li>
-    <li id="note-3719-11">
-      1 Timothy 1:14–16 <a href="#return-note-3719-11">&#8617;</a>
-    </li>
-    <li id="note-3719-12">
-      Ezekiel 11:19–20 <a href="#return-note-3719-12">&#8617;</a>
-    </li>
-    <li id="note-3719-13">
-      Galatians 2:20 <a href="#return-note-3719-13">&#8617;</a>
-    </li>
-  </ol>
-</div>
 
 [^1]: Psalm 51:4

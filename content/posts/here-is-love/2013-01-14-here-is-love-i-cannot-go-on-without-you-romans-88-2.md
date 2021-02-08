@@ -15,18 +15,18 @@ showtoc: false
 
 _Is this true?_
 
-**We have all become like one who is unclean,  
-and all our righteous deeds are like a polluted garment.  
-We all fade like a leaf,  
+**We have all become like one who is unclean, 
+and all our righteous deeds are like a polluted garment. 
+We all fade like a leaf, 
 and our iniquities, like the wind, take us away.**[^1]
 
-**as it is written:  
-"None is righteous, no, not one;  
-no one understands;  
-no one seeks for God.  
-All have turned aside;  
-together they have become worthless;  
-no one does good,  
+**as it is written: 
+"None is righteous, no, not one; 
+no one understands; 
+no one seeks for God. 
+All have turned aside; 
+together they have become worthless; 
+no one does good, 
 not even one."**[^2]
 
 **for all have sinned and fall short of the glory of God,**[^3]

@@ -23,7 +23,7 @@ Ephesians 1:3–14 **Blessed be the God and Father of our Lord Jesus Christ, who
 
 In order to understand God and his love for his people, we can take this little verse, walk through it, and answer the following questions:
 
-**What did God see in us in that we would be saved to Him?** Many have speculated and theorized that foreknowledge of God simply means that God saw into the future and determined God saw those who would believe in him and not believe in him and pick accordingly. 
+**What did God see in us in that we would be saved to Him?** Many have speculated and theorized that foreknowledge of God simply means that God saw into the future and determined God saw those who would believe in him and not believe in him and pick accordingly.
 
 We teach our kids the story on how God saved Noah:
 
@@ -38,7 +38,6 @@ Romans 5:8 **but God shows his love for us in that while we were still sinners, 
 Notice it doesn't say, "while we were really good" or "doing our very best, that Christ died for us."
 
 Let’s go back and look at the passage and walk through it step by step:
-
 
 **God saw the evilness of humankind** - The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually
 
@@ -58,7 +57,7 @@ Let’s consider all of the Bible. What makes actual sense? Did Noah act right i
 - that because of his righteousness and holiness and love and mercy, God saved one family out of many and bestowed unmerited grace upon him ✅
 - And because we are only saved by grace alone, it is that Noah was declared righteous and blameless by God and walked with God as he would a friend, (✅, ✅, and ✅).
 
-As old dead white guys would say two hundred years ago, let us lay an axe to our pride and to anything that would cause us to boast before the world, each other, and most importantly, God, that we could say, “I am good, save me!” with the same intentionality as one philosopher would say, “God has to save me-it is what he does”. 
+As old dead white guys would say two hundred years ago, let us lay an axe to our pride and to anything that would cause us to boast before the world, each other, and most importantly, God, that we could say, “I am good, save me!” with the same intentionality as one philosopher would say, “God has to save me-it is what he does”.
 
 Should we be audacious before the throne of grace? As the Spirit of God bears witness with our spirits, then yes! But as a child of wrath with no thoughts or convictions about our own sin or zero affections and love towards the Saviour of the world? No! For the child of wrath is declared by the all-knowing God to be unknowable.
 

@@ -39,15 +39,15 @@ Let us run down the list of the believers before us, shall we?
 
 Noah- Built the ark to be sure but not only was he wicked and continuously had evil thoughts in his heart , you should take the time now and read his mess in Genesis 9. (For the life of me, I cannot figure out we don’t get to hear this side of Noah in church.)
 
-Abraham- Ah yes, the father of our faith, who not once but twice pimped his wife out for fear of losing his own life. 
+Abraham- Ah yes, the father of our faith, who not once but twice pimped his wife out for fear of losing his own life.
 
-Isaac- The sins of the father is in full effect here. 
+Isaac- The sins of the father is in full effect here.
 
-Jacob- What hasn’t he done? Whose name means “Trickster,” he has stolen his brother’s birthright through lies, dishonor, and scheming against his father. 
+Jacob- What hasn’t he done? Whose name means “Trickster,” he has stolen his brother’s birthright through lies, dishonor, and scheming against his father.
 
 Joseph- The folly of his pride was his downfall (perhaps don’t tell your brothers that they will worship you someday) but by the sovereign grace of God, it was not his ultimate demise.
 
-Moses- Circumcise every male as a sign of the work of God upon our hearts? Check. Except for Moses forgot that little part of the covenant and consequently, God comes to kill him. 
+Moses- Circumcise every male as a sign of the work of God upon our hearts? Check. Except for Moses forgot that little part of the covenant and consequently, God comes to kill him.
 
 And that’s just the ancient patriarchs of our faith!
 

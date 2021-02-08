@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-And here is love: Romans 8:30b <strong>And those whom he predestined he also called…</strong>
+And here is love: Romans 8:30b **And those whom he predestined he also called…**
 
 So if there was nothing in us to attract, sway, or convinced God to love us and save us, what did God see in us before He saved us?
 
@@ -23,7 +23,7 @@ But I am here to tell you that without the mark of the Spirit of God upon our li
 
 All humans born, or as the Bible puts it as all those born of Adam, do breath air and hearts pump blood. But to be born is to be born under the curse of our original father. That is, to be born is to be born into sin.
 
-And there is no escaping that. It is impossible for any baby to be born without the sperm of a male to be joined to the egg of the female. It would take a miracle of God to be borned of a woman alone and thus, not to inherit the curse of Adam’s first sin.
+And there is no escaping that. It is impossible for any baby to be born without the sperm of a male to be joined to the egg of the female. It would take a miracle of God to be born of a woman alone and thus, not to inherit the curse of Adam’s first sin.
 
 Now, because we are born into sin, we are born to die. Consider Paul in Ephesians:
 
@@ -75,34 +75,10 @@ It is Jesus Christ—the lord ruling over heaven, earth, and hell; the upcoming 
 
 This was the first time Christ faced death and won. But wasn’t the last.
 
-As Christ broken, hunged, and blood drained upon that cross, through excurciating and tortorous pain and grieve as he had taken all of all the sin of all believers of all time everywhere and as He was absorbing the wrath of God for us, He called upon His Father and declared, “It is finished”, and gave up His Spirit and died.
+As Christ broken, hung, and blood drained upon that cross, through excruciating and torturous pain and grieve as he had taken all of all the sin of all believers of all time everywhere and as He was absorbing the wrath of God for us, He called upon His Father and declared, “It is finished”, and gave up His Spirit and died.
 
 We might think that Satan, demons, hell, and especially Death absolutely believe that God was defeated and Christ was dead and by what they have seen, all of mankind would perish forever.
 
 But no! It was when Christ died and gave up his life as ransom for many is the precise moment that Satan was crushed, demons were lorded over, hell was controlled, our sins abolished, and Death defeated once and for all.
 
 That is a love that is simply unfathomable but that is exactly the fullest of God’s love for us.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-3581-1">
-      Ephesians 2:1-3 <a href="#return-note-3581-1">&#8617;</a>
-    </li>
-    <li id="note-3581-2">
-      Titus 3:3 <a href="#return-note-3581-2">&#8617;</a>
-    </li>
-    <li id="note-3581-3">
-      Isaiah 55:10-11 <a href="#return-note-3581-3">&#8617;</a>
-    </li>
-    <li id="note-3581-4">
-      1 Corinthians 3:5–9 <a href="#return-note-3581-4">&#8617;</a>
-    </li>
-    <li id="note-3581-5">
-      <span class="s1">John 11:38-44 <a href="#return-note-3581-5">&#8617;</a>
-    </li>
-  </ol>
-</div>

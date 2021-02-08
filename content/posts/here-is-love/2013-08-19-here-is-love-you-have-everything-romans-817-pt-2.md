@@ -11,9 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-
-
-** **_Will there be suffering?_
+_Will there be suffering?_
 
 Is there life? Do we live in this world? Will you suffer anxiety, worry, depression, angst, anger, frustration, and rage?
 
@@ -44,7 +42,6 @@ The heart of the Christian is this: no matter what the world may offer, Christ i
 The heart of God is this: He knows that is terribly painful and offers sweet relief. The anguish is massive and yet, he gives all the comfort. The sorrows are stacked upon me and the greatest joys are found in him. When the world stops caring about you, you are still very precious in His sight.
 
 That is love.
-
 
 [^2]: Matthew 7:13-14
 [^3]: Matthew 5:10-12

@@ -19,7 +19,7 @@ There is no whittling or dwindling of numbers as we move along the list, Christ 
 
 > John 10:28–31 I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
-The salvation and *thus, *glorification of the people of God are wholly dependent on the Father and the Son by the power of the Holy Spirit alone. This more than an unbreakable chain, to which there has never been a scheme or power by Satan powerful enough to break. This chain is unbreakable by the power of God and the logic of God: for no child saved by God is lost by God.
+The salvation and *thus*, glorification of the people of God are wholly dependent on the Father and the Son by the power of the Holy Spirit alone. This more than an unbreakable chain, to which there has never been a scheme or power by Satan powerful enough to break. This chain is unbreakable by the power of God and the logic of God: for no child saved by God is lost by God.
 
 Do you believe and trust in God? Don’t give me the response, “Well, not perfectly.” But do you ever? Did you ever weep with grief at your sin before God but cried with joy that He is the God who is mighty to save?
 
@@ -31,9 +31,9 @@ My child, do you know that God is the Prodigal Father who waits patiently and ea
 
 It is the salvation and glorification is what I call the sheer madness of God. For I try to peer deeply into the brightness of his holiness and redemption and love and above all, glory, that surely I will go mad for it does not make sense.
 
-For you see, it is not just that God thought of us before the foundations of the world. It is not just that he spoke and cut through the darkness of my sin and my death so that I would be *fully *alive. It wasn’t just that He would send His only begotten Son to live for me, die for me, raised from death for me, and then glorified for me.
+For you see, it is not just that God thought of us before the foundations of the world. It is not just that he spoke and cut through the darkness of my sin and my death so that I would be *fully* alive. It wasn’t just that He would send His only begotten Son to live for me, die for me, raised from death for me, and then glorified for me.
 
-No! My Lord and my God, who is the perfect maximum of everything, is completely, all-time, and never ever surpressing Himself, has the wherewithal and the audacity to glorify me with him.
+No! My Lord and my God, who is the perfect maximum of everything, is completely, all-time, and never ever suppressing Himself, has the wherewithal and the audacity to glorify me with him.
 
 For me, who came into this world naked and helpless.
 

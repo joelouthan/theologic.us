@@ -11,10 +11,8 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-
-
-**Romans 8:17a and if children, then heirs-heirs of God and fellow heirs with Christ,**
-
+> Romans 8:17a and if children, then heirs-heirs of God and fellow heirs with Christ,
+> 
 _What does it mean to be a child of God?_
 
 To ask that is to ask: What does it mean for the Father to set his affections upon you? What does it mean for Christ to love you, pursue you, die for you, and then live for you? What does it mean for the Spirit to lead you and to bear witness for you? What does it mean for us to cry out, “Abba, Father” to God and to have the Creator of the Universe turn and focus on you?
@@ -36,25 +34,6 @@ Because of who He is, all are ours. We have it all because He is our All-in-all.
 **1 Corinthians 3:21-23 So let no one boast in men. For all things are yours, whether Paul or Apollos or Cephas or the world or life or death or the present or the future—all are yours, and you are Christ's, and Christ is God's.**
 
 He is our all. Because of Him alone, here is all the love.
-
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-2053-1">
-      Hebrews 12:6 <a href="#return-note-2053-1">&#8617;</a>
-    </li>
-    <li id="note-2053-2">
-      Hebrews 1:2 <a href="#return-note-2053-2">&#8617;</a>
-    </li>
-    <li id="note-2053-3">
-      Romans 12:3; Hebrews 12:1-2 <a href="#return-note-2053-3">&#8617;</a>
-    </li>
-  </ol>
-</div>
 
 [^1]: Hebrews 12:6
 [^2]: Hebrews 1:2

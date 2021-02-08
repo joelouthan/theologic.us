@@ -11,8 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-
-Romans 8:23 **And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.**
+> Romans 8:23 And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.
 
 My mother abandoned me when I was five years old and I never seen her since. My father physically, emotionally, mentally, and sexually abused me when I was a child. While I have “grown” physically, my heart and my emotional growth stunted to that of a child. It is only by the grace of God and the beautiful love and patience of my wonderful wife and friends that I have emotionally matured in the last couple of years.  However, despite that growth, I have a long ways to go before I can considered myself emotionally mature.
 
@@ -35,4 +34,3 @@ _Wait eagerly_? That would be an incredible understatement, Paul. I would give a
 I cry out to my God and Lord and Father and Savior and Love and Spirit: “Make this right. Heal my wounds. Change my mind. Fill my heart. Restore my soul!”
 
 There is nothing else ever to ever that would have the ability, the will, and the want to answer my call except one: God Almighty.  And God answered my prayers. I wanted God, I cry out to God and therefore I get God. That thought boggles my mind. How else can I respond to such incredible love but lift my eyes to heaven, attempt to look in the face of God, and say, “Thank you for loving me.”
-

@@ -27,7 +27,7 @@ Even more than that, it seems to be the same question Isaiah asked:
 > You welcome the one who joyfully does what is right;  
 > they remember you in your ways.  
 > But we have sinned, and you were angry.  
->  How can we be saved if we remain in our sins?  
+> How can we be saved if we remain in our sins?  
 > All of us have become like something unclean,  
 > and all our righteous acts are like a polluted garment;  
 > all of us wither like a leaf,  

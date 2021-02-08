@@ -12,18 +12,18 @@ series:
 showtoc: false
 ---
 > Romans 8:13 For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live.
-> 
+
 _How are you going to live?_
 
 So what if you live according to your emotions, thoughts, feelings, and instincts? _I feel like this is the right thing to do. This is the wrong thing to do but I am in love. This is what my heart is saying._
 
-**There is a way that seems right to a man,  
+**There is a way that seems right to a man, 
 but its end is the way to death.**[^prov1625]
 
 [^prov1625]: Proverbs 16:25
 
-**The heart is deceitful above all things,  
-and desperately sick;  
+**The heart is deceitful above all things, 
+and desperately sick; 
 who can understand it?**[^jere179]
 
 [^jere179]: Jeremiah 17:9

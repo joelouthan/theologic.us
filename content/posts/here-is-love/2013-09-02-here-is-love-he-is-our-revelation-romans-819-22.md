@@ -11,9 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-**Romans 8:19–22 For the creation waits with eager longing for the revealing of the sons of God.  For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope  that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God.  For we know that the whole creation has been groaning together in the pains of childbirth until now.**_
-
-_
+> Romans 8:19–22 For the creation waits with eager longing for the revealing of the sons of God.  For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope  that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God.  For we know that the whole creation has been groaning together in the pains of childbirth until now.
 
 _What is the creation?_
 
@@ -31,47 +29,18 @@ No, everything is not fine. The dumb beasts in the field know that. The earth kn
 
 Yet, God, true to Himself, responds. He responds in love and he does so by sending his own Son to become flesh—to become an inhabitant of the earth. There is no hope if creation has to get back to its Creator. There is no hope if man has to make his own way to God. Yet, it is the fullness and the truthfulness of love that the Creator who subjected creation to the bondage of corruption and sheer nothingness, becomes a part of that creation and subjected himself to the same bondage of corruption and sheer nothingness.
 
-In other words,** for God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.**[^6]
+In other words, **for God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.**[^6]
 
 We all know this love: either by direct revelation by God, common grace by God, or the yearning that is in the heart of every person ever born or will ever be born.
 
 Yet, Jesus Christ is life: Mankind has fallen and died and Jesus Christ came to reverse the effects of sin. Jesus Christ is the way: Mankind is running away from him and He pursues and grabs us. Yet, Jesus Christ is righteous: All have sinned and no man or woman can dare to approach God and yet Jesus Christ saves, lifts up the lowly one, gives abundant life, fullness of joy and infinite pleasures and calls that one, friend.
 
-His love is so strong and true that He has given one simple instruction to those who now live,** “Go into all the world and proclaim the gospel to the whole creation.**[^7]
+His love is so strong and true that He has given one simple instruction to those who now live, **“Go into all the world and proclaim the gospel to the whole creation.**[^7]
 
 God has not forgotten about His creation. God has not left His creation in disarray. God has not left His creation to _die._ He enter into His own creation in order to make things right with Him. God revealed His Son, Jesus Christ, to all of mankind and all of creation.
 
 That is what we call love.
 
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-
-  <ol>
-    <li id="note-2201-1">
-      Genesis 1:6-13 <a href="#return-note-2201-1">&#8617;</a>
-    </li>
-    <li id="note-2201-2">
-      Genesis 1:20-31; Genesis 6:20, 7:14, 8:17 <a href="#return-note-2201-2">&#8617;</a>
-    </li>
-    <li id="note-2201-3">
-      Psalm 98:9; Luke 19:40 <a href="#return-note-2201-3">&#8617;</a>
-    </li>
-    <li id="note-2201-4">
-      Ecclesiastes 3:11; Romans 1:18-32 <a href="#return-note-2201-4">&#8617;</a>
-    </li>
-    <li id="note-2201-5">
-      John 3:16 <a href="#return-note-2201-5">&#8617;</a>
-    </li>
-    <li id="note-2201-6">
-      Mark 16:15 <a href="#return-note-2201-6">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
-[^1]: https://i2.wp.com/theologic.us/wp-content/uploads/2013/09/3wolfmoon_7785.jpg
 [^2]: Genesis 1:6-13
 [^3]: Genesis 1:20-31; Genesis 6:20, 7:14, 8:17
 [^4]: Psalm 98:9; Luke 19:40

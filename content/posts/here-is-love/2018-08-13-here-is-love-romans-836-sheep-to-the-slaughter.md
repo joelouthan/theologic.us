@@ -51,7 +51,7 @@ Sword, terrible violence, is coming for those who love, believe, trust and follo
 
 And it is so easy to be like David in Psalm 44: on the one hand, only God saves but then immediately yells to God, “you have made us sheep to be slaughtered.”
 
-Because we have all let our own circumstances in life determine our faith in God or even more so than that, let the persecutions and the trials and sufferings of this present time dictate just how much love God has for his children. Remember when Paul said, “ For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.” 
+Because we have all let our own circumstances in life determine our faith in God or even more so than that, let the persecutions and the trials and sufferings of this present time dictate just how much love God has for his children. Remember when Paul said, “ For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.”
 
 We can take a loss of a job, a loss of a spouse, a loss of marriage or family, a significant drop in income—whatever is your idol—and let that shape your views on God.
 
