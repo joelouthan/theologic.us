@@ -8,14 +8,13 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
-
 ## Progress: Study Romans
 
 Tentative Release Date: Mar 1st
 
-Status:
+Status as of Feb 9th:
 
-- Written 19/65
+- Written 31/65
 - Record 1/65
 
 ## NEW! Study Romans
