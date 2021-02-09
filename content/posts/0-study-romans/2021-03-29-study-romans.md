@@ -2,7 +2,7 @@
 title: 'Study: Romans 8:28'
 author: Joseph Louthan
 publishDate: 2021-03-29T06:00:00-06:00
-url: /study-romans/2021-03-01-study-romans/
+url: /study-romans/2021-03-29-study-romans/
 categories:
   - Bible Study
   - Podcast
