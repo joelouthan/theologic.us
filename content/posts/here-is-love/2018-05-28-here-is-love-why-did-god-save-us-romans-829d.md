@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 ---
-Romans 8:29For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
+> Romans 8:29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
 
 This entire series has been trying to pit the world’s definition of love versus God’s definition of love. And perhaps up until this moment, we have never taken that to actual task. What I mean by that is that comparatively speaking, if I speak of God’s love, we can still find something like that in on earth.
 
