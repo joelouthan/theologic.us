@@ -8,6 +8,24 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## NEW! Meditations from the Pastoral Epistles
+
+Two things I know now.
+
+One, I don't know how to spell 'meditations'.
+
+Two, I didn't know what I was doing with my 'reflections' on the Pastoral Epistles starting with 1 Timothy.
+
+A few months ago, I have had the sheer blessing and grace of God to be in the company of, the protegé for, and with a friend named Dave. Dave is an older saint--retired Senior Pastor of a local Baptist church, married, kids and grandkids, and has seen a few things.
+
+We agreed to walk through a study of the Pastoral Epistles. To which, I began the study and writing thereof. I was going to put these into a little series that went nowhere.
+
+But I saw the book the other day which was entitled, "Meditations on 1 Timothy". And from there, I came with up a little template containing the Text, Devotion and a Prayer for those I am ministering to.
+
+I pray that these prayers will keep my love on fire for the people of God (John 21, 1 Corinthians 12-14).
+
+Join me. New [Meditation](/series/meditations-pastoral-epistles/) every Wednesday.
+
 ## Progress: Study Romans
 
 Tentative Release Date: Mar 1st
@@ -59,55 +77,3 @@ So join me for a new daily series, [Study: Romans](https://theologic.us/tags/bib
 [^4]: Luke 24:36–49
 [^5]: Acts 1:7–8
 [^6]: John 21:15–19
-
-## NaNoWriMo: How Did I Do?
-
-**Sunday, December 13, 2020**
-
-Let's check the results:
-
-```zsh
-cat wc_theo_totals
-Week Of	    Total  Current Since
-2020-11-02 1046072 51911  868292
-2020-11-09 1080786 34714  903006
-2020-11-16 1105046 24260  927266
-2020-11-23 1185668 80622  1007888
-2020-11-30 1232570 28952  1054790
-```
-
-According to my calculations, the number of words written for the month of November: 186,498.
-
-Not too shabby.
-
-Here's the kick: most of that is not in blog. Most of those words won't see the light of day. Most of those are my private, intimate moments with God.
-
-And yet, essentially, I had my prayer journal within my blog--all with Draft status as `true`.  I felt as though I was playing with fire. I wouldn't know what to do if they accidentally published or somehow if Google was able to index it and made it available.
-
-So I had to pull them out and put them into their own repo.
-
-Which divides up the word count like so:
-
-```zsh
-====================================================
-Week Of    Theo    Prayers  Total     Current Since
-2020-12-10 325611  1176342  1501953   1176879 1324173
-```
-
-Index:
-
-`Theo` - Total word count within my blog
-
-`Prayers` - Total word count within my prayer journals
-
-`Total` - Theo plus Prayers
-
-`Current` - Total words written minus last weeks' total
-
-`Since` - Total words written since migration to Hugo back in April 2020
-
-What I am so deeply encouraged by is that for every four words written in prayer, one word is written on the blog. I like that a lot. It feels like I am on the right track.
-
-I still need to keep punching on Prayers on the Psalms if I am going to finish within my lifetime.
-
-Pray for me.
