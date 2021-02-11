@@ -66,6 +66,8 @@ params:
               url: /series/bible-study-romans/
             - name: "Now Sings My Soul: Psalmic Prayers"
               url: /series/now-sings-my-soul-psalms/
+            - name: "Meditations: Pastorals"
+              url: /series/meditations-pastoral-epistles/
             - name: "Family Devotions: Luke"
               url: /series/family-devotions-luke/
 
