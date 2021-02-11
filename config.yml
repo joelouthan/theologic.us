@@ -58,8 +58,8 @@ params:
         buttons:
             - name: Recent Posts
               url: posts
-            - name: Update
-              url: update
+            - name: Updates
+              url: updates
             - name: Series
               url: series
             - name: "Bible Study: Romans"
