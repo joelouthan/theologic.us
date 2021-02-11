@@ -171,18 +171,29 @@ What does it really mean to deny Christ?  Is it mere words or the heart?
 ```
 
 > John 18:15-18 (CSB) Simon Peter was following Jesus, as was another disciple. That disciple was an acquaintance of the high priest; so he went with Jesus into the high priest’s courtyard. But Peter remained standing outside by the door. So the other disciple, the one known to the high priest, went out and spoke to the girl who was the doorkeeper and brought Peter in.
-> Then the servant girl who was the doorkeeper said to Peter, “You aren’t one of this man’s disciples too, are you?”  
-> “I am not,” he said. Now the servants and the officials had made a charcoal fire, because it was cold. They were standing there warming themselves, and Peter was standing with them, warming himself.  
 >
-> John 18:25-27 (CSB) Now Simon Peter was standing and warming himself. They said to him, “You aren’t one of his disciples too, are you?”  
-> He denied it and said, “I am not.”  
-> One of the high priest’s servants, a relative of the man whose ear Peter had cut off, said, “Didn’t I see you with him in the garden?” Peter denied it again. Immediately a rooster crowed.  
+> Then the servant girl who was the doorkeeper said to Peter, “You aren’t one of this man’s disciples too, are you?”
 >
-> John 21:15-19 (CSB) When they had eaten breakfast, Jesus asked Simon Peter, “Simon, son of John, do you love me more than these?”  
-> “Yes, Lord,” he said to him, “you know that I love you.”  
-> “Feed my lambs,” he told him. A second time he asked him, “Simon, son of John, do you love me?”  
-> “Yes, Lord,” he said to him, “you know that I love you.”  
-> “Shepherd my sheep,” he told him.  
-> He asked him the third time, “Simon, son of John, do you love me?”  
-> Peter was grieved that he asked him the third time, “Do you love me?” He said, “Lord, you know everything; you know that I love you.”  
+> “I am not,” he said. Now the servants and the officials had made a charcoal fire, because it was cold. They were standing there warming themselves, and Peter was standing with them, warming himself.
+
+> John 18:25-27 (CSB) Now Simon Peter was standing and warming himself. They said to him, “You aren’t one of his disciples too, are you?”
+>
+> He denied it and said, “I am not.”
+>
+> One of the high priest’s servants, a relative of the man whose ear Peter had cut off, said, “Didn’t I see you with him in the garden?” Peter denied it again. Immediately a rooster crowed.
+
+> John 21:15-19 (CSB) When they had eaten breakfast, Jesus asked Simon Peter, “Simon, son of John, do you love me more than these?”
+>
+> “Yes, Lord,” he said to him, “you know that I love you.”
+>
+> “Feed my lambs,” he told him. A second time he asked him, “Simon, son of John, do you love me?”
+>
+> “Yes, Lord,” he said to him, “you know that I love you.”
+>
+> “Shepherd my sheep,” he told him.
+>
+> He asked him the third time, “Simon, son of John, do you love me?”
+>
+> Peter was grieved that he asked him the third time, “Do you love me?” He said, “Lord, you know everything; you know that I love you.”
+>
 > “Feed my sheep,” Jesus said. “Truly I tell you, when you were younger, you would tie your belt and walk wherever you wanted. But when you grow old, you will stretch out your hands and someone else will tie you and carry you where you don’t want to go.” He said this to indicate by what kind of death Peter would glorify God. After saying this, he told him, “Follow me.”
