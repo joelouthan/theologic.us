@@ -15,11 +15,11 @@ showtoc: false
 
 Let’s try to find a verse that sums up the whole Bible concerning the gospel of our Lord Jesus Christ, and you will have your choice of a few verses:
 
-“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+> John 3:16 For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
 
-I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+> Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
-but God shows his love for us in that while we were still sinners, Christ died for us.
+> Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
 
 … just to name a few.
 
@@ -55,7 +55,7 @@ David- This one is a keeper. Whom God called “a man after my own heart,” who
 
 And yet, look at what Paul says about all the sins of the Old Testament saints:
 
-But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: for all have sinned and fell short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a propitiation by his blood, to be received by faith. This was to show God’s righteousness, because in his divine forbearance he had passed over former sins. It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.
+> Romans 3:21-26 But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: for all have sinned and fell short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a propitiation by his blood, to be received by faith. This was to show God’s righteousness, because in his divine forbearance he had passed over former sins. It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.
 
 The old saints were just as jacked up as any sinner who ever lived, but they were not given a free pass. What saved the saints of old is the same thing that saved the saints of the new (including you and me) and that is the cross of Jesus Christ.
 

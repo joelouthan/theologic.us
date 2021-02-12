@@ -1,4 +1,4 @@
-
+---
 title: 'Here is Love: The Preeminence of the Love of God Romans 8:31'
 author: Joseph Louthan
 date: 20180709T12:00:27+00:00
@@ -10,6 +10,7 @@ tags:
 series:
   'Here is Love'
 showtoc: false
+---
 
 > Romans 8:31 What then shall we say to these things? If God is for us, who can be against us?
 
@@ -35,8 +36,7 @@ Fair enough. Shall we look in the context of the verse in order to get the answe
 
 Let us walk through from Romans 1:1 to where we are at now in 8:37 for the straight facts:
 
-- Romans 1:1-17 The Gospel of God - The gospel is the power of God in salvation to everyone who believes, to the Jew first and also the Greek, and in that same gospel, the 
-- righteousness of God is revealed from faith to faith, for it is written, “the just shall live by faith”. To that end, we are cannot be ashamed.
+- Romans 1:1-17 The Gospel of God - The gospel is the power of God in salvation to everyone who believes, to the Jew first and also the Greek, and in that same gospel, the righteousness of God is revealed from faith to faith, for it is written, “the just shall live by faith”. To that end, we are cannot be ashamed.
 - Romans 1:18-32 The Depravity of Man -  God’s wrath from heaven is revealed against those who suppress the truth of God and by doing so, do not believe in and obey God.
 - Romans 2 Our Stony Hearts towards him and yet His Soft Heart towards us - While our hearts remained hardened towards Him and his gospel, God continues to be slow to anger, rich in kindness and patience and abounding in steadfast love in hopes that we would repent.
 - Romans 3:1-8 The Law of God - Those who were born without the law will perish without the law. However, those who were born under the law had every advantage of the nature and being of God and yet perish because they do not seek nor love God.
