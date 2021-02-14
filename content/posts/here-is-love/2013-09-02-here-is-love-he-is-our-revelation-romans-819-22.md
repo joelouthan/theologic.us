@@ -6,7 +6,7 @@ url: /theology/here-is-love-he-is-our-revelation-romans-819-22/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

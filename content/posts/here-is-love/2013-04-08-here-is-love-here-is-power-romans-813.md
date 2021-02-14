@@ -6,7 +6,7 @@ url: /theology/here-is-love-here-is-power-romans-813/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

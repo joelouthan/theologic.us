@@ -6,7 +6,7 @@ url: /theology/here-is-love-romans-838-39-the-breakdown/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

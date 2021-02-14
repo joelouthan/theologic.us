@@ -6,7 +6,7 @@ url: /theology/here-is-love-you-have-been-set-free-romans-82/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: Gospel of God Foremost '
+title: "A Few Points for Friday: Gospel of God Foremost"
 author: Joseph Louthan
 publishDate: 2020-07-10T06:00:00-06:00
 url: /few_points_friday/2020-07-10-few_points_friday/
@@ -9,7 +9,7 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## Not a Conspiracy Theory

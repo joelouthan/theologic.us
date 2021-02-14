@@ -1,13 +1,15 @@
 ---
-title: 'A Few Points for Friday: Star Wars & Deadlifts Edition'
+title: "A Few Points for Friday: Star Wars & Deadlifts Edition"
 author: Joseph Louthan
 publishDate: 2020-05-01T06:00:00-06:00
 url: /few_points_friday/2020-05-01-few_points_friday/
 categories:
-  - Links
+  - Quotes
 tags:
+  - Quotes
+series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## 501KG Deadlift - Hafthor Bjornsson
@@ -39,4 +41,3 @@ Sad to report, this guy deadlifts more than I can lift in *total*.
 >Raymond C. Ortlund, Jr.. *Isaiah (Preaching the Word Commentaries)*. 19
 
 [^1]:Institutes, 3.7.2. Cf. Timothy George, *Theology of the Reformers*
-

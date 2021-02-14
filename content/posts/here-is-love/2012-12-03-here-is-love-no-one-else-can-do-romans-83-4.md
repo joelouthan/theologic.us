@@ -6,7 +6,7 @@ url: /theology/here-is-love-no-one-else-can-do-romans-83-4/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

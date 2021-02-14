@@ -6,7 +6,7 @@ url: /theology/here-is-love-romans-833-all-charges-dropped/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

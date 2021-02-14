@@ -6,7 +6,7 @@ url: /theology/here-is-love-by-whom-we-are-saved-romans-829c/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

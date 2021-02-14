@@ -6,7 +6,7 @@ url: /theology/here-is-love-despite-us-for-us/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

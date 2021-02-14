@@ -6,7 +6,7 @@ url: /theology/here-is-love_he-is-our-end-romans-8_18/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

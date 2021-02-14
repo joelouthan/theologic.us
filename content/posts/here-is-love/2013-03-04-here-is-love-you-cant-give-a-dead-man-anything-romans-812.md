@@ -6,7 +6,7 @@ url: /theology/here-is-love-you-cant-give-a-dead-man-anything-romans-812/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

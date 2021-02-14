@@ -7,7 +7,7 @@ url: /theology/here-is-love-death-and-life-galatians-220/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

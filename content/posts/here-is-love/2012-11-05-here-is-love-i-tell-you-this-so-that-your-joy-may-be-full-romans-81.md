@@ -6,7 +6,7 @@ url: /theology/here-is-love-i-tell-you-this-so-that-your-joy-may-be-full-romans-
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

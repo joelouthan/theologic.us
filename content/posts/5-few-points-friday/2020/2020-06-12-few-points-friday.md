@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: We Are Just Like Esau'
+title: "A Few Points for Friday: We Are Just Like Esau"
 author: Joseph Louthan
 publishDate: 2020-06-12T06:00:00-06:00
 url: /few_points_friday/2020-06-12-few_points_friday/
@@ -9,7 +9,7 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## I could do a whole lot worse than setting up a collecting of Dustin Benge tweets

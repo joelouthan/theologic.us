@@ -6,7 +6,7 @@ url: /theology/here-is-love-why-did-god-save-us-romans-829d/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

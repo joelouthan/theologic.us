@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: Christian Life Edition'
+title: "A Few Points for Friday: Christian Life Edition"
 author: Joseph Louthan
 publishDate: 2020-05-29T06:00:00-06:00
 url: /few_points_friday/2020-05-29-few_points_friday/
@@ -9,7 +9,7 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## Summed up

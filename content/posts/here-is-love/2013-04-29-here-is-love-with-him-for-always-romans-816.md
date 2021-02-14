@@ -6,7 +6,7 @@ url: /theology/here-is-love-with-him-for-always-romans-816/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

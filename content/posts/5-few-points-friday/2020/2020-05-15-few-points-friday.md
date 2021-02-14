@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: The Philosophy of Praying Edition'
+title: "A Few Points for Friday: The Philosophy of Praying Edition"
 author: Joseph Louthan
 publishDate: 2020-05-15T06:00:00-06:00
 url: /few_points_friday/2020-05-15-few_points_friday/
@@ -9,15 +9,18 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+css: "prayers"
+draft: true
 ---
 
->Three Persons and one God, I bless and praise thee,<br>
->for love so unmerited, so unspeakable,<br>
->so wondrous, so mighty to save the lost<br>
->and raise them to glory.
+```text
+Three Persons and one God, I bless and praise thee,<br>
+for love so unmerited, so unspeakable,<br>
+so wondrous, so mighty to save the lost<br>
+and raise them to glory.
+```
 
->The Trinity. The Valley of Vision. ed. Arthur Bennett.
+The Trinity. The Valley of Vision. ed. Arthur Bennett.
 
 ------
 

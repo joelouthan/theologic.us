@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: All is Grace Edition'
+title: "A Few Points for Friday: All is Grace Edition"
 author: Joseph Louthan
 publishDate: 2020-06-05T06:00:00-06:00
 url: /few_points_friday/2020-06-05-few_points_friday/
@@ -9,10 +9,10 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
-## Thanks Be To God!
+## Thanks Be To God
 
 If you don't know or don't care about Enneagram. If you know Dr. Thompson's work, especially in his book *The Anatomy of the Soul*, give this great episode a listen.
 

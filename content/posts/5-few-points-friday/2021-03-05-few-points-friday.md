@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday '
+title: "A Few Points for Friday "
 author: Joseph Louthan
 publishDate: 2021-03-05
 url: /few_points_friday/2021-03-05-few_points_friday/

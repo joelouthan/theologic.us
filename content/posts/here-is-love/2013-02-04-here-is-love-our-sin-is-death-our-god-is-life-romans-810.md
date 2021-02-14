@@ -6,7 +6,7 @@ url: /theology/here-is-love-our-sin-is-death-our-god-is-life-romans-810/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

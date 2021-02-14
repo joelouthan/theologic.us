@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: Whose Righteousness Are We Talking About Edition'
+title: "A Few Points for Friday: Righteousness Edition"
 author: Joseph Louthan
 publishDate: 2020-05-22T06:00:00-06:00
 url: /few_points_friday/2020-05-22-few_points_friday/
@@ -9,7 +9,7 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## On legalism and self-righteousness

@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: Hanging On Some Choice Memes'
+title: "A Few Points for Friday: Hanging On Some Choice Memes"
 author: Joseph Louthan
 publishDate: 2020-06-26T06:00:00-06:00
 url: /few_points_friday/2020-06-26-few_points_friday/
@@ -9,7 +9,7 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 So, since I am off social media, let me share with some memes I was about to share.

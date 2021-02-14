@@ -6,7 +6,7 @@ url: /theology/here-is-love-romans-832-god-has-given-us-everything/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

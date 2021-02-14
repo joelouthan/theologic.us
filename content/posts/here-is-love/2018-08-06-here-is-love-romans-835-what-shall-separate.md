@@ -6,7 +6,7 @@ url: /theology/here-is-love-romans-835-what-shall-separate/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

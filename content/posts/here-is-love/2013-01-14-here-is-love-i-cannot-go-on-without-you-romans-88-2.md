@@ -6,7 +6,7 @@ url: /theology/here-is-love-i-cannot-go-on-without-you-romans-88-2/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false

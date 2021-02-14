@@ -1,5 +1,5 @@
 ---
-title: 'A Few Points for Friday: Expository Preaching'
+title: "A Few Points for Friday: Expository Preaching"
 author: Joseph Louthan
 publishDate: 2020-07-17T06:00:00-06:00
 url: /few_points_friday/2020-07-17-few_points_friday/
@@ -9,7 +9,7 @@ tags:
   - Quotes
 series:
   - 'A Few Points for Friday'
-draft: false
+draft: true
 ---
 
 ## We could do it other ways

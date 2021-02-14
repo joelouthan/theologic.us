@@ -2,13 +2,13 @@
 title: 'Here is Love: The Preeminence of the Love of God Romans 8:31'
 author: Joseph Louthan
 date: 20180709T12:00:27+00:00
-url: /theology/hereisloveromans831thepreeminenceoftheloveofgod/
+url: /theology/here-is-love-romans831/
 categories:
-  Theology
+  - Theology
 tags:
-  Romans 8
+  - 'Romans 8'
 series:
-  'Here is Love'
+  - 'Here is Love'
 showtoc: false
 ---
 

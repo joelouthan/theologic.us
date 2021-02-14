@@ -6,7 +6,7 @@ url: /theology/romans-830a-predestined/
 categories:
   - Theology
 tags:
-  - Romans 8
+  - 'Romans 8'
 series:
   - 'Here is Love'
 showtoc: false
