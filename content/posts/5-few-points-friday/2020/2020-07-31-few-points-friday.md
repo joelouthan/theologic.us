@@ -1,18 +1,19 @@
 ---
 title: 'A Few Points for Friday: Praying for Wolves'
 author: Joseph Louthan
-publishDate: 2020-07-31
+publishDate: 2020-07-31T06:00:00-06:00
 url: /few_points_friday/2020-07-31-few_points_friday/
 categories:
-  - Links
+  - Quotes
 tags:
+  - Quotes
+series:
   - 'A Few Points for Friday'
-draft: true
+draft: false
 ---
 ## Sweeter Than Honey and the Drippings of the Honeycomb
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sweetest truth <a href="https://t.co/7mqQ3RD2Tc">https://t.co/7mqQ3RD2Tc</a></p>&mdash; Joseph Louthan (@JosephLouthan) <a href="https://twitter.com/JosephLouthan/status/1282650997412835329?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ------
 

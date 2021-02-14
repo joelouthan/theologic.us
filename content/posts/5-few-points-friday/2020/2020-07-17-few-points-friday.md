@@ -1,13 +1,15 @@
 ---
 title: 'A Few Points for Friday: Expository Preaching'
 author: Joseph Louthan
-publishDate: 2020-07-17
+publishDate: 2020-07-17T06:00:00-06:00
 url: /few_points_friday/2020-07-17-few_points_friday/
 categories:
-  - Links
+  - Quotes
 tags:
+  - Quotes
+series:
   - 'A Few Points for Friday'
-draft: true
+draft: false
 ---
 
 ## We could do it other ways
@@ -19,9 +21,7 @@ How is that working out for us? Pretty terrible.
 
 ------
 
-## At church, the entire seat is yours...
-
-**... but you'll only need the EDGE!**
+## At church, the entire seat is yours but you'll only need the EDGE!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If an expository sermon is boring, it’s not the Bible’s fault.</p>&mdash; Nate Pickowicz (@NatePickowicz) <a href="https://twitter.com/NatePickowicz/status/1282016775958298624?ref_src=twsrc%5Etfw">July 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -51,7 +51,3 @@ Repent!
 Choose on this day whom you will serve.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">God does not change and neither does His love for His children.<br><br>Rejoice!</p>&mdash; Rudy Cerda (@RudyCerda) <a href="https://twitter.com/RudyCerda/status/1282356998605070346?ref_src=twsrc%5Etfw">July 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-------
-

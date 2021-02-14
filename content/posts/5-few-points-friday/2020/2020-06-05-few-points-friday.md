@@ -1,18 +1,20 @@
 ---
 title: 'A Few Points for Friday: All is Grace Edition'
 author: Joseph Louthan
-publishDate: 2020-06-05
+publishDate: 2020-06-05T06:00:00-06:00
 url: /few_points_friday/2020-06-05-few_points_friday/
 categories:
-  - Links
+  - Quotes
 tags:
+  - Quotes
+series:
   - 'A Few Points for Friday'
-draft: true
+draft: false
 ---
 
 ## Thanks Be To God!
 
-if you don't know or don't care about Enneagram. If you know Dr. Thompson's work, especially in his book *The Anatomy of the Soul*, give this great episode a listen.
+If you don't know or don't care about Enneagram. If you know Dr. Thompson's work, especially in his book *The Anatomy of the Soul*, give this great episode a listen.
 
 The gold:
 
@@ -37,6 +39,3 @@ Ian: "We did have this one woman, been in for 30 days [drug and alcohol addictio
 ## When you pray and God answers prayers
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have been praying for this for years. And God answers prayers. And by his grace alone, I’m going to hang on him as long as I can. <br><br>Praise be to God! <a href="https://t.co/dUnu0n3zQu">https://t.co/dUnu0n3zQu</a></p>&mdash; Joseph Louthan (@JosephLouthan) <a href="https://twitter.com/JosephLouthan/status/1268728985493610498?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-------
-
