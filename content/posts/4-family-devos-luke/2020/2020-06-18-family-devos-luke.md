@@ -13,7 +13,7 @@ css: "family-devos"
 draft: false
 ---
 
-## The Word of the Lord is Power
+## ✅ The Word of the Lord is Power
 
 Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, and news about him spread throughout the entire vicinity.  He was teaching in their synagogues, being praised by everyone.
 
