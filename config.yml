@@ -52,8 +52,8 @@ params:
         enabled: true # needs to be explicitly set
         title: Theologicus
         imageUrl: "images/joe-eli-snake-400x-circular.png"
-        imageWidth: 150
-        imageHeight: 150
+        imageWidth: 100
+        imageHeight: 100
         imageTitle: "Papa, Bubs & SNAKE!"
         buttons:
             - name: Recent Posts
