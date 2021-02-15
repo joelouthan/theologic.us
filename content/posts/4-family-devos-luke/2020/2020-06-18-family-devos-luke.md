@@ -23,7 +23,7 @@ How can we share the gospel and teach the Bible like Jesus?
 
 ------
 
-## The Word of the Lord Has Been Fulfilled
+## ✅ The Word of the Lord Has Been Fulfilled
 
 Luke 4:16–21 (CSB) He came to Nazareth, where he had been brought up. As usual, he entered the synagogue on the Sabbath day and stood up to read.  The scroll of the prophet Isaiah was given to him, and unrolling the scroll, he found the place where it was written:
 
@@ -49,7 +49,7 @@ Name the ways in which Christ fulfilled the Old Testament?
 
 ------
 
-## The Word of the Lord Cuts to the Heart
+## ✅ The Word of the Lord Cuts to the Heart
 
 Luke 4:22–30 (CSB) They were all speaking well of him and were amazed by the gracious words that came from his mouth; yet they said, “Isn’t this Joseph’s son?”  Then he said to them, “No doubt you will quote this proverb to me: ‘Doctor, heal yourself. What we’ve heard that took place in Capernaum, do here in your hometown also.’ ”  He also said, “Truly I tell you, no prophet is accepted in his hometown.  But I say to you, there were certainly many widows in Israel in Elijah’s days, when the sky was shut up for three years and six months while a great famine came over all the land.  Yet Elijah was not sent to any of them except a widow at Zarephath in Sidon.  And in the prophet Elisha’s time, there were many in Israel who had leprosy, and yet not one of them was cleansed except Naaman the Syrian.”  When they heard this, everyone in the synagogue was enraged.  They got up, drove him out of town, and brought him to the edge of the hill that their town was built on, intending to hurl him over the cliff.  But he passed right through the crowd and went on his way.
 
