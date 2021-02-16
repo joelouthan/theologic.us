@@ -1,32 +1,18 @@
 ---
-title: "A Few Points for Friday: Star Wars & Deadlifts Edition"
+title: "A Few Quotes: Bavinck and Ortlund"
 author: Joseph Louthan
 publishDate: 2020-05-01T06:00:00-06:00
-url: /few_points_friday/2020-05-01-few_points_friday/
+url: /a-few-quotes/2020-05-01-a-few-quotes/
 categories:
   - Quotes
 tags:
   - Quotes
 series:
-  - 'A Few Points for Friday'
-draft: true
+  - 'A Few Quotes'
+draft: false
 ---
 
-## 501KG Deadlift - Hafthor Bjornsson
-
-Sad to report, this guy deadlifts more than I can lift in *total*.
-
-<iframe width="560" height="315" align=center src="https://www.youtube.com/embed/2kEC7X1FUIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## QUARANTINE UPDATE: We just had this conversation with our kids
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2019: WE’RE GOING TO DISNEY WORLD!!!<br><br>2020: WE’RE GOING TO SONIC!!!</p>&mdash; Chet Harvey (@chet_harvey) <a href="https://twitter.com/chet_harvey/status/1257069630859993089?ref_src=twsrc%5Etfw">May 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-## Currently Reading: 
+## On the Age of Information
 
 > "Though we live a century after Bavinck, the obstacles to doctrinal health that he confronted--information overload that saps spiritual vitality, a waning interest in the knowledge of God, an increasing disregard for godliness,--still face us today. Some of these obstacles have grown to mammoth proportions in our digital age, consumed as it is with both self-expression and self-pity."
 >
@@ -34,7 +20,7 @@ Sad to report, this guy deadlifts more than I can lift in *total*.
 
 ---
 
-## Also, Currently Reading:
+## On Walking in the Light
 
 > "All the basic questions of life are, in fact, God-questions. As John Calvin put it, 'The Christian must surely be so disposed and minded that he feels within himself it is with God he has to deal through his life.'[^1] That is a prophetic way of seeing. But this awareness clashes with our intuitive sense of things. We dislike God's word and defend ourselves against it. But Isaiah begs us, "Come, let us walk in the light of the Lord" (Isaiah 2:5). Let's respect God enough to be open and think it through."
 >

@@ -10,7 +10,7 @@ tags:
 series:
   - 'Here is Love'
 showtoc: false
-css: "prayer"
+css: "prayers"
 ---
 
 ```text

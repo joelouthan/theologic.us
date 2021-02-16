@@ -1,30 +1,30 @@
 ---
-title: "A Few Points for Friday: What Are You Believing?"
+title: "A Few Quotes: On Believing"
 author: Joseph Louthan
 publishDate: 2020-07-03T06:00:00-06:00
-url: /few_points_friday/2020-07-03-few_points_friday/
+url: /a-few-quotes/2020-07-03-a-few-quotes/
 categories:
   - Quotes
 tags:
   - Quotes
 series:
-  - 'A Few Points for Friday'
-draft: true
+  - 'A Few Quotes'
+draft: false
 ---
 
-## Breaking news: unrepentant  sinners do not get to be in the presence of God
+## One Has Got to Burn
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The cross and the confederate flag cannot co-exist without one setting the other on fire.” — <a href="https://twitter.com/drmoore?ref_src=twsrc%5Etfw">@drmoore</a></p>&mdash; Sam Allberry (@SamAllberry) <a href="https://twitter.com/SamAllberry/status/1276990719354421250?ref_src=twsrc%5Etfw">June 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ------
 
-## I long for the corporate worship but my God is ever with me still
+## On Corporate Worship In These Times
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why I’m thankful for these things... <br><br>1. They allow us to share in the Lord’s Supper despite Rona. <br><br>2. They contain enough preservatives that they’re certainly building some kind of supernatural immunity.<br><br>3. They taste so terrible they can only make us long for heaven. <a href="https://t.co/SWaZoz3iTW">pic.twitter.com/SWaZoz3iTW</a></p>&mdash; Garrett Kell ن (@pastorjgkell) <a href="https://twitter.com/pastorjgkell/status/1278497011868852226?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ------
 
-## There are two paths. Choose wisely
+## On Only Two Paths
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The social gospel spit shines the outside of the bowl while leaving dead bones on the inside.<br><br>The biblical gospel awakens the dead bones and the bowl becomes a brand new vessel.</p>&mdash; Dustin Benge (@DustinBenge) <a href="https://twitter.com/DustinBenge/status/1278417426716246017?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -50,6 +50,6 @@ And I am more than blessed.
 
 ------
 
-## Always be praying
+## On Praying For Marriages
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Checked Facebook memories and saw some Christian friends&#39; wedding photos. They are divorced now. Pray for marriages. Pray for your friends, your family, you church, pastor. All of those marriages. Pray for them daily.</p>&mdash; Derek Rishmawy (@DZRishmawy) <a href="https://twitter.com/DZRishmawy/status/1278710546263502851?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

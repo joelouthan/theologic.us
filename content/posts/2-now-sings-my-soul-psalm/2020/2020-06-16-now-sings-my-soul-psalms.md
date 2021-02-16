@@ -10,7 +10,7 @@ tags:
 series:
 - 'Now Sings My Soul: Psalms'
 showtoc: false
-css: "prayer"
+css: "prayers"
 draft: false
 ---
 <div style="font-variant: small-caps;">Lover of my soul</div>

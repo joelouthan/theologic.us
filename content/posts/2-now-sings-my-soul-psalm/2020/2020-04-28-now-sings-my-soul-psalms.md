@@ -10,7 +10,7 @@ tags:
 series:
 - 'Now Sings My Soul: Psalms'
 showtoc: false
-css: "prayer"
+css: "prayers"
 draft: false
 ---
 <div style="font-variant: small-caps;">O LORD my God,</div>

@@ -1,15 +1,15 @@
 ---
-title: "A Few Points for Friday: Praying and Fasting Until"
+title: "A Few Quotes: On Praying and Fasting"
 author: Joseph Louthan
 publishDate: 2020-06-19T06:00:00-06:00
-url: /few_points_friday/2020-06-19-few_points_friday/
+url: /a-few-quotes/2020-06-19-a-few-quotes/
 categories:
   - Quotes
 tags:
   - Quotes
 series:
-  - 'A Few Points for Friday'
-draft: true
+  - 'A Few Quotes'
+draft: false
 ---
 
 ## Stands to reason
@@ -33,12 +33,3 @@ draft: true
 ## Faith without works is dead
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I see this photo posted all the time as &quot;evidence&quot; that racism exists in the majority of our churches. What&#39;s wrong with you people? This isn&#39;t a biblical church! You can peddle the name of Christ all day long with &quot;Jesus Saves&quot; banners and still go to hell. <a href="https://t.co/1z42LoZ2c5">pic.twitter.com/1z42LoZ2c5</a></p>&mdash; Dustin Benge (@DustinBenge) <a href="https://twitter.com/DustinBenge/status/1272912095806402567?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-------
-
-## Fasting from social media and praying until I see the face of God
-
-So this segment is going to be slim pickings
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Taking an extended break from social media. Fasting and praying until I see God move. <br><br>Laters.</p>&mdash; Joseph Louthan (@JosephLouthan) <a href="https://twitter.com/JosephLouthan/status/1273265708315672578?ref_src=twsrc%5Etfw">June 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-

@@ -10,7 +10,7 @@ tags:
 series:
 - 'Now Sings My Soul: Psalms'
 showtoc: false
-css: "prayer"
+css: "prayers"
 draft: false
 ---
 I was once so far from you. I was once lost. I was once your sworn enemy. Instead of casting me out, you sought me out. Instead of leaving me lost, you found me.
