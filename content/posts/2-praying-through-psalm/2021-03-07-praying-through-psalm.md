@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: Psalm "
+title: "Praying Through: Psalm 60"
 author: Joseph Louthan
 publishDate: 2021-03-07T06:00:00-06:00
 url: /prayers/2021-03-07-praying-through-psalm/
@@ -11,42 +11,38 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 <div style="font-variant: small-caps;">
-
+You Are With Me
 </div>
 
-```text> Psalm 60 (CSB)
-For the choir director: according to “The Lily of Testimony.” A Miktam of David for teaching. When he fought with Aram-naharaim and Aram-zobah, and Joab returned and struck Edom in Salt Valley, killing twelve thousand.
-      God, you have rejected us; 
-      you have broken us down; 
-      you have been angry. Restore us! 
-      You have shaken the land and split it open. 
-      Heal its fissures, for it shudders. 
-      You have made your people suffer hardship; 
-      you have given us wine to drink 
-      that made us stagger. 
-      You have given a signal flag to those who fear you, 
-      so that they can flee before the archers. 
-                                      Selah 
-      Save with your right hand, and answer me, 
-      so that those you love may be rescued.
-      God has spoken in his sanctuary: 
-      “I will celebrate! 
-      I will divide up Shechem. 
-      I will apportion the Valley of Succoth. 
-      Gilead is mine, Manasseh is mine, 
-      and Ephraim is my helmet; 
-      Judah is my scepter. 
-      Moab is my washbasin. 
-      I throw my sandal on Edom; 
-      I shout in triumph over Philistia.”
-      Who will bring me to the fortified city? 
-      Who will lead me to Edom? 
-      God, haven’t you rejected us? 
-      God, you do not march out with our armies. 
-      Give us aid against the foe, 
-      for human help is worthless. 
-      With God we will perform valiantly; 
-      he will trample our foes.
+```text
+The battles I have seen
+The bloodshed upon my hands
+The hurt I have caused
+The wounds I have made
+Was all of my actions.
+
+I have been hurt too
+And that does not make it right
+
+I am sorry Lord
+For the hurt I have caused.
+
+Will you save me?
+
+Will you give me a tender heart
+To forgive others
+And love others
+And to seek reconcilation
+and help heal others?
+
+I am so sorry Lord
+For all of my sins.
+
+Make me like your Son
+And turn my heart towards you.
+
+Amen.
+```

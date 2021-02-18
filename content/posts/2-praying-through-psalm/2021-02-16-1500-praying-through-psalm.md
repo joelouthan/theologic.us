@@ -14,7 +14,7 @@ css: "prayers"
 draft: false
 ---
 <div style="font-variant: small-caps;">
-My Only Peace
+You Are My Refuge
 </div>
 
 ```text

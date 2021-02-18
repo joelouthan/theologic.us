@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: Psalm "
+title: "Praying Through: Psalm 56"
 author: Joseph Louthan
 publishDate: 2021-03-03T06:00:00-06:00
 url: /prayers/2021-03-03-praying-through-psalm/
@@ -11,42 +11,41 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 <div style="font-variant: small-caps;">
-
+You Are My Trust
 </div>
 
 ```text
-```> Psalm 56 (CSB)
-For the choir director: according to “A Silent Dove Far Away.” A Miktam of David. When the Philistines seized him in Gath.
-      Be gracious to me, God, for a man is trampling me; 
-      he fights and oppresses me all day long. 
-      My adversaries trample me all day, 
-      for many arrogantly fight against me.
-      When I am afraid, 
-      I will trust in you. 
-      In God, whose word I praise, 
-      in God I trust; I will not be afraid. 
-      What can mere mortals do to me?
-      They twist my words all day long; 
-      all their thoughts against me are evil. 
-      They stir up strife, they lurk, 
-      they watch my steps 
-      while they wait to take my life. 
-      Will they escape in spite of such sin? 
-      God, bring down the nations in wrath.
-      You yourself have recorded my wanderings. 
-      Put my tears in your bottle. 
-      Are they not in your book? 
-      Then my enemies will retreat on the day when I call. 
-      This I know: God is for me.
-      In God, whose word I praise, 
-      in the LORD, whose word I praise, 
-      in God I trust; I will not be afraid. 
-      What can mere humans do to me?
-      I am obligated by vows to you, God; 
-      I will make my thanksgiving sacrifices to you. 
-      For you rescued me from death, 
-      even my feet from stumbling, 
-      to walk before God in the light of life.
+I have spent all of my life
+Being scared
+Being fearful of man
+And worrying about what did they think of me
+
+My eyes
+were never
+Where they should have been
+They should have been fixated 
+On the only one
+Who answers my cries
+quiets my soul
+Cares for my heart
+Loves me till the end
+And brings me all the way home.
+
+Breath life into me
+When I turn away
+And start to be anxious and fearing man
+Man cannot save me
+Man cannot soothe me
+Man cannot save my soul
+Only you, my Lord
+Can save me
+And love me
+And heal me.
+
+Be with me.
+
+Amen.
+```

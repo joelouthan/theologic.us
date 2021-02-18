@@ -14,7 +14,7 @@ css: "prayers"
 draft: false
 ---
 <div style="font-variant: small-caps;">
-My Only Worthy of Praise
+You Are My Dwelling
 </div>
 
 ```text

@@ -14,7 +14,7 @@ css: "prayers"
 draft: false
 ---
 <div style="font-variant: small-caps;">
-My Only Strength,
+My Only Vindicator
 </div>
 
 ```text
