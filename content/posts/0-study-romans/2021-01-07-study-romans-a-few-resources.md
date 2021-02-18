@@ -93,6 +93,20 @@ ___
 
 <p style="clear:both;">
 
+{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801042658&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0801042658" width="1" height="1" border="0" >}}
+[**Romans (New Testament Commentary**](https://www.amazon.com/New-Testament-Commentary-Romans-Chapters/dp/0801042658?dchild=1&keywords=Romans+Hendriksen&qid=1613687632&sr=8-1&linkCode=li2&tag=theologicus-20&linkId=65de2a96da0a1ba0e1f710d731bbc846&language=en_US&ref_=as_li_ss_il)  
+William Hendriksen  
+1980-1981, Baker.
+
+Said it before and I will say it again: Billy H. is my boy for no other reason he tried to buck the Dispensationalism trends going on in Evangelicalism.
+
+Craziest thing, tho. I have several others in his NT set but for some reason, I didn't have his Romans. Had to scoop this off e-Bay.
+&nbsp;  
+
+___
+
+<p style="clear:both;">
+
 {{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825435439&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li3&o=1&a=0825435439#floatleft" width="0" height="0" border="0" alt="" >}}
 [**Commentary on Romans**](https://www.amazon.com/Commentary-Romans-William-Swan-Plumer/dp/0825435439/ref=as_li_ss_il?dchild=1&keywords=0825435439&qid=1611173880&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=24f7590a3af3cdb837c4c6637b63fab5&language=en_US)  
 Commentary on Romans  
