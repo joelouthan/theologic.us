@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 37:8-9'
 author: Joseph Louthan
 publishDate: 2021-01-19T20:00:00-06:00
-url: /praying-through-psalm/2021-01-19-pm-praying-through-psalm/
+url: /prayers/2021-01-19-pm-praying-through-psalm/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 35:4-6'
 author: Joseph Louthan
 publishDate: 2020-11-12T20:00:00-06:00
-url: /praying-through-psalm/2020-11-12-pm-praying-through-psalm/
+url: /prayers/2020-11-12-pm-praying-through-psalm/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 31:11-13'
 author: Joseph Louthan
 publishDate: 2020-06-30
-url: /praying-through-psalm/2020-06-30-praying-through-psalm/
+url: /prayers/2020-06-30-praying-through-psalm/
 categories:
   - Prayers
 tags:

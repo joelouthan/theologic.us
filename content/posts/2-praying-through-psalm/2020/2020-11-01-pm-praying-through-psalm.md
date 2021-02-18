@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 32:5'
 author: Joseph Louthan
 publishDate: 2020-11-01T20:00:00-06:00
-url: /praying-through-psalm/2020-11-01-pm-praying-through-psalm/
+url: /prayers/2020-11-01-pm-praying-through-psalm/
 categories:
   - Prayers
 tags:

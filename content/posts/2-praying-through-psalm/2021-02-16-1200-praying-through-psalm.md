@@ -2,7 +2,7 @@
 title: "Praying Through: Psalm 45"
 author: Joseph Louthan
 publishDate: 2021-02-16T12:00:00-06:00
-url: /praying-through-psalm/2021-02-16-1200-praying-through-psalm/
+url: /prayers/2021-02-16-1200-praying-through-psalm/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: "Praying Through: "
 author: Joseph Louthan
 publishDate: 2021-03-09T06:00:00-06:00
-url: /praying-through-psalm/2021-03-09-praying-through-psalm/
+url: /prayers/2021-03-09-praying-through-psalm/
 categories:
   - Prayers
 tags:

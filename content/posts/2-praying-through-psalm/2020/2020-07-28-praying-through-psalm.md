@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 31:23-24'
 author: Joseph Louthan
 publishDate: 2020-07-28
-url: /praying-through-psalm/2020-07-28-praying-through-psalm/
+url: /prayers/2020-07-28-praying-through-psalm/
 categories:
   - Prayers
 tags:

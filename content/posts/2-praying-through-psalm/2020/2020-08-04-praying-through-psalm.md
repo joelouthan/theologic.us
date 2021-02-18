@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 32:1'
 author: Joseph Louthan
 publishDate: 2020-08-04
-url: /praying-through-psalm/2020-08-04-praying-through-psalm/
+url: /prayers/2020-08-04-praying-through-psalm/
 categories:
   - Prayers
 tags:

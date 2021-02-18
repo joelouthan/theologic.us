@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 34:15-18'
 author: Joseph Louthan
 publishDate: 2020-11-11T20:00:00-06:00
-url: /praying-through-psalm/2020-11-11-pm-praying-through-psalm/
+url: /prayers/2020-11-11-pm-praying-through-psalm/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 43'
 author: Joseph Louthan
 publishDate: 2021-02-16T06:00:00-06:00
-url: /praying-through-psalm/2021-02-16-am-praying-through-psalm/
+url: /prayers/2021-02-16-am-praying-through-psalm/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 33:2-3'
 author: Joseph Louthan
 publishDate: 2020-11-04T06:00:00-06:00
-url: /praying-through-psalm/2020-11-04-am-praying-through-psalm/
+url: /prayers/2020-11-04-am-praying-through-psalm/
 categories:
   - Prayers
 tags:

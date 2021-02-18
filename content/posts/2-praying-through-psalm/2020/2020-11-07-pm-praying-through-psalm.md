@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 33:16-19'
 author: Joseph Louthan
 publishDate: 2020-11-07T20:00:00-06:00
-url: /praying-through-psalm/2020-11-07-pm-praying-through-psalm/
+url: /prayers/2020-11-07-pm-praying-through-psalm/
 categories:
   - Prayers
 tags:

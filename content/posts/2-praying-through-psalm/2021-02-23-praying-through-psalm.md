@@ -2,7 +2,7 @@
 title: "Praying Through: Psalm 49"
 author: Joseph Louthan
 publishDate: 2021-02-23T06:00:00-06:00
-url: /praying-through-psalm/2021-02-23-0600-praying-through-psalm/
+url: /prayers/2021-02-23-0600-praying-through-psalm/
 categories:
   - Prayers
 tags:
