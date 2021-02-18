@@ -2,19 +2,23 @@
 title: "The Lord's Prayer: Give Us This Day Our Daily Bread"
 author: Joseph Louthan
 publishDate: 2019-11-07T06:00:00-06:00
-url: /prayers/2019-11-07-the-lords-prayer-our-daily-bread/
+url: /prayer/2019-11-07-praying-through-the-lords-prayer/
 categories:
   - Prayers
 tags:
   - Matthew
 series:
   - "Praying Through: The Lord's Prayer"
-draft: true
+showtoc: false
+css: "prayers"
+draft: false
 ---
-**Matthew 6:11 Give us this day our daily bread,** 
+> Matthew 6:11 Give us this day our daily bread
+
+## Give Us This Day Our Daily Bread
 
 <div style="font-variant: small-caps;">
-  My God,
+My Provider
 </div>
 
 What is your provision for me? Do I need food, shelter, and water just to stay alive?

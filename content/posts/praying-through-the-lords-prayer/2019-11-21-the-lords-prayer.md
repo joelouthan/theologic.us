@@ -2,17 +2,21 @@
 title: "The Lord's Prayer: Deliver Us From Evil"
 author: Joseph Louthan
 publishDate: 2019-11-21T06:00:00-06:00
-url: /the-lords-prayer/2019-11-21-the-lords-prayer/
+url: /prayer/2019-11-21-praying-through-the-lords-prayer/
 categories:
   - Prayers
 tags:
   - Matthew
 series:
   - "Praying Through: The Lord's Prayer"
-draft: true
+showtoc: false
+css: "prayers"
+draft: false
 ---
-**Matthew 6:13 And lead us not into temptation,  
-but deliver us from evil.**
+> Matthew 6:13 And lead us not into temptation,  
+but deliver us from evil.
+
+## Deliver Us From Evil
 
 <div style="font-variant: small-caps;">
 My Rescuer,  
@@ -28,4 +32,6 @@ But you called me and you rescued me. And now I have life in you, Christ Jesus m
 
 Keep me to yourself. Continue to rescue me from evil. Bring me home.
 
-I love you. Amen.
+I love you. 
+
+Amen.

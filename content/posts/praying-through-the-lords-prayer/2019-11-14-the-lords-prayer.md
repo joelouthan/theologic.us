@@ -2,17 +2,21 @@
 title: "The Lord's Prayer: Forgive Us--Help Us to Forgive"
 author: Joseph Louthan
 publishDate: 2019-11-14T06:00:00-06:00
-url: /the-lords-prayer/2019-11-14-the-lords-prayer/
+url: /prayer/2019-11-14-praying-through-the-lords-prayer/
 categories:
   - Prayers
 tags:
   - Matthew
 series:
   - "Praying Through: The Lord's Prayer"
-draft: true
+showtoc: false
+css: "prayers"
+draft: false
 ---
-**Matthew 6:12 and forgive us our debts,  
-as we also have forgiven our debtors.**
+> Matthew 6:12 and forgive us our debts,  
+as we also have forgiven our debtors.
+
+## Forgive Us--Help Us to Forgive
 
 <div style="font-variant: small-caps;">
 My Love and My Life, 
