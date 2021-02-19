@@ -104,15 +104,7 @@ draft: false
 
 ## The Gospel
 
-> Ephesians 1:3-14 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
->
-> In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding. He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him.
->
-> In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will, so that we who had already put our hope in Christ might bring praise to his glory.
->
-> In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed. The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
-
-> Ephesians 2:1-10 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift— not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
+> 2 Thessalonians 2:13-14 (CSB) But we ought to thank God always for you, brothers and sisters loved by the Lord, because from the beginning God has chosen you for salvation through sanctification by the Spirit and through belief in the truth. He called you to this through our gospel, so that you might obtain the glory of our Lord Jesus Christ.
 
 > John 1:12-13 (CSB) But to all who did receive him, he gave them the right to be children of God, to those who believe in his name, who were born, not of natural descent, or of the will of the flesh, or of the will of man, but of God.
 
@@ -137,3 +129,7 @@ Not justification! It is while were not good, not righteous, but wicked sinners 
 Certainly not glorification! Who else but by the power and might and grace and sovereignty of God can lift the dead corpse not only unto the truly alive, but the fullness of joy, endless pleasures, and perfect satisfaction forevermore!
 
 Ours to do is to obey the Lord Jesus Christ only by the power of the Spirit: repent of you sins and give your sins over to God!
+
+> 2 Thessalonians 2:15-17 (CSB) So then, brothers and sisters, stand firm and hold to the traditions you were taught, whether by what we said or what we wrote.
+>
+> May our Lord Jesus Christ himself and God our Father, who has loved us and given us eternal encouragement and good hope by grace, encourage your hearts and strengthen you in every good work and word.
