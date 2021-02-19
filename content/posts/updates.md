@@ -8,7 +8,30 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
-## NEW! Meditations from the Pastoral Epistles
+## Divorcing from Weekly Weekday Releases--Kinda
+
+I started writing and having different series releasing on different weekdays. It helped me to have something "due" to help me push my writing.
+
+My previous theme didn't really support that layout. Turns out, I couldn't successfully find another hugo theme that supported my weekday-due writing.
+
+So I have moved away from Monday, Tuesday, etc.. and instead, moved more into [Series](/series/).
+
+That took some massive reorganization but I think this is so much better.
+
+* [Categories](/categories/) - Keeping this simple with categories like [Theology](/categories/theology/), [Bible Study](/categories/bible-study/) and the like.
+* [Tags](/tags/) - This I am restricting this to books of the Bible.
+* [Series](/series/) - This is where this shines. All of my series are organized by their Series names:
+  * [Family Devotions: Luke](/series/family-devotions-luke/) or even [Family Devotions: Mark](/series/family-devotions-mark/)
+  * [Praying Through: The Psalms](/series/praying-through-psalms/)
+  * Upcoming [Bible Study: Romans](/series/bible-study-romans/)
+
+There are some things that I decided to post every day like Bible Studies or Prayers. There are other things like [A Few Quotes](/series/a-few-quotes/) that will be released on Fridays because I am a creature of habit.
+
+I think this re-org is way better in so many ways.
+
+Heads up: I had some tech writings that was here but didn't fit. I am moving that to a tech blog.
+
+## Meditations from the Pastoral Epistles
 
 Two things I know now.
 
@@ -35,7 +58,7 @@ Status as of Feb 9th:
 - Written 31/65
 - Record 1/65
 
-## NEW! Study Romans
+## Study Romans
 
 **Thursday, December 31, 2020**
 
