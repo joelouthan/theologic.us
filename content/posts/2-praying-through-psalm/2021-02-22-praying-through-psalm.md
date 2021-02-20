@@ -1,8 +1,8 @@
 ---
 title: "Praying Through: Psalm 48"
 author: Joseph Louthan
-publishDate: 2021-02-16T21:00:00-06:00
-url: /prayers/2021-02-16-2100-praying-through-psalm/
+publishDate: 2021-02-22T06:00:00-06:00
+url: /prayers/2021-02-22-praying-through-psalm/
 categories:
   - Prayers
 tags:
@@ -43,7 +43,7 @@ But you have appeared
 When I have fallen
   you have lifted my head
   when I am faithless
-  you have been faithfull
+  you have been faithful
   when I am weak
   you are the Almighty God.
 

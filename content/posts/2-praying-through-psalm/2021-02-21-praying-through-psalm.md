@@ -1,8 +1,8 @@
 ---
 title: "Praying Through: Psalm 47"
 author: Joseph Louthan
-publishDate: 2021-02-16T18:00:00-06:00
-url: /prayers/2021-02-16-1800-praying-through-psalm/
+publishDate: 2021-02-21T06:00:00-06:00
+url: /prayers/2021-02-21-praying-through-psalm/
 categories:
   - Prayers
 tags:

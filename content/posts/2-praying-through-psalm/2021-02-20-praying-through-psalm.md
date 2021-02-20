@@ -1,8 +1,8 @@
 ---
 title: "Praying Through: Psalm 46"
 author: Joseph Louthan
-publishDate: 2021-02-16T15:00:00-06:00
-url: /prayers/2021-02-16-1500-praying-through-psalm/
+publishDate: 2021-02-20T06:00:00-06:00
+url: /prayers/2021-02-20-praying-through-psalm/
 categories:
 - Prayers
 tags:

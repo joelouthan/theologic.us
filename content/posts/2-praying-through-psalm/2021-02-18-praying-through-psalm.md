@@ -1,8 +1,8 @@
 ---
 title: 'Praying Through: Psalm 44'
 author: Joseph Louthan
-publishDate: 2021-02-16T15:00:00.000Z
-url: /prayers/2021-02-16-0900-praying-through-psalm/
+publishDate: 2021-02-18T06:00:00.000Z
+url: /prayers/2021-02-18-praying-through-psalm/
 categories:
   - Prayers
 tags:
