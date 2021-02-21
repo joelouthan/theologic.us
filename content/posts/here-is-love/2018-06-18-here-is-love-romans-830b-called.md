@@ -10,6 +10,7 @@ tags:
 series:
   - 'Here is Love'
 showtoc: false
+draft: false
 ---
 And here is love: Romans 8:30b **And those whom he predestined he also called…**
 
