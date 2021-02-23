@@ -92,6 +92,10 @@ What is the good news?
 
 What do we do now? Or as I like to say, "Where does God's grace have me now?"
 
+### Prayer
+
+A simple prayer to God.
+
 ## The Schedule
 
 This might be audacious of me but I want to release recordings every evening in time for the following day's study.  That means I have tons of writing and recording to get ahead of time. And then, only by God's good grace, continuously go forward.
