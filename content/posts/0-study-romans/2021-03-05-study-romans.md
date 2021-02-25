@@ -1,5 +1,5 @@
 ---
-title: 'Study: Romans 1:16-17'
+title: 'The Study: Romans 1:16-17'
 author: Joseph Louthan
 publishDate: 2021-03-05T06:00:00-06:00
 url: /study-romans/2021-03-05-study-romans/
@@ -12,27 +12,36 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
+css: "prayers"
 draft: false
 ---
 ## The Text
 
-**Romans 1:16-17 For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.**
+>Romans 1:16-17 For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
 ## The Support
 
-> Habakkuk 2:2–5 (CSB) The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it.  For the vision is yet for the appointed time; it testifies about the end and will not lie. Though it delays, wait for it, since it will certainly come and not be late.  Look, his ego is inflated; he is without integrity. **But the righteous one will live by his faith.**  Moreover, wine betrays; an arrogant man is never at rest. He enlarges his appetite like Sheol, and like Death he is never satisfied. He gathers all the nations to himself; he collects all the peoples for himself.
+>Habakkuk 2:2–5 (CSB) The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it.  For the vision is yet for the appointed time; it testifies about the end and will not lie. Though it delays, wait for it, since it will certainly come and not be late.  Look, his ego is inflated; he is without integrity. **But the righteous one will live by his faith.**  Moreover, wine betrays; an arrogant man is never at rest. He enlarges his appetite like Sheol, and like Death he is never satisfied. He gathers all the nations to himself; he collects all the peoples for himself.
 
-> Galatians 3:11–14 (CSB) Now it is clear that no one is justified before God by the law, because **the righteous will live by faith.**  But the law is not based on faith; instead, the one who does these things will live by them.  Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, Cursed is everyone who is hung on a tree.  The purpose was that the blessing of Abraham would come to the Gentiles by Christ Jesus, so that we could receive the promised Spirit through faith.
+>Galatians 3:11–14 (CSB) Now it is clear that no one is justified before God by the law, because **the righteous will live by faith.**  But the law is not based on faith; instead, the one who does these things will live by them.  Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, Cursed is everyone who is hung on a tree.  The purpose was that the blessing of Abraham would come to the Gentiles by Christ Jesus, so that we could receive the promised Spirit through faith.
 
-> Hebrews 10:36–39 (CSB) For you need endurance, so that after you have done God’s will, you may receive what was promised.  For yet in a very little while, the Coming One will come and not delay.  **But my righteous one will live by faith**; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved.
+>Hebrews 10:36–39 (CSB) For you need endurance, so that after you have done God’s will, you may receive what was promised.  For yet in a very little while, the Coming One will come and not delay.  **But my righteous one will live by faith**; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved.
 
 ## God
 
-**God is the only source of the prophets** - Hab 2:2 "The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it."
+God is the only source of salvation.
 
-**God is the only justifier of the law, not the law itself** - Gal 3:11 "Now it is clear that no one is justified before God by the law, because the righteous will live by faith."
+**God is the only source of the prophets**
 
-**God is the only Savior** - Heb 10:38-39 "But my righteous one will live by faith; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved."
+>Habakkuk 2:2 "The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it."
+
+**God is the only justifier of the law, not the law itself**
+
+>Galatians 3:11 "Now it is clear that no one is justified before God by the law, because the righteous will live by faith."
+
+**God is the only Savior**
+
+>Hebrews 10:38-39 "But my righteous one will live by faith; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved."
 
 ## The Gospel
 
@@ -40,7 +49,7 @@ draft: false
 
 How does Paul define the gospel?
 
-> Romans 1:16–17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
+>Romans 1:16–17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.  For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
 1. The gospel is the power of God for salvation to everyone who believes, first to the Jew, and also the Greek
 
@@ -60,21 +69,21 @@ The gospel saves only those who believe. The gospel saves only to those who call
 
 Now sit and think about all that. And now consider every verse you have read or heard you had about preaching:
 
-> Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
 
-> Genesis 3:21 (CSB) The LORD God made clothing from skins for the man and his wife, and he clothed them.
+>Genesis 3:21 (CSB) The LORD God made clothing from skins for the man and his wife, and he clothed them.
 
-> Isaiah 55:11 (CSB) so my word that comes from my mouth will not return to me empty, but it will accomplish what I please and will prosper in what I send it to do.”
+>Isaiah 55:11 (CSB) so my word that comes from my mouth will not return to me empty, but it will accomplish what I please and will prosper in what I send it to do.”
 
-> How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher?  And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news.  But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message?  So faith comes from what is heard, and what is heard comes through the message about Christ.
+>Romans 10:14-17 (CSB) How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher?  And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news.  But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message?  So faith comes from what is heard, and what is heard comes through the message about Christ.
 
-> Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them.  When they saw him, they worshiped, but some doubted.  Jesus came near and said to them, “All authority has been given to me in heaven and on earth.  Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,  teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”
+>Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them.  When they saw him, they worshiped, but some doubted.  Jesus came near and said to them, “All authority has been given to me in heaven and on earth.  Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,  teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”
 
-> Mark 16:15–20 (CSB) Then he said to them, “Go into all the world and preach the gospel to all creation.  Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.  And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;  they will pick up snakes; if they should drink anything deadly, it will not harm them; they will lay hands on the sick, and they will get well.”  So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God.  And they went out and preached everywhere, while the Lord worked with them and confirmed the word by the accompanying signs.]
+>Mark 16:15–20 (CSB) Then he said to them, “Go into all the world and preach the gospel to all creation.  Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.  And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;  they will pick up snakes; if they should drink anything deadly, it will not harm them; they will lay hands on the sick, and they will get well.”  So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God.  And they went out and preached everywhere, while the Lord worked with them and confirmed the word by the accompanying signs.]
 
-> Luke 24:44–49 (CSB) He told them, “These are my words that I spoke to you while I was still with you—that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”  Then he opened their minds to understand the Scriptures.  He also said to them, “This is what is written: The Messiah will suffer and rise from the dead the third day,  and repentance for forgiveness of sins will be proclaimed in his name to all the nations, beginning at Jerusalem.  You are witnesses of these things.  And look, I am sending you what my Father promised. As for you, stay in the city until you are empowered from on high.”
+>Luke 24:44–49 (CSB) He told them, “These are my words that I spoke to you while I was still with you—that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”  Then he opened their minds to understand the Scriptures.  He also said to them, “This is what is written: The Messiah will suffer and rise from the dead the third day,  and repentance for forgiveness of sins will be proclaimed in his name to all the nations, beginning at Jerusalem.  You are witnesses of these things.  And look, I am sending you what my Father promised. As for you, stay in the city until you are empowered from on high.”
 
-> Acts 1:8 (CSB) But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
+>Acts 1:8 (CSB) But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 
 You want sure thing in this world outside believing in Christ and you shall be saved? You want a surefire way to being perfectly successful? Like, if you do this, you will be a success?
 
@@ -93,3 +102,29 @@ But what about stories of missionaries who went, preached, died and never saw fr
 If you want your words to mean something and to endure beyond the end of time? Proclaim the gospel. Preach the gospel to every creature everywhere for all time. Be his witness. Teach them everything Christ commanded. I promise you He will be with you to the end of the age.
 
 Amen.
+
+## Pray
+
+<div style='font-variant: small-caps;'>
+Our Great Commissioner
+</div>
+
+```text
+Your commands are easier said than done.
+
+Lord, help us
+  not to be afraid
+  not overthink it
+  to be lead by the Spirit
+  to be nothing else
+  but what you have called
+  and made us to be.
+
+Help us to be faithful
+  but more so
+  help us remember
+  that salvation belongs to you alone
+  for you are the mighty one who saves.
+
+Amen
+```

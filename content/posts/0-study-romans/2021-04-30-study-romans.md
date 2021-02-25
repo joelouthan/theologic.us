@@ -12,15 +12,25 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
+css: "prayers"
 draft: true
 ---
 ## The Text
 
 ## The Support
 
-## Our God
+## God
 
 ## The Gospel
 
 ## Our Responsibility
 
+## Pray
+
+<div style="font-variant: small-caps;">
+
+</div>
+
+```text
+
+```

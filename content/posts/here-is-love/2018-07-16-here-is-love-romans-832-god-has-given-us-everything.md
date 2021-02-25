@@ -12,21 +12,23 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:32 He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?
+>Romans 8:32 He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?
 
 I could sit here and blast you with God’s holy words about God alone provides for us, and we need nothing.
 
-The Lord is my shepherd; I shall not want.
+>Psalm 23:1 The Lord is my shepherd; I shall not want.
 
 It is more than “I don’t want” like we are monks in Timbuktu living off the land but rather, because God adopted us, we are co-heirs with the One who has inherited all things.
 
-The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+>Romans 8:16-17 The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
 
 But is it that simple? To live in the world that we do now?
 
 As an American, I live in the wealthiest land not only now but of all time. But are these verses right for me as my brother or sister on the poor side of town or in the run-down rural town not even fifteen miles from where I am sitting now?
 
-And we even know that God “makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.”
+And we even know that God “makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.” [^1]
+
+[^]: Matthew 5:45b
 
 There is a disparaging difference between the rich and the poor or how we are finding out now, depending on which zip code you were born and lived. Never mind the fact that God alone determines what time you would be born but what socio-economical status aka your zip code you would be born into just so that you would seek God.
 
@@ -58,7 +60,7 @@ You might reject this because it is an easy answer. I assured you when the Fathe
 
 And what's even more incredible than that? Jesus Christ wanted to give his life up for mine.
 
-I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+>Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
 And Christ went to the cross and hung himself there with great joy for my sake so that I would be set free in Him.
 
@@ -66,11 +68,13 @@ Paul speaks all the time about being content. Paul speaks of having everything a
 
 But I hope that we can each pray the prayer of the wealthiest man of all time:
 
-Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, “Who is the Lord?” or lest I be poor and steal and profane the name of my God.
+>Proverbs 30:8-9 Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, “Who is the Lord?” or lest I be poor and steal and profane the name of my God.
 
 and pray this for always:
 
-In Christ, you have given me so much that heaven and earth can give me no more.
+>>In Christ, you have given me so much that heaven and earth can give me no more.[^2]
+
+[^2]: Valley of Vision
 
 I hope and pray that we would be content with having everything because we have Christ. And because we have Him, we shall not want.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Study: Romans 1:13-15'
+title: 'The Study: Romans 1:13-15'
 author: Joseph Louthan
 publishDate: 2021-03-04T06:00:00-06:00
 url: /study-romans/2021-03-04-study-romans/

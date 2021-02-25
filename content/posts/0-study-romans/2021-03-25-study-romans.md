@@ -1,5 +1,5 @@
 ---
-title: 'Study: Romans 8:14-17'
+title: 'The Study: Romans 8:14-17'
 author: Joseph Louthan
 publishDate: 2021-03-25T06:00:00-06:00
 url: /study-romans/2021-03-25-study-romans/
@@ -12,43 +12,46 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
+css: "prayers"
 draft: false
 ---
 ## The Text
 
-> Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons. For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
+>Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons. For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
 ## The Support
 
-> John 20:17 (CSB) Don’t cling to me,” Jesus told her, “since I have not yet ascended to the Father. But go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God.”
+>John 20:17 (CSB) Don’t cling to me,” Jesus told her, “since I have not yet ascended to the Father. But go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God.”
 
-> Galatians 4:1-7 (CSB) Now I say that as long as the heir is a child, he differs in no way from a slave, though he is the owner of everything. Instead, he is under guardians and trustees until the time set by his father. In the same way we also, when we were children, were in slavery under the elements of the world. When the time came to completion, God sent his Son, born of a woman, born under the law, to redeem those under the law, so that we might receive adoption as sons. And because you are sons, God sent the Spirit of his Son into our hearts, crying, “Abba, Father!” So you are no longer a slave but a son, and if a son, then God has made you an heir.
+>Galatians 4:1-7 (CSB) Now I say that as long as the heir is a child, he differs in no way from a slave, though he is the owner of everything. Instead, he is under guardians and trustees until the time set by his father. In the same way we also, when we were children, were in slavery under the elements of the world. When the time came to completion, God sent his Son, born of a woman, born under the law, to redeem those under the law, so that we might receive adoption as sons. And because you are sons, God sent the Spirit of his Son into our hearts, crying, “Abba, Father!” So you are no longer a slave but a son, and if a son, then God has made you an heir.
 
 ## God
 
-> Hebrews 1:1-2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
+God is our Father. Christ is our eldest brother. Spirit bears witness with our spirit that we are the children of God.
+
+>Hebrews 1:1-2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
 
 ## The Gospel
 
-> Matthew 7:13-23 (CSB) Enter through the narrow gate. For the gate is wide and the road broad that leads to destruction, and there are many who go through it. How narrow is the gate and difficult the road that leads to life, and few find it.
+>Matthew 7:13-23 (CSB) Enter through the narrow gate. For the gate is wide and the road broad that leads to destruction, and there are many who go through it. How narrow is the gate and difficult the road that leads to life, and few find it.
 >
-> “Be on your guard against false prophets who come to you in sheep’s clothing but inwardly are ravaging wolves. You’ll recognize them by their fruit. Are grapes gathered from thornbushes or figs from thistles? In the same way, every good tree produces good fruit, but a bad tree produces bad fruit. A good tree can’t produce bad fruit; neither can a bad tree produce good fruit. Every tree that doesn’t produce good fruit is cut down and thrown into the fire. So you’ll recognize them by their fruit.
+>“Be on your guard against false prophets who come to you in sheep’s clothing but inwardly are ravaging wolves. You’ll recognize them by their fruit. Are grapes gathered from thornbushes or figs from thistles? In the same way, every good tree produces good fruit, but a bad tree produces bad fruit. A good tree can’t produce bad fruit; neither can a bad tree produce good fruit. Every tree that doesn’t produce good fruit is cut down and thrown into the fire. So you’ll recognize them by their fruit.
 >
-> “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. On that day many will say to me, ‘Lord, Lord, didn’t we prophesy in your name, drive out demons in your name, and do many miracles in your name?’ Then I will announce to them, ‘I never knew you. Depart from me, you lawbreakers!’
+>“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. On that day many will say to me, ‘Lord, Lord, didn’t we prophesy in your name, drive out demons in your name, and do many miracles in your name?’ Then I will announce to them, ‘I never knew you. Depart from me, you lawbreakers!’
 
-> Ephesians 1:3-14 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
+>Ephesians 1:3-14 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
 >
-> In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding. He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him.
+>In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding. He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him.
 >
-> In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will, so that we who had already put our hope in Christ might bring praise to his glory.
+>In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will, so that we who had already put our hope in Christ might bring praise to his glory.
 >
-> In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed. The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
+>In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed. The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
 
-> Ephesians 2:1-10 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift— not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
+>Ephesians 2:1-10 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift— not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
 
-> Titus 3:3-7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
+>Titus 3:3-7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 >
-> But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
+>But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
 
 ## Our Responsibility
 
@@ -76,7 +79,7 @@ It is at that precise moment, you hear a gentle, soothing, comforting, loving, m
 
 The Son stands. His name is Faithful, True, and the Word of God. He alone judges. He alone makes war against evil. His eyes lit up like cities that burn with a million fires. Sword on his right hand. Rod of iron on his left hand. Crowns upon crowns rest rightfully upon his head because on his robe and tattooed on his thighs, as it is written:
 
-<div style="font-variant: small-caps;">The King of Kings and the Lord of Lords</div>  
+<div style="font-variant: small-caps;">The King of Kings and the Lord of Lords</div> 
 &nbsp;  
 
 In emboldened ecstasy, he looks up to his Father, and smirkingly asks, "What do you say, Father?"
@@ -91,7 +94,7 @@ Because God loves you so much.
 
 He brings you close and holds you. With one final act in this heavenly courtroom, with the Holy Spirit, the angels, the elders, the saints, and the Father looking upon you, Christ Jesus, the Gracious Almighty God justly declares:
 
-> **NO CONDEMNATION! Now enter into the joy of your Master.**
+>**NO CONDEMNATION! Now enter into the joy of your Master.**
 
 Brothers and sisters, I tell you all these things that you joy may be full!
 

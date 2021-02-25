@@ -1,5 +1,5 @@
 ---
-title: 'Study: Romans 1:8-12'
+title: 'The Study: Romans 1:8-12'
 author: Joseph Louthan
 publishDate: 2021-03-03T06:00:00-06:00
 url: /study-romans/2021-03-03-study-romans/
@@ -26,6 +26,8 @@ The Great Commission, expressed eloquently and succinctly in this one verse:
 >1 Thessalonians 2:8b (NIV) Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well.
 
 ## God
+
+God does not save according to our "obedience" but rather, on his mercy and grace alone.
 
 ### The salvation of God is not measured in theocracy over his people but rather in the outpouring of the heart of those believe and trust in Him
 

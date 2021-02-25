@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: The Preeminence of the Love of God Romans 8:31'
+title: 'Here is Love: The Preeminence of the Love of God - Romans 8:31'
 author: Joseph Louthan
 date: 2018-07-09T12:00:27+00:00
 url: /theology/here-is-love-romans831/
@@ -11,7 +11,7 @@ series:
   - 'Here is Love'
 showtoc: false
 draft: false
----
+--- 
 
 > Romans 8:31 What then shall we say to these things? If God is for us, who can be against us?
 
@@ -23,11 +23,11 @@ John so boldly stated that God is love but we have no right nor authority to red
 
 How do we do that? How can we go to God and define what love actually is. We can certainly go by what he said. But when it comes to God’s love for us, we see time and time again in the Bible that God does not use just mere words but concretely and certainly backs up those words with real action. Namely:
 
-> Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+>Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
-> Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
+>Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
 
-> John 3:16 For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+>John 3:16 For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
 
 Christ’s death is not only the ultimate display of love for any living creature on this earth, it is the fullest display of all the attributes of God.  It the absolute proof that God will stop at nothing to save His people and bring them back to himself—even if it meant the death of His Son.
 

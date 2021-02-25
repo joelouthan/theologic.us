@@ -1,5 +1,5 @@
 ---
-title: 'Study: Romans 8:28'
+title: 'The Study: Romans 8:28'
 author: Joseph Louthan
 publishDate: 2021-03-29T06:00:00-06:00
 url: /study-romans/2021-03-29-study-romans/
@@ -12,27 +12,30 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
+css: "prayers"
 draft: false
 ---
 ## The Text
 
-> Romans 8:28 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose.
+>Romans 8:28 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose.
 
 ## The Support
 
-> Romans 8:9–11 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
+>Romans 8:9–11 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
 
-> Romans 8:14–17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+>Romans 8:14–17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
 
-> Romans 8:27 And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
+>Romans 8:27 And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
 
 ## God
+
+God calls us according to his purpose.
 
 I think when we hear this verse, we tend to gravitate towards "all things work together for the good of those who love God" but then simply breeze over the rest.
 
 And the first part is absolutely true. I think if you did a survey of Christians today and asked them what does this remind you, perhaps they would say:
 
-> Genesis 50:20 (CSB) You planned evil against me; God planned it for good to bring about the present result—the survival of many people.
+>Genesis 50:20 (CSB) You planned evil against me; God planned it for good to bring about the present result—the survival of many people.
 
 
 Let us not forget what Joseph went through:
@@ -66,17 +69,17 @@ In Luke 3, Herod throws John the Baptist in prison.
 
 In Luke 7, John sent out two of his disciples to ask Jesus this very question:
 
-> Luke 7:18–23 (CSB) Then John’s disciples told him about all these things. So John summoned two of his disciples  and sent them to the Lord, asking, “Are you the one who is to come, or should we expect someone else?”  When the men reached him, they said, “John the Baptist sent us to ask you, ‘Are you the one who is to come, or should we expect someone else?’ ”  At that time Jesus healed many people of diseases, afflictions, and evil spirits, and he granted sight to many blind people.  He replied to them, “Go and report to John what you have seen and heard: The blind receive their sight, the lame walk, those with leprosy are cleansed, the deaf hear, the dead are raised, and the poor are told the good news,  and blessed is the one who isn’t offended by me.”
+>Luke 7:18–23 (CSB) Then John’s disciples told him about all these things. So John summoned two of his disciples  and sent them to the Lord, asking, “Are you the one who is to come, or should we expect someone else?”  When the men reached him, they said, “John the Baptist sent us to ask you, ‘Are you the one who is to come, or should we expect someone else?’ ”  At that time Jesus healed many people of diseases, afflictions, and evil spirits, and he granted sight to many blind people.  He replied to them, “Go and report to John what you have seen and heard: The blind receive their sight, the lame walk, those with leprosy are cleansed, the deaf hear, the dead are raised, and the poor are told the good news,  and blessed is the one who isn’t offended by me.”
 
 Jesus quotes Isaiah 61:1 back to John. But he leaves out a very important prophecy:
 
-> Isaiah 61:1 (CSB)  
-> The Spirit of the Lord GOD is on me,  
-> because the LORD has anointed me  
-> to bring good news to the poor.  
-> He has sent me to heal the brokenhearted,  
-> to proclaim liberty to the captives  
-> and freedom to the prisoners;
+>Isaiah 61:1 (CSB)  
+>The Spirit of the Lord GOD is on me,  
+>because the LORD has anointed me  
+>to bring good news to the poor.  
+>He has sent me to heal the brokenhearted,  
+>to proclaim liberty to the captives  
+>and freedom to the prisoners;
 
 Why did Jesus do that? Let me suggest, in no uncertain terms, that Christ is the Messiah and John was going to die in prison.
 
@@ -92,9 +95,9 @@ I say that to say: all things means all things.
 
 The salvation of God for his people is never an add-on to your life to make it better. It requires you to live a completely different life than you did before.
 
-> Romans 8:9–11 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
+>Romans 8:9–11 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
 
-> Romans 8:14–17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+>Romans 8:14–17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
 
 ## Our Responsibility
 
