@@ -17,9 +17,7 @@ draft: false
 ---
 ## The Text
 
->Paul, a servant of Christ Jesus, called as an apostle, and set apart for the gospel of God— which he promised beforehand  through his prophets in the Holy Scriptures— concerning his Son, Jesus Christ our Lord, who was a descendant of David, according to the flesh  and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.  Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,  including you who are also called by Jesus Christ.
->
->To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ.
+>Romans 1:1 (CSB) Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God
 
 ## The Support
 
@@ -72,7 +70,7 @@ God will save whom he will save.
 
 The good news is this: that there is nothing that you could have ever done or will ever do that will keep you from be saved by God for God from God unto God.
 
-Make no mistake: without a faith in Christ Jesus as your Lord and Savior, you will not be saved. At the exact same time, salvation is noy dependent on you but Him. This is grace.
+Make no mistake: without a faith in Christ Jesus as your Lord and Savior, you will not be saved. At the exact same time, salvation is not dependent on you but Him. This is grace.
 
 >Ephesians 2:8–9 (CSB) For you are saved by grace through faith, and this is not from yourselves; it is God’s gift— not from works, so that no one can boast.
 

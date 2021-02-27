@@ -1,5 +1,5 @@
 ---
-title: "Study: "
+title: "Study: Romans 8:33"
 author: Joseph Louthan
 publishDate: 2021-04-03T06:00:00-06:00
 url: /study-romans/2021-04-03-study-romans/
@@ -17,58 +17,77 @@ draft: false
 ---
 ## The Text
 
->Romans 8:32 (CSB) He did not even spare his own Son but gave him up for us all. How will he not also with him grant us everything?
+>Romans 8:33 (CSB) Who can bring an accusation against God’s elect? God is the one who justifies.
 
 ## The Support
 
->Psalms 23:1 (CSB) The LORD is my shepherd;  
->I have what I need.
+>Psalm 51:4 Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.
 
->Romans 8:16-17 (CSB) The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
+>Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
 
->Matthew 6:25-34 (CSB) “Therefore I tell you: Don’t worry about your life, what you will eat or what you will drink; or about your body, what you will wear. Isn’t life more than food and the body more than clothing? Consider the birds of the sky: They don’t sow or reap or gather into barns, yet your heavenly Father feeds them. Aren’t you worth more than they? Can any of you add one moment to his life span by worrying? And why do you worry about clothes? Observe how the wildflowers of the field grow: They don’t labor or spin thread. Yet I tell you that not even Solomon in all his splendor was adorned like one of these. If that’s how God clothes the grass of the field, which is here today and thrown into the furnace tomorrow, won’t he do much more for you—you of little faith? So don’t worry, saying, ‘What will we eat?’ or ‘What will we drink?’ or ‘What will we wear?’ For the Gentiles eagerly seek all these things, and your heavenly Father knows that you need them. But seek first the kingdom of God and his righteousness, and all these things will be provided for you. Therefore don’t worry about tomorrow, because tomorrow will worry about itself. Each day has enough trouble of its own.
+>Ephesians 1:3-14 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.
 
->Matthew 5:43-48 (CSB) “You have heard that it was said, Love your neighbor and hate your enemy. But I tell you, love your enemies and pray for those who persecute you, so that you may be children of your Father in heaven. For he causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. For if you love those who love you, what reward will you have? Don’t even the tax collectors do the same? And if you greet only your brothers and sisters, what are you doing out of the ordinary? Don’t even the Gentiles do the same? Be perfect, therefore, as your heavenly Father is perfect.
+>Ephesians 2:1-10 And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
 
->2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+>Titus 3:3-7 For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior, so that being justified by his grace we might become heirs according to the hope of eternal life.
+
+>1 Timothy 1:12-17 (CSB) I give thanks to Christ Jesus our Lord who has strengthened me, because he considered me faithful, appointing me to the ministry— even though I was formerly a blasphemer, a persecutor, and an arrogant man. But I received mercy because I acted out of ignorance in unbelief, and the grace of our Lord overflowed, along with the faith and love that are in Christ Jesus. This saying is trustworthy and deserving of full acceptance: “Christ Jesus came into the world to save sinners”—and I am the worst of them. But I received mercy for this reason, so that in me, the worst of them, Christ Jesus might demonstrate his extraordinary patience as an example to those who would believe in him for eternal life. Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
+
+>Ezekiel 36:25-28 I will sprinkle clean water on you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you. And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules. You shall dwell in the land that I gave to your fathers, and you shall be my people, and I will be your God.
+
+>Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
 ## God
 
-God is our provider.
+God alone justifies.
 
-In order for you to get to God, God is going to have to provide everything for you so that you can run to him and be with him.
-
-God is infinite. Also, he is infinitely far away from our sins.
+Not only God justifies, he justifies the ungodly. He did this by sending his Son, Jesus Christ, to live, die, rise from dead and ascended to heaven so that we would be his people and he would be our God.
 
 ## The Gospel
 
-We cannot hope to do, say, or promise anything of our own that can bridge the gap between us and God. If God was a straight line from us and we took one step towards him, we would not be closer. Not at all. Just like in the Tower of Babel, we think we are getting closer to God but honestly, we are filling ourselves with our self-righteousness. And what does that do? Increase our guilt in the sight of the Holy God.
+>>Romans 5:6-11 (CSB) or while we were still helpless, at the right time, Christ died for the ungodly. For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. But God proves his own love for us in that while we were still sinners, Christ died for us. How much more then, since we have now been justified by his blood, will we be saved through him from wrath. For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life. And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
 
-If the distance between us and God is infinite and we are finite, in order to close that gap, something infinite must step into the gap.
+That is the good news: God did it all.
 
-Someone greater already did. His name is Jesus Christ.
+And the power of the cross of Christ is not that you activate it by believing in him but rather, Christ did save his people from their sins.
 
-Here is the thing that is going to blow your mind.
-
-Piece together these two passages:
-
->Genesis 3:15 (CSB) I will put hostility between you and the woman,
->and between your offspring and her offspring.
->He will strike your head,
->and you will strike his heel.
-
->Romans 3:23-26 (CSB) For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
-
-Because God does not lie, all of his promises are yes and amen, and whatever promises he makes, he absolutely keeps, then the moment he appeared to Adam and Eve and preached the good news that Christ was coming to be born as ain 
+Let us say, theologically you know this. But do you believe it? Does your life look like you believe it? I am not talking struggling with doubt or you might have questions. I am asking you this, "Are you trusting yourself and the good things you have done or are you trusting that God will do exactly what he said he would do?"
 
 ## Our Responsibility
+
+It is always the same: stop thinking you can earn your way into heaven OR stop thinking you can earn the love of God OR stop thinking that you can do whatever you want and God will still love you.
+
+Hear the gospel. Trust in Christ. Obey him. Live to him.
 
 ## Pray
 
 <div style="font-variant: small-caps;">
-
+The Source of the Gospel
 </div>
 
 ```text
+Without you
+  we are blind
+  lost
+  led astray
+  deaf
+  dumb
+  muted
+  orphaned
+  divorced
+  widowed
+  alone
+  forsaken
+  in prison.
 
+God,
+  you promise
+  your Son
+  was sent to set the captives free.
+
+Set us free, Lord.
+
+Do this today.
+
+Amen.
 ```

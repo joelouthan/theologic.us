@@ -102,18 +102,7 @@ This might be audacious of me but I want to release recordings every evening in 
 
 Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ".
 
-## The Bonuses
+I need to do something here will krisp work i dont know
 
-Not promising these are a regular basis, but from time to time, I will release bonus episodes.
 
-Topics include:
-
-* Writing
-* Books
-* Movies
-* Video Games
-* Enneagram
-* Church
-* Traveling
-
-... and so much more.  (These episodes might not have an accompanying transcript aka blog post. But it makes more sense for me to have a video connected with it.)
+does this still work or do I want to go back to Krisp

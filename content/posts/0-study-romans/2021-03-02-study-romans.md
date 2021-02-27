@@ -21,23 +21,29 @@ draft: false
 
 ## The Support
 
-**Paul, a servant for Christ Jesus, called as an apostle and set apart for the gospel of God**
+### Romans 1:1 (CSB) Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God—
 
 >I Timothy 1:12-17 I thank him who has given me strength, Christ Jesus our Lord, because he judged me faithful, appointing me to his service,  though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief,  and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus.  The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.  But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.  To the King of ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 
-**which he promised beforehand through his prophets in the Holy Scriptures, concerning his Son**
+### Romans 1:2-3 (CSB) which he promised beforehand through his prophets in the Holy Scriptures— concerning his Son, Jesus Christ our Lord
 
 This is the Old Testament.
 
 Consider:
 
->Ephesians 1:20–23 (CSB): He exercised this power in Christ by raising him from the dead and seating him at his right hand in the heavens—21 far above every ruler and authority, power and dominion, and every title given, not only in this age but also in the one to come. 22 And he subjected everything under his feet and appointed him as head over everything for the church, 23 which is his body, the fullness of the one who fills all things in every way.
+>Luke 24:27 (CSB) Then beginning with Moses and all the Prophets, he interpreted for them the things concerning himself in all the Scriptures.
 
-**who was descended from David** - Matthew 1, Luke 3:23-28; Davidic Covenant (this is in place despite God's blood curse on one line from David in Jeremiah 22)
+>Matthew 5:17-20 (CSB) “Don’t think that I came to abolish the Law or the Prophets. I did not come to abolish but to fulfill. For truly I tell you, until heaven and earth pass away, not the smallest letter or one stroke of a letter will pass away from the law until all things are accomplished. Therefore, whoever breaks one of the least of these commands and teaches others to do the same will be called least in the kingdom of heaven. But whoever does and teaches these commands will be called great in the kingdom of heaven. For I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will never get into the kingdom of heaven.
+
+### who was a descendant of David
+
+- Matthew 1:1 "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham."
+- Luke 3:23-28
+- Davidic Covenant
 
 >2 Samuel 7:12–16 (CSB): 12 When your time comes and you rest with your ancestors, I will raise up after you your descendant, who will come from your body, and I will establish his kingdom. 13 He is the one who will build a house for my name, and I will establish the throne of his kingdom forever. 14 I will be his father, and he will be my son. When he does wrong, I will discipline him with a rod of men and blows from mortals. 15 But my faithful love will never leave him as it did when I removed it from Saul, whom I removed from before you. 16 Your house and kingdom will endure before me forever, and your throne will be established forever.’ ”
 
-**according to the flesh** - John 1:1-14; Romans 8:1-4
+### according to the flesh
 
 >John 1:1–14 (CSB): 1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 All things were created through him, and apart from him not one thing was created that has been created. 4 In him was life, and that life was the light of men. 5 That light shines in the darkness, and yet the darkness did not overcome it.
 >
@@ -49,13 +55,13 @@ Consider:
 >
 >14 The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
 
-**and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord**
+### Romans 1:4 (CSB) and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.
 
 >Romans 8:12-13 (CSB) So then, brothers and sisters, we are not obligated to the flesh to live according to the flesh, because if you live according to the flesh, you are going to die. But if by the Spirit you put to death the deeds of the body, you will live.
 
 >John 3:35 The Father loves the Son and has given all things into his hand (Daniel 7; Hebrews 1:1-2)
 
-**thought whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among the nations**
+### Romans 1:5 (CSB) Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,
 
 This is the Great Commission. Listen to what you and I have been commissioned to do by our Great Lord and Savior:
 
@@ -69,35 +75,12 @@ This is the Great Commission. Listen to what you and I have been commissioned to
 >
 >He told them, “These are my words that I spoke to you while I was still with you—that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.” Then he opened their minds to understand the Scriptures. He also said to them, “This is what is written: The Messiah will suffer and rise from the dead the third day, and repentance for forgiveness of sins will be proclaimed in his name to all the nations, beginning at Jerusalem. You are witnesses of these things. And look, I am sending you what my Father promised. As for you, stay in the city until you are empowered from on high.”
 
->John 21:15–19 (CSB) When they had eaten breakfast, Jesus asked Simon Peter, “Simon, son of John, do you love me more than these?”
->“Yes, Lord,” he said to him, “you know that I love you.”
->
->“Feed my lambs,” he told him. A second time he asked him, “Simon, son of John, do you love me?”
->
->“Yes, Lord,” he said to him, “you know that I love you.”
->
->“Shepherd my sheep,” he told him.
->
->He asked him the third time, “Simon, son of John, do you love me?”
->
->Peter was grieved that he asked him the third time, “Do you love me?” He said, “Lord, you know everything; you know that I love you.”
->
->“Feed my sheep,” Jesus said. “Truly I tell you, when you were younger, you would tie your belt and walk wherever you wanted. But when you grow old, you will stretch out your hands and someone else will tie you and carry you where you don’t want to go.” He said this to indicate by what kind of death Peter would glorify God. After saying this, he told him, “Follow me.”
+>Acts 1:7–8 (CSB) He said to them, “It is not for you to know times or periods that the Father has set by his own authority. But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 
->Acts 1:7–8 (CSB)
-He said to them, “It is not for you to know times or periods that the Father has set by his own authority. But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
-
-
-Here is the summation of the Great Commission:
-
->Romans 15:18–21 (CSB): 18 For I would not dare say anything except what Christ has accomplished through me by word and deed for the obedience of the Gentiles, 19 by the power of miraculous signs and wonders, and by the power of God’s Spirit. As a result, I have fully proclaimed the gospel of Christ from Jerusalem all the way around to Illyricum. 20 My aim is to preach the gospel where Christ has not been named, so that I will not build on someone else’s foundation, 21 but, as it is written,
-
->Those who were not told about him will see,
->and those who have not heard will understand.
-
-**including you who are called to belong to Jesus Christ**
+### Romans 1:6 (CSB) including you who are also called by Jesus Christ.
 
 Consider:
+
 - the promise of Isaac in Genesis 17
 - the calling of Isaiah in Isaiah 6
 - the calling Jeremiah in Jeremiah 1
@@ -107,7 +90,7 @@ Ultimately:
 
 >Romans 8:28–30 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
-**To all those in Rome who are loved by God and called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.**
+### Romans 1:7 (CSB) To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ
 
 Compare the love for the world versus the tender, affectionate, personal, relational love that God has for his people--those who believe and trust in him--those who are called saints (Ephesians 4:11-16) - Grace to you and peace from God our Father and the Lord Jesus Christ. Amen.
 
@@ -119,14 +102,13 @@ All the promises of God are yes and amen:
 
 All of the promises in the Old Testament, starting from Genesis 3:15, through the law and the prophets, through songs and wisdom, all culminating that God would save his people. In other words, we will be his people and he will forever be our God.
 
-
 ## The Gospel
 
 Here is the gospel proclamation:
 
 >John 3:16 For God so loved the world that he gave his only begotten Son, that whosoever shall believe in Him shall not perish but have everlasting life.
 
-The opposite is also true:
+What about those who do not believe in Christ Jesus:
 
 >John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
@@ -134,7 +116,7 @@ The opposite is also true:
 
 This is the call: trust in God alone.
 
-Theologically, we know that God does not lie. But how do we know that to be sure? His written word is the transcript of all of his promises. More so, it is the transcription of His heart. Now, some things in the bible are too difficult for us to understand and some too mysterious. That is okay. Because what we do have is His Son, Christ Jesus our Lord.  Even the most hardcore atheist would be foolish to deny the historical life of Jesus Christ. But Christ was not a merely changed all of mankind's history. He came so that he completely, definitely, perfectly fulfilled one thing: be our righteousness.
+Theologically, we know that God does not lie. But how do we know that to be sure? His written word is the transcript of all of his promises. More so, it is the transcription of His heart. Now, some things in the Bible are too difficult for us to understand and some too mysterious. That is okay. Because what we do have is His Son, Christ Jesus our Lord.  Even the most hardcore atheist would be foolish to deny the historical life of Jesus Christ. But Christ was not a merely a historical marker that changed all of mankind's history. He came so that he completely, definitely, perfectly fulfilled one thing: to save His people from their sins forever.
 
 Trust in God. Nothing on this earth. How does that old hymn go?
 

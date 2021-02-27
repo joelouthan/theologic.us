@@ -94,7 +94,7 @@ ___
 <p style="clear:both;">
 
 {{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801042658&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0801042658" width="1" height="1" border="0" >}}
-[**Romans (New Testament Commentary**](https://www.amazon.com/New-Testament-Commentary-Romans-Chapters/dp/0801042658?dchild=1&keywords=Romans+Hendriksen&qid=1613687632&sr=8-1&linkCode=li2&tag=theologicus-20&linkId=65de2a96da0a1ba0e1f710d731bbc846&language=en_US&ref_=as_li_ss_il)  
+[**Romans (New Testament Commentary)**](https://www.amazon.com/New-Testament-Commentary-Romans-Chapters/dp/0801042658?dchild=1&keywords=Romans+Hendriksen&qid=1613687632&sr=8-1&linkCode=li2&tag=theologicus-20&linkId=65de2a96da0a1ba0e1f710d731bbc846&language=en_US&ref_=as_li_ss_il)  
 William Hendriksen  
 1980-1981, Baker.
 
@@ -137,7 +137,7 @@ ___
 by Gerald L. Bray (Editor)  
 2005, IVP Academic  
 
-I think this entire series is an excellent resource to have on hand if you can pony up the scratch.  It's all fine and good to read guys from within the last few centuries. But how about reading commentary from within the first few centuries after the ascension of Christ. You ain't going to read anything shockingly new.  But what you are going realize there is absolutely new under the sun and Jesus Christ the same yesterday, today, and tomorrow.
+I think this entire series is an excellent resource to have on hand if you can pony up the scratch.  It's all fine and good to read guys from within the last few centuries. But how about reading commentary from within the first few centuries after the ascension of Christ. You ain't going to read anything shockingly new.  But what you are going realize there is absolutely nothing new under the sun and Jesus Christ the same yesterday, today, and tomorrow.
 
 ___
 
