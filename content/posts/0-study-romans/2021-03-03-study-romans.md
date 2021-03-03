@@ -7,7 +7,7 @@ categories:
   - Bible Study
   - Podcast
 tags:
-  - Romans
+  - Romans`
   - Podcast
 series:
   - 'Bible Study: Romans'
@@ -21,75 +21,75 @@ draft: false
 
 ## The Support
 
-The Great Commission, expressed eloquently and succinctly in this one verse:
+The Great Commission, simplified:
 
 >1 Thessalonians 2:8b (NIV) Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well.
 
 ## God
 
-God does not save according to our "obedience" but rather, on his mercy and grace alone.
+God is worthy of all our praise and thanksgiving.
 
-### The salvation of God is not measured in theocracy over his people but rather in the outpouring of the heart of those believe and trust in Him
+>First, I thank my God through Jesus Christ for all of you because the news of your faith is being reported in all the world.
 
-What do I mean by theocracy? Simply put, it is when the law of a religion is now made the law of the land. Now for some of you, that sounds amazing. Be honest. What if we could just get everybody to follow the law of God and then we would be a holy nation and we would please God and God would bless us. Make no mistake, when we obey God, we do please God and from that obedience, there are blessings--mostly surrounding being saved by God and knowing who God is and loving him.  But also, please grasp this absolute truth: you cannot start to obey God until you are saved by God. And you are not saved by God until God takes out your wicked, sin-filled, granite-like heart and replaces it with His own tender, soft heart:
+God alone is our witness.
 
->Ezekiel 36:25–27 (CSB) I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.  I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.  I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
+>Romans 8:16 (CSB) The Spirit himself testifies together with our spirit that we are God’s children,
 
-Let us say, we can take all the laws of God and institutionalize them as the laws of the land. And let us say we we have the best way of enforcing those laws, isn't that what God wants?
+God empowers us for ministry.
 
-First, no. We have one authoritative text that tells us that is impossible and that text is the word of God. All of your hopes and dreams of having God's laws as the laws of the land are dashed into pieces once you start reading the Bible. We see our first parents, Adam and Eve, sinned wickedly and ashamedly in the eyes of God by how? Disobeying the one commandment of God. There wasn't even a commandment, "Love the Lord your God". He just kept it clear, "Don't eat from this tree, for sure you will die." Adam and Eve disobeyed and now we are all born into sin. And then God sets up more and more laws to reflect who He is, who we are, and just how far we are from him.  When we see that we are infinitely far from Him and there is nothing we can do to save ourselves, we have to trust the same God, whom came down in the midst of our first parents first sin, and preached the first instance of the Gospel where He will send His Son, into the midst of the sin of the world and will defeat the Accuser and save His people from their sins forever.
+>Ephesians 4:11-16 (CSB) And he himself gave some to be apostles, some prophets, some evangelists, some pastors and teachers, to equip the saints for the work of ministry, to build up the body of Christ, until we all reach unity in the faith and in the knowledge of God’s Son, growing into maturity with a stature measured by Christ’s fullness. Then we will no longer be little children, tossed by the waves and blown around by every wind of teaching, by human cunning with cleverness in the techniques of deceit. But speaking the truth in love, let us grow in every way into him who is the head—Christ. From him the whole body, fitted and knit together by every supporting ligament, promotes the growth of the body for building itself up in love by the proper working of each individual part.
 
-Second, not only we see it as impossibility with man to do anything to be saved and blessed by God, pure obedience is what is required by God but it is not His utmost desired:
-
->Matthew 9:9–13 (CSB) As Jesus went on from there, he saw a man named Matthew sitting at the tax office, and he said to him, “Follow me,” and he got up and followed him.  While he was reclining at the table in the house, many tax collectors and sinners came to eat with Jesus and his disciples.  When the Pharisees saw this, they asked his disciples, “Why does your teacher eat with tax collectors and sinners?”  Now when he heard this, he said, “It is not those who are well who need a doctor, but those who are sick.  Go and learn what this means: I desire mercy and not sacrifice. For I didn’t come to call the righteous, but sinners.”
-
-In other words, yes, God does require obedience. But you and me lack the power to actually obey God out of a pure heart.
-
-Put in a other way:
-
->Romans 8:3–4 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,  in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
-
-and
-
->2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+>Ephesians 6:10 (CSB) Finally, be strengthened by the Lord and by his vast strength.
 
 ## The Gospel
 
-What is the Good News in all of this?
+The gospel is about His Son, Jesus Christ.
 
-God requires you to obey Him perfectly. But here is the straight fact: God knew you were going to fail. He knew this. He knew that no matter how easy or thorough he would make his law, he saw that "all have sinned and fallen short of the glory of God."[^1]
-
-He saw you, in your sin, treason, wickedness, and hatred, just like Noah in the middle of the wickedness of mankind, gave you grace and kindness and love.
-
->Romans 5:8 (CSB) But God proves his own love for us in that while we were still sinners, Christ died for us.
-
-And that love and grace can only be found in Christ Jesus.
+>1 Corinthians 15:3-8 (CSB) For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, then to the Twelve. Then he appeared to over five hundred brothers and sisters at one time; most of them are still alive, but some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one born at the wrong time, he also appeared to me.
 
 ## Our Responsibility
 
-Our responsibility in all of this?
+Just as Paul is affectionately writing to the church in Rome, here is a reminder of what Christ says to us:
 
-Trust in the Living God. Do that and then go and sin no more.[^2]
+>John 13:34-35 (CSB) “I give you a new command: Love one another. Just as I have loved you, you are also to love one another. By this everyone will know that you are my disciples, if you love one another.”
 
-[^1]: Romans 3:23
-[^2]: John 8:11
+>1 John 3:16 (CSB) This is how we have come to know love: He laid down his life for us. We should also lay down our lives for our brothers and sisters.
+
+1\. Pray that God will use you for his will
+
+>that I constantly mention you, always asking in my prayers that if it is somehow in God’s will, I may now at last succeed in coming to you.
+
+2\. Pray that God gives you spiritual gifts that hopes to build his church
+
+>For I want very much to see you, so that I may impart to you some spiritual gift
+
+3\. Pray to build up one another
+
+>to strengthen you,  that is, to be mutually encouraged by each other’s faith, both yours and mine.
 
 ## Pray
 
 <div style='font-variant: small-caps;'>
-My Righteousness
+Our Great Commissioner
 </div>
 
-No amount of laws will ever make up for my own sin and wickedness.
+```text
+You have called on us
+  to obey you
+  to seek your face
+  to follow you wherever you go
+  to pick up our cross
+  to exchange our sin
+  for your righteousness
+  to worship no other gods
+  to worship you alone.
 
-I am already apart from you from the start. And I have felt that for all of my life.
+My God,
+  give us Christ
+  the strength of your Spirit
+  to do your will.
 
-But you, my God, quick to save when I opened my mouth and yelled, "I need you. Come get me."
-
-This is really my only prayer for all of my days.
-
-I am not trying to be independent so I won't need you. The more days I spend on this earth, the more I know I am your child, I am weak, and I need you so badly.
-
-Give me Christ. Fill me with your Spirit. Write your word upon my heart so I might not sin against you, my Lord, my Rock, and my Redeemer.
+Blessed be the glorious name of the Lord,
 
 Amen.
+```

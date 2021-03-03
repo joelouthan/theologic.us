@@ -13,7 +13,7 @@ series:
   - 'Bible Study: Romans'
 tocopen: true
 css: "prayers"
-draft: false
+draft: false 
 ---
 ## The Text
 
@@ -28,10 +28,6 @@ draft: false
 >Those who were not told about him will see,
 >and those who have not heard will understand.
 
->Acts 9:1–16 (CSB) Now Saul was still breathing threats and murder against the disciples of the Lord. He went to the high priest  and requested letters from him to the synagogues in Damascus, so that if he found any men or women who belonged to the Way, he might bring them as prisoners to Jerusalem.  As he traveled and was nearing Damascus, a light from heaven suddenly flashed around him.  Falling to the ground, he heard a voice saying to him, “Saul, Saul, why are you persecuting me?”  “Who are you, Lord?” Saul said. “I am Jesus, the one you are persecuting,” he replied.  “But get up and go into the city, and you will be told what you must do.”  The men who were traveling with him stood speechless, hearing the sound but seeing no one.  Saul got up from the ground, and though his eyes were open, he could see nothing. So they took him by the hand and led him into Damascus.  He was unable to see for three days and did not eat or drink.
->
->There was a disciple in Damascus named Ananias, and the Lord said to him in a vision, “Ananias.” “Here I am, Lord,” he replied.  “Get up and go to the street called Straight,” the Lord said to him, “to the house of Judas, and ask for a man from Tarsus named Saul, since he is praying there.  In a vision he has seen a man named Ananias coming in and placing his hands on him so that he may regain his sight.”  “Lord,” Ananias answered, “I have heard from many people about this man, how much harm he has done to your saints in Jerusalem.  And he has authority here from the chief priests to arrest all who call on your name.”  But the Lord said to him, “Go, for this man is my chosen instrument to take my name to Gentiles, kings, and Israelites.  I will show him how much he must suffer for my name.”
-
 ## God
 
 God is sovereign over all and everything.
@@ -42,17 +38,25 @@ In dealing with trying to wrap our minds around God's sovereignty, 19th century 
 
 [^3]: Charles Hodge. Systematic Theology. Volume 1: Theology. 440.
 
-In other words, God is not sovereign because He is sovereign. There is so much more to God than just His sovereignty. And I think we all know that. But sometimes when I hang out with Calvinists, I am not so sure if we really believe that.
-
-Hodge will go on to say:
+In other words, God is not sovereign because He is sovereign. Let me let Hodge explain it best:
 
 >>Although this sovereignty is thus universal and absolute, it is the sovereignty of wisdom, holiness, and love. The authority of God is limited by nothing out of Himself, but it is controlled, in all its manifestations, by his infinite perfections. If a man is free and exalted, in proportion as he is governed by the enlightened reason and pure conscience, so is he supremely blessed who cheerfully submits to be governed by the infinite reason and holiness of God. This sovereignty of God is the ground of peace and confidence to all his people. They rejoice that the Lord God omnipotent reigns; that neither necessity, nor chance, no the folly of man, nor the malice of Satan controls the sequence of events and all their issues. Infinite wisdom, love, and power, belong to Him, out great God and Saviour, into whose hands all power in heaven and earth has been committed.[^4]
 
 [^4]: Hodge. 441.
 
+In other words, because God is perfect, good, wisdom, holiness, and love, that is sovereignty. God is the fullness of all of those things and in that, He is sovereign.
+
 ## The Gospel
 
-That our salvation from sin and death and unto God who is perfectly wise, love, and peace, does not depend on, as the Apostle John puts it, "not of blood, nor of the will of the flesh nor the will of man"[^5] but completely and perfectly by God, then we have two possible reactions.
+What does this have to do with the gospel of God?
+
+Just like no one else who knew Saul before he became Paul would have even try to bet on him becoming a Christian, we do not know where somebody is going based on where they are at now.
+
+If you list to American wisdom, "God only helps those who help themselves" is not true and it damns us all to hell. Because while some have the strength to get themselves out of a pit, none of us are good enough, perfect enough obedient enough, wise enough, holy enough, and loving enough to get us out of hell and into the presence of God.
+
+I think we think we believe that. But our actions say something totally different. How do I know? The biggest way is how many Christians who grew up Christian get into the real world, get kicked in the teeth by sin, and are left dumbfounded that this is not how it was suppose to go. So two responses: either they try harder to be better (usually to earn the favor of God in some way) or run away from him altogether--usually starts out with some sort of deconstruction.  And when it comes to deconstruction, it doesn't have to be a huge heretical deniel of the basic tenets of the Bible but rather, just stop going to church. Or when people check up on you, you don't return their calls. Or keep people walled off because you want to be right and you don't want people talking you out of the direction you are heading.
+
+The good news despite all of that is that our salvation from sin and death and unto God who is perfectly wise, love, and peace, does not depend on, as the Apostle John puts it, "not of blood, nor of the will of the flesh nor the will of man"[^5] but completely and perfectly by God, then we have two possible reactions.
 
 "There is nothing I can do." Hogwash. The Apostle John will go on to say, "The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him."[^6]
 
