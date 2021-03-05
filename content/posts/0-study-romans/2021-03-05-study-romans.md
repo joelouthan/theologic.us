@@ -29,17 +29,17 @@ draft: false
 
 ## God
 
-God is the only source of salvation.
+### God is the only source of salvation.
 
-**God is the only source of the prophets**
+God is the only source of the prophets
 
 >Habakkuk 2:2 "The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it."
 
-**God is the only justifier of the law, not the law itself**
+God is the only justifier of the law, not the law itself
 
 >Galatians 3:11 "Now it is clear that no one is justified before God by the law, because the righteous will live by faith."
 
-**God is the only Savior**
+God is the only Savior
 
 >Hebrews 10:38-39 "But my righteous one will live by faith; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved."
 

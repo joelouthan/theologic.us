@@ -1,5 +1,5 @@
 ---
-title: 'Luke '
+title: 'Luke 16-17'
 author: Joseph Louthan
 publishDate: 2021-03-11T06:00:00-06:00
 url: /family-devos-luke/2021-03-11-family-devos-luke/
