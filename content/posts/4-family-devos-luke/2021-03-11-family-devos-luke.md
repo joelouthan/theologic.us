@@ -1,5 +1,5 @@
 ---
-title: 'Luke 16-17'
+title: 'Luke 16-17 Christ Gives'
 author: Joseph Louthan
 publishDate: 2021-03-11T06:00:00-06:00
 url: /family-devos-luke/2021-03-11-family-devos-luke/
@@ -10,5 +10,153 @@ tags:
 series:
   - 'Family Devotions: Luke'
 css: "family-devos"
-draft: true
+draft: false
 ---
+
+## Christ Gives Provision
+
+>Luke 16:1-13 (CSB) Now he said to the disciples, “There was a rich man who received an accusation that his manager was squandering his possessions. So he called the manager in and asked, ‘What is this I hear about you? Give an account of your management, because you can no longer be my manager.’
+>
+>“Then the manager said to himself, ‘What will I do since my master is taking the management away from me? I’m not strong enough to dig; I’m ashamed to beg. I know what I’ll do so that when I’m removed from management, people will welcome me into their homes.’
+>
+>“So he summoned each one of his master’s debtors. ‘How much do you owe my master?’ he asked the first one.
+>
+>“‘A hundred measures of olive oil,’ he said.
+>
+>“‘Take your invoice,’ he told him, ‘sit down quickly, and write fifty.’
+>
+>“Next he asked another, ‘How much do you owe?’
+>
+>“‘A hundred measures of wheat,’ he said.
+>
+>“‘Take your invoice,’ he told him, ‘and write eighty.’
+>
+>“The master praised the unrighteous manager because he had acted shrewdly. For the children of this age are more shrewd than the children of light in dealing with their own people. And I tell you, make friends for yourselves by means of worldly wealth so that when it fails, they may welcome you into eternal dwellings. Whoever is faithful in very little is also faithful in much, and whoever is unrighteous in very little is also unrighteous in much. So if you have not been faithful with worldly wealth, who will trust you with what is genuine? And if you have not been faithful with what belongs to someone else, who will give you what is your own? No servant can serve two masters, since either he will hate one and love the other, or he will be devoted to one and despise the other. You cannot serve both God and money.”
+
+```text
+1. What exactly did the unrighteous and dishonest manager do?
+
+2. What is 'shrewd'?
+
+3. When it comes to anything God gives us, how can Christians act more shrewdly with our provisions?
+
+4. When we do so, what might happen with people we give to?
+
+5. How come we get to freely give our possessions away?
+```
+
+---
+
+## Christ Gives the Good News
+
+>Luke 16:14-18 (CSB) The Pharisees, who were lovers of money, were listening to all these things and scoffing at him. And he told them, “You are the ones who justify yourselves in the sight of others, but God knows your hearts. For what is highly admired by people is revolting in God’s sight.
+>
+>“The Law and the Prophets were until John; since then, the good news of the kingdom of God has been proclaimed, and everyone is urgently invited to enter it. But it is easier for heaven and earth to pass away than for one stroke of a letter in the law to drop out.
+>
+>“Everyone who divorces his wife and marries another woman commits adultery, and everyone who marries a woman divorced from her husband commits adultery.
+
+```text
+1. If we believe in Christ, are we still "married" to our sin?
+
+2. What is harder to do: do the right thing in hopes that God will save us or believe and trust in Christ and God will absolutely save us?
+
+3. Why do so many people try to earn the love of God? Where have you tried to earn the love of God?
+
+4. Why?
+```
+
+---
+
+## Christ Gives Eternal Life
+
+>Luke 16:19-31 (CSB) “There was a rich man who would dress in purple and fine linen, feasting lavishly every day. But a poor man named Lazarus, covered with sores, was lying at his gate. He longed to be filled with what fell from the rich man’s table, but instead the dogs would come and lick his sores. One day the poor man died and was carried away by the angels to Abraham’s side. The rich man also died and was buried. And being in torment in Hades, he looked up and saw Abraham a long way off, with Lazarus at his side. ‘Father Abraham!’ he called out, ‘Have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue, because I am in agony in this flame!’
+>
+>“‘Son,’ Abraham said, ‘remember that during your life you received your good things, just as Lazarus received bad things, but now he is comforted here, while you are in agony. Besides all this, a great chasm has been fixed between us and you, so that those who want to pass over from here to you cannot; neither can those from there cross over to us.’
+>
+>“‘Father,’ he said, ‘then I beg you to send him to my father’s house— because I have five brothers—to warn them, so that they won’t also come to this place of torment.’
+>
+>“But Abraham said, ‘They have Moses and the prophets; they should listen to them.’
+>
+>“‘No, father Abraham,’ he said. ‘But if someone from the dead goes to them, they will repent.’
+>
+>“But he told him, ‘If they don’t listen to Moses and the prophets, they will not be persuaded if someone rises from the dead.’”
+
+```text
+1. Is Christ teaching that rich people are going to hell and poor people are going to heaven?
+
+2. "they will not be persuaded if someone rises from the dead" - what do you suppose Christ meant by that?
+
+3. Christ has risen from the dead. That is an historical fact. Has everyone been convinced to look to God and believe and trust in Him? 
+
+4. What is ours to do? (Read Matthew 28, Mark 16, Luke 24, and Acts 1)
+```
+
+---
+
+## Christ Gives Repentance
+
+>Luke 17:1-4 (CSB) He said to his disciples, “Offenses will certainly come, but woe to the one through whom they come! It would be better for him if a millstone were hung around his neck and he were thrown into the sea than for him to cause one of these little ones to stumble. Be on your guard. If your brother sins, rebuke him, and if he repents, forgive him. And if he sins against you seven times in a day, and comes back to you seven times, saying, ‘I repent,’ you must forgive him.”
+
+```text
+1. Read Jeremiah 23. Why was Jesus so hard on teachers, preachers, and pastors?
+
+2. Read John 21:15-19. What did Jesus call teachers, preachers, and pastors to do actually do?
+
+3. Read 1 John 4:7-21. What are we called to do for one another?
+```
+
+---
+
+## Christ Gives Faith
+
+>Luke 17:5-10 (CSB) The apostles said to the Lord, “Increase our faith.”
+>
+>“If you have faith the size of a mustard seed,” the Lord said, “you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.
+>
+>“Which one of you having a servant tending sheep or plowing will say to him when he comes in from the field, ‘Come at once and sit down to eat’? Instead, will he not tell him, ‘Prepare something for me to eat, get ready, and serve me while I eat and drink; later you can eat and drink’? Does he thank that servant because he did what was commanded? In the same way, when you have done all that you were commanded, you should say, ‘We are unworthy servants; we’ve only done our duty.’”
+
+```text
+1. Read Ephesians 2:1-10. Where does faith come from?
+
+2. Are we saved by our obedience to God or are we saved by the faith given to us by God?
+```
+
+---
+
+## Christ Gives Mercy
+
+>Luke 17:11-19 (CSB) While traveling to Jerusalem, he passed between Samaria and Galilee. As he entered a village, ten men with leprosy met him. They stood at a distance and raised their voices, saying, “Jesus, Master, have mercy on us!”
+>
+>When he saw them, he told them, “Go and show yourselves to the priests.” And while they were going, they were cleansed.
+>
+>But one of them, seeing that he was healed, returned and, with a loud voice, gave glory to God. He fell facedown at his feet, thanking him. And he was a Samaritan.
+>
+>Then Jesus said, “Were not ten cleansed? Where are the nine? Didn’t any return to give glory to God except this foreigner?” And he told him, “Get up and go on your way. Your faith has saved you.”
+
+```text
+1. Who gives mercy when we sin against God?
+
+2. When Christ gives mercy, how should we respond?
+```
+
+---
+
+## Christ Gave Himself
+
+>Luke 17:20-37 (CSB) When he was asked by the Pharisees when the kingdom of God would come, he answered them, “The kingdom of God is not coming with something observable; no one will say, ‘See here!’ or ‘There!’ For you see, the kingdom of God is in your midst.”
+>
+>Then he told the disciples, “The days are coming when you will long to see one of the days of the Son of Man, but you won’t see it. They will say to you, ‘See there!’ or ‘See here!’ Don’t follow or run after them. For as the lightning flashes from horizon to horizon and lights up the sky, so the Son of Man will be in his day. But first it is necessary that he suffer many things and be rejected by this generation.
+>
+>“Just as it was in the days of Noah, so it will be in the days of the Son of Man: People went on eating, drinking, marrying and being given in marriage until the day Noah boarded the ark, and the flood came and destroyed them all. It will be the same as it was in the days of Lot: People went on eating, drinking, buying, selling, planting, building. But on the day Lot left Sodom, fire and sulfur rained from heaven and destroyed them all. It will be like that on the day the Son of Man is revealed. On that day, a man on the housetop, whose belongings are in the house, must not come down to get them. Likewise the man who is in the field must not turn back. Remember Lot’s wife! Whoever tries to make his life secure will lose it, and whoever loses his life will preserve it. I tell you, on that night two will be in one bed; one will be taken and the other will be left. Two women will be grinding grain together; one will be taken and the other left.”
+>
+>“Where, Lord?” they asked him.
+>
+>He said to them, “Where the corpse is, there also the vultures will be gathered.”
+
+```text
+1. Where and when is the kingdom of God?
+
+2. "But first it is necessary that he suffer many things and be rejected by this generation" - If Christ has suffered and rejected by that generation, is the kingdom of God is here?
+
+3. What does it mean for Christ to suffer and be rejected?
+```
