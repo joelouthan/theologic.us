@@ -8,9 +8,9 @@ categories:
 tags:
   - "Psalms"
 series:
-  - "Praying Through: The Psalms"
+  - "Praying Through: Psalms"
 showtoc: false
-css: "prayer"
+css: "prayers"
 draft: true
 ---
 <div style="font-variant: small-caps;">
