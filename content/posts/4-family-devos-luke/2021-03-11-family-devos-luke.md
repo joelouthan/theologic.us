@@ -141,7 +141,7 @@ draft: false
 
 ---
 
-## Christ Gave Himself
+## Christ Gives Himself
 
 >Luke 17:20-37 (CSB) When he was asked by the Pharisees when the kingdom of God would come, he answered them, “The kingdom of God is not coming with something observable; no one will say, ‘See here!’ or ‘There!’ For you see, the kingdom of God is in your midst.”
 >
