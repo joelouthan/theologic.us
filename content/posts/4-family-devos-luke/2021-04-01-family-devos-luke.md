@@ -10,7 +10,7 @@ tags:
 series:
   - 'Family Devotions: Luke'
 css: "family-devos"
-draft: false
+draft: true
 ---
 ## 
 
