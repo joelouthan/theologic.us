@@ -9,7 +9,7 @@ tags:
   - "Psalms"
 series:
   - "Praying Through: Psalms"
-css: "prayer"
+css: "prayers"
 showtoc: false
 draft: true
 ---

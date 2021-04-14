@@ -11,7 +11,7 @@ series:
   - "Praying Through: Psalms"
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 <div style="font-variant: small-caps;">
 Worthy is the Lamb
