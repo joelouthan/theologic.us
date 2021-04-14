@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 8'
 author: Joseph Louthan
 date: 2012-12-04T06:00:00-06:00
-url: /prayers/praying-through-psalm-8/
+url: /prayers/praying-through-psalms-8/
 categories:
   - Prayers
 tags:

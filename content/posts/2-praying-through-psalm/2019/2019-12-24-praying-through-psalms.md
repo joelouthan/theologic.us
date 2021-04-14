@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 27:1-3'
 author: Joseph Louthan
 publishDate: 2019-12-24
-url: /praying-through-psalms/2019-12-24-praying-through-psalms/
+url: /praying-through-psalmss/2019-12-24-praying-through-psalmss/
 categories:
   - Prayers
 tags:

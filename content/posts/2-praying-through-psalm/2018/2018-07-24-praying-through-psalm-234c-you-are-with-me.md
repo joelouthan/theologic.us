@@ -3,7 +3,7 @@ title: 'Praying Through: Psalm 23:4c You Are With Me'
 author: Joseph Louthan
 type: post
 date: 2018-07-24T12:00:36+00:00
-url: /prayer/praying-through-psalm-234c-you-are-with-me/
+url: /prayer/praying-through-psalms-234c-you-are-with-me/
 categories:
   - Prayers
 tags:

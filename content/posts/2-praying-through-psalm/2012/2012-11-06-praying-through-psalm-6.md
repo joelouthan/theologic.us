@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 6'
 author: Joseph Louthan
 date: 2012-11-06T06:00:00-06:00
-url: /prayers/praying-through-psalm-6/
+url: /prayers/praying-through-psalms-6/
 categories:
   - Prayers
 tags:

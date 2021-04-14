@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 23:6e You Are My Home Forever'
 author: Joseph Louthan
 publishDate: 2019-11-26
-url: /praying-through-psalms/2019-11-26-praying-through-psalms/
+url: /praying-through-psalmss/2019-11-26-praying-through-psalmss/
 categories:
   - Prayers
 tags:

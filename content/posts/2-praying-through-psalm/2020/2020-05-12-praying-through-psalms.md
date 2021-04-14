@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 30:6-7'
 author: Joseph Louthan
 publishDate: 2020-05-12
-url: /praying-through-psalms/2020-05-12-praying-through-psalms/
+url: /praying-through-psalmss/2020-05-12-praying-through-psalmss/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 27:13-14'
 author: Joseph Louthan
 publishDate: 2020-01-21
-url: /praying-through-psalms/2020-01-21-praying-through-psalms/
+url: /praying-through-psalmss/2020-01-21-praying-through-psalmss/
 categories:
   - Prayers
 tags:

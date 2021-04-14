@@ -3,7 +3,7 @@ title: 'Praying Through: Psalm 23:5b The Gift of Your Spirit'
 author: Joseph Louthan
 type: post
 date: 2018-08-14T12:00:16+00:00
-url: /prayer/praying-through-psalm-235b-the-gift-of-your-spirit/
+url: /prayer/praying-through-psalms-235b-the-gift-of-your-spirit/
 categories:
   - Prayers
 tags:

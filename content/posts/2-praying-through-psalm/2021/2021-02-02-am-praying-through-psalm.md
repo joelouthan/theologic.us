@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 37:16-40'
 author: Joseph Louthan
 publishDate: 2021-02-02T06:00:00-06:00
-url: /prayers/2021-02-02-am-praying-through-psalm/
+url: /prayers/2021-02-02-am-praying-through-psalms/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 31:9-10'
 author: Joseph Louthan
 publishDate: 2020-06-23
-url: /praying-through-psalms/2020-06-23-praying-through-psalms/
+url: /praying-through-psalmss/2020-06-23-praying-through-psalmss/
 categories:
   - Prayers
 tags:

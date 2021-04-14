@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 1'
 author: Joseph Louthan
 date: 2012-10-02T14:00:12+00:00
-url: /prayers/praying-through-psalm-1/
+url: /prayers/praying-through-psalms-1/
 categories:
   - Prayers
 tags:

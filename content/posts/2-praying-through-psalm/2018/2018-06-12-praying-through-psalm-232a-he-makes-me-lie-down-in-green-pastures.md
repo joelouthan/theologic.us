@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 23:2a He makes me lie down in green pastures'
 author: Joseph Louthan
 date: 2018-06-12T12:00:25+00:00
-url: /prayer/praying-through-psalm-232a-he-makes-me-lie-down-in-green-pastures/
+url: /prayer/praying-through-psalms-232a-he-makes-me-lie-down-in-green-pastures/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 12'
 author: Joseph Louthan
 date: 2013-01-29T06:00:00-06:00
-url: /prayers/praying-through-psalm-12/
+url: /prayers/praying-through-psalms-12/
 categories:
   - Prayers
 tags:

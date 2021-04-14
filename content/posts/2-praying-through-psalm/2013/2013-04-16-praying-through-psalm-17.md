@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 17'
 author: Joseph Louthan
 date: 2013-04-16T06:00:00-06:00
-url: /prayers/praying-through-psalm-17/
+url: /prayers/praying-through-psalms-17/
 categories:
   - Prayers
 tags:

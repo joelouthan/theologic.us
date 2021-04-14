@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 21'
 author: Joseph Louthan
 date: 2016-03-09T14:00:52+00:00
-url: /prayer/praying-through-psalm-21/
+url: /prayer/praying-through-psalms-21/
 categories:
   - Prayers
 tags:

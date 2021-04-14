@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 28'
 author: Joseph Louthan
 publishDate: 2020-04-14
-url: /praying-through-psalms/2020-04-14-praying-through-psalms/
+url: /praying-through-psalmss/2020-04-14-praying-through-psalmss/
 categories:
   - Prayers
 tags:

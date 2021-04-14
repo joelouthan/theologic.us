@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 27:7-10'
 author: Joseph Louthan
 publishDate: 2020-01-07
-url: /praying-through-psalms/2020-01-07-praying-through-psalms/
+url: /praying-through-psalmss/2020-01-07-praying-through-psalmss/
 categories:
   - Prayers
 tags:

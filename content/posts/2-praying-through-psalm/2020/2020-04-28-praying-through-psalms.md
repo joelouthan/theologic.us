@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 30:1-3'
 author: Joseph Louthan
 publishDate: 2020-04-28
-url: /praying-through-psalms/2020-04-28-praying-through-psalms/
+url: /praying-through-psalmss/2020-04-28-praying-through-psalmss/
 categories:
   - Prayers
 tags:

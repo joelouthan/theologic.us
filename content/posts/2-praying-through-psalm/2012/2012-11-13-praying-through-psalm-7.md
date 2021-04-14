@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 7'
 author: Joseph Louthan
 date: 2012-11-13T06:00:00-06:00
-url: /prayers/praying-through-psalm-7/
+url: /prayers/praying-through-psalms-7/
 categories:
   - Prayers
 tags:

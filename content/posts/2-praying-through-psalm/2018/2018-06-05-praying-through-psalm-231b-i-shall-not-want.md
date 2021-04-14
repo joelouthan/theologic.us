@@ -3,7 +3,7 @@ title: 'Praying Through: Psalm 23:1b I Shall Not Want'
 author: Joseph Louthan
 type: post
 date: 2018-06-05T12:00:11+00:00
-url: /prayer/praying-through-psalm-231b-i-shall-not-want/
+url: /prayer/praying-through-psalms-231b-i-shall-not-want/
 categories:
   - Prayers
 tags:

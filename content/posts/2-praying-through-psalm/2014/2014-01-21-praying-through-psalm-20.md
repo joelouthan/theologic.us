@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 20'
 author: Joseph Louthan
 date: 2014-01-21T06:00:00-06:00
-url: /prayers/praying-through-psalm-20/
+url: /prayers/praying-through-psalms-20/
 categories:
   - Prayers
 tags:

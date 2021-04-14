@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 23:2b He Leads Me Beside Still Waters'
 author: Joseph Louthan
 date: 2018-06-19T12:00:40+00:00
-url: /prayer/praying-through-psalm-232b-he-leads-me-beside-still-waters/
+url: /prayer/praying-through-psalms-232b-he-leads-me-beside-still-waters/
 categories:
   - Prayers
 tags:

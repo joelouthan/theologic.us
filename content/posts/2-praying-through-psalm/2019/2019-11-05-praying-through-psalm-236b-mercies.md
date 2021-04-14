@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 23:6b Mercies'
 author: Joseph Louthan
 publishDate: 2019-11-05
-url: /prayers/2019-11-05-praying-through-psalm-236b-mercies/
+url: /prayers/2019-11-05-praying-through-psalms-236b-mercies/
 categories:
   - Prayers
 tags:

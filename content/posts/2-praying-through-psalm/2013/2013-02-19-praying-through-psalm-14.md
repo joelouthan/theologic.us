@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 14'
 author: Joseph Louthan
 date: 2013-02-19T06:00:00-06:00
-url: /prayers/praying-through-psalm-14/
+url: /prayers/praying-through-psalms-14/
 categories:
   - Prayers
 tags:

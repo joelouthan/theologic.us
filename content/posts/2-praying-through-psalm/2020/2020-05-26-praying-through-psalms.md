@@ -2,7 +2,7 @@
 title: 'Now Sings My Soul" Psalm 30:11-12'
 author: Joseph Louthan
 publishDate: 2020-05-26
-url: /praying-through-psalms/2020-05-26-praying-through-psalms/
+url: /praying-through-psalmss/2020-05-26-praying-through-psalmss/
 categories:
   - Prayers
 tags:
