@@ -30,10 +30,10 @@ Mark testifies about Christ Jesus
 
 Each of the Gospels tells a different perspective about Jesus:
 
-- Matthew - Jesus is King (Lion of Judah)
-- Mark - Jesus is Servant (The Ox)
-- Luke - Jesus is Man (The Human)
-- John - Jesus is God (The Eagle)
+- **Matthew** - Jesus is King (Lion of Judah)
+- **Mark** - Jesus is Servant (The Ox)
+- **Luke** - Jesus is Man (The Human)
+- **John** - Jesus is God (The Eagle)
 
 In Mark, we are going to talk about all that Jesus did (like a Servant, like a hard working ox) for us, in us, and through us for the glory of God.
 

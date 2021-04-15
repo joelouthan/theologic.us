@@ -16,7 +16,7 @@ draft: false
 
 &nbsp;
 
-_1. John said that, &#8220;Jesus had compassion on them, because they were like sheep without a shepherd&#8221;. Why was it so important for Jesus to have compassion? What is compassion?_
+_1. John said that, "Jesus had compassion on them, because they were like sheep without a shepherd". Why was it so important for Jesus to have compassion? What is compassion?_
 
 _ _
 

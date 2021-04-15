@@ -30,7 +30,7 @@ Did God rest?_
 
 _Did God stop working?_
 
-God did stop creating creation (Genesis 2:3  &#8220;&#8230; **God rested from all his work that he had done in creation**&#8220;) but he keeps on going by new plants, new trees, new baby animals and new babies ( &#8220;&#8230; **you knitted me together in my mother's womb.**&#8221; Psalm 139:13]
+God did stop creating creation (Genesis 2:3  "&#8230; **God rested from all his work that he had done in creation**") but he keeps on going by new plants, new trees, new baby animals and new babies ( "&#8230; **you knitted me together in my mother's womb.**" Psalm 139:13]
 
 _Why do you think your Mom and I want you to get good rest?_
 

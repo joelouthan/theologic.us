@@ -52,7 +52,7 @@ draft: false
   </div>
   
   <div>
-    5. <i>Where else have you heard God say, &#8220;I Am&#8221;?</i>
+    5. <i>Where else have you heard God say, "I Am"?</i>
   </div>
   
   <div>

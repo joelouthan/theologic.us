@@ -22,7 +22,7 @@ _But who is God over our troubles?_
 
 _Name some of the ways not to be afraid._
 
-At the end, the guys said to one another, &#8220;Who is this, that even the wind and the sea obey him?&#8221;.  _Who is Jesus? Who do you think Jesus is?_
+At the end, the guys said to one another, "Who is this, that even the wind and the sea obey him?".  _Who is Jesus? Who do you think Jesus is?_
 
 &nbsp;
 

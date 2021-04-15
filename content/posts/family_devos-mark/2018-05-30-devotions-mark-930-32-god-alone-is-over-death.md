@@ -16,6 +16,6 @@ draft: false
 Mark 9:30-32 **They went on from there and passed through Galilee. And he did not want anyone to know, for he was teaching his disciples, saying to them, “The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, after three days he will rise.” But they did not understand the saying, and were afraid to ask him.**
 
   1. Did the disciples knew what Christ was actually talking about? Why or why not?
-  2. What did Christ mean by &#8220;delivered into the hands of men&#8221;?
+  2. What did Christ mean by "delivered into the hands of men"?
   3. Could Christ be randomly killed by anybody?
   4. What was the death of Christ going to do?

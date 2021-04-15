@@ -16,7 +16,7 @@ draft: false
 
 _1. Did Jesus want to heal the leper?_
 
-_2. If we are sick, or we have done something wrong, will Jesus ever say, &#8220;No, I will not&#8221; or will he say, &#8220;Yes, I will heal you. Yes I will forgive your sins.&#8221;?_
+_2. If we are sick, or we have done something wrong, will Jesus ever say, "No, I will not" or will he say, "Yes, I will heal you. Yes I will forgive your sins."?_
 
 _3. What was Jesus sent to Earth to do? Was it heal every single person or did he have a bigger plan? What do you think that bigger plan was?_
 

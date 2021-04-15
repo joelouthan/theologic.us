@@ -18,7 +18,7 @@ draft: false
 
 2. _Do you have to be a certain age to be used by God?_
 
-3. _What does &#8220;build the kingdom of God&#8221; actually means?_
+3. _What does "build the kingdom of God" actually means?_
 
 4. _How does God build his kingdom beyond building more churches?_
 

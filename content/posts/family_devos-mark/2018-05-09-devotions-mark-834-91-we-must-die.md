@@ -23,6 +23,6 @@ Romans 6:1–14 **What shall we say then? Are we to continue in sin that grace 
 
 **Let not sin therefore reign in your mortal body, to make you obey its passions. Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness. For sin will have no dominion over you, since you are not under law but under grace.**
 
-  1. What do you think Christ meant when he said, &#8220;we must lose our life&#8221; in order to follow him?
-  2. Often, the &#8220;whosoever is ashamed of me&#8221; is used as a hard and fast rule to never deny Christ in company. What if you do? Do you not think there is grace upon grace for your soul?
+  1. What do you think Christ meant when he said, "we must lose our life" in order to follow him?
+  2. Often, the "whosoever is ashamed of me" is used as a hard and fast rule to never deny Christ in company. What if you do? Do you not think there is grace upon grace for your soul?
   3. Who alone can preserve our lives?

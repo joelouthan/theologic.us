@@ -20,7 +20,7 @@ _&#8230; but fail and fail again because Christ is life._
 
 &nbsp;
 
-_People wanted to make him king because he makes food &#8220;magically&#8221;_
+_People wanted to make him king because he makes food "magically"_
 
 **     Jesus withdrew with his disciples to the sea, and a great crowd followed, from Galilee and Judea and Jerusalem and Idumea and from beyond the Jordan and from around Tyre and Sidon. When the great crowd heard all that he was doing, they came to him. **
 
@@ -52,7 +52,7 @@ _Jesus reveals the 12 dudes that will walk with him, when others won't:_
 
 &nbsp;
 
-_His family said, &#8220;Jesus is out of his mind&#8221;_
+_His family said, "Jesus is out of his mind"_
 
 **     Then he went home, and the crowd gathered again, so that they could not even eat. And when his family heard it, they went out to seize him, for they were saying, “He is out of his mind.”**
 
@@ -60,7 +60,7 @@ _&#8230; but the mind of Father, Son, and Spirit are one._
 
 &nbsp;
 
-_Religious leaders said, &#8220;He is filled with demons&#8221;_
+_Religious leaders said, "He is filled with demons"_
 
 **     And the scribes who came down from Jerusalem were saying, “He is possessed by Beelzebul,” and “by the prince of demons he casts out the demons.” **(Mark 3:6-22 ESV)
 

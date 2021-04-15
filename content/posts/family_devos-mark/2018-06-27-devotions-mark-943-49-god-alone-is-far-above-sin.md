@@ -20,7 +20,7 @@ draft: false
 <div>
 </div>
 
-  1. Do you think Jesus is really saying &#8220;cut off your hand&#8221; or &#8220;poke out your eye&#8221;?
+  1. Do you think Jesus is really saying "cut off your hand" or "poke out your eye"?
   2. Can we get to God when we have sin?
   3. What is sin?
   4. Who takes care of all of our sin? (1 John 1:7)

@@ -18,7 +18,7 @@ Mark 4:26-29 **And he said, “The kingdom of God is as if a man should scatter 
 
 Only to trust and obey God.
 
-Here is a tough question: &#8220;Kids, do you obey us because you love us or because you are afraid of getting into trouble?&#8221;
+Here is a tough question: "Kids, do you obey us because you love us or because you are afraid of getting into trouble?"
 
 ** For the Lord disciplines the one he loves,
   
@@ -28,7 +28,7 @@ It is for discipline that you have to endure. God is treating you as sons. For w
   
 (Hebrews 12:6-8 ESV)
 
-We do not want you to obey God out of &#8220;something we must do&#8221; or &#8220;if we don't obey God, he will punish us&#8221; but rather, out of a love for God.
+We do not want you to obey God out of "something we must do" or "if we don't obey God, he will punish us" but rather, out of a love for God.
 
 _Retell the story of David's life and then list out his desires in Psalm 119_
 

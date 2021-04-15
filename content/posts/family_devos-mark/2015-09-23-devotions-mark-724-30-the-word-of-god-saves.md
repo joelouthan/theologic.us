@@ -19,7 +19,7 @@ draft: false
 
 2. How did this non-Jewish woman treated Jesus?
 
-3. Who are the children that Jesus speaks of? Who are the &#8220;little&#8221; dogs?
+3. Who are the children that Jesus speaks of? Who are the "little" dogs?
 
 4. Can we be saved by the family we are born into or the church that we attend?
 

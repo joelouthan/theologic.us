@@ -30,7 +30,7 @@ _Does God love his kids?_
 
 _Does God love you?_
 
-**Parents**: After talking about the person and work of the Holy Spirit, now the opportunity presents itself to talk about &#8220;_What does that mean to me?_&#8220;, &#8220;_What does it mean to have the Holy Spirit within my heart?_&#8221; or &#8220;_What does it look like to be led by the Spirit of God?_&#8220;. If further discussion is needed, a great starting off point is Galatians 5:22-23 &#8220;The Fruit of the Spirit&#8221;.
+**Parents**: After talking about the person and work of the Holy Spirit, now the opportunity presents itself to talk about "_What does that mean to me?_", "_What does it mean to have the Holy Spirit within my heart?_" or "_What does it look like to be led by the Spirit of God?_". If further discussion is needed, a great starting off point is Galatians 5:22-23 "The Fruit of the Spirit".
 
 
 

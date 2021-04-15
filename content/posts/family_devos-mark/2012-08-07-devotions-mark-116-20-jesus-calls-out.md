@@ -26,7 +26,7 @@ God pursued you.
 
 And God called you.
 
-Just like the disciples here, Jesus Christ called them one by one, telling them to all, &#8220;Follow me.&#8221; Likewise, when we heard about God for the first time and when we heard about what Jesus did for those who trust and believe in Him, His Holy Spirit was calling out to each other hearts, saying, &#8220;Follow me.&#8221;.
+Just like the disciples here, Jesus Christ called them one by one, telling them to all, "Follow me." Likewise, when we heard about God for the first time and when we heard about what Jesus did for those who trust and believe in Him, His Holy Spirit was calling out to each other hearts, saying, "Follow me.".
 
 _When do you remember the first time you felt God calling you?_
 

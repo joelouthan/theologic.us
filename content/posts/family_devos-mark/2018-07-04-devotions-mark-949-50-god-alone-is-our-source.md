@@ -14,11 +14,11 @@ css: "family-devos"
 draft: false
 ---
 <p class="p1">
-  <span class="s1">Mark 9:49-50 For everyone will be salted with fire.  Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another.&#8221;</span>
+  <span class="s1">Mark 9:49-50 For everyone will be salted with fire.  Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another."</span>
 </p>
 
   1. Who created us?
   2. What is our source of life?
-  3. What does life look like when you are plugged into yourself versus being &#8220;plugged&#8221; into God? In other words, what are your thoughts like when you just think about yourself or focus on yourself or trying to figure out by yourself?
+  3. What does life look like when you are plugged into yourself versus being "plugged" into God? In other words, what are your thoughts like when you just think about yourself or focus on yourself or trying to figure out by yourself?
   4. What is our source of peace?
   5. What do you think happens when we all focus on God and get life from him rather than focus on ourselves and get life from us? (Read Genesis 3]

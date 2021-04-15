@@ -18,7 +18,7 @@ draft: false
 
 2. _What were the disciples suppose to tell the villagers?_
 
-3. _What do you think Jesus meant when he said, &#8220;**And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them.**&#8220;?_
+3. _What do you think Jesus meant when he said, "**And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them.**"?_
 
 4. _Why do you think Jesus told them not to bring anything but a staff, clothes on their backs, and sandals?_
 
