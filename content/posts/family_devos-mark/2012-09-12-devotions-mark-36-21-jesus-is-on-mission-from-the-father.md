@@ -40,11 +40,11 @@ _Demons wanted to try to mess up the mission of God_
 
 **     And whenever the unclean spirits saw him, they fell down before him and cried out, “You are the Son of God.” And he strictly ordered them not to make him known.**
 
-_&#8230; but demons cannot mess up God&#8217;s plan because Jesus completely rules over demons._
+_&#8230; but demons cannot mess up God's plan because Jesus completely rules over demons._
 
 &nbsp;
 
-_Jesus reveals the 12 dudes that will walk with him, when others won&#8217;t:_
+_Jesus reveals the 12 dudes that will walk with him, when others won't:_
 
 **     And he went up on the mountain and called to him those whom he desired, and they came to him. And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach and have authority to cast out demons. He appointed the twelve: Simon (to whom he gave the name Peter); James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder); Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot, and Judas Iscariot, who betrayed him.**
 

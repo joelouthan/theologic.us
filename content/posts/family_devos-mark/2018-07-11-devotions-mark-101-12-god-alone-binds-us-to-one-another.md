@@ -18,7 +18,7 @@ draft: false
 </p>
 
 <p class="p1">
-  <span class="s1">The world says Jesus didn&#8217;t talk about things like hell or marriage. Yet, we can see here that Jesus does talk about marriage. </span>
+  <span class="s1">The world says Jesus didn't talk about things like hell or marriage. Yet, we can see here that Jesus does talk about marriage. </span>
 </p>
 
 <p class="p1">

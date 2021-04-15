@@ -18,12 +18,12 @@ draft: false
   
 but their heart is far from me;**
 
-  1. Are there times when you don&#8217;t wanna talk with God?
-  2. Who can you talk to when you feel like you don&#8217;t love God or don&#8217;t want to talk to God?
+  1. Are there times when you don't wanna talk with God?
+  2. Who can you talk to when you feel like you don't love God or don't want to talk to God?
   3. Are you going to get in trouble for not wanting to talk to God?
   4. Does God want to talk to you all the time?
   5. Does God loves you all the time?
-  6. If you don&#8217;t love God, does God love you?
+  6. If you don't love God, does God love you?
   7. Do you ever stop loving your Mom? What about your brothers and sisters?
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2014/01/pharisees2.jpg

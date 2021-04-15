@@ -12,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon&#8217;s mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**
+**Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**
 
 **That evening at sundown they brought to him all who were sick or oppressed by demons. And the whole city was gathered together at the door. And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.**
 
@@ -40,7 +40,7 @@ If God heals you in this house, that is of God.
 
 _If you are healed when you take medicine, where did the medicine come from?_
 
-If you are healed when you go see the doctor, nurse or even go to the hospital, where did all doctor and nurses&#8217; smarts come from? Where did money to build the hospital come from?
+If you are healed when you go see the doctor, nurse or even go to the hospital, where did all doctor and nurses' smarts come from? Where did money to build the hospital come from?
 
 God heals.
 

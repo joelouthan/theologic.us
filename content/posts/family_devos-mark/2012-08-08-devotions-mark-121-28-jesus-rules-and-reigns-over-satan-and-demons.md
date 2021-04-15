@@ -14,7 +14,7 @@ draft: false
 ---
 **Mark 1:21-28 And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes.** 
 
-Be confident in God&#8217;s Word. If the Bible says it, it is as good as gold. It is as good as done. (See 2 Timothy 3:16-17)
+Be confident in God's Word. If the Bible says it, it is as good as gold. It is as good as done. (See 2 Timothy 3:16-17)
 
 **And immediately there was in their synagogue a man with an unclean spirit. And he cried out, “What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God.”** 
 

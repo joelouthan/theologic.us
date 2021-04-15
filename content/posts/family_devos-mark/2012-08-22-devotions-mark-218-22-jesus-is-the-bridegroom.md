@@ -12,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**Mark 2:18-22 ESV Now John&#8217;s disciples and the Pharisees were fasting. And people came and said to him, “Why do John&#8217;s disciples and the disciples of the Pharisees fast, but your disciples do not fast?” And Jesus said to them, “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. The days will come when the bridegroom is taken away from them, and then they will fast in that day. No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. And no one puts new wine into old wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”**
+**Mark 2:18-22 ESV Now John's disciples and the Pharisees were fasting. And people came and said to him, “Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?” And Jesus said to them, “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. The days will come when the bridegroom is taken away from them, and then they will fast in that day. No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. And no one puts new wine into old wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”**
 
 _1. Is Jesus with us physically like you are with me or your mom is with me at this dinner table?_
 
@@ -24,7 +24,7 @@ _2. Is Jesus coming back?_
 
 _3. Does your mom misses me when I am away? Do I miss your mom when I am not with her?_
 
-The more I love your mom, the more I miss her when I am not with her. Think: if we choose to love God and God grows in us, don&#8217;t you think we will want to see him more and more?
+The more I love your mom, the more I miss her when I am not with her. Think: if we choose to love God and God grows in us, don't you think we will want to see him more and more?
 
 _What if Jesus came back to get us before you got out of school? Before you got married? Before you had kids of your own? What if he came back before I could ever preach? What if Jesus came back before we got to anything we wanted to do?_
 

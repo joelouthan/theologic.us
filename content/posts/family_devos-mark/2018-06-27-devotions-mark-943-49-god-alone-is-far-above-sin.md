@@ -25,5 +25,5 @@ draft: false
   3. What is sin?
   4. Who takes care of all of our sin? (1 John 1:7)
   5. Can we keep on sinning when God has taken care of it all? (Romans 5:20-6:6)
-  6. What does it mean to be &#8216;holy&#8217;?
+  6. What does it mean to be &#8216;holy'?
   7. Can we be holy?

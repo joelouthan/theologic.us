@@ -14,7 +14,7 @@ draft: false
 ---
 <div>
   <div>
-    <a href="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg"><img class="alignright size-thumbnail wp-image-2185" alt="jesus_christ" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?resize=225%2C300" width="225" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?resize=225%2C300 225w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?resize=301%2C400 301w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?w=414 414w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" /></a>1. <i>We know that Jesus is God and Lord. But what does it mean to be the &#8216;Lord&#8217; over something?</i>
+    <a href="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg"><img class="alignright size-thumbnail wp-image-2185" alt="jesus_christ" src="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?resize=225%2C300" width="225" height="300" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?resize=225%2C300 225w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?resize=301%2C400 301w, https://i0.wp.com/theologic.us/wp-content/uploads/2013/08/jesus_christ.jpg?w=414 414w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" /></a>1. <i>We know that Jesus is God and Lord. But what does it mean to be the &#8216;Lord' over something?</i>
   </div>
   
   <div>

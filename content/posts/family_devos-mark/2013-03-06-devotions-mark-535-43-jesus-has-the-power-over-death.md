@@ -12,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-Mark 5:35-43 **While he was still speaking, there came from the ruler&#8217;s house some who said, “Your daughter is dead. Why trouble the Teacher any further?” But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” And he allowed no one to follow him except Peter and James and John the brother of James. They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.” And they laughed at him. But he put them all outside and took the child&#8217;s father and mother and those who were with him and went in where the child was. Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.” And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. And he strictly charged them that no one should know this, and told them to give her something to eat.**
+Mark 5:35-43 **While he was still speaking, there came from the ruler's house some who said, “Your daughter is dead. Why trouble the Teacher any further?” But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” And he allowed no one to follow him except Peter and James and John the brother of James. They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.” And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was. Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.” And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. And he strictly charged them that no one should know this, and told them to give her something to eat.**
   
 ** **
 
@@ -20,7 +20,7 @@ Mark 5:35-43 **While he was still speaking, there came from the ruler&#8217;s h
 
 A. What is life? Flesh and a heartbeat?
   
-**For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit. For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace. For the mind that is set on the flesh is hostile to God, for it does not submit to God&#8217;s law; indeed, it cannot. Those who are in the flesh cannot please God.** [][2]{#return-note-1906-1.simple-footnote}
+**For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit. For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace. For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot. Those who are in the flesh cannot please God.** [][2]{#return-note-1906-1.simple-footnote}
 
 Without the Spirit of God, we were dead. When we did not know God, we were dead. We were surely going to die:
   

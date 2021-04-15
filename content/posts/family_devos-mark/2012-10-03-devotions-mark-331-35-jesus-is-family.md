@@ -24,7 +24,7 @@ _When Christ was teaching the crowds, did His mom and family believe He is God, 
 
 &nbsp;
 
-_Did Mary and Jesus&#8217; family believed in Him as God later?_
+_Did Mary and Jesus' family believed in Him as God later?_
 
 &nbsp;
 

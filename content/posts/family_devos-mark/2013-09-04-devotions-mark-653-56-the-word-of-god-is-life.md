@@ -12,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-1. _When we hardened our hearts against God&#8217;s love (we refuse to hear what God has to say, we refuse to believe what God has done), does God still love us?_
+1. _When we hardened our hearts against God's love (we refuse to hear what God has to say, we refuse to believe what God has done), does God still love us?_
 
 2. _When we hardened our hearts against God (mad at him, accuse him of being bad), does God still shows us his love?_
 

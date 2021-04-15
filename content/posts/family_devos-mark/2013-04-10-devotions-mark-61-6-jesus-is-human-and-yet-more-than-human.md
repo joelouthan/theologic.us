@@ -24,7 +24,7 @@ Mark 1:21-28 **And they went into Capernaum, and immediately on the Sabbath he e
 
 2. _Is Jesus God? Better yet, is Jesus fully God?_
 
-3. _Did these people love Jesus&#8217; teaching or did they reject His teaching?_
+3. _Did these people love Jesus' teaching or did they reject His teaching?_
 
 4. _When you tell others about God, who gives what you should say?_
 

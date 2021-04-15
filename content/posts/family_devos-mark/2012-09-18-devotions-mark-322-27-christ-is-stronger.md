@@ -12,7 +12,7 @@ series:
 css: "family-devos"
 draft: false
 ---
-**Mark 3:22-27 And the scribes who came down from Jerusalem were saying, “He is possessed by Beelzebul,” and “by the prince of demons he casts out the demons.” And he called them to him and said to them in parables, “How can Satan cast out Satan? If a kingdom is divided against itself, that kingdom cannot stand. And if a house is divided against itself, that house will not be able to stand. And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. But no one can enter a strong man&#8217;s house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house.**
+**Mark 3:22-27 And the scribes who came down from Jerusalem were saying, “He is possessed by Beelzebul,” and “by the prince of demons he casts out the demons.” And he called them to him and said to them in parables, “How can Satan cast out Satan? If a kingdom is divided against itself, that kingdom cannot stand. And if a house is divided against itself, that house will not be able to stand. And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house.**
 
 _Is Satan a god?
   

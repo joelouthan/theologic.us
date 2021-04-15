@@ -26,7 +26,7 @@ _2. Why do we pray?_
   
 We get to talk to our Father in heaven. We get to spend time with him. We get to kick it.
 
-_3. When you don&#8217;t get to see your dad, do you miss him? When Jesus was here on earth, do you think he missed his Father?_
+_3. When you don't get to see your dad, do you miss him? When Jesus was here on earth, do you think he missed his Father?_
 
  **Then Jesus went with them to a place called Gethsemane, and he said to his disciples, “Sit here, while I go over there and pray.”**
   
@@ -130,7 +130,7 @@ _8. Do you think the Holy Spirit prays for us as well?_
   
  **(Romans 8:27 ESV)**
 
-Just like Jesus always wanted to spend time with His Dad, we get to spend time with our Dad in Heaven. We get to call out to him like you guys call out your daddy. God will always have time to spend with you. He is never busy. He will always listen. You can just start talking and he hears you perfectly fine. Even if you can&#8217;t speak, he can read your thoughts and see what&#8217;s on your heart. He will always answer prayers:
+Just like Jesus always wanted to spend time with His Dad, we get to spend time with our Dad in Heaven. We get to call out to him like you guys call out your daddy. God will always have time to spend with you. He is never busy. He will always listen. You can just start talking and he hears you perfectly fine. Even if you can't speak, he can read your thoughts and see what's on your heart. He will always answer prayers:
 
 **I call upon you, for you will answer me, O God;**
   

@@ -36,11 +36,11 @@ One
 
 _If there are three people and just one God, how can all three persons be one God?_
 
-**Parents: **On the surface, the doctrine of the Trinity is the most confusing because we really don&#8217;t have anything on earth like it. I believe it was Augustine who said:
+**Parents: **On the surface, the doctrine of the Trinity is the most confusing because we really don't have anything on earth like it. I believe it was Augustine who said:
 
 > Three persons in this room does not have one will.  Triune God does have one will.
 
-The best way I explained the Triune God to my kids is explaining how my wife and I try to have one will but we do so imperfectly. That is why my wife and I have to talk all the time especially when it comes to connecting, becoming one, parenting, and running the house. Mom and Dad have to do talk all the time and sometimes we are not perfect in having one will—even less so when it comes to do the Father&#8217;s will.
+The best way I explained the Triune God to my kids is explaining how my wife and I try to have one will but we do so imperfectly. That is why my wife and I have to talk all the time especially when it comes to connecting, becoming one, parenting, and running the house. Mom and Dad have to do talk all the time and sometimes we are not perfect in having one will—even less so when it comes to do the Father's will.
 
 However, the Father, Son, and Spirit communicate perfectly, know perfectly, love perfectly, and therefore have one perfect will. They never have to argue, fight, or disagree. They can certainly discuss anything (and Father and Son do) but they all want the same thing and want the same way to get to that same thing. (This is most evident by the cross of Christ.)
 

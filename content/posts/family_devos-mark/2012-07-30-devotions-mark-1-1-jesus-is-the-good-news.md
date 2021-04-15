@@ -40,10 +40,12 @@ In Mark, we are going to talk about all that Jesus did (like a Servant, like a h
 ## of the gospel
 
 `What is the gospel?`
-  
+
 This is the good news—that God has done everything to save His people to Himself forever. All we need to do is trust in Him, believe in Him and love Him and know that everything He does is for His glory and our joy. If God is not out for His glory, we are never free to have joy. But since He is for His glory and His name sake and not just for us, we have the fullness of the freedom to love, worship and trust in Him joyfully. The Bible is not a bunch of rules. The Bible is all about Jesus Christ. The Bible speaks on who exactly God is, what He has done and what He will do.
 
-The question is: `do you want in on the fun? Do you wanna come play and be in continuous awe, wonder, joy and love of His glory? Come on. Let&#8217;s go.`
+The real question is:
+
+`Do you want in on the fun? Do you wanna come play and be in continuous awe, wonder, joy and love of His glory? Come on. Let's go!`
 
 ## Jesus Christ
 
@@ -61,6 +63,10 @@ Yet, as Athanasius (early church father) so boldly declare:
 
 >>The Son of God became man so that men might become sons of God.
 
-`What does it mean to be a son of God? Are you an adopted son of God? Are you his precious child? Are you his little boy and his little girl?`
+`What does it mean to be a son of God?`
+
+`Are you an adopted son of God?`
+
+`Are you his kid?`
 
 If you believe and trust in Him, what He said, what His Son did, then yes, you are his little kid—forever.

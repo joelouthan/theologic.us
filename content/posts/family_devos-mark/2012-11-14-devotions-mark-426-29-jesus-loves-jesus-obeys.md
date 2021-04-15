@@ -28,9 +28,9 @@ It is for discipline that you have to endure. God is treating you as sons. For w
   
 (Hebrews 12:6-8 ESV)
 
-We do not want you to obey God out of &#8220;something we must do&#8221; or &#8220;if we don&#8217;t obey God, he will punish us&#8221; but rather, out of a love for God.
+We do not want you to obey God out of &#8220;something we must do&#8221; or &#8220;if we don't obey God, he will punish us&#8221; but rather, out of a love for God.
 
-_Retell the story of David&#8217;s life and then list out his desires in Psalm 119_
+_Retell the story of David's life and then list out his desires in Psalm 119_
 
 2. _The seed makes fruit without the farmer. Does it mean that the farmer can stop farming? God works to grow your heart for Him. Does it mean we can stop being Christians?_
 

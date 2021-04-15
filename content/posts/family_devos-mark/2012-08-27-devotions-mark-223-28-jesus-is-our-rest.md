@@ -30,7 +30,7 @@ Did God rest?_
 
 _Did God stop working?_
 
-God did stop creating creation (Genesis 2:3  &#8220;&#8230; **God rested from all his work that he had done in creation**&#8220;) but he keeps on going by new plants, new trees, new baby animals and new babies ( &#8220;&#8230; **you knitted me together in my mother&#8217;s womb.**&#8221; Psalm 139:13]
+God did stop creating creation (Genesis 2:3  &#8220;&#8230; **God rested from all his work that he had done in creation**&#8220;) but he keeps on going by new plants, new trees, new baby animals and new babies ( &#8220;&#8230; **you knitted me together in my mother's womb.**&#8221; Psalm 139:13]
 
 _Why do you think your Mom and I want you to get good rest?_
 
@@ -52,7 +52,7 @@ _Did Jesus make resting (having fun, relaxing, naps, sleep) for humans? _
 
 _Is Jesus in charge of resting and having fun?_
 
-Jesus gave us rest because He knew we needed rest and resting (naps, sleep, fun) are awesome.  More than being awesome, our body, mind, and spirit needs to chill out everyone once in a while. Not all the time—but some of the time. Jesus gave Himself to us so that we wouldn&#8217;t work so hard to be saved. Jesus did all of the hard work so that you can be saved to Him forever.
+Jesus gave us rest because He knew we needed rest and resting (naps, sleep, fun) are awesome.  More than being awesome, our body, mind, and spirit needs to chill out everyone once in a while. Not all the time—but some of the time. Jesus gave Himself to us so that we wouldn't work so hard to be saved. Jesus did all of the hard work so that you can be saved to Him forever.
 
 &nbsp;
 

@@ -18,7 +18,7 @@ Mark 8:14–21      **Now they had forgotten to bring bread, and they had 
   1. According to Jesus, what was the miracles of the Loaves and Fishes really about?
   2. With every Miracle, what is God doing?
 
- **In Christ Jesus, then, I have reason to be proud of my work for God. For I will not venture to speak of anything except what Christ has accomplished through me to bring the Gentiles to obedience—by word and deed, by the power of signs and wonders, by the power of the Spirit of God—so that from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of Christ; and thus I make it my ambition to preach the gospel, not where Christ has already been named, lest I build on someone else&#8217;s foundation, but as it is written,**
+ **In Christ Jesus, then, I have reason to be proud of my work for God. For I will not venture to speak of anything except what Christ has accomplished through me to bring the Gentiles to obedience—by word and deed, by the power of signs and wonders, by the power of the Spirit of God—so that from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of Christ; and thus I make it my ambition to preach the gospel, not where Christ has already been named, lest I build on someone else's foundation, but as it is written,**
 
 <p style="padding-left: 30px;">
   <strong>“Those who have never been told of him will see,</strong><br /> <strong> and those who have never heard will understand.”</strong>
