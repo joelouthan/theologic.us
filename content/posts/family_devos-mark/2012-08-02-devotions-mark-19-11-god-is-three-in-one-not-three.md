@@ -46,6 +46,6 @@ However, the Father, Son, and Spirit communicate perfectly, know perfectly, love
 
 _What would it mean to be perfectly love each and perfect agree with one another? To have three persons with one mind, one heart and one will?_
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/Trinity1s.jpg

@@ -44,7 +44,7 @@ Mark 4:13-20** And he said to them, “Do you not understand this parable? How 
 
 1 Corinthians 3:6-9** I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth. He who plants and he who waters are one, and each will receive his wages according to his labor. For we are God&#8217;s fellow workers. You are God&#8217;s field, God&#8217;s building.**
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/sower-icon.jpg
  [2]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/PaulApollos.jpg

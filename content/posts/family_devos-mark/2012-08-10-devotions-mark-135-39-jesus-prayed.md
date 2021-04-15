@@ -140,6 +140,6 @@ Just like Jesus always wanted to spend time with His Dad, we get to spend time w
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/christ-in-gesthemane-01.jpg

@@ -26,6 +26,6 @@ And I tell you, ask, and it will be given to you; seek, and you will find; knock
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: http://www.331fish.com/

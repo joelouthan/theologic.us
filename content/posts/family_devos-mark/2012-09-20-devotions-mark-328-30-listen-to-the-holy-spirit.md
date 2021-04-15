@@ -28,6 +28,6 @@ _Who is the Holy Spirit? What does He do for you? What would it mean to blasphem
 
 </em>
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/holySpiritStPeters.jpg

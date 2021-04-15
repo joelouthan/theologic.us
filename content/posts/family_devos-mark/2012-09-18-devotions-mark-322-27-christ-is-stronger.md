@@ -46,6 +46,6 @@ And you, who were dead in your trespasses and the uncircumcision of your flesh, 
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/satan1.jpg

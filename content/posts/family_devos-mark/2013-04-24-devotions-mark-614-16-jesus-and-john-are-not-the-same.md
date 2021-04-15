@@ -56,4 +56,3 @@ Romans 8:11 **If the Spirit of him who raised Jesus from the dead dwells in you
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.

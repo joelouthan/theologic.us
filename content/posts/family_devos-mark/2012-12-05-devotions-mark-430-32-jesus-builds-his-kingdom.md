@@ -28,6 +28,6 @@ Matthew 16:13-20 **Now when Jesus came into the district of Caesarea Philippi, h
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/12/MustardSeed.jpg

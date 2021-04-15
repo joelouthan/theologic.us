@@ -34,6 +34,6 @@ Romans 10:17 **So faith comes from hearing, and hearing through the word of Chri
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2013/09/icon_christ_woman_issue_blood_detail.jpg

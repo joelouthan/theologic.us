@@ -40,6 +40,6 @@ _Retell the story of David&#8217;s life and then list out his desires in Psalm 1
 
 &nbsp;
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/09/sower-icon.jpg

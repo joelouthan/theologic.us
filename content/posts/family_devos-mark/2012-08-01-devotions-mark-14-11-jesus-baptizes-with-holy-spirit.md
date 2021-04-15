@@ -22,6 +22,6 @@ _What does it mean if the Holy Spirit (Spirit of God) is in your heart and with 
 
 **Note:** I originally posted this as Mark 1:4-11 and suddenly remembered that passage better serves as two distinct conversation: _Who is the Holy Spirit_ (this post) and _What is the Trinity?_ (next post). For posterity sake, I have taken the liberty of updating the old post, splitting into two, re-titling both and posting up. Sorry for the confusion. Enjoy. &#8211;_Ed._
 
-**Series**: I have made mentioned of our Devotions on the Internets and gotten a few requests for my notes. So that is what I am doing just that here. Every Wednesday as a regular weekly series, I will share my notes that I write in preparing for Devotions.
+
 
  [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/08/fire.jpeg
