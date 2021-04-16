@@ -1,6 +1,6 @@
 ---
 title: Mark 9:43-49 God Alone Is Far Above Sin
-author: Joe Louthan
+author: Joseph Louthan
 date: 2018-06-27T12:00:18+00:00
 url: /family_devotions/mark-943-49-god-alone-is-far-above-sin/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/m15-086.jpg?resize=825%2C510

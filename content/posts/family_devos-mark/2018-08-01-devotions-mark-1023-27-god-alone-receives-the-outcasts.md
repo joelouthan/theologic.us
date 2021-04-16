@@ -1,6 +1,6 @@
 ---
 title: Mark 10:23-27 God Alone Receives the Outcasts
-author: Joe Louthan
+author: Joseph Louthan
 date: 2018-08-01T12:00:35+00:00
 url: /family_devotions/mark-1023-27-god-alone-receives-the-outcasts/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/480935671_wide-d0b01276883f4f94724d288508690ef632158972-s800-c85.jpg?resize=800%2C449

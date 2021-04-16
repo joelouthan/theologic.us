@@ -49,7 +49,7 @@ The real question is:
 
 ## Jesus Christ
 
-What we will see in Mark is basically little bitty tightly wounded passages that speak of all that God has done. Now, if you have read any part of the Old Testament, these little passages in Mark are merely the OT in bite size chicken nuggets, except they are much more tasty and actually good for you. In other words, you are going to see these little passages of &#8220;Jesus did this&#8221; and &#8220;Jesus did that&#8221; solidifying what God did in the OT.
+What we will see in Mark is basically little bitty tightly wounded passages that speak of all that God has done. Now, if you have read any part of the Old Testament, these little passages in Mark are merely the OT in bite size chicken nuggets, except they are much more tasty and actually good for you. In other words, you are going to see these little passages of "Jesus did this" and "Jesus did that" solidifying what God did in the OT.
 
 `Who is Jesus Christ?`
 

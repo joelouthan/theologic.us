@@ -1,6 +1,6 @@
 ---
 title: Mark 6:17-29 Jesus’ Cousin Dies
-author: Joe Louthan
+author: Joseph Louthan
 date: 2013-05-01
 url: /family_devotions/mark-617-29-jesus-cousin-dies/
 categories:

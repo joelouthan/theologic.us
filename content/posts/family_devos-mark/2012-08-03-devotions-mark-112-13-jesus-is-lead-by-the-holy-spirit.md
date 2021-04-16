@@ -1,6 +1,6 @@
 ---
 title: Mark 1:12-13 Jesus is Led by the Holy Spirit
-author: Joe Louthan
+author: Joseph Louthan
 date: 2012-08-03
 url: /family_devotions/mark-112-13-jesus-is-lead-by-the-holy-spirit/
 categories:

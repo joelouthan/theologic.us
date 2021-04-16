@@ -1,6 +1,6 @@
 ---
 title: Mark 1:21-28 Jesus Rules and Reigns Over Satan and Demons
-author: Joe Louthan
+author: Joseph Louthan
 date: 2012-08-08
 url: /family_devotions/mark-121-28-jesus-rules-and-reigns-over-satan-and-demons/
 categories:

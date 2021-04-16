@@ -1,6 +1,6 @@
 ---
 title: Mark 1:2-3 Jesus Will Be Here Soon
-author: Joe Louthan
+author: Joseph Louthan
 date: 2012-07-31
 url: /family_devotions/mark-12-3-jesus-will-be-here-soon/
 categories:

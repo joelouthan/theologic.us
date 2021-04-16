@@ -1,6 +1,6 @@
 ---
 title: Mark 8:27–30 Jesus Opens the Only Way to God Because He is the Only Way to God
-author: Joe Louthan
+author: Joseph Louthan
 date: 2018-04-25T12:00:14+00:00
 url: /family_devotions/mark-827-30-jesus-opens-the-only-way-to-god-because-he-is-the-only-way/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/04/Peters-Confession-at-Caesarea-Philippi.jpg?resize=825%2C510

@@ -1,6 +1,6 @@
 ---
 title: Mark 3:6-21 Jesus is on Mission from the Father
-author: Joe Louthan
+author: Joseph Louthan
 date: 2012-09-12
 url: /family_devotions/mark-36-21-jesus-is-on-mission-from-the-father/
 categories:

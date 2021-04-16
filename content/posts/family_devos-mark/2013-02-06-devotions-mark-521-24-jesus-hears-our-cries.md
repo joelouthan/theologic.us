@@ -1,6 +1,6 @@
 ---
 title: Mark 5:21-24 Jesus Hears Our Cries
-author: Joe Louthan
+author: Joseph Louthan
 date: 2013-02-06
 url: /family_devotions/mark-521-24-jesus-hears-our-cries/
 categories:

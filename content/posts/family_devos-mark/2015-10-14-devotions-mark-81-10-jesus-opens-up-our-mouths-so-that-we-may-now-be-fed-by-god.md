@@ -1,6 +1,6 @@
 ---
 title: Mark 8:1-10 Jesus Opens Up Our Mouths So That We May Now Be Fed by God
-author: Joe Louthan
+author: Joseph Louthan
 date: 2015-10-14T12:00:51+00:00
 url: /family_devotions/mark-81-10-jesus-opens-up-our-mouths-so-that-we-may-now-be-fed-by-god/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/10/272453-fish-and-chips.jpg?resize=825%2C510
