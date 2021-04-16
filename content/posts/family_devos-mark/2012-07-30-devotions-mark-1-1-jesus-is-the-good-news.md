@@ -1,5 +1,5 @@
 ---
-title: Mark 1:1 Jesus is the Good News
+title: ✅Mark 1:1 Jesus is the Good News
 author: Joseph Louthan
 date: 2012-07-30
 url: /family_devotions/mark-1-1-jesus-is-the-good-news/

@@ -10,6 +10,7 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
+showtoc: false
 draft: false
 ---
 >Matthew 1:18-21 (CSB) The birth of Jesus Christ came about this way: After his mother Mary had been engaged to Joseph, it was discovered before they came together that she was pregnant from the Holy Spirit. So her husband, Joseph, being a righteous man, and not wanting to disgrace her publicly, decided to divorce her secretly.

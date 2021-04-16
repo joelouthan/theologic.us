@@ -1,5 +1,5 @@
 ---
-title: 'Family Devotions: Mark, A Few Resources'
+title: '✅Family Devotions: Mark, A Few Resources'
 author: Joseph Louthan
 date: 2012-07-25T06:00:00-06:00
 url: /family_devotions/mark-a-few-resources/
