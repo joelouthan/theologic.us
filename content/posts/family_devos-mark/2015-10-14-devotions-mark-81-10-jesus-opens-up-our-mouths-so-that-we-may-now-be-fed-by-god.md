@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 8:1–10 In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them, “I have compassion on the crowd, because they have been with me now three days and have nothing to eat. And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away.” And his disciples answered him, “How can one feed these people with bread here in this desolate place?” And he asked them, “How many loaves do you have?” They said, “Seven.” And he directed the crowd to sit down on the ground. And he took the seven** loaves, **and having given thanks, he broke them and gave them to his disciples to set before the** people; and **they set them before the crowd. And they had a few small fish. And having blessed them, he said that these also should be set before them. And they ate and were satisfied. And they took up the broken pieces left over, seven baskets full. And there were about four thousand people. And he sent them away. And immediately he got into the boat with his disciples and went to the district of Dalmanutha.**
 

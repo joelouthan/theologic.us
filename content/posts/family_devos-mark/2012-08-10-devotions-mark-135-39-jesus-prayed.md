@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 1:35-39 And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. And Simon and those who were with him searched for him, and they found him and said to him, “Everyone is looking for you.” And he said to them, “Let us go on to the next towns, that I may preach there also, for that is why I came out.” And he went throughout all Galilee, preaching in their synagogues and casting out demons.**
 

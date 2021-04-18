@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 12:38–40 And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces and have the best seats in the synagogues and the places of honor at feasts, who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”**
 

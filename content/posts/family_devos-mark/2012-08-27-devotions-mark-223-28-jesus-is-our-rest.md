@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **     Mark 2:23-28 One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain. And the Pharisees were saying to him, “Look, why are they doing what is not lawful on the Sabbath?” And he said to them, “Have you never read what David did, when he was in need and was hungry, he and those who were with him: how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?” And he said to them, “The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath.”**
 

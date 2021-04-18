@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 <p class="p1">
   <span class="s1">Mark 9:49-50 For everyone will be salted with fire.  Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another."</span>

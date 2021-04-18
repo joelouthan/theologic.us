@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 <div>
   Mark 9:43-48 <strong>And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire. And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell. And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, ‘where their worm does not die and the fire is not quenched.’ </strong>

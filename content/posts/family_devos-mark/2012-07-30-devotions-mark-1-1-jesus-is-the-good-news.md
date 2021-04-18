@@ -10,13 +10,17 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
+showtoc: true
 draft: false
 ---
+
+## The Text
+
 >Mark 1:1 The beginning of the gospel of Jesus Christ, the Son of God.
 
 `Lets go through this grand introduction, idea by idea.`
 
-## The beginning
+### The beginning
 
 `Who wrote Mark?`
 
@@ -37,7 +41,7 @@ Each of the Gospels tells a different perspective about Jesus:
 
 In Mark, we are going to talk about all that Jesus did (like a Servant, like a hard working ox) for us, in us, and through us for the glory of God.
 
-## of the gospel
+### of the gospel
 
 `What is the gospel?`
 
@@ -47,13 +51,13 @@ The real question is:
 
 `Do you want in on the fun? Do you wanna come play and be in continuous awe, wonder, joy and love of His glory? Come on. Let's go!`
 
-## Jesus Christ
+### Jesus Christ
 
 What we will see in Mark is basically little bitty tightly wounded passages that speak of all that God has done. Now, if you have read any part of the Old Testament, these little passages in Mark are merely the OT in bite size chicken nuggets, except they are much more tasty and actually good for you. In other words, you are going to see these little passages of "Jesus did this" and "Jesus did that" solidifying what God did in the OT.
 
 `Who is Jesus Christ?`
 
-## Son of God
+### Son of God
 
 Ah what an audacious claim. In America, some of us were not blessed with good dads that love Jesus. Some of us got dads that were not so perfect and sometimes, there is a struggle not to compare God as Father in light of our earthly dads when in fact it should be the other way around. As we might struggle with that, the culture of the Middle East struggles with Jesus Christ as being the Son of God. That is highly offensive to them. How could Jesus Christ claim to be the Son of God. For Christ to be the Son of God is Christ declaring He is One with the Father.
 
@@ -63,10 +67,16 @@ Yet, as Athanasius (early church father) so boldly declare:
 
 >>The Son of God became man so that men might become sons of God.
 
-`What does it mean to be a son of God?`
+## The Discussion
 
-`Are you an adopted son of God?`
+```text
+1. What does it mean to be a son of God?
 
-`Are you his kid?`
+2. Are you an adopted son of God?
+
+3. Are you his kid?
+```
+
+## The Devotional
 
 If you believe and trust in Him, what He said, what His Son did, then yes, you are his little kid—forever.

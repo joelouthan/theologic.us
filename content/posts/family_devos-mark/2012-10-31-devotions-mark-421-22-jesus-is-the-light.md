@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 4:21-25** And he said to them, “Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? For nothing is hidden except to be made manifest; nor is anything secret except to come to light.**
 

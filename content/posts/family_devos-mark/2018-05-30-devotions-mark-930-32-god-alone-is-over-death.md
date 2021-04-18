@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 9:30-32 **They went on from there and passed through Galilee. And he did not want anyone to know, for he was teaching his disciples, saying to them, “The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, after three days he will rise.” But they did not understand the saying, and were afraid to ask him.**
 

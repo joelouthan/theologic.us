@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 12:18–27 And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying, “Teacher, Moses wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. There were seven brothers; the first took a wife, and when he died left no offspring. And the second took her, and died, leaving no offspring. And the third likewise. And the seven left no offspring. Last of all the woman also died. In the resurrection, when they rise again, whose wife will she be? For the seven had her as wife.”**

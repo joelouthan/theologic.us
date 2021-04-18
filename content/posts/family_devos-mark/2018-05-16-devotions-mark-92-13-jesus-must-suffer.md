@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 <p class="p1">
   <span class="s1">Mark 9:2-13 <strong>And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them, and his clothes became radiant, intensely white, as no one on earth could bleach them. And there appeared to them Elijah with Moses, and they were talking with Jesus. And Peter said to Jesus, “Rabbi, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah.” For he did not know what to say, for they were terrified. And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.” And suddenly, looking around, they no longer saw anyone with them but Jesus only. </strong></span>

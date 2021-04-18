@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 8:14–21      **Now they had forgotten to bring bread, and they had only one loaf with them in the boat. And he cautioned them, saying, “Watch out; beware of the leaven of the Pharisees and the leaven of Herod.” And they began discussing with one another the fact that they had no bread. And Jesus, aware of this, said to them, “Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened? Having eyes do you not see, and having ears do you not hear? And do you not remember? When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up?” They said to him, “Twelve.” “And the seven for the four thousand, how many baskets full of broken pieces did you take up?” And they said to him, “Seven.” And he said to them, “Do you not yet understand?”**
 

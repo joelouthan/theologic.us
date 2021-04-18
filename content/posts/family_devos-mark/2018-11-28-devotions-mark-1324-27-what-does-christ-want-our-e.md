@@ -10,6 +10,7 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 13:24–27 “But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light, and the stars will be falling from heaven, and the powers in the heavens will be shaken. And then they will see the Son of Man coming in clouds with great power and glory. And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.**

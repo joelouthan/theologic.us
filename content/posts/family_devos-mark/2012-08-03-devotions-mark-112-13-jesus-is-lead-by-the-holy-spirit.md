@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 1:12-13 The Spirit immediately drove him out into the wilderness. And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the angels were ministering to him.**
 

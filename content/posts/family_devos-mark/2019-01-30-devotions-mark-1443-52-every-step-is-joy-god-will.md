@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 14:43-52 And immediately, while he was still speaking, Judas came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders. Now the betrayer had given them a sign, saying, “The one I will kiss is the man. Seize him and lead him away under guard.” And when he came, he went up to him at once and said, “Rabbi!” And he kissed him. And they laid hands on him and seized him. But one of those who stood by drew his sword and struck the servant of the high priest and cut off his ear. And Jesus said to them, “Have you come out as against a robber, with swords and clubs to capture me? Day after day I was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled.” And they all left him and fled.**

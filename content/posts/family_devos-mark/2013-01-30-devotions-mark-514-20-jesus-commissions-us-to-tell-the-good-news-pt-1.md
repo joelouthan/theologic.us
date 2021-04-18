@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 5:14-20 The herdsmen fled and told it in the city and in the country. And people came to see what it was that had happened. And they came to Jesus and saw the demon-possessed man, the one who had had the legion, sitting there, clothed and in his right mind, and they were afraid. And those who had seen it described to them what had happened to the demon-possessed man and to the pigs. And they began to beg Jesus to depart from their region. As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him. And he did not permit him but said to him, “Go home to your friends and tell them how much the Lord has done for you, and how he has had mercy on you.” And he went away and began to proclaim in the Decapolis how much Jesus had done for him, and everyone marveled.**
 

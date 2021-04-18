@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 2:13-17 He went out again beside the sea, and all the crowd was coming to him, and he was teaching them. And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him. And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, “Why does he eat with tax collectors and sinners?” And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”**
 

@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 1:14-15 Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”
   

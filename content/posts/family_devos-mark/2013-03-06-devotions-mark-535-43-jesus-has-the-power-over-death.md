@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 5:35-43 **While he was still speaking, there came from the ruler's house some who said, “Your daughter is dead. Why trouble the Teacher any further?” But overhearing what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.” And he allowed no one to follow him except Peter and James and John the brother of James. They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.” And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was. Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.” And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. And he strictly charged them that no one should know this, and told them to give her something to eat.**
   

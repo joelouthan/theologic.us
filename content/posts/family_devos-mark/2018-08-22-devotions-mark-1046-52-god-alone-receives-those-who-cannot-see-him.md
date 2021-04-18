@@ -3,7 +3,6 @@ title: Mark 10:46-52 God Alone Receives Those Who Cannot See Him
 author: Joseph Louthan
 date: 2018-08-22T12:00:52+00:00
 url: /family_devotions/mark-1046-52-god-alone-receives-those-who-cannot-see-him/
-featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/08/night-vision-720x720.jpg?resize=720%2C480
 categories:
   - Devotions
 tags:
@@ -11,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 <p class="p1">
   <span class="s1">Mark 10:46-52 <strong>And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside. And when he heard that it was Jesus of Nazareth, he began to cry out and say, “Jesus, Son of David, have mercy on me!” And many rebuked him, telling him to be silent. But he cried out all the more, “Son of David, have mercy on me!” And Jesus stopped and said, “Call him.” And they called the blind man, saying to him, “Take heart. Get up; he is calling you.” And throwing off his cloak, he sprang up and came to Jesus. And Jesus said to him, “What do you want me to do for you?” And the blind man said to him, “Rabbi, let me recover my sight.” And Jesus said to him, “Go your way; your faith has made you well.” And immediately he recovered his sight and followed him on the way. </strong></span>

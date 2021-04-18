@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 11:27-33 And they came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came to him, and they said to him, “By what authority are you doing these things, or who gave you this authority to do them?” Jesus said to them, “I will ask you one question; answer me, and I will tell you by what authority I do these things. Was the baptism of John from heaven or from man? Answer me.” And they discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why then did you not believe him?’ But shall we say, ‘From man’?”—they were afraid of the people, for they all held that John really was a prophet. So they answered Jesus, “We do not know.” And Jesus said to them, “Neither will I tell you by what authority I do these things.”**

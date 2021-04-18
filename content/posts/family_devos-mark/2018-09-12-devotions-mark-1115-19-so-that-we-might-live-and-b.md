@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 11:15-19 And they came to Jerusalem. And he entered the temple and began to drive out those who sold and those who bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. And he would not allow anyone to carry anything through the temple. And he was teaching them and saying to them, “Is it not written, ‘My house shall be called a house of prayer for all the nations’? But you have made it a den of robbers.” And the chief priests and the scribes heard it and were seeking a way to destroy him, for they feared him, because all the crowd was astonished at his teaching. And when evening came they went out of the city.**

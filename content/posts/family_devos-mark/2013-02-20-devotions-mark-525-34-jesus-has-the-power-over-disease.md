@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 5:24-34 **And a great crowd followed him and thronged about him. And there was a woman who had had a discharge of blood for twelve years, and who had suffered much under many physicians, and had spent all that she had, and was no better but rather grew worse. She had heard the reports about Jesus and came up behind him in the crowd and touched his garment. For she said, “If I touch even his garments, I will be made well.” And immediately the flow of blood dried up, and she felt in her body that she was healed of her disease. And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, “Who touched my garments?” And his disciples said to him, “You see the crowd pressing around you, and yet you say, ‘Who touched me?’” And he looked around to see who had done it. But the woman, knowing what had happened to her, came in fear and trembling and fell down before him and told him the whole truth. And he said to her, “Daughter, your faith has made you well; go in peace, and be healed of your disease.”**
 

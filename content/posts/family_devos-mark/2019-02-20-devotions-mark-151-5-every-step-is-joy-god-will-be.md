@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 15:1-5 And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate. And Pilate asked him, “Are you the King of the Jews?” And he answered him, “You have said so.” Anyone the chief priests accused him of many things. And Pilate again asked him, “Have you no answer to make? See how many charges they bring against you.” But Jesus made no further answer, so that Pilate was amazed.**

@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 1:29-34 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.**
 

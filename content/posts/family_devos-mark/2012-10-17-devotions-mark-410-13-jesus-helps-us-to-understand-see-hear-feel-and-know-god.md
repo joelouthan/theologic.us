@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 4:10-13 **And when he was alone, those around him with the twelve asked him about the parables. And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables, so that
   

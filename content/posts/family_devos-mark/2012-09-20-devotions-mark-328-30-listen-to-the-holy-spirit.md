@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 3:28-30 “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin”—for they were saying, “He has an unclean spirit.” **
 

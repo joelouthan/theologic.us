@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 4:26-29 **And he said, “The kingdom of God is as if a man should scatter seed on the ground. He sleeps and rises night and day, and the seed sprouts and grows; he knows not how. The earth produces by itself, first the blade, then the ear, then the full grain in the ear. But when the grain is ripe, at once he puts in the sickle, because the harvest has come.”**
 

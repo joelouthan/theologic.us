@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 3:31-35 And his mother and his brothers came, and standing outside they sent to him and called him. And a crowd was sitting around him, and they said to him, “Your mother and your brothers are outside, seeking you.” And he answered them, “Who are my mother and my brothers?” And looking about at those who sat around him, he said, “Here are my mother and my brothers! For whoever does the will of God, he is my brother and sister and mother.”**
 

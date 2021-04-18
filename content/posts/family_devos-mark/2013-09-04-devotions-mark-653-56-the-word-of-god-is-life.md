@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 1. _When we hardened our hearts against God's love (we refuse to hear what God has to say, we refuse to believe what God has done), does God still love us?_
 

@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 14:66-72 And as Peter was below in the courtyard, one of the servant girls of the high priest came, and seeing Peter warming himself, she looked at him and said, “You also were with the Nazarene, Jesus.” But he denied it, saying, “I neither know nor understand what you mean.” And he went out into the gateway and the rooster crowed. And the servant girl saw him and began again to say to the bystanders, “This man is one of them.” But again he denied it. And after a little while the bystanders again said to Peter, “Certainly you are one of them, for you are a Galilean.” But he began to invoke a curse on himself and to swear, “I do not know this man of whom you speak.” And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And he broke down and wept.**

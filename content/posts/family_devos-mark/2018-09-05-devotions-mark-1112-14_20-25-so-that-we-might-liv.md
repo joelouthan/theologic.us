@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **On the following day, when they came from Bethany, he was hungry. And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. And he said to it, “May no one ever eat fruit from you again.” And his disciples heard it.
 (Mark 11:12-14 )

@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 > Mark 7:7-13 …in vain do they worship me, teaching as doctrines the commandments of men.’  You leave the commandment of God and hold to the tradition of men.”
 >

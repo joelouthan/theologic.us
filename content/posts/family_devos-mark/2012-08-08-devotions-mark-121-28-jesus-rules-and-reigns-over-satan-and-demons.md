@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 **Mark 1:21-28 And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes.** 
 

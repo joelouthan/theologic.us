@@ -10,7 +10,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 Mark 6:1-6 **He went away from there and came to his hometown, and his disciples followed him. And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, “Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?” And they took offense at him. And Jesus said to them, “A prophet is not without honor, except in his hometown and among his relatives and in his own household.” And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. And he marveled because of their unbelief.**
 

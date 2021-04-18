@@ -11,7 +11,8 @@ tags:
 series:
   - 'Family Devotions: Mark'
 css: "family-devos"
-draft: false
+showtoc: true
+draft: true
 ---
 
 **Mark 12:35–37 And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David? David himself, in the Holy Spirit, declared,  
