@@ -3,7 +3,7 @@ title: 'Mark 11:1-11 So That We Might Live'
 author: Joseph Louthan
 type: post
 date: 2018-08-29
-url: /family_devotions/mark-111-11-so-that-we-might-live/
+url: /family-devotions/mark-111-11-so-that-we-might-live/
 categories:
   - Devotions
 tags:

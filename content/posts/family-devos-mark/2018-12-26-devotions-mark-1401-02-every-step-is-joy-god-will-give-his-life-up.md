@@ -2,7 +2,7 @@
 title: 'Mark 14:1-2 Every Step Is Joy: Christ Will Give Up His Life For Us'
 author: Joseph Louthan
 date: 2018-12-26
-url: /family_devotions/2018-12-26-mark-1401-02-every-step-is-joy-god-will-give-his-life-up.md/
+url: /family-devotions/2018-12-26-mark-1401-02-every-step-is-joy-god-will-give-his-life-up.md/
 categories:
   - Devotions
 tags:

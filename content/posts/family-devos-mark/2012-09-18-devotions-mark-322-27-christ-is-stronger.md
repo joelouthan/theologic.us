@@ -2,7 +2,7 @@
 title: Mark 3:22-27 Christ is Stronger
 author: Joseph Louthan
 date: 2012-09-18
-url: /family_devotions/mark-322-27-christ-is-stronger/
+url: /family-devotions/mark-322-27-christ-is-stronger/
 categories:
   - Devotions
 tags:

@@ -2,7 +2,7 @@
 title: 'Mark 16:14-20: Go And Do Likewise'
 author: Joseph Louthan
 date: 2019-04-10
-url: /family_devotions/2019-04-10-mark-1614-20-all-that-god-has-done-for-u.md/
+url: /family-devotions/2019-04-10-mark-1614-20-all-that-god-has-done-for-u.md/
 categories:
   - Devotions
 tags:

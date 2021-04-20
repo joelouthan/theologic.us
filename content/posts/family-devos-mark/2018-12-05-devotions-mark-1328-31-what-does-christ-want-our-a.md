@@ -2,7 +2,7 @@
 title: 'Mark 13:28-31 What Does Christ Want? Our Age of Time'
 author: Joseph Louthan
 date: 2018-12-05
-url: /family_devotions/2018-12-05-mark-1328-31-what-does-christ-want-our-a.md/
+url: /family-devotions/2018-12-05-mark-1328-31-what-does-christ-want-our-a.md/
 categories:
   - Devotions
 tags:

@@ -2,7 +2,7 @@
 title: 'Mark 14:53-65 Every Step is Joy: Christ Is Accused For Us'
 author: Joseph Louthan
 date: 2019-02-06
-url: /family_devotions/2019-02-06-mark-1453-65-every-step-is-joy-god-will.md/
+url: /family-devotions/2019-02-06-mark-1453-65-every-step-is-joy-god-will.md/
 categories:
   - Devotions
 tags:

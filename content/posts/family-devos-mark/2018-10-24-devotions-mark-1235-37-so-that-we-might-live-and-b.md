@@ -3,7 +3,7 @@ title: Mark 12:35-37 So That We Might Live and Be Glorified
 author: Joseph Louthan  
 type: post  
 date: 2018-10-24  
-url: /family_devotions/2018-10-24-mark-1235-37-so-that-we-might-live-and-b.md/  
+url: /family-devotions/2018-10-24-mark-1235-37-so-that-we-might-live-and-b.md/  
 categories:  
   - Devotions
 tags:

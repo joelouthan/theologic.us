@@ -2,7 +2,7 @@
 title: Mark 8:34-9:1 We Must Die
 author: Joseph Louthan
 date: 2018-05-09T12:00:52+00:00
-url: /family_devotions/mark-834-91-we-must-die/
+url: /family-devotions/mark-834-91-we-must-die/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/4546540e1e8acad0408a8a1834bb43fd.jpg?resize=630%2C429
 categories:
   - Devotions

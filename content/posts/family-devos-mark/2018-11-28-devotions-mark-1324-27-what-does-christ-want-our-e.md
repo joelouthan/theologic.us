@@ -2,7 +2,7 @@
 title: 'Mark 13:24-27 What Does Christ Want? Our Eternity'
 author: Joseph Louthan
 date: 2018-11-28
-url: /family_devotions/2018-11-28-mark-1324-27-what-does-christ-want-our-e.md/
+url: /family-devotions/2018-11-28-mark-1324-27-what-does-christ-want-our-e.md/
 categories:
   - Devotions
 tags:

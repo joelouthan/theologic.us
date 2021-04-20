@@ -2,7 +2,7 @@
 title: Mark 9:14-29 God Alone is Over Life
 author: Joseph Louthan
 date: 2018-05-23T12:00:05+00:00
-url: /family_devotions/mark-914-29-god-alone-is-over-life/
+url: /family-devotions/mark-914-29-god-alone-is-over-life/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/05/img_1987.jpg?resize=820%2C312
 categories:
   - Devotions

@@ -2,7 +2,7 @@
 title: 'Mark 12:41-44 What Does Christ Want? Our Everything'
 author: Joseph Louthan
 date: 2018-11-07
-url: /family_devotions/2018-11-07-mark-1241-44-what-does-christ-want-our-e.md/
+url: /family-devotions/2018-11-07-mark-1241-44-what-does-christ-want-our-e.md/
 categories:
   - Devotions
 tags:

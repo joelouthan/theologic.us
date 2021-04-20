@@ -2,7 +2,7 @@
 title: 'Mark 14:12-22 Every Step is Joy: Christ Prepares His Own Death For Us'
 author: Joseph Louthan
 date: 2019-01-02
-url: /family_devotions/2019-01-02-mark-1412-22-every-step-is-joy-god-tim.md/
+url: /family-devotions/2019-01-02-mark-1412-22-every-step-is-joy-god-tim.md/
 categories:
   - Devotions
 tags:

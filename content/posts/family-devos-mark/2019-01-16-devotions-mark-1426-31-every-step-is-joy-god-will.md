@@ -2,7 +2,7 @@
 title: 'Mark 14:26-31 Every Step is Joy: Christ Is Struck For Us'
 author: Joseph Louthan
 date: 2019-01-16
-url: /family_devotions/2019-01-16-mark-1426-31-every-step-is-joy-god-will.md/
+url: /family-devotions/2019-01-16-mark-1426-31-every-step-is-joy-god-will.md/
 categories:
   - Devotions
 tags:

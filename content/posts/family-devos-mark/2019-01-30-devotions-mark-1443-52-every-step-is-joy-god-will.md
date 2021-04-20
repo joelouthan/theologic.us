@@ -2,7 +2,7 @@
 title: 'Mark 14:43-52 Every Step is Joy: Christ Is Despised For Us'
 author: Joseph Louthan
 date: 2019-01-30
-url: /family_devotions/2019-01-30-mark-1443-52-every-step-is-joy-god-will.md/
+url: /family-devotions/2019-01-30-mark-1443-52-every-step-is-joy-god-will.md/
 categories:
   - Devotions
 tags:

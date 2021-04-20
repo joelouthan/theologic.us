@@ -2,7 +2,7 @@
 title: Mark 9:30-32 God Alone is Over Death
 author: Joseph Louthan
 date: 2018-05-30T12:00:17+00:00
-url: /family_devotions/mark-930-32-god-alone-is-over-death/
+url: /family-devotions/mark-930-32-god-alone-is-over-death/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/showImage.jpeg?resize=440%2C347
 categories:
   - Devotions

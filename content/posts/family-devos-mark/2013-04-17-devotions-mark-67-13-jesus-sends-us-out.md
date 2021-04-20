@@ -2,7 +2,7 @@
 title: Mark 6:7-13 Jesus Sends Us Out
 author: Joseph Louthan
 date: 2013-04-17
-url: /family_devotions/mark-67-13-jesus-sends-us-out/
+url: /family-devotions/mark-67-13-jesus-sends-us-out/
 categories:
   - Devotions
 tags:

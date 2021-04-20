@@ -2,7 +2,7 @@
 title: Mark 6:45-52 Jesus is the Lord of Glory
 author: Joseph Louthan
 date: 2013-08-28
-url: /family_devotions/mark-645-52-jesus-is-the-lord-of-glory/
+url: /family-devotions/mark-645-52-jesus-is-the-lord-of-glory/
 categories:
   - Devotions
 tags:

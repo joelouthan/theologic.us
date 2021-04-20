@@ -2,7 +2,7 @@
 title: Mark 8:14–21 Jesus Opens Our Hearts So That We Might Receive God
 author: Joseph Louthan
 date: 2015-11-02T17:03:20+00:00
-url: /family_devotions/mark-814-21-jesus-opens-our-hearts-so-that-we-might-receive-god/
+url: /family-devotions/mark-814-21-jesus-opens-our-hearts-so-that-we-might-receive-god/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2015/11/broken-clay-heart.jpg?resize=825%2C510
 categories:
   - Devotions

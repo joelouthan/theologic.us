@@ -2,7 +2,7 @@
 title: Mark 2:18-22 Jesus is the Bridegroom
 author: Joseph Louthan
 date: 2012-08-22
-url: /family_devotions/mark-218-22-jesus-is-the-bridegroom/
+url: /family-devotions/mark-218-22-jesus-is-the-bridegroom/
 categories:
   - Devotions
 tags:
@@ -37,9 +37,9 @@ Fast (Esther 4:16, Ezra 9:5, Luke 18:9-14]
   
 Pray (Matthew 6:5-15)
   
-Love one another (1 John 3 &#8211; 5)
+Love one another (1 John 3: 5)
   
-Give (2 Corinthians 8 &#8211; 9)
+Give (2 Corinthians 8: 9)
 
 _5. What is the number one thing we are to do until he gets back?_
 

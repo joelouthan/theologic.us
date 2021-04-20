@@ -2,7 +2,7 @@
 title: Mark 1:14-15 Jesus Is The Good News Pt. 2
 author: Joseph Louthan
 date: 2012-08-06
-url: /family_devotions/mark-114-15-jesus-is-the-good-news/
+url: /family-devotions/mark-114-15-jesus-is-the-good-news/
 categories:
   - Devotions
 tags:

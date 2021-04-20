@@ -2,7 +2,7 @@
 title: Mark 8:31-33 Jesus Must Die
 author: Joseph Louthan
 date: 2018-05-02T12:00:52+00:00
-url: /family_devotions/mark-831-33-jesus-must-die/
+url: /family-devotions/mark-831-33-jesus-must-die/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/04/d531397937.jpg?resize=676%2C446
 categories:
   - Devotions

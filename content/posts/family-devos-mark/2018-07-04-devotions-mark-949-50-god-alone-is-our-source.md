@@ -2,7 +2,7 @@
 title: Mark 9:49-50 God Alone is Our Source
 author: Joseph Louthan
 date: 2018-07-04T12:00:20+00:00
-url: /family_devotions/mark-949-50-god-alone-is-our-source/
+url: /family-devotions/mark-949-50-god-alone-is-our-source/
 featured_image: https://i1.wp.com/theologic.us/wp-content/uploads/2018/06/hqdefault.jpg?resize=480%2C360
 categories:
   - Devotions

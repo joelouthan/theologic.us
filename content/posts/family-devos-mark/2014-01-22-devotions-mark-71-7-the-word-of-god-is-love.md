@@ -2,7 +2,7 @@
 title: Mark 7:1-7 The Word of God is Love
 author: Joseph Louthan
 date: 2014-01-22
-url: /family_devotions/mark-71-7-the-word-of-god-is-love/
+url: /family-devotions/mark-71-7-the-word-of-god-is-love/
 categories:
   - Devotions
 tags:

@@ -2,7 +2,7 @@
 title: 'Mark 14:66-72 Every Step is Joy: God Will Be Denied For Us'
 author: Joseph Louthan
 date: 2019-02-13
-url: /family_devotions/2019-02-13-mark-1466-72-every-step-is-joy-god-will.md/
+url: /family-devotions/2019-02-13-mark-1466-72-every-step-is-joy-god-will.md/
 categories:
   - Devotions
 tags:

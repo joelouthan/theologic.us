@@ -2,7 +2,7 @@
 title: Mark 10:17-22 God Alone Receives the Brokenhearted
 author: Joseph Louthan
 date: 2018-07-25T12:00:38+00:00
-url: /family_devotions/mark-1017-22-god-alone-receives-the-brokenhearted/
+url: /family-devotions/mark-1017-22-god-alone-receives-the-brokenhearted/
 featured_image: https://i0.wp.com/theologic.us/wp-content/uploads/2018/07/DishonestSecondFawn-size_restricted.gif?resize=500%2C288
 categories:
   - Devotions
