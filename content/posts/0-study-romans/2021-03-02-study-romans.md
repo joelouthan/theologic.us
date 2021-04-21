@@ -21,11 +21,11 @@ draft: false
 
 ## The Support
 
-### Romans 1:1 (CSB) Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God—
+### Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God—
 
 >I Timothy 1:12-17 I thank him who has given me strength, Christ Jesus our Lord, because he judged me faithful, appointing me to his service,  though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief,  and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus.  The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.  But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.  To the King of ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 
-### Romans 1:2-3 (CSB) which he promised beforehand through his prophets in the Holy Scriptures— concerning his Son, Jesus Christ our Lord
+### which he promised beforehand through his prophets in the Holy Scriptures— concerning his Son, Jesus Christ our Lord
 
 This is the Old Testament.
 
@@ -55,13 +55,13 @@ Consider:
 >
 >14 The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
 
-### Romans 1:4 (CSB) and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.
+### and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.
 
 >Romans 8:12-13 (CSB) So then, brothers and sisters, we are not obligated to the flesh to live according to the flesh, because if you live according to the flesh, you are going to die. But if by the Spirit you put to death the deeds of the body, you will live.
 
 >John 3:35 The Father loves the Son and has given all things into his hand (Daniel 7; Hebrews 1:1-2)
 
-### Romans 1:5 (CSB) Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,
+### Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,
 
 This is the Great Commission. Listen to what you and I have been commissioned to do by our Great Lord and Savior:
 
@@ -77,7 +77,7 @@ This is the Great Commission. Listen to what you and I have been commissioned to
 
 >Acts 1:7–8 (CSB) He said to them, “It is not for you to know times or periods that the Father has set by his own authority. But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 
-### Romans 1:6 (CSB) including you who are also called by Jesus Christ.
+### including you who are also called by Jesus Christ.
 
 Consider:
 
@@ -90,7 +90,7 @@ Ultimately:
 
 >Romans 8:28–30 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
-### Romans 1:7 (CSB) To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ
+### To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ
 
 Compare the love for the world versus the tender, affectionate, personal, relational love that God has for his people--those who believe and trust in him--those who are called saints (Ephesians 4:11-16) - Grace to you and peace from God our Father and the Lord Jesus Christ. Amen.
 
