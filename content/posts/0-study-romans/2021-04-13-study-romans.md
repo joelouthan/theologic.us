@@ -13,7 +13,7 @@ series:
   - "Bible Study: Romans"
 tocopen: true
 css: "family-devos"
-draft: false
+draft: true
 ---
 ## The Text
 
