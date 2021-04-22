@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -51,6 +51,8 @@ He already declared "No Condemnation!".
 
 How can he be so sure about you? How can he be so sure about me? I see my own heart and I am disgusted. And then I cannot see everything about it and gross sin still pops up. What can I even do?
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >Ezekiel 11:19-20 (CSB) I will give them integrity of heart and put a new spirit within them; I will remove their heart of stone from their bodies and give them a heart of flesh, so that they will follow my statutes, keep my ordinances, and practice them. They will be my people, and I will be their God.
@@ -80,3 +82,14 @@ What is ours to do? Turn to him quickly. Ask God to search out your heart and fi
 >Hebrews 12:3–11 (CSB) For consider him who endured such hostility from sinners against himself, so that you won’t grow weary and give up.  In struggling against sin, you have not yet resisted to the point of shedding your blood.  And you have forgotten the exhortation that addresses you as sons: My son, do not take the Lord’s discipline lightly or lose heart when you are reproved by him,  for the Lord disciplines the one he loves and punishes every son he receives.  Endure suffering as discipline: God is dealing with you as sons. For what son is there that a father does not discipline?  But if you are without discipline—which all receive—then you are illegitimate children and not sons.  Furthermore, we had human fathers discipline us, and we respected them. Shouldn’t we submit even more to the Father of spirits and live?  For they disciplined us for a short time based on what seemed good to them, but he does it for our benefit, so that we can share his holiness.  No discipline seems enjoyable at the time, but painful. Later on, however, it yields the peaceful fruit of righteousness to those who have been trained by it.
 
 The Lord is quick to cleanse you because you have his heart. You are his own and you are so very precious to him. Turn to him and let him do his work.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My God
+</div>
+&nbsp;
+
+Give me your Spirit, your soft heart, and your Son, so that I will be quick to confess and you will be quicker to cleanse me from all unrighteousness.
+
+Amen.

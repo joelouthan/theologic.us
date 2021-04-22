@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -54,6 +54,8 @@ Christ reveals God to man. Plain and simple.
 
 >John 14:6–11 (CSB) Jesus told him, “I am the way, the truth, and the life. No one comes to the Father except through me.  If you know me, you will also know my Father. From now on you do know him and have seen him.”  “Lord,” said Philip, “show us the Father, and that’s enough for us.”  Jesus said to him, “Have I been among you all this time and you do not know me, Philip? The one who has seen me has seen the Father. How can you say, ‘Show us the Father’?  Don’t you believe that I am in the Father and the Father is in me? The words I speak to you I do not speak on my own. The Father who lives in me does his works.  Believe me that I am in the Father and the Father is in me. Otherwise, believe because of the works themselves.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >John 1:18 (CSB) No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
@@ -77,3 +79,14 @@ Turn to Galatians 2. Here are three things for us to consider and obey:
 3\. Died to the law. Bury your sins. Crucify with Christ.
 
 >I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.  I do not set aside the grace of God, for if righteousness comes through the law, then Christ died for nothing.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Spotless Lamb
+</div>
+&nbsp;
+
+Take all of my sins.
+
+Amen.

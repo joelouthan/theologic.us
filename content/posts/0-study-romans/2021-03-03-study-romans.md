@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -40,6 +40,8 @@ God empowers us for ministry.
 >Ephesians 4:11-16 (CSB) And he himself gave some to be apostles, some prophets, some evangelists, some pastors and teachers, to equip the saints for the work of ministry, to build up the body of Christ, until we all reach unity in the faith and in the knowledge of God’s Son, growing into maturity with a stature measured by Christ’s fullness. Then we will no longer be little children, tossed by the waves and blown around by every wind of teaching, by human cunning with cleverness in the techniques of deceit. But speaking the truth in love, let us grow in every way into him who is the head—Christ. From him the whole body, fitted and knit together by every supporting ligament, promotes the growth of the body for building itself up in love by the proper working of each individual part.
 
 >Ephesians 6:10 (CSB) Finally, be strengthened by the Lord and by his vast strength.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -72,8 +74,8 @@ Just as Paul is affectionately writing to the church in Rome, here is a reminder
 <div style='font-variant: small-caps;'>
 Our Great Commissioner
 </div>
+&nbsp;
 
-```text
 You have called on us
   to obey you
   to seek your face
@@ -92,4 +94,3 @@ My God,
 Blessed be the glorious name of the Lord,
 
 Amen.
-```

@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -39,6 +39,8 @@ God is our provider.
 In order for you to get to God, God is going to have to provide everything for you so that you can run to him and be with him.
 
 God is infinite. Also, he is infinitely far away from our sins.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -80,16 +82,15 @@ You know what is the most encouraging thing in the world is? When the truth is p
 <div style="font-variant: small-caps;">
 Source of All Truth
 </div>
+&nbsp;
 
-```text
-Give us
-  your Spirit
-  so that our eyes will be open
-  our ears to hear
-  our heart soften
-  our minds renew
-  so that we can see your truth and beauty
+Give us  
+  your Spirit  
+  so that our eyes will be open  
+  our ears to hear  
+  our heart soften  
+  our minds renew  
+  so that we can see your truth and beauty  
   and behold it for ourselves.
 
 Amen.
-```

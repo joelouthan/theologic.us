@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -159,6 +159,8 @@ But look at what God has in store for you. Continue with verse 29.
 >they will run and not become weary,  
 >they will walk and not faint.  
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 What is the Good News? There are no other gods. You cannot fashion some other god in order to control your own destiny.
@@ -192,3 +194,16 @@ Now, since our Conqueror has won the victory, what are we expected to do?  Just 
 Do you think if you just keep playing with your sin, dabble with your sin that you sin is going to leave you alone, creep away and die on its own? Or do you think when you have to kill off sin, that there is hard work to get done and it is going to get messy? What do you think?
 
 How do think you will do it? Romans 8:13 by the Spirit alone.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Savior and Redeemer
+</div>
+&nbsp;
+
+I have played with my sin all of my life and it has only lead to death.
+
+Take away my sin and lead me to life, fullness of joy, and blissful, satisfying pleasures forevermore.
+
+Amen.

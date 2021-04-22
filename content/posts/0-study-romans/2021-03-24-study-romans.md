@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 So through prayer and reading the word, I pray that you are working out your own salvation with an actual fear, reverence, awe, worship, and love for our great King.
@@ -56,6 +56,8 @@ But if you think you are going to do this alone, you are gloriously mistaken.
 >Ephesians 6:10–13 (CSB) Finally, be strengthened by the Lord and by his vast strength.  Put on the full armor of God so that you can stand against the schemes of the devil.  For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens.  For this reason take up the full armor of God, so that you may be able to resist in the evil day, and having prepared everything, to take your stand.
 
 David could not don Saul's armor to slay Goliath. This wasn't just mere flesh and blood but David stood "against rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens." Why would the anything man could do or invent to help us wage ware in the spirtual? Man cannot!
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -158,3 +160,14 @@ God has to give you six things in order for you to battle spiritually and agains
 2\. Be zealous, repent, be with God, and go and conquer:
 
 >Revelation 3:19–22 (CSB) As many as I love, I rebuke and discipline. So be zealous and repent.  See! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.  “To the one who conquers I will give the right to sit with me on my throne, just as I also conquered and sat down with my Father on his throne.  “Let anyone who has ears to hear listen to what the Spirit says to the churches.”
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Lord
+</div>
+&nbsp;
+
+Every day, give me you. I need all of you. Not in what you give but you.
+
+Amen.

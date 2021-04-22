@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -30,6 +30,8 @@ draft: false
 God is our Father. Christ is our eldest brother. Spirit bears witness with our spirit that we are the children of God.
 
 >Hebrews 1:1-2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -79,8 +81,8 @@ It is at that precise moment, you hear a gentle, soothing, comforting, loving, m
 
 The Son stands. His name is Faithful, True, and the Word of God. He alone judges. He alone makes war against evil. His eyes lit up like cities that burn with a million fires. Sword on his right hand. Rod of iron on his left hand. Crowns upon crowns rest rightfully upon his head because on his robe and tattooed on his thighs, as it is written:
 
-<div style="font-variant: small-caps;">The King of Kings and the Lord of Lords</div> 
-&nbsp;  
+<div style="font-variant: small-caps;">The King of Kings and the Lord of Lords</div>
+&nbsp;
 
 In emboldened ecstasy, he looks up to his Father, and smirkingly asks, "What do you say, Father?"
 
@@ -99,3 +101,14 @@ He brings you close and holds you. With one final act in this heavenly courtroom
 Brothers and sisters, I tell you all these things that you joy may be full!
 
 To the whole world, I tell you all these things because that is love!
+
+## Pray
+
+<div style="font-variant: small-caps;">
+The King of Kings and the Lord of Lords
+</div>
+&nbsp;
+
+Show me your glory.
+
+Amen.

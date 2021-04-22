@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -36,6 +36,8 @@ God is our Conformer and our Image.
 In the midst of our sinful lives, in the middle of our trespasses and our wickedness and condemnation and shame, Jesus Christ appears to us and calls us to be with him.
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.  But when the kindness of God our Savior and his love for mankind appeared,  he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.  He poured out his Spirit on us abundantly through Jesus Christ our Savior  so that, having been justified by his grace, we may become heirs with the hope of eternal life.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -80,3 +82,14 @@ Stop trying to find another way to be saved. Stop trying to live in your sin. St
 Go to God. Ask for God. Get God.
 
 >Acts 4:12 (CSB) There is salvation in no one else, for there is no other name under heaven given to people by which we must be saved.”
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Redeemer
+</div>
+&nbsp;
+
+Redeem my life.
+
+Amen.

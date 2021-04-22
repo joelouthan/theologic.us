@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -59,6 +59,8 @@ The third response is "where shall we go?". If God is the only one who can save 
 >
 >“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 Guess what? If you turn to God, go to God, run to God, ask for God, guess what you are getting in return?
@@ -76,8 +78,8 @@ Guess what we are to? Place our hope, trust, belief, faith, and obedience in Chr
 <div style="font-variant: small-caps;">
 My Savior,
 </div>
+&nbsp;
 
-```text
 Save us today.
 
 Give us your heart so we would now have desires for you.
@@ -91,4 +93,3 @@ Give us the gift of repentance so we can change our minds and our lives and live
 Give us you so we be holy because you alone are holy.
 
 Amen.
-```

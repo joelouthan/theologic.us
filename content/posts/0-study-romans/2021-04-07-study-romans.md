@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -28,6 +28,8 @@ draft: false
 Let me contend to you that God has spelled out precisely what His love is all about—that is, it was all about Jesus Christ his Son.
 
 The birth, life, death, burial, resurrection, and ascension of Christ is the love of God manifested to us all. Believe in him, trust in him, and obey him and you will have eternal life.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -72,33 +74,32 @@ Nothing, absolutely nothing will separate me from God’s love for me that only 
 <div style="font-variant: small-caps;">
 My Covenant Love
 </div>
+&nbsp;
 
-```text
-Right in this moment
+Right in this moment  
   come and rescue me.
 
-Deliver me out of all of my sin
-  change my mind on all things
-  let behold your glory
-  let me see your face
-  grant me repentance!
-  So I can turn to you
-  and be with you
-  and you with me
+Deliver me out of all of my sin  
+  change my mind on all things  
+  let behold your glory  
+  let me see your face  
+  grant me repentance!  
+  So I can turn to you  
+  and be with you  
+  and you with me  
   forever.
 
-Bring me home to you
-  in your timing
-  but while I am here
+Bring me home to you  
+  in your timing  
+  but while I am here  
   I will do your will.
 
-But I need your sovereign grace
-  I will need your Son
-  and the fullness of your Spirit
+But I need your sovereign grace  
+  I will need your Son  
+  and the fullness of your Spirit  
   to obey your word.
 
-Keep me close
+Keep me close  
   never let me go.
 
 Amen.
-```

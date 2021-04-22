@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -42,6 +42,8 @@ God is the only justifier of the law, not the law itself
 God is the only Savior
 
 >Hebrews 10:38-39 "But my righteous one will live by faith; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved."
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -108,8 +110,8 @@ Amen.
 <div style='font-variant: small-caps;'>
 Our Great Commissioner
 </div>
+&nbsp;
 
-```text
 Your commands are easier said than done.
 
 Lord, help us
@@ -127,4 +129,3 @@ Help us to be faithful
   for you are the mighty one who saves.
 
 Amen
-```

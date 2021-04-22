@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -69,6 +69,8 @@ All who were born of Adam have no righteousness within us. We are born to die an
 
 The day of judgment, reckoning and the wrath of God is soon coming. And Jesus Christ both in the Gospels and in his Revelation amkes it painfully clear: the wrath of God that remains on those who do not trust and obey comes from the Son of God himself.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 In all of my conversations with unbelievers and perhaps well-intentioned Christians are sometimes too focus on humanity. What I mean by that is that you are so fixated on trying to save people who want nothing to do with God but do not want to perish and suffer in hell.
@@ -100,3 +102,16 @@ You see that?
 Our originally parents, Adam & Eve, and every human born, exchanged God for sin. Jesus Christ came to earth and exchanged our sin for his righteousness.
 
 Trust in Him and take him at his word. When you do so, you shall be saved.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Crucified Son of Man
+</div>
+&nbsp;
+
+All of my wickedness, immorality, perversion, treasonous acts, foolishness, and sin now belong to you.
+
+Give me your righteousness so I can be with you forever.
+
+Amen.

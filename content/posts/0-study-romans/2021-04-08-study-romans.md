@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -87,6 +87,8 @@ I grew up with the false doctrine that somehow some way, the Jewish people were 
 
 Christ himself have become our curse so that we might be saved to God.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >Galatians 3:27-29 (CSB) For those of you who were baptized into Christ have been clothed with Christ. There is no Jew or Greek, slave or free, male and female; since you are all one in Christ Jesus. And if you belong to Christ, then you are Abraham’s seed, heirs according to the promise.
@@ -106,9 +108,8 @@ What is ours to do? If you belong to Christ, then you are a child of God with th
 <div style="font-variant: small-caps;">
 Our Father
 </div>
+&nbsp;
 
-```text
 Help us to walk in the faith for you have adamantly proclaimed, "Only the righteous shall live by faith."
 
 Amen.
-```

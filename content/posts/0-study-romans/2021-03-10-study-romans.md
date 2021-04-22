@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -63,6 +63,8 @@ Theologians have called this the Aseity of God--the simplicity of God. If you ar
 >Before the mountains were brought forth,  
 >or ever you had formed the earth and the world,  
 >from everlasting to everlasting you are God.  
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -133,3 +135,17 @@ But because God does not change, that all of his promises are yes and amen, that
 ## Our Responsibility
 
 Read your Bible. Know your God.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+God and Savior
+</div>
+&nbsp;
+For me to understand anything about you or from you, I must have your Spirit dwelling in me and Christ must be mine.
+
+Holy Spirit, the word of God is too much for me to understand. I cannot comprehend it. So open my heart, my mind and my eyes to see your precious word.
+
+Write your Scriptures upon my heart so that I will not sin against you. You are my Rock and my Redeemer.
+
+Amen.

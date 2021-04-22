@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -53,6 +53,8 @@ Remember what God says about our own works?
 >all of us wither like a leaf,  
 >and our iniquities carry us away like the wind.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 What is the relief? How can we be made righteous before God?
@@ -86,8 +88,8 @@ Choose this day whom you will serve.
 <div style="font-variant: small-caps;">
 Our Stumbling Block and Foolishness
 </div>
+&nbsp;
 
-```text
 We don't quite get this.
 
 In part, we may acknowledge with our head nods and our Amen. But to some of us, this sounds way too good to be true. It sounds too easy. It sounds easy because we live in a broken, jacked-up world because our sin and the sins of people before us.
@@ -97,7 +99,6 @@ But in the beginning, you told us it was going to be jacked up. But you, and you
 Give us your gospel and place it in our hearts so every morning we will wake up and know you are God and you are good and your mercies never come to an end.
 
 Amen.
-```
 
 >Lamentations 3:22-24 (CSB)  
 >Because of the LORD’s faithful love  

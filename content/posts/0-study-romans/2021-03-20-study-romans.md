@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -35,6 +35,8 @@ Why? Look at what Christ says, "Divorce was permitted because the hardness of yo
 
 If you think the point of this study or the Bible is to stay married and never divorce, you are wrong. The point of the Bible is that God is good, Jesus came to save, sin breaks everything and our hearts are hardened because of our sin.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >Ezekiel 36:25–27 (CSB) I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.  I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.  I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
@@ -50,3 +52,14 @@ If your sin is dead and buried by Christ alone, we are no longer bounded in sin.
 What's ours to do? Repent of sin. Confess to one another. Run back to God and dump your sin on him. His Son literally purchased your sin so you wouldn't be crushed under the weight of it.  Give him your sin. Right now.
 
 If you wake up tomorrow and sin, give it to him again. If you are in Christ, he has given you a new heart ot love, a renewed mind to think, his Spirit whom empowers us to actual life--you get to give your sin over. You are not in bondage like unbelievers. So give your sin to God. Right now.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Crufified Savior
+</div>
+&nbsp;
+
+Remove me from my sins.
+
+Amen.

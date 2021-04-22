@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -55,6 +55,8 @@ draft: false
 ## God
 
 >Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
+
+Where do you see God in the text? What does the text say about God?
 
 ## The Gospel
 
@@ -113,12 +115,10 @@ It is not that an unbeliever will see good works and be saved. They will hear ou
 <div style="font-variant: small-caps;">
 Our Savior
 </div>
+&nbsp;
 
-```text
 Lead us to proclaim the gospel.
 
-Spirit,
-  save.
+Spirit, save us.
 
 Amen.
-```

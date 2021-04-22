@@ -11,7 +11,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -47,6 +47,8 @@ And still many of you believe at a young age thinking if you did all the right t
 
 God is not a little god to be bargain with.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 Maybe you are guilty of this. You know when will be a good time to repent of this?
@@ -78,3 +80,13 @@ If you are in sin and refusing to repent of it, and we all know that God gives t
 Do you dare?
 
 Repent for the kingdom of God is here.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+The Only God
+</div>
+&nbsp;
+Give me the gift of repentance so I can turn away from sin and turn back to you.
+
+Amen.

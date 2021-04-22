@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -102,6 +102,8 @@ All the promises of God are yes and amen:
 
 All of the promises in the Old Testament, starting from Genesis 3:15, through the law and the prophets, through songs and wisdom, all culminating that God would save his people. In other words, we will be his people and he will forever be our God.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 Here is the gospel proclamation:
@@ -133,8 +135,8 @@ Or to put it in another way:
 <div style='font-variant: small-caps;'>
 My Gracious Lord
 </div>
+&nbsp;
 
-```text
 You have given me the commandment
   to follow you
   to obey you
@@ -169,4 +171,3 @@ Today
   give me you.
 
 Amen.
-```

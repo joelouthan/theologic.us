@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -77,6 +77,8 @@ And we made it through to the other side together.
 
 And that wasn't the end of my running away. I always prone to wonder. But God is prone to come find me and bring me home.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 We are never defined by our circumstances. But when life is kicking you in the privates over and over again; when you sit under the crushing force of an abusive spouse; when it has felt like Psalm 22:1-2 every day for years on end...
@@ -88,3 +90,18 @@ God is good. God is there. God is our healer. God is our defender. God is our pr
 Cling to God. Just hold on to the Father. Fight for to hang on. Whatever you gotta do, do it.
 
 Just know, no matter what you do, God has you.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Only Source of Life
+</div>
+&nbsp;
+
+I cannot cling to you perfectly.
+
+But I know no one will snatch me out of your hand.
+
+So hold on to me.
+
+Amen.

@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -64,6 +64,8 @@ God saves the condemned.
 >
 >So he said to them again, “I am going away, and you will seek me, and you will die in your sin. Where I am going, you cannot come.” So the Jews said, “Will he kill himself, since he says, ‘Where I am going, you cannot come’?” He said to them, “You are from below; I am from above. You are of this world; I am not of this world. I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.” So they said to him, “Who are you?” Jesus said to them, “Just what I have been telling you from the beginning. I have much to say about you and much to judge, but he who sent me is true, and I declare to the world what I have heard from him.” They did not understand that he had been speaking to them about the Father. So Jesus said to them, “When you have lifted up the Son of Man, then you will know that I am he, and that I do nothing on my own authority, but speak just as the Father taught me. And he who sent me is with me. He has not left me alone, for I always do the things that are pleasing to him.” As he was saying these things, many believed in him.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >John 3:16 For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
@@ -81,42 +83,41 @@ God saves the condemned.
 <div style="font-variant: small-caps;">
 Promise Keeper
 </div>
+&nbsp;
 
-```text
-The sons of Adam
-  upon hearing your promises
-  upon hearing your voice
-  and seeing your promises
+The sons of Adam  
+  upon hearing your promises  
+  upon hearing your voice  
+  and seeing your promises  
   would mostly respond in outright sin.
 
-Am I any different?
-  I am not.
-  When you granted me peace
-  that could only come from you
-  what was my response?
+Am I any different?  
+  I am not.  
+  When you granted me peace  
+  that could only come from you  
+  what was my response?  
   But to flee into sin
 
-But I see your faithfulness
-  throughout your word
-  more so
-  I see your faithfulness
+But I see your faithfulness  
+  throughout your word  
+  more so  
+  I see your faithfulness  
   in my own life.
 
-When Abraham, Isaac, Jacob, Joseph, David
-  and so many others
-  fled into sin
-  you rescued them
-  and brought them back to you
+When Abraham, Isaac, Jacob, Joseph, David  
+  and so many others  
+  fled into sin  
+  you rescued them  
+  and brought them back to you  
   forever.
 
-When I fled into sin
-  your patience ran out
-  and you came to grab me
-  and yanked me back to you
-  I know and believe
+When I fled into sin  
+  your patience ran out  
+  and you came to grab me  
+  and yanked me back to you  
+  I know and believe  
   that you are my precious God in heaven.
 
 Be exalted in my life, O Lord.
 
 Amen.
-```

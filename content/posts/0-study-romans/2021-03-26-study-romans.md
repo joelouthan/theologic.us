@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -34,6 +34,8 @@ God is glorious.
 >
 >But Joseph said to them, “Don’t be afraid. Am I in the place of God? You planned evil against me; God planned it for good to bring about the present result—the survival of many people. Therefore don’t be afraid. I will take care of you and your children.” And he comforted them and spoke kindly to them.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >2 Corinthians 5:17-21 (CSB) Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come! Everything is from God, who has reconciled us to himself through Christ and has given us the ministry of reconciliation. That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and he has committed the message of reconciliation to us.
@@ -53,3 +55,18 @@ God is glorious.
 >“Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”
 
 Trust in Christ. Christ will not condemn you. Go and sin no more.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Lord
+</div>
+&nbsp;
+
+Renew my mind  
+swap out my heart  
+give me your Spirit  
+fill me up with Christ  
+so that I can trust in you.
+
+Amen.

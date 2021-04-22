@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -136,6 +136,8 @@ Or even a bit stronger language to his letter to the church in Ephesus:
 
 >Ephesians 2:1-3 (ESV) And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 To those who disobey, the wrath of God would remain on them.
@@ -163,3 +165,14 @@ Your heart must acknowledged God. Your heart must worship God. Your heart must g
 But guess what? Your heart will not do that until God takes out your wicked heart and give you his own.  That is the only way. You cannot do this in your own power and understanding. You are going to need all the help you can get because to be right before God? You are completely helpless. You are weak. You are feeble. You cannot do it.
 
 Trust in God with your sin. Give your sin to Christ. And he will lift you up.  He will exalt you. He will save you.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Surgeon
+</div>
+&nbsp;
+
+Give me your soft heart so I can desire you alone.
+
+Amen.

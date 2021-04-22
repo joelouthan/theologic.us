@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -79,6 +79,8 @@ God is for us.
 
 So if God is for us, who can be against us? We have already teased out how God saves his people. Not a magic wand but through blood and water and action and calling and voice and doing. Not in logic but in who He is. There are no loopholes. There are no gotchas. There are no spiritual tripwires with God.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 The gospel of Christ calls us to obey Christ. How? Repent and trust in Him.
@@ -121,4 +123,15 @@ Or let me put in modern terms:
 
 Hey. Christ is telling you, "Count the cost of following Him." What is stopping you? But if you are in Christ, there is nothing against you: nothing in heaven, hell, or earth. Nothing.
 
-The excuses have been dismissed. What are you going to do.
+The excuses have been dismissed. What are you going to do?
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Our Holiness
+</div>
+&nbsp;
+
+Open our eyes to your glory.
+
+Amen.

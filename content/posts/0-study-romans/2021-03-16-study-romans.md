@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -39,6 +39,8 @@ Who loved whom first? Was it God or you?
 
 Did God start loving you when you decided to clean yourself up, presented yourself a pretty good person or did God love you when you were yet a sinner?
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
@@ -53,7 +55,7 @@ Consider this, if you are in Christ:
 
 >1 Timothy 1:12 (CSB) I give thanks to Christ Jesus our Lord who has strengthened me, because he considered me faithful, appointing me to the ministry—
 
-1. Christ has called you. He has considered you faithful because He along is faithful. And because we are the saint of God, we are all appointed to ministry[^1], starting with the Great Commission[^2].
+1\. Christ has called you. He has considered you faithful because He along is faithful. And because we are the saint of God, we are all appointed to ministry[^1], starting with the Great Commission[^2].
 
 >1 Timothy 1:13 (CSB) even though I was formerly a blasphemer, a persecutor, and an arrogant man. But I received mercy because I acted out of ignorance in unbelief,
 
@@ -77,3 +79,14 @@ So go and worship our great God.  With your song, your words, your breath, and y
 
 [^1]: Ephesians 4:11-16
 [^2]: Matthew 28:16–20; Mark 16:14–20; Luke 24:36–49; John 21:15–19; Acts 1:7–8
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Wonderful Counselor
+</div>
+&nbsp;
+
+Call me to you. Ask of me and save me!
+
+Amen.

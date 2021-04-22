@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -57,6 +57,8 @@ That infinite distance of God from man is what we call the holiness of God.
 
 Holy, holy, holy is the God Almighty, who was, and is, and is to come.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 Both of the historical responses of man towards God have been foolish. So don't be foolish.
@@ -99,3 +101,14 @@ Isaiah confesses his sin. How does our lovely, gentle, and lowly God with an imm
 >Ephesians 2:1–10 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
 
 Confess your sins all the time. All the time God will draw closer. Don't know how? No need to despair. God will bridge that gap because He has already bridged that gap to you with his only begotten son, Jesus Christ. And THEN Jesus sends His Spirit to mark you as his. God covers the gap twice to save you. It is the double portion that is given to you as a heir of promise for eternal life.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Sin Remover
+</div>
+&nbsp;
+
+Wash me clean. Make me your child.
+
+Amen.

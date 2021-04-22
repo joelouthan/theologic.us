@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -48,6 +48,8 @@ God has consistently never been satisfied with the bare minimum. Just something 
 >and burn with no one to extinguish it  
 >because of your evil deeds.  
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >Deuteronomy 30:6 (CSB) The LORD your God will circumcise your heart and the hearts of your descendants, and you will love him with all your heart and all your soul so that you will live.
@@ -78,4 +80,19 @@ Listen, this is what we know of God and his people:
 - He gives grace upon grace
 - His mercies are new every morning
 
-You cannot save yourself. Only God saves. Your and my responsiblity? Believe in the Lord Jesus Christ every time you get up in the morning all the way until you go back to sleep. Yes, we are not going to do it perfect. In fact, when we try to obey him perfectly we are actually sinning--not unless we have trusted Christ with our whole heart and all of our sin. Only right then can you obey him.
+You cannot save yourself. Only God saves. Your and my responsibility? Believe in the Lord Jesus Christ every time you get up in the morning all the way until you go back to sleep. Yes, we are not going to do it perfect. In fact, when we try to obey him perfectly we are actually sinning--not unless we have trusted Christ with our whole heart and all of our sin. Only right then can you obey him.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Only Savior King
+</div>
+&nbsp;
+
+Give me a new heart, new mind, new desires  just for you.
+
+Open my eyes to see, my ears to hear, my tongue to speak, and life in my body to worship you.
+
+Be my Savior.
+
+Amen.

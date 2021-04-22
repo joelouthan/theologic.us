@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -43,6 +43,8 @@ God alone justifies.
 
 Not only God justifies, he justifies the ungodly. He did this by sending his Son, Jesus Christ, to live, die, rise from dead and ascended to heaven so that we would be his people and he would be our God.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >>Romans 5:6-11 (CSB) or while we were still helpless, at the right time, Christ died for the ungodly. For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. But God proves his own love for us in that while we were still sinners, Christ died for us. How much more then, since we have now been justified by his blood, will we be saved through him from wrath. For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life. And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
@@ -64,25 +66,25 @@ Hear the gospel. Trust in Christ. Obey him. Live to him.
 <div style="font-variant: small-caps;">
 The Source of the Gospel
 </div>
+&nbsp;
 
-```text
-Without you
-  we are blind
-  lost
-  led astray
-  deaf
-  dumb
-  muted
-  orphaned
-  divorced
-  widowed
-  alone
-  forsaken
+Without you  
+  we are blind  
+  lost  
+  led astray  
+  deaf  
+  dumb  
+  muted  
+  orphaned  
+  divorced  
+  widowed  
+  alone  
+  forsaken  
   in prison.
 
-God,
-  you promise
-  your Son
+God,  
+  you promise  
+  your Son  
   was sent to set the captives free.
 
 Set us free, Lord.
@@ -90,4 +92,3 @@ Set us free, Lord.
 Do this today.
 
 Amen.
-```

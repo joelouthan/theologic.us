@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -35,6 +35,8 @@ draft: false
 God is above our circumstances and God does not lose his children.
 
 >John 10:25–30 Jesus answered them, “I told you, and you do not believe. The works that I do in my Father’s name bear witness about me, but you do not believe because you are not among my sheep. My sheep hear my voice, and I know them, and they follow me. I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -71,6 +73,7 @@ Don't get tossed into hell for circumstances and the world.  Trust in God right 
 <div style="font-variant: small-caps;">
 My Precious Love
 </div>
+&nbsp;
 
 Today, I will stop blaming others, the world, circumstances or the times we live in.
 

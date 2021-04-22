@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false 
 ---
 ## The Text
@@ -45,6 +45,8 @@ In other words, God is not sovereign because He is sovereign. Let me let Hodge e
 [^4]: Hodge. 441.
 
 In other words, because God is perfect, good, wisdom, holiness, and love, that is sovereignty. God is the fullness of all of those things and in that, He is sovereign.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -101,8 +103,8 @@ Trust in Christ. Believe in him. Keep confessing. Keep repenting. Start letting 
 <div style='font-variant: small-caps;'>
 My Light
 </div>
+&nbsp;
 
-```text
 Open our eyes.
 
 Make eye contact with us.
@@ -113,4 +115,3 @@ Kill our cold hearts.
   for you alone.
 
 Amen.
-```

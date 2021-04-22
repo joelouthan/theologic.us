@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -42,6 +42,8 @@ God alone is life.
 >John 6:68-69 (CSB) Simon Peter answered, “Lord, to whom will we go? You have the words of eternal life. We have come to believe and know that you are the Holy One of God.”
 
 There is one God. He is the Creator of Heaven and Earth. He is without a beginning nor a end because he alone is the Beginning and the End.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -153,3 +155,16 @@ Here's the kick to the pants: submit yourselves now to God, repent of sin and wo
 >The four living creatures said, “Amen,” and the elders fell down and worshiped.  
 
 This is the call for those who have ears to hear: don't assume you are walking the path. I dare you to ask God where are you with him? In his righteousness by the precious blood of his Son or outside of his grace? Pray to him. Go to his word. And let the Spirit examine you right now. And then get up tomorrow and do it all over again.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My King
+</div>
+&nbsp;
+
+Where do I stand with you?
+
+Show me.
+
+Amen.

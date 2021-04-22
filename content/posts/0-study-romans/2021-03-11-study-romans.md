@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 
@@ -106,6 +106,8 @@ So how is that not putting your identity into something other than Christ?
 
 God is all-knowing. Before God created us, He knew us. And when He knew us, he loved us. When he loved us, the Scriptures proclaimed, "He predestines us to Himself."
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >Romans 3:21-26 But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets. The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction. For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
@@ -123,3 +125,15 @@ What is ours to do? The Bible and especially the book of Romans is going to star
 I dare each of you to ask God, "Where in my life am I acting and believing and speaking as thought I do not believe you are real and you are good and you are just and you are righteous."  I ask you to pray this prayer and see what the Lord says because I am seeing too many people who go to church and everything in their lives and with their tongue would confess that there is no God.
 
 I dare you to press into God and have God himself examine you and do the real work of making you His own. Pray right now. See what God does.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Holy Spirit
+</div>
+&nbsp;
+Examine me. Test me. Am I yours?
+
+Do you bear witness with my spirit that I am a child of God?
+
+Amen.

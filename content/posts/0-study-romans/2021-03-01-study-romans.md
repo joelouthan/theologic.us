@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -66,6 +66,8 @@ God will save whom he will save.
 
 >Ephesians 1:5 (CSB) He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 The good news is this: that there is nothing that you could have ever done or will ever do that will keep you from be saved by God for God from God unto God.
@@ -106,9 +108,9 @@ Don't be insane. Choose real life, fullness of joy and pleasures forevermore. Tr
 <div style='font-variant: small-caps;'>
 Lord God Almighty
 </div>
+&nbsp;
 
-```text
-Do what you need to do
+Do what you need to do  
   in order for us to trust in you alone.
 
 Swap my heart for yours.
@@ -124,4 +126,3 @@ Give me repentance.
 Give me your power to murder my sin.
 
 Amen.
-```

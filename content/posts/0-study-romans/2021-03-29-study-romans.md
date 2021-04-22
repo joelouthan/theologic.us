@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -91,6 +91,8 @@ I beg you: stop listening to them. They are promising things that God never prom
 
 I say that to say: all things means all things.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 The salvation of God for his people is never an add-on to your life to make it better. It requires you to live a completely different life than you did before.
@@ -104,3 +106,14 @@ The salvation of God for his people is never an add-on to your life to make it b
 What is ours to do? Let the circumstances of this life fall upon us.  They will not define us. Only God defines us and he did so by the mark of the Spirit and the bloodshed of His Son.
 
 Be defined by who God says we are and not by our circumstances and sin.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Redeemer
+</div>
+&nbsp;
+
+Whatever evil and good that falls upon me and whatever circumstances I might be in, turn it all, my life included, for your glory.
+
+Amen.

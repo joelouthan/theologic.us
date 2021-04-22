@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 >>Now, by the sacrifice of Christ all the sins of the Church are entirely put away. He, the sinless Lamb of God, took them up and bore them away into a land of oblivion, whence even the Divine mind fails to recall them.
@@ -56,6 +56,8 @@ Chrst alone is our fulfillment of the law.
 >Hebrews 10:4 (CSB) For it is impossible for the blood of bulls and goats to take away sins.
 
 >Matthew 12:7 (CSB) If you had known what this means, I desire mercy and not sacrifice, you would not have condemned the innocent.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -108,3 +110,14 @@ Be quick about it. Do it right now. Wake up tomorrow, do it again. And the next 
 We don't get to walk in the flesh. We don't get to look like the rest of the world. The world spits on our Savior. They reject him because they are in slavery to sin.  We are to walk in a manner according to the calling of God upon on our lives.
 
 Do so right now. Go, in Jesus' name.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Savior and Lord
+</div>
+&nbsp;
+
+Quicken my spirit. Give me life so I can trust in you!
+
+Amen.

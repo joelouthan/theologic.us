@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: true
 ---
 ## The Text
@@ -20,6 +20,8 @@ draft: true
 ## The Support
 
 ## God
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -30,7 +32,4 @@ draft: true
 <div style="font-variant: small-caps;">
 
 </div>
-
-```text
-
-```
+&nbsp;

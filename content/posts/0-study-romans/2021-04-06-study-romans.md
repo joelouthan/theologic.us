@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -30,6 +30,8 @@ draft: false
 Christ has slain our enemies. He disarmed Satan, demons, sin, hell, and death and put them to open shame.
 
 >Colossians 2:9-15 (CSB) For the entire fullness of God’s nature dwells bodily in Christ, and you have been filled by him, who is the head over every ruler and authority. You were also circumcised in him with a circumcision not done with hands, by putting off the body of flesh, in the circumcision of Christ, when you were buried with him in baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead. And when you were dead in trespasses and in the uncircumcision of your flesh, he made you alive with him and forgave us all our trespasses. He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross. He disarmed the rulers and authorities and disgraced them publicly; he triumphed over them in him.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -66,26 +68,25 @@ In other words:
 <div style="font-variant: small-caps;">
 Conqueror of conquerors
 </div>
+&nbsp;
 
-```text
 I am no longer a slave to sin.
 
 I am a child of God.
 
-And I love you, Lord.
-  I give my sin over to you
-  So give me yourself
-  so I can slay some more sin
-  so I can dwell in your presence
-  and be with you
-  for all of my days
+And I love you, Lord.  
+  I give my sin over to you  
+  So give me yourself  
+  so I can slay some more sin  
+  so I can dwell in your presence  
+  and be with you  
+  for all of my days  
   because you have done it all for me.
 
-This is far easier
-  than the life I lived before
+This is far easier  
+  than the life I lived before  
   And I thank you for rescuing me
 
 I love you my Lord.
 
 Amen.
-```

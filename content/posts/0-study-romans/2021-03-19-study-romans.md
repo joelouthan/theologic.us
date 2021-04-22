@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -41,6 +41,8 @@ God alone is our grace.
 
 Who is that? That is Jesus Christ.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 We don't get to sin more because we are in bondage to sin. That is something we have to realize about unbelievers: the best that they can do is sin. Because they are not in Christ, everything they do is in sin.
@@ -64,3 +66,14 @@ Only one of them came away saved by God.
 I have no idea of where your faith is at. But if you have a tiny bit of faith, you will always have the wide open arms of a Savior who is always there waiting to love you forever.
 
 Stop overthinking it. Stop overdoing it. Just run to God. Call upon the name of Jesus Christ and be saved this moment.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Savior and Redeemer
+</div>
+&nbsp;
+
+Draw me in. Rescue me. And never let me go.
+
+Amen.

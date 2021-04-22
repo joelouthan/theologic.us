@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -105,6 +105,8 @@ God is our All-in-all.
 >establish for us the work of our hands—  
 >establish the work of our hands!
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >2 Thessalonians 2:13-14 (CSB) But we ought to thank God always for you, brothers and sisters loved by the Lord, because from the beginning God has chosen you for salvation through sanctification by the Spirit and through belief in the truth. He called you to this through our gospel, so that you might obtain the glory of our Lord Jesus Christ.
@@ -136,3 +138,14 @@ Ours to do is to obey the Lord Jesus Christ only by the power of the Spirit: rep
 >2 Thessalonians 2:15-17 (CSB) So then, brothers and sisters, stand firm and hold to the traditions you were taught, whether by what we said or what we wrote.
 >
 >May our Lord Jesus Christ himself and God our Father, who has loved us and given us eternal encouragement and good hope by grace, encourage your hearts and strengthen you in every good work and word.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Savior
+</div>
+&nbsp;
+
+Save us.
+
+Amen

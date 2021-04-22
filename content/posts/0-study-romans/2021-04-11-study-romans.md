@@ -12,7 +12,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -81,6 +81,8 @@ Real salvation is not going to come by the fact you will be able to ace a theolo
 >but it will accomplish what I please  
 >and will prosper in what I send it to do.”  
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 >On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim: If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. For the Scripture says, Everyone who believes on him will not be put to shame, since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him.
@@ -96,9 +98,8 @@ Again:
 <div style="font-variant: small-caps;">
 Jesus
 </div>
+&nbsp;
 
-```text
 Save me.
 
 Amen.
-```

@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -59,6 +59,8 @@ Again, we can pick and choose what Bible verses we like, and because they requir
 God is the only God who rightfully demands your whole heart. All of your heart and everything in it.  
 
 If you can see yourself honestly, you know your heart it is jacked up and have jacked up things in it. But that is what makes the gospel of Christ such good news: God wants your heart and all the sin within it.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -119,11 +121,24 @@ Put all of your hope into Him.
 
 When you do, this is what happens:
 
->John 8:10-11 (CSB) When Jesus stood up, he said to her, “Woman, where are they? Has no one condemned you?”
+>John 8:10-11 (CSB)  
+>When Jesus stood up, he said to her, “Woman, where are they? Has no one condemned you?”
 >“No one, Lord,” she answered.
 >“Neither do I condemn you,” said Jesus.
 
 Here is the call directly from Christ:
 
 >“Go, and from now on do not sin anymore.”
->
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Blessed Redeemer
+</div>
+&nbsp;
+
+Call upon me. Call me to be yours. Give me you. Give me your Spirit. Give me life. 
+
+So that I will go and sin no more.
+
+Amen.

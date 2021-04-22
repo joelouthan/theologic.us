@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -39,6 +39,8 @@ God rules and reigns over all of creation.
 
 Christ, the Son of God, who is God, has put Satan, demons, sin, hell, and death "to open shame" (ESV) and disgraced them publicly. How? "God triumphed over them in Him."
 While we are the subject, God does not lose. He always win. He is triumphant. He gets all the worship and praised due. He gets this alone for just being the Triune God. And then he creates the heavens and the earth. And then He creates Mankind. Man sins against God. But yet, God preaches the gospel. He saves his people. By how? Openly shaming Satan, demons, sin, hell, and death. For whom? For all who believe in His Son shall not perish but have eternal life.
+
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
@@ -75,3 +77,14 @@ You shall name Him, Jesus, for He will save His people from their sins.
 >For I am the least of the apostles, not worthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, yet not I, but the grace of God that was with me. Whether, then, it is I or they, so we proclaim and so you have believed.
 >
 >Now if Christ is proclaimed as raised from the dead, how can some of you say, “There is no resurrection of the dead”? If there is no resurrection of the dead, then not even Christ has been raised; and if Christ has not been raised, then our proclamation is in vain, and so is your faith. Moreover, we are found to be false witnesses about God, because we have testified wrongly about God that he raised up Christ—whom he did not raise up, if in fact the dead are not raised. For if the dead are not raised, not even Christ has been raised. And if Christ has not been raised, your faith is worthless; you are still in your sins. Those, then, who have fallen asleep in Christ have also perished. If we have put our hope in Christ for this life only, we should be pitied more than anyone.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Only Lord
+</div>
+&nbsp;
+
+I believe in you. Save me!
+
+Amen.

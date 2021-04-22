@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "prayers"
+css: "family-devos"
 draft: false
 ---
 ## The Text
@@ -43,6 +43,8 @@ What is God like in all of this?
 
 Per John Stott, God is high above, far from, exposes, burns, and vomits out sin.  That means he does all of these things to my sin. In his holiness and righteousness, he has every right not only to reject me but to vomit me out and spit me out.  More so, he has the right to pour his wrath upon me. If the Son of God were to ever hunt me down, I rather to have a mountain be thrown on me than to face the Almighty God himself.
 
+`Where do you see God in the text? What does the text say about God?`
+
 ## The Gospel
 
 But here is the good news: God did not do the sin. God does not do evil. Yet, God does not lie. God desires his people. Therefore, God does whatever it takes to save his people.
@@ -58,5 +60,18 @@ Repent. Kingdom of God is here.
 That is all well and good. But if you actually been plagued by ongoing, the worst thing you can do is give up hope. No. The Bible tells us to trust in Jesus Christ. That is our hope. When we hope in him, that marks us as Christians. Not our works. Not what we say. But where we put our hope in when everything is good and everything has gone to crap.
 
 Trust in the Lord.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+My Only God
+</div>
+&nbsp;
+
+I have failed at killing sin all of my life.
+
+But your mercy, grace, and steadfast love is always upon me.
+
+Continue your work in. Draw me closer to you. Keep the world dim to my sight as I continue to try to see you with bleared eyes.
 
 Amen.

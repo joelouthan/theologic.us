@@ -84,7 +84,9 @@ What, if any, other text supports what we are studying today? (If there is none,
 
 What does the text say about God?
 
-### The Gospel
+#`Where do you see God in the text? What does the text say about God?`
+
+## The Gospel
 
 What is the good news?
 
