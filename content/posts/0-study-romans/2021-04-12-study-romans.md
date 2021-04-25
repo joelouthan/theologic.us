@@ -56,7 +56,7 @@ draft: false
 
 >Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
-Where do you see God in the text? What does the text say about God?
+`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
