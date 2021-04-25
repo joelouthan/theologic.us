@@ -103,6 +103,7 @@ Confess our sins. Place them upon Christ, the worthy Lamb that was slain. And be
 God of all time
 </div>
 &nbsp;
+
 You have given your Scriptures to your people throughout the ages. And we still only know you in part. We might know you *fully* but we do know you *truly*. And we know you so by the power of your Holy Spirit and the life and death of your blessed Son, my Lord Jesus Christ.
 
 Save us on this day. Cause us to confess and repent.
