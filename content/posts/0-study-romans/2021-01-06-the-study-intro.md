@@ -12,6 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
+css: "family-devos"
 draft: false
 ---
 Let's get the personal stuff out of the way.
@@ -84,9 +85,9 @@ What, if any, other text supports what we are studying today? (If there is none,
 
 What does the text say about God?
 
-#`Where do you see God in the text? What does the text say about God?`
+`Where do you see God in the text? What does the text say about God?`
 
-## The Gospel
+### The Gospel
 
 What is the good news?
 
@@ -100,11 +101,6 @@ A simple prayer to God.
 
 ## The Schedule
 
-This might be audacious of me but I want to release recordings every evening in time for the following day's study.  That means I have tons of writing and recording to get ahead of time. And then, only by God's good grace, continuously go forward.
+Live stream every Monday at 12PM Central. (I am really broadcasting this for my friends in Kenya where it will be 8PM their time.)
 
 Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ".
-
-I need to do something here will krisp work i dont know
-
-
-does this still work or do I want to go back to Krisp
