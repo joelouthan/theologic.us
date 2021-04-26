@@ -77,19 +77,20 @@ params:
         Content: "Trying to waste my time with God."
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/josephlouthan"
-        - name: github
-          url: "https://github.com/joelouthan"
+        - name: twitch
+          url: "https://www.twitch.tv/thestudy_"
         - name: discord
           url: "https://discord.gg/DntJ4rh5eN"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ"
+        - name: twitter
+          url: "https://twitter.com/josephlouthan"
         - name: instagram
           url: "https://instagram.com/josephlouthan"
-        - name: twitch
-          url: "https://www.twitch.tv/nachozsuprem"
         - name: facebook
           url: "https://www.facebook.com/joseph.louthan"
-        
+        - name: github
+          url: "https://github.com/joelouthan"        
 
     analytics:
         google:
