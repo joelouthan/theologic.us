@@ -25,7 +25,7 @@ Let's get the personal stuff out of the way.
 
 **Vocation**: Consultant with [Red Hat](https://redhat.com/)
 
-**Church**: Intern at [Frontline Church](https://frontlinechurch.com), Oklahoma City, OK
+**Church**: Layperson at [Frontline Church](https://frontlinechurch.com), Oklahoma City, OK
 
 **Twitch**: [The Study](https://www.twitch.tv/thestudy_)
 
