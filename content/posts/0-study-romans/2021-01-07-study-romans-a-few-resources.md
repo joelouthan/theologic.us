@@ -1,21 +1,23 @@
 ---
-title: 'The Study: Romans, A Few Resources'
+title: '✅The Study: Romans, A Few Resources'
 author: Joseph Louthan
 publishDate: 2021-01-07T06:00:00-06:00
 url: /study-romans/2021-01-07-study-romans-a-few-resources/
 categories:
   - Bible Study
-  - Podcast
   - Bibliography
 tags:
   - Romans
-  - Podcast
   - Books
 series:
   - 'Bible Study: Romans'
 tocopen: true
 draft: false
 ---
+
+## Audio
+
+Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-a-few-resources/).
 
 ## It Goes Without Say
 

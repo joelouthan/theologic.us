@@ -13,6 +13,11 @@ tocopen: true
 css: "family-devos"
 draft: false
 ---
+
+## Audio
+
+Today's episode at [The Study](http://study.theologic.us/podcast/an-introduction-to-the-study-podcast/).
+
 Let's get the personal stuff out of the way.
 
 ## The Personal
