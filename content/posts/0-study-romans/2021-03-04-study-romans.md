@@ -5,12 +5,10 @@ publishDate: 2021-03-04T06:00:00-06:00
 url: /study-romans/2021-03-04-study-romans/
 categories:
   - Bible Study
-  - Podcast
 tags:
-  - Romans
-  - Podcast
+  - "Romans"
 series:
-  - 'Bible Study: Romans'
+  - "Bible Study: Romans"
 tocopen: true
 css: "family-devos"
 draft: false 
