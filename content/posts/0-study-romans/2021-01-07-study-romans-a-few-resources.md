@@ -15,10 +15,6 @@ tocopen: true
 draft: false
 ---
 
-## Audio
-
-Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-a-few-resources/).
-
 ## It Goes Without Say
 
 {{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EOCFU4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}
@@ -167,3 +163,9 @@ I would be remiss if I didn't mention Luther's commentary. It was his desperate 
 ___
 
 <p style="clear:both;">
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-a-few-resources/)
+
+[YouTube](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
