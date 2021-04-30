@@ -20,18 +20,17 @@ Here just the very small list of resources on Mark that I have found most helpfu
 
 ## It Goes Without Say
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EOCFU4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}
-[**The Bible**](https://www.amazon.com/Bible-English-Standard-Version-Cross-References-ebook/dp/B001EOCFU4?dchild=1&keywords=ESV+Bible&qid=1612370921&sr=8-4&linkCode=li2&tag=theologicus-20&linkId=77b59dbc9a627743f4fa64f61464f51d&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God.
+![Christian Standard Bible](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1535917156&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
+[**The Bible**](https://www.amazon.com/CSB-Outreach-Bible-Bibles-Holman/dp/1535917156?crid=1X4PIPYH6DDM1&dchild=1&keywords=csb+bible&qid=1619795755&sprefix=CSB+%2Caps%2C197&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=b946558cfa0fe688e43bc1648d735a77&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
 
-Remember, the commentaries are not without error—they are the observations of the author. Slow down, pray, read, chew and meditate.
-&nbsp;  
+Slow down, pray, read, chew and meditate.  
 &nbsp;  
 
 ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1433524619" width="1" height="1" border="0" >}}
+![ESV Study Bible](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**ESV Study Bible**](https://www.amazon.com/dp/1433524619?&linkCode=li2&tag=theologicus-20&linkId=2c7acb245df24de2bdd7463dc5d664a9&language=en_US&ref_=as_li_ss_il) Incredible resource.
 
 I have purchased this resource multiple times over.
@@ -46,7 +45,7 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642892815&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1642892815" width="1" height="1" border="0" >}}
+![Luke (St. Andrews Expositional Commentary) by R.C. Sproul](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642892815&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**Luke: An Expositional Commentary**](https://www.amazon.com/Luke-Expositional-Commentary-R-C-Sproul/dp/1642892815?dchild=1&keywords=rc+sproul+luke&qid=1612379677&sr=8-3&linkCode=li2&tag=theologicus-20&linkId=1c8d7d1680ff40d2aa5b96a1598cde38&language=en_US&ref_=as_li_ss_il)  
 R.C. Sproul  
 2020, Reformation Trust Publisher.
@@ -60,7 +59,8 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000GJDRIW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=B000GJDRIW" width="1" height="1" border="0" >}}
+![The Gospel of Luke (NICNT) by Norval Geldenhuys](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000GJDRIW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft)
+
 [**The Gospel of Luke (NICNT)**](https://www.amazon.com/Gospel-Luke-International-Commentary-Testament/dp/B000GJDRIW?dchild=1&keywords=Gospel+of+Luke+geldenhuys&qid=1612379574&sr=8-4&linkCode=li2&tag=theologicus-20&linkId=2cdcef7cf300326b77fcad72e7ffa1bf&language=en_US&ref_=as_li_ss_il)  
 Norval Geldenhuys  
 1983, Eerdman's.
@@ -74,7 +74,9 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0310493307&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0310493307" width="1" height="1" border="0" >}}
+![Luke (NIVAC) by Darrell L. Bock](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0310493307&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
+
+![]()
 [**Luke (NIVAC)**](https://www.amazon.com/Luke-Application-Commentary-Darrell-Bock/dp/0310493307?crid=347ZPYHP9R1AB&dchild=1&keywords=niv+application+commentary+luke&qid=1612379645&sprefix=NIV+appli%2Caps%2C178&sr=8-2&linkCode=li2&tag=theologicus-20&linkId=596f913d8f6ca38fca304c32f0b430ba&language=en_US&ref_=as_li_ss_il)  
 Darrell L. Bock  
 1996, Zondervan.
@@ -88,7 +90,8 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802808026&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0802808026" width="0" height="0" border="0" alt="" >}}
+![Calvin's Commentaries](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802808026&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
+
 [**Calvin's Commentaries**](https://www.amazon.com/Calvins-Commentaries-Vol-John-Calvin/dp/0801013313/ref=as_li_ss_il?crid=3BE112SRHVN47&dchild=1&keywords=calvin+commentary+set&qid=1611178269&sprefix=Calvin+Comm%2Caps%2C169&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=6ec914d2fa99d13f5465bc2a2eece759&language=en_US)  
 by John Calvin (Writer)
 2009, Baker Books

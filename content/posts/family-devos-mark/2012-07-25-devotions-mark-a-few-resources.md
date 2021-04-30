@@ -20,18 +20,17 @@ Here just the very small list of resources on Mark that I have found most helpfu
 
 ## It Goes Without Say
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EOCFU4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}
-[**The Bible**](https://www.amazon.com/Bible-English-Standard-Version-Cross-References-ebook/dp/B001EOCFU4?dchild=1&keywords=ESV+Bible&qid=1612370921&sr=8-4&linkCode=li2&tag=theologicus-20&linkId=77b59dbc9a627743f4fa64f61464f51d&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God.
+![Christian Standard Bible](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1535917156&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
+[**The Bible**](https://www.amazon.com/CSB-Outreach-Bible-Bibles-Holman/dp/1535917156?crid=1X4PIPYH6DDM1&dchild=1&keywords=csb+bible&qid=1619795755&sprefix=CSB+%2Caps%2C197&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=b946558cfa0fe688e43bc1648d735a77&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
 
-Remember, the commentaries are not without error—they are the observations of the author. Slow down, pray, read, chew and meditate.
-&nbsp;  
+Slow down, pray, read, chew and meditate.  
 &nbsp;  
 
 ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1433524619" width="1" height="1" border="0" >}}
+![ESV Study Bible](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**ESV Study Bible**](https://www.amazon.com/dp/1433524619?&linkCode=li2&tag=theologicus-20&linkId=2c7acb245df24de2bdd7463dc5d664a9&language=en_US&ref_=as_li_ss_il) Incredible resource.
 
 I have purchased this resource multiple times over.
@@ -46,8 +45,8 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642891797&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=1642891797" width="1" height="1" border="0" >}}
-[**Mark: An Expositional Commentary**](https://www.amazon.com/Mark-Expositional-Commentary-R-C-Sproul/dp/1642891797?dchild=1&keywords=Mark+RC+Sproul&qid=1612371889&s=books&sr=1-3&linkCode=li2&tag=theologicus-20&linkId=dee6f30c8344cff8bd1da51288e2d45b&language=en_US&ref_=as_li_ss_il)  
+![Mark (St. Andrews Expositional Commentary) by R.C. Sproul](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642891797&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
+[**Mark (St. Andrews Expositional Commentary)**](https://www.amazon.com/Mark-Expositional-Commentary-R-C-Sproul/dp/1642891797?dchild=1&keywords=Mark+RC+Sproul&qid=1612371889&s=books&sr=1-3&linkCode=li2&tag=theologicus-20&linkId=dee6f30c8344cff8bd1da51288e2d45b&language=en_US&ref_=as_li_ss_il)  
 R.C. Sproul  
 2011, Reformation Trust Publisher.
 
@@ -60,7 +59,7 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801041147&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0801041147" width="1" height="1" border="0" >}}
+![Mark (New Testament Commentary) by William Hendriksen](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801041147&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**Mark (New Testament Commentary)**](https://www.amazon.com/New-Testament-Commentary-Exposition-According/dp/0801041147?&linkCode=li2&tag=theologicus-20&linkId=1ec35be41362244096463baede18683f&language=en_US&ref_=as_li_ss_il)  
 William Hendriksen
 1981, Baker.
@@ -81,18 +80,18 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802825028&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0802825028" width="1" height="1" border="0" >}}
+![The Gospel of Mark (NICNT) by William L. Lane](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802825028&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**The Gospel of Mark**](https://www.amazon.com/Gospel-according-Mark-Introduction-International/dp/0802825028?dchild=1&keywords=mark+by+william+lane&qid=1612371379&s=books&sr=1-1&linkCode=li2&tag=theologicus-20&linkId=a62b781f63a312bf8ae91f7f2f5d7d20&language=en_US&ref_=as_li_ss_il)  
 William L. Lane  
 1974, Eerdman's.
 
-Incredible thorough and wonderfully written, Dr. Lane walks the reader masterfully through not only the Gospel but the perspective of the writer Mark.
+Incredible thorough and wonderfully written, Dr. Lane walks the reader masterfully through not only the Gospel but the perspective of the writer, John-Mark.
 
 ___
 
 <p style="clear:both;">
 
-{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802808026&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0802808026#floatleft" width="0" height="0" border="0" alt="" >}}
+![Calvin's Commentaries](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802808026&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**Calvin's Commentaries**](https://www.amazon.com/Calvins-Commentaries-Vol-John-Calvin/dp/0801013313/ref=as_li_ss_il?crid=3BE112SRHVN47&dchild=1&keywords=calvin+commentary+set&qid=1611178269&sprefix=Calvin+Comm%2Caps%2C169&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=6ec914d2fa99d13f5465bc2a2eece759&language=en_US)  
 by John Calvin (Writer)
 2009, Baker Books
@@ -104,7 +103,7 @@ ___
 
 <p style="clear:both;">
 
-{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0830814183&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US#floatleft" width=150 >}}{{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=theologicus-20&language=en_US&l=li2&o=1&a=0830814183" width="1" height="1" border="0" >}}
+![Mark (Ancient Christian Commentary on Scripture, NT Volume 2), Edited by Thomas C. Odin & Christopher A. Hall](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0830814183&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
 [**Mark (Ancient Christian Commentary on Scripture, NT Volume 2)**](https://www.amazon.com/Mark-Ancient-Christian-Commentary-Scripture/dp/0830814183?dchild=1&keywords=Ancient+Commentary+on+Scripture+Mark&qid=1612372192&s=books&sr=1-1&linkCode=li2&tag=theologicus-20&linkId=0e1f0d83fd3f5a764ed0aa6fcf5012ce&language=en_US&ref_=as_li_ss_il)  
 by Thomas C. Odin & Christopher A. Hall (Editors)  
 2005, IVP Academic
