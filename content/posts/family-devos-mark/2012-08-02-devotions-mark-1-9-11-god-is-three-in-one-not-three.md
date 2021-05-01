@@ -18,7 +18,7 @@ draft: false
 
 >Mark 1:9-11 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, “You are my beloved Son; with you I am well pleased.”
 
-## The Devotional
+## The Devotion
 
 If there are three people and just one God, how can all three persons be one God?
 

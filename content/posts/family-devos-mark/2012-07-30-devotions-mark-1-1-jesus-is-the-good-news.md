@@ -1,5 +1,5 @@
 ---
-title: ✅Mark 1:1 Jesus is the Good News
+title: ✅Mark 1:1 Jesus is the Good News, Pt. 1
 author: Joseph Louthan
 date: 2012-07-30
 url: /family-devotions/2012-07-30-family-devotions-mark/
@@ -77,6 +77,6 @@ Yet, as Athanasius (early church father) so boldly declare:
 3. Are you his kid?
 ```
 
-## The Devotional
+## The Devotion
 
 If you believe and trust in Him, what He said, what His Son did, then yes, you are his little kid—forever.

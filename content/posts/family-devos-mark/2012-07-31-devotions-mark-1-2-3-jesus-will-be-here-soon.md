@@ -28,7 +28,7 @@ draft: false
 >‘Prepare the way of the Lord,  
 >make his paths straight,’”
 
-## The Devotional
+## The Devotion
 
 This is a prophecy made 400 years before Christ ever arrived.
 
