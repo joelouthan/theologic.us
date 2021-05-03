@@ -78,11 +78,11 @@ params:
 
     socialIcons:
         - name: twitch
-          url: "https://www.twitch.tv/thestudy_"
+          url: "http://twitch.theologic.us"
         - name: discord
-          url: "https://discord.gg/DntJ4rh5eN"
+          url: "http://discord.theologic.us"
         - name: youtube
-          url: "https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ"
+          url: "http://youtube.theologic.us"
         - name: twitter
           url: "https://twitter.com/josephlouthan"
         - name: instagram
