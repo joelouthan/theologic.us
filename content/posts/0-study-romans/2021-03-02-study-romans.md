@@ -135,37 +135,37 @@ My Gracious Lord
 </div>
 &nbsp;
 
-You have given me the commandment
-  to follow you
-  to obey you
-  to listen to your voice
-  to heed your prophecy
-  to take you at face value
-  to take you at your word
-  to honor you
-  to worship you
+You have given me the commandment  
+  to follow you  
+  to obey you  
+  to listen to your voice  
+  to heed your prophecy  
+  to take you at face value  
+  to take you at your word  
+  to honor you  
+  to worship you  
   to love you with everything within me.
 
-God
-  I will need
-  to be created like new
-  to have a completely different heart
-  your Spirit to replace my missing one
-  not just a changed mind
-  but a renewed mind
-  a righteousness not my own
-  holiness that I am so distant from
-  a grace that layered upon more grace
-  a mercy that is new every morning
-  a love that never ceases
-  an adoption that calls me your own
+God  
+  I will need  
+  to be created like new  
+  to have a completely different heart  
+  your Spirit to replace my missing one  
+  not just a changed mind  
+  but a renewed mind  
+  a righteousness not my own  
+  holiness that I am so distant from  
+  a grace that layered upon more grace  
+  a mercy that is new every morning  
+  a love that never ceases  
+  an adoption that calls me your own  
   a romance that makes you my Beloved
 
-I am going to need you
-  the only God
+I am going to need you  
+  the only God  
   who alone is mighty to save.
 
-Today
+Today  
   give me you.
 
 Amen.

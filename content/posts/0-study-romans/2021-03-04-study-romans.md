@@ -107,9 +107,9 @@ Open our eyes.
 
 Make eye contact with us.
 
-Kill our cold hearts.
-  give us your heart
-  with new desires
+Kill our cold hearts.  
+  give us your heart  
+  with new desires  
   for you alone.
 
 Amen.
