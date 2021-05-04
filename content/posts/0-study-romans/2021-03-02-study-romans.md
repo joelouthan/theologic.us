@@ -169,3 +169,9 @@ Today
   give me you.
 
 Amen.
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-11-7-god-alone-fulfills-his-promises/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)

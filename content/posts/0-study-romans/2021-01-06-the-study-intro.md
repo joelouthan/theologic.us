@@ -28,11 +28,17 @@ Let's get the personal stuff out of the way.
 
 **Vocation**: Consultant with [Red Hat](https://redhat.com/)
 
-**Church**: Layperson at [Frontline Church](https://frontlinechurch.com), Oklahoma City, OK
+**Church**: Covenant Member at [Frontline Church](https://frontlinechurch.com) in the Oklahoma City Metro
 
-**Twitch**: [The Study](https://www.twitch.tv/thestudy_)
+**Twitch**: [The Study](http://twitch.theologic.us)
 
-**Discord**: [Theologicus](https://discord.gg/DntJ4rh5eN) - Yes, this is the Discord for this page, podcast, and study!
+**YouTube**: [YouTube](http://youtube.theologic.us)
+
+**Apple**: [Apple](https://podcasts.apple.com/us/podcast/the-study/)
+
+**Spotify**: [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+
+**Discord**: [Theologicus](http://discord.theologic.us) - Yes, this is the Discord for this page, podcast, and study!
 
 **Instagram**: [josephlouthan](https://instagram.com/josephlouthan)
 
@@ -106,4 +112,4 @@ A simple prayer to God.
 
 Live stream every Monday at 12PM Central. (I am really broadcasting this for my friends in Kenya where it will be 8PM their time.)
 
-Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ".
+Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ"*.
