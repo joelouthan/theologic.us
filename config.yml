@@ -51,7 +51,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Theologicus
-        imageUrl: "images/joe-eli-snake-400x-circular.png"
+        imageUrl: "images/car-selfie-x2-circle.png"
         imageWidth: 100
         imageHeight: 100
         imageTitle: "Papa, Bubs & SNAKE!"
