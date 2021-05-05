@@ -112,4 +112,10 @@ A simple prayer to God.
 
 Live stream every Monday at 12PM Central. (I am really broadcasting this for my friends in Kenya where it will be 8PM their time.)
 
-Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ"*.
+Join me in studying Romans or as I call it: "Paul's Biblical & Systematic Theology based on the Ministry of Jesus Christ".
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/an-introduction-to-the-study-podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
