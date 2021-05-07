@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: "
+title: "Praying Through: Psalm "
 author: Joseph Louthan
 publishDate: 2021-08-24T06:00:00-06:00
 url: /prayers/2021-08-24-praying-through-psalms/
