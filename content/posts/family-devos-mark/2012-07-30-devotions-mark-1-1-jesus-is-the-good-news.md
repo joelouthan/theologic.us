@@ -80,3 +80,9 @@ Yet, as Athanasius (early church father) so boldly declare:
 ## The Devotion
 
 If you believe and trust in Him, what He said, what His Son did, then yes, you are his little kid—forever.
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/family-devotions-mark-11-jesus-is-the-good-news/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
