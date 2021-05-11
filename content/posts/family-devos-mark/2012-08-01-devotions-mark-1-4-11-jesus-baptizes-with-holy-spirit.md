@@ -1,5 +1,5 @@
 ---
-title: ✅Mark 1:4-8 Jesus Baptizes With the Holy Spirit
+title: 🏠Mark 1:4-8 Jesus Baptizes With the Holy Spirit
 author: Joseph Louthan
 date: 2012-08-01
 url: /family-devotions/2012-08-01-family-devotions-mark/

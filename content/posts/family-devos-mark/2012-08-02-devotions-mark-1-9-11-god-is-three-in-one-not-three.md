@@ -1,5 +1,5 @@
 ---
-title: ✅Mark 1:9-11 God is Three in One Not Three
+title: 🏠Mark 1:9-11 God is Three in One Not Three
 author: Joseph Louthan
 date: 2012-08-02
 url: /family-devotions/2012-08-02-family-devotions-mark/

@@ -1,5 +1,5 @@
 ---
-title: "✅📺Kids’ Spiritual Well-Being For the Sake of the Gospel?"
+title: "🏠📺Kids’ Spiritual Well-Being For the Sake of the Gospel?"
 author: Joseph Louthan
 date: 2012-07-27
 url: /family-devotions/2012-07-26-family-devotions-mark/
