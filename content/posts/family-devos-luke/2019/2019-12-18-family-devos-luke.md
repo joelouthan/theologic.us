@@ -1,5 +1,5 @@
 ---
-title: '✅Luke 1:39-45 Jump For Joy'
+title: '🏠Luke 1:39-45 Jump For Joy'
 author: Joseph Louthan
 publishDate: 2019-12-18T06:00:00-06:00
 url: /family-devos-luke/2019-12-18-family-devos-luke/

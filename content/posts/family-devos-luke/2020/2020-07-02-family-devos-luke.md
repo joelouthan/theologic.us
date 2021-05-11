@@ -13,7 +13,7 @@ css: "family-devos"
 draft: false
 ---
 
-## Christ is Lord of All of Creation
+## 🏠Christ is Lord of All of Creation
 
 Luke 5:1–7 (CSB) As the crowd was pressing in on Jesus to hear God’s word, he was standing by Lake Gennesaret.  He saw two boats at the edge of the lake; the fishermen had left them and were washing their nets.  He got into one of the boats, which belonged to Simon, and asked him to put out a little from the land. Then he sat down and was teaching the crowds from the boat.  When he had finished speaking, he said to Simon, “Put out into deep water and let down your nets for a catch.”  “Master,” Simon replied, “we’ve worked hard all night long and caught nothing. But if you say so, I’ll let down the nets.”  When they did this, they caught a great number of fish, and their nets began to tear.  So they signaled to their partners in the other boat to come and help them; they came and filled both boats so full that they began to sink.
 
@@ -29,7 +29,7 @@ Can God control the weather?
 
 ------
 
-## Christ is Lord of Salvation
+## 🏠Christ is Lord of Salvation
 
 Luke 5:8–11 (CSB) When Simon Peter saw this, he fell at Jesus’s knees and said, “Go away from me, because I’m a sinful man, Lord!”  For he and all those with him were amazed at the catch of fish they had taken,  and so were James and John, Zebedee’s sons, who were Simon’s partners. “Don’t be afraid,” Jesus told Simon. “From now on you will be catching people.”  Then they brought the boats to land, left everything, and followed him.
 
@@ -45,7 +45,7 @@ What are the immediate and ultimate effects of sin? Can those effects happen in 
 
 ------
 
-## Christ is Lord of Our Bodies
+## 🏠Christ is Lord of Our Bodies
 
 Luke 5:12-16 While he was in one of the cities, there came a man full of leprosy. And when he saw Jesus, he fell on his face and begged him, “Lord, if you will, you can make me clean.”<sup></sup>And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately the leprosy left him.<sup></sup>And he charged him to tell no one, but “go and show yourself to the priest, and make an offering for your cleansing, as Moses commanded, for a proof to them.”<sup></sup>But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities.<sup></sup>But he would withdraw to desolate places and pray.
 

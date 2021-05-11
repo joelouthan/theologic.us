@@ -1,5 +1,5 @@
 ---
-title: '✅Luke 2:34–38 Christ Grew In Wisdom and Stature [Part 3]'
+title: '🏠Luke 2:34–38 Christ Grew In Wisdom and Stature [Part 3]'
 author: Joseph Louthan
 publishDate: 2020-04-30T06:00:00-06:00
 url: /family-devos-luke/2020-04-30-family-devos-luke/
