@@ -1,8 +1,8 @@
 ---
-title: 🏠Mark 1:2-8 Jesus Baptizes With the Holy Spirit
+title: 🏠📺 Mark 1:7-8 Jesus Baptizes Us in the Holy Spirit
 author: Joseph Louthan
-date: 2012-08-01
-url: /family-devotions/2012-08-01-family-devotions-mark/
+date: 2012-08-02
+url: /family-devotions/2012-08-02-family-devotions-mark/
 categories:
   - Devotions
 tags:
@@ -16,15 +16,7 @@ draft: false
 
 ## The Text
 
->Mark 1:2-3 As it is written in Isaiah the prophet,  
->“Behold, I send my messenger before your face,  
->who will prepare your way,  
->
->the voice of one crying in the wilderness:  
->‘Prepare the way of the Lord,  
->make his paths straight,’” 
->
->John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins. Now John was clothed with camel's hair and wore a leather belt around his waist and ate locusts and wild honey. And he preached, saying, “After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie. I have baptized you with water, but he will baptize you with the Holy Spirit.”
+>Mark 1:7-8 (CSB) He proclaimed, “One who is more powerful than I am is coming after me. I am not worthy to stoop down and untie the strap of his sandals. I baptize you with water, but he will baptize you with the Holy Spirit.”
 
 ## The Devotion
 
@@ -42,7 +34,7 @@ To put your faith, trust, belief, faith, and obedience into Christ means that al
 
 Christ, who is holy, perfect, and righteous and who has never sinned, is risen to life by the power of God the Holy Spirit.
 
-To be baptized is the utmost serious. That means that you are telling the world that you are choosing to follow Christ rather than yourself. Will you do it perfectly? No. Will you try to wander away? Yep. But this is where you realize it is not what you did or didn't do to save yourself but rather all that God did to save you.
+To be baptized in church in water is to tell the entire world that Christ has baptize me in the Holy Spirit. It is the to say that the Holy Spirit is dwelling in me, the Spirit has made me a child of God, and now I live to God forever.
 
 ## The Discussion
 

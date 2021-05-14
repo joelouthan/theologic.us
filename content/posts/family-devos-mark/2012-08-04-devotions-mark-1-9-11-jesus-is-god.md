@@ -1,8 +1,8 @@
 ---
-title: 🏠Mark 1:9-11 God is Three in One Not Three
+title: 🏠Mark 1:9-11 Jesus is God
 author: Joseph Louthan
-date: 2012-08-02
-url: /family-devotions/2012-08-02-family-devotions-mark/
+date: 2012-08-04
+url: /family-devotions/2012-08-04-family-devotions-mark/
 categories:
   - Devotions
 tags:
@@ -16,7 +16,9 @@ draft: false
 
 ## The Text
 
->Mark 1:9-11 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, “You are my beloved Son; with you I am well pleased.”
+>Mark 1:9-11 (CSB) He proclaimed, “One who is more powerful than I am is coming after me. I am not worthy to stoop down and untie the strap of his sandals. I baptize you with water, but he will baptize you with the Holy Spirit.”
+>
+>In those days Jesus came from Nazareth in Galilee and was baptized in the Jordan by John. As soon as he came up out of the water, he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven: “You are my beloved Son; with you I am well-pleased.”
 
 ## The Devotion
 
