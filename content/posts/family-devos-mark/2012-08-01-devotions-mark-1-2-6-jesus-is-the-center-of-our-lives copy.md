@@ -32,3 +32,12 @@ Several hundred years before Jesus stepped foot on the earth, there was a man na
 
 John was special in that he was the last prophet before the coming of Christ. But he was no more special than any believer in the Bible that is called to point our words, actions and our lives back to Christ.
 
+## The Discussion
+
+```text
+1. What do you think it means to point my life to Christ?
+
+2. What do we do with our words when we speak to one another? How can we make our words point back to Christ?
+
+3. If the Old Testament is about Christ, what is the New Testament all about?
+```
