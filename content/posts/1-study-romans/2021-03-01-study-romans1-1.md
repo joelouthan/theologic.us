@@ -1,5 +1,5 @@
 ---
-title: '✅📺The Study: Romans 1:1'
+title: '🏠📺The Study: Romans 1:1'
 author: Joseph Louthan
 publishDate: 2021-03-01T06:00:00-06:00
 url: /study-romans/2021-03-01-study-romans/
