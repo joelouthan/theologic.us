@@ -51,10 +51,10 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Theologicus
-        imageUrl: "images/car-selfie-x2-circle.png"
-        imageWidth: 100
-        imageHeight: 100
-        imageTitle: "Papa, Bubs & SNAKE!"
+        imageUrl: "images/car-selfie-x2-circle-smaller.png"
+        imageWidth: 150
+        imageHeight: 150
+        imageTitle: "Car Selfie for LYFE!"
         buttons:
             - name: Recent Posts
               url: posts
