@@ -28,13 +28,13 @@ Likewise, does everybody in the church end up being baptized? No. Look at what P
 
 >Romans 6:1-5 (CSB) What should we say then? Should we continue in sin so that grace may multiply? Absolutely not! How can we who died to sin still live in it? Or are you unaware that all of us who were baptized into Christ Jesus were baptized into his death? Therefore we were buried with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, so we too may walk in newness of life. For if we have been united with him in the likeness of his death, we will certainly also be in the likeness of his resurrection.
 
-To put your faith, trust, belief, faith, and obedience into Christ means that all of yours sins--past, present, future--are placed on the death of Jesus Christ on the cross. When Jesus was then buried in the tomb, he took those sins with him.
+To put your faith, trust, belief, and obedience into Christ means that all of yours sins--past, present, future--are placed on the death of Jesus Christ on the cross. When Jesus was then buried in the tomb, he took those sins with him.
 
 >Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
-Christ, who is holy, perfect, and righteous and who has never sinned, is risen to life by the power of God the Holy Spirit.
+Christ, who is holy, perfect, and righteous and who has never sinned, is risen to life by the power of Holy Spirit who is God.
 
-To be baptized in church in water is to tell the entire world that Christ has baptize me in the Holy Spirit. It is the to say that the Holy Spirit is dwelling in me, the Spirit has made me a child of God, and now I live to God forever.
+To be baptized in church in water is to tell the entire world that Christ has baptize me in the Holy Spirit. In other words, for us to say that the Holy Spirit is dwelling in me, that means that the Spirit has made me a child of God, and now I live to God forever.
 
 ## The Discussion
 
