@@ -62,7 +62,7 @@ His work will be complete. My work will be finished.
 
 For all of my past, present, and future failures, sins, trespasses, and iniquities, there is no truth so eye-blurring beautiful, so life-giving, so death-destroying, so mercy-renewing, so grace abounding, so love overflowing as the complete, perfect, definite, and absolute truth as this one verse:
 
-> **There is therefore now no condemnation for those who are in Christ Jesus.**
+>**There is therefore now no condemnation for those who are in Christ Jesus.**
 
 Done and Amen.
 
@@ -104,9 +104,9 @@ Your soul is complete, finally, perfectly, and definitely satisfied.
 
 He brings you close and holds you. With one final act in this heavenly courtroom, with the Holy Spirit, the angels, the elders, the saints, and the Father looking upon you, Christ Jesus, the Gracious Almighty God justly declares:
 
-> **NO CONDEMNATION!**
+>**NO CONDEMNATION!**
 >
-> Now enter into your sweet reward.
+>Now enter into your sweet reward.
 
 Brothers and sisters, I tell you all these things that you joy may be full!
 

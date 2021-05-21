@@ -34,4 +34,4 @@ John 21:15-19 When they had finished breakfast, Jesus said to Simon Peter, “Si
 
 >The story hardly needs applying further. Christian faith begins (or it may begin) with understanding what Peter understood that morning. It is as we see Jesus, dying so that his people need not die, completing on the cross the work of our salvation, wounded for our transgressions and bruised for our iniquities, that we see clearly the love that God has for us. It is also the point at which we begin to love God in return. 
 
-> N.T. Wright. [*Small Faith Great God*](https://www.amazon.com/Small-faith-great-God-Biblical-Christians/dp/0800710614/ref=sr_1_2?keywords=NT+Wright+Small+Faith+Great+God&qid=1572291201&s=books&sr=1-2]. 72-74.
+>N.T. Wright. [*Small Faith Great God*](https://www.amazon.com/Small-faith-great-God-Biblical-Christians/dp/0800710614/ref=sr_1_2?keywords=NT+Wright+Small+Faith+Great+God&qid=1572291201&s=books&sr=1-2]. 72-74.

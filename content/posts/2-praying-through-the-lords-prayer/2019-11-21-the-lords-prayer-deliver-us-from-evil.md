@@ -13,15 +13,21 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-> Matthew 6:13 And lead us not into temptation,  
-but deliver us from evil.
 
 ## Deliver Us From Evil
+
+>Matthew 6:13 And lead us not into temptation,  
+>but deliver us from evil.
+
+>James 1:13-15 (CSB) No one undergoing a trial should say, “I am being tempted by God,” since God is not tempted by evil, and he himself doesn’t tempt anyone. But each person is tempted when he is drawn away and enticed by his own evil desire. Then after desire has conceived, it gives birth to sin, and when sin is fully grown, it gives birth to death.
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Rescuer,  
 </div>
 
+```text
 Once, I was far from you. Assured of my own salvation based on what I did and nothing you have done. Yet, I sinned against you and others all the more.
 
 I was dead. I had no life in my limbs. I had no strength to reach out to any passerby. I had no voice to call out for help because I had no breath. I was unknown. I was lost.
@@ -35,3 +41,4 @@ Keep me to yourself. Continue to rescue me from evil. Bring me home.
 I love you. 
 
 Amen.
+```

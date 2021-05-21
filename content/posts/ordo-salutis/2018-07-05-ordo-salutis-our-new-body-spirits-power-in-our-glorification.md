@@ -6,7 +6,8 @@ url: /ordo-salutis/our-new-body-spirits-power-in-our-glorification/
 featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/07/boy-singing.jpg?resize=640%2C426
 categories:
   - Theology
-tags:   - Theology
+tags:
+  - Theology
   - Soteriology
 series:
   - 'Ordo Salutis'

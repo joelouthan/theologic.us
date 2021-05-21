@@ -12,8 +12,8 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:17a and if children, then heirs-heirs of God and fellow heirs with Christ,
-> 
+>Romans 8:17a and if children, then heirs-heirs of God and fellow heirs with Christ,
+>
 _What does it mean to be a child of God?_
 
 To ask that is to ask: What does it mean for the Father to set his affections upon you? What does it mean for Christ to love you, pursue you, die for you, and then live for you? What does it mean for the Spirit to lead you and to bear witness for you? What does it mean for us to cry out, “Abba, Father” to God and to have the Creator of the Universe turn and focus on you?

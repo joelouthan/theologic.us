@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:26 Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.
+>Romans 8:26 Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.
 
 When coming to the full acknowledgment of the pain and anguish of sin that he seems to never be able to overcome, Paul cries the same incredible prayer in the same spirit as the tax collector in the synagogue:
 

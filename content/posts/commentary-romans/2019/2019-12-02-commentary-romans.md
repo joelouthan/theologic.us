@@ -23,7 +23,7 @@ Because if I am totally honest, I am nothing like that. Sure, I have my good day
 
 Let us start at the beginning:
 
-> **Genesis 1:27  So God created man in his own image, 
+>**Genesis 1:27  So God created man in his own image, 
  in the image of God he created him; 
  male and female he created them.**
 
@@ -71,7 +71,7 @@ Okay, if none of us can go to God *freely* on our own then what hope do we have?
 
 Continue on in John chapter 1:
 
-> John 1:14-18 **And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.**  (John bore witness about him, and cried out, This was he of whom I said, He who comes after me ranks before me, because he was before me.)  **For from his fullness we have all received, grace upon grace.  For the law was given through Moses; grace and truth came through Jesus Christ.  No one has ever seen God; the only God, who is at the Father’s side, he has made him known.**  
+>John 1:14-18 **And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.**  (John bore witness about him, and cried out, This was he of whom I said, He who comes after me ranks before me, because he was before me.)  **For from his fullness we have all received, grace upon grace.  For the law was given through Moses; grace and truth came through Jesus Christ.  No one has ever seen God; the only God, who is at the Father’s side, he has made him known.**  
 
 Paul will go on to say: "It is in this hope we were saved."
 

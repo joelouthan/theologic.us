@@ -12,11 +12,11 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:38–39 For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
+>Romans 8:38–39 For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 
 In the year of our 2018, we have Christians contending that their faith would be unshaken if the resurrection never took place. That argument is nothing new. For the orthodox Christian, this is not our first rodeo. Paul was already dealing with this argument thirty years after Jesus ascended to glory:
 
-> Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain.[^1]
+>Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain.[^1]
 
 Many people today and throughout history love to believe in the love of God, abide in the love of God and attempt to the best of their ability to live by the love of God. But they do that will no mindset or thought about Jesus Christ our Lord and Savior.
 
@@ -28,9 +28,9 @@ What I hope that you, the reader, realize is that there is no love of God apart 
 
 Sure, God has grace for the good and the evil, the just and the unjust.[^2]
 
-> If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? No one has ascended into heaven except he who descended from heaven, the Son of Man. And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
+>If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? No one has ascended into heaven except he who descended from heaven, the Son of Man. And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
 >
-> “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.”[^3]
+>“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.”[^3]
 
 In writing this particular Gospel, the Apostle John never intended for verses, let alone for singular statements to be set apart and taken out of context. (Actually, no author, Biblical or otherwise, wants that.) But verse 16 is known throughout all the land. By itself, we can deduce that God did love the entire world and out of that love he gave his only begotten Son.
 
@@ -38,7 +38,7 @@ Here is the rub: the world expects that that they will be saved because God love
 
 John goes on to say:
 
-> Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.[^4]
+>Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.[^4]
 
 This verse (and with the rest of the Bible) flies in the face of what _the world thinks_ is the love of God.
 
@@ -62,9 +62,9 @@ Let all of life wear me down. And then watch the Father come running after me to
 
 Let death come knocking on my door.
 
-> > But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God.
-> >
-> >Octavius Winslow. No Condemnation In Christ. Banner of Truth. 385.
+>> But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God.
+>>
+>>Octavius Winslow. No Condemnation In Christ. Banner of Truth. 385.
 
 Let angels, rulers, and powers come at me! For my Christ Jesus is the Commander of the Most High and the Grand Champion and Conqueror over Satan, demons, sin, hell, and death. He is my shield, my sword, strong tower and mighty fortress. I shall not be moved!
 

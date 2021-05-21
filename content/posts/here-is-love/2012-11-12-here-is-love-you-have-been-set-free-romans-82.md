@@ -82,7 +82,7 @@ He gives the verdict, “**No condemnation**” for those who are His people.[^1
 
 Now he gives the sentence for who are His people:
 
-> **For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.**[^16]
+>**For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.**[^16]
 
 In the most legal sense, that is gracious and merciful love.
 

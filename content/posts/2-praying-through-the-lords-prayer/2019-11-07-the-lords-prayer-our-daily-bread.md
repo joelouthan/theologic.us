@@ -13,14 +13,37 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-> Matthew 6:11 Give us this day our daily bread
-
 ## Give Us This Day Our Daily Bread
+
+>Matthew 6:11 Give us this day our daily bread
+
+>Psalm 16:5-6  
+>The LORD is my chosen portion and my cup;  
+> you hold my lot.  
+>The lines have fallen for me in pleasant places;  
+> indeed, I have a beautiful inheritance.
+
+>Psalm 50  
+>For every beast of the forest is mine,  
+> the cattle on a thousand hills.
+
+>Proverbs 30:7-9 (CSB) Two things I ask of you;
+>don’t deny them to me before I die:  
+>Keep falsehood and deceitful words far from me.  
+>Give me neither poverty nor wealth;  
+>feed me with the food I need.  
+>Otherwise, I might have too much  
+>and deny you, saying, “Who is the LORD?”  
+>or I might have nothing and steal,  
+>profaning the name of my God.
+
+### The Prayer
 
 <div style="font-variant: small-caps;">
 My Provider
 </div>
 
+```text
 What is your provision for me? Do I need food, shelter, and water just to stay alive?
 
 But what is life? Is it that my heart pumps blood or my lungs breath in and out air? Is it because my skin is warm to the touch?
@@ -47,3 +70,4 @@ And I know if I go to You, ask You for You, You will give me You for you cannot 
 I ask for you. Today. Give me Yourself. So I will never hunger again and I will never thirst again.
 
 Amen.
+```

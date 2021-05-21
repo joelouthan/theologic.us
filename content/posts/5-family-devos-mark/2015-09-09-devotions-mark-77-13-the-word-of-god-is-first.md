@@ -14,9 +14,9 @@ css: "family-devos"
 showtoc: true
 draft: true
 ---
-> Mark 7:7-13 …in vain do they worship me, teaching as doctrines the commandments of men.’  You leave the commandment of God and hold to the tradition of men.”
+>Mark 7:7-13 …in vain do they worship me, teaching as doctrines the commandments of men.’  You leave the commandment of God and hold to the tradition of men.”
 >
-> And he said to them, “You have a fine way of rejecting the commandment of God in order to establish your tradition! For Moses said, ‘Honor your father and your mother’; and, ‘Whoever reviles father or mother must surely die.’ But you say, ‘If a man tells his father or his mother, “Whatever you would have gained from me is Corban”’ (that is, given to God)—then you no longer permit him to do anything for his father or mother, thus making void the word of God by your tradition that you have handed down. And many such things you do.”
+>And he said to them, “You have a fine way of rejecting the commandment of God in order to establish your tradition! For Moses said, ‘Honor your father and your mother’; and, ‘Whoever reviles father or mother must surely die.’ But you say, ‘If a man tells his father or his mother, “Whatever you would have gained from me is Corban”’ (that is, given to God)—then you no longer permit him to do anything for his father or mother, thus making void the word of God by your tradition that you have handed down. And many such things you do.”
 
 1\. Do we do what the church says? Do we do what the pastor says?
 

@@ -13,9 +13,12 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-> Ephesians 1:11-14 In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.
 
 ## Your Will Be Done
+
+>Ephesians 1:11-14 In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Father

@@ -18,7 +18,7 @@ We look up all of Romans 8:30 as a chain that begins and ends with God. To that 
 
 There is no whittling or dwindling of numbers as we move along the list, Christ said:
 
-> John 10:28–31 I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
+>John 10:28–31 I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
 The salvation and *thus*, glorification of the people of God are wholly dependent on the Father and the Son by the power of the Holy Spirit alone. This more than an unbreakable chain, to which there has never been a scheme or power by Satan powerful enough to break. This chain is unbreakable by the power of God and the logic of God: for no child saved by God is lost by God.
 

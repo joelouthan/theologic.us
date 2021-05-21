@@ -12,11 +12,11 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:37 No, in all these things we are more than conquerors through him who loved us
+>Romans 8:37 No, in all these things we are more than conquerors through him who loved us
 
 All of the questions, pushbacks, and opposition that Paul was facing with teaching this one particular truth of God as a through but simple exposition of Christ’s own words when He said:
 
-> I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”[^1]
+>I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”[^1]
 
 Now you would think that people, especially devout Christians, would welcome this bold and declarative statement of our own Lord and Savior Jesus Christ with great affection upon our hearts and great peace for our souls. Sad to say, there are many Christians today who would vehemently contend that, yes, it is certainly possible for one person to lose their salvation.
 
@@ -28,7 +28,7 @@ Christians know this not as a truth that can be selected from a multiple choice 
 
 Now, some of you who know Christian history know for every martyr burned at the stake, many did deny Jesus to save their own lives. What about them? Did you know that one of the discussions in the church were whether or not to allow these people back into the fellowship of believers? Now, what each individual church decided, I do not know. However, just as Christ said:
 
-> Luke 12:8–9 “And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God, but the one who denies me before men will be denied before the angels of God.
+>Luke 12:8–9 “And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God, but the one who denies me before men will be denied before the angels of God.
 
 and further prophecies that Peter himself would not just deny Christ once but three times[^2], but it was the same Christ in John 21 who called and confirmed Peter not once but three times.
 
@@ -36,11 +36,11 @@ So what about now? We have so many people who grew up in churches who then decid
 
 And we would say, “I have seen them move in the power of the Spirit. How can they be not saved before?” To which I would state that the author of Hebrews already addressed this:
 
-> Hebrews 6:4–6 For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt.
+>Hebrews 6:4–6 For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt.
 
 to explain what Christ said:
 
-> Matthew 7:21–23 “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
+>Matthew 7:21–23 “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
 
 I say this never to say “once saved always saved.” I am not even going to try to explain it away by giving the excuse of “perhaps they were not saved, to begin with” as though I had the God-alone power that searches and knows the hearts and minds of every person in the world because I do not.
 
@@ -60,7 +60,7 @@ But if that is being the case, the fact that we are weak, how on earth does Paul
 
 My friends, we do not wage war against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.[^3] This is not a battlefield that you or I have ever seen in wartime nor even in history books nor video games. It is a war that God started not with a warhorn blasting through the sky but with a simple righteous declaration of redemption and restoration:
 
-> Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”
+>Genesis 3:15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”
 
 And when the saints of God, after going 400 years without hearing a prophet of God, heard the voice of John the Baptist crying out in the wilderness, “Make the straight the way of the Lord!”
 
@@ -68,7 +68,7 @@ And then the final battle cry that is the gospel of Jesus Christ, who commanded 
 
 Jesus makes his intentions well-known:
 
-> Matthew 10:34 “Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.
+>Matthew 10:34 “Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.
 
 Jesus Christ, the Commander of the Most High, the King of kings, and Lord of lords, begins his perfect, unbeatable, unstoppable, conquering juggernaut not towards overthrowing some pitiful Greco-Roman empire but rather to His cross where he died for each of those whom he predestined, called, justified and glorified.
 

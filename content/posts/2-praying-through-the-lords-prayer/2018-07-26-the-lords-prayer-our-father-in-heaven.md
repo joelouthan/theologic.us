@@ -13,14 +13,18 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-> Romans 8:14-17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
 
 ## Our Father In Heaven
+
+>Romans 8:14-17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Jesus
 </div>
 
+```text
 You have told me this so that I may know this: I can now come to the Father. My Father is mindful of me, and His will has already dictated our relationship to be so. You have done all the work. The Spirit bears witness with my Spirit that I am a child of God. This same Spirit that raised You from the grave dwells in me. As the Holy Spirit lives in me, He gives me the power, the right and privilege to go and be with the Father.
 
 Father, I cannot think of You like some cruel, ruthless, thoughtless, mindless man voided of compassion and love. I dare not compare You in light of an earthly father. You are exalted and high and lifted up, all earthly fathers held in the view of You. You, O God, are good and do nothing but good.
@@ -42,3 +46,4 @@ Why did You save me? I have not a clue. I did nothing to deserve Your gracious a
 All I know is that I was once lost, now found; once blind, now I can see; once dead; now fully alive in You.All because of what You have done.
 
 I love You, my God.
+```

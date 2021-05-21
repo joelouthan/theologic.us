@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:23 And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.
+>Romans 8:23 And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.
 
 My mother abandoned me when I was five years old and I never seen her since. My father physically, emotionally, mentally, and sexually abused me when I was a child. While I have “grown” physically, my heart and my emotional growth stunted to that of a child. It is only by the grace of God and the beautiful love and patience of my wonderful wife and friends that I have emotionally matured in the last couple of years.  However, despite that growth, I have a long ways to go before I can considered myself emotionally mature.
 

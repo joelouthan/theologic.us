@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:16 The Spirit himself bears witness with our spirit that we are children of God,
+>Romans 8:16 The Spirit himself bears witness with our spirit that we are children of God,
 
 _What can I say when I am in the presence of the Almighty God?_
 

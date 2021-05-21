@@ -40,9 +40,9 @@ I think when we understand what it is for the righteous to live by faith, we too
 
 And the best way I can describe it is this quote which I pray daily:
 
-> **"On Christ's glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy."**
-> 
-> John Owen. The Glory of Christ.
+>**"On Christ's glory I would fix all my thoughts and desires, and the more I see of the glory of Christ, the more the painted beauties of this world will wither in my eyes and I will be more and more crucified to this world. It will become to me like something dead and putrid, impossible for me to enjoy."**
+>
+>John Owen. The Glory of Christ.
 
 Even more than that:
 

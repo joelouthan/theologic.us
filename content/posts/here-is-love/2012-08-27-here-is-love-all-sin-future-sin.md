@@ -14,7 +14,7 @@ draft: false
 ---
 Here is love:
 
-> Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
+>Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
 
 I am confident that 99.8% of people reading this was born in the 20th century. Historically speaking, Christ died about 2000 years ago. I am going to link these two ideas in one moment.
 

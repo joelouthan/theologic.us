@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:9 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.
+>Romans 8:9 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.
 
 In modern times, we tend to talk about mankind’s achievements and possibilities. To the modern mind, humans have achieved so much and therefore, mankind’s possibilities are endless. Likewise, to the individual, we can achieve anything. All we need to do is to work hard enough and get a good education.
 

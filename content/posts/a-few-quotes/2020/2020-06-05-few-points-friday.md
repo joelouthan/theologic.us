@@ -16,11 +16,11 @@ draft: false
 
 If you know Dr. Thompson's work, especially in his book *The Anatomy of the Soul*, give this great episode a listen.
 
-> "We did have this one woman, been in for 30 days [drug and alcohol addiction recovery]. She told a story that was so bad, it brought the room to silence because it involved the fact she was a meth addict and she sold a child to get drugs. She just did one thing after another that made you go, 'oh my gosh!'.
+>"We did have this one woman, been in for 30 days [drug and alcohol addiction recovery]. She told a story that was so bad, it brought the room to silence because it involved the fact she was a meth addict and she sold a child to get drugs. She just did one thing after another that made you go, 'oh my gosh!'.
 >
-> Most of the time, at the end of it, most people would clap or cheer or raise their hands or say, 'this is how I identify with your story' or 'this is how I did the same thing'.
+>Most of the time, at the end of it, most people would clap or cheer or raise their hands or say, 'this is how I identify with your story' or 'this is how I did the same thing'.
 >
-> But we were all, just for a moment, silent. This poor gal, standing in front of the room with 40-50 people looking at her. And from the back of the room, there was this old lady--this was Connecticut and she was an heiress--and she would literally smoke one cigarette after another. She would come in with these beautiful clothes and she was very wise. She had been in the program since Bill W. founded it. So this gal was finished and the room was silent and from the back of the room you hear this, "**the word of the Lord!**  And all of the liturgical minded people in the room immediately responded with, "**Thanks be to God!**""
+>But we were all, just for a moment, silent. This poor gal, standing in front of the room with 40-50 people looking at her. And from the back of the room, there was this old lady--this was Connecticut and she was an heiress--and she would literally smoke one cigarette after another. She would come in with these beautiful clothes and she was very wise. She had been in the program since Bill W. founded it. So this gal was finished and the room was silent and from the back of the room you hear this, "**the word of the Lord!**  And all of the liturgical minded people in the room immediately responded with, "**Thanks be to God!**""
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to connect with Ian Morgan Cron for this Typology podcast. Take a listen.<a href="https://t.co/VKgqZjkGqg">https://t.co/VKgqZjkGqg</a> <a href="https://t.co/64Byd6gIe5">pic.twitter.com/64Byd6gIe5</a></p>&mdash; Curt Thompson (@curt_thompsonmd) <a href="https://twitter.com/curt_thompsonmd/status/1267816946688385027?ref_src=twsrc%5Etfw">June 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

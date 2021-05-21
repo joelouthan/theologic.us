@@ -13,7 +13,7 @@ showtoc: false
 draft: false
 --- 
 
-> Romans 8:31 What then shall we say to these things? If God is for us, who can be against us?
+>Romans 8:31 What then shall we say to these things? If God is for us, who can be against us?
 
 The love of God cannot be simply defined by the merest of affections and words that we might share with one another. Is our relationship to our spouse, children, family, coworkers, or neighbor compare to one’s relationship with God? Although our relationships should be held in the light of God’s relationship with us, it is preposterous to think that anybody we know would compare to God is perfect in all things especially when it comes to love.
 

@@ -13,27 +13,30 @@ showtoc: false
 css: "family-devos"
 draft: false
 ---
-> Psalms 73:21-28 (ESV)  
-> When my soul was embittered,  
-> when I was pricked in heart,  
-> I was brutish and ignorant;  
-> I was like a beast toward you.
+
+## On Earth As Is It In Heaven
+
+>Psalms 73:21-28 (ESV)  
+>When my soul was embittered,  
+>when I was pricked in heart,  
+>I was brutish and ignorant;  
+>I was like a beast toward you.
 >
-> Nevertheless, I am continually with you;  
-> you hold my right hand.  
-> You guide me with your counsel,  
-> and afterward you will receive me to glory.
+>Nevertheless, I am continually with you;  
+>you hold my right hand.  
+>You guide me with your counsel,  
+>and afterward you will receive me to glory.
 >
-> Whom have I in heaven but you?  
-> And there is nothing on earth that I desire besides you.  
-> My flesh and my heart may fail,  
-> but God is the strength of my heart and my portion forever.
+>Whom have I in heaven but you?  
+>And there is nothing on earth that I desire besides you.  
+>My flesh and my heart may fail,  
+>but God is the strength of my heart and my portion forever.
 >
-> For behold, those who are far from you shall perish;  
-> you put an end to everyone who is unfaithful to you.  
-> But for me it is good to be near God;  
-> I have made the Lord GOD my refuge,  
-> that I may tell of all your works.
+>For behold, those who are far from you shall perish;  
+>you put an end to everyone who is unfaithful to you.  
+>But for me it is good to be near God;  
+>I have made the Lord GOD my refuge,  
+>that I may tell of all your works.
 
 ```text
 Fear not, then the darkest cloud, nor the proudest waves, nor the deepest wants,—in these very things you shall, through Christ, prove triumphant. Nor shrink from the battle with “last enemy”. Death received a death-wound when Christ died. You face a conquered foe. He stands at your side a crownless king, and waving a broken spectre. Your death shall be another victory over the believer’s last foe. Planting your foot of faith upon his prostrate neck, you shall spring into glory, more than a conqueror, through him that loved you. Thus passing to glory in triumph, you shall go to swell the ranks of the “noble army of martyrs”—those Christian heroes of whom it is recorded, 
@@ -43,12 +46,13 @@ THEY OVERCAME HIM BY THE BLOOD OF THE LAMB.
 Winslow, Octavius. No Condemnation in Christ Jesus. Banner of Truth Trust, 1853.
 ```
 
-## On Earth As Is It In Heaven
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Lord
 </div>
 
+```text
 We sit and yearn and pray for You to come back, Lord Jesus. Come back and take us home. We want for our hopes, wants, dreams and desires to be in You alone. This is what separates believers from the unbeliever: we hope and trust that You will make all things right-standing with You. We have read Your promises and we earnestly believe in them. The weight of sin and the weight of a broken universe are too much to bear. Our backs are broken from under the heavy load. Our eyes sting from the sweat of this intense labor. Our muscles twitch in a mere moment from collapsing, because we can bear it no more.
 
 This momentary moment of affliction racks our souls with the sharpest and more torturous pain. This sufferings of this present time are simply too much.
@@ -90,3 +94,4 @@ So, is there anything in all of creation that can separate me from Your love, wh
 Then, my Lord and my God, let your will be done on earth as it is in heaven.
 
 Amen.
+```

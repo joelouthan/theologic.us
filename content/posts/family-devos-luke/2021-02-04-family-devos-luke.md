@@ -113,7 +113,7 @@ How can we be saved?
 
 ## Christ Invites Us to Talk to God
 
-> Luke 11:1–4 (CSB) He was praying in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”  He said to them, “Whenever you pray, say, Father, your name be honored as holy. Your kingdom come.  Give us each day our daily bread.  And forgive us our sins, for we ourselves also forgive everyone in debt to us. And do not bring us into temptation.”
+>Luke 11:1–4 (CSB) He was praying in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”  He said to them, “Whenever you pray, say, Father, your name be honored as holy. Your kingdom come.  Give us each day our daily bread.  And forgive us our sins, for we ourselves also forgive everyone in debt to us. And do not bring us into temptation.”
 
 ```text
 1. Read Isaiah 6:1-4 and Revelation 4:1-11. In what ways do we worship God like the angels?
@@ -125,9 +125,9 @@ How can we be saved?
 
 ## Christ Invites Us to Ask For God
 
-> Luke 11:5–13 (CSB) He also said to them, “Suppose one of you has a friend and goes to him at midnight and says to him, ‘Friend, lend me three loaves of bread,  because a friend of mine on a journey has come to me, and I don’t have anything to offer him.’  Then he will answer from inside and say, ‘Don’t bother me! The door is already locked, and my children and I have gone to bed. I can’t get up to give you anything.’  I tell you, even though he won’t get up and give him anything because he is his friend, yet because of his friend’s shameless boldness, he will get up and give him as much as he needs.
+>Luke 11:5–13 (CSB) He also said to them, “Suppose one of you has a friend and goes to him at midnight and says to him, ‘Friend, lend me three loaves of bread,  because a friend of mine on a journey has come to me, and I don’t have anything to offer him.’  Then he will answer from inside and say, ‘Don’t bother me! The door is already locked, and my children and I have gone to bed. I can’t get up to give you anything.’  I tell you, even though he won’t get up and give him anything because he is his friend, yet because of his friend’s shameless boldness, he will get up and give him as much as he needs.
 >
-> “So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you.  For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened.  What father among you, if his son asks for a fish, will give him a snake instead of a fish?  Or if he asks for an egg, will give him a scorpion?  If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
+>“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you.  For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened.  What father among you, if his son asks for a fish, will give him a snake instead of a fish?  Or if he asks for an egg, will give him a scorpion?  If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
 
 ```text
 What happens when you go to God, sit with God, pray to God, and ask for God, what are you getting in return?

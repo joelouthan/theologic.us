@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:28 And we know that for those who love God all things work together for good, for those who are called according to his purpose.
+>Romans 8:28 And we know that for those who love God all things work together for good, for those who are called according to his purpose.
 
 Herein lies love: all things work together for good for those who love God. Within our world, one might dare to ask, “What about those who don’t love God? What about my friend or neighbor or co-worker who is basically a good guy or gal? What about them?”
 

@@ -13,7 +13,10 @@ showtoc: false
 css: "family-devos"
 draft: false
 ---
-> Matthew 16:15-19 He said to them, “But who do you say that I am?” Simon Peter replied, “You are the Christ, the Son of the living God.” And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.
+
+## Your Kingdom Come
+
+>Matthew 16:15-19 He said to them, “But who do you say that I am?” Simon Peter replied, “You are the Christ, the Son of the living God.” And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.
 
 ```text
 There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: ‘Mine!’
@@ -21,12 +24,13 @@ There is not a square inch in the whole domain of our human existence over which
 Abraham Kuyper
 ```
 
-## Your Kingdon Come
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My God
 </div>
 
+```text
 You are God. You are so exalted and so glorious that You have declared Your only begotten Son the King of kings and the Lord of lords .
 
 You are God above all of our made-up gods created by our wicked hearts and hands.
@@ -58,3 +62,4 @@ To the dead, You bring the true life, the fullness of joy and pleasures evermore
 All that You have asked of is that we trust in You.
 
 Amen.
+```

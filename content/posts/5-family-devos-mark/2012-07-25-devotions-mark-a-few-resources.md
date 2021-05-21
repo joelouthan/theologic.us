@@ -68,7 +68,7 @@ Sheer luck (aka sheer blessing from God) that I ran into a small incomplete set 
 
 From the article:
 
-> In his influential work Israel and Prophecy, written a year after the 1967 war, and still in print, Hendriksen criticized the view, held by dispensationalists and Christian Zionists, that the Bible prophesies the return and restoration of the Jews to the land of Israel.[^1] Dispensationalist pastor Barry Horner describes Hendriksen's work as "a classic representation of replacement theology".[^2]
+>In his influential work Israel and Prophecy, written a year after the 1967 war, and still in print, Hendriksen criticized the view, held by dispensationalists and Christian Zionists, that the Bible prophesies the return and restoration of the Jews to the land of Israel.[^1] Dispensationalist pastor Barry Horner describes Hendriksen's work as "a classic representation of replacement theology".[^2]
 
 Make no bones about it: it grieves me to the core that Dispensationalism is the auto-default eschatology of too many American Evangelical churches--including every single church I have ever attended in my life with the exception of the church I attend now. It saddens and frustrates me that I was born into a church that automatically taught a doctrine that was born within the 20th century. But as with anything, theology and doctrine are to be taught and never assumed.
 

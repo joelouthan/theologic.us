@@ -53,9 +53,9 @@ Let all of life wear me down. And then watch the Father come running after me to
 
 Let death come knocking on my door.
 
-> > But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God.
-> >
-> >Octavius Winslow. No Condemnation In Christ. Banner of Truth. 385.
+>> But yet, Death is a defeated foe because my Savior championed over Death. I will step on Death’s prostrated neck and spring forth to glory and perfect relationship with God.
+>>
+>>Octavius Winslow. No Condemnation In Christ. Banner of Truth. 385.
 
 Let angels, rulers, and powers come at me! For my Christ Jesus is the Commander of the Most High and the Grand Champion and Conqueror over Satan, demons, sin, hell, and death. He is my shield, my sword, strong tower and mighty fortress. I shall not be moved!
 

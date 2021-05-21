@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:8 Those who are in the flesh cannot please God.
+>Romans 8:8 Those who are in the flesh cannot please God.
 
 _Is this true?_
 

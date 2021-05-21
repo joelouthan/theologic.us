@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:33 Who shall bring any charge against God’s elect? It is God who justifies.
+>Romans 8:33 Who shall bring any charge against God’s elect? It is God who justifies.
 
 This world and its inhabitants, princes, rulers, and principalities crouching, and ready to pounce and devour your heart and soul. They are not always going to do it with outright accusations, but they might resort to that.
 

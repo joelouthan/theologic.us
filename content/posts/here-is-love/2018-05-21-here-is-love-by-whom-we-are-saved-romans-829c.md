@@ -12,11 +12,11 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
+>Romans 8:29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
 
 When we speak of Romans 8, most Christians rightfully cling to the verse 1: **There is therefore now no condemnation for those who are in Christ Jesus**. But Romans 8:1 is not the very first line of this epistle from Paul to the church in Rome. What I am getting to is that idea didn’t just come out of nowhere. What was Paul responding to? Perhaps we can look at the verses right before:
 
-> Romans 7:24–25 Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh, I serve the law of sin.
+>Romans 7:24–25 Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh, I serve the law of sin.
 
 Seem familiar? Don’t we hear the same desperation in anyone, who by the grace of God, see their own sins as an affront and treason against holy and loving God? It is the great cry of the tax collector, “&#8230; standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’” [^1]
 
@@ -24,15 +24,15 @@ Seem familiar? Don’t we hear the same desperation in anyone, who by the grace 
 
 Even more than that, it seems to be the same question Isaiah asked:
 
-> Isaiah 64:5–6 (CSB)
-> You welcome the one who joyfully does what is right;  
-> they remember you in your ways.  
-> But we have sinned, and you were angry.  
-> How can we be saved if we remain in our sins?  
-> All of us have become like something unclean,  
-> and all our righteous acts are like a polluted garment;  
-> all of us wither like a leaf,  
-> and our iniquities carry us away like the wind.
+>Isaiah 64:5–6 (CSB)
+>You welcome the one who joyfully does what is right;  
+>they remember you in your ways.  
+>But we have sinned, and you were angry.  
+>How can we be saved if we remain in our sins?  
+>All of us have become like something unclean,  
+>and all our righteous acts are like a polluted garment;  
+>all of us wither like a leaf,  
+>and our iniquities carry us away like the wind.
 
 Isaiah the great prophet, to whom Christ unraveled his glory before him and Christ then sent an angel to touch Isaiah’s lips with a hot coal and cleansed his soul from all unrighteousness even asked, “Shall we be saved?”
 
@@ -48,19 +48,19 @@ If the Bible is all about Jesus, then logic and reason dictate that salvation co
 
 Let’s see what the rest of the Bible says:
 
-> Acts 4:12 And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”
+>Acts 4:12 And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”
 
-> John 1:12–13 But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+>John 1:12–13 But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
 
-> Romans 5:9-10 Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.
+>Romans 5:9-10 Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God.  For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.
 
-> 1 Corinthians 15:1–11 Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved if you hold fast to the word I preached to you—unless you believed in vain.
+>1 Corinthians 15:1–11 Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved if you hold fast to the word I preached to you—unless you believed in vain.
 >
-> For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas, then to the twelve. Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one untimely born, he appeared also to me. For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me. Whether then it was I or they, so we preach and so you believed.
+>For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures, and that he appeared to Cephas, then to the twelve. Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one untimely born, he appeared also to me. For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me. Whether then it was I or they, so we preach and so you believed.
 
-> Ephesians 2:1–10  And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
+>Ephesians 2:1–10  And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
 
-> Titus 3:3–7  For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior, so that being justified by his grace we might become heirs according to the hope of eternal life.
+>Titus 3:3–7  For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior, so that being justified by his grace we might become heirs according to the hope of eternal life.
 
 And the Old Testament says nothing less about it even despite our “Age of Information” brains who can only search by keywords. Go back and start at the beginning.
 

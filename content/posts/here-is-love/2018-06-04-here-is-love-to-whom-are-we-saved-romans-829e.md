@@ -12,7 +12,7 @@ series:
 showtoc: false
 draft: false
 ---
-> Romans 8:29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
+>Romans 8:29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
 
 When we carefully walked through verse 29 of Romans 8, we saw that there was more than a few questions that rose to the top, namely:
 
@@ -54,7 +54,7 @@ In a strange sense, the salvation plan of God was two-fold: to himself forever a
 
 Now, if you grew up in church, you have heard this verse thrown out just in mere passing that is sometimes used as some sort of heavy-handed law of God. “Don’t you dare miss church OR ELSE!” And I am going to repeat it here just to get it out of the way but not in mere passing but within context. Let us look at the entire passage.
 
-> Hebrews 10:19–25 Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, by the new and living way that he opened for us through the curtain, that is, through his flesh, and since we have a great priest over the house of God, let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. Let us hold fast the confession of our hope without wavering, for he who promised is faithful. And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
+>Hebrews 10:19–25 Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, by the new and living way that he opened for us through the curtain, that is, through his flesh, and since we have a great priest over the house of God, let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. Let us hold fast the confession of our hope without wavering, for he who promised is faithful. And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
 
 We are to meet together not to throw guilt, shame, and condemnation at one another but to build up each other in encouragement. (Sounds familiar? That’s why we have the gifts of the Spirit, particular with the gifts of encouragement and prophecy. )
 
@@ -68,13 +68,13 @@ I have seen too many people who just depart without saying a word to leaders or 
 
 Maybe leaders are not safe either. God acknowledges this. In John 10, Jesus calls shepherds who turn and run at the first sight of danger not actual shepherds but just mere hired hands. But in Jeremiah 23, the Good Shepherd looks after his sheep and if those in charge of the sheep fail to do their job, he will remove them and set up new shepherds. I know that it seems as though those in power always remain in power and seem to be untouchable. But not in His church. And what we are witnessing in America with the cleaning out the house, we are seeing that in His church as well.
 
-> Ephesians 3:7–13 Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power. To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord, in whom we have boldness and access with confidence through our faith in him. So I ask you not to lose heart over what I am suffering for you, which is your glory.
+>Ephesians 3:7–13 Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power. To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord, in whom we have boldness and access with confidence through our faith in him. So I ask you not to lose heart over what I am suffering for you, which is your glory.
 
 Paul will elaborate on the church as a mystery that is similar to marriage with Christ and His Bride later on in chapter 5 starting at verse 20.
 
 This all falls back on what Christ proclaimed to be the greatest and second greatest commandment:
 
-> Matthew 22:36–40 “Teacher, which is the great commandment in the Law?” And he said to him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
+>Matthew 22:36–40 “Teacher, which is the great commandment in the Law?” And he said to him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
 
 Jesus Christ will one day return. Until then, He sits on the throne at the right hand of God. He didn’t leave us as orphans but sent His Spirit, who is God, to come dwell in our hearts forever in an unbreakable love.
 
