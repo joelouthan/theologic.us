@@ -24,7 +24,7 @@ When you read the other gospels, such as Matthew, you will get more of John the 
 
 Yet, when John was done with paving the way for Christ, and then Christ started ministry (only with the fullness of the Holy Spirit).
 
-Because Christ has arrive, the kingdom of God. In other words, when Christ started his ministry, that was the start of the kingdom of God.
+Because Christ has arrived, the kingdom of God has arrived. In other words, when Christ started his ministry, that was the start of the kingdom of God.
 
 >Matthew 16:13-20 (CSB) When Jesus came to the region of Caesarea Philippi, he asked his disciples, “Who do people say that the Son of Man is?”
 >
