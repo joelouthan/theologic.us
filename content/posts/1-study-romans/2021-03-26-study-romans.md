@@ -2,7 +2,7 @@
 title: 'The Study: Romans 8:18-25'
 author: Joseph Louthan
 publishDate: 2021-03-26T06:00:00-06:00
-url: /study-romans/2021-03-26-study-romans/
+url: /bible-study/2021-03-26-study-romans/
 categories:
   - Bible Study
 tags:

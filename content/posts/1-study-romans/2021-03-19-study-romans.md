@@ -2,7 +2,7 @@
 title: 'The Study: Romans 6:15–23'
 author: Joseph Louthan
 publishDate: 2021-03-19T06:00:00-06:00
-url: /study-romans/2021-03-19-study-romans/
+url: /bible-study/2021-03-19-study-romans/
 categories:
   - Bible Study
 tags:

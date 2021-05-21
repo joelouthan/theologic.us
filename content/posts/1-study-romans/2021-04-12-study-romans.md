@@ -2,7 +2,7 @@
 title: "Study: Romans 10:14-21"
 author: Joseph Louthan
 publishDate: 2021-04-12T06:00:00-06:00
-url: /study-romans/2021-04-12-study-romans/
+url: /bible-study/2021-04-12-study-romans/
 categories:
   - Bible Study
 tags:

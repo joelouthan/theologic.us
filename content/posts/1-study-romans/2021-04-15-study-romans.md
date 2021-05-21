@@ -2,7 +2,7 @@
 title: "Study: Romans 11:33-36"
 author: Joseph Louthan
 publishDate: 2021-04-15T06:00:00-06:00
-url: /study-romans/2021-04-15-study-romans/
+url: /bible-study/2021-04-15-study-romans/
 categories:
   - Bible Study
 tags:

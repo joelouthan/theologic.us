@@ -2,7 +2,7 @@
 title: "Study: Romans 10:1-13"
 author: Joseph Louthan
 publishDate: 2021-04-11T06:00:00-06:00
-url: /study-romans/2021-04-11-study-romans/
+url: /bible-study/2021-04-11-study-romans/
 categories:
   - Bible Study
 tags:

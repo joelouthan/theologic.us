@@ -2,7 +2,7 @@
 title: "Study: Romans 9:1-13"
 author: Joseph Louthan
 publishDate: 2021-04-08T06:00:00-06:00
-url: /study-romans/2021-04-08-study-romans/
+url: /bible-study/2021-04-08-study-romans/
 categories:
   - Bible Study
 tags:

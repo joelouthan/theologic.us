@@ -2,7 +2,7 @@
 title: "Study: Romans 8:31"
 author: Joseph Louthan
 publishDate: 2021-04-01T06:00:00-06:00
-url: /study-romans/2021-04-01-study-romans/
+url: /bible-study/2021-04-01-study-romans/
 categories:
   - Bible Study
 tags:

@@ -2,7 +2,7 @@
 title: 'The Study: Romans 8:1-4'
 author: Joseph Louthan
 publishDate: 2021-03-22T06:00:00-06:00
-url: /study-romans/2021-03-22-study-romans/
+url: /bible-study/2021-03-22-study-romans/
 categories:
   - Bible Study
 tags:

@@ -2,7 +2,7 @@
 title: "Study: "
 author: Joseph Louthan
 publishDate: 2021-05-20T06:00:00-06:00
-url: /study-romans/2021-05-20-study-romans/
+url: /bible-study/2021-05-20-study-romans/
 categories:
   - Bible Study
   - Video
