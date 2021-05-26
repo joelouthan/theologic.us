@@ -70,7 +70,7 @@ But Your beautiful, sweet and tender
 love, mercy and grace  
 overflowed for me  
 overwhelmingly  
-undeservingly  
+undeservedly  
 ill-deservingly  
 with your unbroken faithfulness  
 and your relentless love  
