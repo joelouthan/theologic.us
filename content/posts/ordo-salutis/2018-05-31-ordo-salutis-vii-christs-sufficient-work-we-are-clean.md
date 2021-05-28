@@ -3,13 +3,16 @@ title: 'Ordo Salutis VII: Christ’s Sufficient Work, We Are Clean'
 author: Joseph Louthan
 date: 2018-05-31T12:00:27+00:00
 url: /ordo-salutis/ordo-salutis-vii-christs-sufficient-work-we-are-clean/
-featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/05/unnamed.jpg?resize=512%2C340
 categories:
   - Theology
-tags:   - Theology
+tags:
+  - Theology
   - Soteriology
 series:
   - 'Ordo Salutis'
+showtoc: false
+css: prayers
+draft: false
 ---
 This is the magnificence of the True God.
 
@@ -35,21 +38,21 @@ This is the God who died.
 
 This is the God who gave his life up for me.
 
-Jesus Christ stood before his blasphemous people—people who cried and rejoiced with their lips, “Hosanna in the highest!” just days before—now are ready to cry out in a murderous rage to crucify the Son of God who is God. Jesus Christ, the glorious Lord stood side-by-side a convicted murderer, Barabbas as the governor audaciously asked the people, “Who would you rather have living with you in your neighborhoods, shopping in your shops, doing business with, passing by you on the streets? Who do you want: God or a murderer?”
+Jesus Christ stood before his blasphemous people—people who cried and rejoiced with their lips, "Hosanna in the highest!” just days before—now are ready to cry out in a murderous rage to crucify the Son of God who is God. Jesus Christ, the glorious Lord stood side-by-side a convicted murderer, Barabbas as the governor audaciously asked the people, "Who would you rather have living with you in your neighborhoods, shopping in your shops, doing business with, passing by you on the streets? Who do you want: God or a murderer?”
 
 The rational answer is clear. Yet our sinful hearts pick the comforts of sin every time.
 
-In the Old Testament, Aaron stood before the people of Israel and they looked up this live goat. Aaron runs through all of their sins, all of their follies, all of their iniquities and all of their transgressions. With that massive, terrible list, Aaron touches the head of the goat and pushes it through the crowds and directs the goat into the vastness of the wilderness, always lost, always running in freedom and never to be seen again. (Leviticus 16:21-22]
+In the Old Testament, Aaron stood before the people of Israel and they looked up this live goat. Aaron runs through all of their sins, all of their follies, all of their iniquities and all of their transgressions. With that massive, terrible list, Aaron touches the head of the goat and pushes it through the crowds and directs the goat into the vastness of the wilderness, always lost, always running in freedom and never to be seen again. (Leviticus 16:21-22)
 
 Barabbas was presented as the culmination of the best that humanity has to offer as our depravity and wickedness stared us straight in the face. We don’t want better. We don’t want perfection. We want more of our wicked hearts desires. We want not His holiness, His forgiveness, and His love. We want more of what this world can offer.
 
 We pick the goat with all of our sins. We are the ones who picked Barabbas. Yet, just like the goat into the wilderness, Barabbas is forgotten from ancient history, never to be heard from again.
 
-The only thing we have done right is sin. However, by faith alone, we can place those sins on the one who would bear it all for those who have and will come to trust in him. The only thing we have done is allowed the Son of God to be crucified. The only right thing we have said, “Crucify Him!”.
+The only thing we have done right is sin. However, by faith alone, we can place those sins on the one who would bear it all for those who have and will come to trust in him. The only thing we have done is allowed the Son of God to be crucified. The only right thing we have said, "Crucify Him!”.
 
 In his beatings, his whippings, his crowning of thorns, in the nails stabbing through his hands and the spear through his heart were all needed to drain our Savior of his life-giving blood. He had his people to save and He must do it perfectly:
 
-Indeed, under the law, almost everything is purified with blood, and without the shedding of blood, there is no forgiveness of sins. [][1]{#return-note-3442-1.simple-footnote}
+Indeed, under the law, almost everything is purified with blood, and without the shedding of blood, there is no forgiveness of sins. {#return-note-3442-1.simple-footnote}
 
 This is the only way it could be done: violently, excruciatingly, vomit-inducing, and sickly because that is what sin is to our Holy God.
 
@@ -59,42 +62,16 @@ He had to change his people.
 
 He had to cleanse his people so that they can know Him:
 
-And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.” [][2]{#return-note-3442-2.simple-footnote}
+And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.” {#return-note-3442-2.simple-footnote}
 
 He will not be angry at his people forever because He loves them too much. He does not bestow his righteous and just wrath upon his people because his people cannot bear it, to lest they are destroyed and be apart from him forever. His love is as high and as great as the distance between heaven and earth, so too is the same distance our sins, wickedness, and atrocities our removed from us.
 
-Our God is One of compassion. [][3]{#return-note-3442-3.simple-footnote}
+Our God is One of compassion. {#return-note-3442-3.simple-footnote}
 
 This all culminates into His Son who died on the cross, who pour out all of his blood just like a lamb to the slaughter.
 
 We must admit the exceeding sinfulness of our sin. We must be desperate for to someone greater than us to save us.
 
-**If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.** [][4]{#return-note-3442-4.simple-footnote}
+If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. {#return-note-3442-4.simple-footnote}
 
-We call upon him. We look towards him. We reach out and cry, “Lord, have mercy on me, a sinner.” God, who is merciful, gives us His Son because He is the God who actually saves.
-
-<div class="simple-footnotes">
-  <p class="notes">
-    Notes:
-  </p>
-  
-  <ol>
-    <li id="note-3442-1">
-      <span style="background-color: #f5f6f5;">Hebrews 9:22</span> <a href="#return-note-3442-1">&#8617;</a>
-    </li>
-    <li id="note-3442-2">
-      Jeremiah 31:34 <a href="#return-note-3442-2">&#8617;</a>
-    </li>
-    <li id="note-3442-3">
-      Psalm 103:6-14 <a href="#return-note-3442-3">&#8617;</a>
-    </li>
-    <li id="note-3442-4">
-      1 John 1:9 <a href="#return-note-3442-4">&#8617;</a>
-    </li>
-  </ol>
-</div>
-
- [1]: #note-3442-1 "Hebrews 9:22"
- [2]: #note-3442-2 "Jeremiah 31:34"
- [3]: #note-3442-3 "Psalm 103:6-14"
- [4]: #note-3442-4 "1 John 1:9"
+We call upon him. We look towards him. We reach out and cry, "Lord, have mercy on me, a sinner.” God, who is merciful, gives us His Son because He is the God who actually saves.
