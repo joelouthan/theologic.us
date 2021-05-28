@@ -55,7 +55,7 @@ Does the God who created us would be in charge over us? Why or why not?
 
 ------
 
-## Christ is Lord of Faith
+## 🏠Christ is Lord of Faith
 
 Luke 5:17-20 On one of those days, as he was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was with him to heal.<sup></sup>And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before Jesus,<sup></sup>but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before Jesus.<sup></sup>And when he saw their faith, he said, “Man, your sins are forgiven you.”
 
