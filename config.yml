@@ -68,10 +68,10 @@ params:
               url: /series/praying-through-psalms/
             - name: "Gospel Meditations: Pastorals"
               url: /series/gospel-meditations-pastorals/
-            - name: "Family Devotions: Mark"
-              url: /series/family-devotions-mark/
-            - name: "Family Devotions: Luke"
-              url: /series/family-devotions-luke/
+            - name: "Home Devotions: Mark"
+              url: /series/home-devotions-mark/
+            - name: "Home Devotions: Luke"
+              url: /series/home-devotions-luke/
 
     # home-info mode
     homeInfoParams:
