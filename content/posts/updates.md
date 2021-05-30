@@ -22,7 +22,7 @@ By default in any blog software in the world, they want newest post first. Since
 
 I have decided to bring my posts to streaming media.
 
-At the beginning, I thought that podcast was the way to go. To be honest, recording for podcasting is rough on me. I don't know if it is because I am worried about the post-editing process or the fact my braces are causing me triple dry month. I got geared up to do a daily podcasts with my [Bible Study: Romans(/series/bible-study-romans) but recording for podcasts beat me down. Much to my dismay, I shelved the podcasting idea.
+At the beginning, I thought that podcast was the way to go. To be honest, recording for podcasting is rough on me. I don't know if it is because I am worried about the post-editing process or the fact my braces are causing me triple dry month. I got geared up to do a daily podcasts with my [Bible Study: Romans](/series/bible-study-romans) but recording for podcasts beat me down. Much to my dismay, I shelved the podcasting idea.
 
 But something kept drawing me to [Twitch](http://twitch.theologic.us/). While I love playing [StarCraft 2](https://starcraft2.com/en-us/), no one wants to watch me trudge through the metal leagues. (That would be gaming speak for "I suck!") so I really don't know why [Twitch](http://twitch.theologic.us/). But I had a couple people I follow do a sorta gaming-devotional hybrid. That made me want to try doing my Bible Studies live.
 
@@ -65,4 +65,3 @@ Hear at:
 #### Discussion
 
 * [Discord](http://discord.theologic.us)
-
