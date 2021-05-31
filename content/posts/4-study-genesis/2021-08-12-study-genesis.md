@@ -10,7 +10,7 @@ tags:
 series:
   - "Bible Study: Genesis"
 tocopen: true
-css: "family-devos"
+css: "home-devos"
 draft: true
 ---
 ## The Text

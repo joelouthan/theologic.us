@@ -10,7 +10,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "family-devos"
+css: "home-devos"
 draft: false
 ---
 So through prayer and reading the word, I pray that you are working out your own salvation with an actual fear, reverence, awe, worship, and love for our great King.

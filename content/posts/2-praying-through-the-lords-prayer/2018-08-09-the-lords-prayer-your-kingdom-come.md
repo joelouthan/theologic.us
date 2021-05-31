@@ -10,7 +10,7 @@ tags:
 series:
   - "Praying Through: The Lord's Prayer"
 showtoc: false
-css: "family-devos"
+css: "home-devos"
 draft: false
 ---
 

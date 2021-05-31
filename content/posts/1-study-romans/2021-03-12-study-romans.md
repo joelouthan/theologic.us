@@ -11,7 +11,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "family-devos"
+css: "home-devos"
 draft: false
 ---
 ## The Text

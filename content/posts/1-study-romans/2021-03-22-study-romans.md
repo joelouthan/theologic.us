@@ -10,7 +10,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: "family-devos"
+css: "home-devos"
 draft: false
 ---
 >>Now, by the sacrifice of Christ all the sins of the Church are entirely put away. He, the sinless Lamb of God, took them up and bore them away into a land of oblivion, whence even the Divine mind fails to recall them.
