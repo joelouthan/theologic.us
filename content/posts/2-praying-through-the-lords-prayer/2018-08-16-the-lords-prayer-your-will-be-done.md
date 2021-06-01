@@ -14,6 +14,23 @@ css: "prayers"
 draft: false
 ---
 
+## Pray Then Like This
+
+>Matthew 6:9-15 (CSB)
+>“Therefore, you should pray like this:
+>Our Father in heaven,
+>your name be honored as holy.
+>Your kingdom come.
+>Your will be done
+>on earth as it is in heaven.
+>Give us today our daily bread.
+>And forgive us our debts,
+>as we also have forgiven our debtors.
+>And do not bring us into temptation,
+>but deliver us from the evil one.
+>
+>“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+
 ## Your Will Be Done
 
 >Ephesians 1:11-14 In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.

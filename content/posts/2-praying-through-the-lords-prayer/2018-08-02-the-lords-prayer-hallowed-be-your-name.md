@@ -14,6 +14,23 @@ css: "prayers"
 draft: false
 ---
 
+## Pray Then Like This
+
+>Matthew 6:9-15 (CSB)
+>“Therefore, you should pray like this:
+>Our Father in heaven,
+>your name be honored as holy.
+>Your kingdom come.
+>Your will be done
+>on earth as it is in heaven.
+>Give us today our daily bread.
+>And forgive us our debts,
+>as we also have forgiven our debtors.
+>And do not bring us into temptation,
+>but deliver us from the evil one.
+>
+>“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+
 ## Hallowed Be Your Name
 
 >Isaiah 6:1-7 (CSB) In the year that King Uzziah died, I saw the Lord seated on a high and lofty throne, and the hem of his robe filled the temple. Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another:  

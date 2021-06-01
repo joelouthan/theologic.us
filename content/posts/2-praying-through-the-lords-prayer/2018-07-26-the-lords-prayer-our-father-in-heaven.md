@@ -14,6 +14,23 @@ css: "prayers"
 draft: false
 ---
 
+## Pray Then Like This
+
+>Matthew 6:9-15 (CSB)
+>“Therefore, you should pray like this:
+>Our Father in heaven,
+>your name be honored as holy.
+>Your kingdom come.
+>Your will be done
+>on earth as it is in heaven.
+>Give us today our daily bread.
+>And forgive us our debts,
+>as we also have forgiven our debtors.
+>And do not bring us into temptation,
+>but deliver us from the evil one.
+>
+>“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+
 ## Our Father In Heaven
 
 >Romans 8:14-17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.

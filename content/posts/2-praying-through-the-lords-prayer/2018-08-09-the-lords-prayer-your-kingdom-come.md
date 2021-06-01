@@ -14,6 +14,23 @@ css: "home-devos"
 draft: false
 ---
 
+## Pray Then Like This
+
+>Matthew 6:9-15 (CSB)
+>“Therefore, you should pray like this:
+>Our Father in heaven,
+>your name be honored as holy.
+>Your kingdom come.
+>Your will be done
+>on earth as it is in heaven.
+>Give us today our daily bread.
+>And forgive us our debts,
+>as we also have forgiven our debtors.
+>And do not bring us into temptation,
+>but deliver us from the evil one.
+>
+>“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+
 ## Your Kingdom Come
 
 >Matthew 16:15-19 He said to them, “But who do you say that I am?” Simon Peter replied, “You are the Christ, the Son of the living God.” And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.

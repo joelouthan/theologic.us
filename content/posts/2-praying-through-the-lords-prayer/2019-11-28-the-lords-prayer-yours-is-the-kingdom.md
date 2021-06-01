@@ -14,6 +14,23 @@ css: "prayers"
 draft: false
 ---
 
+## Pray Then Like This
+
+>Matthew 6:9-15 (CSB)
+>“Therefore, you should pray like this:
+>Our Father in heaven,
+>your name be honored as holy.
+>Your kingdom come.
+>Your will be done
+>on earth as it is in heaven.
+>Give us today our daily bread.
+>And forgive us our debts,
+>as we also have forgiven our debtors.
+>And do not bring us into temptation,
+>but deliver us from the evil one.
+>
+>“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+
 ## Yours is The Kingdom, O Lord
 
 >1 Chronicles 29:10-18 (ESV) Therefore David blessed the Lord in the presence of all the assembly. And David said: Blessed are you, O Lord, the God of Israel our father, forever and ever.  Yours, O Lord, is the greatness and the power and the glory and the victory and the majesty, for all that is in the heavens and in the earth is yours. Yours is the kingdom, O Lord, and you are exalted as head above all.  Both riches and honor come from you, and you rule over all. In your hand are power and might, and in your hand it is to make great and to give strength to all.  And now we thank you, our God, and praise your glorious name.
