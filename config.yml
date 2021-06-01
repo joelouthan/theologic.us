@@ -64,7 +64,7 @@ params:
               url: series
             - name: "Bible Study: Romans"
               url: /series/bible-study-romans/
-            - name: "Doctrine: Pray Like This-The Lord's Prayer"
+            - name: "Praying Through: The Lord's Prayer"
               url: /series/praying-through-the-lords-prayer/
             - name: "Gospel Meditations: Pastorals"
               url: /series/gospel-meditations-pastorals/
@@ -72,10 +72,6 @@ params:
               url: /series/bible-study-genesis/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
-            - name: "Home Devotions: Luke"
-              url: /series/home-devotions-luke/
-            - name: "Praying Through: The Psalms"
-              url: /series/praying-through-psalms/
 
     # home-info mode
     homeInfoParams:
