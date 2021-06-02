@@ -64,7 +64,7 @@ params:
               url: series
             - name: "Study: Romans"
               url: /series/bible-study-romans/
-            - name: "Praying Through: The Lord's Prayer"
+            - name: "Doctrine: The Lord's Prayer"
               url: /series/praying-through-the-lords-prayer/
             - name: "Gospel Meditations: Pastorals"
               url: /series/gospel-meditations-pastorals/
