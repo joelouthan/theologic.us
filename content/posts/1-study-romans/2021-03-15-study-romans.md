@@ -1,5 +1,5 @@
 ---
-title: 'The Study: Romans 5:1-5'
+title: 'Study: Romans 5:1-5'
 author: Joseph Louthan
 publishDate: 2021-03-15T06:00:00-06:00
 url: /bible-study/2021-03-15-study-romans/

@@ -1,5 +1,5 @@
 ---
-title: 'The Study: Romans 5:6–11'
+title: 'Study: Romans 5:6–11'
 author: Joseph Louthan
 publishDate: 2021-03-16T06:00:00-06:00
 url: /bible-study/2021-03-16-study-romans/

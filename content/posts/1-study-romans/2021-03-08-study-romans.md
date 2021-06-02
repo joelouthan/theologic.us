@@ -1,5 +1,5 @@
 ---
-title: 'The Study: Romans 2:1-16'
+title: 'Study: Romans 2:1-16'
 author: Joseph Louthan
 publishDate: 2021-03-08T06:00:00-06:00
 url: /bible-study/2021-03-08-study-romans/

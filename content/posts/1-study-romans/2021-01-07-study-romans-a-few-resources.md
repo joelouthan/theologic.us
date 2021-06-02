@@ -1,5 +1,5 @@
 ---
-title: '🏠📺The Study: Romans, A Few Resources'
+title: '🏠📺Study: Romans, A Few Resources'
 author: Joseph Louthan
 publishDate: 2021-01-07T06:00:00-06:00
 url: /bible-study/2021-01-07-study-romans-a-few-resources/

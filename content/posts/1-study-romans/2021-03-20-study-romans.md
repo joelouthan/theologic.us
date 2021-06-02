@@ -1,5 +1,5 @@
 ---
-title: 'The Study: Romans 7:1-6'
+title: 'Study: Romans 7:1-6'
 author: Joseph Louthan
 publishDate: 2021-03-20T06:00:00-06:00
 url: /bible-study/2021-03-20-study-romans/

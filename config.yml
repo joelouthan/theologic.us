@@ -62,13 +62,13 @@ params:
               url: updates
             - name: Series
               url: series
-            - name: "Bible Study: Romans"
+            - name: "Study: Romans"
               url: /series/bible-study-romans/
             - name: "Praying Through: The Lord's Prayer"
               url: /series/praying-through-the-lords-prayer/
             - name: "Gospel Meditations: Pastorals"
               url: /series/gospel-meditations-pastorals/
-            - name: "Bible Study: Genesis"
+            - name: "Study: Genesis"
               url: /series/bible-study-genesis/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
