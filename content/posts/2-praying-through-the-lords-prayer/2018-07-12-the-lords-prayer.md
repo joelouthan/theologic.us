@@ -16,22 +16,21 @@ draft: false
 
 ## Pray Then Like This
 
->Matthew 6:5-13 (ESV) “And when you pray, you must not be like the hypocrites. For they love to stand and pray in the synagogues and at the street corners, that they may be seen by others. Truly, I say to you, they have received their reward. But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.
+>Matthew 6:5-15 (CSB) “Whenever you pray, you must not be like the hypocrites, because they love to pray standing in the synagogues and on the street corners to be seen by people. Truly I tell you, they have their reward. But when you pray, go into your private room, shut your door, and pray to your Father who is in secret. And your Father who sees in secret will reward you. When you pray, don’t babble like the Gentiles, since they imagine they’ll be heard for their many words. Don’t be like them, because your Father knows the things you need before you ask him.
 >
->“And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words. Do not be like them, for your Father knows what you need before you ask him. Pray then like this:
->
->“Our Father in heaven,  
->hallowed be your name.  
->Your kingdom come,  
->your will be done,  
+>“Therefore, you should pray like this:  
+>Our Father in heaven,  
+>your name be honored as holy.  
+>Your kingdom come.  
+>Your will be done  
 >on earth as it is in heaven.  
->Give us this day our daily bread,  
->and forgive us our debts,  
+>Give us today our daily bread.  
+>And forgive us our debts,  
 >as we also have forgiven our debtors.  
->And lead us not into temptation,  
->but deliver us from evil.
+>And do not bring us into temptation,  
+>but deliver us from the evil one.
 >
->For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.
+>“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive your offenses.
 
 ## How not to pray
 
@@ -47,7 +46,7 @@ If you did pray in public (blessing over a meal or praying for healing or ending
 
 This is between you and God. This is a precious, private time between you and the Creator of the Universe.
 
-Go and examine the Gospels. Notice how many times does Jesus have to get away, escape, and departed to be himself. We know what he was doing. Christ was praying and speaking with the Father. Don't you think that if you had the perfect relationship with another person for all of your life and all of sudden, you had to go away and be apart from them for about 30 years. How much would you miss them? Jesus, who was in perfect relationship and communion with the Father, missed his Father terribly. Christ desperately tried to balance between ministry and his prayer life. I know none of us don't wrestle with that balance. Not even close.
+Go and examine the Gospels. Notice how many times does Jesus have to get away, escape, and departed to be himself. We know what he was doing. Christ was praying and speaking with the Father. Don't you think that if you had the perfect relationship with another person for all of your life and all of sudden, you had to go away and be apart from them for about 30 years. How much would you miss them? Jesus, who was in perfect relationship and communion with the Father, missed his Father terribly. Christ desperately tried to balance between ministry and his prayer life. I know that not one person in here, myself include, wrestle between prayer and ministry. Yet, prayer is the heaviest lifting.
 
 ### do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words
 
