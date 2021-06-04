@@ -16,12 +16,12 @@ Here is the massive teaching schedule including both in-home and online:
 
 |        Schedule        |                                          Series                                          |
 |:----------------------:|:----------------------------------------------------------------------------------------:|
-|     **Sundays at 7PM** |  Dinner and [Bible Study in Romans](/series/bible-study-romans) at home                  |
-| **Mondays 12PM & 5PM** | [Bible Study in Romans](/series/bible-study-romans)                                      |
-|       **Tuesdays 5PM** | Current: [Praying Through: The Lord's Prayer](/series/praying-through-the-lords-prayer/) |
-|     **Wednesdays 5PM** | [Gospel Meditations in the Pastoral Epistles](/series/gospel-meditations-pastorals/)     |
-|      **Thursdays 5PM** | [Bible Study in Genesis](/series/bible-study-genesis)                                    |
-|        **Fridays 5PM** | [Home Devotions in Mark](/series/home-devotions-mark/)                                   |
+|**Sunday evenings** |  Dinner and [Bible Study in Romans](/series/bible-study-romans) in Metro OKC area|
+| **Monday lunch & evenings** | [Bible Study in Romans](/series/bible-study-romans)                                      |
+|**Tuesdays evenings**|Current: [Praying Through: The Lord's Prayer](/series/praying-through-the-lords-prayer/)|
+|**Wednesdays evenings**| [Gospel Meditations in the Pastoral Epistles](/series/gospel-meditations-pastorals/)|
+|**Thursdays evenings**|[Bible Study in Genesis](/series/bible-study-genesis)|
+|**Fridays evenings** | [Home Devotions in Mark](/series/home-devotions-mark/)|
 
 As always catch us online at:
 
@@ -34,8 +34,6 @@ As always catch us online at:
 * Watch at [youtube.theologic.us](http://youtube.theologic.us)
 
 ### Audio
-
-Hear at:
 
 * Podcast sources at [study.theologic.us](http://study.theologic.us/blog/)
 * [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)
