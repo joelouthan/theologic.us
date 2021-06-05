@@ -1,5 +1,5 @@
 ---
-title: 🏠Mark 1:9-11 Jesus is God
+title: 🏠📺 Mark 1:9-11 Jesus is God
 author: Joseph Louthan
 date: 2012-08-04
 url: /home-devotions/2012-08-04-home-devotions-mark/
@@ -50,3 +50,9 @@ However, the Father, Son, and Spirit communicate perfectly, know perfectly, love
 
 5. What would it mean to be perfectly love each and perfect agree with one another? To have three persons with one mind, one heart and one will?
 ```
+
+## Media
+
+Today's episode at [The Study]()
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
