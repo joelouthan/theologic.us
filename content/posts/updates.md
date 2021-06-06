@@ -42,4 +42,3 @@ As always catch us online at:
 ### Discussion
 
 * [Discord](http://discord.theologic.us)
-* 
