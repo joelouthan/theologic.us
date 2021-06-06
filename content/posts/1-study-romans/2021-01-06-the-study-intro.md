@@ -1,5 +1,5 @@
 ---
-title: '🏠📺Introduction to Theologicus Study'
+title: '🏠📺 Introduction to Theologicus Study'
 author: Joseph Louthan
 date: 2021-01-06T06:00:00-06:00
 url: /bible-study/2021-01-06-study-podcast/
