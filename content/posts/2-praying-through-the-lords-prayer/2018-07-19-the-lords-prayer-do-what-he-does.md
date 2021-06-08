@@ -1,5 +1,5 @@
 ---
-title: 'The Lord’s Prayer: Do What He Does'
+title: '📺 The Lord’s Prayer: Ezekiel 11:19-20 Do What He Does'
 author: Joseph Louthan
 date: 2018-07-19T06:00:00-06:00
 url: /prayer/2018-07-19-praying-through-the-lords-prayer/
@@ -32,9 +32,23 @@ draft: false
 
 ### First, believe and trust in God
 
+How do you do that? First, God has to do the work in order for you to believe and trust in him.
+
 >Ezekiel 11:19-20 And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God.
 
-### Second, Jesus prayed
+All of the Sunday School, seminary, church services, being a preacher's kid, read all the theology books, consistent on your daily Bible readings--none of that will get you to love and worship God. God will have to change your heart and change your mind first.
+
+Now, if you don't believe and trust in God, and you still want to pray to Him. Go for it. But you are going to have to ask for something first.
+
+>Luke 11:9-13 (CSB) “So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
+
+What is the point?
+
+God is the ultimate good. Go to God and ask for God. When you do that, you will get God.
+
+You have to have God first before you can pray to him. How do you pray to God when you don't have God? That doesn't make sense.
+
+### Second, note that Jesus, our Lord and Savior prayed
 
 >Matthew 14:22-23 (CSB) Immediately he made the disciples get into the boat and go ahead of him to the other side, while he dismissed the crowds. After dismissing the crowds, he went up on the mountain by himself to pray. Well into the night, he was there alone.
 
@@ -50,7 +64,7 @@ draft: false
 
 >John 17:9-19 (CSB) I pray for them. I am not praying for the world but for those you have given me, because they are yours. Everything I have is yours, and everything you have is mine, and I am glorified in them. I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, protect them by your name that you have given me, so that they may be one as we are one. While I was with them, I was protecting them by your name that you have given me. I guarded them and not one of them is lost, except the son of destruction, so that the Scripture may be fulfilled. Now I am coming to you, and I speak these things in the world so that they may have my joy completed in them. I have given them your word. The world hated them because they are not of the world, just as I am not of the world. I am not praying that you take them out of the world but that you protect them from the evil one. They are not of the world, just as I am not of the world. Sanctify them by the truth; your word is truth. As you sent me into the world, I also have sent them into the world. I sanctify myself for them, so that they also may be sanctified by the truth.
 
-### Third, we are commanded to pray
+### Last, pray because God told us to pray
 
 >Matthew 6:5-9
 
@@ -94,9 +108,13 @@ If you stop praying for a while, get back on the horse. Don't grieve over not pr
 
 Some of y'all act like prayer doesn't work.
 
+>James 1:5-8 (CSB) Now if any of you lacks wisdom, he should ask God—who gives to all generously and ungrudgingly—and it will be given to him. But let him ask in faith without doubting. For the doubter is like the surging sea, driven and tossed by the wind. That person should not expect to receive anything from the Lord, being double-minded and unstable in all his ways.
+
+That's called double-mindedness. Don't pray if you don't think God will answer. You pray because you know that God will answer.
+
 Let me give you a real life example.
 
-I knew of this little old lady. Lived to about 88 years old. Love the Lord her God. Was blessed with a husband, three boys and adopted a little girl. This little old lady prayed every day and every night that God would save her family.
+I know this little old lady. Lived to about 88 years old. Love the Lord her God. Was blessed with a husband, three boys and adopted a little girl. This little old lady prayed every day and every night that God would save her family.
 
 Husband lost his good sense and ran away with some other woman. This lady promptly drove to Phoenix in their family station wagon, picked his sorry butt up and brought him home. A few months later was diagnosed with prostate cancer and passed away after that diagnosis pretty quickly.
 
@@ -106,25 +124,25 @@ Their youngest son was the worst kind of human being. Porn absolutely wrecked hi
 
 The little old lady continued to pray.
 
-And then his son (her grandson), while thank God did not hurt any children, did the lion's share of his own sexual immorality. You might be thinking, "Lion's share? How can you top adultery and child molestation?" Her grandson was introduced by his dad to porn at the age of 5. And it had gripped his heart for all of his life. His addiction became so crippling that he went to go work in the porn industry just as the internet was coming online. Websits, photos, videos, recruiting--whatever it took in order to feed his wicked heart.
+And then his son (her grandson), while thank God did not hurt any children, did the lion's share of his own sexual immorality. You might be thinking, "Lion's share? How can you top adultery and child molestation?" Her grandson was introduced by his dad to porn at the age of 5. And it had gripped his heart for all of his life. His addiction became so crippling that he went to go work in the porn industry just as the internet was coming online. Websites, servers, photos, videos, recruiting--whatever it took in order to feed his wicked heart.
 
 Yet, the little old lady continued to pray.
 
-How did God respond?
+How did God respond to this little old pray who prayed for years... up until a half a century?
 
-After yanking her husband back from Phoenix, he came to know Christ and repenting of all his sins. Shortly thereafter, around 42 years old, he died from cancer and went to be with the Lord.
+After yanking her husband back from Phoenix, her husband came to know Christ and repenting of all his sins. Shortly thereafter, around 42 years old, he died from cancer and went to be with the Lord.
 
-Her son, who was rotting away in prison, wasn't saved by Christ until he was 56--20 some odd years after being in prison. God gripped his heart so hard to the point when he was finally up for parole, he declined. When the board asked him why, he simply stated, "There are many men in this place who are in darkness. I have the light of God in me. If I leave, who will show them the light of Christ? Therefore, I have to stay." He passed away in prison doing ministry a few years later.
+Her son, who was rotting away in prison, wasn't saved by Christ until he was 56--20 some odd years after being in prison. God gripped his heart so hard, that he gave up what little he had to be with God. Even his supposed future freedom. When he was finally up for parole, he declined. When the board asked him why, he simply stated, "There are many men in this place who are in darkness. I have the light of God in me. If I leave, who will show them the light of Christ? Therefore, I have to stay." He continued to do ministry for a few more years until he went to be with the Lord.
 
-Her grandson, foolishly thought that because he had said some sinner's prayer when he was 8 that he was saved from hell. Never mind the fact that he was dealing in so much porn and living the most depraved, sexual immoral life with no repentance. But then, right before his 32nd birthday, God grabbed a whole of his heart. This man repented before God. Did the young man's life suddenly became awesome and easy? Nope. But this man knew he belonged to God and God belonged to him forever.
+Her grandson, foolishly thought he was saved from damnation and death just because he had said some sinner's prayer when he was 8 years old. Never mind the fact that he was dealing in so much porn and living the most depraved, sexual immoral life with no repentance. But then, right before his 32nd birthday, God grabbed a whole of this man's heart. This man laid everything down and repented before God. Did the young man's life suddenly became awesome and easy? Nope. But this man knew he belonged to God and God belonged to him forever.
 
 This little old lady, by God's sweet grace, got to see each of her prayers answered before she went to be with God.
 
-If this story sounds a little bit personal, because it is. That little old lady was my grandma. Her name is Francis and her husband's name was Jack. Her youngest son in the story, who ended up dying while doing minstry in prison? His name was Joseph.
+If this story sounds a little bit personal, because it is. That little old lady was my grandma. Her name is Francis and her husband's name was Jack. Her youngest son in the story, who ended up dying while doing ministry in prison? His name was Joseph.
 
 His oldest son, the grandson in the story, is me. I am Joseph Jr.. I was the grandson with the crippling porn addiction and the jacked up, messed up life to show for it.
 
-My grandma contended for our lives. And each of us Louthan men went to the utter extremes of sin and depravity to find out that none of that was remotely satisfying. We have sinned way more than the average man. I know that to be sure. God asks in Isaiah, "Is my arm too short to save anyone?" I promise you cannot outsin the salvation of God.
+My grandma contended for our lives. And each of us Louthan men went to the utter extremes of sin and depravity to find out that none of that was remotely satisfying. We have sinned way more than the average man. Yet, I know for a fact that God is the mighty one who saves. God asks in Isaiah, "Is my arm too short to save anyone?" I promise you cannot out sin the salvation of God.
 
 So when Christ commands us to "go and pray", we pray because that is when we get to see the glory of God.
 
@@ -143,3 +161,9 @@ Sometimes when I am so happy and joyful, I will forget to spend time with you. S
 
 Help me not to deprive of my time with you. Help me do what You do.
 ```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-pray-like-this-do-as-he-does/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
