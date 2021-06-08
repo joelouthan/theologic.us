@@ -133,6 +133,12 @@ taxonomies:
     tag: tags
     series: series
 
+Social:
+    facebook: "joseph.louthan"
+    instagram: "josephlouthan"
+    linkedin: "joelouthan"
+    twitter: "josephlouthan"
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
