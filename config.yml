@@ -56,12 +56,8 @@ params:
         imageHeight: 100
         imageTitle: "Car Selfie for LYFE!"
         buttons:
-            - name: Recent Posts
-              url: posts
-            - name: Updates
-              url: updates
-            - name: Series
-              url: series
+            - name: "What is Theologicus?"
+              url: /about/
             - name: "Study: Romans"
               url: /series/bible-study-romans/
             - name: "Doctrine: The Lord's Prayer"
@@ -72,6 +68,12 @@ params:
               url: /series/bible-study-genesis/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
+            - name: Recent Posts
+              url: posts
+            - name: Updates
+              url: updates
+            - name: Series
+              url: series
 
     # home-info mode
     homeInfoParams:

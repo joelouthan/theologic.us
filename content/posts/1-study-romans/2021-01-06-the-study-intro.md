@@ -11,7 +11,7 @@ series:
   - "Bible Study: Romans"
 tocopen: true
 css: "home-devos"
-draft: false
+draft: true
 ---
 
 ## Audio
