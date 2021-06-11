@@ -9,7 +9,7 @@ tags:
   - Matthew
 series:
   - "Praying Through: The Lord's Prayer"
-showtoc: false
+showtoc: true
 css: "home-devos"
 draft: false
 ---
