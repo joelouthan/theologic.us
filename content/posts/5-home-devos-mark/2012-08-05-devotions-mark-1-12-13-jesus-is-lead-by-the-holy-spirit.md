@@ -1,5 +1,5 @@
 ---
-title: 🏠Mark 1:12-13 Jesus is Led by the Holy Spirit
+title: "🏠📺 Mark 1:12-13 Jesus is Led by the Holy Spirit"
 author: Joseph Louthan
 date: 2012-08-05
 url: /home-devotions/2012-08-05-home-devotions-mark/
@@ -45,3 +45,9 @@ If Christ did it, it would not be different for us.
 
 3. What does it look like to be led by the Spirit? Do you think the Spirit will lead us where He led Jesus?
 ```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-112-13-jesus-is-led-by-the-holy-spirit/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
