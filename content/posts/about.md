@@ -5,6 +5,8 @@ date: 2021-06-11T22:41:05.006Z
 url: "/about/"
 draft: false
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
+
 ## What it was
 
 Back in January 2021, I decided to do a daily podcast that did a Bible Study on a book of the Bible. I began writing my first bible study on Romans right away in hopes of getting about two months worth of episodes.
