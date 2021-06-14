@@ -1,5 +1,5 @@
 ---
-title: 'The Lord’s Prayer: Our Father in Heaven'
+title: "📺 The Lord’s Prayer: Our Father in Heaven"
 author: Joseph Louthan
 date: 2018-07-26T06:00:00-06:00
 url: /prayer/2018-07-26-praying-through-the-lords-prayer/
@@ -64,3 +64,9 @@ All I know is that I was once lost, now found; once blind, now I can see; once d
 
 I love You, my God.
 ```
+
+## Media
+
+Today's episode at [The Study]()
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
