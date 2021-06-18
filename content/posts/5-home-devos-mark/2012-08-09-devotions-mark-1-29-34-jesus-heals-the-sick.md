@@ -1,5 +1,5 @@
 ---
-title: Mark 1:29-34 Jesus Rules and Reigns Over All Sickness and Disease
+title: “🏠 Mark 1:29-34 Jesus Rules and Reigns Over All” Sickness and Disease
 author: Joseph Louthan
 date: 2012-08-09
 url: /home-devotions/mark-129-34-jesus-heals-the-sick/
