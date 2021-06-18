@@ -1,5 +1,5 @@
 ---
-title: "🏠 Mark 1:14-15 Jesus is the Good News"
+title: "🏠📺 Mark 1:14-15 Jesus is the Good News"
 author: Joseph Louthan
 date: 2012-08-06
 url: /home-devotions/mark-114-15-jesus-is-the-good-news/
@@ -22,7 +22,7 @@ draft: false
 
 When you read the other gospels, such as Matthew, you will get more of John the Baptist preaching, "Repent for the kingdom of God is near."
 
-Yet, when John was done with paving the way for Christ, and then Christ started ministry (only with the fullness of the Holy Spirit).
+Yet, when John was done with paving the way for Christ, and then Christ started ministering--only with the fullness of the Holy Spirit.
 
 Because Christ has arrived, the kingdom of God has arrived. In other words, when Christ started his ministry, that was the start of the kingdom of God.
 
@@ -61,3 +61,9 @@ What does it mean to trust in God?
 
 3. What is the gospel? Tell me some of the things you think the gospel of God is.
 ```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-114-15-jesus-is-the-good-news/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
