@@ -1,5 +1,5 @@
 ---
-title: 'Luke 5: Christ is Lord Over Everything'
+title: '🏠 Luke 5: Christ is Lord Over Everything'
 author: Joseph Louthan
 publishDate: 2020-07-02T06:00:00-06:00
 url: /home-devotions/2020-07-02-home-devotions-luke/
@@ -13,7 +13,7 @@ css: "home-devos"
 draft: false
 ---
 
-## 🏠Christ is Lord of All of Creation
+## Christ is Lord of All of Creation
 
 >Luke 5:1–7 (CSB) As the crowd was pressing in on Jesus to hear God’s word, he was standing by Lake Gennesaret.  He saw two boats at the edge of the lake; the fishermen had left them and were washing their nets.  He got into one of the boats, which belonged to Simon, and asked him to put out a little from the land. Then he sat down and was teaching the crowds from the boat.  When he had finished speaking, he said to Simon, “Put out into deep water and let down your nets for a catch.”  “Master,” Simon replied, “we’ve worked hard all night long and caught nothing. But if you say so, I’ll let down the nets.”  When they did this, they caught a great number of fish, and their nets began to tear.  So they signaled to their partners in the other boat to come and help them; they came and filled both boats so full that they began to sink.
 
@@ -29,7 +29,7 @@ Can God control the weather?
 
 ------
 
-## 🏠Christ is Lord of Salvation
+## Christ is Lord of Salvation
 
 >Luke 5:8–11 (CSB) When Simon Peter saw this, he fell at Jesus’s knees and said, “Go away from me, because I’m a sinful man, Lord!”  For he and all those with him were amazed at the catch of fish they had taken,  and so were James and John, Zebedee’s sons, who were Simon’s partners. “Don’t be afraid,” Jesus told Simon. “From now on you will be catching people.”  Then they brought the boats to land, left everything, and followed him.
 
@@ -45,7 +45,7 @@ What are the immediate and ultimate effects of sin? Can those effects happen in 
 
 ------
 
-## 🏠Christ is Lord of Our Bodies
+## Christ is Lord of Our Bodies
 
 >Luke 5:12-16 While he was in one of the cities, there came a man full of leprosy. And when he saw Jesus, he fell on his face and begged him, “Lord, if you will, you can make me clean.” And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately the leprosy left him. And he charged him to tell no one, but “go and show yourself to the priest, and make an offering for your cleansing, as Moses commanded, for a proof to them.” But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities. But he would withdraw to desolate places and pray.
 
@@ -55,7 +55,7 @@ Does the God who created us would be in charge over us? Why or why not?
 
 ------
 
-## 🏠Christ is Lord of Faith
+## Christ is Lord of Faith
 
 >Luke 5:17-20 On one of those days, as he was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was with him to heal. And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before Jesus, but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before Jesus. And when he saw their faith, he said, “Man, your sins are forgiven you.”
 
@@ -75,7 +75,7 @@ Is faith in God an ultimate good thing?
 
 ------
 
-## 🏠Christ is Lord Who Forgives Sins
+## Christ is Lord Who Forgives Sins
 
 >Luke 5:21-26 And the scribes and the Pharisees began to question, saying, “Who is this who speaks blasphemies? Who can forgive sins but God alone?” When Jesus perceived their thoughts, he answered them, “Why do you question in your hearts? Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Rise and walk’? But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the man who was paralyzed—“I say to you, rise, pick up your bed and go home.” And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God. And amazement seized them all, and they glorified God and were filled with awe, saying, “We have seen extraordinary things today.”
 
@@ -87,7 +87,7 @@ Why would this be such a difficult thing to do?
 
 ------
 
-## 🏠Christ is Lord of Work
+## Christ is Lord of Work
 
 >Luke 5:27-28 After this he went out and saw a tax collector named Levi, sitting at the tax booth. And he said to him, “Follow me.” And leaving everything, he rose and followed him.
 
@@ -99,7 +99,7 @@ What do you want to do in life? Have you ever asked God what he wants you to do 
 
 ------
 
-## 🏠Christ is Lord of Righteousness
+## Christ is Lord of Righteousness
 
 >Luke 5:29 And Levi made him a great feast in his house, and there was a large company of tax collectors and others reclining at table with them. And the Pharisees and their scribes grumbled at his disciples, saying, “Why do you eat and drink with tax collectors and sinners?” And Jesus answered them, “Those who are well have no need of a physician, but those who are sick. I have not come to call the righteous but sinners to repentance.”
 
@@ -115,7 +115,7 @@ What can God do with our own righteousness?
 
 ------
 
-## 🏠Christ is the Lord of the Church
+## Christ is the Lord of the Church
 
 >Luke 5:33 And they said to him, “The disciples of John fast often and offer prayers, and so do the disciples of the Pharisees, but yours eat and drink.” And Jesus said to them, “Can you make wedding guests fast while the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast in those days.”
 
@@ -135,7 +135,7 @@ Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multi
 
 ------
 
-## 🏠Christ is the Lord of Making All Things New
+## Christ is the Lord of Making All Things New
 
 >Luke 5:36 He also told them a parable: “No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old. And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed. But new wine must be put into fresh wineskins. And no one after drinking old wine desires new, for he says, ‘The old is good.’ ”
 
