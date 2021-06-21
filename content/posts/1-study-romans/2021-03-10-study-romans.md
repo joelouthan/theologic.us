@@ -45,6 +45,10 @@ draft: false
 >for how can I be defiled?   
 >I will not give my glory to another.  
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is glorious.
@@ -61,8 +65,6 @@ Theologians have called this the Aseity of God--the simplicity of God. If you ar
 >Before the mountains were brought forth,  
 >or ever you had formed the earth and the world,  
 >from everlasting to everlasting you are God.  
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

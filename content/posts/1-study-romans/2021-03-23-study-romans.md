@@ -29,6 +29,10 @@ You can think or contend or go easy and say, "All paths lead to God." To which I
 
 [^1]: Oh I wish I was clever enough to come up with this. I am not. Unfortunately, I don't know who said it. I feel like it was Dr. Steven Lawson or R.C. Sproul or at least someone from that camp.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God alone is life.
@@ -40,8 +44,6 @@ God alone is life.
 >John 6:68-69 (CSB) Simon Peter answered, “Lord, to whom will we go? You have the words of eternal life. We have come to believe and know that you are the Holy One of God.”
 
 There is one God. He is the Creator of Heaven and Earth. He is without a beginning nor a end because he alone is the Beginning and the End.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

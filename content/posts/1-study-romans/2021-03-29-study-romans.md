@@ -25,6 +25,10 @@ draft: false
 
 >Romans 8:27 And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God calls us according to his purpose.
@@ -88,8 +92,6 @@ There are false teachers and prophets in our time in our land trying to make the
 I beg you: stop listening to them. They are promising things that God never promises. They will take a Scripture, and relying on our ignorance of the Bible, twist in such a way that it enforces their false teaching and prophecy.  But God instructs us to cut all prophetic words and all teaching against his word to make sure it stands true.
 
 I say that to say: all things means all things.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

@@ -52,6 +52,10 @@ draft: false
 >
 >After many days had passed, the Jews conspired to kill him, but Saul learned of their plot. So they were watching the gates day and night intending to kill him, but his disciples took him by night and lowered him in a large basket through an opening in the wall.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Just from the life of Saul, who then became Paul, what do we know about God?
@@ -63,8 +67,6 @@ God will save whom he will save.
 >John 1:12–13 (CSB) But to all who did receive him, he gave them the right to be children of God, to those who believe in his name,  who were born, not of natural descent, or of the will of the flesh, or of the will of man, but of God.
 
 >Ephesians 1:5 (CSB) He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

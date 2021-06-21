@@ -51,13 +51,15 @@ The second typical response of rebellion. "That's unfair." You are the one that 
 
 The third response is "where shall we go?". If God is the only one who can save and we are in desperate need of being saved from our sins, to whom can we run to?
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 >Luke 11:5-13 (CSB) He also said to them, “Suppose one of you has a friend and goes to him at midnight and says to him, ‘Friend, lend me three loaves of bread, because a friend of mine on a journey has come to me, and I don’t have anything to offer him.’ Then he will answer from inside and say, ‘Don’t bother me! The door is already locked, and my children and I have gone to bed. I can’t get up to give you anything.’ I tell you, even though he won’t get up and give him anything because he is his friend, yet because of his friend’s shameless boldness, he will get up and give him as much as he needs.
 >
 >“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

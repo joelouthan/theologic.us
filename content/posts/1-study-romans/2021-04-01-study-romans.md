@@ -71,13 +71,15 @@ Romans 8:29 - God promises he will make you look like his Son
 
 Romans 8:30 - Because God is perfect, his glorification of his people is already done in Christ Jesus
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is for us.
 
 So if God is for us, who can be against us? We have already teased out how God saves his people. Not a magic wand but through blood and water and action and calling and voice and doing. Not in logic but in who He is. There are no loopholes. There are no gotchas. There are no spiritual tripwires with God.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

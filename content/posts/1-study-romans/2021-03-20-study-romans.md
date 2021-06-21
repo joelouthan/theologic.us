@@ -21,6 +21,10 @@ draft: false
 
 >Mark 10:1–12 (CSB) He set out from there and went to the region of Judea and across the Jordan. Then crowds converged on him again, and as was his custom he taught them again.  Some Pharisees came to test him, asking, “Is it lawful for a man to divorce his wife?”  He replied to them, “What did Moses command you?”  They said, “Moses permitted us to write divorce papers and send her away.”  But Jesus told them, “He wrote this command for you because of the hardness of your hearts.  But from the beginning of creation God made them male and female.  For this reason a man will leave his father and mother  and the two will become one flesh. So they are no longer two, but one flesh.  Therefore what God has joined together, let no one separate.”  When they were in the house again, the disciples questioned him about this matter.  He said to them, “Whoever divorces his wife and marries another commits adultery against her.  Also, if she divorces her husband and marries another, she commits adultery.”
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God breaks us from the bondage to sin.
@@ -32,8 +36,6 @@ When sin entered into Creation, everything was broken include our relationship w
 Why? Look at what Christ says, "Divorce was permitted because the hardness of your heart."
 
 If you think the point of this study or the Bible is to stay married and never divorce, you are wrong. The point of the Bible is that God is good, Jesus came to save, sin breaks everything and our hearts are hardened because of our sin.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

@@ -100,11 +100,13 @@ And before we are so quick to dismiss this and in thinking "well, I know my gend
 
 So how is that not putting your identity into something other than Christ?
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is all-knowing. Before God created us, He knew us. And when He knew us, he loved us. When he loved us, the Scriptures proclaimed, "He predestines us to Himself."
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

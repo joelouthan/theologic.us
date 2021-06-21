@@ -33,7 +33,11 @@ But all that God did was by his wisdom. God's wisdom was meant for all of creati
 
 Let us see how the wisdom of God was there in beginning. And despite our fallen world, we can see where the wisdom of God permeated unscathed throughout all of time.
 
-## Our God
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
+## God
 
 ### His Wisdom is in the being of the Spirit of God
 
@@ -101,9 +105,6 @@ Let us see how the wisdom of God was there in beginning. And despite our fallen 
 
 When God created mankind, that wisdom was meant for us to use. Because of the perfect relationship and community we once had, we would *truly* had untapped access to the wisdom of God. Now, despite our fallen world, his wisdom perseveres but we no longer have access to it *freely*. For us to know God, we will need God to open our eyes, ears, minds, and hearts in order to see him, hear him, know him, and love him.
 
-```text
-Where do you see God in the text? What does the text say about God?
-```
 
 ## The Gospel
 

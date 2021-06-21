@@ -78,11 +78,13 @@ It is because you are saved by God to God that only now are your works righteous
 
 Anything that is antithetical to the gospel--legalism or disregard for the law of God--are not actual worship to God but sin in the eyes of God.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Only God is worthy to be praised, worship, and adored.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

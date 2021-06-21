@@ -29,6 +29,10 @@ draft: false
 
 >Matthew 23:3-4 (CSB) Therefore do whatever they tell you, and observe it. But don’t do what they do, because they don’t practice what they teach. They tie up heavy loads that are hard to carry and put them on people’s shoulders, but they themselves aren’t willing to lift a finger to move them.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is our righteousness.
@@ -46,8 +50,6 @@ Many of you are trying to bargain with the Almighty God of the Universe and yet 
 And still many of you believe at a young age thinking if you did all the right things, that God would bless you. Most of you all are now just figuring that out that it doesn't work. It doesn't work because self-righteousness, witchcraft, and idolatry.
 
 God is not a little god to be bargain with.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

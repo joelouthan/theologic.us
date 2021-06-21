@@ -34,6 +34,10 @@ draft: false
 
 There is a lot here. Let us walk through the passage.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 ### God has dealt with Israel differently than Gentiles
@@ -75,8 +79,6 @@ Back to Romans 11, starting at verse 16
 >Now if some of the branches were broken off, and you, though a wild olive branch, were grafted in among them and have come to share in the rich root of the cultivated olive tree, do not boast that you are better than those branches. But if you do boast—you do not sustain the root, but the root sustains you. Then you will say, “Branches were broken off so that I might be grafted in.” True enough; they were broken off because of unbelief, but you stand by faith. Do not be arrogant, but beware, because if God did not spare the natural branches, he will not spare you either. Therefore, consider God’s kindness and severity: severity toward those who have fallen but God’s kindness toward you—if you remain in his kindness. Otherwise you too will be cut off. And even they, if they do not remain in unbelief, will be grafted in, because God has the power to graft them in again. For if you were cut off from your native wild olive tree and against nature were grafted into a cultivated olive tree, how much more will these—the natural branches—be grafted into their own olive tree?
 
 God is going to use whomever he will to draw anybody he will. But people are only saved by God alone. We are called to proclaim the gospel and live our lives in response to that great gospel. This passage is to guard against any replacement theology--Gentiles are replacing Jewish people as His chosen people. For the non-Jew, we are simply grafted in by his wonderful grace into this family. We, by faith alone, are called the sons of Abraham. Abraham believed the gospel of God and it was counted to him as righteousness. For those of us who believe in the gospel of God, that counts as God's righteousness to us.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

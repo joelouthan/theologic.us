@@ -43,6 +43,10 @@ Line by line:
 
 >2 Corinthians 5:17 (CSB) Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come!
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Chrst alone is our fulfillment of the law.
@@ -54,8 +58,6 @@ Chrst alone is our fulfillment of the law.
 >Hebrews 10:4 (CSB) For it is impossible for the blood of bulls and goats to take away sins.
 
 >Matthew 12:7 (CSB) If you had known what this means, I desire mercy and not sacrifice, you would not have condemned the innocent.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

@@ -30,6 +30,10 @@ draft: false
 
 >Jeremiah 9:25–26 (CSB) “ ‘Look, the days are coming—this is the LORD’s declaration—when I will punish all the circumcised yet uncircumcised: Egypt, Judah, Edom, the Ammonites, Moab, and all the inhabitants of the desert who clip the hair on their temples. All these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.’ ”
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God alone wipes away are sin.
@@ -45,8 +49,6 @@ God has consistently never been satisfied with the bare minimum. Just something 
 >Otherwise, my wrath will break out like fire  
 >and burn with no one to extinguish it  
 >because of your evil deeds.  
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

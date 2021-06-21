@@ -43,6 +43,10 @@ Here's the kick to the crotch: you and I are not perfect. You and I are infected
 
 And to our little sinful hearts who maybe bent to do the bare minimum, that kinda sucks. That is literally God-awful. To be Christian, you are proclaiming that you worship God who doesn't want empty praise or for you to do a bunch of stuff for him--Christians worships the Creator God of the heavens and the earth who only wants the heart of the worshiper.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is the law of mankind.
@@ -57,8 +61,6 @@ Again, we can pick and choose what Bible verses we like, and because they requir
 God is the only God who rightfully demands your whole heart. All of your heart and everything in it.  
 
 If you can see yourself honestly, you know your heart it is jacked up and have jacked up things in it. But that is what makes the gospel of Christ such good news: God wants your heart and all the sin within it.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

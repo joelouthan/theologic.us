@@ -35,13 +35,15 @@ draft: false
 
 >Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God alone justifies.
 
 Not only God justifies, he justifies the ungodly. He did this by sending his Son, Jesus Christ, to live, die, rise from dead and ascended to heaven so that we would be his people and he would be our God.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

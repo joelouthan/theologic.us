@@ -33,6 +33,10 @@ What shall we do? Do we give up hope? Do we scream out “Forget this! This is t
 
 But don’t you see? Your cries are exactly like those of the children of Israel. The Old Testament is your prayer and the New Testament is your answer.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 The Spirit intercedes for the saint because Christ died for us because the God loved us so much.
@@ -68,8 +72,6 @@ If His Spirit dwells in you, you are now fully completely alive.
 God WOULD NEVER ABANDON YOU, FORSAKE YOU, NOR FORGET YOU.
 
 So why would he leave you at your weakest?
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

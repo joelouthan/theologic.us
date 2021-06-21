@@ -21,13 +21,15 @@ draft: false
 
 >1 Corinthians 15:12-19 (CSB) Now if Christ is proclaimed as raised from the dead, how can some of you say, “There is no resurrection of the dead”? If there is no resurrection of the dead, then not even Christ has been raised; and if Christ has not been raised, then our proclamation is in vain, and so is your faith. Moreover, we are found to be false witnesses about God, because we have testified wrongly about God that he raised up Christ—whom he did not raise up, if in fact the dead are not raised. For if the dead are not raised, not even Christ has been raised. And if Christ has not been raised, your faith is worthless; you are still in your sins. Those, then, who have fallen asleep in Christ have also perished. If we have put our hope in Christ for this life only, we should be pitied more than anyone.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Let me contend to you that God has spelled out precisely what His love is all about—that is, it was all about Jesus Christ his Son.
 
 The birth, life, death, burial, resurrection, and ascension of Christ is the love of God manifested to us all. Believe in him, trust in him, and obey him and you will have eternal life.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

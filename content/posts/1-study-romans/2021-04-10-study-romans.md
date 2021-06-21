@@ -36,6 +36,10 @@ Isn't that the world? Work harder not smarter? If you work hard, you will get wh
 
 Let me make an obvious point: the religion of the Pharisees are no more. Only the gospel of Christ has endured.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 What has God been saying throughout his word?
@@ -50,8 +54,6 @@ Remember what God says about our own works?
 >and all our righteous acts are like a polluted garment;  
 >all of us wither like a leaf,  
 >and our iniquities carry us away like the wind.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

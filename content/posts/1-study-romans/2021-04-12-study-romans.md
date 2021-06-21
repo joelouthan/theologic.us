@@ -50,11 +50,13 @@ draft: false
 
 >Mark 16:14-16 (CSB) Later he appeared to the Eleven themselves as they were reclining at the table. He rebuked their unbelief and hardness of heart, because they did not believe those who saw him after he had risen. Then he said to them, “Go into all the world and preach the gospel to all creation. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 >Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

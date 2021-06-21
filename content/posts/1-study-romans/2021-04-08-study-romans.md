@@ -77,6 +77,10 @@ Look how John puts it:
 
 I grew up with the false doctrine that somehow some way, the Jewish people were going to be autosaved by God because they are "God's chosen people". They are God's chosen people. But nonetheless, as Paul writes here, just because you might be blood related to Abraham doesn't mean you are already saved. You want to know how the Jews will be saved by God? Believing, trusting, and obeying Jesus Christ as their Lord and Savior. Sound familiar? You might think, "But Jewish people don't even acknowledge Jesus as God." True in the Gospels, true in throughout the New Testament and true today. You know what that sounds like? Gentiles. No different. Neither Jew nor Gentile gets a free pass. All have sinned and fallen short of the glory of God. And the wages of our sin is death but the free gift of God is eternal life through whom? Jesus Christ our Lord.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 >Galatians 3:10-18 (CSB) For all who rely on the works of the law are under a curse, because it is written, Everyone who does not do everything written in the book of the law is cursed. Now it is clear that no one is justified before God by the law, because the righteous will live by faith. But the law is not based on faith; instead, the one who does these things will live by them. Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, Cursed is everyone who is hung on a tree. The purpose was that the blessing of Abraham would come to the Gentiles by Christ Jesus, so that we could receive the promised Spirit through faith.
@@ -84,8 +88,6 @@ I grew up with the false doctrine that somehow some way, the Jewish people were 
 >Brothers and sisters, I’m using a human illustration. No one sets aside or makes additions to a validated human will. Now the promises were spoken to Abraham and to his seed. He does not say “and to seeds,” as though referring to many, but referring to one, and to your seed, who is Christ. My point is this: The law, which came 430 years later, does not invalidate a covenant previously established by God and thus cancel the promise. For if the inheritance is based on the law, it is no longer based on the promise; but God has graciously given it to Abraham through the promise.
 
 Christ himself have become our curse so that we might be saved to God.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

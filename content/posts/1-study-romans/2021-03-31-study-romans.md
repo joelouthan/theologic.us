@@ -58,6 +58,10 @@ draft: false
 
 >Genesis 41:37-45 (CSB) The proposal pleased Pharaoh and all his servants, and he said to them, “Can we find anyone like this, a man who has God’s spirit in him?” So Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you are. You will be over my house, and all my people will obey your commands. Only I, as king, will be greater than you.” Pharaoh also said to Joseph, “See, I am placing you over all the land of Egypt.” Pharaoh removed his signet ring from his hand and put it on Joseph’s hand, clothed him with fine linen garments, and placed a gold chain around his neck. He had Joseph ride in his second chariot, and servants called out before him, “Make way!” So he placed him over all the land of Egypt. Pharaoh said to Joseph, “I am Pharaoh and no one will be able to raise his hand or foot in all the land of Egypt without your permission.” Pharaoh gave Joseph the name Zaphenath-paneah and gave him a wife, Asenath daughter of Potiphera, priest at On. And Joseph went throughout the land of Egypt.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is our All-in-all.
@@ -102,8 +106,6 @@ God is our All-in-all.
 >Let the favor of the Lord our God be on us;  
 >establish for us the work of our hands—  
 >establish the work of our hands!
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

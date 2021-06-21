@@ -44,6 +44,10 @@ Paul will go on to say in the next chapter of Romans:
 
 Apart from Jesus Christ from the sovereign grace of the Father by the power of the Holy Spirit, the unbeliever has no hope in pleasing God.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 >Matthew 11:25-27 (CSB) At that time Jesus said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and intelligent and revealed them to infants.  Yes, Father, because this was your good pleasure.  All things have been entrusted to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son desires to reveal him.
@@ -51,8 +55,6 @@ Apart from Jesus Christ from the sovereign grace of the Father by the power of t
 Christ reveals God to man. Plain and simple.
 
 >John 14:6–11 (CSB) Jesus told him, “I am the way, the truth, and the life. No one comes to the Father except through me.  If you know me, you will also know my Father. From now on you do know him and have seen him.”  “Lord,” said Philip, “show us the Father, and that’s enough for us.”  Jesus said to him, “Have I been among you all this time and you do not know me, Philip? The one who has seen me has seen the Father. How can you say, ‘Show us the Father’?  Don’t you believe that I am in the Father and the Father is in me? The words I speak to you I do not speak on my own. The Father who lives in me does his works.  Believe me that I am in the Father and the Father is in me. Otherwise, believe because of the works themselves.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

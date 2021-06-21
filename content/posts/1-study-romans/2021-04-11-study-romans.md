@@ -48,6 +48,10 @@ But I digress.
 
 Real salvation is not going to come by the fact you will be able to ace a theological quiz. That is not salvation. Real salvation from your worst sins and in the presence of a loving Savior is not going to come by you working hard or appearing godly. No!
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 >For Christ is the end of the law for righteousness to everyone who believes, since Moses writes about the righteousness that is from the law: The one who does these things will live by them. But the righteousness that comes from faith speaks like this: Do not say in your heart, “Who will go up to heaven?” that is, to bring Christ down or, “Who will go down into the abyss?” that is, to bring Christ up from the dead.
@@ -78,8 +82,6 @@ Real salvation is not going to come by the fact you will be able to ace a theolo
 >will not return to me empty,  
 >but it will accomplish what I please  
 >and will prosper in what I send it to do.”  
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

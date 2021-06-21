@@ -23,13 +23,15 @@ draft: false
 >
 >When the Philistine started forward to attack him, David ran quickly to the battle line to meet the Philistine. David put his hand in the bag, took out a stone, slung it, and hit the Philistine on his forehead. The stone sank into his forehead, and he fell facedown to the ground. David defeated the Philistine with a sling and a stone. David overpowered the Philistine and killed him without having a sword. David ran and stood over him. He grabbed the Philistine’s sword, pulled it from its sheath, and used it to kill him. Then he cut off his head. When the Philistines saw that their hero was dead, they fled.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Christ has slain our enemies. He disarmed Satan, demons, sin, hell, and death and put them to open shame.
 
 >Colossians 2:9-15 (CSB) For the entire fullness of God’s nature dwells bodily in Christ, and you have been filled by him, who is the head over every ruler and authority. You were also circumcised in him with a circumcision not done with hands, by putting off the body of flesh, in the circumcision of Christ, when you were buried with him in baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead. And when you were dead in trespasses and in the uncircumcision of your flesh, he made you alive with him and forgave us all our trespasses. He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross. He disarmed the rulers and authorities and disgraced them publicly; he triumphed over them in him.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

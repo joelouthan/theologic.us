@@ -54,6 +54,10 @@ I wish I could say this was the only time he did this. But he did it again in Ge
 >
 >It happened, late one afternoon, when David arose from his couch and was walking on the roof of the king's house, that he saw from the roof a woman bathing; and the woman was very beautiful. And David sent and inquired about the woman. And one said, “Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?” So David sent messengers and took her, and she came to him, and he lay with her. (Now she had been purifying herself from her uncleanness.) Then she returned to her house. And the woman conceived, and she sent and told David, “I am pregnant.”
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God saves the condemned.
@@ -61,8 +65,6 @@ God saves the condemned.
 >John 8:12-30 (ESV) Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.” So the Pharisees said to him, “You are bearing witness about yourself; your testimony is not true.” Jesus answered, “Even if I do bear witness about myself, my testimony is true, for I know where I came from and where I am going, but you do not know where I come from or where I am going. You judge according to the flesh; I judge no one. Yet even if I do judge, my judgment is true, for it is not I alone who judge, but I and the Father who sent me. In your Law it is written that the testimony of two people is true. I am the one who bears witness about myself, and the Father who sent me bears witness about me.” They said to him therefore, “Where is your Father?” Jesus answered, “You know neither me nor my Father. If you knew me, you would know my Father also.” These words he spoke in the treasury, as he taught in the temple; but no one arrested him, because his hour had not yet come.
 >
 >So he said to them again, “I am going away, and you will seek me, and you will die in your sin. Where I am going, you cannot come.” So the Jews said, “Will he kill himself, since he says, ‘Where I am going, you cannot come’?” He said to them, “You are from below; I am from above. You are of this world; I am not of this world. I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.” So they said to him, “Who are you?” Jesus said to them, “Just what I have been telling you from the beginning. I have much to say about you and much to judge, but he who sent me is true, and I declare to the world what I have heard from him.” They did not understand that he had been speaking to them about the Father. So Jesus said to them, “When you have lifted up the Son of Man, then you will know that I am he, and that I do nothing on my own authority, but speak just as the Father taught me. And he who sent me is with me. He has not left me alone, for I always do the things that are pleasing to him.” As he was saying these things, many believed in him.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

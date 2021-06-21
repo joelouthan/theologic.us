@@ -27,6 +27,10 @@ draft: false
 >
 >But Joseph said to them, “Don’t be afraid. Am I in the place of God? You planned evil against me; God planned it for good to bring about the present result—the survival of many people. Therefore don’t be afraid. I will take care of you and your children.” And he comforted them and spoke kindly to them.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is our peace and grace that is obtained only through faith in Christ Jesus.
@@ -74,8 +78,6 @@ And the thing about this is: Christ was never above my suffering. He was right t
 And we made it through to the other side together.
 
 And that wasn't the end of my running away. I always prone to wonder. But God is prone to come find me and bring me home.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

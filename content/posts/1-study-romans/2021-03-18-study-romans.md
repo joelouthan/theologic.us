@@ -25,6 +25,10 @@ draft: false
 
 >Hebrews 9:27–28 (CSB) And just as it is appointed for people to die once—and after this, judgment— so also Christ, having been offered once to bear the sins of many, will appear a second time, not to bear sin, but to bring salvation to those who are waiting for him.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God buried our sin for good.
@@ -40,8 +44,6 @@ Or one of my favorite late 19th century English preacher once put it:
 What is God like in all of this?
 
 Per John Stott, God is high above, far from, exposes, burns, and vomits out sin.  That means he does all of these things to my sin. In his holiness and righteousness, he has every right not only to reject me but to vomit me out and spit me out.  More so, he has the right to pour his wrath upon me. If the Son of God were to ever hunt me down, I rather to have a mountain be thrown on me than to face the Almighty God himself.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

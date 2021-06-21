@@ -22,6 +22,10 @@ draft: false
 
 >Romans 5:1-5 (CSB) Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. We have also obtained access through him by faith into this grace in which we stand, and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is glorious.
@@ -31,8 +35,6 @@ God is glorious.
 >So they sent this message to Joseph, “Before he died your father gave a command: ‘Say this to Joseph: Please forgive your brothers’ transgression and their sin—the suffering they caused you.’ Therefore, please forgive the transgression of the servants of the God of your father.” Joseph wept when their message came to him. His brothers also came to him, bowed down before him, and said, “We are your slaves!”
 >
 >But Joseph said to them, “Don’t be afraid. Am I in the place of God? You planned evil against me; God planned it for good to bring about the present result—the survival of many people. Therefore don’t be afraid. I will take care of you and your children.” And he comforted them and spoke kindly to them.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

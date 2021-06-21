@@ -27,6 +27,10 @@ draft: false
 >
 >But each in his own order: Christ, the firstfruits; afterward, at his coming, those who belong to Christ. Then comes the end, when he hands over the kingdom to God the Father, when he abolishes all rule and all authority and power. For he must reign until he puts all his enemies under his feet. The last enemy to be abolished is death. For God has put everything under his feet. Now when it says “everything” is put under him, it is obvious that he who puts everything under him is the exception. When everything is subject to Christ, then the Son himself will also be subject to the one who subjected everything to him, so that God may be all in all.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is the better Man.
@@ -37,8 +41,6 @@ God rules and reigns over all of creation.
 
 Christ, the Son of God, who is God, has put Satan, demons, sin, hell, and death "to open shame" (ESV) and disgraced them publicly. How? "God triumphed over them in Him."
 While we are the subject, God does not lose. He always win. He is triumphant. He gets all the worship and praised due. He gets this alone for just being the Triune God. And then he creates the heavens and the earth. And then He creates Mankind. Man sins against God. But yet, God preaches the gospel. He saves his people. By how? Openly shaming Satan, demons, sin, hell, and death. For whom? For all who believe in His Son shall not perish but have eternal life.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

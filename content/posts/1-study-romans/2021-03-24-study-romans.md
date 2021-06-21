@@ -45,6 +45,10 @@ Whoa, there were even more giants in the land? Why didn't we ever hear about thi
 
 We are to kill off our own sin.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is the only way you can kill off the sin in your life because of the perfect life and death of Christ alone.
@@ -54,8 +58,6 @@ But if you think you are going to do this alone, you are gloriously mistaken.
 >Ephesians 6:10–13 (CSB) Finally, be strengthened by the Lord and by his vast strength.  Put on the full armor of God so that you can stand against the schemes of the devil.  For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens.  For this reason take up the full armor of God, so that you may be able to resist in the evil day, and having prepared everything, to take your stand.
 
 David could not don Saul's armor to slay Goliath. This wasn't just mere flesh and blood but David stood "against rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens." Why would the anything man could do or invent to help us wage ware in the spirtual? Man cannot!
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

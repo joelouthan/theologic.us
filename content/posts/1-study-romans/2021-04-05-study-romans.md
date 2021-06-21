@@ -28,13 +28,15 @@ draft: false
 >as even some of your own poets have said,  
 >“‘For we are indeed his offspring.’
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is above our circumstances and God does not lose his children.
 
 >John 10:25–30 Jesus answered them, “I told you, and you do not believe. The works that I do in my Father’s name bear witness about me, but you do not believe because you are not among my sheep. My sheep hear my voice, and I know them, and they follow me. I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

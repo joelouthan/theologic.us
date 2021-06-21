@@ -31,6 +31,10 @@ draft: false
 >
 >Romans 8:18–25 (CSB) For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us.  For the creation eagerly waits with anticipation for God’s sons to be revealed.  For the creation was subjected to futility—not willingly, but because of him who subjected it—in the hope  that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.  For we know that the whole creation has been groaning together with labor pains until now.  Not only that, but we ourselves who have the Spirit as the firstfruits—we also groan within ourselves, eagerly waiting for adoption, the redemption of our bodies.  Now in this hope we were saved, but hope that is seen is not hope, because who hopes for what he sees?  Now if we hope for what we do not see, we eagerly wait for it with patience.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God alone is our grace.
@@ -38,8 +42,6 @@ God alone is our grace.
 >Isaiah 61:1 (CSB) The Spirit of the Lord GOD is on me, because the LORD has anointed me to bring good news to the poor. He has sent me to heal the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners;
 
 Who is that? That is Jesus Christ.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

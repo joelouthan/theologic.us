@@ -27,6 +27,10 @@ God did not choose us because we were good. He chose us while we were wicked in 
 
 >Ephesians 1:3–14 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ.  For he chose us in him, before the foundation of the world, to be holy and blameless in love before him.  He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,  to the praise of his glorious grace that he lavished on us in the Beloved One.  In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace  that he richly poured out on us with all wisdom and understanding.  He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ  as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him.  In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,  so that we who had already put our hope in Christ might bring praise to his glory.  In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed.  The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is our Conformer and our Image.
@@ -34,8 +38,6 @@ God is our Conformer and our Image.
 In the midst of our sinful lives, in the middle of our trespasses and our wickedness and condemnation and shame, Jesus Christ appears to us and calls us to be with him.
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.  But when the kindness of God our Savior and his love for mankind appeared,  he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.  He poured out his Spirit on us abundantly through Jesus Christ our Savior  so that, having been justified by his grace, we may become heirs with the hope of eternal life.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

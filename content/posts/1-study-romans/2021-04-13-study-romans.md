@@ -37,6 +37,10 @@ draft: false
 >that he may instruct him?
 >But we have the mind of Christ.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Again, we can debate about free will and single and double predestination. We can even debate Israel and the church. But I am telling you that Romans 9, 10, 11 are not about that.
@@ -58,8 +62,6 @@ God says so right here: I kept some to me. And for others, I have:
 - to this day
 
 Just like in Romans 1:18-32, God will give us over to our sin. In our foolishness and rebellion, we have seen it not only in the Bible but in our own lives and the lives around us: he will give us over to our own hardened hearts.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

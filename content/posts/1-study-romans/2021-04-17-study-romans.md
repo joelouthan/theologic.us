@@ -37,6 +37,10 @@ draft: false
 >
 >For just as the body is one and has many parts, and all the parts of that body, though many, are one body—so also is Christ.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 ### Instead, think sensibly, as God has distributed a measure of faith to each one
@@ -54,8 +58,6 @@ Now, why is that? Why would God give us gifts and ask us to use them on other pe
 God came to us. God made it right for us. God did all the work so that we now get to worship and love Him forever. We are then to put on display the sheer grace and kindness of God towards us.
 
 Romans 2:4 says his kindness was meant for our repentance. How do you think one of the ways that God demonstrates his kindness to the world? Sending his Son, yes, and also through our good works--which are now actually **good** because we have been made righteous by Christ.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

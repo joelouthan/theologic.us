@@ -33,6 +33,10 @@ draft: false
 >Proverbs 25:2 (CSB) It is the glory of God to conceal a matter  
 >and the glory of kings to investigate a matter
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 >Ephesians 3:16-19 (CSB) I pray that he may grant you, according to the riches of his glory, to be strengthened with power in your inner being through his Spirit, and that Christ may dwell in your hearts through faith. I pray that you, being rooted and firmly established in love, may be able to comprehend with all the saints what is the length and width, height and depth of God’s love, and to know Christ’s love that surpasses knowledge, so that you may be filled with all the fullness of God.
@@ -60,8 +64,6 @@ draft: false
 >whether things on earth or things in heaven,  
 >by making peace  
 >through his blood, shed on the cross.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

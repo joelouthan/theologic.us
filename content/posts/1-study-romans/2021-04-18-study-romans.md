@@ -19,9 +19,11 @@ draft: true
 
 
 
-## God
+<div style="page-break-after: always;"></div>
 
 `Where do you see God in the text? What does the text say about God?`
+
+## God
 
 ## The Gospel
 

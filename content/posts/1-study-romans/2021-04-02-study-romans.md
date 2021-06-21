@@ -30,6 +30,10 @@ draft: false
 
 >2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is our provider.
@@ -37,8 +41,6 @@ God is our provider.
 In order for you to get to God, God is going to have to provide everything for you so that you can run to him and be with him.
 
 God is infinite. Also, he is infinitely far away from our sins.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

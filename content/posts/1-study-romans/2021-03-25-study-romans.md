@@ -23,13 +23,15 @@ draft: false
 
 >Galatians 4:1-7 (CSB) Now I say that as long as the heir is a child, he differs in no way from a slave, though he is the owner of everything. Instead, he is under guardians and trustees until the time set by his father. In the same way we also, when we were children, were in slavery under the elements of the world. When the time came to completion, God sent his Son, born of a woman, born under the law, to redeem those under the law, so that we might receive adoption as sons. And because you are sons, God sent the Spirit of his Son into our hearts, crying, “Abba, Father!” So you are no longer a slave but a son, and if a son, then God has made you an heir.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God is our Father. Christ is our eldest brother. Spirit bears witness with our spirit that we are the children of God.
 
 >Hebrews 1:1-2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

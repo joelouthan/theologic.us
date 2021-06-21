@@ -27,6 +27,10 @@ draft: false
 >
 >In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed. The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 While we were yet sinners, Christ died for us.
@@ -36,8 +40,6 @@ While we were yet sinners, Christ died for us.
 Who loved whom first? Was it God or you?
 
 Did God start loving you when you decided to clean yourself up, presented yourself a pretty good person or did God love you when you were yet a sinner?
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

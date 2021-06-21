@@ -27,6 +27,10 @@ draft: false
 
 >Romans 8:1–4 (CSB) Therefore, there is now no condemnation for those in Christ Jesus, because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death. For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 God alone fulfills his promise.
@@ -54,8 +58,6 @@ That infinite distance of God from man is what we call the holiness of God.
 >The foundations of the doorways shook at the sound of their voices, and the temple was filled with smoke.
 
 Holy, holy, holy is the God Almighty, who was, and is, and is to come.
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 

@@ -37,6 +37,10 @@ If God can see our hearts and know our deepest desires and thoughts, why would w
 
 We tried to hid from him because we are burden with guilt and shame from our sins.
 
+<div style="page-break-after: always;"></div>
+
+`Where do you see God in the text? What does the text say about God?`
+
 ## God
 
 Spirit intercedes for the saints according to the will of God because God alones sees the hearts of man.
@@ -48,8 +52,6 @@ But why hide from him when he is the only God who can cleanse you from all unrig
 He already declared "No Condemnation!".
 
 How can he be so sure about you? How can he be so sure about me? I see my own heart and I am disgusted. And then I cannot see everything about it and gross sin still pops up. What can I even do?
-
-`Where do you see God in the text? What does the text say about God?`
 
 ## The Gospel
 
