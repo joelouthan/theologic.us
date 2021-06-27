@@ -1,5 +1,5 @@
 ---
-title: Mark 1:35-39 Jesus Prays
+title: “🏠 Mark 1:35-39 Jesus Prays”
 author: Joseph Louthan
 date: 2012-08-10
 url: /home-devotions/mark-135-39-jesus-prayed/
@@ -34,7 +34,7 @@ We get to talk to our Father in heaven. We get to spend time with him. We get to
 
 ### When you don't get to see your dad, do you miss him? When Jesus was here on earth, do you think he missed his Father?
 
->Matthew 26:36-46 (CSB) hen Jesus came with them to a place called Gethsemane, and he told the disciples, “Sit here while I go over there and pray.” Taking along Peter and the two sons of Zebedee, he began to be sorrowful and troubled. He said to them, “I am deeply grieved to the point of death. Remain here and stay awake with me.” Going a little farther, he fell facedown and prayed, “My Father, if it is possible, let this cup pass from me. Yet not as I will, but as you will.”
+>Matthew 26:36-46 (CSB) When Jesus came with them to a place called Gethsemane, and he told the disciples, “Sit here while I go over there and pray.” Taking along Peter and the two sons of Zebedee, he began to be sorrowful and troubled. He said to them, “I am deeply grieved to the point of death. Remain here and stay awake with me.” Going a little farther, he fell facedown and prayed, “My Father, if it is possible, let this cup pass from me. Yet not as I will, but as you will.”
 >
 >Then he came to the disciples and found them sleeping. He asked Peter, “So, couldn’t you stay awake with me one hour? Stay awake and pray, so that you won’t enter into temptation. The spirit is willing, but the flesh is weak.”
 >
