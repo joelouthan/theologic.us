@@ -135,12 +135,51 @@ Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multi
 
 ------
 
-## Christ is the Lord of Making All Things New
+## Christ is the Lord of the Law
 
 >Luke 5:36 He also told them a parable: “No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old. And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed. But new wine must be put into fresh wineskins. And no one after drinking old wine desires new, for he says, ‘The old is good.’ ”
 
-2 Corinthians 5:16–21 (CSB) From now on, then, we do not know anyone from a worldly perspective. Even if we have known Christ from a worldly perspective, yet now we no longer know him in this way.  Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come!  Everything is from God, who has reconciled us to himself through Christ and has given us the ministry of reconciliation.  That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and he has committed the message of reconciliation to us.  Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.”  He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+### From the beginning, mankind wants to add on to God's law
+
+>Genesis 2:15-17 (CSB) The LORD God took the man and placed him in the garden of Eden to work it and watch over it. And the LORD God commanded the man, “You are free to eat from any tree of the garden, but you must not eat from the tree of the knowledge of good and evil, for on the day you eat from it, you will certainly die.”
+
+>Genesis 3:1-3 (CSB) Now the serpent was the most cunning of all the wild animals that the LORD God had made. He said to the woman, “Did God really say, ‘You can’t eat from any tree in the garden’?”
+>
+>The woman said to the serpent, “We may eat the fruit from the trees in the garden. But about the fruit of the tree in the middle of the garden, God said, ‘You must not eat it or touch it, or you will die.’”
+
+### What seemingly feels like a good thing with good intention will lead to death
+
+>Matthew 23:23-24 (CSB) Woe to you, scribes and Pharisees, hypocrites! You pay a tenth of mint, dill, and cumin, and yet you have neglected the more important matters of the law—justice, mercy, and faithfulness. These things should have been done without neglecting the others. Blind guides! You strain out a gnat, but gulp down a camel!
+
+### The law was never intended to save--only point us back to God
+
+>Romans 8:3-4 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
+
+## The law of God is enough--it is perfect and good and true and wise
+
+>Psalms 19:7-10 (CSB)  
+>The instruction of the LORD is perfect,  
+>renewing one’s life;  
+>the testimony of the LORD is trustworthy,  
+>making the inexperienced wise.  
+>The precepts of the LORD are right,  
+>making the heart glad;  
+>the command of the LORD is radiant,  
+>making the eyes light up.  
+>The fear of the LORD is pure,  
+>enduring forever;  
+>the ordinances of the LORD are reliable  
+>and altogether righteous.  
+>They are more desirable than gold—  
+>than an abundance of pure gold;  
+>and sweeter than honey  
+>dripping from a honeycomb.
+
+## Know the word of God and draw close to him
+
+>Psalms 119:11 (CSB) I have treasured your word in my heart
+>so that I may not sin against you.
 
 ```text
-Why does Christ have to make us new in Him? What does that even mean?
+Where have we added to the word of God?
 ```
