@@ -1,5 +1,5 @@
 ---
-title: "🏠 Mark 1:16-20 Jesus Rules and Reigns Over All the People"
+title: "🏠📺 Mark 1:16-20 Jesus Rules and Reigns Over All the People"
 author: Joseph Louthan
 date: 2012-08-07
 url: /home-devotions/mark-116-20-jesus-calls-out/
@@ -38,10 +38,16 @@ God pursued you.
 
 And God called you.
 
-Just like the disciples here, Jesus Christ called them one by one, telling them to all, "Follow me." Likewise, when we heard about God for the first time and when we heard about what Jesus did for those who trust and believe in Him, His Holy Spirit was calling out to each other hearts, saying, "Follow me.".
+Just like the disciples here, Jesus Christ called them one by one, telling them to all, "Follow me." Likewise, when we heard about God for the first time and when we heard about what Jesus did for those who trust and believe in Him, His Holy Spirit was calling out to each other hearts, saying, "Follow me."
 
 ## The Discussion
 
 ```text
 When do you remember the first time you felt God calling you?
 ```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-116-20-jesus-rules-and-reigns-over-all-the-people/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
