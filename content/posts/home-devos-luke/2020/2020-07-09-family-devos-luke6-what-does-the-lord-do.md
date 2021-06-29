@@ -15,11 +15,9 @@ draft: false
 
 ## Jesus Rests
 
->Luke 6:1–11 (CSB) On a Sabbath, he passed through the grain fields. His disciples were picking heads of grain, rubbing them in their hands, and eating them. But some of the Pharisees said, “Why are you doing what is not lawful on the Sabbath?”
-
->Jesus answered them, “Haven’t you read what David and those who were with him did when he was hungry—how he entered the house of God and took and ate the bread of the Presence, which is not lawful for any but the priests to eat? He even gave some to those who were with him.” Then he told them, “The Son of Man is Lord of the Sabbath.”
-
->On another Sabbath he entered the synagogue and was teaching. A man was there whose right hand was shriveled. The scribes and Pharisees were watching him closely, to see if he would heal on the Sabbath, so that they could find a charge against him. But he knew their thoughts and told the man with the shriveled hand, “Get up and stand here.” So he got up and stood there. Then Jesus said to them, “I ask you: Is it lawful to do good on the Sabbath or to do evil, to save life or to destroy it?” After looking around at them all, he told him, “Stretch out your hand.” He did, and his hand was restored. They, however, were filled with rage and started discussing with one another what they might do to Jesus.
+>Luke 6:1-5 (CSB) On a Sabbath, he passed through the grainfields. His disciples were picking heads of grain, rubbing them in their hands, and eating them. But some of the Pharisees said, “Why are you doing what is not lawful on the Sabbath?”
+>
+>Jesus answered them, “Haven’t you read what David and those who were with him did when he was hungry— how he entered the house of God and took and ate the bread of the Presence, which is not lawful for any but the priests to eat? He even gave some to those who were with him.” Then he told them, “The Son of Man is Lord of the Sabbath.”
 
 ```text
 What is the Sabbath?
@@ -31,6 +29,18 @@ What is the Sabbath?
 If God commands us to take a day of rest, what do you think your other days of the week will look like?
 
 What is your favorite way to rest and have fun?
+```
+
+------
+
+## Jesus Heals
+
+>Luke 6:6-11 (CSB) On another Sabbath he entered the synagogue and was teaching. A man was there whose right hand was shriveled. The scribes and Pharisees were watching him closely, to see if he would heal on the Sabbath, so that they could find a charge against him. But he knew their thoughts and told the man with the shriveled hand, “Get up and stand here.” So he got up and stood there. Then Jesus said to them, “I ask you: Is it lawful to do good on the Sabbath or to do evil, to save life or to destroy it?” After looking around at them all, he told him, “Stretch out your hand.” He did, and his hand was restored. They, however, were filled with rage and started discussing with one another what they might do to Jesus.
+
+```text
+1. Do we need to make rules for resting?
+
+2. Can we do good things while we rest?
 ```
 
 ------
@@ -71,7 +81,7 @@ Why would Jesus choose any of us? Is it because we were good or because we were 
 
 ------
 
-## Jesus Heals
+## Jesus Makes New
 
 >Luke 6:17-19 (CSB) After coming down with them, he stood on a level place with a large crowd of his disciples and a great number of people from all Judea and Jerusalem and from the seacoast of Tyre and Sidon.They came to hear him and to be healed of their diseases; and those tormented by unclean spirits were made well.The whole crowd was trying to touch him, because power was coming out from him and healing them all.
 
