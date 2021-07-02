@@ -1,5 +1,5 @@
 ---
-title: “🏠 Mark 1:35-39 Jesus Prays”
+title: "🏠 Mark 1:35-39 Jesus Prays"
 author: Joseph Louthan
 date: 2012-08-10
 url: /home-devotions/mark-135-39-jesus-prayed/
