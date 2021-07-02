@@ -72,7 +72,7 @@ And guess what happened?
 
 Satan is not in charge of anything--not the air, not hell, not anything except demons. Christ is charge of everything. When Christ died on the cross, Satan, demons, hell, sin and death were defeated at that moment.
 
-We do not live in a dualistic universe where the forces of good battle against the forced of evil where the forces of good barely win. We live in the kingdom of God where...
+We do not live in a dualistic universe where the forces of good battle against the forces of evil where the forces of good barely win. We live in the kingdom of God where...
 
 #### One, Christ has victory over Satan and demons
 
