@@ -1,5 +1,5 @@
 ---
-title: 'The Lord’s Prayer: Your Will Be Done'
+title: "📺 The Lord’s Prayer: Your Will Be Done"
 author: Joseph Louthan
 date: 2018-08-16T06:00:00-06:00
 url: /prayer/2018-08-16-praying-through-the-lords-prayer/
