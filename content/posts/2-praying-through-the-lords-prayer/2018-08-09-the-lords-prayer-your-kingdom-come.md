@@ -94,6 +94,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Lord
 </div>
+&nbsp;
 
 ```text
 You have perfectly obeyed our Father in heaven. I believe and trust in you. You are my Savior.

@@ -152,6 +152,7 @@ So when Christ commands us to "go and pray", we pray because that is when we get
 <div style="font-variant: small-caps;">
 My Father
 </div>
+&nbsp;
 
 ```text
 I hear Your words. You have given me a new heart, and now I gladly receive Your words. It is because You gave me a new heart, it is now that I can do what You have commanded me to do.

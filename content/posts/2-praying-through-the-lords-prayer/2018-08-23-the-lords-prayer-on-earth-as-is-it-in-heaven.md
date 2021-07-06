@@ -69,6 +69,7 @@ Winslow, Octavius. No Condemnation in Christ Jesus. Banner of Truth Trust, 1853.
 <div style="font-variant: small-caps;">
 My Lord
 </div>
+&nbsp;
 
 ```text
 We sit and yearn and pray for You to come back, Lord Jesus. Come back and take us home. We want for our hopes, wants, dreams and desires to be in You alone. This is what separates believers from the unbeliever: we hope and trust that You will make all things right-standing with You. We have read Your promises and we earnestly believe in them. The weight of sin and the weight of a broken universe are too much to bear. Our backs are broken from under the heavy load. Our eyes sting from the sweat of this intense labor. Our muscles twitch in a mere moment from collapsing, because we can bear it no more.

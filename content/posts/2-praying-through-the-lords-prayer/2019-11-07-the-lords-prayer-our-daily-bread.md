@@ -57,6 +57,7 @@ draft: false
 >profaning the name of my God.
 
 ### The Prayer
+&nbsp;
 
 <div style="font-variant: small-caps;">
 My Provider

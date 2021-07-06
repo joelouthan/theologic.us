@@ -43,6 +43,7 @@ draft: false
 <div style="font-variant: small-caps;">
 My Savior
 </div>
+&nbsp;
 
 ```text
 I thank you for giving me strength. You are my Christ Jesus my Lord. You alone have judged me faithful. You alone have commissioned me to your service.

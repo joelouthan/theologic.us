@@ -130,6 +130,7 @@ You behold God? You trust in his Son? Here is what you gain as having God as Fat
 <div style="font-variant: small-caps;">
 My Jesus
 </div>
+&nbsp;
 
 ```text
 You have told me this so that I may know this: I can now come to the Father. My Father is mindful of me, and His will has already dictated our relationship to be so. You have done all the work. The Spirit bears witness with my Spirit that I am a child of God. This same Spirit that raised You from the grave dwells in me. As the Holy Spirit lives in me, He gives me the power, the right and privilege to go and be with the Father.

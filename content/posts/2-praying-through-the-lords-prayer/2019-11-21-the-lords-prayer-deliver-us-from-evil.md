@@ -40,6 +40,7 @@ draft: false
 >James 1:13-15 (CSB) No one undergoing a trial should say, “I am being tempted by God,” since God is not tempted by evil, and he himself doesn’t tempt anyone. But each person is tempted when he is drawn away and enticed by his own evil desire. Then after desire has conceived, it gives birth to sin, and when sin is fully grown, it gives birth to death.
 
 ## The Prayer
+&nbsp;
 
 <div style="font-variant: small-caps;">
 My Rescuer,  
