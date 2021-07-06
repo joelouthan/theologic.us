@@ -1,10 +1,11 @@
 ---
-title: "📺 The Lord’s Prayer: Your Will Be Done"
+title: "📺 Doctrine: Ephesians 1:11-14 Pray Like This, Your Will Be Done"
 author: Joseph Louthan
 date: 2018-08-16T06:00:00-06:00
 url: /prayer/2018-08-16-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

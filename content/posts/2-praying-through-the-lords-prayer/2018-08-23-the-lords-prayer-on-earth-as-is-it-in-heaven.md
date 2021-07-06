@@ -5,6 +5,7 @@ date: 2018-08-23T06:00:00-06:00
 url: /prayer/2018-08-23-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

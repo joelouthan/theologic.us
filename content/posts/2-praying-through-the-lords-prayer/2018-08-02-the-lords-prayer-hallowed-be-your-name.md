@@ -1,10 +1,11 @@
 ---
-title: '📺 The Lord’s Prayer: Hallowed Be Your Name'
+title: '📺 Doctrine: Isaiah 6:1-7	Pray Like This, Hallowed Be Your Name'
 author: Joseph Louthan
 date: 2018-08-02T06:00:00-06:00
 url: /prayer/2018-08-02-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

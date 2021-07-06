@@ -1,10 +1,11 @@
 ---
-title: "📺The Lord’s Prayer, An Introduction"
+title: "📺 Doctrine: Matthew 6:5-13	Pray Like This, An Introduction"
 author: Joseph Louthan
 date: 2018-07-12T06:00:00-06:00
 url: /prayer/2018-07-12-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

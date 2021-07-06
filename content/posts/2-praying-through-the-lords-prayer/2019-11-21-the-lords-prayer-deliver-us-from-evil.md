@@ -1,10 +1,11 @@
 ---
-title: "The Lord's Prayer: Deliver Us From Evil"
+title: "Doctrine: Deliver Us From Evil"
 author: Joseph Louthan
 publishDate: 2019-11-21T06:00:00-06:00
 url: /prayer/2019-11-21-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

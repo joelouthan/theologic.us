@@ -1,10 +1,11 @@
 ---
-title: "The Lord's Prayer: Yours is The Kingdom, O Lord"
+title: "Doctrine: Yours is The Kingdom, O Lord"
 author: Joseph Louthan
 publishDate: 2019-11-28T06:00:00-06:00
 url: /prayer/2019-11-28-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

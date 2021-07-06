@@ -1,10 +1,11 @@
 ---
-title: '📺 The Lord’s Prayer: Ezekiel 11:19-20 Do What He Does'
+title: '📺 Doctrine: Ezekiel 11:19-20	Pray Like This, Do What He Does'
 author: Joseph Louthan
 date: 2018-07-19T06:00:00-06:00
 url: /prayer/2018-07-19-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:

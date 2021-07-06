@@ -1,10 +1,11 @@
 ---
-title: '📺 The Lord’s Prayer: Your Kingdom Come'
+title: '📺 Doctrine: Matthew 16:15-19	Pray Like This, Your Kingdom Come'
 author: Joseph Louthan
 date: 2018-08-09T06:00:00-06:00
 url: /prayer/2018-08-09-praying-through-the-lords-prayer/
 categories:
   - Prayers
+  - Doctrine
 tags:
   - Matthew
 series:
