@@ -17,25 +17,32 @@ draft: false
 
 ## Pray Then Like This
 
->Matthew 6:9-15 (CSB)
->“Therefore, you should pray like this:
->Our Father in heaven,
->your name be honored as holy.
->Your kingdom come.
->Your will be done
+>Matthew 6:10 (CSB) Your kingdom come.  
+>Your will be done  
 >on earth as it is in heaven.
->Give us today our daily bread.
->And forgive us our debts,
->as we also have forgiven our debtors.
->And do not bring us into temptation,
->but deliver us from the evil one.
->
->“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
 
 ## Your Will Be Done
 
 >Ephesians 1:11-14 In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.
 
+### This is not making God do what we want him to do
+
+19th Century American Evangelist Charles Finney has been through a few doctrines in his lifetime--like any Christian who has thought through the Bible. Now, when I mention this name, and if you have heard of him, you usually have two types of feelings towards this individual:
+
+- "Greatest Christian since Paul" mostly from more big movements within 20th century Evangelicalism and definitely, within the non-denomination megachurches and places like Bethel
+- "The worst heretic since Judas and is a poison to all of Evangelicalism" - Those statements from more orthodox camps
+
+I have heard both sides and I tend to land closer to one side. My opinions on the man is not important. For an excellent summary on the ministry of Charles Finney, check out chapter 2 from Iain Murray's book on revival, [Pentecost Today?](https://amzn.to/3ywEDLc).
+
+For the good and bad influence that Finney has on today's Christians, this much is certain: there are certain camps within church who absolutely believe that if you prayed hard enough, long enough, believed hard enough, did the right things, that you could change the mind of God and get God to do your will. Now, defenders of this belief would not claim to thwart the will of God. But ultimately, that is what you end up trying to do. Why is that so damaging is not because it is a feeble attempt at changing the will of God but because it assumes you are in control, which is witchcraft, and ultimately, it is just legalism. In other words, let me do the right things in order to get the blessings of God that I want.
+
+That does not work.
+
+We are not here to line up the will of the Almighty God with our lives. But rather, as we are being conformed in the image of his Son, day by day, we are starting to line up our own will within the will of God--so that He and I will become one.
+
+We are halfway through this teaching. So instead of teaching you a bunch of facts, I want you to try to pray with what you know about God so far.
+
+I usually don't do this but I am going to recite my written prayer here.
 ## The Prayer
 
 <div style="font-variant: small-caps;">
@@ -48,7 +55,7 @@ Yet I am still on this earth and I know that I have needs and wants and desires 
 
 What if you said, “No.”  Will I have the wisdom and maturity to trust in you even when I don’t know why I am being protected for my own good?
 
-What if you said, “Wait.”  Will I have the patience and peace, not worrying or anxious, and wait for you?
+What if you said, “Wait.”  Will I have the patience and peace, not worrying or being anxious, and wait for you?
 
 Now, I say, “Of course I would have the wisdom, maturity, patience, and peace to handle that situation.” But at this moment now, nothing troubles my heart so it easy to say that.  But what about then?
 
@@ -111,3 +118,9 @@ Don’t do this because I want to, do this because You want to.
 Whatever Your will might be, let me be with you and rest in You alone.
 
 Amen.
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ephesians-111-14-pray-like-this-your-will-be-done/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
