@@ -32,7 +32,7 @@ draft: false
 - "Greatest Christian since Paul" mostly from more big movements within 20th century Evangelicalism and definitely, within the non-denomination megachurches and places like Bethel
 - "The worst heretic since Judas and is a poison to all of Evangelicalism" - Those statements from more orthodox camps
 
-I have heard both sides and I tend to land closer to one side. My opinions on the man is not important. For an excellent summary on the ministry of Charles Finney, check out chapter 2 from Iain Murray's book on revival, [Pentecost Today?](https://amzn.to/3ywEDLc).
+I have heard both sides and I tend to land closer to one side. My opinions on the man is not important. For an excellent summary on the ministry of Charles Finney, check out chapter 2 from Iain Murray's book on revival, "[Pentecost Today?](https://amzn.to/3ywEDLc)".
 
 For the good and bad influence that Finney has on today's Christians, this much is certain: there are certain camps within church who absolutely believe that if you prayed hard enough, long enough, believed hard enough, did the right things, that you could change the mind of God and get God to do your will. Now, defenders of this belief would not claim to thwart the will of God. But ultimately, that is what you end up trying to do. Why is that so damaging is not because it is a feeble attempt at changing the will of God but because it assumes you are in control, which is witchcraft, and ultimately, it is just legalism. In other words, let me do the right things in order to get the blessings of God that I want.
 
