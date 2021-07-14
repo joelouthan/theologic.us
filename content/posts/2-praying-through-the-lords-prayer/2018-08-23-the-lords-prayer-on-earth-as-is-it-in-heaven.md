@@ -47,17 +47,23 @@ draft: false
 
 ## Effectiveness of the Will of God on Earth
 
-Mankind, for the most part, will more than likely not judge their own wills or the wills of others correctly.
+What is the will of man?
 
-They will esteem their their own wills more highly than they ought. We call this pride and narcissism.
+Simply put, the ability to make a decision or one's desire. Now, whether that decision has been made whimsically, under duress, emotionally, forcefully, or even, supernaturally, the will of man is a powerful force.
 
-They will esteemed their wills too low and we call this anxiety.
+However, mankind, for the most part, will tend to judge the will of mankind incorrectly due to sin. And let me explain what I mean.
 
-More so, they will think too much of the will of others and we rightfully call that fear of man and pleasing man rather than God.
+We have esteemed our wills more highly than we ought. In other words, what we want and desire takes precedence over others' desires. Common in conflict for one side to win over the other. But because of sin, quite often we don't consider the other person's desires. That leads to pride, haughtiness, and narcissism--the universe revolves around me. The world is a movie about me and I am the star of the show.
 
-Even still, they will think too little of the will of others. When we do that, we are brutish, arrogant, and selfish.
+Some of us have esteemed own wills too low and we that will lead to stress and anxiety. We think it is humility and it is not. Our own desires have a proper place within all relationships.
 
-Perhaps for some of us, our hearts have been tenderized by God. Some listening, not so much. But the effects of sin affects all the hearts of the sons of Adam one way or another--all of it damaging and all of it painful until God, in his full grace and power, heals our little hearts. It is the effects of sin upon our hearts and minds that tends to think wrongly about the will of God.
+More so, we have thought too much of the will of others. Carried out to its end, and we rightfully call that "fear of man" and "pleasing man rather than God."
+
+Even still, we have thought too little of the will of others. When we do that, we are sinfully brutish, arrogant, and selfish.
+
+Perhaps for some of us, our hearts have been tenderized by God and we put our own wills rightfully in the eyes of the Lord. For the rest of us, not so much--we still have a long way to go. But the effects of sin affects all the hearts of the sons of Adam one way or another--all of it damaging and all of it painful--and impairs us to misjudge our own wills or the wills of others.
+
+To that point, it is the effects of sin upon our hearts and minds that we often tend to think wrongly about the will of God.
 
 Let us ask some basic yes or no questions about the will of God:
 ### Is the will of God absolute in the heavens?
@@ -70,21 +76,23 @@ While the happenings of the heavens are not commonly exposed to us here on earth
 >
 >He said to them, “I watched Satan fall from heaven like lightning. Look, I have given you the authority to trample on snakes and scorpions and over all the power of the enemy; nothing at all will harm you. However, don’t rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”
 
-### Is the will of God absolute here on earth
+We know that God created the heavens and the earth. In that, all the heavens and the earth belong to God. But let me ask another question:
+
+### Is the will of God absolute here on earth?
 
 When it comes to doing what he says he will do, absolutely so:
 
->Isaiah 55:10-11 (CSB)
-For just as rain and snow fall from heaven
-and do not return there
-without saturating the earth
-and making it germinate and sprout,
-and providing seed to sow
-and food to eat,
-so my word that comes from my mouth
-will not return to me empty,
-but it will accomplish what I please
-and will prosper in what I send it to do.”
+>Isaiah 55:10-11 (CSB)  
+>For just as rain and snow fall from heaven  
+>and do not return there  
+>without saturating the earth  
+>and making it germinate and sprout,  
+>and providing seed to sow  
+>and food to eat,  
+>so my word that comes from my mouth  
+>will not return to me empty,  
+>but it will accomplish what I please  
+>and will prosper in what I send it to do.”
 
 When it comes to the salvation of His people, the answer is absolutely yes.
 
@@ -105,13 +113,15 @@ And
 
 >Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
-If the will of God is not absolute here on earth as it is in heaven, he ceases to be God. Pick an attribute of God. Omnipotence, holiness, righteousness, love,  just--if he is less than those things here on earth, He would not be God.
+If the will of God is not absolute here on earth as it is in heaven, he ceases to be God. Just pick and think upon an attribute of God. Omnipotence, holiness, righteousness, love, just, mercy, wrath, grace--if he is less than perfect in those things here on earth, He would not be God.
 
-We can contend for the free will of man and use the "we are not robot" arguments. Yet, if the will of man is so free, why can't man freely choose God and obey God?
+We can contend for the free will of man and use the arguments that "we are not robots". Yet, if the will of man is so free, why can't mankind freely choose God and obey God?
 
-I have yet to find one single passage in the Bible where man obeyed first and then God saved:
+I have yet to find one single passage in the Bible where man obeyed first and then God saves:
 
->Genesis 6:5-9 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved. Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.” Noah, however, found favor with the LORD.
+>Genesis 6:5-9 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved. Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.
+>
+>Noah, however, found favor with the LORD.
 >
 >These are the family records of Noah. Noah was a righteous man, blameless among his contemporaries; Noah walked with God.
 
@@ -121,15 +131,17 @@ We misjudge our own wills and the wills of others. Because of sin, we often misj
 
 But the will of God is absolute:
 
->Isaiah 55:9 (CSB) “For as heaven is higher than earth,
-so my ways are higher than your ways,
-and my thoughts than your thoughts.
+>Isaiah 55:9 (CSB) “For as heaven is higher than earth,  
+>so my ways are higher than your ways,  
+>and my thoughts than your thoughts.
 
 So since we have firmly established the will of God in the heavens and on earth, one question remains:
 
 ### What are we praying for?
 
-Is it to take away suffering? No, God promises that we will suffer. Christ suffered. We are "little Christs". The student always looks like the master. How are we to avoid suffering when Christ did not avoid it:
+Or in another way: why do we pray at all if the will of God is a sure thing?
+
+Is it to take away suffering? No, God promises that we will suffer. Christ suffered. We are "little Christs". The disciple always looks like the teacher. How are we to avoid suffering when Christ did not avoid it:
 
 >Luke 24:25-27 (CSB) He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! Wasn’t it necessary for the Messiah to suffer these things and enter into his glory?” Then beginning with Moses and all the Prophets, he interpreted for them the things concerning himself in all the Scriptures.
 
@@ -155,9 +167,9 @@ Is it for riches? No! The Lord God knows what we need.
 
 >Luke 11:9-13 (CSB) “So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?
 
-Is it for love and romance? No. There is nothing in the Bible that suggests that God is here to make sure you marry. Don't quote 1 Corinthians 7 to me. Go and read it what it means to have the Holy Spirit dwelling within you.
+Is it for love and romance? No. There is nothing in the Bible that suggests that God is here to make sure you marry. Don't quote 1 Corinthians 7 to me. Go and read the Bible and understand what it means to have the Holy Spirit dwelling within you.
 
-Then what are we praying for?
+So, then what are we praying for? We pray because...
 
 #### We need to see how far are we from the glory of God
 
@@ -167,6 +179,8 @@ Then what are we praying for?
 >I was brutish and ignorant;  
 >I was like a beast toward you.
 
+We pray because...
+
 #### We constantly need to hear the good news of Christ Jesus
 
 >Nevertheless, I am continually with you;  
@@ -174,12 +188,16 @@ Then what are we praying for?
 >You guide me with your counsel,  
 >and afterward you will receive me to glory.
 
+We pray because...
+
 #### We must change our minds to know that there is nothing on this earth besides God that will fill our hearts and souls and desires and longings
 
 >Whom have I in heaven but you?  
 >And there is nothing on earth that I desire besides you.  
 >My flesh and my heart may fail,  
 >but God is the strength of my heart and my portion forever.
+
+We pray because...
 
 #### We need his Son, the fullness of His Spirit and his grace in order to do his will and what he has commanded us to do
 
@@ -214,6 +232,8 @@ My Christ,
   and give me grace
   to preach your good news
   for as long as I live.
+
+Amen
 
 ```
 
