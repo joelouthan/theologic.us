@@ -19,7 +19,17 @@ draft: false
 
 ## The Support
 
+### Two explicit commands were given to mankind before the Fall, only one of them is forever
+
+While the command of not eating from a certain tree no longer applies to us, we are still to rest after six days of work because God rested after six days of work.
+
 >Exodus 20:8-11 (CSB) Remember the Sabbath day, to keep it holy: You are to labor six days and do all your work, but the seventh day is a Sabbath to the LORD your God. You must not do any work—you, your son or daughter, your male or female servant, your livestock, or the resident alien who is within your city gates. For the LORD made the heavens and the earth, the sea, and everything in them in six days; then he rested on the seventh day. Therefore the LORD blessed the Sabbath day and declared it holy.
+
+God is Creator. We are his creation. We are to always obey our Creator. The call to obedience to God is always present: from Creation through the Garden through the Law all the way to the Gospel.
+
+One thing has always been consistent: we are to obey our Creator and we are to rest like our Creator.
+
+But why?
 
 <div style="page-break-after: always;"></div>
 
@@ -27,11 +37,15 @@ draft: false
 
 ## God
 
-### God loves and has set apart his children from looking like the rest of the world
+Look at God's heart towards us and some of the ways He is to His creation:
+
+### God loves us and has set apart his children from looking like the rest of the world
 
 >Deuteronomy 7:7-11 (CSB) The LORD had his heart set on you and chose you, not because you were more numerous than all peoples, for you were the fewest of all peoples. But because the LORD loved you and kept the oath he swore to your ancestors, he brought you out with a strong hand and redeemed you from the place of slavery, from the power of Pharaoh king of Egypt. Know that the LORD your God is God, the faithful God who keeps his gracious covenant loyalty for a thousand generations with those who love him and keep his commands. But he directly pays back and destroys those who hate him. He will not hesitate to pay back directly the one who hates him. So keep the command—the statutes and ordinances—that I am giving you to follow today.
 
-### God loves us and is always our protection
+>Leviticus 20:26 (CSB) You are to be holy to me because I, the LORD, am holy, and I have set you apart from the nations to be mine.
+
+### God loves us and is always our protection and refuge from sin and evil
 
 >Psalms 61:1-3 (CSB) God, hear my cry;  
 >pay attention to my prayer.  
@@ -62,11 +76,39 @@ draft: false
 
 ## The Gospel
 
-### God loves us and in Christ alone, is the only way to God
+Here's the good news: the good news of Christ brings us all the way home to the Father.
+
+Within the gospel, we must understand the truth that Jesus is the only way to fullness of life and eternal life.
+### God loves us and in Christ alone, he is the only way to God
 
 >John 14:6-7 (CSB) Jesus told him, “I am the way, the truth, and the life. No one comes to the Father except through me. If you know me, you will also know my Father. From now on you do know him and have seen him.”
 
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+### God loves us and in Christ alone, he is the only one who will satisfy the eternal hole within our hearts
+
+And the Triune God does so by dwelling in our hearts.
+
+>Psalms 17:15 (CSB) But I will see your face in righteousness;  
+>when I awake, I will be satisfied with your presence.
+
+>Psalms 16:11 (ESV) You make known to me the path of life;  
+>in your presence there is fullness of joy;  
+>at your right hand are pleasures forevermore.
+
 ### God loves us and in Christ alone, we have our rest
+
+In Christ alone, we get satisfaction.
+
+In Christ alone, we get to live.
+
+In Christ alone, we get the fullness of joy.
+
+In Christ alone, we get pleasures evermore.
+
+In Christ alone, we finally get to rest.
+
+What does Christ say?
 
 >Matthew 11:29-30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”
 
