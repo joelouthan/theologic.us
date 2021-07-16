@@ -1,5 +1,5 @@
 ---
-title: "🏠 Mark 1:35-39 Jesus Prays"
+title: "🏠📺 Mark 1:35-39 Jesus Prays"
 author: Joseph Louthan
 date: 2012-08-10
 url: /home-devotions/mark-135-39-jesus-prayed/
@@ -30,7 +30,7 @@ Giving Thanks
 
 ### Why do we pray?
   
-We get to talk to our Father in heaven. We get to spend time with him. We get to kick it.
+We get to talk to our Father in heaven. We get to spend time with him. We get to kick it with him.
 
 ### When you don't get to see your dad, do you miss him? When Jesus was here on earth, do you think he missed his Father?
 
@@ -121,3 +121,9 @@ When do you think it is a good time to pray?
 ```
 
 >1 Thessalonians 5:16-18 (CSB) Rejoice always, pray constantly, give thanks in everything; for this is God’s will for you in Christ Jesus.
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-135-39-jesus-prays)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
