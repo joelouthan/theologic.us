@@ -1,5 +1,5 @@
 ---
-title: 'Luke 6:20-26 What Does The Lord Give?'
+title: '🏠 Luke 6:20-26 What Does The Lord Give?'
 author: Joseph Louthan
 publishDate: 2020-07-16T06:00:00-06:00
 url: /home-devotions/2020-07-16-home-devotions-luke/
