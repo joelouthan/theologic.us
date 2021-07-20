@@ -1,5 +1,5 @@
 ---
-title: "Doctrine: Give Us This Day Our Daily Bread"
+title: "📺 Doctrine: John 6:22-71 Pray Like This: Give Us This Day Our Daily Bread"
 author: Joseph Louthan
 publishDate: 2019-11-07T06:00:00-06:00
 url: /prayer/2019-11-07-praying-through-the-lords-prayer/
@@ -17,77 +17,88 @@ draft: false
 
 ## Pray Then Like This
 
->Matthew 6:9-15 (CSB)
->“Therefore, you should pray like this:
->Our Father in heaven,
->your name be honored as holy.
->Your kingdom come.
->Your will be done
->on earth as it is in heaven.
->Give us today our daily bread.
->And forgive us our debts,
->as we also have forgiven our debtors.
->And do not bring us into temptation,
->but deliver us from the evil one.
->
->“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+>Matthew 6:11 (CSB) Give us today our daily bread.
 
 ## Give Us This Day Our Daily Bread
 
->Matthew 6:11 Give us this day our daily bread
+God knows what we need before we ask. He is our good Father in heaven. He provides for the birds in the air and the flowers in the field. How are we any less?
 
->Psalm 16:5-6  
->The LORD is my chosen portion and my cup;  
-> you hold my lot.  
->The lines have fallen for me in pleasant places;  
-> indeed, I have a beautiful inheritance.
+He knows that we need food and water and housing.
 
->Psalm 50  
->For every beast of the forest is mine,  
-> the cattle on a thousand hills.
+But that is to survive for the day.
 
->Proverbs 30:7-9 (CSB) Two things I ask of you;
->don’t deny them to me before I die:  
->Keep falsehood and deceitful words far from me.  
->Give me neither poverty nor wealth;  
->feed me with the food I need.  
->Otherwise, I might have too much  
->and deny you, saying, “Who is the LORD?”  
->or I might have nothing and steal,  
->profaning the name of my God.
+What about to live forever and never die?
+
+### We need to not perish
+
+>John 6:22-27 (CSB) The next day, the crowd that had stayed on the other side of the sea saw there had been only one boat. They also saw that Jesus had not boarded the boat with his disciples, but that his disciples had gone off alone. Some boats from Tiberias came near the place where they had eaten the bread after the Lord had given thanks. When the crowd saw that neither Jesus nor his disciples were there, they got into the boats and went to Capernaum looking for Jesus. When they found him on the other side of the sea, they said to him, “Rabbi, when did you get here?”
+>
+>Jesus answered, “Truly I tell you, you are looking for me, not because you saw the signs, but because you ate the loaves and were filled. Don’t work for the food that perishes but for the food that lasts for eternal life, which the Son of Man will give you, because God the Father has set his seal of approval on him.”
+
+>John 4:13-14 (CSB) Jesus said, “Everyone who drinks from this water will get thirsty again. But whoever drinks from the water that I will give him will never get thirsty again. In fact, the water I will give him will become a well of water springing up in him for eternal life.”
+### We need to believe in Jesus Christ
+
+>John 6:28-34 (CSB) “What can we do to perform the works of God?” they asked.
+Jesus replied, “This is the work of God—that you believe in the one he has sent.”
+“What sign, then, are you going to do so that we may see and believe you?” they asked. “What are you going to perform? Our ancestors ate the manna in the wilderness, just as it is written: He gave them bread from heaven to eat.”
+Jesus said to them, “Truly I tell you, Moses didn’t give you the bread from heaven, but my Father gives you the true bread from heaven. For the bread of God is the one who comes down from heaven and gives life to the world.”
+Then they said, “Sir, give us this bread always.”
+
+
+### We need Jesus Christ
+
+>John 6:35-40 (CSB) “I am the bread of life,” Jesus told them. “No one who comes to me will ever be hungry, and no one who believes in me will ever be thirsty again. But as I told you, you’ve seen me, and yet you do not believe. Everyone the Father gives me will come to me, and the one who comes to me I will never cast out. For I have come down from heaven, not to do my own will, but the will of him who sent me. This is the will of him who sent me: that I should lose none of those he has given me but should raise them up on the last day. For this is the will of my Father: that everyone who sees the Son and believes in him will have eternal life, and I will raise him up on the last day.”
+
+### We need to obey Christ as Lord and King because He is Lord and King
+
+>John 6:41-42 (CSB) Therefore the Jews started grumbling about him because he said, “I am the bread that came down from heaven.” They were saying, “Isn’t this Jesus the son of Joseph, whose father and mother we know? How can he now say, ‘I have come down from heaven’?”
+
+
+### We are chosen by God for God to worship God
+
+>John 6:43-46 (CSB) Jesus answered them, “Stop grumbling among yourselves. No one can come to me unless the Father who sent me draws him, and I will raise him up on the last day. It is written in the Prophets: And they will all be taught by God. Everyone who has listened to and learned from the Father comes to me— not that anyone has seen the Father except the one who is from God. He has seen the Father.
+
+### Christ is our daily bread
+
+>John 6:47-52 (CSB) “Truly I tell you, anyone who believes has eternal life. I am the bread of life. Your ancestors ate the manna in the wilderness, and they died. This is the bread that comes down from heaven so that anyone may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread he will live forever. The bread that I will give for the life of the world is my flesh.”
+>
+>At that, the Jews argued among themselves, “How can this man give us his flesh to eat?”
+
+### Christ alone is the giver of the fullness of life
+
+>John 6:53-59 (CSB) So Jesus said to them, “Truly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you do not have life in yourselves. The one who eats my flesh and drinks my blood has eternal life, and I will raise him up on the last day, because my flesh is true food and my blood is true drink. The one who eats my flesh and drinks my blood remains in me, and I in him. Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me. This is the bread that came down from heaven; it is not like the manna your ancestors ate—and they died. The one who eats this bread will live forever.”
+>
+>He said these things while teaching in the synagogue in Capernaum.
+
+### Everybody wants to be truly alive--not everybody wants to believe
+
+>John 6:60 (CSB) Therefore, when many of his disciples heard this, they said, “This teaching is hard. Who can accept it?”
+
+### There is no where else to go but God
+
+>John 6:61-71 (CSB) Jesus, knowing in himself that his disciples were grumbling about this, asked them, “Does this offend you? Then what if you were to observe the Son of Man ascending to where he was before? The Spirit is the one who gives life. The flesh doesn’t help at all. The words that I have spoken to you are spirit and are life. But there are some among you who don’t believe.” (For Jesus knew from the beginning those who did not believe and the one who would betray him.) He said, “This is why I told you that no one can come to me unless it is granted to him by the Father.”
+>
+>From that moment many of his disciples turned back and no longer accompanied him. So Jesus said to the Twelve, “You don’t want to go away too, do you?”
+>
+>Simon Peter answered, “Lord, to whom will we go? You have the words of eternal life. We have come to believe and know that you are the Holy One of God.”
+>
+>Jesus replied to them, “Didn’t I choose you, the Twelve? Yet one of you is a devil.” He was referring to Judas, Simon Iscariot’s son, one of the Twelve, because he was going to betray him.
 
 ### The Prayer
 &nbsp;
 
 <div style="font-variant: small-caps;">
-My Provider
+My Salvation
 </div>
 
 ```text
-What is your provision for me? Do I need food, shelter, and water just to stay alive?
+Today, save me.
 
-But what is life? Is it that my heart pumps blood or my lungs breath in and out air? Is it because my skin is warm to the touch?
-
-No. It is not merely those things.
-
-For once upon a time, I was dead in my trespasses and my sins, following the paths of the world, following Satan and his demons, with the spirit that is in the sons of disobedience. For my desperate and sick heart was once foolish, disobedient, led astray, slaves to various passions and pleasures, passing my days in malice and envy, hated by others and hating one another.
-
-But what did you do? How did you respond to my madness and wickedness?
-
-You word says that You, being rich in mercy, because of the great love with which you have loved me, even when I was dead in my trespasses, made me alive together with Christ—by grace I have been saved—and raised me up with him and seated me with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus.
-
-
-Your word also says, when the goodness and loving kindness of God our Savior appeared, you saved me, not because of works done by me in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on me richly through Jesus Christ our Savior, so that being justified by his grace I might become an heir according to the hope of eternal life.
-
-Also, this is true: because I believe in that Jesus is the Christ, I am born again of God. And because I love you, you love me because I have been born of You.
-
-This I am fully convince: my daily portion is you. You are my lot and my inheritance. You are my everything. You are my All-in-all.
-
-My Savior said this to me: "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."
-
-And I know if I go to You, ask You for You, You will give me You for you cannot deny Yourself to those who seek and desire you.
-
-I ask for you. Today. Give me Yourself. So I will never hunger again and I will never thirst again.
-
-Amen.
+Amen
 ```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-john-622-71-pray-like-this-give-us-this-day-our-daily-bread)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
