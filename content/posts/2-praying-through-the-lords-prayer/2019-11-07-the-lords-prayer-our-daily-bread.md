@@ -36,27 +36,38 @@ What about to live forever and never die?
 >Jesus answered, “Truly I tell you, you are looking for me, not because you saw the signs, but because you ate the loaves and were filled. Don’t work for the food that perishes but for the food that lasts for eternal life, which the Son of Man will give you, because God the Father has set his seal of approval on him.”
 
 >John 4:13-14 (CSB) Jesus said, “Everyone who drinks from this water will get thirsty again. But whoever drinks from the water that I will give him will never get thirsty again. In fact, the water I will give him will become a well of water springing up in him for eternal life.”
+
+Who can give us this food that we will never go hungry again or this water so we may never thirst? Who can fix what is broken so we will never perish but have everlasting life?
+
 ### We need to believe in Jesus Christ
 
 >John 6:28-34 (CSB) “What can we do to perform the works of God?” they asked.
-Jesus replied, “This is the work of God—that you believe in the one he has sent.”
-“What sign, then, are you going to do so that we may see and believe you?” they asked. “What are you going to perform? Our ancestors ate the manna in the wilderness, just as it is written: He gave them bread from heaven to eat.”
-Jesus said to them, “Truly I tell you, Moses didn’t give you the bread from heaven, but my Father gives you the true bread from heaven. For the bread of God is the one who comes down from heaven and gives life to the world.”
-Then they said, “Sir, give us this bread always.”
-
+>
+>Jesus replied, “This is the work of God—that you believe in the one he has sent.”
+>
+>“What sign, then, are you going to do so that we may see and believe you?” they asked. “What are you going to perform? Our ancestors ate the manna in the wilderness, just as it is written: He gave them bread from heaven to eat.”
+>
+>Jesus said to them, “Truly I tell you, Moses didn’t give you the bread from heaven, but my Father gives you the true bread from heaven. For the bread of God is the one who comes down from heaven and gives life to the world.”
+>
+>Then they said, “Sir, give us this bread always.”
 
 ### We need Jesus Christ
 
 >John 6:35-40 (CSB) “I am the bread of life,” Jesus told them. “No one who comes to me will ever be hungry, and no one who believes in me will ever be thirsty again. But as I told you, you’ve seen me, and yet you do not believe. Everyone the Father gives me will come to me, and the one who comes to me I will never cast out. For I have come down from heaven, not to do my own will, but the will of him who sent me. This is the will of him who sent me: that I should lose none of those he has given me but should raise them up on the last day. For this is the will of my Father: that everyone who sees the Son and believes in him will have eternal life, and I will raise him up on the last day.”
 
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
 ### We need to obey Christ as Lord and King because He is Lord and King
 
 >John 6:41-42 (CSB) Therefore the Jews started grumbling about him because he said, “I am the bread that came down from heaven.” They were saying, “Isn’t this Jesus the son of Joseph, whose father and mother we know? How can he now say, ‘I have come down from heaven’?”
 
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
 ### We are chosen by God for God to worship God
 
 >John 6:43-46 (CSB) Jesus answered them, “Stop grumbling among yourselves. No one can come to me unless the Father who sent me draws him, and I will raise him up on the last day. It is written in the Prophets: And they will all be taught by God. Everyone who has listened to and learned from the Father comes to me— not that anyone has seen the Father except the one who is from God. He has seen the Father.
+
+>John 1:12-13 (CSB) But to all who did receive him, he gave them the right to be children of God, to those who believe in his name, who were born, not of natural descent, or of the will of the flesh, or of the will of man, but of God.
 
 ### Christ is our daily bread
 
@@ -70,9 +81,19 @@ Then they said, “Sir, give us this bread always.”
 >
 >He said these things while teaching in the synagogue in Capernaum.
 
+>1 John 5:1 (CSB) Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves the one born of him.
+
+>John 10:10 (CSB) A thief comes only to steal and kill and destroy. I have come so that they may have life and have it in abundance.
+
 ### Everybody wants to be truly alive--not everybody wants to believe
 
 >John 6:60 (CSB) Therefore, when many of his disciples heard this, they said, “This teaching is hard. Who can accept it?”
+
+But Christ already said that his word gets taken away, choked up, or burns in the afternoon sun.
+
+>Luke 8:11-14 (CSB) “This is the meaning of the parable: The seed is the word of God. The seed along the path are those who have heard and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved. And the seed on the rock are those who, when they hear, receive the word with joy. Having no root, these believe for a while and fall away in a time of testing. As for the seed that fell among thorns, these are the ones who, when they have heard, go on their way and are choked with worries, riches, and pleasures of life, and produce no mature fruit.
+
+>Acts 17:32 (CSB) When they heard about the resurrection of the dead, some began to ridicule him, but others said, “We’d like to hear from you again about this.”
 
 ### There is no where else to go but God
 
