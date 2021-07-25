@@ -68,6 +68,8 @@ params:
               url: /series/bible-study-genesis/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
+            - name: "Home Devotions: Luke"
+              url: /series/home-devotions-luke/
             - name: Recent Posts
               url: posts
             - name: Updates
