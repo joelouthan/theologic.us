@@ -1,5 +1,5 @@
 ---
-title: '🏠 Luke 6:27-49 What Does the Lord Say?'
+title: 'Luke 6:27-49 What Does the Lord Say?'
 author: Joseph Louthan
 publishDate: 2020-07-23T06:00:00-06:00
 url: /home-devotions/2020-07-23-home-devotions-luke/
@@ -13,7 +13,7 @@ css: "home-devos"
 draft: false
 ---
 
-## Love Your Enemies
+## 🏠 Love Your Enemies
 
 Luke 6:27 “But I say to you who listen: Love your enemies, do what is good to those who hate you,
 
@@ -29,7 +29,7 @@ If we do not wrestle against flesh and blood, how should we view those who oppos
 
 ------
 
-## Bless Those Who Curse You
+## 🏠 Bless Those Who Curse You
 
 Luke 6:28 bless those who curse you, pray for those who mistreat you.
 
@@ -41,7 +41,7 @@ How do we put a cursing upon ourselves?
 
 ------
 
-## Don't Hold Back From Giving
+## 🏠 Don't Hold Back From Giving
 
 Luke 6:29-30 If anyone hits you on the cheek, offer the other also. And if anyone takes away your coat, don’t hold back your shirt either. Give to everyone who asks you, and from someone who takes your things, don’t ask for them back.
 
