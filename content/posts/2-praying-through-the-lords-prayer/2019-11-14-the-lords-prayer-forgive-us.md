@@ -1,5 +1,5 @@
 ---
-title: "Doctrine: Forgive Us--Help Us to Forgive"
+title: "📺 Doctrine: Luke 23:32-34 Pray Like This: Forgive Us--Help Us to Forgive"
 author: Joseph Louthan
 publishDate: 2019-11-14T06:00:00-06:00
 url: /prayer/2019-11-14-praying-through-the-lords-prayer/
@@ -17,25 +17,12 @@ draft: false
 
 ## Pray Then Like This
 
->Matthew 6:9-15 (CSB)
->“Therefore, you should pray like this:
->Our Father in heaven,
->your name be honored as holy.
->Your kingdom come.
->Your will be done
->on earth as it is in heaven.
->Give us today our daily bread.
->And forgive us our debts,
->as we also have forgiven our debtors.
->And do not bring us into temptation,
->but deliver us from the evil one.
->
->“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
-
-## Forgive Us--Help Us to Forgive
-
 >Matthew 6:12 and forgive us our debts,  
 >as we also have forgiven our debtors.
+
+>Matthew 6:14-15 (CSB) “For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive your offenses.
+
+## Forgive Us--Help Us to Forgive
 
 >Luke 23:32-34 (CSB) Two others—criminals—were also led away to be executed with him. When they arrived at the place called The Skull, they crucified him there, along with the criminals, one on the right and one on the left. Then Jesus said, “Father, forgive them, because they do not know what they are doing.” And they divided his clothes and cast lots.
 
