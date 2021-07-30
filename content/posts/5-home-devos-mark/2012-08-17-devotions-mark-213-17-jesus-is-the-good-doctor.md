@@ -1,5 +1,5 @@
 ---
-title: Mark 2:13-17 Jesus Loves
+title: "📺🏠 Mark 2:13-17 Jesus is the Good Doctor"
 author: Joseph Louthan
 date: 2012-08-17
 url: /home-devotions/mark-213-17-jesus-is-the-good-doctor/
@@ -11,22 +11,44 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
-**Mark 2:13-17 He went out again beside the sea, and all the crowd was coming to him, and he was teaching them. And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him. And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, “Why does he eat with tax collectors and sinners?” And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”**
+## The Text
 
-1. _Whom did Jesus hang out with?_
+>Mark 2:13-17 (CSB) Jesus went out again beside the sea. The whole crowd was coming to him, and he was teaching them. 14 Then, passing by, he saw Levi the son of Alphaeus sitting at the tax office, and he said to him, “Follow me,” and he got up and followed him.
+>
+>15 While he was reclining at the table in Levi’s house, many tax collectors and sinners were eating with Jesus and his disciples, for there were many who were following him. 16 When the scribes who were Pharisees saw that he was eating with sinners and tax collectors, they asked his disciples, “Why does he eat with tax collectors and sinners?”
+>
+>17 When Jesus heard this, he told them, “It is not those who are well who need a doctor, but those who are sick. I didn’t come to call the righteous, but sinners.”
 
-2. _Does Jesus wait to want you when you are really good? Did Jesus start loving you when you started to do good things?_
+## The Devotion
 
-**For while we were still weak, at the right time Christ died for the ungodly. For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die—but God shows his love for us in that while we were still sinners, Christ died for us.** (Romans 5:6-8 ESV)
+>Romans 3:10-12 (CSB) as it is written:  
+>There is no one righteous, not even one.  
+>11 There is no one who understands;  
+>there is no one who seeks God.  
+>12 All have turned away;  
+>all alike have become worthless.  
+>There is no one who does what is good,  
+>not even one.
 
-3. _Did Jesus come to save good people or did he come to save sinners?_
+There are two ways of knowing this:
 
-**She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”** (Matthew 1:21 ESV)
+1. In our heads but our hearts will either question it or deny it
+2. We believe this to our core and we need God.
 
-&nbsp;
+## The Discussion
 
+```text
+1. If you think you are already good, can you be saved by God?
 
+2. If you think what you do and don't do makes you good, can you be saved by God?
 
- [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/stethoscope-backgrounds-wallpapers.jpg
+3. What does the Scriptures say? Is everybody good or everyone bad?
+```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-213-17-jesus-is-the-good-doctor)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
