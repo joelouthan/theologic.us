@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:27 (CSB) And he who searches our hearts knows the mind of the Spirit, because he intercedes for the saints according to the will of God.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Genesis 3:8-10 (CSB) Then the man and his wife heard the sound of the LORD God walking in the garden at the time of the evening breeze, and they hid from the LORD God among the trees of the garden. So the LORD God called out to the man and said to him, “Where are you?”
@@ -53,6 +55,8 @@ He already declared "No Condemnation!".
 
 How can he be so sure about you? How can he be so sure about me? I see my own heart and I am disgusted. And then I cannot see everything about it and gross sin still pops up. What can I even do?
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Ezekiel 11:19-20 (CSB) I will give them integrity of heart and put a new spirit within them; I will remove their heart of stone from their bodies and give them a heart of flesh, so that they will follow my statutes, keep my ordinances, and practice them. They will be my people, and I will be their God.
@@ -70,6 +74,8 @@ Because God swapped your heart for his, he speaks tenderly to us:
 Because God swapped your heart for his, he rejoices over you with gladness--he will delight in you with singing!
 
 >Zephaniah 3:17 (CSB) The LORD your God is among you, a warrior who saves. He will rejoice over you with gladness. He will be quiet in his love. He will delight in you with singing.”
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

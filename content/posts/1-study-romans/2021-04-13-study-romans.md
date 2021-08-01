@@ -29,6 +29,8 @@ draft: false
 >Let their eyes be darkened so that they cannot see,  
 >and their backs be bent continually.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >1 Corinthians 2:10-16 (CSB) Now God has revealed these things to us by the Spirit, since the Spirit searches everything, even the depths of God. For who knows a person’s thoughts except his spirit within him? In the same way, no one knows the thoughts of God except the Spirit of God. Now we have not received the spirit of the world, but the Spirit who comes from God, so that we may understand what has been freely given to us by God. We also speak these things, not in words taught by human wisdom, but in those taught by the Spirit, explaining spiritual things to spiritual people. But the person without the Spirit does not receive what comes from God’s Spirit, because it is foolishness to him; he is not able to understand it since it is evaluated spiritually. The spiritual person, however, can evaluate everything, and yet he himself cannot be evaluated by anyone. For
@@ -63,6 +65,8 @@ God says so right here: I kept some to me. And for others, I have:
 
 Just like in Romans 1:18-32, God will give us over to our sin. In our foolishness and rebellion, we have seen it not only in the Bible but in our own lives and the lives around us: he will give us over to our own hardened hearts.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 Here is the gospel: I don't care if you have been given over to sin. I don't care if your heart has been hardened by God. That is not a final judgment for you. Why do I know? You are still breathing God's air. You are still alive on this earth. And that is his kindness and grace. And that kindness was meant for your repentance:
@@ -70,6 +74,8 @@ Here is the gospel: I don't care if you have been given over to sin. I don't car
 >Romans 2:3-8 (CSB) Do you think—anyone of you who judges those who do such things yet do the same—that you will escape God’s judgment? Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance? Because of your hardened and unrepentant heart you are storing up wrath for yourself in the day of wrath, when God’s righteous judgment is revealed. He will repay each one according to his works: eternal life to those who by persistence in doing good seek glory, honor, and immortality; but wrath and anger to those who are self-seeking and disobey the truth while obeying unrighteousness.
 
 It is never too late to believe what God has says and obey. It is never to late to repent! The kingdom of God is right now because Christ has done it all to save His people from their sins.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

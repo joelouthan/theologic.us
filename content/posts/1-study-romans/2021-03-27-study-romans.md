@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:26 (CSB) In the same way the Spirit also helps us in our weakness, because we do not know what to pray for as we should, but the Spirit himself intercedes for us with inexpressible groanings.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 When coming to the full acknowledgment of the pain and anguish of sin that he seems to never be able to overcome, Paul cries the same incredible prayer in the same spirit as the tax collector in the synagogue:
@@ -73,9 +75,13 @@ God WOULD NEVER ABANDON YOU, FORSAKE YOU, NOR FORGET YOU.
 
 So why would he leave you at your weakest?
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.  But when the kindness of God our Savior and his love for mankind appeared,  he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.  He poured out his Spirit on us abundantly through Jesus Christ our Savior  so that, having been justified by his grace, we may become heirs with the hope of eternal life.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

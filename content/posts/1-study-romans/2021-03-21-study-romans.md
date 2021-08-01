@@ -19,6 +19,8 @@ draft: false
 >
 >For we know that the law is spiritual, but I am of the flesh, sold as a slave under sin.  For I do not understand what I am doing, because I do not practice what I want to do, but I do what I hate.  Now if I do what I do not want to do, I agree with the law that it is good.  So now I am no longer the one doing it, but it is sin living in me.  For I know that nothing good lives in me, that is, in my flesh. For the desire to do what is good is with me, but there is no ability to do it.  For I do not do the good that I want to do, but I practice the evil that I do not want to do.  Now if I do what I do not want, I am no longer the one that does it, but it is the sin that lives in me.  So I discover this law: When I want to do what is good, evil is present with me.  For in my inner self I delight in God’s law,  but I see a different law in the parts of my body, waging war against the law of my mind and taking me prisoner to the law of sin in the parts of my body.  What a wretched man I am! Who will rescue me from this body of death?  Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 God alones saves us from this body of death.
@@ -56,6 +58,8 @@ Christ reveals God to man. Plain and simple.
 
 >John 14:6–11 (CSB) Jesus told him, “I am the way, the truth, and the life. No one comes to the Father except through me.  If you know me, you will also know my Father. From now on you do know him and have seen him.”  “Lord,” said Philip, “show us the Father, and that’s enough for us.”  Jesus said to him, “Have I been among you all this time and you do not know me, Philip? The one who has seen me has seen the Father. How can you say, ‘Show us the Father’?  Don’t you believe that I am in the Father and the Father is in me? The words I speak to you I do not speak on my own. The Father who lives in me does his works.  Believe me that I am in the Father and the Father is in me. Otherwise, believe because of the works themselves.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >John 1:18 (CSB) No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
@@ -63,6 +67,8 @@ Christ reveals God to man. Plain and simple.
 Now that Christ has revealed the Father--the ESV says, "He has made him known"--what does God the Father look like?
 
 >Matthew 11:28-30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest.  Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls.  For my yoke is easy and my burden is light.”
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

@@ -21,6 +21,8 @@ draft: false
 
 >Romans 8:1–4 (CSB) Therefore, there is now no condemnation for those in Christ Jesus,  because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death.  For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,  in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 Line by line:
@@ -59,6 +61,8 @@ Chrst alone is our fulfillment of the law.
 
 >Matthew 12:7 (CSB) If you had known what this means, I desire mercy and not sacrifice, you would not have condemned the innocent.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,
@@ -72,6 +76,8 @@ Chrst alone is our fulfillment of the law.
 >Matthew 5:17-20 (CSB) Don’t think that I came to abolish the Law or the Prophets. I did not come to abolish but to fulfill. For truly I tell you, until heaven and earth pass away, not the smallest letter or one stroke of a letter will pass away from the law until all things are accomplished. Therefore, whoever breaks one of the least of these commands and teaches others to do the same will be called least in the kingdom of heaven. But whoever does and teaches these commands will be called great in the kingdom of heaven. For I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will never get into the kingdom of heaven.
 
 >2 Corinthians 5:21 (ESV) For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

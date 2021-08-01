@@ -15,6 +15,8 @@ draft: true
 ---
 ## The Text
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 ## Our God
@@ -25,7 +27,11 @@ draft: true
 Where do you see God in the text? What does the text say about God?
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

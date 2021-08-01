@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:37 (CSB) No, in all these things we are more than conquerors through him who loved us.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >1 Samuel 17:45-51 (CSB) David said to the Philistine, “You come against me with a sword, spear, and javelin, but I come against you in the name of the LORD of Armies, the God of the ranks of Israel—you have defied him. Today, the LORD will hand you over to me. Today, I’ll strike you down, remove your head, and give the corpses of the Philistine camp to the birds of the sky and the wild creatures of the earth. Then all the world will know that Israel has a God, and this whole assembly will know that it is not by sword or by spear that the LORD saves, for the battle is the LORD’s. He will hand you over to us.”
@@ -33,6 +35,8 @@ Christ has slain our enemies. He disarmed Satan, demons, sin, hell, and death an
 
 >Colossians 2:9-15 (CSB) For the entire fullness of God’s nature dwells bodily in Christ, and you have been filled by him, who is the head over every ruler and authority. You were also circumcised in him with a circumcision not done with hands, by putting off the body of flesh, in the circumcision of Christ, when you were buried with him in baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead. And when you were dead in trespasses and in the uncircumcision of your flesh, he made you alive with him and forgave us all our trespasses. He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross. He disarmed the rulers and authorities and disgraced them publicly; he triumphed over them in him.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 If God is for us, who can be against us?
@@ -44,6 +48,8 @@ If God conquered our enemies by the death of Christ, whom shall we fear?
 >>"Let us muse upon the fact that Jesus was conducted without the gates of the city. It was the common place of death. That little rising ground, which perhaps was called Golgotha, the place of a skull, from its somewhat resembling the crown of a man's skull, was the common place of execution. It was one of Death's castles; here he stored his gloomiest trophies; he was the grim lord of that stronghold. Our great hero, the destroyer of Death, bearded the lion in his den, slew the monster in his own castle, and dragged the dragon captive from his own den. Methinks Death thought it a splendid triumph when he saw the Master impaled and bleeding in the dominions of destruction; little did he know that the grave was to be rifled, and himself destroyed, by that crucified Son of man."
 >>
 >>Charles Spurgeon. Sermon, The Procession of Sorrow.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

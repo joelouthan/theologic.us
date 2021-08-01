@@ -17,6 +17,8 @@ draft: false
 
 >Romans 10:1-13 (CSB) Brothers and sisters, my heart’s desire and prayer to God concerning them is for their salvation. I can testify about them that they have zeal for God, but not according to knowledge. Since they are ignorant of the righteousness of God and attempted to establish their own righteousness, they have not submitted to God’s righteousness. For Christ is the end of the law for righteousness to everyone who believes, since Moses writes about the righteousness that is from the law: The one who does these things will live by them. But the righteousness that comes from faith speaks like this: Do not say in your heart, “Who will go up to heaven?” that is, to bring Christ down or, “Who will go down into the abyss?” that is, to bring Christ up from the dead. On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim: If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. For the Scripture says, Everyone who believes on him will not be put to shame, since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. For everyone who calls on the name of the Lord will be saved.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 This is as straight forward of a passage as it gets.
@@ -83,9 +85,13 @@ Real salvation is not going to come by the fact you will be able to ace a theolo
 >but it will accomplish what I please  
 >and will prosper in what I send it to do.”  
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim: If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. For the Scripture says, Everyone who believes on him will not be put to shame, since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

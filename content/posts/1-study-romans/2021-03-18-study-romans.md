@@ -19,6 +19,8 @@ draft: false
 >
 >Therefore do not let sin reign in your mortal body, so that you obey its desires. And do not offer any parts of it to sin as weapons for unrighteousness. But as those who are alive from the dead, offer yourselves to God, and all the parts of yourselves to God as weapons for righteousness. For sin will not rule over you, because you are not under the law but under grace.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Matthew 1:21–24 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”  Now all this took place to fulfill what was spoken by the Lord through the prophet:  See, the virgin will become pregnant and give birth to a son, and they will name him Immanuel, which is translated “God is with us.”  When Joseph woke up, he did as the Lord’s angel had commanded him. He married her
@@ -45,9 +47,13 @@ What is God like in all of this?
 
 Per John Stott, God is high above, far from, exposes, burns, and vomits out sin.  That means he does all of these things to my sin. In his holiness and righteousness, he has every right not only to reject me but to vomit me out and spit me out.  More so, he has the right to pour his wrath upon me. If the Son of God were to ever hunt me down, I rather to have a mountain be thrown on me than to face the Almighty God himself.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 But here is the good news: God did not do the sin. God does not do evil. Yet, God does not lie. God desires his people. Therefore, God does whatever it takes to save his people.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

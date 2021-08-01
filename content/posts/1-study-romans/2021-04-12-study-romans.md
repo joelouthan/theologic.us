@@ -34,6 +34,8 @@ draft: false
 >
 >But to Israel he says, All day long I have held out my hands to a disobedient and defiant people.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Mark 4:1-9 (CSB) Again he began to teach by the sea, and a very large crowd gathered around him. So he got into a boat on the sea and sat down, while the whole crowd was by the sea on the shore. He taught them many things in parables, and in his teaching he said to them, “Listen! Consider the sower who went out to sow. As he sowed, some seed fell along the path, and the birds came and devoured it. Other seed fell on rocky ground where it didn’t have much soil, and it grew up quickly, since the soil wasn’t deep. When the sun came up, it was scorched, and since it had no root, it withered away. Other seed fell among thorns, and the thorns came up and choked it, and it didn’t produce fruit. Still other seed fell on good ground and it grew up, producing fruit that increased thirty, sixty, and a hundred times.” Then he said, “Let anyone who has ears to hear listen.”
@@ -58,11 +60,15 @@ draft: false
 
 >Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >1 Corinthians 15:1-11 (CSB) ow I want to make clear for you, brothers and sisters, the gospel I preached to you, which you received, on which you have taken your stand and by which you are being saved, if you hold to the message I preached to you—unless you believed in vain. For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, then to the Twelve. Then he appeared to over five hundred brothers and sisters at one time; most of them are still alive, but some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one born at the wrong time, he also appeared to me.
 >
 >For I am the least of the apostles, not worthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, yet not I, but the grace of God that was with me. Whether, then, it is I or they, so we proclaim and so you have believed.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

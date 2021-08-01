@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 ### Abraham
@@ -107,6 +109,8 @@ God is our All-in-all.
 >establish for us the work of our hands—  
 >establish the work of our hands!
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >2 Thessalonians 2:13-14 (CSB) But we ought to thank God always for you, brothers and sisters loved by the Lord, because from the beginning God has chosen you for salvation through sanctification by the Spirit and through belief in the truth. He called you to this through our gospel, so that you might obtain the glory of our Lord Jesus Christ.
@@ -118,6 +122,8 @@ God is our All-in-all.
 >John 10:27-30 (CSB) My sheep hear my voice, I know them, and they follow me. I give them eternal life, and they will never perish. No one will snatch them out of my hand. My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
 >John 12:32 (CSB) As for me, if I am lifted up from the earth I will draw all people to myself.”
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

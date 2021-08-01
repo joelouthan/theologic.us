@@ -86,7 +86,9 @@ The format will be simple. Here's a little template that I will be using
 
 What is the text we will be studying today?
 
-### The Support
+#<div style="page-break-after: always;"></div>
+
+## The Support
 
 What, if any, other text supports what we are studying today? (If there is none, then we will won't get bogged down.)
 
@@ -94,11 +96,15 @@ What, if any, other text supports what we are studying today? (If there is none,
 
 What does the text say about God?
 
-### The Gospel
+#<div style="page-break-after: always;"></div>
+
+## The Gospel
 
 What is the good news?
 
-### Our Responsibility
+#<div style="page-break-after: always;"></div>
+
+## Our Responsibility
 
 What do we do now? Or as I like to say, "Where does God's grace have me now?"
 

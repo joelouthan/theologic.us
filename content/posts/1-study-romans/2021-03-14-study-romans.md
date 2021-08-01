@@ -19,6 +19,8 @@ draft: false
 >
 >This is why the promise is by faith, so that it may be according to grace, to guarantee it to all the descendants—not only to the one who is of the law but also to the one who is of Abraham’s faith. He is the father of us all. As it is written: I have made you the father of many nations— in the presence of the God in whom he believed, the one who gives life to the dead and calls things into existence that do not exist. He believed, hoping against hope, so that he became the father of many nations according to what had been spoken: So will your descendants be. He did not weaken in faith when he considered his own body to be already dead (since he was about a hundred years old) and also the deadness of Sarah’s womb. He did not waver in unbelief at God’s promise but was strengthened in his faith and gave glory to God, because he was fully convinced that what God had promised, he was also able to do. Therefore, it was credited to him for righteousness. Now it was credited to him was not written for Abraham alone, but also for us. It will be credited to us who believe in him who raised Jesus our Lord from the dead. He was delivered up for our trespasses and raised for our justification.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Matthew 5:17–20 (CSB) “Don’t think that I came to abolish the Law or the Prophets. I did not come to abolish but to fulfill. For truly I tell you, until heaven and earth pass away, not the smallest letter or one stroke of a letter will pass away from the law until all things are accomplished. Therefore, whoever breaks one of the least of these commands and teaches others to do the same will be called least in the kingdom of heaven. But whoever does and teaches these commands will be called great in the kingdom of heaven. For I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will never get into the kingdom of heaven.
@@ -59,6 +61,8 @@ That infinite distance of God from man is what we call the holiness of God.
 
 Holy, holy, holy is the God Almighty, who was, and is, and is to come.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 Both of the historical responses of man towards God have been foolish. So don't be foolish.
@@ -72,6 +76,8 @@ You are going to need someone infinite between God and man to fill that gap. Wha
 Who can bridge that gap for us?
 
 Or as Paul is going to say later in the Romans 7: "Wretched man that I am! Who will save me from this body of death?"
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

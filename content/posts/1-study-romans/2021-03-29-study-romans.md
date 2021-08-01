@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:28 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Romans 8:9–11 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
@@ -93,6 +95,8 @@ I beg you: stop listening to them. They are promising things that God never prom
 
 I say that to say: all things means all things.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 The salvation of God for his people is never an add-on to your life to make it better. It requires you to live a completely different life than you did before.
@@ -100,6 +104,8 @@ The salvation of God for his people is never an add-on to your life to make it b
 >Romans 8:9–11 You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
 
 >Romans 8:14–17 For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!” The Spirit himself bears witness with our spirit that we are children of God, and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

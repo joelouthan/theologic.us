@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:33 (CSB) Who can bring an accusation against God’s elect? God is the one who justifies.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Psalm 51:4 Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.
@@ -45,6 +47,8 @@ God alone justifies.
 
 Not only God justifies, he justifies the ungodly. He did this by sending his Son, Jesus Christ, to live, die, rise from dead and ascended to heaven so that we would be his people and he would be our God.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >>Romans 5:6-11 (CSB) or while we were still helpless, at the right time, Christ died for the ungodly. For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. But God proves his own love for us in that while we were still sinners, Christ died for us. How much more then, since we have now been justified by his blood, will we be saved through him from wrath. For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life. And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
@@ -54,6 +58,8 @@ That is the good news: God did it all.
 And the power of the cross of Christ is not that you activate it by believing in him but rather, Christ did save his people from their sins.
 
 Let us say, theologically you know this. But do you believe it? Does your life look like you believe it? I am not talking struggling with doubt or you might have questions. I am asking you this, "Are you trusting yourself and the good things you have done or are you trusting that God will do exactly what he said he would do?"
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

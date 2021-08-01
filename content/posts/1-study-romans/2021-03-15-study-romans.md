@@ -17,6 +17,8 @@ draft: false
 
 >Romans 5:1–5 (CSB) Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. We have also obtained access through him by faith into this grace in which we stand, and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Romans 8:28–29 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
@@ -79,11 +81,15 @@ And we made it through to the other side together.
 
 And that wasn't the end of my running away. I always prone to wonder. But God is prone to come find me and bring me home.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 We are never defined by our circumstances. But when life is kicking you in the privates over and over again; when you sit under the crushing force of an abusive spouse; when it has felt like Psalm 22:1-2 every day for years on end...
 
 God is good. God is there. God is our healer. God is our defender. God is our preserver. Nothing will snatch me from his hands. Nothing can separate from the love of God that is in only in Christ Jesus my Lord. There is no condemnation for me. There is only the path of life, fullness of joy, pleasures evermore, and perfect satisfaction when that one day I get to look into the loving eyes of my beautiful Savior.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

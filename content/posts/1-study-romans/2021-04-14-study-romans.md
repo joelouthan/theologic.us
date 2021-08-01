@@ -30,6 +30,8 @@ draft: false
 >
 >Regarding the gospel, they are enemies for your advantage, but regarding election, they are loved because of the patriarchs, since God’s gracious gifts and calling are irrevocable. As you once disobeyed God but now have received mercy through their disobedience, so they too have now disobeyed, resulting in mercy to you, so that they also may now receive mercy. For God has imprisoned all in disobedience so that he may have mercy on all.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 There is a lot here. Let us walk through the passage.
@@ -80,6 +82,8 @@ Back to Romans 11, starting at verse 16
 
 God is going to use whomever he will to draw anybody he will. But people are only saved by God alone. We are called to proclaim the gospel and live our lives in response to that great gospel. This passage is to guard against any replacement theology--Gentiles are replacing Jewish people as His chosen people. For the non-Jew, we are simply grafted in by his wonderful grace into this family. We, by faith alone, are called the sons of Abraham. Abraham believed the gospel of God and it was counted to him as righteousness. For those of us who believe in the gospel of God, that counts as God's righteousness to us.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 ><sup>25</sup>I don’t want you to be ignorant of this mystery, brothers and sisters, so that you will not be conceited: A partial hardening has come upon Israel until the fullness of the Gentiles has come in. And in this way all Israel will be saved, as it is written,
@@ -92,6 +96,8 @@ God is going to use whomever he will to draw anybody he will. But people are onl
 >Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
 The cross of Christ strips every believer of all of their sins. They are free to worship and praise and live in the glory of God.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

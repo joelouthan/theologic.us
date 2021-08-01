@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:34 (CSB) Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 ### God makes a covenant with Noah and then
@@ -66,6 +68,8 @@ God saves the condemned.
 >
 >So he said to them again, “I am going away, and you will seek me, and you will die in your sin. Where I am going, you cannot come.” So the Jews said, “Will he kill himself, since he says, ‘Where I am going, you cannot come’?” He said to them, “You are from below; I am from above. You are of this world; I am not of this world. I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.” So they said to him, “Who are you?” Jesus said to them, “Just what I have been telling you from the beginning. I have much to say about you and much to judge, but he who sent me is true, and I declare to the world what I have heard from him.” They did not understand that he had been speaking to them about the Father. So Jesus said to them, “When you have lifted up the Son of Man, then you will know that I am he, and that I do nothing on my own authority, but speak just as the Father taught me. And he who sent me is with me. He has not left me alone, for I always do the things that are pleasing to him.” As he was saying these things, many believed in him.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >John 3:16 For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
@@ -73,6 +77,8 @@ God saves the condemned.
 >Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
 >Romans 5:8 but God shows his love for us in that while we were still sinners, Christ died for us.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:32 (CSB) He did not even spare his own Son but gave him up for us all. How will he not also with him grant us everything?
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Psalms 23:1 (CSB) The LORD is my shepherd;  
@@ -42,6 +44,8 @@ In order for you to get to God, God is going to have to provide everything for y
 
 God is infinite. Also, he is infinitely far away from our sins.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 We cannot hope to do, say, or promise anything of our own that can bridge the gap between us and God. If God was a straight line from us and we took one step towards him, we would not be closer. Not at all. Just like in the Tower of Babel, we think we are getting closer to God but honestly, we are filling ourselves with our self-righteousness. And what does that do? Increase our guilt in the sight of the Holy God.
@@ -62,6 +66,8 @@ Piece together these two passages:
 >Romans 3:23-26 (CSB) For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
 
 Because God does not lie, all of his promises are yes and amen, and whatever promises he makes, he absolutely keeps, then the moment he appeared to Adam and Eve and preached the good news that Christ was coming to be born as ain 
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

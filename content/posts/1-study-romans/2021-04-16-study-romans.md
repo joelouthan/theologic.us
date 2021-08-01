@@ -17,6 +17,8 @@ draft: false
 
 >Romans 12:1-2 (CSB) Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship. Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 ### Therefore
@@ -86,9 +88,13 @@ Anything that is antithetical to the gospel--legalism or disregard for the law o
 
 Only God is worthy to be praised, worship, and adored.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 Trust in God. Now, go and sin no more.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

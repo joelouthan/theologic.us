@@ -28,6 +28,8 @@ draft: false
 >and to him are all things.  
 >To him be the glory forever. Amen.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Proverbs 25:2 (CSB) It is the glory of God to conceal a matter  
@@ -65,9 +67,13 @@ draft: false
 >by making peace  
 >through his blood, shed on the cross.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Colossians 1:21-23 (CSB) Once you were alienated and hostile in your minds as expressed in your evil actions. But now he has reconciled you by his physical body through his death, to present you holy, faultless, and blameless before him— if indeed you remain grounded and steadfast in the faith and are not shifted away from the hope of the gospel that you heard. This gospel has been proclaimed in all creation under heaven, and I, Paul, have become a servant of it.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

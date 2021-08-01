@@ -17,6 +17,8 @@ draft: false
 
 >Romans 5:6–11 (CSB) For while we were still helpless, at the right time, Christ died for the ungodly. For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. But God proves his own love for us in that while we were still sinners, Christ died for us. How much more then, since we have now been justified by his blood, will we be saved through him from wrath. For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life. And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Ephesians 1:3–14 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
@@ -41,6 +43,8 @@ Who loved whom first? Was it God or you?
 
 Did God start loving you when you decided to clean yourself up, presented yourself a pretty good person or did God love you when you were yet a sinner?
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
@@ -48,6 +52,8 @@ Did God start loving you when you decided to clean yourself up, presented yourse
 >But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
 
 Are we saved by our good works? Are saved to God by ourselves first? How did God save us?
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

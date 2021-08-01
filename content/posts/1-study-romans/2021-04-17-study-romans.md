@@ -17,6 +17,8 @@ draft: false
 
 >Romans 12:3-8 (CSB) For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one. Now as we have many parts in one body, and all the parts do not have the same function, in the same way we who are many are one body in Christ and individually members of one another. According to the grace given to us, we have different gifts: If prophecy, use it according to the proportion of one’s faith; if service, use it in service; if teaching, in teaching; if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Hebrews 12:1-2 (CSB) Therefore, since we also have such a large cloud of witnesses surrounding us, let us lay aside every hindrance and the sin that so easily ensnares us. Let us run with endurance the race that lies before us, keeping our eyes on Jesus, the pioneer and perfecter of our faith. For the joy that lay before him, he endured the cross, despising the shame, and sat down at the right hand of the throne of God.
@@ -59,9 +61,13 @@ God came to us. God made it right for us. God did all the work so that we now ge
 
 Romans 2:4 says his kindness was meant for our repentance. How do you think one of the ways that God demonstrates his kindness to the world? Sending his Son, yes, and also through our good works--which are now actually **good** because we have been made righteous by Christ.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 Here is the gospel: nothing of our ourselves but from Him and to Him belongs all the glory. The glory is on him, not us. We were born with natural talents and who gave that? God. We were born in sin and who gives us salvation? God. We repent and turn from sin and back to God. And who gives that gift of repentance? God. And with our hearts, we worship God. But who filled the infinite whole within our hearts? (Ecclesiastes 3:11) That's right, you've guessed it. God and God out of the sovereign grace of the Father, by the resurrecting power of the Holy Spirit, through the perfect life and bloodshed body of the Jesus Christ His Son.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

@@ -37,6 +37,8 @@ draft: false
 >we would have become like Sodom,  
 >and we would have been made like Gomorrah.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 God saves whom he will save.
@@ -61,6 +63,8 @@ The third response is "where shall we go?". If God is the only one who can save 
 >
 >“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 Guess what? If you turn to God, go to God, run to God, ask for God, guess what you are getting in return?
@@ -68,6 +72,8 @@ Guess what? If you turn to God, go to God, run to God, ask for God, guess what y
 God.
 
 It is futile to give a second thought to whether you are predestined to salvation and one of the elect. It is like my old seminary professor, Sinclair Ferguson, said, "You can argue and debate about predestination all the days of your life but unless you have placed your hope, trust, belief, faith and obedience in Jesus Christ, you are not saved. I don't care how predestined you think you are. You are not saved by predestination alone. You are not saved by elect alone. We are only saved by Christ alone."
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

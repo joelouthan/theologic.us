@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:31 What then shall we say to these things? If God is for us, who can be against us?
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 If God is for us, who can be against us? I will use the words of Paul and what he says about the believer thus far in Romans:
@@ -81,6 +83,8 @@ God is for us.
 
 So if God is for us, who can be against us? We have already teased out how God saves his people. Not a magic wand but through blood and water and action and calling and voice and doing. Not in logic but in who He is. There are no loopholes. There are no gotchas. There are no spiritual tripwires with God.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 The gospel of Christ calls us to obey Christ. How? Repent and trust in Him.
@@ -90,6 +94,8 @@ You are going to mess up. You are going to fail. Christ already saw that--rememb
 Christ didn't die for his people for the possibility of you turning to him. No. Predestinated, called, justified, and glorified you on the Cross.
 
 "What? I don't get a choice in the matter." I will let you debate that question with your friends. But let me go ahead and settle that argument: dead people can't choose.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

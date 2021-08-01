@@ -21,6 +21,8 @@ draft: false
 >we are being put to death all day long;  
 >we are counted as sheep to be slaughtered.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Acts 17:24-28 (ESV) The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything. And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, for  
@@ -38,9 +40,13 @@ God is above our circumstances and God does not lose his children.
 
 >John 10:25–30 Jesus answered them, “I told you, and you do not believe. The works that I do in my Father’s name bear witness about me, but you do not believe because you are not among my sheep. My sheep hear my voice, and I know them, and they follow me. I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Romans 10:8–17 But what does it say? “The word is near you, in your mouth and in your heart” (that is, the word of faith that we proclaim); because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved. For the Scripture says, “Everyone who believes in him will not be put to shame.” For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. For “everyone who calls on the name of the Lord will be saved.” How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, “How beautiful are the feet of those who preach the good news!” But they have not all obeyed the gospel. For Isaiah says, “Lord, who has believed what he has heard from us?” So faith comes from hearing, and hearing through the word of Christ.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:5–11 (CSB) For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit.  Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace.  The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so.  Those who are in the flesh cannot please God.  You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him.  Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness.  And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 There are only two ways in this life.
@@ -45,6 +47,8 @@ God alone is life.
 
 There is one God. He is the Creator of Heaven and Earth. He is without a beginning nor a end because he alone is the Beginning and the End.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Genesis 3:15 (CSB) I will put hostility between you and the woman,  
@@ -72,6 +76,8 @@ Who will be merely injured by the Liar?
 >And all the tribes of the earth  
 >will mourn over him.  
 >So it is to be. Amen.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

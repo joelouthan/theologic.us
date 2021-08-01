@@ -17,6 +17,8 @@ draft: false
 
 >Romans 1:1 (CSB) Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 ### The Damascus Road
@@ -68,6 +70,8 @@ God will save whom he will save.
 
 >Ephesians 1:5 (CSB) He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 The good news is this: that there is nothing that you could have ever done or will ever do that will keep you from be saved by God for God from God unto God.
@@ -75,6 +79,8 @@ The good news is this: that there is nothing that you could have ever done or wi
 Make no mistake: without a faith in Christ Jesus as your Lord and Savior, you will not be saved. At the exact same time, salvation is not dependent on you but Him. This is grace.
 
 >Ephesians 2:8–9 (CSB) For you are saved by grace through faith, and this is not from yourselves; it is God’s gift— not from works, so that no one can boast.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

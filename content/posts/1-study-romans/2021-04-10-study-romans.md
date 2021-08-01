@@ -26,6 +26,8 @@ draft: false
 
 >Romans 4:3-5 (CSB) For what does the Scripture say? Abraham believed God, and it was credited to him for righteousness. Now to the one who works, pay is not credited as a gift, but as something owed. But to the one who does not work, but believes on him who justifies the ungodly, his faith is credited for righteousness.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >1 Corinthians 1:20 (CSB) Where is the one who is wise? Where is the teacher of the law? Where is the debater of this age? Hasn’t God made the world’s wisdom foolish?
@@ -55,6 +57,8 @@ Remember what God says about our own works?
 >all of us wither like a leaf,  
 >and our iniquities carry us away like the wind.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 What is the relief? How can we be made righteous before God?
@@ -64,6 +68,8 @@ What is the relief? How can we be made righteous before God?
 Christ crucified. All of our sins and trespasses and wickedness and treason is placed wholly upon Christ as the innocent lamb. And he was killed and sacrificed for our sake so that we are righteous in his sight.
 
 >2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

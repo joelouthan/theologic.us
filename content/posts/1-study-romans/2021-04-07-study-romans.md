@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:38-39 (CSB) For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >1 Corinthians 15:12-19 (CSB) Now if Christ is proclaimed as raised from the dead, how can some of you say, “There is no resurrection of the dead”? If there is no resurrection of the dead, then not even Christ has been raised; and if Christ has not been raised, then our proclamation is in vain, and so is your faith. Moreover, we are found to be false witnesses about God, because we have testified wrongly about God that he raised up Christ—whom he did not raise up, if in fact the dead are not raised. For if the dead are not raised, not even Christ has been raised. And if Christ has not been raised, your faith is worthless; you are still in your sins. Those, then, who have fallen asleep in Christ have also perished. If we have put our hope in Christ for this life only, we should be pitied more than anyone.
@@ -31,11 +33,15 @@ Let me contend to you that God has spelled out precisely what His love is all ab
 
 The birth, life, death, burial, resurrection, and ascension of Christ is the love of God manifested to us all. Believe in him, trust in him, and obey him and you will have eternal life.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >John 3:12-21 (CSB) If I have told you about earthly things and you don’t believe, how will you believe if I tell you about heavenly things? No one has ascended into heaven except the one who descended from heaven —the Son of Man.
 >
 >“Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, so that everyone who believes in him may have eternal life. For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Anyone who believes in him is not condemned, but anyone who does not believe is already condemned, because he has not believed in the name of the one and only Son of God. This is the judgment: The light has come into the world, and people loved darkness rather than the light because their deeds were evil. For everyone who does evil hates the light and avoids it, so that his deeds may not be exposed. But anyone who lives by the truth comes to the light, so that his works may be shown to be accomplished by God.”
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

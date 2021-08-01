@@ -15,6 +15,8 @@ draft: true
 ---
 ## The Text
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 <div style="page-break-after: always;"></div>
@@ -23,7 +25,11 @@ draft: true
 
 ## God
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

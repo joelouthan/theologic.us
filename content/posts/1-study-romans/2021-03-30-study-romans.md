@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 God did not choose us because we were good. He chose us while we were wicked in his sight.
@@ -39,6 +41,8 @@ In the midst of our sinful lives, in the middle of our trespasses and our wicked
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.  But when the kindness of God our Savior and his love for mankind appeared,  he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.  He poured out his Spirit on us abundantly through Jesus Christ our Savior  so that, having been justified by his grace, we may become heirs with the hope of eternal life.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 When God swaps the heart, our ultimate desires are for him.
@@ -58,6 +62,8 @@ Do you have hidden sins? Have you given into those sins or are you pleading for 
 In other words: do you want to keep your sin? Do you? Be honest. Don't lie to me. I am not God nor can I save you.  Be honest with yourself.
 
 The moment that you can be honest about yourself to yourself is the very moment that God will work in you. But keep lying to yourself--or as Paul says in it in Romans 1, keep suppressing the truth of God in your mind--and you are going to lie to yourself straight into the wrath of God.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

@@ -17,6 +17,8 @@ draft: false
 
 >Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons. For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >John 20:17 (CSB) Don’t cling to me,” Jesus told her, “since I have not yet ascended to the Father. But go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God.”
@@ -32,6 +34,8 @@ draft: false
 God is our Father. Christ is our eldest brother. Spirit bears witness with our spirit that we are the children of God.
 
 >Hebrews 1:1-2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
+
+<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -54,6 +58,8 @@ God is our Father. Christ is our eldest brother. Spirit bears witness with our s
 >Titus 3:3-7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 >
 >But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

@@ -19,6 +19,8 @@ draft: false
 >
 >Now it is not as though the word of God has failed, because not all who are descended from Israel are Israel. Neither is it the case that all of Abraham’s children are his descendants. On the contrary, your offspring will be traced through Isaac. That is, it is not the children by physical descent who are God’s children, but the children of the promise are considered to be the offspring. For this is the statement of the promise: At this time I will come, and Sarah will have a son. And not only that, but Rebekah conceived children through one man, our father Isaac. For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand— not from works but from the one who calls—she was told, The older will serve the younger. As it is written: I have loved Jacob, but I have hated Esau.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 Not going to lie, I am completely intimidated by Romans 9 and I think rightfully so. I have read books and seen debates on Romans chapters 9, 10, and 11.
@@ -89,6 +91,8 @@ I grew up with the false doctrine that somehow some way, the Jewish people were 
 
 Christ himself have become our curse so that we might be saved to God.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 >Galatians 3:27-29 (CSB) For those of you who were baptized into Christ have been clothed with Christ. There is no Jew or Greek, slave or free, male and female; since you are all one in Christ Jesus. And if you belong to Christ, then you are Abraham’s seed, heirs according to the promise.
@@ -96,6 +100,8 @@ Christ himself have become our curse so that we might be saved to God.
 Here's the kick: if I belong to Christ, then I am Abraham's seed, heirs according to the promise.
 
 I am related to Abraham by faith alone in Jesus Christ.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

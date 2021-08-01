@@ -17,6 +17,8 @@ draft: false
 
 >Romans 6:15–23 (CSB) What then? Should we sin because we are not under the law but under grace? Absolutely not!  Don’t you know that if you offer yourselves to someone as obedient slaves, you are slaves of that one you obey—either of sin leading to death or of obedience leading to righteousness?  But thank God that, although you used to be slaves of sin, you obeyed from the heart that pattern of teaching to which you were handed over,  and having been set free from sin, you became enslaved to righteousness.  I am using a human analogy because of the weakness of your flesh. For just as you offered the parts of yourselves as slaves to impurity, and to greater and greater lawlessness, so now offer them as slaves to righteousness, which results in sanctification.  For when you were slaves of sin, you were free with regard to righteousness.  So what fruit was produced then from the things you are now ashamed of? The outcome of those things is death.  But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life!  For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >Mark 5:1–20 (CSB) They came to the other side of the sea, to the region of the Gerasenes.  As soon as he got out of the boat, a man with an unclean spirit came out of the tombs and met him.  He lived in the tombs, and no one was able to restrain him anymore—not even with a chain— because he often had been bound with shackles and chains, but had torn the chains apart and smashed the shackles. No one was strong enough to subdue him.  Night and day among the tombs and on the mountains, he was always crying out and cutting himself with stones.
@@ -43,6 +45,8 @@ God alone is our grace.
 
 Who is that? That is Jesus Christ.
 
+<div style="page-break-after: always;"></div>
+
 ## The Gospel
 
 We don't get to sin more because we are in bondage to sin. That is something we have to realize about unbelievers: the best that they can do is sin. Because they are not in Christ, everything they do is in sin.
@@ -54,6 +58,8 @@ Just because you behave better does not make a believer.
 I cannot do the work of the Holy Spirit. But there are people listening and reading this Bible Study who are entertaining sin and not really wanting to change their mind about it and definitely have no interested in changing their lives. They want to go to church, be a member, read the Bible, memorize verses, sing songs, volunteer in Kid's Ministry, even be on staff of church still thinking that they have done enough to be consider a Christian. And some sin doesn't lead to immediate death so the consequences are little. But some of you are playing with such sins that if you get caught, it will completely blow up your entire lives. But I think that you have convinced yourself when that happens, you are going to be really sorry, there might be tears, and you will try really hard.
 
 And you will still be under the wrath of God for your unbelief in the Lord Jesus Christ.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 

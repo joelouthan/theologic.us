@@ -21,6 +21,8 @@ draft: false
 >
 >So then, as through one trespass there is condemnation for everyone, so also through one righteous act there is justification leading to life for everyone. For just as through one man’s disobedience the many were made sinners, so also through the one man’s obedience the many will be made righteous. The law came along to multiply the trespass. But where sin multiplied, grace multiplied even more so that, just as sin reigned in death, so also grace will reign through righteousness, resulting in eternal life through Jesus Christ our Lord.
 
+<div style="page-break-after: always;"></div>
+
 ## The Support
 
 >1 Corinthians 15:20–28 (CSB) But as it is, Christ has been raised from the dead, the firstfruits of those who have fallen asleep. For since death came through a man, the resurrection of the dead also comes through a man. For just as in Adam all die, so also in Christ all will be made alive.
@@ -41,6 +43,8 @@ God rules and reigns over all of creation.
 
 Christ, the Son of God, who is God, has put Satan, demons, sin, hell, and death "to open shame" (ESV) and disgraced them publicly. How? "God triumphed over them in Him."
 While we are the subject, God does not lose. He always win. He is triumphant. He gets all the worship and praised due. He gets this alone for just being the Triune God. And then he creates the heavens and the earth. And then He creates Mankind. Man sins against God. But yet, God preaches the gospel. He saves his people. By how? Openly shaming Satan, demons, sin, hell, and death. For whom? For all who believe in His Son shall not perish but have eternal life.
+
+<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -69,6 +73,8 @@ What if flipping tables was not Jesus at his angriest? I can tell you it was not
 This. Right here. Christ was so full of rage because Death took one more loved one away. Christ could have had the last word--he was heading to the Cross. But in his righteous anger and sadness, He decides to do something right now. He commands Death to stand down and he calls Life into a person that belong to Him forever.
 
 You shall name Him, Jesus, for He will save His people from their sins.
+
+<div style="page-break-after: always;"></div>
 
 ## Our Responsibility
 
