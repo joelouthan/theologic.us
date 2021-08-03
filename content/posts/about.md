@@ -134,3 +134,7 @@ What do we do now? Or as I like to say, “Where does God’s grace have me now?
 A simple prayer to God.
 
 ## Media
+
+Today's episode is always at [The Study](http://study.theologic.us/) feed.
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
