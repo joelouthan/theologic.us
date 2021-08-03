@@ -82,7 +82,7 @@ John was not refuting Paul in Romans 6:23:
 
 >Romans 6:23 (CSB) For the wages of sin is death...
 
-But all sin is evil because it is treason against God who is good and holy. And there is sin so destructive that it will not kill you immediately. But sin is chaotic in this way--if you continue down that path, it will consume you and leave you for dead.
+But all sin is evil because it is treason against God who is good and holy. And there is sin so destructive that it will kill you immediately. But sin is chaotic in this way--if you continue down that path, it will consume you and leave you for dead.
 
 Is sin evil and is evil sin? I can think of no better way to explain this but by 1st and 2nd Kings.
 
