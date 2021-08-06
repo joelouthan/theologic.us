@@ -43,7 +43,7 @@ The cross of Christ is the power to forgive sin and cure our diseases
 >and the LORD has punished him  
 >for the iniquity of us all.
 
-### When God completely removes our sin and we are with God, can we be hurt or sick again? Can we die again?
+### When God completely removes our sin and we are with God for all of eternity, can we be hurt or sick again? Can we die again?
 
 >Isaiah 25:8 (CSB)  
 >When he has swallowed up death once and for all,  
@@ -109,7 +109,7 @@ Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal 
 
 ## Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/mark-21-12-jesus-forgives)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
 
