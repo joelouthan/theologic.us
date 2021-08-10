@@ -1,5 +1,5 @@
 ---
-title: "Doctrine: 1 Chronicles 29:10-18 Pray Like This: Yours is The Kingdom, O Lord"
+title: "📺 Doctrine: 1 Chronicles 29:10-18 Pray Like This: Yours is The Kingdom, O Lord"
 author: Joseph Louthan
 publishDate: 2019-11-28T06:00:00-06:00
 url: /prayer/2019-11-28-praying-through-the-lords-prayer/
@@ -17,20 +17,7 @@ draft: false
 
 ## Pray Then Like This
 
->Matthew 6:9-15 (CSB)
->“Therefore, you should pray like this:
->Our Father in heaven,
->your name be honored as holy.
->Your kingdom come.
->Your will be done
->on earth as it is in heaven.
->Give us today our daily bread.
->And forgive us our debts,
->as we also have forgiven our debtors.
->And do not bring us into temptation,
->but deliver us from the evil one.
->
->“For if you forgive others their offenses, your heavenly Father will forgive you as well. But if you don’t forgive others, your Father will not forgive >your offenses.
+>Matthew 6:13b (KJV) For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 ## Yours is The Kingdom, O Lord
 
@@ -41,26 +28,19 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-My Savior
+My Lord and My God
 </div>
 &nbsp;
 
 ```text
-I thank you for giving me strength. You are my Christ Jesus my Lord. You alone have judged me faithful. You alone have commissioned me to your service.
-
-I know that I have blaspheme your holy name, sought to beat down those who love you and and with every beat of my heart, every thought in my head and ounce of my strength, I violently opposed your love which is none sweet. 
-
-But you are God--high and lifted up, exalted above every other name. You did not respond in kind but rather bathed my soul in tenderest mercies because I brutish and ignorant beast before you--I knew you but I sought to deny you because I did not want to obey you holy word. And yet, once more, your grace overwhelming overflowed for me with the faith and love that can only come from you, my Christ Jesus.
-
-If I had only one thing to say, I will say this within absolute truth: that you came into the my world to save me, the wickedest sinner of all.
-
-Here is why you gave me mercy: you would show the world over and over again that your everlasting mighty arm of salvation is never too short to quickly grab the most vile son of Adam from the clutches of death and despair. You were forever patient for me. And most assuredly, your sweet kindness has absolutely lead me to repentance.
-
 So what then can I say?  
 So what then can I do?  
-All I can do is simply thank you.  
+All I can do is simply thank you.
+
 So from the bottom of my heart,  
-I thank you for giving me strength.Thank you my Father God.  
+I thank you for giving me strength.
+
+Thank you my Father God.  
 Thank you my Christ Jesus.  
 Thank you my Holy Spirit.  
 
@@ -255,3 +235,9 @@ the Lord Jesus Christ.
 
 Amen.
 ```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-1-chronicles-2910-18-pray-like-this-yours-is-the-kingdom-o-lord)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
