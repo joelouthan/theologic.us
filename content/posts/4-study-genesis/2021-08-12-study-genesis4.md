@@ -11,7 +11,7 @@ series:
   - "Bible Study: Genesis"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -143,7 +143,7 @@ You must do what God has commanded every single son of Adam to do if they wanted
 
 >Romans 10:8-13 (CSB) On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim: 9 If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. 10 One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. 11 For the Scripture says, Everyone who believes on him will not be put to shame, 12 since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. 13 For everyone who calls on the name of the Lord will be saved.
 
-From Genesis to Revalation. Day 6 of creation to the last day. It doesn't matter. You want God's daily mercies, his oceans of grace, and his unending love for you even if you have done unspeakable evil and live in shame and fear. 
+From Genesis to Revelation. Day 6 of creation to the last day. It doesn't matter. You want God's daily mercies, his oceans of grace, and his unending love for you even if you have done unspeakable evil and live in shame and fear. 
 
 Call upon his name and you will be saved. Full stop.
 
