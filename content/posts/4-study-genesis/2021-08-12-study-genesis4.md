@@ -91,7 +91,7 @@ draft: false
 
 #### Left unchecked, sin begats greater sin
 
->>23 Lamech said to his wives:  
+>23 Lamech said to his wives:  
 >Adah and Zillah, hear my voice;  
 >wives of Lamech, pay attention to my words.  
 >For I killed a man for wounding me,  
