@@ -60,8 +60,8 @@ params:
               url: /about/
             - name: "Study: Romans"
               url: /series/bible-study-romans/
-            - name: "Doctrine: The Lord's Prayer"
-              url: /series/praying-through-the-lords-prayer/
+            - name: "Doctrine: Ordo Salutis"
+              url: /series/ordo-salutis/
             - name: "Gospel Meditations: Pastorals"
               url: /series/gospel-meditations-pastorals/
             - name: "Study: Genesis"
