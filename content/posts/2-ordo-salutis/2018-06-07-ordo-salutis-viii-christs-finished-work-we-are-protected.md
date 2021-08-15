@@ -12,7 +12,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 This has been one of the most difficult chapters to write because there is so much to be packed into the doctrine of propitiation. The only way I could approach this is to start at the beginning and start at the high altitude and work our way down. To understand propitiation, we must understand God, his law, his love and his holiness.

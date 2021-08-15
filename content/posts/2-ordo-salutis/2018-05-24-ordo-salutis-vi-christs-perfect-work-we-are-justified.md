@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 Many people tried to say that the God of the Old Testament and the God of the New Testament are completely two different gods. Have you heard this argument? Why was God so angry? Why is Jesus so loving and kind? Was God in the Old Testament was the Father and then his Son took over in the New? I don’t understand a god that would punish people. I can only understand a god that loves.

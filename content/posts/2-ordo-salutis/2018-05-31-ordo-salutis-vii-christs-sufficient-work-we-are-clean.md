@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 This is the magnificence of the True God.

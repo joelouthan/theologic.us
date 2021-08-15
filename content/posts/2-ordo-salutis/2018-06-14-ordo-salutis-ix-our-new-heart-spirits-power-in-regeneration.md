@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 When God saved us from eternity past, His saving work was not finished when Christ lived, died, buried, and rose again, as though there is nothing for him for his people.

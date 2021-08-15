@@ -1,5 +1,5 @@
 ---
-title: 'Ordo Salutis I: The Overflowing Love of God'
+title: '📺 Ordo Salutis I: The Overflowing Love of God'
 author: Joseph Louthan
 date: 2018-04-19T12:00:48+00:00
 url: /ordo-salutis/ordo-salutis-i-the-overflowing-love-of-god/
@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: family-devos
+css: "home-devos"
 draft: false
 ---
 To proclaim ourselves as Christians to proclaim that we believe and trust upon Christ as our Saviour and Lord.

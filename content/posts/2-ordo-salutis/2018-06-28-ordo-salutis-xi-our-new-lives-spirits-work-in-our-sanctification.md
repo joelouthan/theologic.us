@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 >Isaiah 48:9-11 (CSB) I will delay my anger for the sake of my name,  

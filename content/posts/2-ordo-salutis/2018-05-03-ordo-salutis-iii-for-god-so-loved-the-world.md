@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 Now that we have established who we are in the sight of God, let us tackle the bigger, nay impossible question:

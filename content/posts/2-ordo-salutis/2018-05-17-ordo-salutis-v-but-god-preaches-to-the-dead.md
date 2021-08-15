@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: prayers
+css: "home-devos"
 draft: false
 ---
 John 6:44-47 No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day. It is written in the Prophets, ‘And they will all be taught by God.’ Everyone who has heard and learned from the Father comes to me—not that anyone has seen the Father except he is from God; he has seen the Father. Truly, truly, I say to you, whoever believes has eternal life.
