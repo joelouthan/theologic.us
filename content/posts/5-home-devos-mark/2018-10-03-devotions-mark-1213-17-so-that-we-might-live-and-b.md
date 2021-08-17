@@ -1,5 +1,5 @@
 ---
-title: 'Mark 12:13-17 So That We Might Live and Belong to Him'
+title: "Mark 12:13-17 So That We Might Live and Belong to Him"
 author: Joseph Louthan
 date: 2018-10-03
 url: /home-devotions/2018-10-03-mark-1213-17-so-that-we-might-live-and-b.md/

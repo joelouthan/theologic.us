@@ -1,5 +1,5 @@
 ---
-title: 'Mark 12:38-40 So That We Might Live and Be In His Family Forever'
+title: "Mark 12:38-40 So That We Might Live and Be In His Family Forever"
 author: Joseph Louthan
 date: 2018-10-31
 url: /home-devotions/2018-10-31-mark-1238-40-so-that-we-might-live-and-b.md/

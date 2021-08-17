@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 5:25-34 Jesus Has The Power Over Disease
+title: "Home Devotions: Mark 5:25-34 Jesus Has The Power Over Disease"
 author: Joseph Louthan
 date: 2013-02-20
 url: /home-devotions/mark-525-34-jesus-has-the-power-over-disease/

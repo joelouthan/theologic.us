@@ -1,5 +1,5 @@
 ---
-title: 'Mark 11:1-11 So That We Might Live'
+title: "Mark 11:1-11 So That We Might Live'"
 author: Joseph Louthan
 type: post
 date: 2018-08-29

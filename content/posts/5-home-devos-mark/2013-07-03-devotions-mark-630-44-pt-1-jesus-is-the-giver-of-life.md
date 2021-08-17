@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 6:30-44 Pt. 1 Jesus is the Giver of Life
+title: "Home Devotions: Mark 6:30-44 Pt. 1 Jesus is the Giver of Life"
 author: Joseph Louthan
 date: 2013-07-03
 url: /home-devotions/mark-630-44-pt-1-jesus-is-the-giver-of-life/

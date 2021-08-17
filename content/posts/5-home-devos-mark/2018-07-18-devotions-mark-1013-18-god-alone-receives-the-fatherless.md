@@ -1,5 +1,5 @@
 ---
-title: 'Mark 10:13-16: God Alone Receives the Fatherless'
+title: "Mark 10:13-16: God Alone Receives the Fatherless"
 author: Joseph Louthan
 date: 2018-07-18T12:00:18+00:00
 url: /home-devotions/mark-1013-18-god-alone-receives-the-fatherless/

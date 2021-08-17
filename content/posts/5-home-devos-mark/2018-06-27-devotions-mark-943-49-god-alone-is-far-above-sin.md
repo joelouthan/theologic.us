@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 9:43-49 God Alone Is Far Above Sin
+title: "Home Devotions: Mark 9:43-49 God Alone Is Far Above Sin"
 author: Joseph Louthan
 date: 2018-06-27T12:00:18+00:00
 url: /home-devotions/mark-943-49-god-alone-is-far-above-sin/

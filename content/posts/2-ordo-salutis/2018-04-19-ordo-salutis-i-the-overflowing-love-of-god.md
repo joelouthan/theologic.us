@@ -1,5 +1,5 @@
 ---
-title: '📺 Ordo Salutis I: The Overflowing Love of God'
+title: '📺 Doctrine: Ordo Salutis I: The Overflowing Love of God'
 author: Joseph Louthan
 date: 2018-04-19T12:00:48+00:00
 url: /ordo-salutis/ordo-salutis-i-the-overflowing-love-of-god/
@@ -57,3 +57,9 @@ Passages to read for our next lesson:
 I am very excited to walk alongside you in this study.   I strongly encourage you to do all things, especially reading the word of God, bathed in prayer and seeking out His understanding and His will in all things.
 
 May God bless us all in this journey.
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-i--the-overflowing-love-of-god)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)

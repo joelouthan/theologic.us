@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 5:14-20 Jesus Commissions Us to Tell The Good News, Pt 1
+title: "Home Devotions: Mark 5:14-20 Jesus Commissions Us to Tell The Good News, Pt 1"
 author: Joseph Louthan
 date: 2013-01-30
 url: /home-devotions/mark-514-20-jesus-commissions-us-to-tell-the-good-news-pt-1/

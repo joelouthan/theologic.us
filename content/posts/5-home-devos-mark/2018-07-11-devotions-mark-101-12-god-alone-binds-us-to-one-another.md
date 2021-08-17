@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 10:1-12 God Alone Binds Us to One Another
+title: "Home Devotions: Mark 10:1-12 God Alone Binds Us to One Another"
 author: Joseph Louthan
 date: 2018-07-11T12:00:22+00:00
 url: /home-devotions/mark-101-12-god-alone-binds-us-to-one-another/

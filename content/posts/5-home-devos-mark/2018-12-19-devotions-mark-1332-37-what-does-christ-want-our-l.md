@@ -1,5 +1,5 @@
 ---
-title: 'Mark 13:32-37 What Does Christ Want? Our Love'
+title: "Mark 13:32-37 What Does Christ Want? Our Love"
 author: Joseph Louthan
 date: 2018-12-19
 url: /home-devotions/2018-12-19-mark-1332-37-what-does-christ-want-our-l.md/

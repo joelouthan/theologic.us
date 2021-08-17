@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 8:1-10 Jesus Opens Up Our Mouths So That We May Now Be Fed by God
+title: "Home Devotions: Mark 8:1-10 Jesus Opens Up Our Mouths So That We May Now Be Fed by God"
 author: Joseph Louthan
 date: 2015-10-14T12:00:51+00:00
 url: /home-devotions/mark-81-10-jesus-opens-up-our-mouths-so-that-we-may-now-be-fed-by-god/

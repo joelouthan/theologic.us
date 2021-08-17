@@ -1,5 +1,5 @@
 ---
-title: 'Mark 5:1-13 Jesus Rules & Reigns Over Satan and Demons, Pt 2'
+title: "Mark 5:1-13 Jesus Rules & Reigns Over Satan and Demons, Pt 2"
 author: Joseph Louthan
 date: 2013-01-16
 url: /home-devotions/mark-51-13-jesus-rules-reigns-over-satan-and-demons-pt-2/

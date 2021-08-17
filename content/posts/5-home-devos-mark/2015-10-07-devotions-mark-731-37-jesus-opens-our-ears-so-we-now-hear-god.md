@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 7:31-37 Jesus Opens Our Ears So We Now Hear God
+title: "Home Devotions: Mark 7:31-37 Jesus Opens Our Ears So We Now Hear God"
 author: Joseph Louthan
 date: 2015-10-07T12:00:00+00:00
 url: /home-devotions/mark-731-37-jesus-opens-our-ears-so-we-now-hear-god/

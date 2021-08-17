@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 9:33-37 God Alone Receives All Who Would Come
+title: "Home Devotions: Mark 9:33-37 God Alone Receives All Who Would Come"
 author: Joseph Louthan
 date: 2018-06-06T12:00:11+00:00
 url: /home-devotions/mark-933-37-god-alone-receives-all-who-would-come/

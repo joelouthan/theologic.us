@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 11:27-33 So That We Might Live and Know Him
+title: "Home Devotions: Mark 11:27-33 So That We Might Live and Know Him"
 author: Joseph Louthan
 date: 2018-09-19
 url: /home-devotions/2018-09-19-mark-11-27-33-so-that-we-might-live-and.md/

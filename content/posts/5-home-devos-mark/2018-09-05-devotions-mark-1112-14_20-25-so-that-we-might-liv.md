@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 11:12-14; 20-25 So That We Might Live and Never Die
+title: "Home Devotions: Mark 11:12-14; 20-25 So That We Might Live and Never Die"
 author: Joseph Louthan
 date: 2018-09-05
 url: /home-devotions/2018-09-05-mark-1112-14_20-25-so-that-we-might-liv.md/

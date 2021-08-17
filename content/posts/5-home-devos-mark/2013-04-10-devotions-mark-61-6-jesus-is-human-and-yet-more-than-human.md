@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 6:1-6 Jesus Is Human and Yet, More Than Human
+title: "Home Devotions: Mark 6:1-6 Jesus Is Human and Yet, More Than Human"
 author: Joseph Louthan
 date: 2013-04-10
 url: /home-devotions/mark-61-6-jesus-is-human-and-yet-more-than-human/

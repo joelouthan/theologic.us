@@ -1,5 +1,5 @@
 ---  
-title: Home Devotions: Mark 12:35-37 So That We Might Live and Be Glorified  
+title: "Home Devotions: Mark 12:35-37 So That We Might Live and Be Glorified  "
 author: Joseph Louthan  
 type: post  
 date: 2018-10-24  

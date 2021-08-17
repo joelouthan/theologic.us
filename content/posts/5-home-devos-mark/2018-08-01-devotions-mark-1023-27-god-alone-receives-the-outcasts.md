@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 10:23-27 God Alone Receives the Outcasts
+title: "Home Devotions: Mark 10:23-27 God Alone Receives the Outcasts"
 author: Joseph Louthan
 date: 2018-08-01T12:00:35+00:00
 url: /home-devotions/mark-1023-27-god-alone-receives-the-outcasts/

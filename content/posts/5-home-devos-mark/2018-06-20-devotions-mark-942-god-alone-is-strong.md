@@ -1,5 +1,5 @@
 ---
-title: 'Mark 9:42  God Alone Is Strong'
+title: "Mark 9:42  God Alone Is Strong"
 author: Joseph Louthan
 date: 2018-06-20T12:00:16+00:00
 url: /home-devotions/mark-942-god-alone-is-strong/

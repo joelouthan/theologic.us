@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 7:1-7 The Word of God is Love
+title: "Home Devotions: Mark 7:1-7 The Word of God is Love"
 author: Joseph Louthan
 date: 2014-01-22
 url: /home-devotions/mark-71-7-the-word-of-god-is-love/

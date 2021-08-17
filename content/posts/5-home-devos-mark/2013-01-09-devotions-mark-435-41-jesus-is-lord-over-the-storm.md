@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 4:35-41 Jesus Is Lord Over The Storm
+title: "Home Devotions: Mark 4:35-41 Jesus Is Lord Over The Storm"
 author: Joseph Louthan
 date: 2013-01-09
 url: /home-devotions/mark-435-41-jesus-is-lord-over-the-storm/

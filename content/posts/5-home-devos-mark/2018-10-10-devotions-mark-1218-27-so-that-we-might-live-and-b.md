@@ -1,5 +1,5 @@
 ---
-title: 'Mark 12:18-27 So That We Might Live and Be With Him Forever'
+title: "Mark 12:18-27 So That We Might Live and Be With Him Forever"
 author: Joseph Louthan
 date: 2018-10-10
 url: /home-devotions/2018-10-10-mark-1218-27-so-that-we-might-live-and-b.md/

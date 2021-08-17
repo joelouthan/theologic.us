@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 5:35-43 Jesus Has the Power Over Death
+title: "Home Devotions: Mark 5:35-43 Jesus Has the Power Over Death"
 author: Joseph Louthan
 date: 2013-03-06
 url: /home-devotions/mark-535-43-jesus-has-the-power-over-death/

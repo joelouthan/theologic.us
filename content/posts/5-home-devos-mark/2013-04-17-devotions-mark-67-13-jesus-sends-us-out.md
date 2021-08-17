@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 6:7-13 Jesus Sends Us Out
+title: "Home Devotions: Mark 6:7-13 Jesus Sends Us Out"
 author: Joseph Louthan
 date: 2013-04-17
 url: /home-devotions/mark-67-13-jesus-sends-us-out/

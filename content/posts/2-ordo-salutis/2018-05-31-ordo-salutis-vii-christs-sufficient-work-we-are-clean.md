@@ -1,5 +1,5 @@
 ---
-title: 'Ordo Salutis VII: Christ’s Sufficient Work, We Are Clean'
+title: 'Doctrine: Ordo Salutis VII: Christ’s Sufficient Work, We Are Clean'
 author: Joseph Louthan
 date: 2018-05-31T12:00:27+00:00
 url: /ordo-salutis/ordo-salutis-vii-christs-sufficient-work-we-are-clean/

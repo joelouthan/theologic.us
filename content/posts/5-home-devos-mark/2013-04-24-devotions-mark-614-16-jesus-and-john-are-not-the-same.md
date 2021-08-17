@@ -1,5 +1,5 @@
 ---
-title: Home Devotions: Mark 6:14-16 Jesus and John Are Not The Same
+title: "Home Devotions: Mark 6:14-16 Jesus and John Are Not The Same"
 author: Joseph Louthan
 date: 2013-04-24
 url: /home-devotions/mark-614-16-jesus-and-john-are-not-the-same/
