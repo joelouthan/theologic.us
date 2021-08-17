@@ -1,5 +1,5 @@
 ---
-title: 🏠📺 Mark 1:7-8 Jesus Baptizes Us in the Holy Spirit
+title: 🏠📺 Home Devotions: Mark 1:7-8 Jesus Baptizes Us in the Holy Spirit
 author: Joseph Louthan
 date: 2012-08-02
 url: /home-devotions/2012-08-02-home-devotions-mark/

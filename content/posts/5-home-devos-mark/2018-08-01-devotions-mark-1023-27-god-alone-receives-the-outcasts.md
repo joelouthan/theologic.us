@@ -1,5 +1,5 @@
 ---
-title: Mark 10:23-27 God Alone Receives the Outcasts
+title: Home Devotions: Mark 10:23-27 God Alone Receives the Outcasts
 author: Joseph Louthan
 date: 2018-08-01T12:00:35+00:00
 url: /home-devotions/mark-1023-27-god-alone-receives-the-outcasts/
@@ -15,7 +15,7 @@ showtoc: true
 draft: true
 ---
 <div>
-  Mark 10:23-27 <strong>And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!” And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” And they were exceedingly astonished, and said to him, “Then who can be saved?” Jesus looked at them and said, “With man it is impossible, but not with God. For all things are possible with God.”</strong>
+  Home Devotions: Mark 10:23-27 <strong>And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!” And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” And they were exceedingly astonished, and said to him, “Then who can be saved?” Jesus looked at them and said, “With man it is impossible, but not with God. For all things are possible with God.”</strong>
 </div>
 
 <div>

@@ -1,5 +1,5 @@
 ---
-title: Mark 6:30-44 Pt. 2 Jesus is the Bread of Life
+title: Home Devotions: Mark 6:30-44 Pt. 2 Jesus is the Bread of Life
 author: Joseph Louthan
 date: 2013-08-21
 url: /home-devotions/mark-630-44-pt-2-jesus-is-the-bread-of-life/

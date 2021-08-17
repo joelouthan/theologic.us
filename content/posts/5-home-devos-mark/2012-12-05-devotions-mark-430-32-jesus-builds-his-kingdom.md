@@ -1,5 +1,5 @@
 ---
-title: Mark 4:30-32 Jesus Builds His Kingdom
+title: Home Devotions: Mark 4:30-32 Jesus Builds His Kingdom
 author: Joseph Louthan
 date: 2012-12-05
 url: /home-devotions/mark-430-32-jesus-builds-his-kingdom/

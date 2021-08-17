@@ -1,5 +1,5 @@
 ---
-title: Mark 9:49-50 God Alone is Our Source
+title: Home Devotions: Mark 9:49-50 God Alone is Our Source
 author: Joseph Louthan
 date: 2018-07-04T12:00:20+00:00
 url: /home-devotions/mark-949-50-god-alone-is-our-source/

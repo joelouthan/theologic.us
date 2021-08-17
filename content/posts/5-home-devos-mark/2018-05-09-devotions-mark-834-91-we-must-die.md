@@ -1,5 +1,5 @@
 ---
-title: Mark 8:34-9:1 We Must Die
+title: Home Devotions: Mark 8:34-9:1 We Must Die
 author: Joseph Louthan
 date: 2018-05-09T12:00:52+00:00
 url: /home-devotions/mark-834-91-we-must-die/

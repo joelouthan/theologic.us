@@ -1,5 +1,5 @@
 ---
-title: Mark 9:38-41 God Alone Over All Who Would Believe In His Name
+title: Home Devotions: Mark 9:38-41 God Alone Over All Who Would Believe In His Name
 author: Joseph Louthan
 date: 2018-06-13T12:00:34+00:00
 url: /home-devotions/mark-938-41-god-alone-over-all-who-would-believe-in-his-name/

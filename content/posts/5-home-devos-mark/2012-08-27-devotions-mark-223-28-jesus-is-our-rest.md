@@ -1,5 +1,5 @@
 ---
-title: Mark 2:23-28 Jesus is Our Rest
+title: "📺 Home Devotions: Mark 2:23-28 Jesus is Our Rest"
 author: Joseph Louthan
 date: 2012-08-27
 url: /home-devotions/13-mark-223-28-jesus-is-our-rest/
@@ -11,52 +11,62 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
-**     Mark 2:23-28 One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain. And the Pharisees were saying to him, “Look, why are they doing what is not lawful on the Sabbath?” And he said to them, “Have you never read what David did, when he was in need and was hungry, he and those who were with him: how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?” And he said to them, “The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath.”**
+## The Text
 
-&nbsp;
+>Mark 2:23-28 (CSB) On the Sabbath he was going through the grainfields, and his disciples began to make their way, picking some heads of grain. 24 The Pharisees said to him, “Look, why are they doing what is not lawful on the Sabbath?”
+>
+>25 He said to them, “Have you never read what David and those who were with him did when he was in need and hungry — 26 how he entered the house of God in the time of Abiathar the high priest and ate the bread of the Presence —which is not lawful for anyone to eat except the priests —and also gave some to his companions?” 27 Then he told them, “The Sabbath was made for man and not man for the Sabbath. 28 So then, the Son of Man is Lord even of the Sabbath.”
 
-_What is Sabbath?_
+## The Devotion
 
-**     Exodus 20:8-11 “Remember the Sabbath day, to keep it holy. Six days you shall labor, and do all your work, but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy. **
 
-_
-  
-Did God rest?_
 
-**     Genesis 2:2-3 And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.**
+## The Discussion
 
-&nbsp;
+```text
+What is Sabbath?
+```
 
-_Did God stop working?_
+>Exodus 20:8-11 (CSB) Remember the Sabbath day, to keep it holy: 9 You are to labor six days and do all your work, 10 but the seventh day is a Sabbath to the LORD your God. You must not do any work—you, your son or daughter, your male or female servant, your livestock, or the resident alien who is within your city gates. 11 For the LORD made the heavens and the earth, the sea, and everything in them in six days; then he rested on the seventh day. Therefore the LORD blessed the Sabbath day and declared it holy.
 
-God did stop creating creation (Genesis 2:3  "&#8230; **God rested from all his work that he had done in creation**") but he keeps on going by new plants, new trees, new baby animals and new babies ( "&#8230; **you knitted me together in my mother's womb.**" Psalm 139:13]
+```text
+Did God rest?
+```
 
-_Why do you think your Mom and I want you to get good rest?_
+>Genesis 2:2-3 (CSB) On the seventh day God had completed his work that he had done, and he rested on the seventh day from all his work that he had done. 3 God blessed the seventh day and declared it holy, for on it he rested from all his work of creation.
 
-&nbsp;
+```text
 
-_Do you think God wants you to get good rest?
-  
-_ **    Matthew 11:25-30 At that time Jesus declared, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will. All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him. Come to me, all who labor and are heavy laden, and I will give you rest. ****Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.”**
+```
+Did God stop working?
 
-&nbsp;
+God did stop creating creation but he keeps on going by new plants, new trees, new baby animals and new babies.
 
-_Is Jesus in charge of all humans? _
+>Psalms 139:13 (CSB) For it was you who created my inward parts;  
+>you knit me together in my mother’s womb.
 
-&nbsp;
+```text
+Do you think God wants you to get good rest?
+```
 
-_Did Jesus make resting (having fun, relaxing, naps, sleep) for humans? _
+>Matthew 11:25-30 (CSB) At that time Jesus said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and intelligent and revealed them to infants. 26 Yes, Father, because this was your good pleasure. 27 All things have been entrusted to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son desires to reveal him.
+>
+>28 “Come to me, all of you who are weary and burdened, and I will give you rest. 29 Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. 30 For my yoke is easy and my burden is light.”
 
-&nbsp;
+```text
+Is Jesus in charge of all humans?
 
-_Is Jesus in charge of resting and having fun?_
+Did Jesus make resting (having fun, relaxing, naps, sleep) for humans?
+
+Is Jesus in charge of resting and having fun?
 
 Jesus gave us rest because He knew we needed rest and resting (naps, sleep, fun) are awesome.  More than being awesome, our body, mind, and spirit needs to chill out everyone once in a while. Not all the time—but some of the time. Jesus gave Himself to us so that we wouldn't work so hard to be saved. Jesus did all of the hard work so that you can be saved to Him forever.
+```
 
-&nbsp;
+## Media
 
+Today's episode at [The Study](http://study.theologic.us/podcast/)
 
-
- [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/08/Jesus-resting.jpg
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)

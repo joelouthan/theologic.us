@@ -1,5 +1,5 @@
 ---
-title: "🏠📺 Mark 1:16-20 Jesus Rules and Reigns Over All the People"
+title: "🏠📺 Home Devotions: Mark 1:16-20 Jesus Rules and Reigns Over All the People"
 author: Joseph Louthan
 date: 2012-08-07
 url: /home-devotions/mark-116-20-jesus-calls-out/

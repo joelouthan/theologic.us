@@ -1,5 +1,5 @@
 ---
-title: "📺 Mark 2:18-22 Jesus is the Bridegroom"
+title: "📺 Home Devotions: Mark 2:18-22 Jesus is the Bridegroom"
 author: Joseph Louthan
 date: 2012-08-22
 url: /home-devotions/mark-218-22-jesus-is-the-bridegroom/
@@ -67,7 +67,7 @@ Love others
 ```text
 4. What is the number one thing we are to do until he gets back?
 
-Matthew 28:18-20, Mark 16:14-20, John 21:15-19, Acts 1:6-8
+Matthew 28:18-20, Home Devotions: Mark 16:14-20, John 21:15-19, Acts 1:6-8
 
 ```
 

@@ -1,5 +1,5 @@
 ---
-title: Mark 4:33-34 Jesus Teaches
+title: Home Devotions: Mark 4:33-34 Jesus Teaches
 author: Joseph Louthan
 date: 2012-12-19
 url: /home-devotions/mark-433-34-jesus-teaches/

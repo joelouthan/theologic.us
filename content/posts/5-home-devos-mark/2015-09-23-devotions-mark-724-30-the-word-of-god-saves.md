@@ -1,5 +1,5 @@
 ---
-title: Mark 7:24-30 The Word of God Saves
+title: Home Devotions: Mark 7:24-30 The Word of God Saves
 author: Joseph Louthan
 date: 2015-09-23T12:00:47+00:00
 url: /home-devotions/mark-724-30-the-word-of-god-saves/

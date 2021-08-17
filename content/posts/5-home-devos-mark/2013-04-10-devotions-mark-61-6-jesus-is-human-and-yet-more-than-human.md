@@ -1,5 +1,5 @@
 ---
-title: Mark 6:1-6 Jesus Is Human and Yet, More Than Human
+title: Home Devotions: Mark 6:1-6 Jesus Is Human and Yet, More Than Human
 author: Joseph Louthan
 date: 2013-04-10
 url: /home-devotions/mark-61-6-jesus-is-human-and-yet-more-than-human/
@@ -17,7 +17,7 @@ Mark 6:1-6 **He went away from there and came to his hometown, and his disciples
 
 
 
-_Compare to what we read earlier in Mark 1:_
+_Compare to what we read earlier in Home Devotions: Mark 1:_
   
 Mark 1:21-28 **And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes. And immediately there was in their synagogue a man with an unclean spirit. And he cried out, “What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God.” But Jesus rebuked him, saying, “Be silent, and come out of him!” And the unclean spirit, convulsing him and crying out with a loud voice, came out of him. And they were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him.” And at once his fame spread everywhere throughout all the surrounding region of Galilee.**
 

@@ -1,5 +1,5 @@
 ---
-title: Mark 8:31-33 Jesus Must Die
+title: Home Devotions: Mark 8:31-33 Jesus Must Die
 author: Joseph Louthan
 date: 2018-05-02T12:00:52+00:00
 url: /home-devotions/mark-831-33-jesus-must-die/

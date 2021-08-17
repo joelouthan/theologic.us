@@ -1,5 +1,5 @@
 ---
-title: "🏠📺 Mark 1:14-15 Jesus is the Good News"
+title: "🏠📺 Home Devotions: Mark 1:14-15 Jesus is the Good News"
 author: Joseph Louthan
 date: 2012-08-06
 url: /home-devotions/mark-114-15-jesus-is-the-good-news/

@@ -1,5 +1,5 @@
 ---
-title: Mark 10:32-45 God Alone Receives the Dead
+title: Home Devotions: Mark 10:32-45 God Alone Receives the Dead
 author: Joseph Louthan
 date: 2018-08-15T12:00:18+00:00
 url: /home-devotions/mark-1032-45-god-alone-receives-the-dead/
