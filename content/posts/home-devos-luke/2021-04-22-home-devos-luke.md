@@ -1,5 +1,5 @@
 ---
-title: 'Luke 23:44-56 Christ Died'
+title: 'Home Devotions: Luke 23:44-56 Christ Died'
 author: Joseph Louthan
 publishDate: 2021-04-22T06:00:00-06:00
 url: /home-devotions/2021-04-22-home-devotions-luke/

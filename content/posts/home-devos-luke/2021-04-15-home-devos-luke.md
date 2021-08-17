@@ -1,5 +1,5 @@
 ---
-title: 'Luke 23:26-43 Christ Crucified'
+title: 'Home Devotions: Luke 23:26-43 Christ Crucified'
 author: Joseph Louthan
 publishDate: 2021-04-15T06:00:00-06:00
 url: /home-devotions/2021-04-15-home-devotions-luke/

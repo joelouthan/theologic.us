@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 1:57-66 What is Your Calling?'
+title: '🏠 Home Devotions: Luke 1:57-66 What is Your Calling?'
 author: Joseph Louthan
 publishDate: 2020-01-01T06:00:00-06:00
 url: /home-devotions/2020-01-01-home-devotions-luke/

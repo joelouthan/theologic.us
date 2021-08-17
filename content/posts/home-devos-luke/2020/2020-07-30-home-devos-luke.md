@@ -1,5 +1,5 @@
 ---
-title: 'Luke 6:39-49 What Does the Lord Teach?'
+title: 'Home Devotions: Luke 6:39-49 What Does the Lord Teach?'
 author: Joseph Louthan
 publishDate: 2020-07-30T06:00:00-06:00
 url: /home-devotions/2020-07-30-home-devotions-luke/

@@ -1,5 +1,5 @@
 ---
-title: 'Luke 22-23 Christ Descends'
+title: 'Home Devotions: Luke 22-23 Christ Descends'
 author: Joseph Louthan
 publishDate: 2021-04-08T06:00:00-06:00
 url: /home-devotions/2021-04-08-home-devotions-luke/

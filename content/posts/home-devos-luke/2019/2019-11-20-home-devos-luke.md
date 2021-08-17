@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 1:8–10 How Can We Worship God Everyday?'
+title: '🏠 Home Devotions: Luke 1:8–10 How Can We Worship God Everyday?'
 author: Joseph Louthan
 publishDate: 2019-11-20T06:00:00-06:00
 url: /home-devotions/2019-11-20-home-devotions-luke/

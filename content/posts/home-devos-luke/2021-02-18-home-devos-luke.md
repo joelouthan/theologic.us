@@ -1,5 +1,5 @@
 ---
-title: 'Luke 12:13-13:5 Christ Our All'
+title: 'Home Devotions: Luke 12:13-13:5 Christ Our All'
 author: Joseph Louthan
 publishDate: 2021-02-18T06:00:00-06:00
 url: /home-devotions/2021-02-18-home-devotions-luke/

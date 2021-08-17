@@ -1,5 +1,5 @@
 ---
-title: 'Luke 9 What is Christ Calling Us To?'
+title: 'Home Devotions: Luke 9 What is Christ Calling Us To?'
 author: Joseph Louthan
 publishDate: 2020-12-31T06:00:00-06:00
 url: /home-devotions/2020-12-31-home-devotions-luke/

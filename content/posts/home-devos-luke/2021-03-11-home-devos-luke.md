@@ -1,5 +1,5 @@
 ---
-title: 'Luke 16-17 Christ Gives'
+title: 'Home Devotions: Luke 16-17 Christ Gives'
 author: Joseph Louthan
 publishDate: 2021-03-11T06:00:00-06:00
 url: /home-devotions/2021-03-11-home-devotions-luke/

@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 3:21-22 How Did Jesus Began His Ministry?'
+title: '🏠 Home Devotions: Luke 3:21-22 How Did Jesus Began His Ministry?'
 author: Joseph Louthan
 publishDate: 2020-05-28T06:00:00-06:00
 url: /home-devotions/2020-05-28-home-devotions-luke/

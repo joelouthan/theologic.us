@@ -1,5 +1,5 @@
 ---
-title: 'Luke 11:14-12:12 In Christ, There is No Middle Ground'
+title: 'Home Devotions: Luke 11:14-12:12 In Christ, There is No Middle Ground'
 author: Joseph Louthan
 publishDate: 2021-02-11T06:00:00-06:00
 url: /home-devotions/2021-02-11-home-devotions-luke/

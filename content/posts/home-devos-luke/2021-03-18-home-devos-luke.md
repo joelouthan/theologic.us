@@ -1,5 +1,5 @@
 ---
-title: 'Luke 18 Christ Is God'
+title: 'Home Devotions: Luke 18 Christ Is God'
 author: Joseph Louthan
 publishDate: 2021-03-18T06:00:00-06:00
 url: /home-devotions/2021-03-18-home-devotions-luke/

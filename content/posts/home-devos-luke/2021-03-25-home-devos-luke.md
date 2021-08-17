@@ -1,5 +1,5 @@
 ---
-title: 'Luke 19 Christ Comes in the Name of the Lord'
+title: 'Home Devotions: Luke 19 Christ Comes in the Name of the Lord'
 author: Joseph Louthan
 publishDate: 2021-03-25T06:00:00-06:00
 url: /home-devotions/2021-03-25-home-devotions-luke/

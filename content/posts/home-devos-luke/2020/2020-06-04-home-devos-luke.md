@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 3:23-38 How was Jesus Like You and Me?'
+title: '🏠 Home Devotions: Luke 3:23-38 How was Jesus Like You and Me?'
 author: Joseph Louthan
 publishDate: 2020-06-04T06:00:00-06:00
 url: /home-devotions/2020-06-04-home-devotions-luke/

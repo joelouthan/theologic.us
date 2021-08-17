@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 1:67-80 What Are You Saved From and To?'
+title: '🏠 Home Devotions: Luke 1:67-80 What Are You Saved From and To?'
 author: Joseph Louthan
 publishDate: 2020-01-08T06:00:00-06:00
 url: /home-devotions/2020-01-08-home-devotions-luke/

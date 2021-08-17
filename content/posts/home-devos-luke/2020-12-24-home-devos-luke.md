@@ -1,5 +1,5 @@
 ---
-title: 'Luke 8 But Christ Calls'
+title: 'Home Devotions: Luke 8 But Christ Calls'
 author: Joseph Louthan
 publishDate: 2020-12-24T06:00:00-06:00
 url: /home-devotions/2020-12-24-home-devotions-luke/

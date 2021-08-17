@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 1:26-38 God Calls Us To Him'
+title: '🏠 Home Devotions: Luke 1:26-38 God Calls Us To Him'
 author: Joseph Louthan
 publishDate: 2019-12-11T06:00:00-06:00
 url: /home-devotions/2019-12-11-home-devotions-luke/

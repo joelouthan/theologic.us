@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 1:5–7 How Can We Be Righteous Before God?'
+title: '🏠 Home Devotions: Luke 1:5–7 How Can We Be Righteous Before God?'
 author: Joseph Louthan
 publishDate: 2019-11-13T06:00:00-06:00
 url: /home-devotions/2019-11-13-home-devotions-luke/

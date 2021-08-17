@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 2:39–40 Christ Grew In Wisdom and Stature [Part 4]'
+title: '🏠 Home Devotions: Luke 2:39–40 Christ Grew In Wisdom and Stature [Part 4]'
 author: Joseph Louthan
 publishDate: 2020-05-07T06:00:00-06:00
 url: /home-devotions/2020-05-07-home-devotions-luke/

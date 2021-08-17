@@ -1,5 +1,5 @@
 ---
-title: '🏠Luke 4:14–37 The Word of the Lord'
+title: '🏠 Home Devotions: Luke 4:14–37 The Word of the Lord'
 author: Joseph Louthan
 publishDate: 2020-06-18T06:00:00-06:00
 url: /home-devotions/2020-06-18-home-devotions-luke/

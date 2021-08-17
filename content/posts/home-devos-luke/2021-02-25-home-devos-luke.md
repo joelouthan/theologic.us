@@ -1,5 +1,5 @@
 ---
-title: 'Luke 13:6-30 Grace Upon Grace'
+title: 'Home Devotions: Luke 13:6-30 Grace Upon Grace'
 author: Joseph Louthan
 publishDate: 2021-02-25T06:00:00-06:00
 url: /home-devotions/2021-02-25-home-devotions-luke/

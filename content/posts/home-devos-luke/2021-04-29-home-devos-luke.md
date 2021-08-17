@@ -1,5 +1,5 @@
 ---
-title: 'Luke 24 Christ Lives'
+title: 'Home Devotions: Luke 24 Christ Lives'
 author: Joseph Louthan
 publishDate: 2021-04-29T06:00:00-06:00
 url: /home-devotions/2021-04-29-home-devotions-luke/
