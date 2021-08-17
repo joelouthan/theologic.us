@@ -1,5 +1,5 @@
 ---
-title: 'Doctrine: Ordo Salutis V: God Speaks To The Dead'
+title: "Doctrine: Ordo Salutis V: God Speaks To The Dead"
 author: Joseph Louthan
 date: 2018-05-17T12:00:15+00:00
 url: /ordo-salutis/ordo-salutis-v-but-god-preaches-to-the-dead/

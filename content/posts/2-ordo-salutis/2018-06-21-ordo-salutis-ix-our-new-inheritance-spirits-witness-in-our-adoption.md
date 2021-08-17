@@ -1,5 +1,5 @@
 ---
-title: "Ordo Salutis X: Our New Inheritance – Spirit’s Witness in Our Adoption"
+title: "Doctrine: Ordo Salutis X: Our New Inheritance – Spirit’s Witness in Our Adoption"
 author: Joseph Louthan
 date: 2018-06-21T12:00:18+00:00
 url: /ordo-salutis/ordo-salutis-ix-our-new-inheritance-spirits-witness-in-our-adoption/

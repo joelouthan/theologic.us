@@ -1,5 +1,5 @@
 ---
-title: "Ordo Salutis XI: Our New Lives – Spirit's Work In Our Sanctification"
+title: "Doctrine: Ordo Salutis XI: Our New Lives – Spirit's Work In Our Sanctification"
 author: Joseph Louthan
 date: 2018-06-28T12:00:28+00:00
 url: /ordo-salutis/ordo-salutis-xi-our-new-lives-spirits-work-in-our-sanctification/

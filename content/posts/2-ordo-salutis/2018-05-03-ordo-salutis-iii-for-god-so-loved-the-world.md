@@ -1,5 +1,5 @@
 ---
-title: 'Doctrine: Ordo Salutis III: For God So Loved The World'
+title: "Doctrine: Ordo Salutis III: For God So Loved The World"
 author: Joseph Louthan
 date: 2018-05-03T12:00:22+00:00
 url: /ordo-salutis/ordo-salutis-iii-for-god-so-loved-the-world/
