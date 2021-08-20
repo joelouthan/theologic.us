@@ -21,7 +21,9 @@ draft: false
 
 ## The Devotion
 
+Jesus gave us rest because He knew we needed rest and resting (naps, sleep, fun) are awesome.  More than being awesome, our body, mind, and spirit needs to chill out everyone once in a while. Not all the time—but some of the time. Jesus gave Himself to us so that we wouldn't work so hard to be saved. Jesus did all of the hard work so that you can be saved to Him forever.
 
+But more than for our physical, mental, and emotional, God provides rest for our spiritual selves. Let us see how this play out.
 
 ## The Discussion
 
@@ -38,9 +40,8 @@ Did God rest?
 >Genesis 2:2-3 (CSB) On the seventh day God had completed his work that he had done, and he rested on the seventh day from all his work that he had done. 3 God blessed the seventh day and declared it holy, for on it he rested from all his work of creation.
 
 ```text
-
-```
 Did God stop working?
+```
 
 God did stop creating creation but he keeps on going by new plants, new trees, new baby animals and new babies.
 
@@ -67,6 +68,6 @@ Jesus gave us rest because He knew we needed rest and resting (naps, sleep, fun)
 
 ## Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-223-28-jesus-is-our-rest)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
