@@ -28,9 +28,9 @@ We all know the story of the disobedience of Adam and Eve: Eve was tempted by Sa
 
 But let us have the Apostle Paul explain what our original parents did and because of that, what every human has been born into doing automatically:
 
->Romans 1:19-25 For what can be known about God is plain to them, because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse. For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.
+>Romans 1:18-25 (CSB) For God’s wrath is revealed from heaven against all godlessness and unrighteousness of people who by their unrighteousness suppress the truth, 19 since what can be known about God is evident among them, because God has shown it to them. 20 For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse. 21 For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. 22 Claiming to be wise, they became fools 23 and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles.
 >
->Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen.
+>24 Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves. 25 They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen.
 
 We have all exchanged the truth:
 
