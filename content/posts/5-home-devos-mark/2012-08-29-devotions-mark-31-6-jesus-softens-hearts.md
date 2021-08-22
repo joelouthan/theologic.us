@@ -44,3 +44,9 @@ _Does God get mad and angry when people harden their own hearts?_
 
 
  [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg
+
+ ## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)

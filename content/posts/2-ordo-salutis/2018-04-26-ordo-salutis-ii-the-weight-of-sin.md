@@ -102,3 +102,9 @@ For us being born, we are destined to die.
 Is there any hope for our weight of sin? Who can be so powerful enough, yet able and willing enough to save me? The world cannot. It has failed and constantly fails within itself. People cannot because they’re infected with it as well. Inanimate objects? Are we even asking that question?
 
 Then who can save me from this body of death? Christ Jesus is his name!
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
