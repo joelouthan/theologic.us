@@ -1,5 +1,5 @@
 ---
-title: "Doctrine: Ordo Salutis II: The Weight of Sin"
+title: "📺 Doctrine: Ordo Salutis II: The Weight of Sin"
 author: Joseph Louthan
 date: 2018-04-26T12:00:23+00:00
 url: /ordo-salutis/ordo-salutis-ii-the-weight-of-sin/

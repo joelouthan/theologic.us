@@ -1,5 +1,5 @@
 ---
-title: "Study: Genesis 6 The Gospel Certainity"
+title: "📺 Study: Genesis 6 The Gospel Certainity"
 author: Joseph Louthan
 publishDate: 2021-08-26T06:00:00-06:00
 url: /bible-study/2021-08-26-study-genesis/
