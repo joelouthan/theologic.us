@@ -18,7 +18,7 @@ Before we can even try to understand what God has done in Salvation, we must fir
 
 To see how this all started, we have to go back to the book of beginnings, Genesis.
 
-In Genesis 1 & 2, God reveals to us how He intended and declared all of creation to be: good. But what is good, really? This is not simply 'good/better/best' as Christ pointed out to the rich young ruler in Luke 18:18-30, although everyone would agree that a world without bad things happening such as death, murder or disease would be a better place. However, the word 'good' implies something richer and more meaningful. When God declares creation to be good, he declares it to be right-standing with Himself. Since all of creation, including Adam & Eve, declared good in his sight, there was no separation between God and man. Man, at this point, was simply created into a relationship with God. God's intention is that man and women would then be born and by the very nature of being born, we would have been born into a perfect relationship with our parents, with all humans and with God. In creating Adam & Eve, our original parents, God gave all humans a heart that continually worships non-stop. Ecclesiastes 3:11 declares that God set eternity into our hearts so that we would always long to worship and that we would seek out that worship in an ever-filling, ever-loving, ever-glorious, everlasting God that would fill our bottomless hearts forever and ever.
+In Genesis 1 & 2, God reveals to us how He intended and declared all of creation to be: good. But what is good, really? This is not simply 'good/better/best' as Christ pointed out to the rich young ruler in Luke 18:18-30, although everyone would agree that a world without bad things happening such as death, murder or disease would be a better place. However, the word 'good' implies something richer and more meaningful. When God declares creation to be good, he declares it to be right-standing with Himself. Since all of creation, including Adam & Eve, declared good in his sight, there was no separation between God and man. Man, at this point, was simply created into a relationship with God. God's intention is that man and woman would then be born and by the very nature of being born, we would have been born into a perfect relationship with our parents, with all humans and with God. In creating Adam & Eve, our original parents, God gave all humans a heart that continually worships non-stop. Ecclesiastes 3:11 declares that God set eternity into our hearts so that we would always long to worship and that we would seek out that worship in an ever-filling, ever-loving, ever-glorious, everlasting God that would fill our bottomless hearts forever and ever.
 
 Sounds great, doesn't it?
 
@@ -60,7 +60,9 @@ With that horrific exchange, our universe is now broken. Sin, death, disease, su
 
 And because our God is right-standing, holy and blameless, there is a cataclysmic divide between God and man because of sin.
 
-It is God cannot stand the sight of sin and doesn't want to deal with it, it is the very nature of God that doesn't allow for the presence of sin. In the eternal realm, this is very evident in the fall of Lucifer in Isaiah 14. For the very thought of wanting the glory that rightfully belongs to God alone, Lucifer was banished from heaven into hell.
+It is God cannot stand the sight of sin and doesn't want to deal with it, it is the very nature of God that doesn't allow for the presence of sin.
+
+Yet, being born of Adam, we continuously sin--in hearts, thoughts, actions, and what we fail to do.
 
 It is by nature we are idol factories.
 
@@ -99,12 +101,12 @@ Furthermore:
 
 For us being born, we are destined to die.
 
-Is there any hope for our weight of sin? Who can be so powerful enough, yet able and willing enough to save me? The world cannot. It has failed and constantly fails within itself. People cannot because they’re infected with it as well. Inanimate objects? Are we even asking that question?
+Is there any hope for our weight of sin? Who can be so powerful enough, yet able and willing enough to save me? The world cannot. It has failed and constantly fails within itself. People cannot because they’re infected with sin as well. Inanimate objects? Are we even asking that question?
 
 Then who can save me from this body of death? Christ Jesus is his name!
 
 ## Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-ii-the-weight-of-sin)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
