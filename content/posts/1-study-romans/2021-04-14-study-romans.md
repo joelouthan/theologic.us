@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 11:11-32 (CSB) I ask, then, have they stumbled so as to fall? Absolutely not! On the contrary, by their transgression, salvation has come to the Gentiles to make Israel jealous. Now if their transgression brings riches for the world, and their failure riches for the Gentiles, how much more will their fullness bring!

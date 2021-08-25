@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:34 (CSB) Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us.

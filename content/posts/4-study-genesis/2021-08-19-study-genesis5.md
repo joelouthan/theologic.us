@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Genesis 5 (CSB) This is the document containing the family records of Adam. On the day that God created man, he made him in the likeness of God; 2 he created them male and female. When they were created, he blessed them and called them mankind.

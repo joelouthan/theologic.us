@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 11:1-10 (CSB) I ask, then, has God rejected his people? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin. God has not rejected his people whom he foreknew. Or don’t you know what the Scripture says in the passage about Elijah—how he pleads with God against Israel? Lord, they have killed your prophets and torn down your altars. I am the only one left, and they are trying to take my life! But what was God’s answer to him? I have left seven thousand for myself who have not bowed down to Baal. In the same way, then, there is also at the present time a remnant chosen by grace. Now if by grace, then it is not by works; otherwise grace ceases to be grace.

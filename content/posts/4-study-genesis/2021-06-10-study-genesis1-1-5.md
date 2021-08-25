@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Genesis 1:1-5 (CSB) In the beginning God created the heavens and the earth.

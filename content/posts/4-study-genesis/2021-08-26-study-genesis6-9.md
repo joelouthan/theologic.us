@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: true
 ---
+## The Introduction
+
 ## The Text
 
 Genesis 6:1 - 9:29 (CSB) When mankind began to multiply on the earth and daughters were born to them, 2 the sons of God saw that the daughters of mankind were beautiful, and they took any they chose as wives for themselves. 3 And the LORD said, “My Spirit will not remain with mankind forever, because they are corrupt. Their days will be 120 years.” 4 The Nephilim were on the earth both in those days and afterward, when the sons of God came to the daughters of mankind, who bore children to them. They were the powerful men of old, the famous men.

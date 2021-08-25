@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:26 (CSB) In the same way the Spirit also helps us in our weakness, because we do not know what to pray for as we should, but the Spirit himself intercedes for us with inexpressible groanings.

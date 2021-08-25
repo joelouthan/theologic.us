@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:27 (CSB) And he who searches our hearts knows the mind of the Spirit, because he intercedes for the saints according to the will of God.

@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:33 (CSB) Who can bring an accusation against God’s elect? God is the one who justifies.

@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 9:30-33 (CSB) What should we say then? Gentiles, who did not pursue righteousness, have obtained righteousness—namely the righteousness that comes from faith. But Israel, pursuing the law of righteousness, has not achieved the righteousness of the law. Why is that? Because they did not pursue it by faith, but as if it were by works. They stumbled over the stumbling stone. As it is written,

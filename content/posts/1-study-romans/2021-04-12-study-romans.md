@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 10:14-21 (CSB) How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher? And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news. But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message? So faith comes from what is heard, and what is heard comes through the message about Christ. But I ask, “Did they not hear?” Yes, they did:

@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:18–25 (CSB) For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us.  For the creation eagerly waits with anticipation for God’s sons to be revealed.  For the creation was subjected to futility—not willingly, but because of him who subjected it—in the hope  that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.  For we know that the whole creation has been groaning together with labor pains until now.  Not only that, but we ourselves who have the Spirit as the firstfruits—we also groan within ourselves, eagerly waiting for adoption, the redemption of our bodies.  Now in this hope we were saved, but hope that is seen is not hope, because who hopes for what he sees?  Now if we hope for what we do not see, we eagerly wait for it with patience.

@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 1:1 (CSB) Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God

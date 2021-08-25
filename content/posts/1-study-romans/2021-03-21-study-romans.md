@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 7:7–25 (CSB) What should we say then? Is the law sin? Absolutely not! But, I would not have known sin if it were not for the law. For example, I would not have known what it is to covet if the law had not said, Do not covet.  And sin, seizing an opportunity through the commandment, produced in me coveting of every kind. For apart from the law sin is dead.  Once I was alive apart from the law, but when the commandment came, sin sprang to life again  and I died. The commandment that was meant for life resulted in death for me.  For sin, seizing an opportunity through the commandment, deceived me, and through it killed me.  So then, the law is holy, and the commandment is holy and just and good.  Therefore, did what is good become death to me? Absolutely not! But, sin, in order to be recognized as sin, was producing death in me through what is good, so that through the commandment, sin might become sinful beyond measure.

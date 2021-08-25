@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 7:1–6 (CSB) Since I am speaking to those who know the law, brothers and sisters, don’t you know that the law rules over someone as long as he lives?  For example, a married woman is legally bound to her husband while he lives. But if her husband dies, she is released from the law regarding the husband.  So then, if she is married to another man while her husband is living, she will be called an adulteress. But if her husband dies, she is free from that law. Then, if she is married to another man, she is not an adulteress.  Therefore, my brothers and sisters, you also were put to death in relation to the law through the body of Christ so that you may belong to another. You belong to him who was raised from the dead in order that we may bear fruit for God.  For when we were in the flesh, the sinful passions aroused through the law were working in us to bear fruit for death.  But now we have been released from the law, since we have died to what held us, so that we may serve in the newness of the Spirit and not in the old letter of the law.

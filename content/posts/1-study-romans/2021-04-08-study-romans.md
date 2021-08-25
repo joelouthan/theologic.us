@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 9:1-13 (CSB) I speak the truth in Christ—I am not lying; my conscience testifies to me through the Holy Spirit— that I have great sorrow and unceasing anguish in my heart. For I could wish that I myself were cursed and cut off from Christ for the benefit of my brothers and sisters, my own flesh and blood. They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the temple service, and the promises. The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen.

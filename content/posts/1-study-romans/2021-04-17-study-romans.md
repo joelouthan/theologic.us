@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 12:3-8 (CSB) For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one. Now as we have many parts in one body, and all the parts do not have the same function, in the same way we who are many are one body in Christ and individually members of one another. According to the grace given to us, we have different gifts: If prophecy, use it according to the proportion of one’s faith; if service, use it in service; if teaching, in teaching; if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.

@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >John 1:1-2 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning.

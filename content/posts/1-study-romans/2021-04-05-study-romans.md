@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:35-36 (CSB) Who can separate us from the love of Christ? Can affliction or distress or persecution or famine or nakedness or danger or sword? As it is written:

@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 6:15–23 (CSB) What then? Should we sin because we are not under the law but under grace? Absolutely not!  Don’t you know that if you offer yourselves to someone as obedient slaves, you are slaves of that one you obey—either of sin leading to death or of obedience leading to righteousness?  But thank God that, although you used to be slaves of sin, you obeyed from the heart that pattern of teaching to which you were handed over,  and having been set free from sin, you became enslaved to righteousness.  I am using a human analogy because of the weakness of your flesh. For just as you offered the parts of yourselves as slaves to impurity, and to greater and greater lawlessness, so now offer them as slaves to righteousness, which results in sanctification.  For when you were slaves of sin, you were free with regard to righteousness.  So what fruit was produced then from the things you are now ashamed of? The outcome of those things is death.  But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life!  For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.

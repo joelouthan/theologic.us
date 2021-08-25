@@ -13,6 +13,8 @@ tocopen: true
 css: "home-devos"
 draft: false
 ---
+## The Introduction
+
 ## The Text
 
 >Romans 8:28 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose.
