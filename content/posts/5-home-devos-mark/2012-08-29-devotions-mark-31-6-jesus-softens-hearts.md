@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 3:1-6 Jesus Softens Hearts"
+title: "📺 Home Devotions: Mark 3:1-6 Jesus Comes to Give Life"
 author: Joseph Louthan
 date: 2012-08-29
 url: /home-devotions/mark-31-6-jesus-softens-hearts/
@@ -11,41 +11,91 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
-_What does it mean to harden your heart?_
+## The Text
 
-Pharaoh hardened his heart.
-  
-Exodus 7:13, 22; 8:15, 19, 32; 9:7, 34-35;
+>Mark 3:1-6 (CSB) Jesus entered the synagogue again, and a man was there who had a shriveled hand.
+>
+><sup> 2 </sup>In order to accuse him, they were watching him closely to see whether he would heal him on the Sabbath.
+>
+><sup> 3 </sup>He told the man with the shriveled hand, “Stand before us.”
+>
+><sup> 4 </sup>Then he said to them, “Is it lawful to do good on the Sabbath or to do evil, to save life or to kill?” But they were silent.
+>
+><sup> 5 </sup>After looking around at them with anger, he was grieved at the hardness of their hearts and told the man, “Stretch out your hand.” So he stretched it out, and his hand was restored.
+>
+><sup> 6 </sup>Immediately the Pharisees went out and started plotting with the Herodians against him, how they might kill him.
 
-I will harden his heart.
-  
-Exodus 7:14; 9:12, 34-34; 10:1, 20, 27; 11:10; 14:8
+## The Devotion
 
-I have harden his heart.
-  
-**For the Scripture says to Pharaoh, “For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth.” So then he has mercy on whomever he wills, and he hardens whomever he wills.**
-  
-(Romans 9:17-18 ESV)
+### Christ comes to us and he knows our need
 
-_How does God hardens hearts?_
+>Mark 3:1-6 (CSB) Jesus entered the synagogue again, and a man was there who had a shriveled hand.
 
-_How does God soften hearts?_
+### Sin waits to destroy us and does not give what we need
 
-_Does God get sad when people harden their own hearts?_
+><sup> 2 </sup>In order to accuse him, they were watching him closely to see whether he would heal him on the Sabbath.
 
-_Does God get mad and angry when people harden their own hearts?_
+>Genesis 4:5-7 (CSB) Cain was furious, and he looked despondent. 6 Then the LORD said to Cain, “Why are you furious? And why do you look despondent? 7 If you do what is right, won’t you be accepted? But if you do not do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it.”
 
-**Again he entered the synagogue, and a man was there with a withered hand. And they watched Jesus, to see whether he would heal him on the Sabbath, so that they might accuse him. And he said to the man with the withered hand, “Come here.” And he said to them, “Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?” But they were silent. And he looked around at them with anger, grieved at their hardness of heart, and said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored. The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him.** (Mark 3:1-6 ESV)
+### Christ brings us into his mercy and grace
 
-**And the word of the LORD came to me: “Son of man, your brothers, even your brothers, your kinsmen, the whole house of Israel, all of them, are those of whom the inhabitants of Jerusalem have said, ‘Go far from the LORD; to us this land is given for a possession.’ Therefore say, ‘Thus says the Lord GOD: Though I removed them far off among the nations, and though I scattered them among the countries, yet I have been a sanctuary to them for a while in the countries where they have gone.’ Therefore say, ‘Thus says the Lord GOD: I will gather you from the peoples and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.’ And when they come there, they will remove from it all its detestable things and all its abominations. And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I will be their God. But as for those whose heart goes after their detestable things and their abominations, I will bring their deeds upon their own heads, declares the Lord GOD.”** (Ezekiel 11:14-21 ESV)
+><sup> 3 </sup>He told the man with the shriveled hand, “Stand before us.”
+
+### Sin only hardens the heart to no longer fear God and to sin all the more
+
+><sup> 4 </sup>Then he said to them, “Is it lawful to do good on the Sabbath or to do evil, to save life or to kill?” But they were silent.
+
+### Unrepentant sin only brings out the wrath of God
+
+><sup> 5 </sup>After looking around at them with anger, he was grieved at the hardness of their hearts
+
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+### Faith, which is a gift from God, brings the love and salvation of God
+
+>He told the man, “Stretch out your hand.” So he stretched it out, and his hand was restored.
+
+>Ephesians 2:8-9 (CSB) For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—9 not from works, so that no one can boast.
+
+### Sin steals, kills, and destroys us--Christ is the fullness of life
+
+><sup> 6 </sup>Immediately the Pharisees went out and started plotting with the Herodians against him, how they might kill him.
 
 
 
- [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/08/MosesPharaoh.jpg
 
- ## Media
+
+## The Discussion
+
+```text
+1. Can sin do anything good for us?
+
+2. Where does sin lead our lives?
+
+3. Where does Christ lead our lives?
+
+4. What the Christ come to do for his people?
+```
+
+>Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
+
+```text
+5. What has sin come to do?
+```
+
+>John 10:10 (CSB) A thief comes only to steal and kill and destroy. I have come so that they may have life and have it in abundance.
+
+```text
+6. How do you know if you are in Christ?
+```
+
+>1 John 5:1 (CSB) Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves the one born of him.
+
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+## Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
