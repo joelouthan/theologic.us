@@ -57,6 +57,8 @@ draft: false
 
 >He told the man, “Stretch out your hand.” So he stretched it out, and his hand was restored.
 
+>Hebrews 11:5-6 (CSB) By faith Enoch was taken away, and so he did not experience death. He was not to be found because God took him away. For before he was taken away, he was approved as one who pleased God. 6 Now without faith it is impossible to please God, since the one who draws near to him must believe that he exists and that he rewards those who seek him.
+
 >Ephesians 2:8-9 (CSB) For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—9 not from works, so that no one can boast.
 
 ### Sin steals, kills, and destroys us--Christ is the fullness of life
