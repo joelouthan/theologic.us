@@ -1,7 +1,7 @@
 ---
-title: "Doctrine: Ordo Salutis III: For God So Loved The World"
+title: "📺 Doctrine: Ordo Salutis III: For God So Loved The World"
 author: Joseph Louthan
-date: 2018-05-03T12:00:22+00:00
+date: 2018-04-27T06:00:00-06:00
 url: /ordo-salutis/ordo-salutis-iii-for-god-so-loved-the-world/
 categories:
   - Theology
@@ -16,23 +16,15 @@ draft: false
 ---
 Now that we have established who we are in the sight of God, let us tackle the bigger, nay impossible question:
 
-Who is God? 
+## Who is God?
 
-
-
-Ask my son and he would immediately quote:
-
-God is the universe’s Creator And Sustainer plus the only Savior, there is no one greater. He’s Triune, holy, omnipotent, omniscient, absolute, loving, sovereign and righteous are just a few of His attributes.
-  
-&#8211; Shai Lynne, Atonement Q&A
-
-To be sure, God is all of those things and so much more. Beyond the authoritative Scriptures, each single attribute has had countless books and papers written describing in full detail the awesome majesty of God.
+Beyond the authoritative Scriptures, each single attribute has had countless books and papers written describing in full detail the awesome majesty of God.
 
 Yet, when I read the Bible, I am truly confident of who God is for God is love. The Bible overwhelmingly states this to be so. To read the Bible, surely you can walk away from knowing that God is love.
 
->1 John 4:8 Anyone who does not love does not know God, because God is love.
+>1 John 4:8 (CSB) The one who does not love does not know God, because God is love.
 
-But what is love?
+## But what is love?
 
 Some adults would say that, "if you love me, you would give me what I want." To which, anyone who has ever raised kids, that statement is complete insanity. Yet, most of the world views God in the light of this same insanity.
 
@@ -54,7 +46,7 @@ The world would go on:
 
 "God refused to be my genie and He has failed me."
 
-You know what is the clearest example of God's love to each of us? The fact that He has revealed that He alone is God and we are not gods. I understand it might be easy for me to say that, the one with the regenerative heart. It is easy for me to say that but really hard to live it day in and day out. If it is hard to live out, how I am different than the unrepentant?
+You know what is the clearest example of God's love to each of us? The fact that He has revealed that He alone is God and we are not gods. I understand it might be easy for me to say that because I have been given a new heart by God. It is easy for me to say that but really hard to live it day in and day out. If it is hard to live out, how I am different than the unrepentant?
 
 There are examples of multiple examples in the Bible where God comes down, calls and that person then chooses every day to trust in Him. But in that I don't think is the clearest example of God's love.
 
@@ -82,7 +74,7 @@ God had nothing to prove to Pharaoh, Egypt, the Israelites, the Prophets or even
 
 He brings down the ten plagues because to every single child of wrath who has ever walked the earth and will ever walk the earth, God relentlessly, passionately, lovingly pursues even to all of those who have exchanged God for themselves as a god.
 
->Romans 9:17-18 For the Scripture says to Pharaoh, "For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth.” So then he has mercy on whomever he wills, and he hardens whomever he wills.
+>Romans 9:17-18 (CSB) For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. <sup> 18 </sup>So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
 
 For His people, he has mercy. To others including Pharaoh, His love and pursuit only serve to harden their hearts.
 
@@ -96,7 +88,7 @@ To that very thought, do we desire God to simply leave us alone?
 
 Never! God loves us too much to simply leave us alone.
 
->John 3:16a "For God so loved the world"
+>John 3:16a (CSB) For God loved the world in this way...
 
 If God truly loves the world, then why does the Bible says he hated Esau?
 
@@ -109,7 +101,12 @@ Is that a contradiction? Absolutely not. I am fully convinced that God loved Esa
 For as long as your body draws breath on this earth, make no mistake: God is pursuing you. The question remains: does His pursuit harden or soften your heart towards Him?
 
 Salvation was there for Esau. Salvation was there for you. All you have to do is trust Him.
+>Hebrews 9:27-28 (CSB) And just as it is appointed for people to die once—and after this, judgment—<sup> 28 </sup>so also Christ, having been offered once to bear the sins of many, will appear a second time, not to bear sin, but to bring salvation to those who are waiting for him.
 
->Hebrews 9:27-28 And just as it is appointed for man to die once, and after that comes judgment, so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.
+>John 3:16-17 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. <sup> 17 </sup> For God did not send his Son into the world to condemn the world, but to save the world through him.
 
->John 3:16-17 "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-iii-for-god-so-loved-the-world)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
