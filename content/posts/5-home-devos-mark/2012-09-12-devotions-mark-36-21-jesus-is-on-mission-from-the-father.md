@@ -15,11 +15,23 @@ draft: false
 ---
 ## The Introduction
 
+When you read the Gospel of Mark, if nothing else, if you are even halfway paying attention, is that Christ is one of action.
 
+We have read where Jesus heals, prays, accepts sinners, forgive sinners, heals hearts, and preaches the gospel.
+
+But Christ was no ordinary man who did a bunch of great and even supernatural things. Christ is the Son of God who was God. And while he was here ministering on earth, he was filled with the Holy Spirit.
+
+But did Christ come on his own. No. He didn't minister on his own. But he did not come on his own. 
+
+The Father, our Father in Heaven, sent Christ here. And it wasn't a casual vacation. It was a mission not to heal a bunch of people, rebuke legalists, or even to preach the gospel--although, Christ did all of that and then some.
+
+Christ singularly focused to rescue his people from their sins.
 
 ## The Text
 
->Mark 3:7-19 (CSB) Jesus departed with his disciples to the sea, and a large crowd followed from Galilee, and a large crowd followed from Judea,
+>Mark 3:6-19 (CSB) Immediately the Pharisees went out and started plotting with the Herodians against him, how they might kill him.
+>
+>Jesus departed with his disciples to the sea, and a large crowd followed from Galilee, and a large crowd followed from Judea,
 >
 ><sup> 8 </sup>Jerusalem, Idumea, beyond the Jordan, and around Tyre and Sidon. The large crowd came to him because they heard about everything he was doing.
 >
@@ -114,6 +126,8 @@ Therefore, we are no less than the 12 disciples of Christ. We are to go and prea
 
 6. What was Christ sent here to do?
 ```
+
+>Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
 ## Media
 
