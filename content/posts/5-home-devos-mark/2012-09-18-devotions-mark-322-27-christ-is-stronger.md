@@ -15,7 +15,7 @@ draft: false
 ---
 ## The Text
 
->Mark 3:20–27 (CSB)
+>Mark 3:20–27 (CSB)  
 ><sup> 20 </sup> Jesus entered a house, and the crowd gathered again so that they were not even able to eat. 
 
 ><sup> 21 </sup> When his family heard this, they set out to restrain him, because they said, “He’s out of his mind.” 
