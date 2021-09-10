@@ -32,6 +32,7 @@ draft: false
 
 ><sup> 27 </sup> But no one can enter a strong man’s house and plunder his possessions unless he first ties up the strong man. Then he can plunder his house.
 
+
 ## The Devotion
 
 >John 14:27 (CSB) “Peace I leave with you. My peace I give to you. I do not give to you as the world gives. Don’t let your heart be troubled or fearful.
