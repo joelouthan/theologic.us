@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 3:28-30 Listen to the Holy Spirit"
+title: "📺 Home Devotions: Mark 3:28-30 Listen to the Holy Spirit"
 author: Joseph Louthan
 date: 2012-09-20
 url: /home-devotions/mark-328-30-listen-to-the-holy-spirit/
@@ -13,7 +13,30 @@ css: "home-devos"
 showtoc: true
 draft: true
 ---
-**Mark 3:28-30 “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin”—for they were saying, “He has an unclean spirit.” **
+## The Text
+
+>Mark 3:28–30 (CSB)  
+><sup> 28 </sup> “Truly I tell you, people will be forgiven for all sins and whatever blasphemies they utter. 
+
+><sup> 29 </sup> But whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin”—
+
+><sup> 30 </sup> because they were saying, “He has an unclean spirit.”
+
+## The Devotion
+
+
+
+## The Discussion
+
+```text
+
+```
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+
 
 _What is blasphemy?_
 
