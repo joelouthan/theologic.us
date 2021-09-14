@@ -23,7 +23,9 @@ How did God save us? What does the Bible say?
 - Chapter 3 For God So Loved the World - The Gospel of God
 - Chapter 4 We Are Destined to Die - The Wages of Sin
 
-We must know where we are at now in order to see and experience what God saved us out from.
+If you are not in Christ, you must know where you are at right now in order to see what God does to rescue you.
+
+If you are in Christ, you get to rejoice and celebrate where God has rescue you from?
 
 ## The Doctrine
 
@@ -256,6 +258,6 @@ Amen
 
 ## Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-v-god-speaks-to-the-dead)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
