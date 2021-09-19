@@ -54,7 +54,7 @@ Real salvation is not going to come by the fact you will be able to ace a theolo
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

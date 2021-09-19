@@ -83,7 +83,7 @@ I grew up with the false doctrine that somehow some way, the Jewish people were 
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

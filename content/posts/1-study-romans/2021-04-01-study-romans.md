@@ -77,7 +77,7 @@ Romans 8:30 - Because God is perfect, his glorification of his people is already
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

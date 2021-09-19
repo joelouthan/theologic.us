@@ -57,7 +57,7 @@ The third response is "where shall we go?". If God is the only one who can save 
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

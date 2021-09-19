@@ -39,7 +39,7 @@ But don’t you see? Your cries are exactly like those of the children of Israel
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

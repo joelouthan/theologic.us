@@ -60,7 +60,7 @@ I wish I could say this was the only time he did this. But he did it again in Ge
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

@@ -37,7 +37,7 @@ Let us see how the wisdom of God was there in beginning. And despite our fallen 
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

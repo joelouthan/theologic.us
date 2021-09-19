@@ -29,7 +29,7 @@ What was God doing before he created the heavens and the earth? In other words, 
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

@@ -84,7 +84,7 @@ Anything that is antithetical to the gospel--legalism or disregard for the law o
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 

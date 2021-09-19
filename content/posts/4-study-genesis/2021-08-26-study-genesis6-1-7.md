@@ -77,7 +77,7 @@ This is not Holy Spirit but rather, the breath of life of God by God. Don't forg
 
 <div style="page-break-after: always;"></div>
 
-`Where do you see God in the text? What does the text say about God?`
+**Where do you see God in the text? What does the text say about God?**
 
 ## God
 
