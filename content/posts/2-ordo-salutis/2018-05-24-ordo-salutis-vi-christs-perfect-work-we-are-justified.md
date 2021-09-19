@@ -80,7 +80,7 @@ What did the father do? He quickly covered his son’s own mess, shame, and guil
 
 The father in the parable had all the means to restore his son to his own family. But how much more is the Good Father in heaven able to restore and bring the very worst and vile sinners into his own family.
 
-God knows everything about you. He determines when you were born and where you would live . On top of that, He knows when you were far from him, running away from him and commiting treason against Him. He sees all of that. He knows all of that. God also knows when you appear to do good things but your heart is not in the right place. Namely, your heart is not about God. But when God saw you in your unrighteousness, he decided not to instantly judge you to instant condemnation. But even before the creation of the world, God decided to save you .
+God knows everything about you. He determines when you were born and where you would live . On top of that, He knows when you were far from him, running away from him and committing treason against Him. He sees all of that. He knows all of that. God also knows when you appear to do good things but your heart is not in the right place. Namely, your heart is not about God. But when God saw you in your unrighteousness, he decided not to instantly judge you to instant condemnation. But even before the creation of the world, God decided to save you .
 
 Just as God slew an animal to clothe his kids, the slaying of that animal did save them. Just as God proclaims his law to His people, that law could not and did not save them—it was too weak to do so. Even when God laid out the instructions to spill the blood of perfect, spotless animals in order to show his people what God must do in order to  save them, not even the animals’ dried blood that completely stain the bronze altar would not save his people !
 
@@ -90,4 +90,4 @@ With every single verse, chapter, and book in the Old Testament, God continuousl
 
 That fix was His only begotten Son, Jesus Christ. God the Father sent God the Son to born as a little baby to perfect live his life perfectly obeying every single law that God gave his people. His Son was tempted but never falling short of the glory of God. But in perfect obedience to His Father by the power of His Spirit, the God and man, Jesus Christ, made a beeline to the cross in perfect obedience and with joy and gladness because what Christ was about to do is save His people from their sins. It was upon the last step on that hill of the skull where Jesus Christ would gladly give up his perfect life once and for all so that we would have the perfect life once and for all.
 
-2 Corinthians 5:21 For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
