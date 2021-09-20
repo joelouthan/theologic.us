@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 3:31-35 Jesus is Family"
+title: "📺 Home Devotions: Mark 3:31-35 Jesus is Family"
 author: Joseph Louthan
 date: 2012-10-03
 url: /home-devotions/mark-331-35-jesus-is-family/
