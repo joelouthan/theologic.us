@@ -1,5 +1,5 @@
 ---
-title: "Doctrine: Ordo Salutis VIII: Christ’s Finished Work, We Are Protected"
+title: "📺 Doctrine: Ordo Salutis VIII: Christ’s Finished Work, We Are Protected"
 author: Joseph Louthan
 date: 2018-06-07T12:00:56+00:00
 url: /ordo-salutis/ordo-salutis-viii-christs-finished-work-we-are-protected/
@@ -15,6 +15,9 @@ showtoc: false
 css: "home-devos"
 draft: false
 ---
+
+> Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
+
 This has been one of the most difficult chapters to write because there is so much to be packed into the doctrine of propitiation. The only way I could approach this is to start at the beginning and start at the high altitude and work our way down. To understand propitiation, we must understand God, his law, his love and his holiness.
 
 What can incite the wrath of God? It is when we decide that we don’t need his way but we insist on own our way. Parents recognize this in their own kids. But what about our own lives. We are not talking about wanting cookies for breakfast and not getting them. We are talking about dismissing God’s words for life entirely and try to save ourselves. In that vein, the world thinks that surely because God is love, then he can simply overlook such details and give us a free pass, perhaps even grade on a curve.
@@ -27,87 +30,63 @@ That exchange happened at a Pastor’s conference.
 
 This is why we must understand His holiness. Yes, the holiness of God can big and scary but if by the Spirit alone, we can grasp and understand it, we can rest assured of His goodness and salvation.
 
-In the beginning, in Genesis 2:15-17, God gives us just one law. Follow this one simple rule and I can take care of the rest. Let see how that unfolds:
+In the beginning, God gives us just one command--Follow this one simple rule and God will take care it all. Let see how that unfolds:
 
-Genesis 3:1-7 Now the serpent was more crafty than any other beast of the field that the LORD God had made.
+>Genesis 3:1–7 (CSB)  
+> 1  Now the serpent was the most cunning of all the wild animals that the LORD God had made. He said to the woman, “Did God really say, ‘You can’t eat from any tree in the garden’?” 
 
-He said to the woman, "Did God actually say, ‘You shall not eat of any tree in the garden’?” And the woman said to the serpent, "We may eat of the fruit of the trees in the garden, but God said, ‘You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.’” But the serpent said to the woman, "You will not surely die. For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.” So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate. Then the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.
+> 2  The woman said to the serpent, “We may eat the fruit from the trees in the garden. 
+
+> 3  But about the fruit of the tree in the middle of the garden, God said, ‘You must not eat it or touch it, or you will die.’ ” 
+
+> 4  “No! You will certainly not die,” the serpent said to the woman. 
+
+> 5  “In fact, God knows that when you eat it your eyes will be opened and you will be like God, knowing good and evil.” 
+
+> 6  The woman saw that the tree was good for food and delightful to look at, and that it was desirable for obtaining wisdom. So she took some of its fruit and ate it; she also gave some to her husband, who was with her, and he ate it. 
+
+> 7  Then the eyes of both of them were opened, and they knew they were naked; so they sewed fig leaves together and made coverings for themselves.
 
 In other words, this is what I think Eve was thinking "Hmm, I want my way. Man, it sure does feel like God is holding out on me. If I do this thing, sure I will get what God has been keeping from me.”
 
-What did God say would happen?
+What did God say would happen? Go back and read:
 
-Genesis 2:15-17 The LORD God took the man and put him in the garden of Eden to work it and keep it. And the LORD God commanded the man, saying, "You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”
+>Genesis 2:15-17 (CSB) The LORD God took the man and placed him in the garden of Eden to work it and watch over it. 16 And the LORD God commanded the man, “You are free to eat from any tree of the garden, 17 but you must not eat from the tree of the knowledge of good and evil, for on the day you eat from it, you will certainly die.”
 
-Forthwith, the wages of sin is death. {#return-note-3393-1.simple-footnote}
+Forthwith, the wages of sin is death.
 
 Did God kill them right away? No. But what cannot be denied, evident by the entire history of mankind, is that when sin came into this universe, all of the cosmos shattered and broke into a million pieces.
 
 Because of sin, God’s wrath and judgment fall in three ways: eventual death, sudden death and a giving over to what we want. All three ways lead to separation from God.
 
-Genesis 3:15–24
+>Genesis 3:15–24 (CSB)  
+> 15  I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel. 
 
-I will put enmity between you and the woman,
+> 16  He said to the woman: I will intensify your labor pains; you will bear children with painful effort. Your desire will be for your husband, yet he will rule over you. 
 
-and between your offspring and her offspring;
+> 17  And he said to the man, “Because you listened to your wife and ate from the tree about which I commanded you, ‘Do not eat from it’: The ground is cursed because of you. You will eat from it by means of painful labor all the days of your life. 
 
-he shall bruise your head,
+> 18  It will produce thorns and thistles for you, and you will eat the plants of the field. 
 
-and you shall bruise his heel.”
+> 19  You will eat bread by the sweat of your brow until you return to the ground, since you were taken from it. For you are dust, and you will return to dust.” 
 
-To the woman he said,
+> 20  The man named his wife Eve because she was the mother of all the living. 
 
-"I will surely multiply your pain in childbearing;
+> 21  The LORD God made clothing from skins for the man and his wife, and he clothed them. 
 
-in pain you shall bring forth children.
+> 22  The LORD God said, “Since the man has become like one of us, knowing good and evil, he must not reach out, take from the tree of life, eat, and live forever.” 
 
-Your desire shall be contrary to your husband,
+> 23  So the LORD God sent him away from the garden of Eden to work the ground from which he was taken. 
 
-but he shall rule over you.”
-
-And to Adam he said,
-
-"Because you have listened to the voice of your wife
-
-and have eaten of the tree
-
-of which I commanded you,
-
-‘You shall not eat of it,’
-
-cursed is the ground because of you;
-
-in pain you shall eat of it all the days of your life;
-
-thorns and thistles it shall bring forth for you;
-
-and you shall eat the plants of the field.
-
-By the sweat of your face
-
-you shall eat bread,
-
-till you return to the ground,
-
-for out of it you were taken;
-
-for you are dust,
-
-and to dust you shall return.”
-
-**The man called his wife’s name Eve, because she was the mother of all living. And the LORD God made for Adam and for his wife garments of skins and clothed them.
-
-**
-
-Then the LORD God said, "Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever—” therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken. He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.
+> 24  He drove the man out and stationed the cherubim and the flaming, whirling sword east of the garden of Eden to guard the way to the tree of life.
 
 In other words, life is going to be hard and at the end, you are going to die.
 
 But let us take a quick look at the sudden execution of God’s judgment:
 
-Genesis 13:13 Now the men of Sodom were wicked, great sinners against the LORD.
+>Genesis 13:13 (CSB) (Now the men of Sodom were evil, sinning immensely against the LORD.)
 
-Genesis 18:20-21 Then the LORD said, "Because the outcry against Sodom and Gomorrah is great and their sin is very grave, I will go down to see whether they have done altogether according to the outcry that has come to me. And if not, I will know.”
+>Genesis 18:20-21 (CSB) Then the LORD said, “The outcry against Sodom and Gomorrah is immense, and their sin is extremely serious. 21 I will go down to see if what they have done justifies the cry that has come up to me. If not, I will find out.”
 
 So based on Genesis 2 and Romans 6:23, what do you think is going to happen to the Sodom and Gomorrah? The judgment here is obvious, "Well, that is easy, they were wicked and they deserve to die.”
 
@@ -115,27 +94,29 @@ Let’s go to other places where it is not so obvious.
 
 God commands. Pharaoh disobeys. Pharaoh pretends to confess his sins but as soon as the current plague disappears, he sins and hardens his heart. {#return-note-3393-2.simple-footnote}
 
-God warned Pharoah of his judgment and wrath {#return-note-3393-3.simple-footnote}. God’s own people believed. {#return-note-3393-4.simple-footnote}
+God warned Pharoah of his judgment and wrath. God’s own people believed.
 
-But Pharaoh did not believe. Genesis 12:29-32 At midnight the LORD struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock. And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was a great cry in Egypt, for there was not a house where someone was not dead. Then he summoned Moses and Aaron by night and said, "Up, go out from among my people, both you and the people of Israel; and go, serve the LORD, as you have said. Take your flocks and your herds, as you have said, and be gone, and bless me also!”
+But Pharaoh did not believe.
 
-Judgment of the family within camp {#return-note-3393-5.simple-footnote}
+>Exodus 12:29-32 (CSB) Now at midnight the LORD struck every firstborn male in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the prisoner who was in the dungeon, and every firstborn of the livestock. 30 During the night Pharaoh got up, he along with all his officials and all the Egyptians, and there was a loud wailing throughout Egypt because there wasn’t a house without someone dead. 31 He summoned Moses and Aaron during the night and said, “Get out immediately from among my people, both you and the Israelites, and go, worship the LORD as you have said. 32 Take even your flocks and your herds as you asked and leave, and also bless me.”
 
-Judgment of idol worshippers {#return-note-3393-6.simple-footnote}
+Judgment of a family who stolen from God. Joshua 7
 
-The judgment of nations that surrounded Israel {#return-note-3393-7.simple-footnote}
+Judgment of idol worshippers. Exodus 33
 
-Judgment of entire nations {#return-note-3393-8.simple-footnote}
+The judgment of nations that surrounded Israel. Ezekiel 12-35.
+
+Judgment of entire nations. Book of Revelation.
 
 I am not going to sugar coat this at all. Sometimes, the women and the children were judged. Upon hearing that, our minds instantly click and thinks, "Those are women and children, they are innocent. They have done nothing wrong. They have been not been tried and judged.”
 
 Perhaps they were innocent in the laws of their land. But did they sin against God? Strike that—did we not all sin against God?
 
-for all have sinned and fall short of the glory of God {#return-note-3393-9.simple-footnote}
+>Romans 3:23 (CSB) For all have sinned and fall short of the glory of God;
 
-Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned {#return-note-3393-10.simple-footnote}
+>Romans 5:12 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.
 
-For whoever keeps the whole law but fails in one point has become accountable for all of it. {#return-note-3393-11.simple-footnote}
+>James 2:10 (CSB) For whoever keeps the entire law, and yet stumbles at one point, is guilty of breaking it all.
 
 If this is your first time hearing this or this is your millionth time hearing this, it is not easy to hear. This is not soft chew candy. This is tough, gristly meat cooked burnt to a well-done crisp that you have to chew on for days and even then, it’s painful to swallow.
 
@@ -204,3 +185,9 @@ For those who are in Christ, God is not out to get you. God is not out to pour h
 But Christ, with his life and his love, protects and saves His people so that God can make all things right-standing with Himself.
 
 Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
