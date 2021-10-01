@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 4:1-9 Jesus Teaches, How Do We Respond?"
+title: "📺 Home Devotions: Mark 4:1-9 Jesus Teaches, How Do We Respond?"
 author: Joseph Louthan
 date: 2012-10-10
 url: /home-devotions/mark-41-9-jesus-teaches-how-do-we-respond/
@@ -11,32 +11,60 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
-**Mark 4:1-9 Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land. And he was teaching them many things in parables, and in his teaching he said to them: “Listen! Behold, a sower went out to sow. And as he sowed, some seed fell along the path, and the birds came and devoured it. Other seed fell on rocky ground, where it did not have much soil, and immediately it sprang up, since it had no depth of soil. And when the sun rose, it was scorched, and since it had no root, it withered away. Other seed fell among thorns, and the thorns grew up and choked it, and it yielded no grain. And other seeds fell into good soil and produced grain, growing up and increasing and yielding thirtyfold and sixtyfold and a hundredfold.” And he said, “He who has ears to hear, let him hear.”**
 
-&nbsp;
+## The Text
 
-_What is a parable?_
+>Mark 4:1–9 (CSB)  
+> 1  Again he began to teach by the sea, and a very large crowd gathered around him. So he got into a boat on the sea and sat down, while the whole crowd was by the sea on the shore. 
 
-&nbsp;
+> 2  He taught them many things in parables, and in his teaching he said to them, 
 
-_What is a fable?_
+> 3  “Listen! Consider the sower who went out to sow. 
 
-&nbsp;
+> 4  As he sowed, some seed fell along the path, and the birds came and devoured it. 
 
-_Is there really a sower? Are there really seeds? _
+> 5  Other seed fell on rocky ground where it didn’t have much soil, and it grew up quickly, since the soil wasn’t deep. 
 
-&nbsp;
+> 6  When the sun came up, it was scorched, and since it had no root, it withered away. 
 
-_What in the heck does this story mean?_
+> 7  Other seed fell among thorns, and the thorns came up and choked it, and it didn’t produce fruit. 
 
-&nbsp;
+> 8  Still other seed fell on good ground and it grew up, producing fruit that increased thirty, sixty, and a hundred times.” 
 
-_Why do you think Jesus, who taught as one with authority (Mark 1:22], used parables?_
+> 9  Then he said, “Let anyone who has ears to hear listen.”
 
-&nbsp;
+## The Devotion
 
+Jesus trying to explain on how we can and cannot hear God.
 
+God speaks. We can hear but cannot comprehend sometimes.
 
- [1]: https://i0.wp.com/theologic.us/wp-content/uploads/2012/09/sowing_seeds.jpg
+>1 Corinthians 2:12 (CSB) Now we have not received the spirit of the world, but the Spirit who comes from God, so that we may understand what has been freely given to us by God.
+
+God speaks very plainly. The gospel is plain. His power and his divine nature is obvious.
+
+Why can't we understand it?
+
+>Romans 1:18-20 (CSB) For God’s wrath is revealed from heaven against all godlessness and unrighteousness of people who by their unrighteousness suppress the truth, 19 since what can be known about God is evident among them, because God has shown it to them. 20 For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse.
+
+## Discussions
+
+```text
+1. What needs to happen for us to understand and know God?
+
+2. What needs to happen for us to believe in God?
+
+3. Can we "naturally" understand the word of God? In other words, without the God revealing, is it possible to go to school to study the word of God all of your life and *still not* under the word of God?
+
+4. What must we do to understand God and his word and his gospel?
+
+5. What must we do to be saved?
+```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-41-9-jesus-proclaims-how-do-we-respond)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
