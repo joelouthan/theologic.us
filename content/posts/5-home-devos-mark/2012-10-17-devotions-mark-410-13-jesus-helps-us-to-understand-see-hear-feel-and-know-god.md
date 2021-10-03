@@ -13,15 +13,36 @@ css: "home-devos"
 showtoc: true
 draft: true
 ---
-Mark 4:10-13 **And when he was alone, those around him with the twelve asked him about the parables. And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables, so that
-  
-“they may indeed see but not perceive,
-  
-and may indeed hear but not understand,
-  
-lest they should turn and be forgiven.”
-  
-And he said to them, “Do you not understand this parable? How then will you understand all the parables?**
+
+## The Text
+
+>Mark 4:10–13 (CSB)  
+><sup> 10 </sup> When he was alone, those around him with the Twelve asked him about the parables. 
+
+><sup> 11 </sup> He answered them, “The secret of the kingdom of God has been given to you, but to those outside, everything comes in parables 
+
+><sup> 12 </sup> so that they may indeed look, and yet not perceive; they may indeed listen, and yet not understand; otherwise, they might turn back and be forgiven.” 
+
+><sup> 13 </sup> Then he said to them, “Don’t you understand this parable? How then will you understand all of the parables?
+
+## The Devotion
+
+
+
+## The Discussion
+
+```text
+
+```
+
+## Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+
+
+
 
 &nbsp;
 
