@@ -93,7 +93,7 @@ Let’s go to other places where it is not so obvious.
 
 God commands. Pharaoh disobeys. Pharaoh pretends to confess his sins but as soon as the current plague disappears, he sins and hardens his heart. {#return-note-3393-2.simple-footnote}
 
-God warned Pharoah of his judgment and wrath. God’s own people believed.
+God warned Pharaoh of his judgment and wrath. God’s own people believed.
 
 But Pharaoh did not believe.
 
@@ -121,11 +121,11 @@ If this is your first time hearing this or this is your millionth time hearing t
 
 Let’s hammer this point and let us see how you, me, my kids, my future little babies, your babies, even my sainted grandma all were born into:
 
-Ephesians 2:1-3 And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.
+>Ephesians 2:1-3 (CSB) And you were dead in your trespasses and sins 2 in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. 3 We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also.
 
 We were all born by nature children of the wrath of God. To simply put it, we were born dead.
 
-John 3:36 Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
 Finally, beyond sudden judgment and eventual judgment, there is a wrath that is not so obvious but it is where God simply gives us over to what we want. We keep suppressing His truth and we keep doing what we want. God simply goes, "You think your way is better, fine, go. Have it your way.”
 
@@ -135,9 +135,93 @@ So what then?
 
 Here is the greatest news that the world has ever known or will ever know:
 
-For those who would believe in the Son of God then all the wrath, hatred and judgment that was rightfully meant for those same sinners fall then upon the Son of God, Jesus Christ our Lord. His perfect obedient life, called out to us by the Father, empowered by the Holy Spirit, as he gives his life over, nails himself to the cross and takes on the full wrath of the Father and the forsaking of the Spirit so for that those who believe in Him would never experience that.
+For those who would believe in the Son of God then all the wrath, hatred and judgment that was rightfully meant for those same sinners fall then upon the Son of God, Jesus Christ our Lord. 
 
-God loves you so much. Before the creation of the world, he loved you. He looks upon all eternity and declares, "I must have you in my family. You are my son. You are my precious daughter. Yet you are running from me and you are so far from me. I cannot count on you to come back to me. You have no power to do so. Yet, I have all the power. I will send my Son and he will close that gap with his own life.” God the Father loved you so much that it pleased Him to send His Son to the cross {#return-note-3393-12.simple-footnote}. Father’s joy. Likewise, Christ loved you so much that for His glory, he saved you to Himself {#return-note-3393-13.simple-footnote} and he did it with all humility and joy {#return-note-3393-14.simple-footnote}. How do we know this? The evidence of the Spirit of God within us who produces His fruit {#return-note-3393-15.simple-footnote}, leads us, guides us, bears witness with our spirit that we are His children {#return-note-3393-16.simple-footnote}, comforts us, reminds of us everything that God has taught {#return-note-3393-17.simple-footnote}, convicts us of sin when we do not believe but reminds us of our righteousness because of everything that God has done in us {#return-note-3393-18.simple-footnote}.
+His perfect obedient life, called out to us by the Father, empowered by the Holy Spirit, as he gives his life over, nails himself to the cross and takes on the full wrath of the Father and the forsaking of the Spirit so for that those who believe in Him would never experience that.
+
+God loves you so much. Before the creation of the world, he loved you. He looks upon all eternity and declares, "I must have you in my family. You are my son. You are my precious daughter. Yet you are running from me and you are so far from me. I cannot count on you to come back to me. You have no power to do so. Yet, I have all the power. I will send my Son and he will close that gap with his own life.”
+
+>Isaiah 53:10 (CSB)  
+> 10  Yet the LORD was pleased to crush him severely. When you make him a guilt offering, he will see his seed, he will prolong his days, and by his hand, the LORD’s pleasure will be accomplished.
+
+
+
+God the Father loved you so much that it pleased Him to send His Son to the cross.
+
+Father’s joy. Likewise, Christ loved you so much that for His glory, he saved you to Himself:
+
+>>Isaiah 43:25 (CSB)  
+> 25  “I am the one, I sweep away your transgressions for my own sake and remember your sins no more
+
+And Christ did saved us with all humility and joy. 
+
+>Philippians 2:5–8 (CSB)  
+> 5  Adopt the same attitude as that of Christ Jesus, 
+
+> 6  who, existing in the form of God, did not consider equality with God as something to be exploited. 
+
+> 7  Instead he emptied himself by assuming the form of a servant, taking on the likeness of humanity. And when he had come as a man, 
+
+> 8  he humbled himself by becoming obedient to the point of death— even to death on a cross.
+
+How do we know this? How do we know we are saved by God through the life and death of Christ Jesus? Then answer is God. Namely, the Holy Spirit.
+
+### The Produce of the Spirit
+
+>Galatians 5:22-23 (CSB) But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, 23 gentleness, and self-control. The law is not against such things.
+
+>Matthew 7:15-20 (CSB) “Be on your guard against false prophets who come to you in sheep’s clothing but inwardly are ravaging wolves. 16 You’ll recognize them by their fruit. Are grapes gathered from thornbushes or figs from thistles? 17 In the same way, every good tree produces good fruit, but a bad tree produces bad fruit. 18 A good tree can’t produce bad fruit; neither can a bad tree produce good fruit. 19 Every tree that doesn’t produce good fruit is cut down and thrown into the fire. 20 So you’ll recognize them by their fruit.
+
+The evidence of the Spirit of God within us who produces His fruit.
+
+### The Leadership of the Spirit
+
+>Romans 8:3-7 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, 4 in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit. 5 For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit. 6 Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace. 
+
+The Holy Spirit leads us, guides us...
+
+>Romans 8:7 The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so. 8 (CSB) Those who are in the flesh cannot please God.
+
+The Holy Spirit enables us to obey God...
+
+>Romans 8:9-10 (CSB) You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him. 10 Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness.
+
+>1 John 5:1 (CSB) Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves the one born of him.
+
+>John 3:6-8 (CSB) Whatever is born of the flesh is flesh, and whatever is born of the Spirit is spirit. 7 Do not be amazed that I told you that you must be born again. 8 The wind blows where it pleases, and you hear its sound, but you don’t know where it comes from or where it is going. So it is with everyone born of the Spirit.”
+
+>John 10:9-10 (CSB) I am the gate. If anyone enters by me, he will be saved and will come in and go out and find pasture. 10 A thief comes only to steal and kill and destroy. I have come so that they may have life and have it in abundance.
+
+The Holy Spirit makes us fully alive.
+
+>Romans 8:12-13 (CSB) So then, brothers and sisters, we are not obligated to the flesh to live according to the flesh, 13 because if you live according to the flesh, you are going to die. But if by the Spirit you put to death the deeds of the body, you will live.
+
+>Mark 9:47-49 (CSB) And if your eye causes you to fall away, gouge it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell, 48 where their worm does not die, and the fire is not quenched. 49 For everyone will be salted with fire.
+
+The Holy Spirit gives us the grace and the actual strength to violently, relentlessly, repentantly kill off your sin.
+
+
+>Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons. 15 For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” 16 The Spirit himself testifies together with our spirit that we are God’s children, 
+
+The Holy Spirit bears witness with our spirit that we are His children.
+
+>17 and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
+
+The Holy Spirit does bring us to the inheritance of the Son. But get to that, the Holy Spirit carries us through the suffering and persecutions. Make no mistake: God will carry you through--but you will suffer just like your Savior.
+
+>John 14:15-17 (CSB) “If you love me, you will keep my commands. 16 And I will ask the Father, and he will give you another Counselor to be with you forever. 17 He is the Spirit of truth. The world is unable to receive him because it doesn’t see him or know him. But you do know him, because he remains with you and will be in you.
+
+>John 14:26 (CSB) But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things and remind you of everything I have told you.
+
+>John 15:26-27 (CSB) When the Counselor comes, the one I will send to you from the Father —the Spirit of truth who proceeds from the Father—he will testify about me. 27 You also will testify, because you have been with me from the beginning.
+
+>John 16:13-14 (CSB) When the Spirit of truth comes, he will guide you into all the truth. For he will not speak on his own, but he will speak whatever he hears. He will also declare to you what is to come. 14 He will glorify me, because he will take from what is mine and declare it to you.
+ 
+The Holy Spirit comforts us, reminds of us everything that God has taught
+
+>John 16:7-11 (CSB) Nevertheless, I am telling you the truth. It is for your benefit that I go away, because if I don’t go away the Counselor will not come to you. If I go, I will send him to you. 8 When he comes, he will convict the world about sin, righteousness, and judgment: 9 About sin, because they do not believe in me; 10 about righteousness, because I am going to the Father and you will no longer see me; 11 and about judgment, because the ruler of this world has been judged.
+
+The Holy Spirit convicts us of sin when we do not believe but reminds us of our righteousness because of everything that God has done in us. 
 
 From the Lord’s furious righteous anger against sin is meant to make all things right. All things right is joy, love, and happiness forever and ever.
 
