@@ -11,7 +11,7 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
 
 ## The Text
@@ -32,48 +32,29 @@ draft: true
 ## The Discussion
 
 ```text
+1. How do you learn in school?
 
+2. Do you think it is the same way you learn about God?
 ```
+
+>1 Corinthians 2:12 (CSB) Now we have not received the spirit of the world, but the Spirit who comes from God, so that we may understand what has been freely given to us by God.
+
+```text
+3. Do you think Jesus was calling his disciples stupid?
+
+4. When do think the disciples finally understood Jesus?
+```
+
+>John 20:21-23 (CSB) Jesus said to them again, “Peace be with you. As the Father has sent me, I also send you.” 22 After saying this, he breathed on them and said, “Receive the Holy Spirit. 23 If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.”
+
+```text
+5. When do you think when we finally understood Jesus?
+```
+
+>Acts 2:1-4 (CSB) When the day of Pentecost had arrived, they were all together in one place. 2 Suddenly a sound like that of a violent rushing wind came from heaven, and it filled the whole house where they were staying. 3 They saw tongues like flames of fire that separated and rested on each one of them. 4 Then they were all filled with the Holy Spirit and began to speak in different tongues, as the Spirit enabled them.
 
 ## Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-410-13-jesus-helps-us-to-understand-see-hear-feel-and-know-god)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
-
-
-
-
-&nbsp;
-
-1. _How do you learn in school?_
-
-&nbsp;
-
-&nbsp;
-
-2. _Do you think it is the same way you learn about God?_
-
-**     Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God.**
-
-(1 Corinthians 2:12 cf. 1 Cor 3:18-23, Heb 6:1-3]
-
-&nbsp;
-
-3. _Do you think Jesus was calling his disciples stupid?_
-
-&nbsp;
-
-&nbsp;
-
-4. When do think the disciples finally _understood_ Jesus?
-
-**     When the day of Pentecost arrived, they were all together in one place. And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. And divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.**
-
-**     Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven. And at this sound the multitude came together, and they were bewildered, because each one was hearing them speak in his own language. And they were amazed and astonished, saying, “Are not all these who are speaking Galileans? And how is it that we hear, each of us in his own native language? Parthians and Medes and Elamites and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome, both Jews and proselytes, Cretans and Arabians—we hear them telling in our own tongues the mighty works of God.” And all were amazed and perplexed, saying to one another, “What does this mean?” But others mocking said, “They are filled with new wine.”**
-
-(Acts 2:1-13 cf. Luke 24:49)
-
-
-
- [1]: https://i1.wp.com/theologic.us/wp-content/uploads/2012/10/dis.jpg

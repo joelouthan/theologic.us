@@ -144,13 +144,11 @@ God loves you so much. Before the creation of the world, he loved you. He looks 
 >Isaiah 53:10 (CSB)  
 > 10  Yet the LORD was pleased to crush him severely. When you make him a guilt offering, he will see his seed, he will prolong his days, and by his hand, the LORD’s pleasure will be accomplished.
 
-
-
 God the Father loved you so much that it pleased Him to send His Son to the cross.
 
 Father’s joy. Likewise, Christ loved you so much that for His glory, he saved you to Himself:
 
->>Isaiah 43:25 (CSB)  
+>Isaiah 43:25 (CSB)  
 > 25  “I am the one, I sweep away your transgressions for my own sake and remember your sins no more
 
 And Christ did saved us with all humility and joy. 
@@ -200,7 +198,6 @@ The Holy Spirit makes us fully alive.
 
 The Holy Spirit gives us the grace and the actual strength to violently, relentlessly, repentantly kill off your sin.
 
-
 >Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons. 15 For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” 16 The Spirit himself testifies together with our spirit that we are God’s children, 
 
 The Holy Spirit bears witness with our spirit that we are His children.
@@ -225,7 +222,7 @@ The Holy Spirit convicts us of sin when we do not believe but reminds us of our 
 
 From the Lord’s furious righteous anger against sin is meant to make all things right. All things right is joy, love, and happiness forever and ever.
 
-Jesus Christ being our sacrificial lamb (propitiation) and scapegoat (expiation) is that singular righteous requirement of the law might be fulfilled. {#return-note-3393-19.simple-footnote} In a nutshell, the law required in order for you and me to be in the presence of God, you will have to sacrifice a spotless lamb and take all the sins of the people, place them on a goat and release the goat into the wilderness never to return back again. Those rituals in the Old Testament was a foreshadow to whom Jesus Christ is and what he does. But those were just that: foreshadows. Never the real thing. The real thing is that man must shed his blood to atone for his sins. Herein lies the problem: Man is not perfect. Man cannot atone for his sin. {#return-note-3393-20.simple-footnote}
+Jesus Christ being our sacrificial lamb (propitiation) and scapegoat (expiation) is that singular righteous requirement of the law might be fulfilled. In a nutshell, the law required in order for you and me to be in the presence of God, you will have to sacrifice a spotless lamb and take all the sins of the people, place them on a goat and release the goat into the wilderness never to return back again. Those rituals in the Old Testament was a foreshadow to whom Jesus Christ is and what he does. But those were just that: foreshadows. Never the real thing. The real thing is that man must shed his blood to atone for his sins. Herein lies the problem: Man is not perfect. Man cannot atone for his sin.
 
 There is only One who is not only willing to save and able to save but he is the only one who has the power to save.
 
@@ -249,11 +246,11 @@ It was at that moment, Jesus became every single sin ever committed by anyone wh
 
 It was in that same moment, that His only begotten Son was indeed the only True Perfect Sacrifice and that His Son had become all of our sins, God the Father unleashed His wrath upon His Son and killing Him. That wrath was meant for you and me. We were meant to die that way. But because God loves us so much, Jesus Christ stood in our place and took the full force of God’s wrath that was meant for His people. It was in the moment, God the Father and God the Spirit turned their backs and forsook God the Son because Christ was the only one who could bear the weight of the sins of His people, of those who would believe and trust Him for eternal life.
 
-Hebrews 2:17 Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make propitiation for the sins of the people.
+>Hebrews 2:17-18 (ESV) Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make propitiation for the sins of the people. 18 For because he himself has suffered when tempted, he is able to help those who are being tempted.
 
-1 John 2:2 He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.
+>1 John 2:2-3 (ESV) He is the propitiation for our sins, and not for ours only but also for the sins of the whole world. 3 And by this we know that we have come to know him, if we keep his commandments.
 
-1 John 4:10 In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
+>1 John 4:10 (ESV) In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
 
 God made Jesus to be the bearer of all the wrath that was in store for us. Listen, if you think that the wrath of God is simply contained to fire out of the heavens that take our temporal life on earth, think less of that and think about being separated from the love of God forever. That is called hell.
 
@@ -261,16 +258,16 @@ But with God’s will, by the power of the Holy Spirit, Jesus Christ knew us so 
 
 This work was done once. Only once. We don’t need to crucify Christ again.
 
-For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit {#return-note-3393-21.simple-footnote}
+For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit.
 
-For those who are in Christ, God is not out to get you. God is not out to pour his wrath on you. Will God discipline you if you try to go astray? That is to be sure. That is because He is your Father in heaven who loves you and would only do what any good Father would do but do so without shame, condemnation, abuse, torment, affliction. He would do so in perfect love, gentleness, kindness, never leaving you nor forsaking you forever. {#return-note-3393-22.simple-footnote}
+For those who are in Christ, God is not out to get you. God is not out to pour his wrath on you. Will God discipline you if you try to go astray? That is to be sure. That is because He is your Father in heaven who loves you and would only do what any good Father would do but do so without shame, condemnation, abuse, torment, affliction. He would do so in perfect love, gentleness, kindness, never leaving you nor forsaking you forever.
 
 But Christ, with his life and his love, protects and saves His people so that God can make all things right-standing with Himself.
 
-Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
+>Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
 
 ## Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-viii-christs-finished-work-we-are-protected)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
