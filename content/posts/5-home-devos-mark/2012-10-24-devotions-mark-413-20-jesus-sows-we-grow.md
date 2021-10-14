@@ -34,7 +34,11 @@ draft: false
 
 ## The Devotion
 
+When we come to know and love and believe and trust in God, it doesn't happen in an instance. It might feel like it because before you knew and love God, you and I were dead in our trespasses and sins. When you come to life, it might feel all of sudden.
 
+But what we see here is that the Son of God is scattering the seeds. Those seeds are the gospel of God. This gospel of Christ and him crucified.
+
+And it is God who gives the growth.  And when the Spirit saves a person, we now know that he has been working all of life--and believe this, way before you were even born--to bring you to the Father as you precious, chosen, loved child.
 
 ## The Discussion
 
