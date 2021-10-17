@@ -1,9 +1,8 @@
 ---
-title: "Doctrine: Ordo Salutis X: Our New Inheritance – Spirit’s Witness in Our Adoption"
+title: "📺 Doctrine: Ordo Salutis X: Our New Inheritance – Spirit’s Witness in Our Adoption"
 author: Joseph Louthan
 date: 2018-06-21T12:00:18+00:00
 url: /ordo-salutis/ordo-salutis-ix-our-new-inheritance-spirits-witness-in-our-adoption/
-featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/06/4kTa.gif?resize=500%2C243
 categories:
   - Theology
 tags:
@@ -19,21 +18,36 @@ We have fully established that we are not fully alive despite being biologically
 
 And just being dead is not enough:
 
->Ephesians 2:1–3 And you were dead in the trespasses and sins  in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience—  among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.
+>Ephesians 2:1-3 (CSB) And you were dead in your trespasses and sins 2 in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. 3 We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also.
 
 And just when we think that Paul is being too critical or even too harsh, look at what the Apostle John has to say :
 
->John 3:36 Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
 So you see, by being born and apart from God, we are doubly both dead in our trespasses and by nature children of the wrath of God.
 
 Paul explains this in the best way by way of comparing our original father, Adam, and the second Adam, Jesus Christ:
 
->Romans 5:12–21 Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—  for sin indeed was in the world before the law was given, but sin is not counted where there is no law.  Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.
+>Romans 5:12–21 (CSB)  
+><sup> 12 </sup> Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned. 
 
-But the free gift is not like the trespass. For if many died through one man’s trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many.  And the free gift is not like the result of that one man’s sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification.  For if, because of one man’s trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ.
+><sup> 13 </sup> In fact, sin was in the world before the law, but sin is not charged to a person’s account when there is no law. 
 
-Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men.  For as by the one man’s disobedience the many were made sinners, so by the one man’s obedience the many will be made righteous.  Now the law came in to increase the trespass, but where sin increased, grace abounded all the more,  so that, as sin reigned in death, grace also might reign through righteousness leading to eternal life through Jesus Christ our Lord.
+><sup> 14 </sup> Nevertheless, death reigned from Adam to Moses, even over those who did not sin in the likeness of Adam’s transgression. He is a type of the Coming One. 
+
+><sup> 15 </sup> But the gift is not like the trespass. For if by the one man’s trespass the many died, how much more have the grace of God and the gift which comes through the grace of the one man Jesus Christ overflowed to the many. 
+
+><sup> 16 </sup> And the gift is not like the one man’s sin, because from one sin came the judgment, resulting in condemnation, but from many trespasses came the gift, resulting in justification. 
+
+><sup> 17 </sup> If by the one man’s trespass, death reigned through that one man, how much more will those who receive the overflow of grace and the gift of righteousness reign in life through the one man, Jesus Christ. 
+
+><sup> 18 </sup> So then, as through one trespass there is condemnation for everyone, so also through one righteous act there is justification leading to life for everyone. 
+
+><sup> 19 </sup> For just as through one man’s disobedience the many were made sinners, so also through the one man’s obedience the many will be made righteous. 
+
+><sup> 20 </sup> The law came along to multiply the trespass. But where sin multiplied, grace multiplied even more 
+
+><sup> 21 </sup> so that, just as sin reigned in death, so also grace will reign through righteousness, resulting in eternal life through Jesus Christ our Lord.
 
 Now I know that is a long passage, but let me put together a pros and cons list to help better see Paul’s point:
 
@@ -65,7 +79,7 @@ My friend and I started shaking the word of God down to its core teachings (doct
 
 To make a long story, short, I contended that we must first have a new heart in order to choose God, have faith in Christ, and obey His commands by the power of the Holy Spirit. I argued, without God, we cannot choose God. I pointed to this verse (backed by John 1:12-13)
 
->1 John 5:1 Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him.
+>1 John 5:1 (CSB) Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves the one born of him.
 
 In other words:
 
@@ -104,29 +118,51 @@ So what can we say to all of this?
 
 If we are saved by God, then God is our Father.
 
->Romans 8:12–15 So then, brothers, we are debtors, not to the flesh, to live according to the flesh. For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live. For all who are led by the Spirit of God are sons of God. For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, "Abba! Father!”
+>Romans 8:12-17 (CSB) So then, brothers and sisters, we are not obligated to the flesh to live according to the flesh, 13 because if you live according to the flesh, you are going to die. But if by the Spirit you put to death the deeds of the body, you will live. 14 For all those led by God’s Spirit are God’s sons. 15 For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” 16 The Spirit himself testifies together with our spirit that we are God’s children, 17 and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
 And if God is our Father, God absolutely promises we will look like His Son (and God does not break promises).
 
->Romans 8:29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.
+>Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
 
->Hebrews 12:3–11 Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted. In your struggle against sin you have not yet resisted to the point of shedding your blood. And have you forgotten the exhortation that addresses you as sons? "My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him. For the Lord disciplines the one he loves, and chastises every son whom he receives.” It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline? If you are left without discipline, in which all have participated, then you are illegitimate children and not sons. Besides this, we have had earthly fathers who disciplined us and we respected them. Shall we not much more be subject to the Father of spirits and live? For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness. For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.
+>Hebrews 12:3–11 (CSB)  
+><sup> 3 </sup> For consider him who endured such hostility from sinners against himself, so that you won’t grow weary and give up. 
+
+><sup> 4 </sup> In struggling against sin, you have not yet resisted to the point of shedding your blood. 
+
+><sup> 5 </sup> And you have forgotten the exhortation that addresses you as sons: My son, do not take the Lord’s discipline lightly or lose heart when you are reproved by him, 
+
+><sup> 6 </sup> for the Lord disciplines the one he loves and punishes every son he receives. 
+
+><sup> 7 </sup> Endure suffering as discipline: God is dealing with you as sons. For what son is there that a father does not discipline? 
+
+><sup> 8 </sup> But if you are without discipline—which all receive—then you are illegitimate children and not sons. 
+
+><sup> 9 </sup> Furthermore, we had human fathers discipline us, and we respected them. Shouldn’t we submit even more to the Father of spirits and live? 
+
+><sup> 10 </sup> For they disciplined us for a short time based on what seemed good to them, but he does it for our benefit, so that we can share his holiness. 
+
+><sup> 11 </sup> No discipline seems enjoyable at the time, but painful. Later on, however, it yields the peaceful fruit of righteousness to those who have been trained by it.
 
 And if God is our Father, we will not stand before Him in our own defense as though we could do so in our own self-righteousness. No! God himself bears witness with our witness that we belong to Him.
 
->Matthew 7:21–23 "Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
+>>Matthew 7:21–23 (CSB)  
+> 21  “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. 
 
->Romans 8:16 The Spirit himself bears witness with our spirit that we are children of God,
+> 22  On that day many will say to me, ‘Lord, Lord, didn’t we prophesy in your name, drive out demons in your name, and do many miracles in your name?’ 
+
+> 23  Then I will announce to them, ‘I never knew you. Depart from me, you lawbreakers!'
+
+>Romans 8:16 (CSB) The Spirit himself testifies together with our spirit that we are God’s children,
 
 And then God is our Father, and the Holy Spirit of adoption is our witness, then it stands to reason that Christ is our Eldest Brother. If that being the case, we are then co-heirs with He whom is heir to all things.
 
->Romans 8:17 and if children, then heirs—heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.
+>Romans 8:17 (CSB) and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
->Hebrews 1:1–2 Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
+>Hebrews 1:1-2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. 2 In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
 
 And to that end, you believe and trust in God, then the Father of Christ is your Father. We are His sons forevermore because a Perfect Father never loses his kids.
 
->John 10:28–30 I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father’s hand. I and the Father are one.”
+>John 10:28-30 (CSB) I give them eternal life, and they will never perish. No one will snatch them out of my hand. 29 My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand. 30 I and the Father are one.”
 
 In some states, when a child is adopted, the law ensures that the adopted child is given an inheritance no matter what (assuming there is an inheritance to be left to the child) even if the natural born children are left out of the will. But even still, sometimes adoptive kids can feel like second-class family members in their own home; never mind the reality of not being with your original parents.
 
@@ -134,8 +170,41 @@ But here's why adoption has to be rightfully seen according to the Bible. By bir
 
 Christ takes it even a step further:
 
->John 8:39–47 They answered him, "Abraham is our father.” Jesus said to them, "If you were Abraham’s children, you would be doing the works Abraham did, but now you seek to kill me, a man who has told you the truth that I heard from God. This is not what Abraham did. You are doing the works your father did.” They said to him, "We were not born of sexual immorality. We have one Father—even God.” Jesus said to them, "If God were your Father, you would love me, for I came from God and I am here. I came not of my own accord, but he sent me. Why do you not understand what I say? It is because you cannot bear to hear my word. You are of your father the devil, and your will is to do your father’s desires. He was a murderer from the beginning and does not stand in the truth, because there is no truth in him. When he lies, he speaks out of his own character, for he is a liar and the father of lies. But because I tell the truth, you do not believe me. Which one of you convicts me of sin? If I tell the truth, why do you not believe me? Whoever is of God hears the words of God. The reason why you do not hear them is that you are not of God.”
+>John 8:39–47 (CSB)  
+><sup> 39 </sup> “Our father is Abraham,” they replied. “If you were Abraham’s children,” Jesus told them, “you would do what Abraham did. 
+
+><sup> 40 </sup> But now you are trying to kill me, a man who has told you the truth that I heard from God. Abraham did not do this. 
+
+><sup> 41 </sup> You’re doing what your father does.” “We weren’t born of sexual immorality,” they said. “We have one Father—God.” 
+
+><sup> 42 </sup> Jesus said to them, “If God were your Father, you would love me, because I came from God and I am here. For I didn’t come on my own, but he sent me. 
+
+><sup> 43 </sup> Why don’t you understand what I say? Because you cannot listen to my word. 
+
+><sup> 44 </sup> You are of your father the devil, and you want to carry out your father’s desires. He was a murderer from the beginning and does not stand in the truth, because there is no truth in him. When he tells a lie, he speaks from his own nature, because he is a liar and the father of lies. 
+
+><sup> 45 </sup> Yet because I tell the truth, you do not believe me. 
+
+><sup> 46 </sup> Who among you can convict me of sin? If I am telling the truth, why don’t you believe me? 
+
+><sup> 47 </sup> The one who is from God listens to God’s words. This is why you don’t listen, because you are not from God.”
 
 There is no neutral ground. Christ himself was perfectly clear. If God was our Father, we would love Christ and we would do his will. Otherwise, the devil is our father and we only do his will.
 
 We were born in a sin state. But by God's grace alone, we are born again. Because we were of a different family other than God's, God adopts us into His own family. Furthermore, He saves us to himself forever. He promises that our being will look like His own Son because His own Son gives us his own robes of righteousness, and seals us with His Spirit. And because we are His children, we are given the world in order to go and proclaim the gospel of peace to every person and baptizing them in the name of our Father, our Savior the Son, and our Holy Spirit.
+
+## The Prayer
+
+<div style='font-variant: small-caps;'>
+
+</div>
+
+```text
+
+```
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-x-our-new-inheritance--spirits-witness-in-our-adoption)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)

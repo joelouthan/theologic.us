@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 4:21-22 Jesus is the Light"
+title: "📺 Home Devotions: Mark 4:21-22 Jesus is the Light"
 author: Joseph Louthan
 date: 2012-10-31
 url: /home-devotions/mark-421-22-jesus-is-the-light/
@@ -13,6 +13,40 @@ css: "home-devos"
 showtoc: true
 draft: true
 ---
+## The Text
+
+>Mark 4:21–22 (CSB)  
+><sup> 21 </sup> He also said to them, “Is a lamp brought in to be put under a basket or under a bed? Isn’t it to be put on a lampstand? 
+
+><sup> 22 </sup> For there is nothing hidden that will not be revealed, and nothing concealed that will not be brought to light.
+
+## The Devotion
+
+If we believe, trust, hope, and obey in Jesus Christ our Lord, do we keep it a secret or do we live this new life that we have received by God?
+
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
+
+<div style='font-variant: small-caps;'>
+
+</div>
+
+```text
+
+```
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-421-22-jesus-is-the-light)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+
+
 Mark 4:21-25** And he said to them, “Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? For nothing is hidden except to be made manifest; nor is anything secret except to come to light.**
 
 John 1:1-13 **In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it.**
