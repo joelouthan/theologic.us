@@ -200,8 +200,12 @@ We were born in a sin state. But by God's grace alone, we are born again. Becaus
 </div>
 
 ```text
-
+Holy Spirit
 ```
+
+Give us life!
+
+Amen.
 
 ## The Media
 
