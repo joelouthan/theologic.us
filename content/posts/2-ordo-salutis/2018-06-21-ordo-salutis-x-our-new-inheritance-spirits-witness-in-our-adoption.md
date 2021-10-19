@@ -145,7 +145,7 @@ And if God is our Father, God absolutely promises we will look like His Son (and
 
 And if God is our Father, we will not stand before Him in our own defense as though we could do so in our own self-righteousness. No! God himself bears witness with our witness that we belong to Him.
 
->>Matthew 7:21–23 (CSB)  
+>Matthew 7:21–23 (CSB)  
 > 21  “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. 
 
 > 22  On that day many will say to me, ‘Lord, Lord, didn’t we prophesy in your name, drive out demons in your name, and do many miracles in your name?’ 
