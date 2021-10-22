@@ -11,7 +11,7 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -27,17 +27,33 @@ If we believe, trust, hope, and obey in Jesus Christ our Lord, do we keep it a s
 ## The Discussion
 
 ```text
+1. What did Christ come to do?
 
+2. How did he do it?
+```
+
+>1 John 2:1-6 (CSB) My little children, I am writing you these things so that you may not sin. But if anyone does sin, we have an advocate with the Father—Jesus Christ the righteous one. 2 He himself is the atoning sacrifice for our sins, and not only for ours, but also for those of the whole world. 3 This is how we know that we know him: if we keep his commands. 4 The one who says, “I have come to know him,” and yet doesn’t keep his commands, is a liar, and the truth is not in him. 5 But whoever keeps his word, truly in him the love of God is made complete. This is how we know we are in him: 6 The one who says he remains in him should walk just as he walked.
+
+>Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.
+
+```text
+3. Can you hide from God? Can you keep secrets from God?
+
+4. When you do something bad in secret, should you try to hide it in your heart and mind or run to God who will always forgive your sins?
 ```
 
 ## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+Father of lights
 </div>
 
 ```text
+Shine the light of your life upon us. Expose our sins for all of days. Give us the gift of repentance to turn to your Son and confess our sins. To give them over so we can receive the righteousness of life.
 
+We love you forever.
+
+Amen.
 ```
 
 ## The Media
@@ -45,40 +61,3 @@ If we believe, trust, hope, and obey in Jesus Christ our Lord, do we keep it a s
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-421-22-jesus-is-the-light)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
-
-
-Mark 4:21-25** And he said to them, “Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? For nothing is hidden except to be made manifest; nor is anything secret except to come to light.**
-
-John 1:1-13 **In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it.**
-  
- **There was a man sent from God, whose name was John. He came as a witness, to bear witness about the light, that all might believe through him. He was not the light, but came to bear witness about the light.**
-
-******The true light, which gives light to everyone, was coming into the world. He was in the world, and the world was made through him, yet the world did not know him. He came to his own, and his own people did not receive him. But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.**
-
-&nbsp;
-
-1. _What did Christ come to do?_
-
-&nbsp;
-
-2. _How did he do it?_
-
-By being the light
-
-Enlightens everybody
-
-Shines on sin so we can be saved. Matt 1:21;  1 John 2:1-6
-
-&nbsp;
-
-3. _Can you hide from God? Can you keep secrets from God?_
-
-&nbsp;
-
-4. _When you do something bad in secret, should you try to hide it in your heart and mind or run to God who will always forgive your sins?_
-
-&nbsp;
-
-
-
- [1]: https://i2.wp.com/theologic.us/wp-content/uploads/2012/10/129-jesus-christ-light-of-the-world.jpg
