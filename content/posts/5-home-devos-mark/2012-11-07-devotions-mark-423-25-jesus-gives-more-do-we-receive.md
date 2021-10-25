@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 4:23-25 Jesus Gives More, Do We Receive?"
+title: "📺 Home Devotions: Mark 4:23-25 Jesus Gives More, Do We Receive?"
 author: Joseph Louthan
 date: 2012-11-07
 url: /home-devotions/mark-423-25-jesus-gives-more-do-we-receive/
@@ -11,8 +11,31 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
+## The Text
+>Mark 4:23–25 (CSB)  
+> 23  If anyone has ears to hear, let him listen.” 
+
+> 24  And he said to them, “Pay attention to what you hear. By the measure you use, it will be measured to you—and more will be added to you. 
+
+> 25  For whoever has, more will be given to him, and whoever does not have, even what he has will be taken away from him.”
+
+## The Devotion
+
+
+
+## The Discussion
+
+```text
+
+```
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
 
 
 Mark 4:23-25 **If anyone has ears to hear, let him hear.” And he said to them, “Pay attention to what you hear: with the measure you use, it will be measured to you, and still more will be added to you. For to the one who has, more will be given, and from the one who has not, even what he has will be taken away.”**
