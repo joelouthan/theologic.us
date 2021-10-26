@@ -33,7 +33,7 @@ And just because God saved me didn't mean everything magically gotten better. Fo
 
 Now, I can throw the following verse at you, and take a moment to highlight the key phrase in verse to make sure you understand the nuance in the text:
 
->Romans 8:28 And we know that for those who love God all things work together for good, for those who are called according to his purpose.
+>Romans 8:28 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose.
 
 I think most of us get that. All things mean all things. All means good and bad. But exactly does that mean and what does it mean for me?
 
@@ -49,7 +49,7 @@ And this will take a lifetime.
 
 For some I know who got saved, they were immediately broke free from crippling addictions. It happened to me. The moment I got saved from a decades-long addiction to porn. But what I learned later is that doesn't mean the temptations doesn't come after you. And it doesn't say you won't fall. I certainly did. But was the difference between my old self and new self? I got right back up. By the grace of God, I kept getting back up after every time I fell.
 
->Proverbs 24:16 for the righteous falls seven times and rises again, but the wicked stumble in times of calamity.
+>Proverbs 24:16 (CSB) Though a righteous person falls seven times, he will get up, but the wicked will stumble into ruin.
 
 Let us rejoice in the fact that this is not some absolute limit of how many times a Christian can sin before he is let go by God. What it does mean that the righteous ones of God will _always_ get up one more time they all the times they have fallen. That is because of the strength, love, and grace of our Lord Jesus Christ.
 
@@ -99,7 +99,7 @@ and punishes every son he receives.
 
 When we mess up, we are given the strength to get up that once more time. But our Father does not want us to suffer the sins that we keep committing. So sometimes, discipline is involved.
 
-I hesitate to share this story, but I know that this is the clearest example I know of my Father disciplining me. I was dating a gal that I should not been dating. It wasn't she was a harlot or nothing like that. I  just knew I shouldn't be seeing her. Despite all of that, I made the mistake of telling God, "Do your work in me". And I cannot begin to tell you the immense amount of suffering that I endured including loss of job and losing a place to stay until we finally broke up.
+I hesitate to share this story, but I know that this is the clearest example I know of my Father disciplining me. I was dating a gal that I should not been dating. I just knew I shouldn't be seeing her. Despite all of that, I made the mistake of telling God, "Do your work in me". And I cannot begin to tell you the immense amount of suffering that I endured including loss of job and losing a place to stay until we finally broke up.
 
 So, what will all of this sanctifying conformation look like?
 
@@ -107,10 +107,10 @@ Some of it will look like suffering. To be heirs of God and fellow heirs with Ch
 
 Some of it will look like Israelites wandering in the desert (see the book of Exodus) but know it is God that drew you out in the wilderness but He also is the same God who will be closer than a whisper and will never leave your side.
 
-Some of it will look like death as though we are walking through the valley of the stench of death but never forget that Jesus Christ is the lily of the valley whose fragrance smells of life.
+Some of it will look like death as though we are walking through the valley of the stench of death but never forget that Jesus Christ is the lily of the valley whose wonderful fragrance gives life!
 
 ## The Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-isaiah-489-11-ordo-salutis-xi-our-new-lives--spirits-work-in-our-sanctification)
 
 [Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
