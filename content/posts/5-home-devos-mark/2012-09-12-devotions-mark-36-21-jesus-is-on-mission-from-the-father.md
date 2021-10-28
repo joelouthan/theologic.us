@@ -133,4 +133,4 @@ Therefore, we are no less than the 12 disciples of Christ. We are to go and prea
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-37-19-jesus-is-on-mission-from-the-father)
 
-[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]

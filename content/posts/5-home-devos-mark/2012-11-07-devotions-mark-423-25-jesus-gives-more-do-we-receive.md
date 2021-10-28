@@ -35,7 +35,7 @@ draft: false
 
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
-[Live on Twitch!](http://twitch.theologic.us) || [YouTube](http://youtube.theologic.us) || [Discord](http://discord.theologic.us) || [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127) || [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
 
 
 Mark 4:23-25 **If anyone has ears to hear, let him hear.” And he said to them, “Pay attention to what you hear: with the measure you use, it will be measured to you, and still more will be added to you. For to the one who has, more will be given, and from the one who has not, even what he has will be taken away.”**
