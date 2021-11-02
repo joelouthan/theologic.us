@@ -14,9 +14,7 @@ showtoc: false
 css: "home-devos"
 draft: false
 ---
->Psalm 97:9 For you, O LORD,  
->are most high over all the earth;  
->you are exalted far above all gods.
+>Psalm 97:9 (CSB) For you, LORD, are the Most High over the whole earth; you are exalted above all the gods.
 
 And how can we even fathom this glory of God? How can we fully look upon God in his sheer radiance, beauty, and majesty without our minds and eyes and hearts shutting down?
 
@@ -70,6 +68,6 @@ Show me your glory!
 
 ## The Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-xii-our-new-body--spirits-power-in-our-glorification)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
