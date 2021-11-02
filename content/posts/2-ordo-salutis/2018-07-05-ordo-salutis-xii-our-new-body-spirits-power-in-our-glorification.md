@@ -1,5 +1,5 @@
 ---
-title: "Doctrine: Ordo Salutis XII: Our New Body – Spirit's Power in Our Glorification"
+title: "📺 Doctrine: Ordo Salutis XII: Our New Body – Spirit's Power in Our Glorification"
 author: Joseph Louthan
 date: 2018-07-05T12:00:42+00:00
 url: /ordo-salutis/our-new-body-spirits-power-in-our-glorification/
@@ -67,3 +67,9 @@ Lord
 ```text
 Show me your glory!
 ```
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]

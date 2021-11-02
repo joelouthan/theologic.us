@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 4:30-32 Jesus Builds His Kingdom"
+title: "📺 Home Devotions: Mark 4:30-32 Jesus Grows His Kingdom"
 author: Joseph Louthan
 date: 2012-12-05
 url: /home-devotions/mark-430-32-jesus-builds-his-kingdom/
@@ -11,8 +11,45 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
+## The Text
+
+>Mark 4:30–32 (CSB)  
+><sup> 30 </sup> And he said, “With what can we compare the kingdom of God, or what parable can we use to describe it? 
+
+><sup> 31 </sup> It’s like a mustard seed that, when sown upon the soil, is the smallest of all the seeds on the ground. 
+
+><sup> 32 </sup> And when sown, it comes up and grows taller than all the garden plants, and produces large branches, so that the birds of the sky can nest in its shade.”
+
+## The Devotion
+
+
+
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
+
+<div style='font-variant: small-caps;'>
+
+</div>
+
+```text
+
+```
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+
+---
+
  Mark 4:30-32 **And he said, “With what can we compare the kingdom of God, or what parable shall we use for it? It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade.”**
 
 1. _What can Jesus use to grow his kingdom?_
