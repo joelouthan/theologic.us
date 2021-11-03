@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 4:33-34 Jesus Teaches"
+title: "📺 Home Devotions: Mark 4:33-34 Jesus is Lord of the Spiritual"
 author: Joseph Louthan
 date: 2012-12-19
 url: /home-devotions/mark-433-34-jesus-teaches/
@@ -11,67 +11,75 @@ series:
   - 'Home Devotions: Mark'
 css: "home-devos"
 showtoc: true
-draft: true
+draft: false
 ---
-<a href="http://theologic.us/home-devotions/mark-433-34-jesus-teaches/attachment/jesusteaching/" rel="attachment wp-att-1648"><img class="alignright size-medium wp-image-1648" alt="jesusTeaching" src="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?resize=300%2C215" width="300" height="215" srcset="https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?resize=300%2C215 300w, https://i0.wp.com/theologic.us/wp-content/uploads/2012/12/jesusTeaching.jpg?w=603 603w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Mark 4:33-34 **With many such parables he spoke the word to them, as they were able to hear it. He did not speak to them without a parable, but privately to his own disciples he explained everything.**
+## The Text
 
-We have already spoken on how Jesus taught.
+>Mark 4:33–34 (CSB)  
+><sup> 33 </sup> He was speaking the word to them with many parables like these, as they were able to understand. 
 
-_What is a parable?_
-  
-A little story to tell us something bigger.
+><sup> 34 </sup> He did not speak to them without a parable. Privately, however, he explained everything to his own disciples.
 
-_How did Jesus use parables?_
-  
-He used to teach bigger crowds.
+## The Devotion
 
-_Did he always explained what the parable meant?_
-  
-Not always. Only to his disciples.
+There are two types of revelation: general and special revelation in relation with how God choses to reveal himself to mankind.
 
-_Are we his disciples?_
+>Psalms 19:1-2 (CSB) The heavens declare the glory of God,
+and the expanse proclaims the work of his hands.
+2 Day after day they pour out speech;
+night after night they communicate knowledge.
 
-_Does God explains to us what the Bible says? How does he do it?_
+>Romans 1:20 (CSB) For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse.
 
-_Through God:_
-  
-Father wills (Heb 6:1-3]
-  
-Son spoke (John 1; 2 Tim 3:16-17)
-  
-Spirits brings to remembrance:
-  
-**“If you love me, you will keep my commandments. And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you.**
-  
-(John 14:15-17 ESV)
+Paul will go on to say in Romans 1 that while God's invisible attributes are clearly seen, we suppress our knowledge of God because of born sin and sin choice nature.
 
-**“These things I have spoken to you while I am still with you. But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.**
-  
-(John 14:25-26 ESV)
+Special revelation is God revealing himself in glory through the miraculous. Think of God and Moses, or God and Elijah with the prophets of Baal. The best example is Jesus Christ our Lord.
 
-_Through Teachers / Pastors:_
-  
-**And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints for the work of ministry, for building up the body of Christ, until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ, so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes. Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ, from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.**
-  
-(Ephesians 4:11-16 ESV)
+Now from there, anything in the supernatural realm is revealed by God himself. However our instincts might be honed--that is, whether we believe in the supernatural or not--details of the spiritual will only be revealed if God deems it so.
 
-_Through Parents:_
-  
-**Train up a child in the way he should go;
-  
-even when he is old he will not depart from it.**
-  
-(Proverbs 22:6 ESV)
+Are there times when something other than God reveals the supernatural? Yes and it involves angels and demons.  Angels will reveal at the command of God. Demons will reveal--demonic oppression or possession--to mankind. But let me argue that demons are under the lordship not of Satan but ultimately under Lord Jesus Christ.
 
-**“Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might. And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.**
-  
-(Deuteronomy 6:4-7 ESV)
+>Mark 5:6-8 (CSB) When he saw Jesus from a distance, he ran and knelt down before him. 7 And he cried out with a loud voice, “What do you have to do with me, Jesus, Son of the Most High God? I beg you before God, don’t torment me!” 8 For he had told him, “Come out of the man, you unclean spirit!”
 
-_Through each other:_
-  
-**And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.**
-  
-(Hebrews 10:24-25; 1 Cor 14; etc.)
+>James 2:19 (CSB) You believe that God is one. Good! Even the demons believe—and they shudder.
 
-&nbsp;
+Whether you believe in the spiritual and the supernatural, you are not going to know it by studying really hard. Ultimately God must reveal it first to you.
 
+This is true with the spiritual. This is true with anything God gives us--the gospel, the Spirit, the Scriptures, and His Son--just to name a few.
+
+>1 Corinthians 2:10-16 (CSB) Now God has revealed these things to us by the Spirit, since the Spirit searches everything, even the depths of God. 11 For who knows a person’s thoughts except his spirit within him? In the same way, no one knows the thoughts of God except the Spirit of God. 12 Now we have not received the spirit of the world, but the Spirit who comes from God, so that we may understand what has been freely given to us by God. 13 We also speak these things, not in words taught by human wisdom, but in those taught by the Spirit, explaining spiritual things to spiritual people. 14 But the person without the Spirit does not receive what comes from God’s Spirit, because it is foolishness to him; he is not able to understand it since it is evaluated spiritually. 15 The spiritual person, however, can evaluate everything, and yet he himself cannot be evaluated by anyone. 16 For
+who has known the Lord’s mind,
+that he may instruct him?
+But we have the mind of Christ.
+
+## The Discussion
+
+```text
+1. How can we know what is beyond our natural comprehension?
+
+2. How can we know what is in the Bible?
+
+3. How can we hear from God?
+
+4. How can we be saved by God?
+```
+
+## The Prayer
+
+<div style='font-variant: small-caps;'>
+Revealer 
+</div>
+
+```text
+In every way, give us salvation.
+
+Open our eyes, open our ears, change out our hearts, change our minds, and give us your Holy Spirit.
+
+Amen.
+```
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-433-34-jesus-is-lord-of-the-spiritual)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
