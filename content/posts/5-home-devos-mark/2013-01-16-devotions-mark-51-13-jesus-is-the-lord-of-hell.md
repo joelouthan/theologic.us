@@ -44,22 +44,107 @@ draft: false
 
 ## The Devotion
 
+If Christ has shown his power and knowledge in the heavens and on the earth, what does that say for under the earth--namely, what the Old Testament refers to as Sheol or what the New Testament refers to as Hades where Christ describes it as "where their worm does not die and the fire is not quenched," and "where there will be weeping and gnashing of teeth.
 
+Curious. Why is it that God is the only one who can actually describe Hell?
+
+>Psalms 139:6-8 (CSB) This wondrous knowledge is beyond me.
+It is lofty; I am unable to reach it.
+7 Where can I go to escape your Spirit?
+Where can I flee from your presence?
+8 If I go up to heaven, you are there;
+if I make my bed in Sheol, you are there.
+
+>Philippians 2:5-11 (CSB) Adopt the same attitude as that of Christ Jesus,
+6 who, existing in the form of God,
+did not consider equality with God
+as something to be exploited.
+7 Instead he emptied himself
+by assuming the form of a servant,
+taking on the likeness of humanity.
+And when he had come as a man,
+8 he humbled himself by becoming obedient
+to the point of death—
+even to death on a cross.
+9 For this reason God highly exalted him
+and gave him the name
+that is above every name,
+10 so that at the name of Jesus
+every knee will bow—
+in heaven and on earth
+and under the earth—
+11 and every tongue will confess
+that Jesus Christ is Lord,
+to the glory of God the Father.
+
+>Revelation 5:11-14 (CSB) Then I looked and heard the voice of many angels around the throne, and also of the living creatures and of the elders. Their number was countless thousands, plus thousands of thousands. 12 They said with a loud voice,
+Worthy is the Lamb who was slaughtered
+to receive power and riches
+and wisdom and strength
+and honor and glory and blessing!
+13 I heard every creature in heaven, on earth, under the earth, on the sea, and everything in them say,
+Blessing and honor and glory and power
+be to the one seated on the throne,
+and to the Lamb, forever and ever!
+14 The four living creatures said, “Amen,” and the elders fell down and worshiped.
+
+Listen, Christ rules and reigns Hell. If you do not believe and obey the Son of God, the wrath of the Son remains on you. (John 3:36) That is hell.
+
+>Matthew 5:30 (CSB) And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of the parts of your body than for your whole body to go into hell.
+
+Christ has given you and me the gospel command: repent and trust in him.
+
+Christ has already subdued and conquered Satan and his demons:
+
+>Colossians 2:13-15 (CSB) And when you were dead in trespasses and in the uncircumcision of your flesh, he made you alive with him and forgave us all our trespasses. 14 He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross. 15 He disarmed the rulers and authorities and disgraced them publicly; he triumphed over them in him.
+
+Turn to Christ and confess that he is your all in all. Christ is building his church--and the gates that holds Satan, demons, and unbelievers will not be able to contain. But that doesn't mean you automatically get in.
+
+>Matthew 16:16-18 (CSB) Simon Peter answered, “You are the Messiah, the Son of the living God.”
+17 Jesus responded, “Blessed are you, Simon son of Jonah, because flesh and blood did not reveal this to you, but my Father in heaven. 18 And I also say to you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overpower it.
 
 ## The Discussion
 
 ```text
+1. Since Christ does rule over hell and he has conquered and put Satan and demons to open shame, is Satan as powerful as Christ?
+```
 
+>Mark 3:26-27 (CSB) And if Satan opposes himself and is divided, he cannot stand but is finished. 27 But no one can enter a strong man’s house and plunder his possessions unless he first ties up the strong man. Then he can plunder his house.
+
+```text
+2. Is Satan at all related in Christ in any way?
+```
+
+```text
+3. How are Satan and demons different than Christ?
+```
+
+```text
+4. Why would people suggest that the Bible never speaks about hell?
 ```
 
 ## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+Lord Above
 </div>
 
 ```text
+There is none like you
+in heaven and hell and on the earth.
 
+We will worship you
+with all of our days
+because you are God
+and you have saved us from your wrath.
+
+Keep us in your mercy
+do not let us go astray from your love
+bring us home
+rescue us
+save us.
+
+Amen
 ```
 
 ## The Media
