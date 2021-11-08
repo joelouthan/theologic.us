@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "📺 Home Devotions: "
 author: Joseph Louthan
 publishDate: 2021-11-16T06:00:00-06:00
 url: /home-devotions/2021-11-16-home-devos-mark/
