@@ -42,6 +42,7 @@ I replied, “Lord GOD, only you know.”
 
 
 ### Christ alone is the resurrection and the life
+
 >John 11:23-26 (CSB) “Your brother will rise again,” Jesus told her.
 24 Martha said to him, “I know that he will rise again in the resurrection at the last day.”
 25 Jesus said to her, “I am the resurrection and the life. The one who believes in me, even if he dies, will live. 26 Everyone who lives and believes in me will never die. Do you believe this?”

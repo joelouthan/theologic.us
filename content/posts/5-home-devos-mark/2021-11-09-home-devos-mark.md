@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -101,6 +101,6 @@ More so, conform us to the image of your Son.
 
 ## The Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-521-24-jesus-is-the-lord-of-prayers)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
