@@ -94,7 +94,7 @@ Giver of Life
 </div>
 
 ```text
-Save us! Cleanses us from all righteousness.
+Save us! Cleanses us from all unrighteousness.
 
 Grant us repentance. Write your word upon our hearts so we might not sin against you. 
 
