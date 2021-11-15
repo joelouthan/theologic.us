@@ -31,6 +31,24 @@ draft: true
 
 ## Our Responsibility
 
+## The Discussion
+
+```text
+1. 
+```
+
+```text
+2. 
+```
+
+```text
+3. 
+```
+
+```text
+4. 
+```
+
 ## The Prayer
 
 <div style='font-variant: small-caps;'>
