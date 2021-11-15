@@ -118,7 +118,13 @@ In other words, let the Spirit do his work. You don't have to speak well,  enter
 
 It is not that an unbeliever will see good works and be saved. They will hear our words and believe that they will be saved.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Our Savior
@@ -130,3 +136,10 @@ Lead us to proclaim the gospel.
 Spirit, save us.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

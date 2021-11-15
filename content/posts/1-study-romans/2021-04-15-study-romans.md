@@ -83,7 +83,13 @@ The gospel is not, "Have you figured it out yet."
 
 The gospel: believe and trust in the Lord.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 God
@@ -99,3 +105,9 @@ And we now *truly* know you by the power of your Holy Spirit.
 Reveal yourself to us and turn our hearts towards you.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]

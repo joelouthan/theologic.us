@@ -91,7 +91,13 @@ In this moment, do you fear the world and religion and the devil who lies to you
 
 Choose this day whom you will serve.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Our Stumbling Block and Foolishness
@@ -116,3 +122,10 @@ Amen.
 >great is your faithfulness!  
 >I say, “The LORD is my portion,  
 >therefore I will put my hope in him.”
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

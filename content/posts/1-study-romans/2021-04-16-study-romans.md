@@ -122,7 +122,13 @@ Discernment is a gift of God. It is not a natural talent. It is a gift that need
 
 The word of God says to feed on doctrine--the teaching of Scriptures--so that you might mature.  You cannot physically mature without eating. You cannot mentally mature with reading, studying, learning, doing, and thinking. You cannot emotionally mature without counseling, healing, restoring, and acknowledging the feelings that you are feeling. Why would you spiritually mature without doing anything?
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Our Worship
@@ -132,3 +138,10 @@ Our Worship
 Cause our hearts to swell and give us new desires for you alone.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

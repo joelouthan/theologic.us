@@ -69,7 +69,13 @@ It is always the same: stop thinking you can earn your way into heaven OR stop t
 
 Hear the gospel. Trust in Christ. Obey him. Live to him.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 The Source of the Gospel
@@ -100,3 +106,10 @@ Set us free, Lord.
 Do this today.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

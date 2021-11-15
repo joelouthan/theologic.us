@@ -86,7 +86,13 @@ God saves the condemned.
 
 >John 7:53 - 8:11 (ESV) [[They went each to his own house, but Jesus went to the Mount of Olives. Early in the morning he came again to the temple. All the people came to him, and he sat down and taught them. The scribes and the Pharisees brought a woman who had been caught in adultery, and placing her in the midst they said to him, “Teacher, this woman has been caught in the act of adultery. Now in the Law, Moses commanded us to stone such women. So what do you say?” This they said to test him, that they might have some charge to bring against him. Jesus bent down and wrote with his finger on the ground. And as they continued to ask him, he stood up and said to them, “Let him who is without sin among you be the first to throw a stone at her.” And once more he bent down and wrote on the ground. But when they heard it, they went away one by one, beginning with the older ones, and Jesus was left alone with the woman standing before him. Jesus stood up and said to her, “Woman, where are they? Has no one condemned you?” She said, “No one, Lord.” And Jesus said, “Neither do I condemn you; go, and from now on sin no more.”]]
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Promise Keeper
@@ -129,3 +135,10 @@ When I fled into sin
 Be exalted in my life, O Lord.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

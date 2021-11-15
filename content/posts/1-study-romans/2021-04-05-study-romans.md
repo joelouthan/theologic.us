@@ -76,7 +76,13 @@ What you think God is going to say? "Oh yea, that's cool. Whelp, you're free to 
 
 Don't get tossed into hell for circumstances and the world.  Trust in God right now.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Precious Love
@@ -92,3 +98,10 @@ But I trust in you alone. And here is my sin. You died on the cross to take my s
 Give me your righteousness.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

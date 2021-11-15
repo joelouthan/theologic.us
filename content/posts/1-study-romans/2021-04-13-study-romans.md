@@ -85,7 +85,13 @@ Repent of our sins today. Confess. Remind ourselvs of his great gospel. Believe 
 
 >Romans 10:9-13 (CSB) If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. For the Scripture says, Everyone who believes on him will not be put to shame, since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. For everyone who calls on the name of the Lord will be saved.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Our Lord our Savior
@@ -101,3 +107,9 @@ Give us more of Christ and strip ourselves. Make him supreme and only in our liv
 Help us. Save us. We need you.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]

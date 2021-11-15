@@ -91,7 +91,13 @@ What is ours to do? Turn to him quickly. Ask God to search out your heart and fi
 
 The Lord is quick to cleanse you because you have his heart. You are his own and you are so very precious to him. Turn to him and let him do his work.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My God
@@ -101,3 +107,10 @@ My God
 Give me your Spirit, your soft heart, and your Son, so that I will be quick to confess and you will be quicker to cleanse me from all unrighteousness.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

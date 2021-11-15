@@ -81,7 +81,13 @@ It is futile to give a second thought to whether you are predestined to salvatio
 
 Guess what we are to? Place our hope, trust, belief, faith, and obedience in Christ Jesus. That is it. That is the responsibility. That is what the gospel of Christ has called us to do.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Savior,
@@ -101,3 +107,10 @@ Give us the gift of repentance so we can change our minds and our lives and live
 Give us you so we be holy because you alone are holy.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

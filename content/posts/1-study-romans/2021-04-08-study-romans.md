@@ -111,7 +111,13 @@ I am related to Abraham by faith alone in Jesus Christ.
 
 What is ours to do? If you belong to Christ, then you are a child of God with the Spirit of God that empowers you to call out to God the Father and by what Christ has done, we are now co-heirs with the Son who has inherited everything.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Our Father
@@ -121,3 +127,10 @@ Our Father
 Help us to walk in the faith for you have adamantly proclaimed, "Only the righteous shall live by faith."
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

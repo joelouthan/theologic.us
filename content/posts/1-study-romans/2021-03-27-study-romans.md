@@ -101,7 +101,13 @@ Go to God, pray to God, ask God for God. One hundred percent, perfectly, consist
 
 >Luke 11:1–13 (CSB) He was praying in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”  He said to them, “Whenever you pray, say, Father, your name be honored as holy. Your kingdom come.  Give us each day our daily bread.  And forgive us our sins, for we ourselves also forgive everyone in debt to us. And do not bring us into temptation.”  He also said to them, “Suppose one of you has a friend and goes to him at midnight and says to him, ‘Friend, lend me three loaves of bread,  because a friend of mine on a journey has come to me, and I don’t have anything to offer him.’  Then he will answer from inside and say, ‘Don’t bother me! The door is already locked, and my children and I have gone to bed. I can’t get up to give you anything.’  I tell you, even though he won’t get up and give him anything because he is his friend, yet because of his friend’s shameless boldness, he will get up and give him as much as he needs.  “So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you.  For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened.  What father among you, if his son asks for a fish, will give him a snake instead of a fish?  Or if he asks for an egg, will give him a scorpion?  If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 God
@@ -117,3 +123,10 @@ Change me.
 I am yours.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

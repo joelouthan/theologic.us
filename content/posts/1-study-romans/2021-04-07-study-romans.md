@@ -77,7 +77,13 @@ Let the cosmos fall. Let this planet be torn asunder. Let the unthinkable happen
 
 Nothing, absolutely nothing will separate me from God’s love for me that only comes through Jesus Christ my precious Lord and Savior. Amen.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 My Covenant Love
@@ -111,3 +117,10 @@ Keep me close
   never let me go.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

@@ -85,7 +85,13 @@ You know what is the most encouraging thing in the world is? When the truth is p
 
 >Romans 8:24-25 (CSB) Now in this hope we were saved, but hope that is seen is not hope, because who hopes for what he sees? Now if we hope for what we do not see, we eagerly wait for it with patience.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Source of All Truth
@@ -102,3 +108,10 @@ Give us
   and behold it for ourselves.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

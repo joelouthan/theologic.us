@@ -147,7 +147,13 @@ Ours to do is to obey the Lord Jesus Christ only by the power of the Spirit: rep
 >
 >May our Lord Jesus Christ himself and God our Father, who has loved us and given us eternal encouragement and good hope by grace, encourage your hearts and strengthen you in every good work and word.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Savior
@@ -157,3 +163,10 @@ Savior
 Save us.
 
 Amen
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+

@@ -115,7 +115,13 @@ What is ours to do? Let the circumstances of this life fall upon us.  They will 
 
 Be defined by who God says we are and not by our circumstances and sin.
 
-## Pray
+## The Discussion
+
+```text
+
+```
+
+## The Prayer
 
 <div style="font-variant: small-caps;">
 Redeemer
@@ -125,3 +131,10 @@ Redeemer
 Whatever evil and good that falls upon me and whatever circumstances I might be in, turn it all, my life included, for your glory.
 
 Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
+
