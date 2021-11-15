@@ -29,7 +29,7 @@ draft: false
 
 ## The Devotion
 
-### Christ Alone it to Live
+### Christ Alone is to Live
 
 >John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
