@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -48,39 +48,61 @@ draft: true
 
 ## The Devotion
 
+### Christ knows your needs
 
+>Matthew 6:7-8 (CSB) When you pray, don’t babble like the Gentiles, since they imagine they’ll be heard for their many words. 8 Don’t be like them, because your Father knows the things you need before you ask him.
+
+### Christ alone is your provision
+
+>Matthew 6:25-34 (CSB) “Therefore I tell you: Don’t worry about your life, what you will eat or what you will drink; or about your body, what you will wear. Isn’t life more than food and the body more than clothing? 26 Consider the birds of the sky: They don’t sow or reap or gather into barns, yet your heavenly Father feeds them. Aren’t you worth more than they? 27 Can any of you add one moment to his life span by worrying? 28 And why do you worry about clothes? Observe how the wildflowers of the field grow: They don’t labor or spin thread. 29 Yet I tell you that not even Solomon in all his splendor was adorned like one of these. 30 If that’s how God clothes the grass of the field, which is here today and thrown into the furnace tomorrow, won’t he do much more for you—you of little faith? 31 So don’t worry, saying, ‘What will we eat?’ or ‘What will we drink?’ or ‘What will we wear?’ 32 For the Gentiles eagerly seek all these things, and your heavenly Father knows that you need them. 33 But seek first the kingdom of God and his righteousness, and all these things will be provided for you. 34 Therefore don’t worry about tomorrow, because tomorrow will worry about itself. Each day has enough trouble of its own.
+
+>Psalms 16:5-6 (CSB) LORD, you are my portion
+and my cup of blessing;
+you hold my future.
+6 The boundary lines have fallen for me
+in pleasant places;
+indeed, I have a beautiful inheritance.
+
+### Christ alone is the source of our righteousness
+
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+### Christ alone is the source of our eternal life
+
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
 
 ## The Discussion
 
 ```text
-
+1. Why is it so hard not to worry about provisions like money, home, car, job, food or other needs?
 ```
 
 ```text
-
+2. Christ asks a few times in the gospel, "What do you want me to do for you?" If Christ sat before you now, what would you ask him?
 ```
 
 ```text
-
-```
-
-```text
-
+3. If you got what you wanted, would you be completely satisfied? 
 ```
 
 ## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+My All-in-all
 </div>
 
 ```text
+Expose my idols. Expose my needs for other things not you.
 
+The more I grow, the more I grow dependent on you.
+
+You are my everything.
+
+Amen.
 ```
 
 ## The Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-630-44-jesus-is-the-lord-of-provision)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
-
