@@ -90,11 +90,17 @@ draft: false
 ## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+My Love
 </div>
 
 ```text
+I will forever praise your holy name because I get to love you today.
 
+And I love you today because you first love me.
+
+I am yours and you are my Beloved forever.
+
+Amen.
 ```
 
 ## The Media
@@ -102,4 +108,3 @@ draft: false
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-71-7-the-word-of-god-is-love)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
-
