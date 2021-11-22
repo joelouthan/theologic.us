@@ -1,5 +1,5 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "Westminster Confession of Faith, Chapter 1.i"
 author: Joseph Louthan
 publishDate: 2022-01-04T06:00:00-06:00
 url: /confession/2022-01-04-westminster-confession/
