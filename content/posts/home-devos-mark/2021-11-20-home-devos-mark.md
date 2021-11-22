@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 7:14-23 The Word of God is Righteousness"
 author: Joseph Louthan
 publishDate: 2021-11-20T06:00:00-06:00
 url: /home-devotions/2021-11-20-home-devos-mark/
@@ -15,7 +15,24 @@ draft: true
 ---
 ## The Text
 
+>Mark 7:14–23 (CSB)  
+><sup> 14 </sup> Summoning the crowd again, he told them, “Listen to me, all of you, and understand: 
 
+><sup> 15 </sup> Nothing that goes into a person from outside can defile him but the things that come out of a person are what defile him.” 
+
+><sup> 17 </sup> When he went into the house away from the crowd, his disciples asked him about the parable. 
+
+><sup> 18 </sup> He said to them, “Are you also as lacking in understanding? Don’t you realize that nothing going into a person from the outside can defile him? 
+
+><sup> 19 </sup> For it doesn’t go into his heart but into the stomach and is eliminated” (thus he declared all foods clean). 
+
+><sup> 20 </sup> And he said, “What comes out of a person is what defiles him. 
+
+><sup> 21 </sup> For from within, out of people’s hearts, come evil thoughts, sexual immoralities, thefts, murders, 
+
+><sup> 22 </sup> adulteries, greed, evil actions, deceit, self-indulgence, envy, slander, pride, and foolishness. 
+
+><sup> 23 </sup> All these evil things come from within and defile a person.”
 
 ## The Devotion
 

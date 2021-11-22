@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 7:31-37 Jesus Opens Our Ears So We Now Hear God"
 author: Joseph Louthan
 publishDate: 2021-11-22T06:00:00-06:00
 url: /home-devotions/2021-11-22-home-devos-mark/
@@ -15,7 +15,20 @@ draft: true
 ---
 ## The Text
 
+>Mark 7:31–37 (CSB)  
+><sup> 31 </sup> Again, leaving the region of Tyre, he went by way of Sidon to the Sea of Galilee, through the region of the Decapolis. 
 
+><sup> 32 </sup> They brought to him a deaf man who had difficulty speaking and begged Jesus to lay his hand on him. 
+
+><sup> 33 </sup> So he took him away from the crowd in private. After putting his fingers in the man’s ears and spitting, he touched his tongue. 
+
+><sup> 34 </sup> Looking up to heaven, he sighed deeply and said to him, “Ephphatha!” (that is, “Be opened!”). 
+
+><sup> 35 </sup> Immediately his ears were opened, his tongue was loosened, and he began to speak clearly. 
+
+><sup> 36 </sup> He ordered them to tell no one, but the more he ordered them, the more they proclaimed it. 
+
+><sup> 37 </sup> They were extremely astonished and said, “He has done everything well. He even makes the deaf hear and the mute speak.”
 
 ## The Devotion
 
