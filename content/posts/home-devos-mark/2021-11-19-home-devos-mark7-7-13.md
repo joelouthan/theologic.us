@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 7:7-13 The Word of God is Law"
+title: "📺 Home Devotions: Mark 7:7-13 The Word of God is Law"
 author: Joseph Louthan
 publishDate: 2021-11-19T06:00:00-06:00
 url: /home-devotions/2021-11-19-home-devos-mark/
@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -32,7 +32,43 @@ draft: true
 
 ## The Devotion
 
+### His word was in the beginning
 
+>John 1:1-3 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 All things were created through him, and apart from him not one thing was created that has been created.
+
+### His word created everything
+
+>Hebrews 11:1-3 (CSB) Now faith is the reality of what is hoped for, the proof of what is not seen. 2 For by this our ancestors were approved. 3 By faith we understand that the universe was created by the word of God, so that what is seen was made from things that are not visible.
+
+### His word is the examination of our hearts
+
+
+
+### His word 
+
+
+
+### His word 
+
+
+
+### His word is hidden in the hearts of his people
+
+>Psalms 119:9-11 (CSB) How can a young man keep his way pure?
+By keeping your word.
+10 I have sought you with all my heart;
+don’t let me wander from your commands.
+11 I have treasured your word in my heart
+so that I may not sin against you.
+
+
+
+>Psalms 119:9-11 (CSB) How can a young man keep his way pure?
+By keeping your word.
+10 I have sought you with all my heart;
+don’t let me wander from your commands.
+11 I have treasured your word in my heart
+so that I may not sin against you.
 
 ## The Discussion
 
