@@ -58,18 +58,18 @@ params:
         buttons:
             - name: "What is Theologicus?"
               url: /about/
-            - name: "Study: Romans"
-              url: /series/bible-study-romans/
-            - name: "Doctrine: Ordo Salutis"
-              url: /series/ordo-salutis/
-            - name: "Gospel Meditations: Pastorals"
-              url: /series/gospel-meditations-pastorals/
-            - name: "Study: Genesis"
-              url: /series/bible-study-genesis/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
-            - name: "Home Devotions: Luke"
-              url: /series/home-devotions-luke/
+            - name: "Study: Romans"
+              url: /series/bible-study-romans/
+            - name: "Gospel Meditations: New Testament"
+              url: /series/gospel-meditations-pastorals/
+            - name: "Westminster Confession of Faith"
+              url: /series/westminster-confession/
+            - name: "Study: Genesis"
+              url: /series/bible-study-genesis/
+            - name: "Gospel Meditations: Old Testament"
+              url: /series/gospel-meditations-prophets/
             - name: Recent Posts
               url: posts
             - name: Updates
