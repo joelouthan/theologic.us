@@ -1,8 +1,8 @@
 ---
 title: "Study: Genesis "
 author: Joseph Louthan
-publishDate: 2022-05-19T06:00:00-06:00
-url: /bible-study/2022-05-19-study-genesis/
+publishDate: 2022-10-27T06:00:00-06:00
+url: /bible-study/2022-10-27-study-genesis/
 categories:
   - Bible Study
 tags:
