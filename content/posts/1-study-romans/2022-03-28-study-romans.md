@@ -1,8 +1,8 @@
 ---
 title: "Study: Romans "
 author: Joseph Louthan
-publishDate: 2022-01-14T06:00:00-06:00
-url: /bible-study/2022-01-14-study-romans/
+publishDate: 2022-03-28T06:00:00-06:00
+url: /bible-study/2022-03-28-study-romans/
 categories:
   - Bible Study
 tags:
@@ -10,7 +10,7 @@ tags:
 series:
   - "Bible Study: Romans"
 tocopen: true
-css: home-devos
+css: "home-devos"
 draft: true
 ---
 ## The Introduction
@@ -55,7 +55,7 @@ Where do you see God in the text? What does the text say about God?
 4. 
 ```
 
-## The Prayer
+## The Prayer from the Psalms
 
 <div style='font-variant: small-caps;'>
 
@@ -69,4 +69,4 @@ Where do you see God in the text? What does the text say about God?
 
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
