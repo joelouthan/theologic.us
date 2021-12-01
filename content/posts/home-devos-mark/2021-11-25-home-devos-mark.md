@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "📺 Home Devotions: Mark 8:14–21 Jesus Opens Our Hearts So That We Might Receive God"
 author: Joseph Louthan
 publishDate: 2021-11-25T06:00:00-06:00
 url: /home-devotions/2021-11-25-home-devos-mark/
@@ -11,11 +11,26 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Text
 
+>Mark 8:14–21 (CSB)  
+><sup> 14 </sup> The disciples had forgotten to take bread and had only one loaf with them in the boat. 
 
+><sup> 15 </sup> Then he gave them strict orders: “Watch out! Beware of the leaven of the Pharisees and the leaven of Herod.” 
+
+><sup> 16 </sup> They were discussing among themselves that they did not have any bread. 
+
+><sup> 17 </sup> Aware of this, he said to them, “Why are you discussing the fact you have no bread? Don’t you understand or comprehend? Do you have hardened hearts? 
+
+><sup> 18 </sup> Do you have eyes and not see; do you have ears and not hear? And do you not remember? 
+
+><sup> 19 </sup> When I broke the five loaves for the five thousand, how many baskets full of leftovers did you collect?” “Twelve,” they told him. 
+
+><sup> 20 </sup> “When I broke the seven loaves for the four thousand, how many baskets full of pieces did you collect?” “Seven,” they said. 
+
+><sup> 21 </sup> And he said to them, “Don’t you understand yet?”
 
 ## The Devotion
 
