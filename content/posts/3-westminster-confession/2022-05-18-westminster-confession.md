@@ -11,7 +11,6 @@ series:
   - "Westminster Confession"
 tocopen: true
 css: "home-devos"
-showtoc: true
 draft: true
 ---
 ## The Text
@@ -56,7 +55,7 @@ draft: true
 4. 
 ```
 
-## The Prayer
+## The Prayer from the Psalms
 
 <div style='font-variant: small-caps;'>
 
@@ -71,4 +70,3 @@ draft: true
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Discord](http://discord.theologic.us)\]
-
