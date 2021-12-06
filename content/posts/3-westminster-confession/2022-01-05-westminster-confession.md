@@ -11,7 +11,7 @@ series:
   - "Westminster Confession"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Introduction
 
