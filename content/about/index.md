@@ -18,7 +18,7 @@ draft: false
 
 **Twitter**: [@JosephLouthan](https://twitter.com/JosephLouthan)
 
-**Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
+**Facebook**: [joseph.louthan](https://www.facebook.com/groups/462231051477464)
 
 **Twitch**: [NachozSupremo](https://www.twitch.tv/nachozsupremo)
 

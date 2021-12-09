@@ -21,7 +21,7 @@ Here is Theologicus. Combined with in-home (my home) Bible Study on Sunday eveni
 
 ## The Schedule
 
-Live stream every weekday evening on [Twitch](http://twitch.theologic.us), [YouTube](http://youtube.theologic.us), and [Facebook](https://www.facebook.com/joseph.louthan).
+Live stream every weekday evening on [Twitch](http://twitch.theologic.us), [YouTube](http://youtube.theologic.us), [Facebook](https://www.facebook.com/groups/462231051477464), [Twitter](https://twitter.com/theologic_us) and [Afreeca](https://bj.afreecatv.com/theologicus).
 
 Podcast on [Apple](https://podcasts.apple.com/us/podcast/theologicus/) and [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR) to post soon afterwards.
 
@@ -45,23 +45,27 @@ Let us get the personal stuff out of the way.
 
 **Family**: Wife with three kids
 
-**Vocation**: Consultant with [Red Hat](https://redhat.com/)
+**Vocation**: Project Coordinator with [Red Hat](https://redhat.com/)
 
 **Church**: Covenant Member at [Frontline Church](https://frontlinechurch.com) in the Oklahoma City Metro
 
 ### Live Streams
 
-**Twitch**: [The Study](http://twitch.theologic.us)
+[Twitch](http://twitch.theologic.us)
 
-**YouTube**: [YouTube](http://youtube.theologic.us)
+[YouTube](http://youtube.theologic.us)
 
-**Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan)
+[Facebook](https://www.facebook.com/groups/462231051477464)
+
+[Twitter](https://twitter.com/theologic_us)
+
+[Afreeca](https://bj.afreecatv.com/theologicus)
 
 ### Podcasts
 
-**Apple**: [Apple](https://podcasts.apple.com/us/podcast/theologicus/)
+[Apple](https://podcasts.apple.com/us/podcast/theologicus/)
 
-**Spotify**: [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
+[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
 
 
 ### Social Media
@@ -69,9 +73,6 @@ Let us get the personal stuff out of the way.
 **Discord**: [Theologicus](http://discord.theologic.us)
 
 **Instagram**: [josephlouthan](https://instagram.com/josephlouthan)
-
-**Twitter**: [@JosephLouthan](https://twitter.com/JosephLouthan)
-
 
 ### Technical
 
