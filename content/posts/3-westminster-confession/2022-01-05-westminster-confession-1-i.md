@@ -1,8 +1,8 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "Westminster Confession of Faith, Chapter 1.i	Of Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-01-26T06:00:00-06:00
-url: /confession/2022-01-26-westminster-confession/
+publishDate: 2022-01-05T06:00:00-06:00
+url: /confession/2022-01-05-westminster-confession/
 categories:
   - Confessions
 tags:
@@ -11,8 +11,12 @@ series:
   - "Westminster Confession"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
+## The Introduction
+
+<div style="page-break-after: always;"></div>
+
 ## The Text
 
 <div style="page-break-after: always;"></div>
@@ -20,7 +24,7 @@ draft: true
 ## The Article
 
 ```text
-1.4 The whole counsel of God, concerning all things necessary for His own glory, man’s salvation, faith, and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men. Nevertheless we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word; and that there are some circumstances concerning the worship of God, and the government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.
+1.i Although the light of nature, and the works of creation and providence, do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation; therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His church; and afterwards for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing; which maketh the holy Scripture to be most necessary; those former ways of God’s revealing His will unto His people being now ceased.
 ```
 
 <div style="page-break-after: always;"></div>

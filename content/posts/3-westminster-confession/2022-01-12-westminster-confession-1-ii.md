@@ -1,5 +1,5 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "Westminster Confession of Faith, Chapter 1.ii The Old and New Testaments of Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-01-12T06:00:00-06:00
 url: /confession/2022-01-12-westminster-confession/
@@ -20,7 +20,7 @@ draft: true
 ## The Article
 
 ```text
-1.2 Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament, which are these:
+1.ii Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament, which are these:
 Of the Old Testament Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth I Samuel II Samuel I Kings II Kings I Chronicles II Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes The Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi
 
 Of the New Testament The Gospels according to Matthew Mark Luke John The Acts of the Apostles Paul's Epistles to the Romans Corinthians I Corinthians II Galatians Ephesians Philippians Colossians Thessalonians I Thessalonians II to Timothy I to Timothy II to Titus to Philemon The Epistle to the Hebrews The Epistle of James The First and Second Epistles of Peter The First, Second, and Third Epistles of John The Epistle of Jude The Revelation
