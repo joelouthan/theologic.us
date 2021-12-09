@@ -23,10 +23,8 @@ draft: false
 
 ## The Article
 
-### Chapter 1.1
-
 ```text
-Although the light of nature, and the works of creation and providence, do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation; therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His church; and afterwards for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing; which maketh the holy Scripture to be most necessary; those former ways of God’s revealing His will unto His people being now ceased.
+1.1 Although the light of nature, and the works of creation and providence, do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation; therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His church; and afterwards for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing; which maketh the holy Scripture to be most necessary; those former ways of God’s revealing His will unto His people being now ceased.
 ```
 
 <div style="page-break-after: always;"></div>
