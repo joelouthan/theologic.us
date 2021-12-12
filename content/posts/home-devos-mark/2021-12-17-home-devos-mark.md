@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "📺 Home Devotions: Mark 9:42 God Alone Is Strong"
 author: Joseph Louthan
 publishDate: 2021-12-17T06:00:00-06:00
 url: /home-devotions/2021-12-17-home-devos-mark/
@@ -15,7 +15,8 @@ draft: true
 ---
 ## The Text
 
-
+>Mark 9:42 (CSB)  
+><sup> 42 </sup> “But whoever causes one of these little ones who believe in me to fall away—it would be better for him if a heavy millstone were hung around his neck and he were thrown into the sea.
 
 ## The Devotion
 

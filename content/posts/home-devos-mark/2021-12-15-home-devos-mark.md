@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "📺 Home Devotions: Mark 9:33-37 God Alone Receives All Who Would Come"
 author: Joseph Louthan
 publishDate: 2021-12-15T06:00:00-06:00
 url: /home-devotions/2021-12-15-home-devos-mark/
@@ -15,7 +15,16 @@ draft: true
 ---
 ## The Text
 
+>Mark 9:33-37 (CSB)  
+><sup> 33 </sup> They came to Capernaum. When he was in the house, he asked them, “What were you arguing about on the way?” 
 
+><sup> 34 </sup> But they were silent, because on the way they had been arguing with one another about who was the greatest. 
+
+><sup> 35 </sup> Sitting down, he called the Twelve and said to them, “If anyone wants to be first, he must be last and servant of all.” 
+
+><sup> 36 </sup> He took a child, had him stand among them, and taking him in his arms, he said to them, 
+
+><sup> 37 </sup> “Whoever welcomes one little child such as this in my name welcomes me. And whoever welcomes me does not welcome me, but him who sent me.” 
 
 ## The Devotion
 

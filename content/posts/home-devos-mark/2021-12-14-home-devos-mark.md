@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "📺 Home Devotions: Mark 9:30-32 God Alone is Over Death"
 author: Joseph Louthan
 publishDate: 2021-12-14T06:00:00-06:00
 url: /home-devotions/2021-12-14-home-devos-mark/
@@ -15,7 +15,12 @@ draft: true
 ---
 ## The Text
 
+>Mark 9:30-32 (CSB)  
+><sup> 30 </sup> Then they left that place and made their way through Galilee, but he did not want anyone to know it. 
 
+><sup> 31 </sup> For he was teaching his disciples and telling them, “The Son of Man is going to be betrayed into the hands of men. They will kill him, and after he is killed, he will rise three days later.” 
+
+><sup> 32 </sup> But they did not understand this statement, and they were afraid to ask him.
 
 ## The Devotion
 

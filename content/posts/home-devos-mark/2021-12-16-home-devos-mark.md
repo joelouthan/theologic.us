@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "📺 Home Devotions: Mark 9:38-41 God Alone Over All Who Would Believe In His Name"
 author: Joseph Louthan
 publishDate: 2021-12-16T06:00:00-06:00
 url: /home-devotions/2021-12-16-home-devos-mark/
@@ -15,7 +15,14 @@ draft: true
 ---
 ## The Text
 
+>Mark 9:38-41 (CSB)  
+><sup> 38 </sup> John said to him, “Teacher, we saw someone driving out demons in your name, and we tried to stop him because he wasn’t following us.” 
 
+><sup> 39 </sup> “Don’t stop him,” said Jesus, “because there is no one who will perform a miracle in my name who can soon afterward speak evil of me. 
+
+><sup> 40 </sup> For whoever is not against us is for us. 
+
+><sup> 41 </sup> And whoever gives you a cup of water to drink in my name, because you belong to Christ—truly I tell you, he will never lose his reward. 
 
 ## The Devotion
 
