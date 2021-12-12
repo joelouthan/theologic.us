@@ -50,7 +50,11 @@ draft: true
 
 ## The Devotion
 
+Our faith is not born of us. There is not a little goodness in everybody born of Adam and if we do the right things and are convinced in the right way, that we can tend to that little goodness in our hearts like a fire and build it up.
 
+As much as we want to take the credit for our faith and belief in Christ, we cannot. We do not receive the glory and honor and the completed tasks check-off in putting our hope, trust, and obedience in the son of God.
+
+We have overly established on this channel using the books of Mark, Romans, Genesis, 1 & 2 Timothy with passages supporting from passages from every book of the Bible (with the exception of 2 Kings, Esther most of the Minor Prophets--fixed coming in March--2 Thessalonians, 2 & 3 John) that your believe cannot start and be born with you, 
 
 ## The Discussion
 
