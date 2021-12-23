@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 10:17-22 God Alone Receives the Brokenhearted"
 author: Joseph Louthan
 publishDate: 2021-12-27T06:00:00-06:00
 url: /home-devotions/2021-12-27-home-devos-mark/
@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "home-devos"
-draft: true
+draft: false
 ---
 ## The Text
 
