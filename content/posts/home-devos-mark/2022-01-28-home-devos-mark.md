@@ -1,8 +1,8 @@
 ---
 title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-01-05T06:00:00-06:00
-url: /home-devotions/2022-01-05-home-devos-mark/
+publishDate: 2022-01-28T06:00:00-06:00
+url: /home-devotions/2022-01-28-home-devos-mark/
 categories:
   - Home Devotions
 tags:
@@ -39,7 +39,9 @@ draft: true
 4. 
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 

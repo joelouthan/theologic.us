@@ -57,14 +57,16 @@ draft: false
 4. 
 ```
 
-## The Prayer from the Psalms
+## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+My Father in heaven
 </div>
 
 ```text
+Care for me. Watch over me. Keep me.
 
+Amen.
 ```
 
 ## The Media

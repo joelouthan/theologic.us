@@ -55,7 +55,7 @@ We may be moved and induced by the testimony of the Church to an high and revere
 4. 
 ```
 
-## The Prayer from the Psalms
+## The Prayer
 
 <div style='font-variant: small-caps;'>
 

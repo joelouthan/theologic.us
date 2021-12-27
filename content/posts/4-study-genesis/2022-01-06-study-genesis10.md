@@ -120,14 +120,18 @@ Where do you see God in the text? What does the text say about God?
 4. 
 ```
 
-## The Prayer from the Psalms
+## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+My Righteousness
 </div>
 
 ```text
+Have mercy on my soul.
 
+Save me to yourself.
+
+Amen.
 ```
 
 ## The Media

@@ -53,7 +53,7 @@ draft: true
 4. 
 ```
 
-## The Prayer from the Psalms
+## The Prayer
 
 <div style='font-variant: small-caps;'>
 

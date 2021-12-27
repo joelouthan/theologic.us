@@ -55,7 +55,7 @@ Where do you see God in the text? What does the text say about God?
 4. 
 ```
 
-## The Prayer from the Psalms
+## The Prayer
 
 <div style='font-variant: small-caps;'>
 
