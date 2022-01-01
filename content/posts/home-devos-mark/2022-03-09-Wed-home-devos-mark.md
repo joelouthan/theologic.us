@@ -1,8 +1,8 @@
 ---
 title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-01-28T06:00:00-06:00
-url: /home-devotions/2022-01-28-home-devos-mark/
+publishDate: 2022-03-09-WedT06:00:00-06:00
+url: /home-devotions/2022-03-09-Wed-home-devos-mark/
 categories:
   - Home Devotions
 tags:
