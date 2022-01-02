@@ -3,7 +3,7 @@ title: Theologicus Blurbs
 author: Joseph Louthan
 date: 2021-12-20T22:41:05.006Z
 url: "/blurbs/"
-draft: false
+draft: true
 ---
 ## MONDAY
 
