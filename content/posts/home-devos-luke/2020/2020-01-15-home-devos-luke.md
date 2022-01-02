@@ -9,7 +9,7 @@ tags:
   - Luke
 series:
   - 'Home Devotions: Luke'
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 

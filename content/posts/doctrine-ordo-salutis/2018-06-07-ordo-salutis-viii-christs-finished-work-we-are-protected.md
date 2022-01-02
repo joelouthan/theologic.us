@@ -12,7 +12,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 > Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”

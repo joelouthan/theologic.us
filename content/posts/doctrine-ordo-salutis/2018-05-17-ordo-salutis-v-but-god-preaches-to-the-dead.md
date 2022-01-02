@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 ## The Introduction

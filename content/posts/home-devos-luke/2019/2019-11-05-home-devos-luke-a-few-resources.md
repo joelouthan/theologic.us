@@ -11,7 +11,7 @@ tags:
   - Books
 series:
   - 'Home Devotions: Luke'
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 _Updated: February 2, 2021_

@@ -10,7 +10,7 @@ tags:
 series:
   - "Bible Study: Genesis"
 tocopen: true
-css: "home-devos"
+css: "prayers"
 draft: true
 ---
 ## The Introduction

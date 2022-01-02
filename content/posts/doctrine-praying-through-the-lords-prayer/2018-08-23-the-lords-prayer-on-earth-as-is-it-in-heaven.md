@@ -11,7 +11,7 @@ tags:
 series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 

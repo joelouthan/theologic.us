@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 >Isaiah 48:9–11 (CSB)  

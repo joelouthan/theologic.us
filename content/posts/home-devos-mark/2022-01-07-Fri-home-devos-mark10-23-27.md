@@ -10,7 +10,7 @@ tags:
 series:
   - "Home Devotions: Mark"
 tocopen: true
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 ## The Text
@@ -118,7 +118,7 @@ Choose on this day of whom you will serve. Right now, choose.
 ><sup> 12 </sup> For you, LORD, bless the righteous one; you surround him with favor like a shield.
 
 <div style="font-variant: small-caps;">
-  My King and my God,
+My King and my God,
 </div>
 
 ```text

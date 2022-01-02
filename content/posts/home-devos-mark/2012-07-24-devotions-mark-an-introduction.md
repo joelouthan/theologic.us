@@ -9,7 +9,7 @@ tags:
   - Mark
 series:
   - 'Home Devotions: Mark'
-css: "home-devos"
+css: "prayers"
 showtoc: false
 draft: false
 ---

@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 ## How does God determine who he will save and not save?

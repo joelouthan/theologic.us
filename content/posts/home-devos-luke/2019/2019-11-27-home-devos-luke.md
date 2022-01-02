@@ -9,7 +9,7 @@ tags:
   - Luke
 series:
   - 'Home Devotions: Luke'
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 >Luke 1:11–17 (CSB) An angel of the Lord appeared to him, standing to the right of the altar of incense.  When Zechariah saw him, he was terrified and overcome with fear.  But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you will name him John.  There will be joy and delight for you, and many will rejoice at his birth.  For he will be great in the sight of the Lord and will never drink wine or beer. He will be filled with the Holy Spirit while still in his mother’s womb.  He will turn many of the children of Israel to the Lord their God.  And he will go before him in the spirit and power of Elijah, to turn the hearts of fathers to their children, and the disobedient to the understanding of the righteous, to make ready for the Lord a prepared people.” 

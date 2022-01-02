@@ -12,7 +12,7 @@ tags:
 series:
   - 'Bible Study: Romans'
 tocopen: true
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 
