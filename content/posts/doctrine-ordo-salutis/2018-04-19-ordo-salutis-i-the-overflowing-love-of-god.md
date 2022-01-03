@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 To proclaim ourselves as Christians is to proclaim that we believe and trust upon Christ as our Saviour and Lord.

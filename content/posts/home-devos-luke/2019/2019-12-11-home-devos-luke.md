@@ -9,7 +9,7 @@ tags:
   - Luke
 series:
   - 'Home Devotions: Luke'
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 >Luke 1:26–38 (CSB) In the sixth month, the angel Gabriel was sent by God to a town in Galilee called Nazareth,  to a virgin engaged to a man named Joseph, of the house of David. The virgin’s name was Mary.  And the angel came to her and said, “Greetings, favored woman! The Lord is with you.”  But she was deeply troubled by this statement, wondering what kind of greeting this could be.  Then the angel told her, “Do not be afraid, Mary, for you have found favor with God.  Now listen: You will conceive and give birth to a son, and you will name him Jesus.  He will be great and will be called the Son of the Most High, and the Lord God will give him the throne of his father David.  He will reign over the house of Jacob forever, and his kingdom will have no end.”  Mary asked the angel, “How can this be, since I have not had sexual relations with a man?”  The angel replied to her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore, the holy one to be born will be called the Son of God.  And consider your relative Elizabeth—even she has conceived a son in her old age, and this is the sixth month for her who was called childless.  For nothing will be impossible with God.”  “See, I am the Lord’s servant,” said Mary. “May it happen to me as you have said.” Then the angel left her. 

@@ -11,7 +11,7 @@ tags:
 series:
   - 'Ordo Salutis'
 showtoc: false
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 Many people tried to say that the God of the Old Testament and the God of the New Testament are completely two different gods. 

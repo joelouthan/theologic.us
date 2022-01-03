@@ -10,7 +10,7 @@ tags:
 series:
   - "Home Devotions: Mark"
 tocopen: true
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 ## The Text
@@ -114,7 +114,7 @@ That is just one person--Christ Jesus our Lord.
 ><sup> 8 </sup> I will both lie down and sleep in peace, for you alone, LORD, make me live in safety.
 
 <div style="font-variant: small-caps;">
-  Dear God,
+Dear God,
 </div>
 
 ```text

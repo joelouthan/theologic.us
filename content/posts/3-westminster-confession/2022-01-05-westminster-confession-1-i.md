@@ -10,7 +10,7 @@ tags:
 series:
   - "Westminster Confession"
 tocopen: true
-css: "home-devos"
+css: "prayers"
 draft: false
 ---
 ## The Introduction
