@@ -18,8 +18,7 @@ draft: false
 
 ## It Goes Without Say
 
-![Christian Standard Bible](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1535917156&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**The Bible**](https://www.amazon.com/CSB-Outreach-Bible-Bibles-Holman/dp/1535917156?crid=1X4PIPYH6DDM1&dchild=1&keywords=csb+bible&qid=1619795755&sprefix=CSB+%2Caps%2C197&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=b946558cfa0fe688e43bc1648d735a77&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
+<img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1535917156&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" align="left" hspace="50" width="200" />[**The Bible**](https://www.amazon.com/CSB-Outreach-Bible-Bibles-Holman/dp/1535917156?crid=1X4PIPYH6DDM1&dchild=1&keywords=csb+bible&qid=1619795755&sprefix=CSB+%2Caps%2C197&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=b946558cfa0fe688e43bc1648d735a77&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
 
 Slow down, pray, read, chew and meditate.  
 &nbsp;  

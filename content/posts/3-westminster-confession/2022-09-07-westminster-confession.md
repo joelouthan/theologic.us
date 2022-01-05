@@ -1,8 +1,8 @@
 ---
 title: "Westminster Confession of Faith, Chapter "
 author: Joseph Louthan
-publishDate: 2022-08-10T06:00:00-06:00
-url: /confession/2022-08-10-westminster-confession/
+publishDate: 2022-09-07T06:00:00-06:00
+url: /confession/2022-09-07-westminster-confession/
 categories:
   - Confessions
 tags:
