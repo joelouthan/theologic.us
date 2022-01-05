@@ -15,6 +15,12 @@ draft: false
 ---
 ## The Introduction
 
+Genealogies are important. But not in the way you might think.
+
+It might help to know where we came from, who are our ancestors, or what's in our DN But our lineage ain't worth anything if we are not saved by God.
+
+Let us examine the passage and get into it.
+
 <div style="page-break-after: always;"></div>
 
 ## The Text
