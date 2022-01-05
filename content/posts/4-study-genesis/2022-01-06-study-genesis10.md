@@ -94,6 +94,28 @@ Where do you see God in the text? What does the text say about God?
 
 ## Our God
 
+This is almost a repeat of Genesis 4, 5, & 6 in the sense we are talking about genealogies.
+
+In Genesis 5, we spoke about the descendants from Adam to Noah. Right at the beginning of chapter 6, Moses writes about the rise of powerful men.
+
+>Genesis 6:4 (CSB) The Nephilim were on the earth both in those days and afterward, when the sons of God came to the daughters of mankind, who bore children to them. They were the powerful men of old, the famous men.
+
+What was God's response?
+
+>Genesis 6:5-7 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved. Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.”
+
+You know what happens after that. God first saves his people from their sins--Noah and his family. God eliminates all evil, resets all circumstances, takes away all of Noah's problems off the face of the earth.
+
+Noah's response? The sin that was indwelling within him.
+
+God started over with Noah. But you and I know Noah was far far from perfect--no one is perfect, no one is righteous, all have fallen short of the glory of God. Noah was declared righteous but the war with sin raged within his flesh (Romans 7:7-25) We should not be so shocked that the earth once again fell into sin. God could remove all of our circumstances and our lives will still be jacked up because of us. That is just sin.
+
+Out of the flood, fallen children of Adam once again populated the earth. Holiness and righteousness did not spread but sin, power, greed try to seized control. Little people with their pitiful little lives trying to fight for pitiful little control over their stupid little kingdoms.
+
+Not so with God, who rules and reigns over all of creation.
+
+Let us examine the difference between the kingdom of the world vs. kingdom of God:
+
 <div style="page-break-after: always;"></div>
 
 ## Kingdom of Babylon vs. Kingdom of God
@@ -102,33 +124,108 @@ Where do you see God in the text? What does the text say about God?
 
 #### Born in sin
 
+><sup> 1 </sup> These are the family records of Noah’s sons, Shem, Ham, and Japheth. They also had sons after the flood. 
+
+Much like our fall started with Adam, this second go-around starts with Noah. Even declared righteous, Noah is not perfect and still needs God to be sanctified cleansed every day.
+
+Notice something back in Genesis 9 that is the same as Genesis 3. What was Noah's response to his drunkenness? Did he repent of his sin and pray to the Holy God who just saved Noah from the wrath of God or was he quick to blameshift to someone else for his own sin?
+
+Adam blamed Eve. Noah blamed and tries to curse his grandson?
+
+>Genesis 9:24-25 (CSB) When Noah awoke from his drinking and learned what his youngest son had done to him, he said: Canaan is cursed. He will be the lowest of slaves to his brothers.
+
 #### Born out of power
+
+>Genesis 10:6-12 (CSB) Ham’s sons: Cush, Mizraim, Put, and Canaan. Cush’s sons: Seba, Havilah, Sabtah, Raamah, and Sabteca. And Raamah’s sons: Sheba and Dedan. Cush fathered Nimrod, who began to be powerful in the land. He was a powerful hunter in the sight of the LORD. That is why it is said, “Like Nimrod, a powerful hunter in the sight of the LORD.” His kingdom started with Babylon, Erech, Accad, and Calneh, in the land of Shinar. From that land he went to Assyria and built Nineveh, Rehoboth-ir, Calah, and Resen, between Nineveh and the great city Calah.
+
+In the kingdom of the world, on the strongest and most powerful get to rule. They get to be the oppressors and crush those underneath them. For what? A tiny bit of perceived power? What sense does that make?
 
 #### Sustains in depravity and immorality
 
-The blessing of God that we don't descend into chaos and anarchy
+>Genesis 10:13-19 (CSB) Mizraim fathered the people of Lud, Anam, Lehab, Naphtuh, Pathrus, Casluh (the Philistines came from them), and Caphtor. Canaan fathered Sidon his firstborn and Heth, as well as the Jebusites, the Amorites, the Girgashites, the Hivites, the Arkites, the Sinites, the Arvadites, the Zemarites, and the Hamathites. Afterward the Canaanite clans scattered. The Canaanite border went from Sidon going toward Gerar as far as Gaza, and going toward Sodom, Gomorrah, Admah, and Zeboiim as far as Lasha.
 
-Deep in the hearts of men, we want to go our own way
+If you grew up in church, reading the Bible, these nations and these lands should sound familiar to you. Because we are blessed with complete word of God, this passage ends up being prophetic. But we will get to that later.
+
+Deep in the hearts of men, we want to go our own way. We are given chance after chance, grace upon grace, and but without the indwelling of God in our beings, we will fight to go our own way.
 
 #### The weak, frail, poor, widow, orphan, lost are excluded
 
+This is complete conjecture. But you have to see this. Read chapter 10 and see what is excluded that we find missing from other genealogies.
+
+What? No repentant sinners listed. Not a one. Stark contrast to the kingdom of God.
+
+What will become of these powerful people who for a brief moment here on earth try to consume as much they can.
+
 #### Judged under the wrath of God
 
->Revelation
+>Revelation 18:21-24 (CSB) Then a mighty angel picked up a stone like a large millstone and threw it into the sea, saying,  
+>In this way, Babylon the great city  
+>will be thrown down violently  
+>and never be found again.  
+>The sound of harpists, musicians,  
+>flutists, and trumpeters  
+>will never be heard in you again;  
+>no craftsman of any trade  
+>will ever be found in you again;  
+>the sound of a mill  
+>will never be heard in you again;  
+>the light of a lamp  
+>will never shine in you again;  
+>and the voice of a groom and bride  
+>will never be heard in you again.  
+>All this will happen  
+>because your merchants  
+>were the nobility of the earth,  
+>because all the nations were deceived  
+>by your sorcery.  
+>In her was found the blood of prophets and saints,  
+>and of all those slaughtered on the earth.
 
 ### Kingdom of God
 
 #### Existed before time in truth
 
->John 1:1
+>John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. All things were created through him, and apart from him not one thing was created that has been created. In him was life, and that life was the light of men. That light shines in the darkness, and yet the darkness did not overcome it.
 
 #### Born in a manger, weak, frail
 
-> Phil 2
+>Luke 2:6-7 (CSB) While they were there, the time came for her to give birth. Then she gave birth to her firstborn son, and she wrapped him tightly in cloth and laid him in a manger, because there was no guest room available for them.
+
+>Philippians 2:5–8 (CSB)  
+><sup> 5 </sup> Adopt the same attitude as that of Christ Jesus, 
+
+><sup> 6 </sup> who, existing in the form of God, did not consider equality with God as something to be exploited. 
+
+><sup> 7 </sup> Instead he emptied himself by assuming the form of a servant, taking on the likeness of humanity. And when he had come as a man, 
+
+><sup> 8 </sup> he humbled himself by becoming obedient to the point of death— even to death on a cross.
 
 #### Includes the fringes, the lost, the orphan, the widow, the lost
 
->Matthew 5
+>Matthew 5:1–12 (CSB)  
+><sup> 1 </sup> When he saw the crowds, he went up on the mountain, and after he sat down, his disciples came to him. 
+
+><sup> 2 </sup> Then he began to teach them, saying: 
+
+><sup> 3 </sup> “Blessed are the poor in spirit, for the kingdom of heaven is theirs. 
+
+><sup> 4 </sup> Blessed are those who mourn, for they will be comforted. 
+
+><sup> 5 </sup> Blessed are the humble, for they will inherit the earth. 
+
+><sup> 6 </sup> Blessed are those who hunger and thirst for righteousness, for they will be filled. 
+
+><sup> 7 </sup> Blessed are the merciful, for they will be shown mercy. 
+
+><sup> 8 </sup> Blessed are the pure in heart, for they will see God. 
+
+><sup> 9 </sup> Blessed are the peacemakers, for they will be called sons of God. 
+
+><sup> 10 </sup> Blessed are those who are persecuted because of righteousness, for the kingdom of heaven is theirs. 
+
+><sup> 11 </sup> “You are blessed when they insult you and persecute you and falsely say every kind of evil against you because of me. 
+
+><sup> 12 </sup> Be glad and rejoice, because your reward is great in heaven. For that is how they persecuted the prophets who were before you.
 
 ## The Gospel
 
@@ -138,9 +235,9 @@ Promises and the prophecies of God.
 
 God expounds and elaborates on *how* he will make things right
 
-But the nations--the descendants of Ham and Japheth--were judged for their wickedness and depravity and they were torn down.
+But the nations--even including the descendants of Shem and Japheth--were judged for their wickedness and depravity and they were torn down.
 
->Ezekiel 12-35
+Read Ezekiel 12-35. The prophet Ezekiel prophesies the end of the nations around Israel and then including judgments against Israel. All of those judgments came true.
 
 The kingdoms out of the lineage of Christ was also judged for their wickedness
 
@@ -159,6 +256,10 @@ in sitting on the throne of David
 or ruling again in Judah.
 
 Reminder of Jeremiah 23 - woe to false shepherds
+
+Reading through the Old Testament and then descending into the Prophets starting with Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel, and Amos: there is good news there to be sure. But our sin--my sin--is revealed time and time again. It causes me to cry out with Paul, "Wretched man that I am! Who will save me from this body of death!"
+
+But you keep reading the Bible. You turn the page. You go from the Old to the New Testament and there it is: the rest for our weary soul, the righteousness that we so desperately needed, the holiness that calls us from the kingdom of the world, the grace and truth that opens our eyes, the mercy we need for life, and the love that has always been there from everlasting to everlasting.
 
 >Matthew 1 (CSB)  
 ><sup> 1 </sup> An account of the genealogy of Jesus Christ, the Son of David, the Son of Abraham: 
@@ -244,7 +345,9 @@ Reminder of Jeremiah 23 - woe to false shepherds
 
 ><sup> 38 </sup> son of Enos, son of Seth, son of Adam, son of God.
 
-#### Lineage not of power, nor royalty, nor wealth but one of faith
+### Lineage not of power, nor royalty, nor wealth but one of faith
+
+>Hebrews 11:1-2 (CSB) Now faith is the reality of what is hoped for, the proof of what is not seen. For by this our ancestors were approved.
 
 >Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
@@ -260,7 +363,7 @@ What is God's gift? Salvation, grace, faith? The answer is yes--all three.
 
 We build our little kingdoms and we are vaporized like dew in the high noon sun.
 
-But the kingdom of God rules and reigns forever--because Jesus Christ paid it all. We exalt ourselves, he was lowly in heart. We are filled with pride in our pithy accomplishments, he was gentle. We amass power in order to feebly try to control our world and our circumstances for an easier life, Christ held his body on a cross and bled out so he could put Satan, demons, hell, and death to open shame and separate.
+But the kingdom of God rules and reigns forever--because Jesus Christ is the same yesterday, today, and forever. We exalt ourselves, he was lowly in heart. We are filled with pride in our pithy accomplishments, he was gentle. We amass power in order to feebly try to control our world and our circumstances for an easier life, Christ held his body on a cross and bled out so he could put Satan, demons, hell, and death to open shame and separate.
 
 We are not to live for power. We are to live in the power of the Almighty. We are not of this world but we are merely passing through it.
 
