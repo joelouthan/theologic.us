@@ -68,8 +68,8 @@ params:
               url: /series/westminster-confession/
             - name: "Study: Genesis"
               url: /series/bible-study-genesis/
-            - name: "Gospel Meditations: Old Testament"
-              url: /series/gospel-meditations-prophets/
+            - name: "Gospel Meditations: Daniel"
+              url: /series/gospel-meditations-daniel/
             - name: Recent Posts
               url: posts
             - name: Updates

@@ -50,7 +50,7 @@ Our best efforts are not good enough to be in the kingdom of heaven.
 
 >Matthew 5:20 (CSB) For I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will never get into the kingdom of heaven.
 
-Our righteousness--our self-righteousnes--is like vomit compared the scribes and Pharisees. We love to bag on the scribes and Pharisees because they were trapped in their own legalism. But as much Christ called them to repent, he also said, "They are more righteous than you. But for you to be in the kingdom of God, you have to be more righteous than they are."
+Our righteousness--our self-righteousness--is like vomit compared the scribes and Pharisees. We love to bag on the scribes and Pharisees because they were trapped in their own legalism. But as much Christ called them to repent, he also said, "They are more righteous than you. But for you to be in the kingdom of God, you have to be more righteous than they are."
 
 Some of you will hear this and think, "Oh, that means I can work harder and better." And guess what, you are going to come up short.
 
