@@ -53,7 +53,9 @@ Of course, I am not a heathen: where I copy word for word, I will footnote it wi
 
 (Including in each post within the WCF series will be a listing of these resources. Just assume I will be using them with every single post and episode.)
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://amzn.to/3tdrQyf) by R.C. Sproul
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://amzn.to/3tdrQyf)  
+by R.C. Sproul.  
+Reformation Trust Publishing. 2019.
 
 Do you know me? Have you been on this channel? Will I always use an R.C. Sproul book if possible?
 
@@ -64,7 +66,9 @@ His ministry has had the greatest impact on my Christian life. What I love is th
 And in God's great grace, this book was released shortly after his death. This book all but confirmed my unction that I should study the WCF. I would not have this series without his work and his influence on my life.
 
 ---
-[<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://amzn.to/34ok0az). Published by Banner of Truth.
+[<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://amzn.to/34ok0az).  
+The Westminster Divines.  
+Banner of Truth. 2018.
 
 How I did come to discover this book? My wife would say I do spend a lot of money and time on the Banner of Trust website. To which I would confess, "I haven't bought every book. I still have thousands left to purchase." One day. Oh, one fine day.
 
@@ -82,10 +86,13 @@ So when I saw the full Biblical references, I instantly handed over some cash an
 
 ---
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative by Carl Trueman](https://amzn.to/34gzOMl). Published by Crossway. 2012.
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative](https://amzn.to/34gzOMl)  
+by Carl Trueman.  
+Crossway. 2012.
 
+At the time of this post, I have yet to read through this. But when I popped on [r/Reformed](https://www.reddit.com/r/Reformed/comments/pkat4l/not_confessional_but_want_to_be/) and asked for a few good resources, this book was overwhelmingly recommended.
 
-
+I will read this through as we are going through the series.
 
 <div style="page-break-after: always;"></div>
 
@@ -115,20 +122,22 @@ Today's episode at [The Study](http://study.theologic.us/podcast/westminster-con
 
 ## The Resources
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Sproul, R. C. Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith. Revised edition. First edition. Orlando: Reformation Trust, 2019. \[[Amazon](https://amzn.to/3tdrQyf)\]
-
-&nbsp;  
-&nbsp;
-
----
-<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />Westminster Assembly, Westminster Assembly and Westminster Assembly. The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism, The Directory for the Public Worship of God, with Associated Historical Documents., 2018. \[[Amazon](https://amzn.to/34ok0az)\]
-
-&nbsp;
-&nbsp;
+<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
+Sproul, R. C.    
+Orlando: Reformation Trust, 2019.  
+[Amazon](https://amzn.to/3tdrQyf)
 
 ---
+<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
+Westminster Assembly.  
+The Directory for the Public Worship of God, with Associated Historical Documents. 2018.   
+[Amazon](https://amzn.to/34ok0az)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />Trueman, Carl R. The Creedal Imperative. Wheaton, Ill: Crossway, 2012. \[[Amazon](https://amzn.to/34gzOMl)\]
+---
 
-&nbsp;
-&nbsp;
+<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
+Carl R. Trueman    
+Crossway, 2012.  
+[Amazon](https://amzn.to/34gzOMl)
+
+---
