@@ -1,5 +1,5 @@
 ---
-title: "Westminster Confession of Faith, Chapter 1.I On Holy Scripture"
+title: "173📺 Westminster Confession of Faith, Chapter 1.I On Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-01-12T06:00:00-06:00
 url: /confession/2022-01-12-westminster-confession/
@@ -11,7 +11,7 @@ series:
   - "Westminster Confession"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction 
 
@@ -114,17 +114,17 @@ Sproul, R. C.
 Orlando: Reformation Trust, 2019.  
 [Amazon](https://amzn.to/3tdrQyf)
 
----
+___
 <img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
 The Directory for the Public Worship of God, with Associated Historical Documents. 2018.   
 [Amazon](https://amzn.to/34ok0az)
 
----
+___
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
 Crossway, 2012.  
 [Amazon](https://amzn.to/34gzOMl)
 
----
+___

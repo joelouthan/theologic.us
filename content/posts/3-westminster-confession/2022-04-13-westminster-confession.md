@@ -74,17 +74,17 @@ Sproul, R. C.
 Orlando: Reformation Trust, 2019.  
 [Amazon](https://amzn.to/3tdrQyf)
 
----
+___
 <img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
 The Directory for the Public Worship of God, with Associated Historical Documents. 2018.   
 [Amazon](https://amzn.to/34ok0az)
 
----
+___
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
 Crossway, 2012.  
 [Amazon](https://amzn.to/34gzOMl)
 
----
+___
