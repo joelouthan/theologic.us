@@ -15,26 +15,33 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+*Updated: January 9, 2022 - Fixed formatting, links, images, and order of preference. -Ed.*
+
+Here just the very small list of resources on Romans that I have found most helpful.
 
 ## It Goes Without Say
 
-<img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1535917156&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US" align="left" hspace="50" width="200" />[**The Bible**](https://www.amazon.com/CSB-Outreach-Bible-Bibles-Holman/dp/1535917156?crid=1X4PIPYH6DDM1&dchild=1&keywords=csb+bible&qid=1619795755&sprefix=CSB+%2Caps%2C197&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=b946558cfa0fe688e43bc1648d735a77&language=en_US&ref_=as_li_ss_il) Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="200" style="padding-right: 10px" />The Holy Bible](https://amzn.to/3FbGqbM)
 
-Slow down, pray, read, chew and meditate.  
+Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
+
+Slow down, pray, read, chew and meditate.
+
+Note: I use the [Christian Standard Bible](https://csbible.com) version on this blog by default. Other translations, such as the [ESV](https://www.crossway.org/bibles/) or the [NIV1984](https://bibleportal.com/version/NIV1984), will be noted as such.
 &nbsp;  
 
 ___
 
 <p style="clear:both;">
 
-![ESV Study Bible](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433524619&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**ESV Study Bible**](https://www.amazon.com/dp/1433524619?&linkCode=li2&tag=theologicus-20&linkId=2c7acb245df24de2bdd7463dc5d664a9&language=en_US&ref_=as_li_ss_il) Incredible resource.
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="200" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)
+Crossway. 2016.
 
-I have purchased this resource multiple times over.
+Incredible resource.
 
-If I had to pick just one, I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
-&nbsp;  
-&nbsp;  
+I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
+
+[<img src="http://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
 
 ___
 
@@ -48,53 +55,61 @@ You can certainly do worse than to memorize it, write songs about it, and even w
 
 ___
 
-[Commentary: Romans](/tags/commentary-romans/) Although I have not gotten as far as Romans 1:18-20, it was that work that inspired this Bible Study.  When I am finished with writing this Bible Study, I hope and pray that it will drive me to finish that commentary.
+## Commentaries
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+by John Calvin.  
+Baker. 2009.
+
+[<img src="http://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com)I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
 
 ___
 
-## Bibliography
+<p style="clear:both;">
 
-![No Condemnation in Christ Jesus by Octavius Winslow](https://3r98nw2w9uto3s66qn2k1ho2-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2013/05/No-Condemnation-front.jpg)
-[**No Condemnation in Christ Jesus**](https://banneroftruth.org/us/store/sermons-and-expositions/no-condemnation-in-christ/)  
-As Unfolded in the Eighth Chapter of the Epistle to the Romans  
-by Octavius Winslow  
-1853, Banner of Trust
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51utvezkAcL._SX323_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />No Condemnation in Christ Jesus: As Unfolded in the Eighth Chapter of the Epistle to the Romans](https://amzn.to/3zDFiMZ).  
+by Octavius Winslow.  
+Banner of Trust. 1991.
 
 I love this book so much that I purchase an 1st edition 1853 print of this book.
 
 If I had one book to gift outside the Bible, it would be this. If I had one word to describe it: fantastic.
 
-For more of a complete review, read mine here at [Goodreads.com](https://www.goodreads.com/review/show/134527292). |
+For more of a complete review, read mine here at [Goodreads.com](https://www.goodreads.com/review/show/134527292).
 
 ___
 
 <p style="clear:both;">
 
-![Romans (St. Andrews Expositional Commentary) by R.C. Sproul](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1642891886&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**Romans (St. Andrews Expositional Commentary)**](https://www.amazon.com/dp/1642891886/ref=as_li_ss_il?psc=1&pd_rd_i=1642891886&pd_rd_w=i6r9R&pf_rd_p=45e679f6-d55f-4626-99ea-f1ec7720af94&pd_rd_wg=LUfcC&pf_rd_r=4P6NWN2W4FPDGYNGRMBM&pd_rd_r=0f7acbe3-4027-40e9-8983-869ebaf8ba16&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyT0Q4Rk42VUozWFhMJmVuY3J5cHRlZElkPUEwNjk5NzcyM0Q0MzFJQ1ROODU2SiZlbmNyeXB0ZWRBZElkPUEwNzc5NjkyM1BZSVBSRUdSWFU5ViZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li3&tag=theologicus-20&linkId=1cfeaea22958961af0624cac987dcd95&language=en_US)  
-R.C. Sproul  
-2009, Crossway.  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51enHREddML._SX343_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Romans: An Expositional Commentary](https://amzn.to/3GaYTGJ).  
+by R.C. Sproul.  
+Reformation Trust Publishing. 2019.
 
-If I was forced at gunpoint to choose one commentary for Romans, this would be the one I would keep. Hands down. Not even a second thought. I have read this from cover to cover. Highest recommendation. A better suggestion: stop reading my drivel and buy this book. Seriously. Go.
+If I was forced at gunpoint to choose one commentary for Romans, this would be the one I would keep. Hands down. Not even a second thought. I have read this from cover to cover. Highest recommendation.
+
+A better suggestion: stop reading my drivel and buy this book. 
+
+**Seriously. Go and get this book. NOW!**
 ___
 
 <p style="clear:both;">
 
-![The Epistle to the Romans (First Edition) (NICNT) by Douglas Moo](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802823173&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**The Epistle to the Romans (First Edition) (NICNT)**](https://www.amazon.com/Epistle-Romans-International-Commentary-Testament/dp/0802823173/ref=as_li_ss_il?crid=11PR15B6KFK8G&dchild=1&keywords=douglas+moo+romans+commentary&qid=1611171334&sprefix=Douglas+moo+%2Caps%2C164&sr=8-4&linkCode=li3&tag=theologicus-20&linkId=7d6fa2b8bcf7eda439780c1a3856cfb8&language=en_US)  
-by Douglas Moo  
-1996, Eerdmans.  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/510tS0bc3jL._SX336_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />The Letter to the Romans (New International Commentary on the New Testament (NICNT))](https://amzn.to/3tcauBO).  
+by Douglas Moo.  
+First Edition.  
+Eerdmans. 1996.
 
-I only mentioned the first edition because the second edition came out in 2020 and I haven't gotten my hands on it. This is a standard, el-defacto technical commentary reco for Romans. It's so highly recommended across all denominations and Protestant theological convictions, it's almost a generalization. But refer to it just once and you know that it is a generalization because it is true.
+I only mentioned the first edition because the second edition came out in 2018 and I haven't gotten my hands on it. This is a standard, el-defacto technical commentary recommendation for Romans. It's so highly recommended across all denominations and Protestant theological convictions, it's almost a generalization. But refer to it just once and you know that it is a generalization because it is true.
 
 ___
 
 <p style="clear:both;">
 
-![Romans (New Testament Commentary) by William Hendriksen](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0801042658&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**Romans (New Testament Commentary)**](https://www.amazon.com/New-Testament-Commentary-Romans-Chapters/dp/0801042658?dchild=1&keywords=Romans+Hendriksen&qid=1613687632&sr=8-1&linkCode=li2&tag=theologicus-20&linkId=65de2a96da0a1ba0e1f710d731bbc846&language=en_US&ref_=as_li_ss_il)  
-William Hendriksen  
-1980-1981, Baker.
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51JRo7sUdGL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="150" style="padding-right: 10px" />New Testament Commentary: Romans: Chapters 1-16](https://amzn.to/3zHvu4D).  
+by William Hendriksen.  
+Baker. 1992.
 
 Said it before and I will say it again: Billy H. is my boy for no other reason he tried to buck the Dispensationalism trends going on in Evangelicalism.
 
@@ -105,35 +120,33 @@ ___
 
 <p style="clear:both;">
 
-![Commentary on Romans by William S. Plumer](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825435439&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**Commentary on Romans**](https://www.amazon.com/Commentary-Romans-William-Swan-Plumer/dp/0825435439/ref=as_li_ss_il?dchild=1&keywords=0825435439&qid=1611173880&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=24f7590a3af3cdb837c4c6637b63fab5&language=en_US)  
-Commentary on Romans  
-by William S. Plumer  
-1993, Kregel.  
+[<img src="https://books.google.com/books/content?id=nn1EAAAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72sbduWDe-FDdpJWpEdxA39XGAk1Gn13nRRTn19x0PuOx37CIrB_n2nhpSVq7yoiqH1iW6sP9z5Yug16kxtKECC1uxXNf6EawIr8vLirT5K_YS7G7ji9NtjXaKf_FVMtPRbBX4B" align="left" width="150" style="padding-right: 10px" />Romans](https://amzn.to/3zFAIxv).  
+by William S. Plumer.  
+Kregel. 1993.
   
-This dude is pre-Liberalism Princeton Theological Seminary. I have not read through this but those credentials are enough to warrant a place in my library.\
-\
+This dude is pre-Liberalism Princeton Theological Seminary. I have not read through this but those credentials are enough to warrant a place in my library.
+
 &nbsp;
+
 ___
 
 <p style="clear:both;">
 
-![Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary) by Robert Mounce](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=080540127X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)**](https://www.amazon.com/Romans-Exegetical-Theological-Exposition-Commentary/dp/080540127X/ref=as_li_ss_il?dchild=1&keywords=Romans+Mounce&qid=1611174269&sr=8-1&linkCode=li3&tag=theologicus-20&linkId=2388612e8b4ca4395dd76cc8c7d5e02a&language=en_US)  
-by Robert Mounce  
-1995, Holman Reference  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41Oh-dWTyCL._SX318_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)](https://amzn.to/33hjElg).  
+by Robert Mounce.  
+Holmon Reference. 1995.
 
-Going by what other commentaries I have by Mounce, this stays in my library as well.\
-\
+Going by what other commentaries I have by Mounce, this stays in my library as well.
+
 &nbsp;
+
 ___
 
 <p style="clear:both;">
 
-![Romans (Ancient Christian Commentary on Scripture, NT Volume 6), Edited by Gerald L. Bray](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=083081356X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**Romans (Ancient Christian Commentary on Scripture, NT Volume 6)**](https://www.amazon.com/Romans-Ancient-Christian-Commentary-Scripture/dp/083081356X/ref=as_li_ss_il?crid=1F66D6EH2UW9B&dchild=1&keywords=ancient+commentary+on+scripture+romans&qid=1611175242&sprefix=ancient+comm%2Caps%2C171&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=f434c9e181fba0bb9100d79b5b8f539b&language=en_US)  
-by Gerald L. Bray (Editor)  
-2005, IVP Academic  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51XmpThqFeS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="150" style="padding-right: 10px" />Romans (Ancient Christian Commentary on Scripture, NT Volume 6)](https://amzn.to/3HLaNra).  
+Edited by Gerald L. Bray.  
+IVP Academic. 2005.
 
 I think this entire series is an excellent resource to have on hand if you can pony up the scratch.  It's all fine and good to read guys from within the last few centuries. But how about reading commentary from within the first few centuries after the ascension of Christ. You ain't going to read anything shockingly new.  But what you are going realize there is absolutely nothing new under the sun and Jesus Christ the same yesterday, today, and tomorrow.
 
@@ -141,22 +154,9 @@ ___
 
 <p style="clear:both;">
 
-![Calvin's Commentaries](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/537/0037_TP.jpg)
-[**Calvin's Commentaries**](https://www.amazon.com/Calvins-Commentaries-Vol-John-Calvin/dp/0801013313/ref=as_li_ss_il?crid=3BE112SRHVN47&dchild=1&keywords=calvin+commentary+set&qid=1611178269&sprefix=Calvin+Comm%2Caps%2C169&sr=8-2&linkCode=li3&tag=theologicus-20&linkId=6ec914d2fa99d13f5465bc2a2eece759&language=en_US)  
-by John Calvin (Writer); John Owens (Translator)  
-2009, Baker Books
-
-I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40.  
-&nbsp;  
-
-___
-
-<p style="clear:both;">
-
-![Commentary on Romans by Martin Luther](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0825431204&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theologicus-20&language=en_US)
-[**Commentary on Romans**](https://www.amazon.com/Commentary-Romans-Luther-Classic-Commentaries/dp/0825431204/ref=as_li_ss_il?dchild=1&keywords=Martin+Luther+romans&qid=1611176834&sr=8-3&linkCode=li3&tag=theologicus-20&linkId=c2b311be7da18731c47128c29289dbf6&language=en_US)  
-by Martin Luther (Author), J. Theodore Mueller (Translator)  
-2003, Kregel  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41yNgHWAm0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="150" style="padding-right: 10px" />Commentary on Romans](https://amzn.to/3r13Tat).  
+by Martin Luther.  
+Kregel. 2003.
 
 I would be remiss if I didn't mention Luther's commentary. It was his desperate mediation on one little famous Habakkukan quote that literally and figuratively hammers the change within the Church and help begun the Protestant Reformation: **THE JUST SHALL LIVE BY FAITH!**
 

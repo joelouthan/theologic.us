@@ -42,24 +42,25 @@ I have purchased this resource multiple times over for myself and friends. If yo
 
 [<img src="http://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
 
+&nbsp;  
+
 ___
 
 ## Commentaries
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
 by John Calvin.  
 Baker. 2009.
 
 [<img src="http://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com)I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
-&nbsp;  
 
----
+___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/517Bns3d2HL._SX343_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Mark: An Expositional Commentary](https://amzn.to/3nc6NrI).  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/517Bns3d2HL._SX343_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Mark: An Expositional Commentary](https://amzn.to/3nc6NrI).  
 by R.C. Sproul.  
 Reformation Trust Publisher. 2011.
 
@@ -73,7 +74,7 @@ ___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41T958QF4ML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />New Testament Commentary: Exposition of the Gospel According to Mark](https://amzn.to/3JUEAQ4).  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41T958QF4ML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="150" style="padding-right: 10px" />New Testament Commentary: Exposition of the Gospel According to Mark](https://amzn.to/3JUEAQ4).  
 by William Hendriksen.  
 Baker. 1981.
 
@@ -93,7 +94,7 @@ ___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51pOBYHxeKL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />The Gospel according to Mark: The English Text With Introduction, Exposition, and Notes (The New International Commentary on the New Testament)](https://amzn.to/3HIzyEc).  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51pOBYHxeKL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="150" style="padding-right: 10px" />The Gospel according to Mark: The English Text With Introduction, Exposition, and Notes (The New International Commentary on the New Testament)](https://amzn.to/3HIzyEc).  
 by William L. Lane.  
 Eerdman's. 1974.
 
@@ -103,7 +104,7 @@ ___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51jX5LpnbfS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />Mark (Ancient Christian Commentary on Scripture, NT Volume 2](https://amzn.to/3tbQLSI).  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51jX5LpnbfS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="150" style="padding-right: 10px" />Mark (Ancient Christian Commentary on Scripture, NT Volume 2](https://amzn.to/3tbQLSI).  
 Edited by Thomas C. Odin & Christopher A. Hall  
 IVP Academic. 2005.
 
