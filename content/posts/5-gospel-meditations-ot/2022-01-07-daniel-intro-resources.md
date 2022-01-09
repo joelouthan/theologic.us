@@ -81,10 +81,20 @@ Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditati
 
 ## The Resources
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51FEocBP3YL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />The Preacher's Commentary - Vol. 21- Daniel](https://amzn.to/3t3AaAt).
-by Sinclair Ferguson.
-Thomas Nelson. 2002.
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51FEocBP3YL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />The Preacher's Commentary - Vol. 21- Daniel](https://amzn.to/3t3AaAt).  
+by Sinclair Ferguson.  
+Thomas Nelson. 2002.  
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41e9y9NB-VL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Daniel (Reformed Expository Commentary)](https://amzn.to/3t5W85L).
-by Iain M. Duguid.
-P & R Publishing. 2008.
+&nbsp;
+&nbsp;
+
+---
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41e9y9NB-VL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Daniel (Reformed Expository Commentary)](https://amzn.to/3t5W85L).  
+by Iain M. Duguid.  
+P & R Publishing. 2008.  
+
+&nbsp;
+&nbsp;
+
+---
