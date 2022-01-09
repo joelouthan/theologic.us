@@ -1,5 +1,5 @@
 ---
-title: "📺 Westminster Confession of Faith, An Introduction"
+title: "📺 Westminster Confession of Faith, An Introduction and Resources"
 author: Joseph Louthan
 publishDate: 2022-01-05T06:00:00-06:00
 url: /confession/2022-01-05-westminster-confession/
@@ -53,7 +53,9 @@ Of course, I am not a heathen: where I copy word for word, I will footnote it wi
 
 (Including in each post within the WCF series will be a listing of these resources. Just assume I will be using them with every single post and episode.)
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://amzn.to/3tdrQyf)  
+___
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://amzn.to/3tdrQyf)  
 by R.C. Sproul.  
 Reformation Trust Publishing. 2019.
 
@@ -65,8 +67,9 @@ His ministry has had the greatest impact on my Christian life. What I love is th
 
 And in God's great grace, this book was released shortly after his death. This book all but confirmed my unction that I should study the WCF. I would not have this series without his work and his influence on my life.
 
----
-[<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://amzn.to/34ok0az).  
+___
+
+[<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="150" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://amzn.to/34ok0az).  
 The Westminster Divines.  
 Banner of Truth. 2018.
 
@@ -76,23 +79,25 @@ This particular book caught my attention for nothing else but the description, "
 
 Oh, when it comes to books, I have more than a few hot takes. Number one, endnotes are of the devil and end all be all proof the total depravity of man. Seriously, book publishers, you want more of my money? I would happily spend $5 more on the same book for footnotes instead of endnotes. And if you stick a gun to my head and made me choose, I rather have no notes than endnotes. They suck my soul dry.
 
-Number two hot take: why on earth would you not just list the full Biblical reference. Not just in book but in church's websites, wherever. I remember landing at my last wonderful church, [Frontline Church](https://www.frontlinechurch.com) in Oklahoma City. Since I wanted to be a member, I pull down all the resources and materials, including their Doctrine of Statement.
+Number two hot take: why on earth would you not just list the full Biblical reference. Not just in book but in church's websites, wherever. I remember landing at my last wonderful church, [Frontline Church](https://www.frontlinechurch.com) in Oklahoma City. Since I wanted to be a member, I pull down all the resources and materials, including their [Doctrine of Statement](https://www.csmedia1.com/frontlinechurch.com/doctrinal-statement.pdf).
 
-"Beautiful", I thought, "I know where they stand on any statement." Open that PDF up and... *sound loser horn from the Price is the Right*. They mention the Bible passages but just the location.
+"Beautiful", I thought, "I know where they stand on any statement." Open that PDF up and... *complete deflation*. They mention the Bible passages but just the location.
 
-So I took the time to redesign and added full Biblical references. To make it work, I had to use four columns of text--just like the Geneva Commentary Series from Banner of Truth.
+So I took the [time to redesign](https://drive.google.com/file/d/18b99ilwtFlP2PWgZRfA6fmxp9JLSRIbH/view?usp=sharing) and added full Biblical references. To make it work, I had to use three columns of text.
 
-So when I saw the full Biblical references, I instantly handed over some cash and got this wonderful resource in my hands. Sit and read it with me. You will not be disappointed.
+So when I saw the full Biblical references on this resource for the Westminster Confession, I instantly handed over some cash and got this wonderful resource in my hands. Sit and read it with me. You will not be disappointed.
 
----
+___
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative](https://amzn.to/34gzOMl)  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative](https://amzn.to/34gzOMl)  
 by Carl Trueman.  
 Crossway. 2012.
 
 At the time of this post, I have yet to read through this. But when I popped on [r/Reformed](https://www.reddit.com/r/Reformed/comments/pkat4l/not_confessional_but_want_to_be/) and asked for a few good resources, this book was overwhelmingly recommended.
 
 I will read this through as we are going through the series.
+
+___
 
 <div style="page-break-after: always;"></div>
 
@@ -119,25 +124,3 @@ Amen.
 Today's episode at [The Study](http://study.theologic.us/podcast/westminster-confession-of-faith-an-introduction-with-resources)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
-
-## The Resources
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
-Sproul, R. C.    
-Orlando: Reformation Trust, 2019.  
-[Amazon](https://amzn.to/3tdrQyf)
-
----
-<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
-Westminster Assembly.  
-The Directory for the Public Worship of God, with Associated Historical Documents. 2018.   
-[Amazon](https://amzn.to/34ok0az)
-
----
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
-Carl R. Trueman    
-Crossway, 2012.  
-[Amazon](https://amzn.to/34gzOMl)
-
----
