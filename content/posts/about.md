@@ -7,6 +7,8 @@ draft: false
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+**Note: Updated January 10, 2022**
+
 ## What it was
 
 Back in January 2021, I decided to do a daily podcast that did a Bible Study on a book of the Bible. I began writing my first bible study on Romans right away in hopes of getting about two months worth of episodes.
@@ -17,7 +19,13 @@ But out of that writing on top of the other theological writings I have done for
 
 ## What is now
 
-Here is Theologicus. Combined with in-home (my home) Bible Study on Sunday evenings, I have taken my writings and worship to live stream every evening five days a week.
+Here is Theologicus.
+
+Daily devotions every weekday morning.
+
+Bible studies every weekday evening.
+
+If I am on vacation, podcasts will be put on pause while encore episodes on live stream.
 
 ## The Schedule
 
@@ -25,17 +33,19 @@ Live stream every weekday evening on [Twitch](http://twitch.theologic.us), [YouT
 
 Podcast on [Apple](https://podcasts.apple.com/us/podcast/theologicus/) and [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR) to post soon afterwards.
 
-**Sundays**: Bible Study in Romans at my home. Come for the a light dinner and study soon thereafter. If you happened to be in the Metro OKC area, hit me up for details. We would love to have you.
+**Every weekday morning**: Home Devotions in the Gospel of Mark. What started as a devotional series for my kids is a devotional series to lead and share in your homes: with your spouse, family, parents, roommates, and best buds. This is not a series for me to teach you Mark but rather to equip you to do this yourself in any book of the Bible. Ask some open ended questions and let the Holy Spirit guide the discussion.
 
-**Mondays**: The same Romans study now twice on Monday noon and evenings.
+**Mondays**: Bible Study in Romans. What more can be said? I call Paul's Epistles to the Romans "the Systematic Theology of the ministry, preaching, life, death, resurrection, and ascension of the Lord Jesus Christ."
 
-Tuesdays: Doctrine… which all that means is the teaching of the Scriptures. Our first series will be in Prayer based on the Lord’s Prayer followed by Oldo Salutis and Here is Love.
+**Tuesdays**: What started off as Reflections (what is that?) and then Meditations (again, what is that?) turned into Gospel Meditations in the Pastorals which turned into the Gospel in the New Testament. Currently in the Pastoral Epistles of 1 & 2 Timothy and Titus.
 
-Wednesdays: What started off as Reflections (what is that?) and then Meditations (again, what is that?) turned into Gospel Meditations in the Pastorals.
+**Wednesdays**: Doctrine… which all that means is the teaching of the Scriptures. Currently in the Westminster Confession of Faith.
 
-Thursdays: I am not intentionally trying to do an Old Testament study because “Oh noes, I am doing too much in the New Testament.” I did want to include the other 39 books of the canon. And I was tempted to start off with Ruth or something easy peasy. But the more I prepared and prayed, the more it was clear that I had to do this study on Genesis. Even though I have written nothing formal about Genesis, here is what I do know for sure. Most of everything in the New Testament, especially in the gospels concerning the ministry of Jesus Christ, I can usually find it’s origins in the book of origins: Genesis.
+**Thursdays**: I am not intentionally trying to do an Old Testament study because “Oh noes, I am doing too much in the New Testament.” I did want to include the other 39 books of the canon. And I was tempted to start off with Ruth or something easy peasy. But the more I prepared and prayed, the more it was clear that I had to do this study on Genesis. Even though I have written nothing formal about Genesis, here is what I do know for sure. Most of everything in the New Testament, especially in the gospels concerning the ministry of Jesus Christ, I can usually find it’s origins in the book of origins: Genesis.
 
-Fridays: Home Devotions in the Gospel of Mark. What started as adevotion series for my kids is a devotional series to lead and share in your homes: with your spouse, family, parents, roommates, and best buds. This is not a series for me to teach you Mark but rather to equip you to do this yourself in any book of the Bible. Ask some open ended questions and let the Holy Spirit guide the discussion.
+**Fridays**: What I love about a set schedule is that it helps in deciding what is another series I could start. I have Bible Studies in the Old and New Testament. If I have Gospel in the New Testament, it would stand to reason that I would have the Gospel in the Old Testament. We start this brand new series with the prophet Daniel.
+
+**Sabbath**: *We are moving to Kentucky by the end of February. I hesitate to call it this but this will be moved from a Bible Study into a liturgical home church on Saturdays which will be devoted to songs, prayer, Scripture, preaching, and blessing. This is until God leads us to settling into a local church. Please pray for us.*
 
 ## Personal
 
@@ -47,7 +57,7 @@ Let us get the personal stuff out of the way.
 
 **Vocation**: Project Coordinator with [Red Hat](https://redhat.com/)
 
-**Church**: Covenant Member at [Frontline Church](https://frontlinechurch.com) in the Oklahoma City Metro
+**Church**: Formerly, a covenant Member at [Frontline Church](https://frontlinechurch.com) in the Oklahoma City metro area. We will resign our membership at the beginning of February 2022 due to our family's move to Kentucky.
 
 ### Live Streams
 
@@ -67,12 +77,15 @@ Let us get the personal stuff out of the way.
 
 [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
 
-
 ### Social Media
 
 **Discord**: [Theologicus](http://discord.theologic.us)
 
 **Instagram**: [josephlouthan](https://instagram.com/josephlouthan)
+
+**Twitter**: [JosephLouthan](https://twitter.com/JosephLouthan)
+
+**Facebook**: [joseph.louthan](https://www.facebook.com/joseph.louthan/)
 
 ### Technical
 
@@ -132,10 +145,14 @@ What do we do now? Or as I like to say, “Where does God’s grace have me now?
 
 ### Prayer
 
-A simple prayer to God.
+In the mornings, I will also be doing a prayer based on the Psalms. In the evenings, a simple prayer to God.
 
 ## Media
 
 Today's episode is always at [The Study](http://study.theologic.us/) feed.
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
+
+## Resources
+
+Some series will have all the resources listed that I have used.
