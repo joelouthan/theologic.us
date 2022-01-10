@@ -119,7 +119,9 @@ Read Genesis 3.
 4. What must we do to be saved?
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 My Savior!

@@ -42,7 +42,9 @@ If we believe, trust, hope, and obey in Jesus Christ our Lord, do we keep it a s
 4. When you do something bad in secret, should you try to hide it in your heart and mind or run to God who will always forgive your sins?
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 Father of lights

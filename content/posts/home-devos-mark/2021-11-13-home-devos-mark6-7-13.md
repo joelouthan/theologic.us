@@ -121,7 +121,9 @@ draft: false
 
 >Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek. 17 For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 My God of the Gospel

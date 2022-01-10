@@ -134,7 +134,9 @@ and he will carry their iniquities.
 4. What did God promise his children?
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 My Comforter

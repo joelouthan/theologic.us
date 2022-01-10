@@ -64,7 +64,9 @@ But we have the mind of Christ.
 4. How can we be saved by God?
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 Revealer 

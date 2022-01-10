@@ -87,7 +87,9 @@ draft: false
 
 >Matthew 5:17-18 (CSB) Don’t think that I came to abolish the Law or the Prophets. I did not come to abolish but to fulfill. 18 For truly I tell you, until heaven and earth pass away, not the smallest letter or one stroke of a letter will pass away from the law until all things are accomplished.
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 My Love

@@ -61,7 +61,9 @@ God does not need buildings, or organizations or even churches to build out his 
 4. How does God build his kingdom beyond building more churches? 
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 King of kings

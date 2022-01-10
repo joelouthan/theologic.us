@@ -88,7 +88,9 @@ and they leave their surplus to their children.
 15 But I will see your face in righteousness;
 when I awake, I will be satisfied with your presence.
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 The Joy of My Heart

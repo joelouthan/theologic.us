@@ -41,7 +41,7 @@ Incredible resource.
 
 I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
 
-[<img src="http://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
+[<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
 
 ___
 
@@ -63,7 +63,7 @@ ___
 by John Calvin.  
 Baker. 2009.
 
-[<img src="http://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com)I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
+[<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com)I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
 
 ___
 

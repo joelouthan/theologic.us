@@ -104,7 +104,9 @@ so that I may not sin against you.
 6. Some may answer, 'God'. But what is the primary way that God speaks?
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 The Living Word

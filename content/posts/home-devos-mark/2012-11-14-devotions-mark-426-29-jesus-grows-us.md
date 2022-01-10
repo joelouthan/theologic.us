@@ -72,7 +72,9 @@ and punishes every son he receives.
 
 >1 Corinthians 3:6-9 (CSB) I planted, Apollos watered, but God gave the growth. 7 So, then, neither the one who plants nor the one who waters is anything, but only God who gives the growth. 8 Now he who plants and he who waters are one, and each will receive his own reward according to his own labor. 9 For we are God’s coworkers. You are God’s field, God’s building.
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 
