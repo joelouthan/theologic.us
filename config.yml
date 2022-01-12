@@ -58,23 +58,23 @@ params:
         buttons:
             - name: "What is Theologicus?"
               url: /about/
+            - name: Updates
+              url: updates
+            - name: Recent Posts
+              url: posts
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
             - name: "Study: Romans"
               url: /series/bible-study-romans/
-            - name: "Gospel Meditations: New Testament"
+            - name: "Gospel NT: Pastoral Epistles"
               url: /series/gospel-meditations-pastorals/
             - name: "Westminster Confession of Faith"
               url: /series/westminster-confession/
             - name: "Study: Genesis"
               url: /series/bible-study-genesis/
-            - name: "Gospel Meditations: Daniel"
+            - name: "Gospel OT: Daniel"
               url: /series/gospel-meditations-daniel/
-            - name: Recent Posts
-              url: posts
-            - name: Updates
-              url: updates
-            - name: Series
+            - name: Other Series
               url: series
 
     # home-info mode
