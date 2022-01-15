@@ -1,25 +1,41 @@
 ---
-title: "Home Devotions: "
+title: "Study: Genesis "
 author: Joseph Louthan
-publishDate: 2022-01-19T06:00:00-06:00
-url: /home-devotions/2022-01-19-Wed-home-devos-mark/
+publishDate: 2022-02-03T06:00:00-06:00
+url: /bible-study/2022-02-03-study-genesis/
 categories:
-  - Home Devotions
+  - Bible Study
 tags:
-  - "Mark"
+  - "Genesis"
 series:
-  - "Home Devotions: Mark"
+  - "Bible Study: Genesis"
 tocopen: true
 css: "prayers"
 draft: true
 ---
+## The Introduction
+
+<div style="page-break-after: always;"></div>
+
 ## The Text
 
+## The Support
 
+<div style="page-break-after: always;"></div>
 
-## The Devotion
+```text
+Where do you see God in the text? What does the text say about God?
+```
 
+## Our God
 
+<div style="page-break-after: always;"></div>
+
+## The Gospel
+
+<div style="page-break-after: always;"></div>
+
+## Our Responsibility
 
 ## The Discussion
 
@@ -39,9 +55,7 @@ draft: true
 4. 
 ```
 
-## The Prayer from the Psalms
-
->
+## The Prayer
 
 <div style='font-variant: small-caps;'>
 
@@ -56,3 +70,4 @@ draft: true
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
+
