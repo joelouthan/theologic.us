@@ -1,8 +1,8 @@
 ---
-title: "176📺 Home Devotions: Mark 11:12-14 So That We Might Live and Never Die"
+title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-01-18T06:00:00-06:00
-url: /home-devotions/2022-01-18-Tue-home-devos-mark/
+publishDate: 2022-01-28T06:00:00-06:00
+url: /home-devos/2022-01-28-Fri-home-devos-mark/
 categories:
   - Home Devotions
 tags:
@@ -11,16 +11,11 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Text
 
->Mark 11:12-14 (CSB) 
-><sup> 12 </sup> The next day when they went out from Bethany, he was hungry. 
 
-><sup> 13 </sup> Seeing in the distance a fig tree with leaves, he went to find out if there was anything on it. When he came to it, he found nothing but leaves; for it was not the season for figs. 
-
-><sup> 14 </sup> He said to it, “May no one ever eat fruit from you again!” And his disciples heard it.
 
 ## The Devotion
 

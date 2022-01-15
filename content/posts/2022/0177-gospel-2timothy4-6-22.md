@@ -1,5 +1,5 @@
 ---
-title: "181📺 Gospel in the NT: 2 Timothy 4:9-22 Glorified by God"
+title: "177📺 Gospel in the NT: 2 Timothy 4:6-22 Glorified by God"
 author: Joseph Louthan
 publishDate: 2022-01-18T06:00:00-06:00
 url: /gospel-meditations/2022-01-18-2-timothy/

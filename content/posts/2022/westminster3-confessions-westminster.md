@@ -1,14 +1,14 @@
 ---
-title: "179📺 Westminster Confession of Faith, Chapter 1.II The Old and New Testaments of Holy Scripture"
+title: "Westminster Confession of Faith, Chapter "
 author: Joseph Louthan
-publishDate: 2022-01-19T06:00:00-06:00
-url: /confession/2022-01-19-westminster/
+publishDate: 2022-02-16T06:00:00-06:00
+url: /confessions/2022-02-16-confessions-westminster/
 categories:
   - Confessions
 tags:
   - "Westminster Confession of Faith"
 series:
-  - "Tag"
+  - "Westminster Confession of Faith, Chapter Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: true
@@ -24,14 +24,7 @@ draft: true
 ## The Article
 
 ```text
-1.II Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament, which are these:
-Of the Old Testament Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth I Samuel II Samuel I Kings II Kings I Chronicles II Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes The Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi
 
-Of the New Testament The Gospels according to Matthew Mark Luke John The Acts of the Apostles Paul's Epistles to the Romans Corinthians I Corinthians II Galatians Ephesians Philippians Colossians Thessalonians I Thessalonians II to Timothy I to Timothy II to Titus to Philemon The Epistle to the Hebrews The Epistle of James The First and Second Epistles of Peter The First, Second, and Third Epistles of John The Epistle of Jude The Revelation
-
-All which are given by inspiration of God, to be the rule of faith and life.
-
-The books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of Scripture; and therefore are of no authority in the church of God, nor to be any otherwise approved, or made use of, than other human writings.
 ```
 
 <div style="page-break-after: always;"></div>

@@ -1,30 +1,41 @@
 ---
-title: "176📺 Home Devotions: Mark 11:12-14 So That We Might Live and Never Die"
+title: "Study: "
 author: Joseph Louthan
-publishDate: 2022-01-18T06:00:00-06:00
-url: /home-devotions/2022-01-18-Tue-home-devos-mark/
+publishDate: 2022-03-03T06:00:00-06:00
+url: /study/2022-03-03-study-genesis/
 categories:
-  - Home Devotions
+  - Study
 tags:
-  - "Mark"
+  - "Genesis"
 series:
-  - "Home Devotions: Mark"
+  - "Study: Genesis"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
+## The Introduction
+
+<div style="page-break-after: always;"></div>
+
 ## The Text
 
->Mark 11:12-14 (CSB) 
-><sup> 12 </sup> The next day when they went out from Bethany, he was hungry. 
+## The Support
 
-><sup> 13 </sup> Seeing in the distance a fig tree with leaves, he went to find out if there was anything on it. When he came to it, he found nothing but leaves; for it was not the season for figs. 
+<div style="page-break-after: always;"></div>
 
-><sup> 14 </sup> He said to it, “May no one ever eat fruit from you again!” And his disciples heard it.
+```text
+Where do you see God in the text? What does the text say about God?
+```
 
-## The Devotion
+## Our God
 
+<div style="page-break-after: always;"></div>
 
+## The Gospel
+
+<div style="page-break-after: always;"></div>
+
+## Our Responsibility
 
 ## The Discussion
 
@@ -44,9 +55,7 @@ draft: false
 4. 
 ```
 
-## The Prayer from the Psalms
-
->
+## The Prayer
 
 <div style='font-variant: small-caps;'>
 
@@ -61,3 +70,4 @@ draft: false
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
+
