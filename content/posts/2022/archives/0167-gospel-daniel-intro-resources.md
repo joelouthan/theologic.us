@@ -7,6 +7,7 @@ categories:
   - "Gospel: OT"
 tags:
   - "Daniel"
+  - "Books"
 series:
   - "Gospel in the OT: Daniel"
 tocopen: true

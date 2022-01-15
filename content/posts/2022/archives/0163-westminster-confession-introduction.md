@@ -7,6 +7,7 @@ categories:
   - Confessions
 tags:
   - "Westminster Confession"
+  - "Books"
 series:
   - "Westminster Confession"
 tocopen: true
