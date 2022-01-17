@@ -8,7 +8,7 @@ categories:
 tags:
   - "Daniel"
 series:
-  - "Gospel OT: Daniel"
+  - "Gospel OT: Major Prophets"
 tocopen: true
 css: "prayers"
 draft: true

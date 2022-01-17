@@ -4,12 +4,12 @@ author: Joseph Louthan
 publishDate: 2022-01-07T06:00:00-06:00
 url: /gospel-nt/2022-01-07-daniel/
 categories:
-  - "Gospel"
+  - "Gospel OT"
 tags:
   - "Daniel"
   - "Books"
 series:
-  - "Gospel OT: Daniel"
+  - "Gospel OT: Major Prophets"
 tocopen: true
 css: "prayers"
 draft: false

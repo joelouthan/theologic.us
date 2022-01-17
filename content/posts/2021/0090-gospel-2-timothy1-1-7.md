@@ -8,7 +8,7 @@ categories:
 tags:
   - "2 Timothy"
 series:
-  - "Gospel NT"
+  - "Gospel NT: Pastorals"
 css: "prayers"
 showtoc: true
 draft: false
