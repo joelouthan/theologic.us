@@ -1,14 +1,14 @@
 ---
-title: "📺 Gospel in the NT: 2 Timothy 1:1-7 Thanks Be To God!"
+title: "📺 Gospel NT: 2 Timothy 1:1-7 Thanks Be To God!"
 author: Joseph Louthan
 publishDate: 2021-06-16T06:00:00-06:00
-url: /gospel-meditations/2021-06-16-2nd-timothy/
+url: /gospel-nt/2021-06-16-2nd-timothy/
 categories:
-  - "Gospel: NT"
+  - "Gospel NT"
 tags:
   - "2 Timothy"
 series:
-  - "Gospel in the NT: Pastorals"
+  - "Gospel NT"
 css: "prayers"
 showtoc: true
 draft: false

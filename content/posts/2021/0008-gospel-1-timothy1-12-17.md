@@ -1,14 +1,14 @@
 ---
-title: "📺Gospel in the NT: 1 Timothy 1:12-17 Christ Our Salvation"
+title: "📺Gospel NT: 1 Timothy 1:12-17 Christ Our Salvation"
 author: Joseph Louthan
 publishDate: 2021-02-17T06:00:00-06:00
-url: /gospel-meditations/2021-02-17-gospel-meditations-1-timothy/
+url: /gospel-nt/2021-02-17--gospel-nt-1-timothy/
 categories:
-  - "Gospel: NT"
+  - "Gospel NT"
 tags:
   - "1 Timothy"
 series:
-  - "Gospel in the NT: Pastorals"
+  - "Gospel NT"
 css: "prayers"
 showtoc: true
 draft: false

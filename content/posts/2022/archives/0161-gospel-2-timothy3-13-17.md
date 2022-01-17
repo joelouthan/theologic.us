@@ -1,14 +1,14 @@
 ---
-title: "📺 Gospel in the NT: 2 Timothy 3:13-17 Called by God "
+title: "📺 Gospel NT: 2 Timothy 3:13-17 Called by God "
 author: Joseph Louthan
 publishDate: 2022-01-04T06:00:00-06:00
-url: /gospel-meditations/2022-01-04-2-timothy/
+url: /gospel-nt/2022-01-04-gospel-nt-2-timothy/
 categories:
-  - Meditations
+  - "Gospel NT"
 tags:
   - "2 Timothy"
 series:
-  - "Gospel in the NT: Pastorals"
+  - "Gospel NT"
 tocopen: true
 css: "prayers"
 draft: false

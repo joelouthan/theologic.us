@@ -1,15 +1,15 @@
 ---
-title: "📺 Gospel in the OT: Daniel, An Introduction and Resources"
+title: "📺 Gospel OT: Daniel, An Introduction and Resources"
 author: Joseph Louthan
 publishDate: 2022-01-07T06:00:00-06:00
-url: /gospel-meditations/2022-01-07-daniel/
+url: /gospel-nt/2022-01-07-daniel/
 categories:
-  - "Gospel: OT"
+  - "Gospel"
 tags:
   - "Daniel"
   - "Books"
 series:
-  - "Gospel in the OT: Daniel"
+  - "Gospel OT: Daniel"
 tocopen: true
 css: "prayers"
 draft: false

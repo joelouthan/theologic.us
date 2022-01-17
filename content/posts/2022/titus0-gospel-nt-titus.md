@@ -4,7 +4,7 @@ author: Joseph Louthan
 publishDate: 2022-02-01T06:00:00-06:00
 url: /gospel-nt/2022-02-01-gospel-nt-titus/
 categories:
-  - Gospel
+  - "Gospel OT"
 tags:
   - "Titus"
 series:

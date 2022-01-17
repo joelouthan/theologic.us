@@ -1,14 +1,14 @@
 ---
-title: "📺 Gospel in the NT: 2 Timothy 2:20-26 Chosen by God"
+title: "📺 Gospel NT: 2 Timothy 2:20-26 Chosen by God"
 author: Joseph Louthan
 publishDate: 2021-07-21T06:00:00-06:00
-url: /gospel-meditations/2021-07-21-2nd-timothy/
+url: /gospel-nt/2021-07-21-2nd-timothy/
 categories:
-  - "Gospel: NT"
+  - "Gospel NT"
 tags:
   - "2 Timothy"
 series:
-  - "Gospel in the NT: Pastorals"
+  - "Gospel NT"
 css: "prayers"
 showtoc: true
 draft: false

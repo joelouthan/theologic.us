@@ -1,14 +1,14 @@
 ---
-title: "📺 Gospel in the OT: Daniel 1:1-7 World vs God: Who Chooses Us?"
+title: "📺 Gospel OT: Daniel 1:1-7 World vs God: Who Chooses Us?"
 author: Joseph Louthan
 publishDate: 2022-01-21T06:00:00-06:00
-url: /gospel-meditations/2022-01-21-daniel/
+url: /gospel-nt/2022-01-21-daniel/
 categories:
-  - "Gospel: OT"
+  - "Gospel OT"
 tags:
   - "Daniel"
 series:
-  - "Gospel in the OT: Daniel"
+  - "Gospel OT: Daniel"
 tocopen: true
 css: "prayers"
 draft: false

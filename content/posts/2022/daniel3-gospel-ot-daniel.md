@@ -4,7 +4,7 @@ author: Joseph Louthan
 publishDate: 2022-02-18T06:00:00-06:00
 url: /gospel-ot/2022-02-18-gospel-ot-daniel/
 categories:
-  - Gospel
+  - "Gospel OT"
 tags:
   - "Daniel"
 series:

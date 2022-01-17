@@ -1,14 +1,14 @@
 ---
-title: "📺 Gospel in the NT: 1 Timothy 2:8-15 Worship in Christ"
+title: "📺 Gospel NT: 1 Timothy 2:8-15 Worship in Christ"
 author: Joseph Louthan
 publishDate: 2021-03-10T06:00:00-06:00
-url: /gospel-meditations/2021-03-10-gospel-meditations-1-timothy/
+url: /gospel-nt/2021-03-10--gospel-nt-1-timothy/
 categories:
-  - "Gospel: NT"
+  - "Gospel NT"
 tags:
   - "1 Timothy"
 series:
-  - "Gospel in the NT: Pastorals"
+  - "Gospel NT"
 css: "prayers"
 showtoc: true
 draft: false

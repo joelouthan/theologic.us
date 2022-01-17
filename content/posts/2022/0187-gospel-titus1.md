@@ -1,14 +1,14 @@
 ---
-title: "Gospel in the NT: Titus 1 How to Minister"
+title: "Gospel NT: Titus 1 How to Minister"
 author: Joseph Louthan
 publishDate: 2022-01-25T06:00:00-06:00
-url: /gospel-meditations/2022-01-25-titus/
+url: /gospel-nt/2022-01-25-gospel-nt-titus/
 categories:
-  - Meditations
+  - "Gospel NT"
 tags:
   - "Titus"
 series:
-  - "Gospel in the NT: Pastorals"
+  - "Gospel NT"
 tocopen: true
 css: "prayers"
 draft: true
