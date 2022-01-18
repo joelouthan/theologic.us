@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 2 Timothy 1:8-12 Saved by God"
+title: "0095📺 Gospel NT: 2 Timothy 1:8-12 Saved by God"
 author: Joseph Louthan
 publishDate: 2021-06-23T06:00:00-06:00
 url: /gospel-nt/2021-06-23-2nd-timothy/

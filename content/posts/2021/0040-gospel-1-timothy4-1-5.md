@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 1 Timothy 4:1-5 Worship Christ"
+title: "0040📺 Gospel NT: 1 Timothy 4:1-5 Worship Christ"
 author: Joseph Louthan
 publishDate: 2021-04-07T06:00:00-06:00
 url: /gospel-nt/2021-04-07--gospel-nt-1-timothy/

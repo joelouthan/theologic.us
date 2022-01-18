@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 1 Timothy 6:1-2 Christ Our Lord"
+title: "0065📺 Gospel NT: 1 Timothy 6:1-2 Christ Our Lord"
 author: Joseph Louthan
 publishDate: 2021-05-12T06:00:00-06:00
 url: /gospel-nt/2021-05-12--gospel-nt-1-timothy/

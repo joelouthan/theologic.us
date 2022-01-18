@@ -1,5 +1,5 @@
 ---
-title: "177📺 Gospel NT: 2 Timothy 4:6-22 Glorified by God"
+title: "0177📺 Gospel NT: 2 Timothy 4:6-22 Glorified by God"
 author: Joseph Louthan
 publishDate: 2022-01-18T06:00:00-06:00
 url: /gospel-nt/2022-01-18-gospel-nt-2-timothy/
@@ -11,7 +11,7 @@ series:
   - "Gospel NT: Pastorals"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 

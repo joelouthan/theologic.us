@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 1 Timothy 6:20-21 Be With Christ"
+title: "0085📺 Gospel NT: 1 Timothy 6:20-21 Be With Christ"
 author: Joseph Louthan
 publishDate: 2021-06-09T06:00:00-06:00
 url: /gospel-nt/2021-06-09--gospel-nt-1-timothy/

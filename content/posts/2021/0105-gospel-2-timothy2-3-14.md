@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 2 Timothy 2:3-14 Life by God"
+title: "0105📺 Gospel NT: 2 Timothy 2:3-14 Life by God"
 author: Joseph Louthan
 publishDate: 2021-07-07T06:00:00-06:00
 url: /gospel-nt/2021-07-07-2nd-timothy/

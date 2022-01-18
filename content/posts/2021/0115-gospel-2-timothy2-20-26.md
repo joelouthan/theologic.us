@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 2 Timothy 2:20-26 Chosen by God"
+title: "0115📺 Gospel NT: 2 Timothy 2:20-26 Chosen by God"
 author: Joseph Louthan
 publishDate: 2021-07-21T06:00:00-06:00
 url: /gospel-nt/2021-07-21-2nd-timothy/
