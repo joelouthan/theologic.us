@@ -67,13 +67,13 @@ params:
             - name: "Study: Romans"
               url: /series/bible-study-romans/
             - name: "Gospel NT: Pastoral Epistles"
-              url: /series/gospel-meditations-pastorals/
+              url: /series/gospel-nt-pastorals/
             - name: "Westminster Confession of Faith"
               url: /series/westminster-confession/
             - name: "Study: Genesis"
               url: /series/bible-study-genesis/
             - name: "Gospel OT: Daniel"
-              url: /series/gospel-meditations-daniel/
+              url: /series/gospel-ot-major-prophets/
             - name: Other Series
               url: series
 
