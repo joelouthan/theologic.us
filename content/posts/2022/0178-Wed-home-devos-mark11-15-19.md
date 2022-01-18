@@ -1,5 +1,5 @@
 ---
-title: "0178📺 Home Devotions: Mark 11:15-19 So That We Might Live and Be Saved"
+title: "178📺 Home Devotions: Mark 11:15-19 So That We Might Live and Be Saved"
 author: Joseph Louthan
 publishDate: 2022-01-19T06:00:00-06:00
 url: /home-devotions/2022-01-19-Wed-home-devos-mark/

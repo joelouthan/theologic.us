@@ -1,5 +1,5 @@
 ---
-title: "0180📺 Home Devotions: Mark 11:20-25 So That We Might Live and Believe"
+title: "180📺 Home Devotions: Mark 11:20-25 So That We Might Live and Believe"
 author: Joseph Louthan
 publishDate: 2022-01-20T06:00:00-06:00
 url: /home-devotions/2022-01-20-Thu-home-devos-mark/
