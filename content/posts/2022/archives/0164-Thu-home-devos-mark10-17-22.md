@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 10:17-22 God Alone Receives the Brokenhearted"
+title: "0164📺 Home Devotions: Mark 10:17-22 God Alone Receives the Brokenhearted"
 author: Joseph Louthan
 publishDate: 2022-01-06T06:00:00-06:00
 url: /home-devotions/2022-01-06-home-devos-mark/

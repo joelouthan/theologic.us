@@ -1,5 +1,5 @@
 ---
-title: "182📺 Home Devotions: Mark 11:27-33 So That We Might Live and Know Him"
+title: "0182📺 Home Devotions: Mark 11:27-33 So That We Might Live and Know Him"
 author: Joseph Louthan
 publishDate: 2022-01-21T06:00:00-06:00
 url: /home-devotions/2022-01-21-Fri-home-devos-mark/
@@ -26,7 +26,7 @@ draft: false
 
 ><sup> 31 </sup> They discussed it among themselves: “If we say, ‘From heaven,’ he will say, ‘Then why didn’t you believe him?’ 
 
-><sup> 32 </sup> But if we say, ‘Of human origin’ ”—they were afraid of the crowd, because everyone thought that John was truly a prophet. 
+><sup> 32 </sup> But if we say, ‘Of human origin’”—they were afraid of the crowd, because everyone thought that John was truly a prophet. 
 
 ><sup> 33 </sup> So they answered Jesus, “We don’t know.” And Jesus said to them, “Neither will I tell you by what authority I do these things.”
 
@@ -54,14 +54,43 @@ draft: false
 
 ## The Prayer from the Psalms
 
->
+>Psalm 13 (CSB)  
+>   For the choir director. A psalm of David. 
 
-<div style='font-variant: small-caps;'>
+><sup> 1 </sup> How long, LORD? Will you forget me forever? How long will you hide your face from me? 
 
+><sup> 2 </sup> How long will I store up anxious concerns within me, agony in my mind every day? How long will my enemy dominate me? 
+
+><sup> 3 </sup> Consider me and answer, LORD my God. Restore brightness to my eyes; otherwise, I will sleep in death. 
+
+><sup> 4 </sup> My enemy will say, “I have triumphed over him,” and my foes will rejoice because I am shaken. 
+
+><sup> 5 </sup> But I have trusted in your faithful love; my heart will rejoice in your deliverance. 
+
+><sup> 6 </sup> I will sing to the LORD because he has treated me generously.
+
+<div style="font-variant: small-caps;">
+  O Lord,
 </div>
 
 ```text
+You have not forgotten me.
+You have not hidden your lovely face from me.
+Your comfort and wisdom warm my soul.
+Your joy and hope fill my heart all the day long.
 
+You are mindful of me and when I call out your name, you answer me. You have answered me by saving me. You saved me by giving Yourself to me.
+
+One day, I might stare down Death, but when I do, I will only see a crownless king with a broken scepter who has been stripped of power where there is little left to wield.
+
+My Lord and God, all of my trust is in you alone for you alone have the words for eternal life.
+
+Because of You, I sing and dance with complete gladness.
+
+Thank you for You.
+
+In Your Son’s incredible and mighty name, I pray.
+Amen.
 ```
 
 ## The Media

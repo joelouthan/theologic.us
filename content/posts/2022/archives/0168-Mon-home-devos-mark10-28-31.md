@@ -1,5 +1,5 @@
 ---
-title: "168📺 Home Devotions: Mark 10:28-31 God Alone Receives the Last"
+title: "0168📺 Home Devotions: Mark 10:28-31 God Alone Receives the Last"
 author: Joseph Louthan
 publishDate: 2022-01-10T06:00:00-06:00
 url: /home-devotions/2022-01-10-Mon-home-devos-mark/

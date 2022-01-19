@@ -19,7 +19,9 @@ draft: false
 
 ```text
 My legacy has already passed through my lips. I have nothing but strongest bitterness and the most potent venom to come out of my mouth.
+
 I have lied. I have manipulated. I have cheated.
+
 With my snake tongue, I have tried to get others to do my bidding, believing the lie that I am the one that needs to control them in order for my soul to be at peace.
 
 However, what if I get my way? My soul still knows no peace. I am not at ease. I am not better now than before I started telling lies.
@@ -30,10 +32,11 @@ My God, dump the poison out. Swap my heart out with a soft, tender heart. Give m
 
 God, do this through the intercession and broken body of Your Son, all by the power of your great and Holy Spirit.
 
-May the words of my mouth and the mediations of heart will forever bring you sweet pleasure to your ears.
+May the words of my mouth and the meditations of heart will forever bring you sweet pleasure to your ears.
 
 I love you, Lord. Thank you for saving me to You.
 
 In your Son’s precious and beautiful name, I pray.
+
 Amen.
 ```

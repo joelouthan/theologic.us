@@ -1,5 +1,5 @@
 ---
-title: "176📺 Home Devotions: Mark 11:12-14 So That We Might Live and Never Die"
+title: "0176📺 Home Devotions: Mark 11:12-14 So That We Might Live and Never Die"
 author: Joseph Louthan
 publishDate: 2022-01-18T06:00:00-06:00
 url: /home-devotions/2022-01-18-Tue-home-devos-mark/

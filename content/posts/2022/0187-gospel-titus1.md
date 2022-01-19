@@ -1,5 +1,5 @@
 ---
-title: "Gospel NT: Titus 1 How to Minister"
+title: "0187 Gospel NT: Titus 1 How to Minister"
 author: Joseph Louthan
 publishDate: 2022-01-25T06:00:00-06:00
 url: /gospel-nt/2022-01-25-gospel-nt-titus/
