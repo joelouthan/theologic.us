@@ -13,10 +13,6 @@ tocopen: true
 css: "prayers"
 draft: true
 ---
-## The Introduction
-
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 <div style="page-break-after: always;"></div>
