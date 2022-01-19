@@ -8,7 +8,7 @@ categories:
 tags:
   - "Westminster Confession of Faith"
 series:
-  - "Westminster Confession of Faith, Chapter Westminster Confession of Faith"
+  - "Westminster Confession"
 tocopen: true
 css: "prayers"
 draft: true

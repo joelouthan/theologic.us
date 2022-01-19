@@ -8,7 +8,7 @@ categories:
 tags:
   - "Westminster Confession of Faith"
 series:
-  - "Tag"
+  - "Westminster Confession"
 tocopen: true
 css: "prayers"
 draft: false
