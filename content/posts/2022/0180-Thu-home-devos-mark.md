@@ -28,8 +28,6 @@ draft: false
 
 ><sup> 25 </sup> And whenever you stand praying, if you have anything against anyone, forgive him, so that your Father in heaven will also forgive you your wrongdoing.”
 
-## The Devotion
-
 ## The Sidenote
 
 Where is verse 26?
@@ -46,24 +44,46 @@ But with the gospel of Christ:
 
 >1 John 4:7-8 (CSB) Dear friends, let us love one another, because love is from God, and everyone who loves has been born of God and knows God. The one who does not love does not know God, because God is love.
 
+## The Devotion
 
+Let me talk about my camp for a moment--the Charismatics. I have grown up being explicitly taught that this verse literally--that we should have so much *quantity* of faith that we should have the ability to toss mountians into the sea. But then be instantly sad and grieve because apparently we have little to no faith because we can't toss mountains into the sea.
+
+Look at the focus of that grief, saddness, and disappointment. Is God the subject of that or is that yourself?
+
+You know what is more difficult? A human entering in the kingdom of God without God. Christ has listed two impossible, ridiculous, irrational notions to get you and me to realize what we actually need.
+
+One, camel through the eye of an needle. No, there is no needle gate and if the camel can duck down, he will be able to get in. If you believe that, you don't believe the gospel because that is antithetical to the gospel.
+
+Two, throwing mountains into the sea. "But Christ we should be able to?", you might say. But read the passage again:
+
+><sup> 22 </sup> Jesus replied to them, “Have faith in God. 
+
+You and I as children of Adam keep hearing the gospel but want to so badly believe the lies of Satan. "I don't want to do what God says. Maybe I can do just enough good things, he will let me in on a curve."
+
+What if we treated relationships like that? "I want to be her friend. I know, let me do enough good things to make her think that we are friends so that she will leave me alone." "I need my wife to stop bothering me. I know, let me do just enough things to fulfill the marital vow. Hopefully then she can leave me alone."
+
+What kind of relationship is that? Answer: its not a relationship.
+
+Christ has commanded you to believe, trust, and obey Him for eternal life. Stop doing and trying to do just enough because you are no closer getting to God that way. Doing it your way, you haven't moved a hair. In fact, the more you try to do good, the more you are slipping away from God.
+
+Have faith in God. Lots of faith, or little faith--what matters is the *object* of our faith. The object of our faith is Jesus Christ our Lord.
 
 ## The Discussion
 
 ```text
-1. 
+1. How did you hear this passage before and what did you believe about it?
 ```
 
 ```text
-2. 
+2. Have you ever thought about how you can't do enough good things to get into heaven? If so, how did it make you feel at first?
 ```
 
 ```text
-3. 
+3. In light the of gospel, how does it sound knowing you can't do anything good enough to be saved?
 ```
 
 ```text
-4. 
+4. What does faith look like in Christ look like?
 ```
 
 ## The Prayer from the Psalms
