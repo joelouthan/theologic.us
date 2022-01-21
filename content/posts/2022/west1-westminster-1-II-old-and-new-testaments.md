@@ -11,7 +11,7 @@ series:
   - "Westminster Confession"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Text
 
