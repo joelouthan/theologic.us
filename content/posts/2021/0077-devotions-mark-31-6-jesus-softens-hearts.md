@@ -97,7 +97,9 @@ draft: false
 
 >John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-31-6-jesus-comes-to-give-life/)
 

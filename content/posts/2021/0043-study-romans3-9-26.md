@@ -165,7 +165,7 @@ Do you bear witness with my spirit that I am a child of God?
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-3926-no-one-does-good)
 

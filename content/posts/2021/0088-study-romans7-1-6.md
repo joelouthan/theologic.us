@@ -172,7 +172,7 @@ Give me life!
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-71-6-god-rips-our-sin-from-us)
 

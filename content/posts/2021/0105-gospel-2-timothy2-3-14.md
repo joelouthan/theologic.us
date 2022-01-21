@@ -197,7 +197,7 @@ I believe and trust in you. Make me alive in you today.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-23-14-life-by-god)
 

@@ -2,7 +2,7 @@
  * Markdown PDF CSS
  */
 
- body {
+body {
 	/*font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";*/
   font-family: "Adobe Garamond Pro", Baskerville, "Big Caslon", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 18px;
@@ -40,7 +40,8 @@ code {
 /* for inline code */
 :not(pre):not(.hljs) > code {
 	color: #C9AE75; /* Change the old color so it seems less like an error */
-	font-size: inherit;
+  font-family: "Adobe Garamond Pro", Baskerville, "Big Caslon", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 18px;
 }
 
 /* Page Break : use <div class="page"/> to insert page break

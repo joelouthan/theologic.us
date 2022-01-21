@@ -129,7 +129,9 @@ Therefore, we are no less than the 12 disciples of Christ. We are to go and prea
 
 >Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-37-19-jesus-is-on-mission-from-the-father)
 

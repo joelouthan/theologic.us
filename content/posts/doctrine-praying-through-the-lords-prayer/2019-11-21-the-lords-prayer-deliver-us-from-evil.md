@@ -213,7 +213,7 @@ Help us. We need you.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-james-113-15-pray-like-this-deliver-us-from-evil)
 

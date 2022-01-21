@@ -220,7 +220,7 @@ Be my Savior.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-46-12-god-justifies-not-us)
 

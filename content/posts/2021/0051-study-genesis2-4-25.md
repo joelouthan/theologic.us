@@ -291,7 +291,7 @@ Amen! Come, Lord Jesus!
 
 Give us your grace so that we can make it home.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-24-25-our-forever-righteousness)
 

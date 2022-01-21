@@ -237,7 +237,7 @@ Amen
 
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-psalms-7321-28-pray-like-this-on-earth-as-it-is-in-heaven)
 

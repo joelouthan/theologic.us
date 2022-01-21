@@ -46,7 +46,9 @@ If Christ did it, it would not be different for us.
 3. What does it look like to be led by the Spirit? Do you think the Spirit will lead us where He led Jesus?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-112-13-jesus-is-led-by-the-holy-spirit/)
 

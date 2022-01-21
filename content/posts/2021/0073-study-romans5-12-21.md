@@ -205,7 +205,7 @@ I believe in you. Save me!
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-51221-god-reigns-not-us)
 

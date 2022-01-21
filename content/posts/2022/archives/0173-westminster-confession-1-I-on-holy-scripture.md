@@ -219,6 +219,8 @@ I believe. Help me in my disbelief!
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/westminster-confession-of-fatih-chapter-1-i-of-holy-scripture)

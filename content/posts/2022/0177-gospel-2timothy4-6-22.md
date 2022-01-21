@@ -270,6 +270,8 @@ Be exalted, Lord.
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-nt-2-timothy-49-22-glorified-by-god)

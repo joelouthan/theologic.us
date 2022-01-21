@@ -137,6 +137,8 @@ Led me to the Father. All in what the Son has done for me.
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-8-26-who-defines-us-in-the-midst-of-our-weakness)

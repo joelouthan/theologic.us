@@ -67,7 +67,7 @@ We do not have to beg God for what we need. He is God. He alone knows the depths
 
 In this series, I want you to write down and pray prayers based on what you have learned to today.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-praying-through-the-lords-prayer-an-introduction/)
 

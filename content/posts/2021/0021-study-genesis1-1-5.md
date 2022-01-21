@@ -249,7 +249,7 @@ Amen.
 Romans 11:33-36 (CSB)  
 </div>
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-11-5-our-forever-wisdom/)
 

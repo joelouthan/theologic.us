@@ -137,7 +137,7 @@ Quicken my spirit. Give me life so I can trust in you!
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-81-4-no-condemnation-in-christ-jesus)
 

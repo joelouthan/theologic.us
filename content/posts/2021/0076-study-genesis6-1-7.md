@@ -196,7 +196,7 @@ Save us all.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/genesis-61-7-the-gospel-certainty-the-sinfulness-of-mankind)
 

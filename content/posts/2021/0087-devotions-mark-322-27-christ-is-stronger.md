@@ -93,7 +93,9 @@ Christ describing Satan as the strong man. That wasn't just a parable but a prop
 3. How did Christ "tie up and plunder the strong man's house"?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-320-27-christ-is-stronger)
 

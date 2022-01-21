@@ -220,7 +220,7 @@ Save me now.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-610-22-the-gospel-certainty-the-holiness-of-god)
 

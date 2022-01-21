@@ -121,7 +121,7 @@ You have given me everything.
 Blessed be your name.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-617-19-hope-in-christ)
 

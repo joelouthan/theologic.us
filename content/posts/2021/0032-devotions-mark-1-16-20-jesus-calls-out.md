@@ -46,7 +46,9 @@ Just like the disciples here, Jesus Christ called them one by one, telling them 
 When do you remember the first time you felt God calling you?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-116-20-jesus-rules-and-reigns-over-all-the-people/)
 

@@ -184,7 +184,7 @@ We are cursed. Save us.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/genesis-314-24-the-gospel-proclaimed)
 

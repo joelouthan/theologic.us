@@ -135,7 +135,7 @@ Give me your power to murder my sin.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-1-1/).
 

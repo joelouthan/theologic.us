@@ -171,7 +171,7 @@ Wash me clean. Make me your child.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-413-25-god-fulfills-his-promises-not-us)
 

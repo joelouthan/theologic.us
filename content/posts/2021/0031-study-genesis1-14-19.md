@@ -117,7 +117,7 @@ Give us the gift of repentance
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-114-19-our-forever-light/)
 

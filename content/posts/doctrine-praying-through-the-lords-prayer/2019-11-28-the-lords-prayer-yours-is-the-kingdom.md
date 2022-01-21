@@ -236,7 +236,7 @@ the Lord Jesus Christ.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-1-chronicles-2910-18-pray-like-this-yours-is-the-kingdom-o-lord)
 

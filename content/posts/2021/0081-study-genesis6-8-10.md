@@ -160,7 +160,7 @@ If we do not know you, save us.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-68-10-the-gospel-certainty-the-grace-of-god)
 

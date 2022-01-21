@@ -81,7 +81,9 @@ Yet, as Athanasius (early church father) so boldly declare:
 
 If you believe and trust in Him, what He said, what His Son did, then yes, you are his little kid—forever.
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-11-jesus-is-the-good-news/)
 

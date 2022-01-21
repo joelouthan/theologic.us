@@ -160,6 +160,8 @@ Show me and change my heart so that I can love you and love others like you love
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-313-17-called-by-god)

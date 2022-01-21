@@ -56,7 +56,9 @@ If we are saved by God, we are saved then to God. Our lives are to be about God.
 4. If the Old Testament is about Christ, what is the New Testament all about?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-12-6-jesus-is-the-center-of-our-lives/)
 

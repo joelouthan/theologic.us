@@ -179,7 +179,7 @@ So in this moment, save us. Give us repentance. Turn our hearts towards you.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-91-17-the-gospel-certainty-the-love-of-god)
 

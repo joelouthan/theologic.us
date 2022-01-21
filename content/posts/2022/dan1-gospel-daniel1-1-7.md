@@ -227,6 +227,8 @@ You are my king.
 Amen
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-daniel-11-7-world-vs-god-who-chooses-us)

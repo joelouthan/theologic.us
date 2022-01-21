@@ -220,7 +220,7 @@ Draw me in. Rescue me. And never let me go.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-61523-god-buries-our-sin)
 

@@ -105,7 +105,7 @@ Is there any hope for our weight of sin? Who can be so powerful enough, yet able
 
 Then who can save me from this body of death? Christ Jesus is his name!
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-ii-the-weight-of-sin)
 

@@ -212,7 +212,7 @@ Give me the gift of repentance so I can turn away from sin and turn back to you.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/romans-327-45-no-one-may-boast)
 

@@ -163,7 +163,7 @@ We need you.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-41-5-worship-christ/)
 

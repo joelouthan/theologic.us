@@ -140,7 +140,7 @@ Kill our cold hearts.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-113-15-god-alone-is-sovereign/)
 

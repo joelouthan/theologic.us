@@ -125,7 +125,7 @@ If we are dead, bring us to life!
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-215-19-truth-by-god)
 

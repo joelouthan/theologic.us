@@ -140,7 +140,7 @@ Please show us your promises. Have you Spirit seal those promises for us. We bel
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-815-22-the-gospel-certainty-the-promise-of-god)
 

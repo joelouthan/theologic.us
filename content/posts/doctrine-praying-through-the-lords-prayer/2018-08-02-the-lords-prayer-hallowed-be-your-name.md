@@ -160,7 +160,7 @@ How glorious is Your Name!
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-revelation-48-pray-like-this-hallowed-be-your-name/)
 

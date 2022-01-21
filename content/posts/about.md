@@ -147,7 +147,7 @@ What do we do now? Or as I like to say, “Where does God’s grace have me now?
 
 In the mornings, I will also be doing a prayer based on the Psalms. In the evenings, a simple prayer to God.
 
-## Media
+## The Media
 
 Today's episode is always at [The Study](http://study.theologic.us/) feed.
 

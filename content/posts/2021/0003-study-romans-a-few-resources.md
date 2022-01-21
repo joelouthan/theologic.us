@@ -164,7 +164,7 @@ ___
 
 <p style="clear:both;">
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-a-few-resources/)
 

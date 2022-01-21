@@ -155,7 +155,7 @@ Save us all.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-5-the-gospel-plan)
 

@@ -154,7 +154,7 @@ So hold on to me.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-51-5-god-sanctifies-not-us)
 

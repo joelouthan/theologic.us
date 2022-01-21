@@ -118,7 +118,7 @@ Today, save me.
 Amen
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-john-622-71-pray-like-this-give-us-this-day-our-daily-bread)
 

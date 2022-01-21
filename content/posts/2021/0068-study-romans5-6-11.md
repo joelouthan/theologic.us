@@ -162,7 +162,7 @@ Call me to you. Ask of me and save me!
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-5611-god-loves-not-us)
 

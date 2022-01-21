@@ -136,7 +136,7 @@ and turn our hearts towards you.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-46-10-train-in-christ)
 

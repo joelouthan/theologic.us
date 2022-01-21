@@ -134,7 +134,7 @@ Keep our eyes focused on you
 Amen
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study]()
 

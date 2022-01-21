@@ -293,7 +293,7 @@ Save me from this body of death.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-31-13-the-gospel-needed)
 

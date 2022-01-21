@@ -182,6 +182,8 @@ Make me alive in you.
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-818-25-who-defines-us)

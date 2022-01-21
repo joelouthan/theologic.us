@@ -132,7 +132,7 @@ It is only then that God removes us from death and despair; takes the blood of C
 
 Because of what He has done, we now get to dwell in the house of the Lord forever because we are His people and He is our God!
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-ix-our-new-heart--spirits-power-in-regeneration)
 

@@ -156,7 +156,7 @@ All I know is that I was once lost, now found; once blind, now I can see; once d
 I love You, my God.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-romans-814-17-pray-like-this-our-father-in-heaven/)
 

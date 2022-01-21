@@ -120,6 +120,8 @@ Praise your holy name forever.
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/westminster-confession-of-faith-an-introduction-with-resources)

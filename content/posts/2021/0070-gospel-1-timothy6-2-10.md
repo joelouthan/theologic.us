@@ -157,7 +157,7 @@ For in your Son's beautiful and holy name
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-62-10-be-content-in-christ)
 

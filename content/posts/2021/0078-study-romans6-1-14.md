@@ -187,7 +187,7 @@ Continue your work in. Draw me closer to you. Keep the world dim to my sight as 
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-61-14-god-pulls-our-sin-away/)
 

@@ -148,7 +148,7 @@ And we now know that Jesus Christ is the Holy One of God forever.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-16-13-our-forever-home/)
 

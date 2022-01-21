@@ -159,7 +159,7 @@ Our Great Father
 
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-113-22-taught-by-god)
 

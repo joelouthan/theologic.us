@@ -62,7 +62,9 @@ What does it mean to trust in God?
 3. What is the gospel? Tell me some of the things you think the gospel of God is.
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-114-15-jesus-is-the-good-news/)
 

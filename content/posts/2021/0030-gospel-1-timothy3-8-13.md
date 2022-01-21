@@ -180,7 +180,7 @@ Be our strength and our grace forever, O Lord.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-38-13-serve-in-christ/)
 

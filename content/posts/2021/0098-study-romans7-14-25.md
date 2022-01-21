@@ -182,7 +182,7 @@ Take all of my sins.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-714-25-then-god-saves-us-from-our-sin)
 

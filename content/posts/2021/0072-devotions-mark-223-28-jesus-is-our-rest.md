@@ -66,7 +66,9 @@ Is Jesus in charge of resting and having fun?
 Jesus gave us rest because He knew we needed rest and resting (naps, sleep, fun) are awesome.  More than being awesome, our body, mind, and spirit needs to chill out everyone once in a while. Not all the time—but some of the time. Jesus gave Himself to us so that we wouldn't work so hard to be saved. Jesus did all of the hard work so that you can be saved to Him forever.
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-223-28-jesus-is-our-rest)
 

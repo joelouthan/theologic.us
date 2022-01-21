@@ -256,7 +256,7 @@ Save me, Lord, NOW!
 Amen
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-v-god-speaks-to-the-dead)
 

@@ -158,7 +158,7 @@ Where we have believed something that did not come from you, would you give us t
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-617-19-hope-in-christ)
 

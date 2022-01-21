@@ -115,7 +115,7 @@ Blessed be the glorious name of the Lord,
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-18-21-god-alone-reigns/)
 

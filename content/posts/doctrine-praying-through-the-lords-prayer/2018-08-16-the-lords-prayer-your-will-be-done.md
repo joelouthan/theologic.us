@@ -89,7 +89,7 @@ For me to do anything you want
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ephesians-111-14-pray-like-this-your-will-be-done/)
 

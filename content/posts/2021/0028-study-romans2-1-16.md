@@ -123,7 +123,7 @@ Give me your righteousness so I can be with you forever.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-21-16-all-righteousness-belongs-to-god/)
 

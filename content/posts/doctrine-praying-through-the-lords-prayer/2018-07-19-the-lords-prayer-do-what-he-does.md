@@ -164,7 +164,7 @@ Sometimes when I am so happy and joyful, I will forget to spend time with you. S
 Help me not to deprive of my time with you. Help me do what You do.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-pray-like-this-do-as-he-does/)
 

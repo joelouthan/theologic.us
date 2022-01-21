@@ -140,6 +140,8 @@ Dwell in us, God. We cannot understand your will unless you live in us.
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/westminster-confession-of-faith-chapter-1-ii-the-old-and-new-testaments-of-holy-scripture)

@@ -262,6 +262,8 @@ Be exalted, oh Lord, be exalted above my doubts and worries and this earth.
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-11-the-gospel-tongue)

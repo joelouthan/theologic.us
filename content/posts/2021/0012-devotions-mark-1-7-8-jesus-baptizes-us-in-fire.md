@@ -44,7 +44,9 @@ To be baptized in church in water is to tell the entire world that Christ has ba
 2. What does it mean if the Holy Spirit (Spirit of God) is in your heart and with you always? 
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-17-8-jesus-baptizes-us-in-the-holy-spirit/)
 

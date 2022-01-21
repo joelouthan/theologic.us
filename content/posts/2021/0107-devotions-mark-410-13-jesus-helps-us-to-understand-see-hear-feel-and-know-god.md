@@ -53,7 +53,9 @@ draft: false
 
 >Acts 2:1-4 (CSB) When the day of Pentecost had arrived, they were all together in one place. 2 Suddenly a sound like that of a violent rushing wind came from heaven, and it filled the whole house where they were staying. 3 They saw tongues like flames of fire that separated and rested on each one of them. 4 Then they were all filled with the Holy Spirit and began to speak in different tongues, as the Spirit enabled them.
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-410-13-jesus-helps-us-to-understand-see-hear-feel-and-know-god)
 

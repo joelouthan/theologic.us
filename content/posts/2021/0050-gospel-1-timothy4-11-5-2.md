@@ -178,7 +178,7 @@ Whatever you have called us to do, give us grace to do your will.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 

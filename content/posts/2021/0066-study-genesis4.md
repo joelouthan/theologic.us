@@ -160,7 +160,7 @@ Do not let up but press into our hearts until our hearts gush out all of our sin
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-4-the-gospel-meeting)
 

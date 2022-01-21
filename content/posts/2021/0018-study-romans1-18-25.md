@@ -219,7 +219,7 @@ Take away my sin and lead me to life, fullness of joy, and blissful, satisfying 
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-118-25-god-alone-is-god/)
 

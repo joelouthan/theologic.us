@@ -238,7 +238,7 @@ Write your Scriptures upon my heart so that I will not sin against you. You alon
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-31-8-all-goodness-and-glory-belongs-to-god/)
 

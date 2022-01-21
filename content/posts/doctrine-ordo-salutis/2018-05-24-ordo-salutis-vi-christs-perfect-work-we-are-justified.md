@@ -141,7 +141,7 @@ so I can live with you forever.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-vi-christs-perfect-work-we-are-justified)
 

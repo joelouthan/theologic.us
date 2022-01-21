@@ -108,7 +108,7 @@ Jesus,
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/meditations-1-timothy-112-17-christ-our-salvation/)
 

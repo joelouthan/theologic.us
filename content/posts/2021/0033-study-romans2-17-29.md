@@ -201,7 +201,7 @@ So that I will go and sin no more.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-217-29-everything-belongs-to-god/)
 

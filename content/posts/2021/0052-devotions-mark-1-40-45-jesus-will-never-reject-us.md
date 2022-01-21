@@ -48,7 +48,9 @@ No exception.
 3. What was Jesus sent to Earth to do? Was it heal every single person or did he have a bigger plan? What do you think that bigger plan was?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/mark-140-45-jesus-accepts)
 

@@ -193,7 +193,7 @@ Give me your soft heart so I can desire you alone.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-126-32-all-wrath-belongs-to-god/)
 

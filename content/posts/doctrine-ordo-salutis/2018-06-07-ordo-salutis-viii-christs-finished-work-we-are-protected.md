@@ -266,7 +266,7 @@ But Christ, with his life and his love, protects and saves His people so that Go
 
 >Matthew 1:21 She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-viii-christs-finished-work-we-are-protected)
 

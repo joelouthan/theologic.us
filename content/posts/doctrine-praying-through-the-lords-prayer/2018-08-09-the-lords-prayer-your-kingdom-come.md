@@ -113,7 +113,7 @@ Amen.
 
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-pray-like-this--matthew-1615-19-your-kingdom-come/)
 

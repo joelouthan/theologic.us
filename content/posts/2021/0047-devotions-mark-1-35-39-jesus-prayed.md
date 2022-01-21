@@ -122,7 +122,9 @@ When do you think it is a good time to pray?
 
 >1 Thessalonians 5:16-18 (CSB) Rejoice always, pray constantly, give thanks in everything; for this is God’s will for you in Christ Jesus.
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-135-39-jesus-prays)
 

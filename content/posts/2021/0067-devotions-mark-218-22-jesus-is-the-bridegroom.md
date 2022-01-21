@@ -89,7 +89,9 @@ Matthew 28:18-20, Home Devotions: Mark 16:14-20, John 21:15-19, Acts 1:6-8
 >
 >7 He said to them, “It is not for you to know times or periods that the Father has set by his own authority. 8 But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/mark-218-22-jesus-is-the-bridegroom)
 

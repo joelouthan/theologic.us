@@ -177,7 +177,7 @@ Do not lose your children! Save us forever!
 Amen!
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-11-7-god-will-never-leave)
 

@@ -173,7 +173,7 @@ Do your work in us.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-77-13-first-god-reveals-our-sin)
 

@@ -122,7 +122,9 @@ And
 4. Is Christ inviting us to repent of sin, believe and trust in him? Or do you think that Christ is commanding everyone to repent of sin, believe and trust in him? What do you think?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-121-28-jesus-rules-and-reigns-over-satan-and-demons/)
 

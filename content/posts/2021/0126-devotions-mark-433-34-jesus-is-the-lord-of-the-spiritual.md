@@ -80,6 +80,8 @@ Open our eyes, open our ears, change out our hearts, change our minds, and give 
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-433-34-jesus-is-lord-of-the-spiritual)

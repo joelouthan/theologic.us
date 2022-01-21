@@ -49,7 +49,9 @@ There are two ways of knowing this:
 4. Who needs to be saved from death?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-213-17-jesus-is-the-good-doctor)
 

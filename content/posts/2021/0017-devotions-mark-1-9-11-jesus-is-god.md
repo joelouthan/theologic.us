@@ -51,7 +51,9 @@ However, the Father, Son, and Spirit communicate perfectly, know perfectly, love
 5. What would it mean to be perfectly love each and perfect agree with one another? To have three persons with one mind, one heart and one will?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study]()
 

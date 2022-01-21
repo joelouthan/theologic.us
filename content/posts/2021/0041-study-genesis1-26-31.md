@@ -191,7 +191,7 @@ just as you have loved us.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study]()
 

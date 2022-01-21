@@ -65,6 +65,8 @@ Where do you see God in the text? What does the text say about God?
 
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/)

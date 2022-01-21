@@ -188,6 +188,8 @@ If we are holding on to sins, would you give us the gift to repent so we can let
 Amen.
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-220-26-chosen-by-god)

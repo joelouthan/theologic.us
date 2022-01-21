@@ -55,6 +55,8 @@ When we go to God, what are we asking for?
 
 >Matthew 6:30-34 (CSB) If that’s how God clothes the grass of the field, which is here today and thrown into the furnace tomorrow, won’t he do much more for you—you of little faith? 31 So don’t worry, saying, ‘What will we eat?’ or ‘What will we drink?’ or ‘What will we wear?’ 32 For the Gentiles eagerly seek all these things, and your heavenly Father knows that you need them. 33 But seek first the kingdom of God and his righteousness, and all these things will be provided for you. 34 Therefore don’t worry about tomorrow, because tomorrow will worry about itself. Each day has enough trouble of its own.
 
+<div style="page-break-after: always;"></div>
+
 ## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-423-25-jesus-gives-more-do-we-receive)

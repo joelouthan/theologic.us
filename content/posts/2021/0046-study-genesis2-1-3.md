@@ -140,7 +140,7 @@ Keep us from sin, O God, and keep us near to you.
 Keep us near so we will finally have rest because our souls are troubled by sin.
 
 Amen.
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-21-3-our-forever-rest)
 

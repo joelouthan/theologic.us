@@ -237,7 +237,7 @@ Give us your Son to come save us from our sins!
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-711-24-the-gospel-certainty-the-will-of-god)
 

@@ -180,7 +180,7 @@ Today
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-11-7-god-alone-fulfills-his-promises/)
 

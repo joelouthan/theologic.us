@@ -92,7 +92,7 @@ Show me how to live with you in my heart forever.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-314-16-mystery-of-christ/)
 

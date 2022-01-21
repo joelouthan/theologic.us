@@ -244,7 +244,7 @@ Save us!
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-7110-the-gospel-certainty-the-salvation-of-god)
 

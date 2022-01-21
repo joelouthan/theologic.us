@@ -63,7 +63,9 @@ Why can't we understand it?
 5. What must we do to be saved?
 ```
 
-## Media
+<div style="page-break-after: always;"></div>
+
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-41-9-jesus-proclaims-how-do-we-respond)
 

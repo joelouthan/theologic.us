@@ -140,7 +140,7 @@ Help us to be faithful
 Amen
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans1-16-17/)
 

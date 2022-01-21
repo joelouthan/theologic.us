@@ -142,7 +142,7 @@ Praise your holy name forever.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-2-timothy-18-12-saved-by-god)
 

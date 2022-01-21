@@ -205,7 +205,7 @@ Blessed be your holy name.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-120-25-our-forever-creator/)
 

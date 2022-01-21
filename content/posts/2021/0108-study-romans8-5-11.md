@@ -190,7 +190,7 @@ Show me.
 
 Amen.
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-85-11-how-can-i-walk-this-path)
 

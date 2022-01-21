@@ -109,7 +109,7 @@ Help us to forgive others.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-luke-2332-34-pray-like-this-forgive-us--help-us-to-forgive)
 

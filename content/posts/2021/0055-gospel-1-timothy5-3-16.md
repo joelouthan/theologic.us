@@ -118,7 +118,7 @@ Come quickly, Lord.
 Amen.
 ```
 
-## Media
+## The Media
 
 Today's episode at [The Study](http://study.theologic.us/podcast/gospel-meditations-1-timothy-53-16-christ-our-bridegroom)
 
