@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "0172📺 Home Devotions: Mark 12:13-17 So That We Might Live and Belong to Him"
 author: Joseph Louthan
 publishDate: 2022-01-27T06:00:00-06:00
 url: /home-devos/2022-01-27-Thu-home-devos-mark/
@@ -15,7 +15,15 @@ draft: true
 ---
 ## The Text
 
+><sup> 13 </sup> Then they sent some of the Pharisees and the Herodians to Jesus to trap him in his words. 
 
+><sup> 14 </sup> When they came, they said to him, “Teacher, we know you are truthful and don’t care what anyone thinks, nor do you show partiality but teach the way of God truthfully. Is it lawful to pay taxes to Caesar or not? Should we pay or shouldn’t we?” 
+
+><sup> 15 </sup> But knowing their hypocrisy, he said to them, “Why are you testing me? Bring me a denarius to look at.” 
+
+><sup> 16 </sup> They brought a coin. “Whose image and inscription is this?” he asked them. “Caesar’s,” they replied. 
+
+><sup> 17 </sup> Jesus told them, “Give to Caesar the things that are Caesar’s, and to God the things that are God’s.” And they were utterly amazed at him. 
 
 ## The Devotion
 

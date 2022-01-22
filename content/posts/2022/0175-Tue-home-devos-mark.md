@@ -1,8 +1,8 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 12:35-37 So That We Might Live and Be Glorified"
 author: Joseph Louthan
-publishDate: 2022-01-28T06:00:00-06:00
-url: /home-devos/2022-01-28-Fri-home-devos-mark/
+publishDate: 2022-02-01T06:00:00-06:00
+url: /home-devos/2022-02-01-Tue-home-devos-mark/
 categories:
   - Home Devotions
 tags:
@@ -15,7 +15,11 @@ draft: true
 ---
 ## The Text
 
+><sup> 35 </sup> While Jesus was teaching in the temple, he asked, “How can the scribes say that the Messiah is the son of David? 
 
+><sup> 36 </sup> David himself says by the Holy Spirit: The Lord declared to my Lord, ‘Sit at my right hand until I put your enemies under your feet.’ 
+
+><sup> 37 </sup> David himself calls him ‘Lord.’ How, then, can he be his son?” And the large crowd was listening to him with delight.
 
 ## The Devotion
 
