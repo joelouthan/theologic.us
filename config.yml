@@ -76,6 +76,8 @@ params:
               url: /series/bible-study-genesis/
             - name: "Gospel OT: Daniel"
               url: /series/gospel-ot-major-prophets/
+            - name: "Home Devotions: Matthew"
+              url: /series/home-devotions-matthew/
             - name: Other Series
               url: series
 

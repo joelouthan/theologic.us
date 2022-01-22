@@ -1,8 +1,8 @@
 ---
 title: "0182📺 Home Devotions: Mark 11:27-33 So That We Might Live and Know Him"
 author: Joseph Louthan
-publishDate: 2022-01-21T06:00:00-06:00
-url: /home-devotions/2022-01-21-Fri-home-devos-mark/
+publishDate: 2022-01-25T06:00:00-06:00
+url: /home-devos/2022-01-25-Tue-home-devos-mark/
 categories:
   - Home Devotions
 tags:
