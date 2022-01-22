@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Matthew 1:1-"
 author: Joseph Louthan
 publishDate: 2022-01-29T06:00:00-06:00
 url: /home-devos/2022-01-29-home-devos-matthew/
