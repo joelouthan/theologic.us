@@ -32,24 +32,34 @@ draft: false
 
 ## The Devotion
 
+The salvation of God is not a pop quiz that awaits you when you get to the kingdom of God.
 
+It is not what you know. All the books, seminary, private Christian school, homeschool, mom, dad, pastor, church, denomination, theology, right Bible tranlation, verse memorization--none of that will matter before Christ himself.
+
+Salvation is: Do you know God because God dwells in you? Do you love God because God gave you his heart and Spirit so that you can love Him? Have you given your sin over to the Christ because God has granted you repentance?
+
+We don't treat relationships like this--do we? This is not a sitcom where the wife accuses the husband of being dumb and the husband scrambles for an answer so that he doesn't get in trouble. What if your kids do that--instead of telling the truth, they scramble for a lie so that they avoid punishment.
+
+Here's the upside-down-ness of the kingdom of God.
+
+If you try to lie to the only God who knows the deepest, darkest parts of your heart, you will be punished for all of eternity.
+
+If you come with truth--I am a sinner in desperate need of your grace. Guess what God does? He gives you every blessing starting with his Son and the inheritance of the world.
+
+Stop looking for right answer to avoid punishment. Believe and trust in Christ so that you will be saved.
 
 ## The Discussion
 
 ```text
-1. 
+1. Do you believe and trust in Christ?
 ```
 
 ```text
-2. 
+2. Do you pride yourself in how much factual knowledge you possess about the Bible?
 ```
 
 ```text
-3. 
-```
-
-```text
-4. 
+3. What is that going to get you?
 ```
 
 ## The Prayer from the Psalms
@@ -97,6 +107,6 @@ Amen.
 
 ## The Media
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+Today's episode at [The Study](http://study.theologic.us/podcast/home-devotions-mark-1127-33-so-that-we-might-live-and-know-him)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
