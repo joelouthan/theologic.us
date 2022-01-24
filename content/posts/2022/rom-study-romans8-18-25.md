@@ -1,5 +1,5 @@
 ---
-title: '0159📺 Study: Romans 8:18-25 Who Defines Us?'
+title: 'Study: Romans 8:18-25 Who Defines Us?'
 author: Joseph Louthan
 publishDate: 2022-01-03T06:00:00-06:00
 url: /bible-study/2022-01-03-study-romans/
@@ -202,11 +202,6 @@ ___
 Crossway. 2016.
 
 &nbsp;
-
-___
-
-[Here is Love: Exposition on Romans 8](/series/here-is-love/)  
-Personal writing expounding on 1 John 4:11
 
 ___
 

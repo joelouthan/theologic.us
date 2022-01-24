@@ -16,7 +16,7 @@ draft: true
 
 This is a fantastic God
 
-What compares to the knowledge of God when He alone reveals all truth and science to us? Yet, he is not merely the best supercomputer in the world with every single piece of knowledge and scientific fact ever.[^1]
+What compares to the knowledge of God when He alone reveals all truth and science to us? Yet, he is not merely the best supercomputer in the world with every single piece of knowledge and scientific fact ever.
 
 What compares to the knowledge of God that he numbers the stars in the all of the cosmos, grains of sand on all the beaches and even the number of the hairs on your head? But he is not the greatest calculator that can count really, really high.
 
@@ -48,11 +48,18 @@ But what if you don’t know God like this? What if this is all foreign to you? 
 
 Let the Almighty God take you into his strong arms as he begins to constantly, consistently, thoughtfully, and lovingly pray and intercede for you according His own will because he loves you.
 
-I pray that everyone who reads these words would know that God didn’t create you and left you behind. He didn’t save you and then distance from you. God didn’t rescue you and then be disconnected from you. No! He saved you, pulled you in close, whispers blessings into your ear, rejoices and sings over you in gladness![^2]
+I pray that everyone who reads these words would know that God didn’t create you and left you behind. He didn’t save you and then distance from you. God didn’t rescue you and then be disconnected from you. No! He saved you, pulled you in close, whispers blessings into your ear, rejoices and sings over you in gladness!
+
+>Hosea 2:14 (CSB) Therefore, I am going to persuade her,
+lead her to the wilderness,
+and speak tenderly to her.
+
+>Zephaniah 3:17 (CSB) The LORD your God is among you,
+a warrior who saves.
+He will rejoice over you with gladness.
+He will be quiet in his love.
+He will delight in you with singing.”
 
 Because he loves you.
 
 Oh, the mighty love of God be will with us all today and forever. Amen.
-
-[^1]: 1 Corinthians 1-3
-[^2]: Hosea 2:14; Zephaniah 3:17

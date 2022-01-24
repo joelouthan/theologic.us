@@ -192,11 +192,6 @@ Crossway. 2016.
 
 ___
 
-[Here is Love: Exposition on Romans 8](/series/here-is-love/)  
-Personal writing expounding on 1 John 4:11
-
-___
-
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
 by John Calvin.  
 Baker. 2009.

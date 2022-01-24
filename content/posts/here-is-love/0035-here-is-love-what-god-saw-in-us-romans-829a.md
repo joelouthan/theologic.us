@@ -16,11 +16,34 @@ draft: true
 
 There are many verses that can be used to aptly say what verse twenty-nine so succinctly and definitely says here. I can think of two passages:
 
-1 Peter 1:20–21 **He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.**
+>1 Peter 1:20-21 (CSB) He was foreknown before the foundation of the world but was revealed in these last times for you. Through him you believe in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.
 
-Ephesians 1:3–14 **Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth.**
+And.
 
-**In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.**
+>Ephesians 1:3–14 (CSB)  
+><sup> 3 </sup> Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. 
+
+><sup> 4 </sup> For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. 
+
+><sup> 5 </sup> He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, 
+
+><sup> 6 </sup> to the praise of his glorious grace that he lavished on us in the Beloved One. 
+
+><sup> 7 </sup> In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace 
+
+><sup> 8 </sup> that he richly poured out on us with all wisdom and understanding. 
+
+><sup> 9 </sup> He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ 
+
+><sup> 10 </sup> as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him. 
+
+><sup> 11 </sup> In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will, 
+
+><sup> 12 </sup> so that we who had already put our hope in Christ might bring praise to his glory. 
+
+><sup> 13 </sup> In him you also were sealed with the promised Holy Spirit when you heard the word of truth, the gospel of your salvation, and when you believed. 
+
+><sup> 14 </sup> The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
 
 In order to understand God and his love for his people, we can take this little verse, walk through it, and answer the following questions:
 
@@ -28,15 +51,17 @@ In order to understand God and his love for his people, we can take this little 
 
 We teach our kids the story on how God saved Noah:
 
-Genesis 6:5–9 **The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. And the LORD regretted that he had made man on the earth, and it grieved him to his heart. So the LORD said, “I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.” But Noah found favor in the eyes of the LORD.  These are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah walked with God.**
+>Genesis 6:5-9 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved. Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.” Noah, however, found favor with the LORD.
+God Warns Noah
+These are the family records of Noah. Noah was a righteous man, blameless among his contemporaries; Noah walked with God.
 
 And because of our philosophies born out of the world in which we live today, we surmised that it was Noah, first, that lived a righteous life and it was only then God saved Noah.
 
 But does that line up with any story of salvation that you ever heard in the Bible or is Paul correct when he says:
 
-Romans 5:8 **but God shows his love for us in that while we were still sinners, Christ died for us.**
+>Romans 5:6-9 (CSB) For while we were still helpless, at the right time, Christ died for the ungodly. For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. But God proves his own love for us in that while we were still sinners, Christ died for us. How much more then, since we have now been justified by his blood, will we be saved through him from wrath.
 
-Notice it doesn't say, "while we were really good" or "doing our very best, that Christ died for us."
+Notice it doesn't say,"while we were really good" or "doing our very best, that Christ died for us."
 
 Let’s go back and look at the passage and walk through it step by step:
 

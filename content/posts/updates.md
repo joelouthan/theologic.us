@@ -8,11 +8,15 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## Going back to one-a-days
+
+Trying to move and do two episodes a weekday proved to be too much. Relaunching on Easter week.
+
 ## Reverse order of post
 
 Newest on top. I am always working with the latest and greatest. So I decided to reverse the posts so I don't have to go hunting for it.
 
-As always catch us online at:
+## As always catch us online at:
 
 ### Live
 
