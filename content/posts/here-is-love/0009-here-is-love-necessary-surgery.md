@@ -11,7 +11,7 @@ tags:
 series:
   - 'Here is Love'
 showtoc: false
-draft: false
+draft: true
 ---
 **This is the good news for all time**: that Jesus Christ has come to make all things right-standing with Him.[^1]
 
