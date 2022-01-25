@@ -27,30 +27,58 @@ draft: true
 
 ## The Devotion
 
+Is this passage about patriotism, nationalism, politics, or taxes? No.
 
+What this passage exposes the hardness of the hearts of unbelievers towards God.
+
+They were so harden at the heart that they thought themselves to be wise, the became fools in trying to test the Almighty God:
+
+>Romans 1:21-23 (CSB) For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. Claiming to be wise, they became fools and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles.
+
+The terrible and tragic thing is that any of us can be so gripped by our own sin (the evil that we do) and idolatry (the thing that we think will make us whole and complete that is not God), that we are willing to do whatever it takes to stop any opposition:
+
+ - addiction to porn - destroy life, marriage, and family in order to keep your addiction
+ - addiction to power - lie, cheat, and steal to keep a hold of your feeble little powers
+ - addiction to safety - dogpile upon the laws of God in order to keep us "safe" from harm--but only produces self-righteousness which is an abomination in the sight of God.
+
+In our sin, we will go as far as trying to kill the Son of God.
+
+But here's the kick: he has already died--never to die again.
+
+>Hebrews 7:27 (CSB) He doesn’t need to offer sacrifices every day, as high priests do—first for their own sins, then for those of the people. He did this once for all time when he offered himself.
+
+And.
+
+>Hebrews 9:27-28 (CSB) And just as it is appointed for people to die once—and after this, judgment— so also Christ, having been offered once to bear the sins of many, will appear a second time, not to bear sin, but to bring salvation to those who are waiting for him.
+
+When we sin, we exchange God for something not God. When Christ came to save his people from their sins, he exchanged our pride, our sin, our idolatry, our stupidity, our ignorance, our foolishness, our wickedness for glorious, majestic, loving, grace and mercy--Jesus Christ, Son of God who is God.
+
+For those who believe and trust in Christ, our sin now belongs to Him--because He is our King and Lord and everything that we have is His. We gave our sin over to Him, now we belong to him forever.
+
+Christ was commanding the Pharisees and the scribes the same command to you, me, and the rest of the world: repent of sins, trust in Him.
 
 ## The Discussion
 
 ```text
-1. 
+1. How deep does the hardness of heart goes? 
 ```
 
 ```text
-2. 
+2. Is there any hope for a hard heart?
 ```
 
 ```text
-3. 
+3. Think about the Pharaoh in Exodus and read Romans 9. How did God harden the heart of Pharoah?
 ```
 
 ```text
-4. 
+4. Is the gospel the same for the Pharaoh, the Pharisees, the scribes, for you and for me?
 ```
 
 ## The Prayer from the Psalms
 
 >Psalm 15 (CSB)  
->   A psalm of David. 
+> A psalm of David. 
 
 ><sup> 1 </sup> LORD, who can dwell in your tent? Who can live on your holy mountain? 
 

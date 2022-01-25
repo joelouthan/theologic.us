@@ -37,24 +37,62 @@ draft: true
 
 ## The Devotion
 
+If you want to drill down and make this about whether we are still married in heaven with God, then you would be sadly mistaken.
 
+Take a look at the passage once more:
+
+>Sadducees, who say there is no resurrection, came to him and questioned him: 
+
+And.
+
+>In the resurrection, when they rise, whose wife will she be, since the seven had married her?” 
+
+These Sadducees had no intentions of giving their hearts over to the only God who saves. They spoke to God disbelieving and doubting that God would resurrect his people from the dead:
+
+>James 1:5-8 (CSB) Now if any of you lacks wisdom, he should ask God—who gives to all generously and ungrudgingly—and it will be given to him. But let him ask in faith without doubting. For the doubter is like the surging sea, driven and tossed by the wind. That person should not expect to receive anything from the Lord, being double-minded and unstable in all his ways.
+
+How many times we have approached the throne of grace as double-minded hypocrites?
+
+Not as sinners but righteous.
+
+Not as sick but healthy.
+
+Not as poor but wealthy.
+
+When we don't think we need anything from God, how many of us actual go to God.
+
+But what if you knew you were in dire need of what only God can give:
+
+Mercy. Grace. Love. Affection. Wisdom. Intercession. Life. Eternal. Holiness. Righteousness.
+
+We need the kingdom of God.
+
+We need God. We need Christ. We need the Holy Spirit.
+
+Don't believe in the resurrection? Make sense since you need to born again in order to believe and trust God. Then you will know the power of the resurrection because it starts with Jesus Christ who in his resurrection championed over our sin, and all of sin, hell, demons, Satan, and death.
+
+Christ lived because we sinned.
+
+Christ died so that we will live forever.
+
+Christ resurrected so we can be born again.
 
 ## The Discussion
 
 ```text
-1. 
+1. How honest are you with your feelings when you approach God in your prayers?
 ```
 
 ```text
-2. 
+2. How honest are you with your feelings if you feel like God was the one who hurt you?
 ```
 
 ```text
-3. 
+3. Do you even go to God with that type of hurt?
 ```
 
 ```text
-4. 
+4. What is God wanting from you that only you can give?
 ```
 
 ## The Prayer from the Psalms

@@ -1,5 +1,5 @@
 ---
-title: "0162📺 Home Devotions: Mark 10:13-16 God Alone Receives the Fatherless"
+title: "0161📺 Home Devotions: Mark 10:13-16 God Alone Receives the Fatherless"
 author: Joseph Louthan
 publishDate: 2022-01-05T06:00:00-06:00
 url: /home-devotions/2022-01-05-home-devos-mark/

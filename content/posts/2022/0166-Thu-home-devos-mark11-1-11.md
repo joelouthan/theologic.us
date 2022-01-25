@@ -1,5 +1,5 @@
 ---
-title: "0174📺 Home Devotions: Mark 11:1-11 So That We Might Live"
+title: "0166📺 Home Devotions: Mark 11:1-11 So That We Might Live"
 author: Joseph Louthan
 publishDate: 2022-01-13T06:00:00-06:00
 url: /home-devotions/2022-01-13-Thu-home-devos-mark/
