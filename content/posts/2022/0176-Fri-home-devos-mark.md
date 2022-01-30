@@ -1,8 +1,8 @@
 ---
-title: "Home Devotions: Mark 12:35-37 So That We Might Live and Be Glorified"
+title: "Home Devotions: Mark 12:38-40 So That We Might Live and Be In His Family Forever"
 author: Joseph Louthan
-publishDate: 2022-02-01T06:00:00-06:00
-url: /home-devos/2022-02-01-Tue-home-devos-mark/
+publishDate: 2022-02-04T06:00:00-06:00
+url: /home-devos/2022-02-04-Fri-home-devos-mark/
 categories:
   - Home Devotions
 tags:
@@ -15,11 +15,11 @@ draft: true
 ---
 ## The Text
 
-><sup> 35 </sup> While Jesus was teaching in the temple, he asked, “How can the scribes say that the Messiah is the son of David? 
+><sup> 38 </sup> He also said in his teaching, “Beware of the scribes, who want to go around in long robes and who want greetings in the marketplaces, 
 
-><sup> 36 </sup> David himself says by the Holy Spirit: The Lord declared to my Lord, ‘Sit at my right hand until I put your enemies under your feet.’ 
+><sup> 39 </sup> the best seats in the synagogues, and the places of honor at banquets. 
 
-><sup> 37 </sup> David himself calls him ‘Lord.’ How, then, can he be his son?” And the large crowd was listening to him with delight.
+><sup> 40 </sup> They devour widows’ houses and say long prayers just for show. These will receive harsher judgment.” 
 
 ## The Devotion
 

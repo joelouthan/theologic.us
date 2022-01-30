@@ -1,8 +1,8 @@
 ---
-title: "Home Devotions: Mark 12:28-34 So That We Might Live and Love Him and Others"
+title: "Home Devotions: Mark 12:28-34 So That We Might Live and Love Him and Love Others"
 author: Joseph Louthan
-publishDate: 2022-01-31T06:00:00-06:00
-url: /home-devos/2022-01-31-Mon-home-devos-mark/
+publishDate: 2022-02-02T06:00:00-06:00
+url: /home-devos/2022-02-02-Wed-home-devos-mark/
 categories:
   - Home Devotions
 tags:

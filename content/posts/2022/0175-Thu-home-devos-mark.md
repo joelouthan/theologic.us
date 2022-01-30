@@ -1,8 +1,8 @@
 ---
-title: "Home Devotions: Mark 13:1-2 What Does Christ Want? Our Sin"
+title: "Home Devotions: Mark 12:35-37 So That We Might Live and Be Glorified"
 author: Joseph Louthan
-publishDate: 2022-02-04T06:00:00-06:00
-url: /home-devos/2022-02-04-Fri-home-devos-mark/
+publishDate: 2022-02-03T06:00:00-06:00
+url: /home-devos/2022-02-03-Thu-home-devos-mark/
 categories:
   - Home Devotions
 tags:
@@ -15,9 +15,11 @@ draft: true
 ---
 ## The Text
 
-><sup> 1 </sup> As he was going out of the temple, one of his disciples said to him, “Teacher, look! What massive stones! What impressive buildings!” 
+><sup> 35 </sup> While Jesus was teaching in the temple, he asked, “How can the scribes say that the Messiah is the son of David? 
 
-><sup> 2 </sup> Jesus said to him, “Do you see these great buildings? Not one stone will be left upon another—all will be thrown down.”
+><sup> 36 </sup> David himself says by the Holy Spirit: The Lord declared to my Lord, ‘Sit at my right hand until I put your enemies under your feet.’ 
+
+><sup> 37 </sup> David himself calls him ‘Lord.’ How, then, can he be his son?” And the large crowd was listening to him with delight.
 
 ## The Devotion
 
