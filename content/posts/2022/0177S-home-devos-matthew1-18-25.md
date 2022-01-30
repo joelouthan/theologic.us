@@ -1,8 +1,8 @@
 ---
-title: "Home Devotions: Matthew 1:1-"
+title: "Home Devotions: Matthew 1:7–12 Jesus Christ is Our Lineage"
 author: Joseph Louthan
-publishDate: 2022-01-29T06:00:00-06:00
-url: /home-devos/2022-01-29-home-devos-matthew/
+publishDate: 2022-02-05T06:00:00-06:00
+url: /home-devos/2022-02-05-home-devos-matthew/
 categories:
   - Home Devotions
 tags:
@@ -14,6 +14,19 @@ css: "prayers"
 draft: true
 ---
 ## The Text
+
+>Matthew 1:7–12 (CSB)  
+> 7  Solomon fathered Rehoboam, Rehoboam fathered Abijah, Abijah fathered Asa, 
+
+> 8  Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, Joram fathered Uzziah, 
+
+> 9  Uzziah fathered Jotham, Jotham fathered Ahaz, Ahaz fathered Hezekiah, 
+
+> 10  Hezekiah fathered Manasseh, Manasseh fathered Amon, Amon fathered Josiah, 
+
+> 11  and Josiah fathered Jeconiah and his brothers at the time of the exile to Babylon. 
+
+> 12  After the exile to Babylon Jeconiah fathered Shealtiel, Shealtiel fathered Zerubbabel,
 
 
 
