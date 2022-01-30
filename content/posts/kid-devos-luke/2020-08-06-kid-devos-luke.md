@@ -13,6 +13,11 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
+
 ## To Respond with Faith
 
 Luke 7:1–10 (CSB) When he had concluded saying all this to the people who were listening, he entered Capernaum. A centurion’s servant, who was highly valued by him, was sick and about to die. When the centurion heard about Jesus, he sent some Jewish elders to him, requesting him to come and save the life of his servant. When they reached Jesus, they pleaded with him earnestly, saying, “He is worthy for you to grant this, because he loves our nation and has built us a synagogue.”
@@ -27,7 +32,11 @@ Why do you think that Christ was amazed at the centurion's faith?
 If God says he will do it, won't he do it?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## To Respond with Obedience
 
@@ -37,7 +46,11 @@ Luke 7:11–17 (CSB) Afterward he was on his way to a town called Nain. His disc
 If God doesn't give us a new heart and new life, can we even obey God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## To Respond with Attention
 
@@ -61,7 +74,11 @@ I tell you, among those born of women no one is greater than John, but the least
 How should we respond to prophets? Should we take them at their word or is there a way for us to check what they are saying?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Yet, We Reject Him
 
@@ -73,7 +90,11 @@ Why would anybody reject God?
 Why would you reject God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Yet, We Accuse Him
 
@@ -92,7 +113,11 @@ Is coming to God with an honest heart and feelings the same as accusing him of e
 How does God respond to our cries?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Yet, Our First Response
 

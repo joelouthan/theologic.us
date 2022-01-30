@@ -13,6 +13,11 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
+
 ## Christ Gives Provision
 
 >Luke 16:1-13 (CSB) Now he said to the disciples, “There was a rich man who received an accusation that his manager was squandering his possessions. So he called the manager in and asked, ‘What is this I hear about you? Give an account of your management, because you can no longer be my manager.’
@@ -47,6 +52,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Gives the Good News
 
 >Luke 16:14-18 (CSB) The Pharisees, who were lovers of money, were listening to all these things and scoffing at him. And he told them, “You are the ones who justify yourselves in the sight of others, but God knows your hearts. For what is highly admired by people is revolting in God’s sight.
@@ -66,6 +75,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Gives Eternal Life
 
@@ -93,6 +106,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Gives Repentance
 
 >Luke 17:1-4 (CSB) He said to his disciples, “Offenses will certainly come, but woe to the one through whom they come! It would be better for him if a millstone were hung around his neck and he were thrown into the sea than for him to cause one of these little ones to stumble. Be on your guard. If your brother sins, rebuke him, and if he repents, forgive him. And if he sins against you seven times in a day, and comes back to you seven times, saying, ‘I repent,’ you must forgive him.”
@@ -106,6 +123,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Gives Faith
 
@@ -122,6 +143,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Gives Mercy
 
@@ -140,6 +165,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Gives Himself
 

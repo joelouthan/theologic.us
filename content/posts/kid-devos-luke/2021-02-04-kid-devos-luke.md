@@ -13,6 +13,11 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
+
 ## Christ Invites Us to Harvest
 
 Luke 10:1–12 (CSB) After this, the Lord appointed seventy-two others, and he sent them ahead of him in pairs to every town and place where he himself was about to go. He told them, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest. Now go; I’m sending you out like lambs among wolves. Don’t carry a money-bag, traveling bag, or sandals; don’t greet anyone along the road. Whatever house you enter, first say, ‘Peace to this household.’ If a person of peace is there, your peace will rest on him; but if not, it will return to you. Remain in the same house, eating and drinking what they offer, for the worker is worthy of his wages. Don’t move from house to house. When you enter any town, and they welcome you, eat the things set before you. Heal the sick who are there, and tell them, ‘The kingdom of God has come near you.’ When you enter any town, and they don’t welcome you, go out into its streets and say, ‘We are wiping off even the dust of your town that clings to our feet as a witness against you. Know this for certain: The kingdom of God has come near.’ I tell you, on that day it will be more tolerable for Sodom than for that town.
@@ -21,7 +26,11 @@ Luke 10:1–12 (CSB) After this, the Lord appointed seventy-two others, and he s
 If you talk about God with people, will everybody agree with you? Will everybody choose God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to Be Rejected
 
@@ -31,7 +40,11 @@ Luke 10:13–16 (CSB) “Woe to you, Chorazin! Woe to you, Bethsaida! For if the
 Why is the preaching of the gospel so powerful?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to Live
 
@@ -47,7 +60,11 @@ Name some other things that the world and Satan has tempted you to get more of? 
 What does God say?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to See
 
@@ -63,7 +80,11 @@ Can unbelievers see these same things as well?
 How can an unbeliever see the kingdom of God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to Separate
 
@@ -93,7 +114,11 @@ Who is our neighbor?
 Reading Ephesians 6:12. Can anybody be our enemy? Why or why not?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to Be With God
 
@@ -109,7 +134,11 @@ Can we do enough to be saved by God?
 How can we be saved?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to Talk to God
 
@@ -121,7 +150,11 @@ How can we be saved?
 2. According to how Jesus taught us to pray, how are we different from the angels in our worship to God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Invites Us to Ask For God
 

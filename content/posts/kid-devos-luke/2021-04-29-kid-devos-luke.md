@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## By The Spirit, Christ Lives
 
 >Luke 24:1-8 (CSB) On the first day of the week, very early in the morning, they came to the tomb, bringing the spices they had prepared. They found the stone rolled away from the tomb. They went in but did not find the body of the Lord Jesus. While they were perplexed about this, suddenly two men stood by them in dazzling clothes. So the women were terrified and bowed down to the ground.
@@ -27,6 +32,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## By the Spirit, We Are Fully Alive
 
@@ -61,6 +70,10 @@ draft: false
 >Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## By The Spirit, We Truly Know God
 
@@ -101,6 +114,10 @@ draft: false
 >“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## By The Spirit, We Now Worship God
 

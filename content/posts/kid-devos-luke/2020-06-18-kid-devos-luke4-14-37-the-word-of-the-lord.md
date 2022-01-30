@@ -13,6 +13,10 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## The Word of the Lord is Power
 
 Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, and news about him spread throughout the entire vicinity.  He was teaching in their synagogues, being praised by everyone.
@@ -21,7 +25,11 @@ Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, 
 How can we share the gospel and teach the Bible like Jesus?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Word of the Lord Has Been Fulfilled
 
@@ -47,7 +55,11 @@ What is the Old Testament really about?
 Name the ways in which Christ fulfilled the Old Testament?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Word of the Lord Cuts to the Heart
 
@@ -61,7 +73,11 @@ Matthew 13:18–23 (CSB) “So listen to the parable of the sower:  When anyone 
 If we proclaim the good news to others, what should we expect to happen?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Word of the Lord Cleanses Us From All Unrighteousness
 

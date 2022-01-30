@@ -13,6 +13,10 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Jesus Rests
 
 >Luke 6:1-5 (CSB) On a Sabbath, he passed through the grainfields. His disciples were picking heads of grain, rubbing them in their hands, and eating them. But some of the Pharisees said, “Why are you doing what is not lawful on the Sabbath?”
@@ -31,7 +35,11 @@ If God commands us to take a day of rest, what do you think your other days of t
 What is your favorite way to rest and have fun?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Jesus Heals
 
@@ -43,7 +51,11 @@ What is your favorite way to rest and have fun?
 2. Can we do good things while we rest?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Jesus Prays
 
@@ -61,7 +73,11 @@ How can you pray all the time? Is that even possible?
 How can you talk to God all the time? How do you talk to your dad, mom, sister, brother, cousin, best friend all the time?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Jesus Calls
 
@@ -79,7 +95,11 @@ Why would Jesus choose any of us? Is it because we were good or because we were 
 
 >Romans 5:8 (CSB) But God proves his own love for us in that while we were still sinners, Christ died for us.
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Jesus Makes New
 

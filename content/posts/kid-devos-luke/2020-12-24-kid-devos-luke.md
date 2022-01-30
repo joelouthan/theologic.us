@@ -13,6 +13,11 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
+
 ## Christ Calls Us Out From Under Darkness
 
 Luke 8:1-3 (CSB) Afterward he was traveling from one town and village to another, preaching and telling the good news of the kingdom of God. The Twelve were with him,and also some women who had been healed of evil spirits and sicknesses: Mary, called Magdalene (seven demons had come out of her);Joanna the wife of Chuza, Herod’s steward; Susanna; and many others who were supporting them from their possessions.
@@ -22,6 +27,10 @@ If God did nothing, could we ever know God?
 ```
 
 -----
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us With the Gospel
 
@@ -47,6 +56,10 @@ Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power
 
 -----
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Calls Us By Giving Us New Hearts
 
 Luke 8:9-15 (CSB) Then his disciples asked him, “What does this parable mean?”So he said, “The secrets of the kingdom of God have been given for you to know, but to the rest it is in parables, so that
@@ -63,6 +76,10 @@ Ezekiel 36:25-27 (CSB) I will also sprinkle clean water on you, and you will be 
 
 -----
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Calls Us By Shining Into the Darkness
 
 Luke 8:16-18 (CSB) “No one, after lighting a lamp, covers it with a basket or puts it under a bed, but puts it on a lampstand so that those who come in may see its light.For nothing is concealed that won’t be revealed, and nothing hidden that won’t be made known and brought to light.Therefore take care how you listen. For whoever has, more will be given to him; and whoever does not have, even what he thinks he has will be taken away from him.”
@@ -74,6 +91,10 @@ What happened when Christ became Man?
 John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God.He was with God in the beginning.All things were created through him, and apart from him not one thing was created that has been created.In him was life, and that life was the light of men.That light shines in the darkness, and yet the darkness did not overcome it.
 
 -----
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us To Be Co-Heirs
 
@@ -87,6 +108,10 @@ If you believe and trust in Christ, then who is our Oldest Brother?
 Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons.For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!”The Spirit himself testifies together with our spirit that we are God’s children,and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
 -----
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us While We Are in the World 
 
@@ -106,6 +131,10 @@ Does anybody in this world have the same power as God? Does anybody else even co
 
 -----
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Calls Us While We Are Under Attack
 Luke 8:26-39 (CSB) Then they sailed to the region of the Gerasenes, which is opposite Galilee.When he got out on land, a demon-possessed man from the town met him. For a long time he had worn no clothes and did not stay in a house but in the tombs.When he saw Jesus, he cried out, fell down before him, and said in a loud voice, “What do you have to do with me, Jesus, Son of the Most High God? I beg you, don’t torment me!”For he had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was guarded, bound by chains and shackles, he would snap the restraints and be driven by the demon into deserted places.
 
@@ -122,6 +151,10 @@ Does Christ waits until we fix our lives before accepting us into His life?
 ```
 
 -----
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us Out of Disease and Death
 Luke 8:40-56 (CSB) When Jesus returned, the crowd welcomed him, for they were all expecting him.Just then, a man named Jairus came. He was a leader of the synagogue. He fell down at Jesus’s feet and pleaded with him to come to his house,because he had an only daughter about twelve years old, and she was dying.

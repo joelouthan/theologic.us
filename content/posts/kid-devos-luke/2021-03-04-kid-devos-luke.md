@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Came To Complete His Ministry
 
 >Luke 13:31-33 (CSB) At that time some Pharisees came and told him, “Go, get out of here. Herod wants to kill you.”
@@ -232,6 +237,10 @@ What is the cost of following Christ?
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Came to Find the Lost
 
 >Luke 15:1-7 (CSB) All the tax collectors and sinners were approaching to listen to him. And the Pharisees and scribes were complaining, “This man welcomes sinners and eats with them.”
@@ -273,6 +282,10 @@ What is the cost of following Christ?
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Came to Rejoice Over His People
 
 >Luke 15:8-10 (CSB) “Or what woman who has ten silver coins, if she loses one coin, does not light a lamp, sweep the house, and search carefully until she finds it? When she finds it, she calls her friends and neighbors together, saying, ‘Rejoice with me, because I have found the silver coin I lost!’ I tell you, in the same way, there is joy in the presence of God’s angels over one sinner who repents.”
@@ -307,6 +320,10 @@ What is the cost of following Christ?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Came to Save Us
 

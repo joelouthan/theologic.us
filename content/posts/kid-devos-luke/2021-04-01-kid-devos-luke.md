@@ -13,6 +13,11 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
+
 ## Authority Over All
 
 >Luke 20:1-19 (CSB) One day as he was teaching the people in the temple and proclaiming the good news, the chief priests and the scribes, with the elders, came and said to him, “Tell us, by what authority are you doing these things? Who is it who gave you this authority?”
@@ -71,6 +76,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Authority Over Kings
 
 >Luke 20:20-26 (CSB) They watched closely and sent spies who pretended to be righteous, so that they could catch him in what he said, to hand him over to the governor’s rule and authority. They questioned him, “Teacher, we know that you speak and teach correctly, and you don’t show partiality but teach truthfully the way of God. Is it lawful for us to pay taxes to Caesar or not?”
@@ -100,6 +109,10 @@ draft: false
 >Romans 13:1-7 (CSB) Let everyone submit to the governing authorities, since there is no authority except from God, and the authorities that exist are instituted by God. So then, the one who resists the authority is opposing God’s command, and those who oppose it will bring judgment on themselves. For rulers are not a terror to good conduct, but to bad. Do you want to be unafraid of the one in authority? Do what is good, and you will have its approval. For it is God’s servant for your good. But if you do wrong, be afraid, because it does not carry the sword for no reason. For it is God’s servant, an avenger that brings wrath on the one who does wrong. Therefore, you must submit, not only because of wrath but also because of your conscience. And for this reason you pay taxes, since the authorities are God’s servants, continually attending to these tasks. Pay your obligations to everyone: taxes to those you owe taxes, tolls to those you owe tolls, respect to those you owe respect, and honor to those you owe honor.
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Authority Over Death
 
@@ -145,6 +158,10 @@ If we are born but without the Spirit of God, are we really alive?
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Authority Over Israel
 
 >Luke 20:41-44 (CSB) Then he said to them, “How can they say that the Messiah is the son of David? For David himself says in the Book of Psalms:
@@ -165,6 +182,10 @@ If we are born but without the Spirit of God, are we really alive?
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Authority Over the Law
 
 >Luke 20:45-47 (CSB) While all the people were listening, he said to his disciples, “Beware of the scribes, who want to go around in long robes and who love greetings in the marketplaces, the best seats in the synagogues, and the places of honor at banquets. They devour widows’ houses and say long prayers just for show. These will receive harsher judgment.”
@@ -183,6 +204,10 @@ If we are born but without the Spirit of God, are we really alive?
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Authority Over all Provision
 
 >Luke 21:1-4 (CSB) He looked up and saw the rich dropping their offerings into the temple treasury. He also saw a poor widow dropping in two tiny coins. “Truly I tell you,” he said, “this poor widow has put in more than all of them. For all these people have put in gifts out of their surplus, but she out of her poverty has put in all she had to live on.”
@@ -194,6 +219,10 @@ If God provides everything to us, how much freedom do we have to give away what 
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Authority Over Faith
 
@@ -210,6 +239,10 @@ If God provides everything to us, how much freedom do we have to give away what 
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Authority Over Circumstances
 
@@ -232,6 +265,10 @@ Who is in charge over all the things that happen in the world?
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Authority Over Conflicts
 
 >Luke 21:20-24 (CSB) “When you see Jerusalem surrounded by armies, then recognize that its desolation has come near. Then those in Judea must flee to the mountains. Those inside the city must leave it, and those who are in the country must not enter it, because these are days of vengeance to fulfill all the things that are written. Woe to pregnant women and nursing mothers in those days, for there will be great distress in the land and wrath against this people. They will be killed by the sword and be led captive into all the nations, and Jerusalem will be trampled by the Gentiles until the times of the Gentiles are fulfilled.
@@ -250,6 +287,10 @@ Who dictates the wars and conflicts between people?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Authority Over the Cosmos
 
@@ -290,6 +331,10 @@ Who is in charge of space and time?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Authority Over Our Lives
 

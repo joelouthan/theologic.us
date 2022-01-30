@@ -12,6 +12,10 @@ series:
 css: "prayers"
 draft: false
 ---
+## Westminster Larger Catechism
+
+Q.
+
 ## The Lord Heals
 
 Luke 4:38–40 (CSB) After he left the synagogue, he entered Simon’s house. Simon’s mother-in-law was suffering from a high fever, and they asked him about her.  So he stood over her and rebuked the fever, and it left her. She got up immediately and began to serve them.  When the sun was setting, all those who had anyone sick with various diseases brought them to him. As he laid his hands on each one of them, he healed them.
@@ -22,7 +26,11 @@ Can we trust God to heal us if we are sick?
 In what ways does God heals us? What about doctors, nurses, medicine, or science? Are they from God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Lord Delivers
 
@@ -38,7 +46,11 @@ If we believe in Jesus, what evils are we being delivered from?
 Then what are being delivered to?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Lord Saves
 

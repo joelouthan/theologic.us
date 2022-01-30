@@ -13,6 +13,10 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ is Lord of All of Creation
 
 >Luke 5:1–7 (CSB) As the crowd was pressing in on Jesus to hear God’s word, he was standing by Lake Gennesaret.  He saw two boats at the edge of the lake; the fishermen had left them and were washing their nets.  He got into one of the boats, which belonged to Simon, and asked him to put out a little from the land. Then he sat down and was teaching the crowds from the boat.  When he had finished speaking, he said to Simon, “Put out into deep water and let down your nets for a catch.”  “Master,” Simon replied, “we’ve worked hard all night long and caught nothing. But if you say so, I’ll let down the nets.”  When they did this, they caught a great number of fish, and their nets began to tear.  So they signaled to their partners in the other boat to come and help them; they came and filled both boats so full that they began to sink.
@@ -27,7 +31,11 @@ Can God command animals?
 Can God control the weather?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Lord of Salvation
 
@@ -43,7 +51,11 @@ Can our sins and God exist together? Why or why not?
 What are the immediate and ultimate effects of sin? Can those effects happen in the same place as God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Lord of Our Bodies
 
@@ -53,7 +65,11 @@ What are the immediate and ultimate effects of sin? Can those effects happen in 
 Does the God who created us would be in charge over us? Why or why not?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Lord of Faith
 
@@ -73,7 +89,11 @@ Where does faith comes from?
 Is faith in God an ultimate good thing?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Lord Who Forgives Sins
 
@@ -85,7 +105,11 @@ When you sin, do you run away from God or run to the God who forgives you and cl
 Why would this be such a difficult thing to do?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Lord of Work
 
@@ -97,7 +121,11 @@ What is success? What is happiness?
 What do you want to do in life? Have you ever asked God what he wants you to do with your life?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Lord of Righteousness
 
@@ -113,7 +141,11 @@ What does God sees when we try to do what is right in our own eyes?
 What can God do with our own righteousness?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is the Lord of the Church
 
@@ -133,7 +165,11 @@ What will be the result of Christ's work in us?
 
 Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multitude, like the sound of cascading waters, and like the rumbling of loud thunder, saying, Hallelujah, because our Lord God, the Almighty, reigns!  Let us be glad, rejoice, and give him glory, because the marriage of the Lamb has come, and his bride has prepared herself.  She was given fine linen to wear, bright and pure. For the fine linen represents the righteous acts of the saints.  Then he said to me, “Write: Blessed are those invited to the marriage feast of the Lamb!” He also said to me, “These words of God are true.”  Then I fell at his feet to worship him, but he said to me, “Don’t do that! I am a fellow servant with you and your brothers and sisters who hold firmly to the testimony of Jesus. Worship God, because the testimony of Jesus is the spirit of prophecy.”
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is the Lord of the Law
 
@@ -155,6 +191,12 @@ Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multi
 
 >Romans 8:3-4 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
 
+---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## The law of God is enough--it is perfect and good and true and wise
 
 >Psalms 19:7-10 (CSB)  
@@ -174,6 +216,12 @@ Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multi
 >than an abundance of pure gold;  
 >and sweeter than honey  
 >dripping from a honeycomb.
+
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Know the word of God and draw close to him
 

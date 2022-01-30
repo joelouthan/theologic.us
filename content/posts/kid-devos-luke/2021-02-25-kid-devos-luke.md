@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## In Our Faithlessness, Christ Our Grace
 
 >Luke 13:6-9 (CSB) And he told this parable: “A man had a fig tree that was planted in his vineyard. He came looking for fruit on it and found none. He told the vineyard worker, ‘Listen, for three years I have come looking for fruit on this fig tree and haven’t found any. Cut it down! Why should it even waste the soil?’
@@ -74,6 +79,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## In Our Lives, Life & Death, Christ Our Grace
 
 >Luke 13:10-17 (CSB) As he was teaching in one of the synagogues on the Sabbath, a woman was there who had been disabled by a spirit for over eighteen years. She was bent over and could not straighten up at all. When Jesus saw her, he called out to her, “Woman, you are free of your disability.” Then he laid his hands on her, and instantly she was restored and began to glorify God.  
@@ -112,6 +121,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## In His Kingdom, Christ Our Grace
 
 >Luke 13:18-21 (CSB) He said, therefore, “What is the kingdom of God like, and what can I compare it to? It’s like a mustard seed that a man took and sowed in his garden. It grew and became a tree, and the birds of the sky nested in its branches.”
@@ -141,6 +154,10 @@ What does God promise to do with His church?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## In Our Salvation, Christ Our Grace
 

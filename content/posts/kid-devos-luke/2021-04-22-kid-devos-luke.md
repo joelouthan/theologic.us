@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Died
 
 >Luke 23:44-49 (CSB) It was now about noon, and darkness came over the whole land until three, because the sun’s light failed. The curtain of the sanctuary was split down the middle. And Jesus called out with a loud voice, “Father, into your hands I entrust my spirit.” Saying this, he breathed his last.
@@ -32,6 +37,10 @@ draft: false
 >1 Corinthians 1:20-25 (CSB) Where is the one who is wise? Where is the teacher of the law? Where is the debater of this age? Hasn’t God made the world’s wisdom foolish? For since, in God’s wisdom, the world did not know God through wisdom, God was pleased to save those who believe through the foolishness of what is preached. For the Jews ask for signs and the Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles. Yet to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God, because God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength.
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Buried
 

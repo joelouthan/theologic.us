@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 >Luke 1:8–10 (CSB) When his division was on duty and he was serving as priest before God,  it happened that he was chosen by lot, according to the custom of the priesthood, to enter the sanctuary of the Lord and burn incense.  At the hour of incense the whole assembly of the people was praying outside.
 
 >1 Corinthians 7:24 So, brothers, in whatever condition each was called, there let him remain with God.

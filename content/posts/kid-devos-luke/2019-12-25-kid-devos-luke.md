@@ -13,6 +13,10 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 <pre>
   <b>Luke 1:46–55 (CSB)
   And Mary said: 
@@ -42,17 +46,17 @@ draft: false
 
 </pre>
 
-Revelations 15:3-4 And they sing the song of Moses, the servant of God, and the song of the Lamb, saying,  
-“Great and amazing are your deeds,  
-      O Lord God the Almighty!  
-      Just and true are your ways,  
-      O King of the nations!  
-      Who will not fear, O Lord,  
-      and glorify your name?  
-      For you alone are holy.  
-      All nations will come  
-      and worship you,  
-      for your righteous acts have been revealed."
+>Revelations 15:3-4 And they sing the song of Moses, the servant of God, and the song of the Lamb, saying,  
+>“Great and amazing are your deeds,  
+>      O Lord God the Almighty!  
+>      Just and true are your ways,  
+>      O King of the nations!  
+>      Who will not fear, O Lord,  
+>      and glorify your name?  
+>      For you alone are holy.  
+>      All nations will come  
+>      and worship you,  
+>      for your righteous acts have been revealed."
 
 Adam and Eve?
 
@@ -62,10 +66,26 @@ Paul?
 
 Nebuchadnezzar?
 
-Daniel 4:28–35 All this came upon King Nebuchadnezzar. At the end of twelve months he was walking on the roof of the royal palace of Babylon, and the king answered and said, “Is not this great Babylon, which I have built by my mighty power as a royal residence and for the glory of my majesty?” While the words were still in the king’s mouth, there fell a voice from heaven, “O King Nebuchadnezzar, to you it is spoken: The kingdom has departed from you, and you shall be driven from among men, and your dwelling shall be with the beasts of the field. And you shall be made to eat grass like an ox, and seven periods of time shall pass over you, until you know that the Most High rules the kingdom of men and gives it to whom he will.” Immediately the word was fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles’ feathers, and his nails were like birds’ claws.
+>Daniel 4:28-35 (CSB) All this happened to King Nebuchadnezzar. At the end of twelve months, as he was walking on the roof of the royal palace in Babylon, the king exclaimed, “Is this not Babylon the Great that I have built to be a royal residence by my vast power and for my majestic glory?”
+>
+>While the words were still in the king’s mouth, a voice came from heaven: “King Nebuchadnezzar, to you it is declared that the kingdom has departed from you. You will be driven away from people to live with the wild animals, and you will feed on grass like cattle for seven periods of time, until you acknowledge that the Most High is ruler over human kingdoms, and he gives them to anyone he wants.”
+>
+>At that moment the message against Nebuchadnezzar was fulfilled. He was driven away from people. He ate grass like cattle, and his body was drenched with dew from the sky, until his hair grew like eagles’ feathers and his nails like birds’ claws.
+>
+>But at the end of those days, I, Nebuchadnezzar, looked up to heaven, and my sanity returned to me. Then I praised the Most High and honored and glorified him who lives forever:
+>For his dominion is an everlasting dominion,  
+>and his kingdom is from generation to generation.  
+>All the inhabitants of the earth are counted as nothing,  
+>and he does what he wants with the army of heaven  
+>and the inhabitants of the earth.  
+>There is no one who can block his hand  
+>or say to him, “What have you done?”
 
 <pre>
 <div style="font-variant: small-caps;">My Only Redeemer</div>
+
 Who is like you, God?
 
-Daniel 5:18–22 (ESV) O king, the Most High God gave Nebuchadnezzar your father kingship and greatness and glory and majesty. And because of the greatness that he gave him, all peoples, nations, and languages trembled and feared before him. Whom he would, he killed, and whom he would, he kept alive; whom he would, he raised up, and whom he would, he humbled. But when his heart was lifted up and his spirit was hardened so that he dealt proudly, he was brought down from his kingly throne, and his glory was taken from him. He was driven from among the children of mankind, and his mind was made like that of a beast, and his dwelling was with the wild donkeys. He was fed grass like an ox, and his body was wet with the dew of heaven, until he knew that the Most High God rules the kingdom of mankind and sets over it whom he will. And you his son, Belshazzar, have not humbled your heart, though you knew all this,
+>Daniel 5:18-22 (CSB) Your Majesty, the Most High God gave sovereignty, greatness, glory, and majesty to your predecessor Nebuchadnezzar. Because of the greatness he gave him, all peoples, nations, and languages were terrified and fearful of him. He killed anyone he wanted and kept alive anyone he wanted; he exalted anyone he wanted and humbled anyone he wanted. But when his heart was exalted and his spirit became arrogant, he was deposed from his royal throne and his glory was taken from him. He was driven away from people, his mind was like an animal’s, he lived with the wild donkeys, he was fed grass like cattle, and his body was drenched with dew from the sky until he acknowledged that the Most High God is ruler over human kingdoms and sets anyone he wants over them.
+>
+>“But you his successor, Belshazzar, have not humbled your heart, even though you knew all this.

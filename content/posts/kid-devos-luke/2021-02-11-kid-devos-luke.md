@@ -13,11 +13,20 @@ css: "prayers"
 draft: false
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
+
 ## First Read
 
 >Romans 8:5–11 (CSB) For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit.  Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace.  The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so.  Those who are in the flesh cannot please God.  You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him.  Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness.  And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## You Are Either For God or Against God
 
@@ -35,7 +44,11 @@ draft: false
 5. Who is the "one stronger than he" who "attacks and overpowers" the fully armed strong man?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Either God Dwells In You or He Does Not
 
@@ -47,7 +60,11 @@ draft: false
 2. What else does God do for those who come to trust and obey Him?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Either You Hear From God or You Hear From the World
 
@@ -65,7 +82,11 @@ draft: false
 
 >1 John 1:5–10 (CSB) This is the message we have heard from him and declare to you: God is light, and there is absolutely no darkness in him.  If we say, “We have fellowship with him,” and yet we walk in darkness, we are lying and are not practicing the truth.  If we walk in the light as he himself is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.  If we say, “We have no sin,” we are deceiving ourselves, and the truth is not in us.  If we confess our sins, he is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.  If we say, “We have not sinned,” we make him a liar, and his word is not in us.
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Either the Light of God Shines Within You or Darkness Consumes You
 
@@ -77,7 +98,11 @@ draft: false
 
 >John 1:1–5 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God.  He was with God in the beginning.  All things were created through him, and apart from him not one thing was created that has been created.  In him was life, and that life was the light of men.  That light shines in the darkness, and yet the darkness did not overcome it.
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## You Are Either Righteous or Unrighteous
 
@@ -107,7 +132,11 @@ draft: false
 3. What happens when we come to God as sinners?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Either You Look Like Christ or You Will Be Humbled
 
@@ -148,7 +177,11 @@ draft: false
 5. How does God view our confessions of sin?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Either You Fear God or You Fear Man
 
@@ -160,7 +193,11 @@ draft: false
 2. Why should we care?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Either God Saves You or Condemns You
 

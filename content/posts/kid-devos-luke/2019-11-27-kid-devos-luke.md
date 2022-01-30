@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 >Luke 1:11–17 (CSB) An angel of the Lord appeared to him, standing to the right of the altar of incense.  When Zechariah saw him, he was terrified and overcome with fear.  But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you will name him John.  There will be joy and delight for you, and many will rejoice at his birth.  For he will be great in the sight of the Lord and will never drink wine or beer. He will be filled with the Holy Spirit while still in his mother’s womb.  He will turn many of the children of Israel to the Lord their God.  And he will go before him in the spirit and power of Elijah, to turn the hearts of fathers to their children, and the disobedient to the understanding of the righteous, to make ready for the Lord a prepared people.” 
 
 Malachi 4:1–6 (ESV) “For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch. But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall. And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts. “Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel. “Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes. And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”

@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ is Just
 
 >Luke 18:1-8 (CSB) Now he told them a parable on the need for them to pray always and not give up. “There was a judge in a certain town who didn’t fear God or respect people. And a widow in that town kept coming to him, saying, ‘Give me justice against my adversary.’
@@ -33,6 +38,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Righteous
 
@@ -56,6 +65,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ is the Source of our Faith
 
 >Luke 18:15-17 (CSB) People were bringing infants to him so that he might touch them, but when the disciples saw it, they rebuked them. Jesus, however, invited them: “Let the little children come to me, and don’t stop them, because the kingdom of God belongs to such as these. Truly I tell you, whoever does not receive the kingdom of God like a little child will never enter it.”
@@ -75,6 +88,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Life
 
@@ -114,6 +131,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ is Fulfillment
 
 >Luke 18:31-34 (CSB) Then he took the Twelve aside and told them, “See, we are going up to Jerusalem. Everything that is written through the prophets about the Son of Man will be accomplished. For he will be handed over to the Gentiles, and he will be mocked, insulted, spit on; and after they flog him, they will kill him, and he will rise on the third day.”
@@ -135,6 +156,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Mercy
 

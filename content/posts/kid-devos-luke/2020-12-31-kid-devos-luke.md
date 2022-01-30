@@ -13,7 +13,16 @@ css: "prayers"
 draft: false
 ---
 
-------
+## Westminster Larger Catechism
+
+Q.
+
+
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Proclaim
 
@@ -39,7 +48,11 @@ Acts 1:6–8 (CSB) So when they had come together, they asked him, “Lord, are 
 
 He said to them, “It is not for you to know times or periods that the Father has set by his own authority.  But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Call Us to Absolute Truth
 
@@ -51,7 +64,11 @@ Who is the Christ? Was John the Baptist the Christ?
 What does it mean to be the Christ?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Utterly Depend on Him
 
@@ -65,7 +82,11 @@ Where does our home, food, money, possessions come from?
 Where can we be more dependent on God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Worship God
 
@@ -77,7 +98,11 @@ Peter answered, “God’s Messiah.”
 What are we to do if Jesus is God? Should we pay attention to his words and his actions? Should we obey Him as God?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Give Up Sin
 
@@ -91,7 +116,11 @@ Why did Christ have to die?
 
 Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Take Up Our Cross
 
@@ -101,7 +130,11 @@ Luke 9:23–27 (CSB) Then he said to them all, “If anyone wants to follow afte
 What does it mean to take up our cross?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Glory
 
@@ -119,7 +152,11 @@ Romans 8:30 (CSB) And those he predestined, he also called; and those he called,
 If we are predestined, called, and justified in the sight of God, what does it mean when God promises to 'glorify' us?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Freedom
 
@@ -135,7 +172,11 @@ Romans 8:20–21 (CSB) For the creation was subjected to futility—not willingl
 What does it mean to be truly free if we are in Christ?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Believe
 
@@ -149,7 +190,11 @@ From that moment many of his disciples turned back and no longer accompanied him
 Christ has hard sayings.  How can we believe His words?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Our Proper Place
 
@@ -167,7 +212,11 @@ Is the opposite of humility a sin?
 Why does God oppose the proud?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Unity
 
@@ -185,7 +234,11 @@ If all churches believe in the same Christ, why do they do things different from
 If other people believe and obey Christ, can they ever be our enemies? Are they our friends or are they more than that? What does God call them?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Grace
 
@@ -195,7 +248,11 @@ Luke 9:51–56 (CSB) When the days were coming to a close for him to be taken up
 When people refuse to believe and even reject the God's good news, how do we respond?
 ```
 
-------
+---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Calls Us to Follow Him
 

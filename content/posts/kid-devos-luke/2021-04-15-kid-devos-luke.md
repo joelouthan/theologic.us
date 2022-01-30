@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Crucified
 
 >Luke 23:26-31 (CSB) As they led him away, they seized Simon, a Cyrenian, who was coming in from the country, and laid the cross on him to carry behind Jesus. A large crowd of people followed him, including women who were mourning and lamenting him. But turning to them, Jesus said, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and your children. Look, the days are coming when they will say, ‘Blessed are the women without children, the wombs that never bore, and the breasts that never nursed!’ Then they will begin to say to the mountains, ‘Fall on us!’ and to the hills, ‘Cover us!’ For if they do these things when the wood is green, what will happen when it is dry?”

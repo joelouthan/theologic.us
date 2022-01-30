@@ -12,6 +12,11 @@ series:
 css: "prayers"
 draft: false
 ---
+
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Planned For His Death
 
 >Luke 22:1-6 (CSB) The Festival of Unleavened Bread, which is called Passover, was approaching. The chief priests and the scribes were looking for a way to put him to death, because they were afraid of the people.
@@ -25,6 +30,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Prepared For His Death
 
@@ -54,6 +63,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ Called Us to His Death
 
 >Luke 22:24-30 (CSB) Then a dispute also arose among them about who should be considered the greatest. But he said to them, “The kings of the Gentiles lord it over them, and those who have authority over them have themselves called ‘Benefactors.’ It is not to be like that among you. On the contrary, whoever is greatest among you should become like the youngest, and whoever leads, like the one serving. For who is greater, the one at the table or the one serving? Isn’t it the one at the table? But I am among you as the one who serves. You are those who stood by me in my trials. I bestow on you a kingdom, just as my Father bestowed one on me, so that you may eat and drink at my table in my kingdom. And you will sit on thrones judging the twelve tribes of Israel.
@@ -69,6 +82,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ Will Be Denied in His Death
 
@@ -89,6 +106,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Our Sin in His Death
 
@@ -116,6 +137,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ is Betrayed to His Death
 
 >Luke 22:47-53 (CSB) While he was still speaking, suddenly a mob came, and one of the Twelve named Judas was leading them. He came near Jesus to kiss him, but Jesus said to him, “Judas, are you betraying the Son of Man with a kiss?”
@@ -131,6 +156,10 @@ draft: false
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## Christ is Denied in His Death
 
@@ -154,6 +183,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## Christ is Mocked to His Death
 
 >Luke 22:63-65 (CSB) The men who were holding Jesus started mocking and beating him. After blindfolding him, they kept asking, “Prophesy! Who was it that hit you?” And they were saying many other blasphemous things to him.
@@ -176,6 +209,10 @@ draft: false
 
 ---
 
+## Westminster Larger Catechism
+
+Q.
+
 ## The Son of God Who is God is Sentenced to Death
 
 >Luke 22:66-71 (CSB) When daylight came, the elders of the people, both the chief priests and the scribes, convened and brought him before their Sanhedrin. They said, “If you are the Messiah, tell us.”
@@ -193,6 +230,10 @@ Why was the Son of God sentenced to death?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The King of kings and Lord of lords is Sentenced to Death
 
@@ -213,6 +254,10 @@ Why was the King of kings sentenceed to death?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Worthy Lamb is Sentenced to Death
 
@@ -238,6 +283,10 @@ Why was the King of kings sentenceed to death?
 ```
 
 ---
+
+## Westminster Larger Catechism
+
+Q.
 
 ## The Innocent is Sentenced to Death
 
