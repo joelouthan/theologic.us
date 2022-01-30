@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Matthew"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
