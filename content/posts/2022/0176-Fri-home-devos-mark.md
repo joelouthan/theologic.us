@@ -1,5 +1,5 @@
 ---
-title: "0175📺 Home Devotions: Mark 12:38-40 So That We Might Live and Be In His Family Forever"
+title: "0176📺 Home Devotions: Mark 12:38-40 So That We Might Live and Be In His Family Forever"
 author: Joseph Louthan
 publishDate: 2022-02-04T06:00:00-06:00
 url: /home-devos/2022-02-04-Fri-home-devos-mark/
