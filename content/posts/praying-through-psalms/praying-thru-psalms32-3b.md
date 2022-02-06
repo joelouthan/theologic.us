@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 32:3'
+title: 'Praying Through: Psalm 32:3b'
 author: Joseph Louthan
 publishDate: 2020-11-01T06:00:00-06:00
 url: /prayers/2020-11-01-am-praying-through-psalms/
