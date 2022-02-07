@@ -1,30 +1,24 @@
 ---
-title: "Gospel NT: "
+title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-03-01T06:00:00-06:00
-url: /gospel-nt/2022-03-01-gospel-nt-titus/
+publishDate: 2022-02-17T06:00:00-06:00
+url: /home-devos/2022-02-17-Thu-home-devos-mark/
 categories:
-  - "Gospel OT"
+  - Home Devotions
 tags:
-  - "Titus"
+  - "Mark"
 series:
-  - "Gospel NT: Titus"
+  - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
 draft: true
 ---
-## The Introduction
-
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
-<div style="page-break-after: always;"></div>
-
-## The Meditation
 
 
-## The Gospel
+## The Devotion
+
 
 
 ## The Discussion
@@ -45,7 +39,9 @@ draft: true
 4. 
 ```
 
-## The Prayer
+## The Prayer from the Psalms
+
+>
 
 <div style='font-variant: small-caps;'>
 
@@ -62,4 +58,3 @@ draft: true
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
-

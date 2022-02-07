@@ -1,14 +1,14 @@
 ---
 title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-02-12T06:00:00-06:00
-url: /home-devos/2022-02-12-home-devos-matthew/
+publishDate: 2022-02-21T06:00:00-06:00
+url: /home-devos/2022-02-21-Mon-home-devos-mark/
 categories:
   - Home Devotions
 tags:
-  - "Matthew"
+  - "Mark"
 series:
-  - "Home Devotions: Matthew"
+  - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
 draft: true
@@ -39,7 +39,7 @@ draft: true
 4. 
 ```
 
-## The Prayer
+## The Prayer from the Psalms
 
 >
 
@@ -58,4 +58,3 @@ draft: true
 Today's episode at [The Study](http://study.theologic.us/podcast/)
 
 \[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
-
