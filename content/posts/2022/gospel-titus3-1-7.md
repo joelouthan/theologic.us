@@ -8,7 +8,7 @@ categories:
 tags:
   - "Titus"
 series:
-  - "Gospel NT: Titus"
+  - "Gospel NT: Pastorals"
 tocopen: true
 css: "prayers"
 draft: true
