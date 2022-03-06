@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -37,7 +37,7 @@ What is your favorite way to rest and have fun?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -53,7 +53,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -75,7 +75,7 @@ How can you talk to God all the time? How do you talk to your dad, mom, sister, 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -97,7 +97,7 @@ Why would Jesus choose any of us? Is it because we were good or because we were 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 

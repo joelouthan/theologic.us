@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 3. What is the Word of God?  
 A. The holy Scriptures of the Old and New Testament are the Word of God, the only rule of faith and obedience.
@@ -34,7 +34,7 @@ If God says he will do it, won't he do it?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 4. How doth it appear that the Scriptures are of the Word of God?  
 A. The Scriptures manifest themselves to be the Word of God, by their majesty and purity; by the consent of all the parts, and the scope of the whole, which is to give all glory to God; by their light and power to convince and convert sinners, to comfort and build up believers unto salvation: but the Spirit of God bearing witness by and with the Scriptures in the heart of man, is alone able fully to persuade it that they are the very word of God.
@@ -49,7 +49,7 @@ If God doesn't give us a new heart and new life, can we even obey God?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 5. What do the Scriptures principally teach?  
 A. The Scriptures principally teach, what man is to believe concerning God, and what duty God requires of man.
@@ -78,7 +78,7 @@ How should we respond to prophets? Should we take them at their word or is there
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 6. What do the Scriptures make known of God?  
 A. The Scriptures make known what God is, the persons in the Godhead, his decrees, and the execution of his decrees.
@@ -95,7 +95,7 @@ Why would you reject God?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 7. What is God?  
 A. God is a Spirit, in and of himself infinite in being, glory, blessedness, and perfection; all-sufficient, eternal, unchangeable, incomprehensible, every where present, almighty, knowing all things, most wise, most holy, most just, most merciful and gracious, long-suffering, and abundant in goodness and truth.
@@ -119,7 +119,7 @@ How does God respond to our cries?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 8. Are there more Gods than one?  
 A. There is but one only, the living and true God.

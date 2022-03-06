@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -41,7 +41,7 @@ How is our calling exactly like John’s?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -57,7 +57,7 @@ What is difference between doing the law and loving God?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -73,7 +73,7 @@ What makes Jesus Christ the Savior of the world?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 

@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -27,7 +27,7 @@ How can we share the gospel and teach the Bible like Jesus?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -57,7 +57,7 @@ Name the ways in which Christ fulfilled the Old Testament?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -75,7 +75,7 @@ If we proclaim the good news to others, what should we expect to happen?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 

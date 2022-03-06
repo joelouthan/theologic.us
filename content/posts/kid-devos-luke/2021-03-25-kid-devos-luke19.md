@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -39,7 +39,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -77,7 +77,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -110,7 +110,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -126,7 +126,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 

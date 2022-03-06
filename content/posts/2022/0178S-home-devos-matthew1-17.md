@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Matthew 1:17 Jesus Christ is Our God"
 author: Joseph Louthan
 publishDate: 2022-02-19T06:00:00-06:00
 url: /home-devos/2022-02-19-home-devos-matthew/
@@ -15,7 +15,7 @@ draft: true
 ---
 ## The Text
 
-
+>Matthew 1:17 (CSB) So all the generations from Abraham to David were fourteen generations; and from David until the exile to Babylon, fourteen generations; and from the exile to Babylon until the Messiah, fourteen generations.
 
 ## The Devotion
 

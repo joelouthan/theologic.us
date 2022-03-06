@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 9. How many persons are there in the Godhead?  
 A. There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.
@@ -29,7 +29,7 @@ If God did nothing, could we ever know God?
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 10. What are the personal properties of the three persons in the Godhead?  
 A. It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.
@@ -58,7 +58,7 @@ Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?  
 A. The Scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.
@@ -79,7 +79,7 @@ Ezekiel 36:25-27 (CSB) I will also sprinkle clean water on you, and you will be 
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 12. What are the decrees of God?  
 A. God's decrees are the wise, free, and holy acts of the counsel of his will, whereby, from all eternity, he hath, for his own glory, unchangeably foreordained whatsoever comes to pass in time, especially concerning angels and men.
@@ -96,7 +96,7 @@ John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and t
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 13. What hath God especially decreed concerning angels and men?  
 A. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory; and in Christ hath chosen some men to eternal life, and the means thereof: and also, according to his sovereign power, and the unsearchable counsel of his own will, (whereby he extendeth or withholdeth favor as he pleaseth,) hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.
@@ -114,7 +114,7 @@ Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons.For yo
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 14. How doth God execute his decrees?  
 A. God executeth his decrees in the works of creation and providence, according to his infallible foreknowledge, and the free and immutable counsel of his own will.
@@ -137,7 +137,7 @@ Does anybody in this world have the same power as God? Does anybody else even co
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 15. What is the work of creation?  
 A. The work of creation is that wherein God did in the beginning, by the word of his power, make of nothing the world, and all things therein, for himself, within the space of six days, and all very good.
@@ -159,7 +159,7 @@ Does Christ waits until we fix our lives before accepting us into His life?
 
 -----
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 16. How did God create angels?  
 A. God created all the angels spirits, immortal, holy, excelling in knowledge, mighty in power, to execute his commandments, and to praise his name, yet subject to change.

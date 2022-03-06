@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -33,7 +33,7 @@ Can God control the weather?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -53,7 +53,7 @@ What are the immediate and ultimate effects of sin? Can those effects happen in 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -67,7 +67,7 @@ Does the God who created us would be in charge over us? Why or why not?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -91,7 +91,7 @@ Is faith in God an ultimate good thing?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -107,7 +107,7 @@ Why would this be such a difficult thing to do?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -123,7 +123,7 @@ What do you want to do in life? Have you ever asked God what he wants you to do 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -143,7 +143,7 @@ What can God do with our own righteousness?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -167,7 +167,7 @@ Revelation 19:6–10 (CSB) Then I heard something like the voice of a vast multi
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -193,7 +193,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -219,7 +219,7 @@ Q.
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 

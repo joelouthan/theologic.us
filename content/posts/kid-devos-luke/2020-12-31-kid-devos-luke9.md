@@ -13,7 +13,7 @@ css: "prayers"
 draft: false
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 17. How did God create man?  
 A. After God had made all other creatures, he created man male and female; formed the body of the man of the dust of the ground, and the woman of the rib of the man, endued them with living, reasonable, and immortal souls; made them after his own image, in knowledge, righteousness, and holiness; having the law of God written in their hearts, and power to fulfill it, and dominion over the creatures; yet subject to fall.
@@ -44,7 +44,7 @@ He said to them, “It is not for you to know times or periods that the Father h
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 18. What are God's works of providence?  
 A. God's works of providence are his most holy, wise, and powerful preserving and governing all his creatures; ordering them, and all their actions, to his own glory.
@@ -62,7 +62,7 @@ What does it mean to be the Christ?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 19. What is God's providence towards the angels?  
 A. God by his providence permitted some of the angels, willfully and irrecoverably, to fall into sin and damnation, limiting and ordering that, and all their sins, to his own glory; and established the rest in holiness and happiness; employing them all, at his pleasure, in the administrations of his power, mercy, and justice.
@@ -81,7 +81,7 @@ Where can we be more dependent on God?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 20. What was the providence of God toward man in the estate in which he was created?  
 A. The providence of God toward man in the estate in which he was created, was the placing him in paradise, appointing him to dress it, giving him liberty to eat of the fruit of the earth; putting the creatures under his dominion, and ordaining marriage for his help; affording him communion with himself; instituting the sabbath; entering into a covenant of life with him, upon condition of personal, perfect, and perpetual obedience, of which the tree of life was a pledge; and forbidding to eat of the tree of knowledge of good and evil, upon the pain of death.
@@ -98,7 +98,7 @@ What are we to do if Jesus is God? Should we pay attention to his words and his 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 21. Did man continue in that estate wherein God at first created him?  
 A. Our first parents being left to the freedom of their own will, through the temptation of Satan, transgressed the commandment of God in eating the forbidden fruit; and thereby fell from the estate of innocency wherein they were created.
@@ -117,7 +117,7 @@ Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 22. Did all mankind fall in that first transgression?  
 A. The covenant being made with Adam as a public person, not for himself only, but for his posterity, all mankind descending from him by ordinary generation, sinned in him, and fell with him in that first transgression.
@@ -132,7 +132,7 @@ What does it mean to take up our cross?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 23. Into what estate did the fall bring mankind?  
 A. The fall brought mankind into an estate of sin and misery.
@@ -155,7 +155,7 @@ If we are predestined, called, and justified in the sight of God, what does it m
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 24. What is sin?  
 A. Sin is any want of conformity unto, or transgression of, any law of God, given as a rule to the reasonable creature.
@@ -176,7 +176,7 @@ What does it mean to be truly free if we are in Christ?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 25. Wherein consisteth the sinfulness of that estate whereinto man fell?  
 A. The sinfulness of that estate whereinto man fell, consisteth in the guilt of Adam's first sin, the want of that righteousness wherein he was created, and the corruption of his nature, whereby he is utterly indisposed, disabled, and made opposite unto all that is spiritually good, and wholly inclined to all evil, and that continually; which is commonly called original sin, and from which do proceed all actual transgressions.
@@ -195,7 +195,7 @@ Christ has hard sayings.  How can we believe His words?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 26. How is original sin conveyed from our first parents unto their posterity?  
 A. Original sin is conveyed from our first parents unto their posterity by natural generation, so as all that proceed from them in that way are conceived and born in sin.
@@ -218,7 +218,7 @@ Why does God oppose the proud?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 27. What misery did the fall bring upon mankind?  
 A. The fall brought upon mankind the loss of communion with God, his displeasure and curse; so as we are by nature children of wrath, bond slaves to Satan, and justly liable to all punishments in this world, and that which is to come.
@@ -241,7 +241,7 @@ If other people believe and obey Christ, can they ever be our enemies? Are they 
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 28. What are the punishments of sin in this world?  
 A. The punishments of sin in this world are either inward, as blindness of mind, a reprobate sense, strong delusions, hardness of heart, horror of conscience, and vile affections; or outward, as the curse of God upon the creatures of our sakes, and all other evils that befall us in our bodies, names, estates, relations, and employments; together with death itself.
@@ -256,7 +256,7 @@ When people refuse to believe and even reject the God's good news, how do we res
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 29. What are the punishments of sin in the world to come?  
 A. The punishments of sin in the world to come, are everlasting separation from the comfortable presence of God, and most grievous torments in soul and body, without intermission, in hell-fire forever.

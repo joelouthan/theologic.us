@@ -12,7 +12,7 @@ series:
 css: "prayers"
 draft: false
 ---
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -28,7 +28,7 @@ In what ways does God heals us? What about doctors, nurses, medicine, or science
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
@@ -48,7 +48,7 @@ Then what are being delivered to?
 
 ---
 
-## Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q.
 
