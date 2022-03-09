@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-V3GC3P3REE
+# googleAnalytics: G-V3GC3P3REE
 
 minify:
     disableXML: true
@@ -102,9 +102,9 @@ params:
         - name: github
           url: "https://github.com/joelouthan"
 
-    analytics:
-        google:
-            SiteVerificationTag: "G-V3GC3P3REE"
+#    analytics:
+#        google:
+#            SiteVerificationTag: "G-V3GC3P3REE"
 
     cover:
         hidden: true # hide everywhere but not in structured data
