@@ -24,8 +24,10 @@ Everything we could add on top of this are mere walls, paint, electric outlets a
 I say too many times that the book of Romans is a near systematic explanation of the ministry of Jesus Christ in the Gospels. It is as almost Paul was saying, "This is what Jesus has done. This is what that means for you and me." In that same vein, I would say that the Pastoral Letters are the doctrinal and theological explanation of John 21.
 
 >John 21:17 (CSB) He asked him the third time, “Simon, son of John, do you love me? ”
-Peter was grieved that he asked him the third time, “Do you love me? ” He said, “Lord, you know everything; you know that I love you.”
-“Feed my sheep,” Jesus said.
+>
+>Peter was grieved that he asked him the third time, “Do you love me? ” He said, “Lord, you know everything; you know that I love you.”
+>
+>“Feed my sheep,” Jesus said.
 
 And some of you here--God will press on you to serve him in this way, "Feed my sheep." And you and I will natually asked, "Well, how do I do that?" I am glad you asked.
 
@@ -54,7 +56,7 @@ How do we combine the character and the core examination? That, I believe, is th
 
 ><sup> 1  </sup>Paul, a servant of God and an apostle of Jesus Christ, for the faith of God’s elect and their knowledge of the truth that leads to godliness
 
-### Minister Like This: know God
+### Minister Like This: Know God
 
 Because we can utter the word God does not mean we know God. Just because we can profess "Christ" with our lips does not mean we know God. Just because we feel like we are slain in the Spirit does not mean we know God. Right here in verse 1, "faith of God's elect and their knowledge of the truth that leads to godliness."
 
@@ -62,7 +64,7 @@ Election, faith, knowledge of truth equals godliness. It is an absolute mathemat
 
 Nerd talk: About 20 years ago, the chip company Intel, released a faulty computer processor. If you tried to calculate 2+2, you would end up getting the answer 5. That is not new math. That is millions of chips and research that are not worth the cardboard box they came in. You put those processors straight in the trash.
 
-Too many people claim to know God because they were brought up in church as a kid or they heard some guy yelling about God on the street corner or they are on their favorite website to make up their own conclusions about who God is. Knowing God to believe God. When you believe God, you live according to that faith.
+Too many people claim to know God because they were brought up in church as a kid or they heard some guy yelling about God on the street corner or they are on their favorite website to make up their own conclusions about who God is. Knowing God is to believe God. When you believe God, you live according to that faith in God.
 
 Where have you heard that before? In the New Testament, you have heard it quoted twice by Paul and once by the author to the Hebrews--and the footnote would point you to Habakkuk 2:4.  
 
@@ -74,11 +76,11 @@ It is only receiving the faith of God, righteousness of God that we get to be li
 
 ><sup> 2  </sup>in the hope of eternal life that God, who cannot lie, promised before time began. 
 
-### Minister Like This: know God for who He exactly is
+### Minister Like This: Know God For Who He Is Exactly
 
 Calvin said it best, "the finite mind cannot comprehend the Infinite God." Our born minds, no matter how much IQ and EQ God has granted us, still could not wrap around the concept of a Being that is infinite in every way, shape, and form. 
 
-We cannot fully know God. Without Him, we do not know him. Only by God's grace sending his Son, Jesus Christ, to live, die, resurrected in the power of the Holy Spirit, alone, we get to *truly* know God.
+We cannot *fully* know God. Without Him, we do not know him. Only by God's grace sending his Son, Jesus Christ, to live, die, resurrected in the power of the Holy Spirit, alone, we get to *truly* know God.
 
 We are finite creatures. By God's grace, we get to truly know and love the Infinite Triune God. But you must be born again--you must be a new creature in Christ--you must have the dwelling of the Triune God in you and be brought into His kingdom in order for you to know and love God. 
 
@@ -86,7 +88,7 @@ What? Do you want to try to do enough good things to attract His attention so th
 
 Wanna be born again? You want to get into the kingdom of God? You want to love and know God and have God love and know you? You must start off as a sinner.
 
-Let me give you some great you: you were born that way. Congratulations, you are off to a great start. Yet, if you response to me, "But I am not that bad...", "I have already been baptized...", "I grew up in church...", "My parents were Christians...", "I went to a Christian..." those are all wrong answers.
+Let me give you some great news: you were born that way. Congratulations, when it comes to getting into the kingdom of God, you and I are off to a great start. Yet, if you response to me, "But I am not that bad...", "I have already been baptized...", "I grew up in church...", "My parents were Christians...", "I went to a Christian..." then it is your own self-righteousness that keeps you far far far away from God and his kingdom and his family.
 
 If you have a bunch of excuses to being called a sinner, then you are trying to be righteous. What does that really mean? Christ has not come for you, He has not lived for you, He has not died for you, He has not saved you.
 
@@ -96,7 +98,7 @@ And that comes from the preaching and proclaiming of His gospel
 
 ><sup> 3  </sup>In his own time he has revealed his word in the preaching with which I was entrusted by the command of God our Savior: 
 
-### Minister Like This: know God is calling you
+### Minister Like This: Know God Is Calling You
 
 >Romans 10:9-17 (CSB) If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. For the Scripture says, Everyone who believes on him will not be put to shame, since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. For everyone who calls on the name of the Lord will be saved.
 > 
@@ -122,15 +124,15 @@ But then the rest of you, you know you don't trust and love God at all. You have
 
 What made my case so tragically sad is that I hid my porn addiction from everybody--making sure no one knew the real me. But with my mouth, tried to convinced everybody that I was saved. I wasn't saved. If God took my life before 2007, I would under the eternal wrath of Christ for fully disobeying Him with every single moment of my existence. Hell would have been my forever home.
 
-Where are you in this moment? Where are you with God with Christ with the Spirit? Where are you? What sins are you not giving up because you think it will give you something? What good things that are not God that you are clinching on for dear life because you think they bring you life but only death--things like wealth, health, safety, control?
+Where are you in this moment? Where are you with God with Christ with the Spirit? Where are you? What sins are you not giving up because you think it will get you something? What good things that are not God that you are clinching on for dear life because you think they bring you life but only death--things like wealth, health, safety, control?
 
 ><sup> 4  </sup>To Titus, my true son in our common faith. Grace and peace from God the Father and Christ Jesus our Savior.
 
-### Minister Like This: know God is the only God who can save you
+### Minister Like This: Know God Is The Only God Who Can Save You
 
 Some of us have not been brought to the end of ourselves. We have not been given the vision of our own hearts and seen void and emptiness look right back at us. We keep fighting to hold on to everything not God in thinking if I can just have my way I can be happy.
 
-But you will get your way, and you will not be happy, and the path behind you lies in destruction and ruin.
+But you will get your way, and you will still not be happy, and the path behind you lies in destruction and ruin.
 
 Don't wait for the end. Trust in God right now. Trust in Him. Look to His Son, Jesus Christ. All of us who are holding on to sin and things not God, Christ command us to do:
 
