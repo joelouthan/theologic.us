@@ -78,12 +78,12 @@ How should we respond to prophets? Should we take them at their word or is there
 
 ---
 
-### Westminster Larger Catechism
+### 🏠 Westminster Larger Catechism
 
 Q. 6. What do the Scriptures make known of God?  
 A. The Scriptures make known what God is, the persons in the Godhead, his decrees, and the execution of his decrees.
 
-## Yet, We Reject Him
+## 🏠 Yet, We Reject Him
 
 >Luke 7:29–30 (CSB) (And when all the people, including the tax collectors, heard this, they acknowledged God’s way of righteousness, because they had been baptized with John’s baptism.  But since the Pharisees and experts in the law had not been baptized by him, they rejected the plan of God for themselves.)
 
