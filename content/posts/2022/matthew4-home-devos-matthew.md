@@ -1,8 +1,8 @@
 ---
 title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-06-11T06:00:00-06:00
-url: /home-devos/2022-06-11-home-devos-matthew/
+publishDate: 2022-05-07T06:00:00-06:00
+url: /home-devos/2022-05-07-home-devos-matthew/
 categories:
   - Home Devotions
 tags:
