@@ -18,7 +18,7 @@ draft: false
 
 Here just the very small list of resources on Mark that I have found most helpful.
 
-## It Goes Without Say
+### It Goes Without Say
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="200" style="padding-right: 10px" />The Holy Bible](https://amzn.to/3FbGqbM)
 
@@ -46,7 +46,7 @@ I have purchased this resource multiple times over for myself and friends. If yo
 
 ___
 
-## Commentaries
+### Commentaries
 
 <p style="clear:both;">
 

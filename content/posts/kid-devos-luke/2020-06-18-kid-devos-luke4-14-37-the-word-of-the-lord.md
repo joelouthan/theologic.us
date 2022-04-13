@@ -13,11 +13,13 @@ css: "prayers"
 draft: false
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Word of the Lord is Power
+### The Word of the Lord is Power
 
 Luke 4:14–15 (CSB) Then Jesus returned to Galilee in the power of the Spirit, and news about him spread throughout the entire vicinity.  He was teaching in their synagogues, being praised by everyone.
 
@@ -27,11 +29,13 @@ How can we share the gospel and teach the Bible like Jesus?
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Word of the Lord Has Been Fulfilled
+### The Word of the Lord Has Been Fulfilled
 
 Luke 4:16–21 (CSB) He came to Nazareth, where he had been brought up. As usual, he entered the synagogue on the Sabbath day and stood up to read.  The scroll of the prophet Isaiah was given to him, and unrolling the scroll, he found the place where it was written:
 
@@ -57,11 +61,13 @@ Name the ways in which Christ fulfilled the Old Testament?
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Word of the Lord Cuts to the Heart
+### The Word of the Lord Cuts to the Heart
 
 Luke 4:22–30 (CSB) They were all speaking well of him and were amazed by the gracious words that came from his mouth; yet they said, “Isn’t this Joseph’s son?”  Then he said to them, “No doubt you will quote this proverb to me: ‘Doctor, heal yourself. What we’ve heard that took place in Capernaum, do here in your hometown also.’ ”  He also said, “Truly I tell you, no prophet is accepted in his hometown.  But I say to you, there were certainly many widows in Israel in Elijah’s days, when the sky was shut up for three years and six months while a great famine came over all the land.  Yet Elijah was not sent to any of them except a widow at Zarephath in Sidon.  And in the prophet Elisha’s time, there were many in Israel who had leprosy, and yet not one of them was cleansed except Naaman the Syrian.”  When they heard this, everyone in the synagogue was enraged.  They got up, drove him out of town, and brought him to the edge of the hill that their town was built on, intending to hurl him over the cliff.  But he passed right through the crowd and went on his way.
 
@@ -75,11 +81,13 @@ If we proclaim the good news to others, what should we expect to happen?
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Word of the Lord Cleanses Us From All Unrighteousness
+### The Word of the Lord Cleanses Us From All Unrighteousness
 
 Luke 4:31–37 (CSB) Then he went down to Capernaum, a town in Galilee, and was teaching them on the Sabbath.  They were astonished at his teaching because his message had authority.  In the synagogue there was a man with an unclean demonic spirit who cried out with a loud voice,  “Leave us alone! What do you have to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”  But Jesus rebuked him and said, “Be silent and come out of him!” And throwing him down before them, the demon came out of him without hurting him at all.  Amazement came over them all, and they were saying to one another, “What is this message? For he commands the unclean spirits with authority and power, and they come out!”  And news about him began to go out to every place in the vicinity.
 

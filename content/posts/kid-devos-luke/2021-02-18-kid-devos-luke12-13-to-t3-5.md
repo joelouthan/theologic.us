@@ -13,11 +13,13 @@ css: "prayers"
 draft: false
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Christ Our Provider
+### Christ Our Provider
 
 >Luke 12:13-21 (CSB) Someone from the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.”
 >
@@ -80,11 +82,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Christ Our Hope
+### Christ Our Hope
 
 >Luke 12:22-34 (CSB) Then he said to his disciples, “Therefore I tell you, don’t worry about your life, what you will eat; or about the body, what you will wear. For life is more than food and the body more than clothing. Consider the ravens: They don’t sow or reap; they don’t have a storeroom or a barn; yet God feeds them. Aren’t you worth much more than the birds? Can any of you add one moment to his life span by worrying? If then you’re not able to do even a little thing, why worry about the rest?
 >
@@ -132,11 +136,13 @@ James; cast our cares upon him
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Christ Our God
+### Christ Our God
 
 >Luke 12:35-40 (CSB) “Be ready for service and have your lamps lit. You are to be like people waiting for their master to return from the wedding banquet so that when he comes and knocks, they can open the door for him at once. Blessed will be those servants the master finds alert when he comes. Truly I tell you, he will get ready, have them recline at the table, then come and serve them. If he comes in the middle of the night, or even near dawn, and finds them alert, blessed are those servants. But know this: If the homeowner had known at what hour the thief was coming, he would not have let his house be broken into. You also be ready, because the Son of Man is coming at an hour you do not expect.”
 
@@ -176,11 +182,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Christ Our Peace
+### Christ Our Peace
 
 >Luke 12:49-53 (CSB) I came to bring fire on the earth, and how I wish it were already set ablaze! But I have a baptism to undergo, and how it consumes me until it is finished! Do you think that I came here to bring peace on the earth? No, I tell you, but rather division. From now on, five in one household will be divided: three against two, and two against three.
 >
@@ -203,11 +211,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Christ Our Judge
+### Christ Our Judge
 
 >1 Corinthians 5:9-13 (CSB) I wrote to you in a letter not to associate with sexually immoral people. I did not mean the immoral people of this world or the greedy and swindlers or idolaters; otherwise you would have to leave the world. But actually, I wrote you not to associate with anyone who claims to be a brother or sister and is sexually immoral or greedy, an idolater or verbally abusive, a drunkard or a swindler. Do not even eat with such a person. For what business is it of mine to judge outsiders? Don’t you judge those who are inside? God judges outsiders. Remove the evil person from among you.
 
@@ -223,11 +233,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Christ Our Righteousness
+### Christ Our Righteousness
 
 >Luke 13:1-5 (CSB) At that time, some people came and reported to him about the Galileans whose blood Pilate had mixed with their sacrifices. And he responded to them, “Do you think that these Galileans were more sinful than all the other Galileans because they suffered these things? No, I tell you; but unless you repent, you will all perish as well. Or those eighteen that the tower in Siloam fell on and killed—do you think they were more sinful than all the other people who live in Jerusalem? No, I tell you; but unless you repent, you will all perish as well.”
 

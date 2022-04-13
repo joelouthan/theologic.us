@@ -13,11 +13,13 @@ css: "prayers"
 draft: false
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Jesus Rests
+### Jesus Rests
 
 >Luke 6:1-5 (CSB) On a Sabbath, he passed through the grainfields. His disciples were picking heads of grain, rubbing them in their hands, and eating them. But some of the Pharisees said, “Why are you doing what is not lawful on the Sabbath?”
 >
@@ -37,11 +39,13 @@ What is your favorite way to rest and have fun?
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Jesus Heals
+### Jesus Heals
 
 >Luke 6:6-11 (CSB) On another Sabbath he entered the synagogue and was teaching. A man was there whose right hand was shriveled. The scribes and Pharisees were watching him closely, to see if he would heal on the Sabbath, so that they could find a charge against him. But he knew their thoughts and told the man with the shriveled hand, “Get up and stand here.” So he got up and stood there. Then Jesus said to them, “I ask you: Is it lawful to do good on the Sabbath or to do evil, to save life or to destroy it?” After looking around at them all, he told him, “Stretch out your hand.” He did, and his hand was restored. They, however, were filled with rage and started discussing with one another what they might do to Jesus.
 
@@ -53,11 +57,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Jesus Prays
+### Jesus Prays
 
 >Luke 6:12 (CSB) During those days he went out to the mountain to pray and spent all night in prayer to God.
 
@@ -75,11 +81,13 @@ How can you talk to God all the time? How do you talk to your dad, mom, sister, 
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Jesus Calls
+### Jesus Calls
 
 >Luke 6:13-16 When daylight came, he summoned his disciples, and he chose twelve of them, whom he also named apostles:Simon, whom he also named Peter, and Andrew his brother; James and John; Philip and Bartholomew;Matthew and Thomas; James the son of Alphaeus, and Simon called the Zealot;Judas the son of James, and Judas Iscariot, who became a traitor.
 
@@ -97,11 +105,13 @@ Why would Jesus choose any of us? Is it because we were good or because we were 
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## Jesus Makes New
+### Jesus Makes New
 
 >Luke 6:17-19 (CSB) After coming down with them, he stood on a level place with a large crowd of his disciples and a great number of people from all Judea and Jerusalem and from the seacoast of Tyre and Sidon.They came to hear him and to be healed of their diseases; and those tormented by unclean spirits were made well.The whole crowd was trying to touch him, because power was coming out from him and healing them all.
 

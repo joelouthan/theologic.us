@@ -13,15 +13,17 @@ css: "prayers"
 draft: false
 ---
 
+## Luke 8:1-3
+
 ### Westminster Larger Catechism
 
 Q. 9. How many persons are there in the Godhead?  
 A. There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.
 
 
-## Christ Calls Us Out From Under Darkness
+### Christ Calls Us Out From Under Darkness
 
-Luke 8:1-3 (CSB) Afterward he was traveling from one town and village to another, preaching and telling the good news of the kingdom of God. The Twelve were with him,and also some women who had been healed of evil spirits and sicknesses: Mary, called Magdalene (seven demons had come out of her);Joanna the wife of Chuza, Herod’s steward; Susanna; and many others who were supporting them from their possessions.
+>Luke 8:1-3 (CSB) Afterward he was traveling from one town and village to another, preaching and telling the good news of the kingdom of God. The Twelve were with him,and also some women who had been healed of evil spirits and sicknesses: Mary, called Magdalene (seven demons had come out of her);Joanna the wife of Chuza, Herod’s steward; Susanna; and many others who were supporting them from their possessions.
 
 ```text
 If God did nothing, could we ever know God?
@@ -29,14 +31,16 @@ If God did nothing, could we ever know God?
 
 -----
 
+## Luke 8:4-8
+
 ### Westminster Larger Catechism
 
 Q. 10. What are the personal properties of the three persons in the Godhead?  
 A. It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.
 
-## Christ Calls Us With the Gospel
+### Christ Calls Us With the Gospel
 
-Luke 8:4-8 (CSB) As a large crowd was gathering, and people were coming to Jesus from every town, he said in a parable,“A sower went out to sow his seed. As he sowed, some seed fell along the path; it was trampled on, and the birds of the sky devoured it.Other seed fell on the rock; when it grew up, it withered away, since it lacked moisture.Other seed fell among thorns; the thorns grew up with it and choked it.Still other seed fell on good ground; when it grew up, it produced fruit: a hundred times what was sown.” As he said this, he called out, “Let anyone who has ears to hear listen.”
+>Luke 8:4-8 (CSB) As a large crowd was gathering, and people were coming to Jesus from every town, he said in a parable,“A sower went out to sow his seed. As he sowed, some seed fell along the path; it was trampled on, and the birds of the sky devoured it.Other seed fell on the rock; when it grew up, it withered away, since it lacked moisture.Other seed fell among thorns; the thorns grew up with it and choked it.Still other seed fell on good ground; when it grew up, it produced fruit: a hundred times what was sown.” As he said this, he called out, “Let anyone who has ears to hear listen.”
 
 ```text
 When the gospel is preached, does it accomplish what God wants it to do?
@@ -58,14 +62,16 @@ Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power
 
 -----
 
+## Luke 8:9-15
+
 ### Westminster Larger Catechism
 
 Q. 11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?  
 A. The Scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.
 
-## Christ Calls Us By Giving Us New Hearts
+### Christ Calls Us By Giving Us New Hearts
 
-Luke 8:9-15 (CSB) Then his disciples asked him, “What does this parable mean?”So he said, “The secrets of the kingdom of God have been given for you to know, but to the rest it is in parables, so that
+>Luke 8:9-15 (CSB) Then his disciples asked him, “What does this parable mean?”So he said, “The secrets of the kingdom of God have been given for you to know, but to the rest it is in parables, so that
     Looking they may not see,
       and hearing they may not understand.
 
@@ -79,14 +85,16 @@ Ezekiel 36:25-27 (CSB) I will also sprinkle clean water on you, and you will be 
 
 -----
 
+## Luke 8:16-18
+
 ### Westminster Larger Catechism
 
 Q. 12. What are the decrees of God?  
 A. God's decrees are the wise, free, and holy acts of the counsel of his will, whereby, from all eternity, he hath, for his own glory, unchangeably foreordained whatsoever comes to pass in time, especially concerning angels and men.
 
-## Christ Calls Us By Shining Into the Darkness
+### Christ Calls Us By Shining Into the Darkness
 
-Luke 8:16-18 (CSB) “No one, after lighting a lamp, covers it with a basket or puts it under a bed, but puts it on a lampstand so that those who come in may see its light.For nothing is concealed that won’t be revealed, and nothing hidden that won’t be made known and brought to light.Therefore take care how you listen. For whoever has, more will be given to him; and whoever does not have, even what he thinks he has will be taken away from him.”
+>Luke 8:16-18 (CSB) “No one, after lighting a lamp, covers it with a basket or puts it under a bed, but puts it on a lampstand so that those who come in may see its light.For nothing is concealed that won’t be revealed, and nothing hidden that won’t be made known and brought to light.Therefore take care how you listen. For whoever has, more will be given to him; and whoever does not have, even what he thinks he has will be taken away from him.”
 
 ```text
 What happened when Christ became Man?
@@ -96,14 +104,16 @@ John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and t
 
 -----
 
+## Luke 8:19-21
+
 ### Westminster Larger Catechism
 
 Q. 13. What hath God especially decreed concerning angels and men?  
 A. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory; and in Christ hath chosen some men to eternal life, and the means thereof: and also, according to his sovereign power, and the unsearchable counsel of his own will, (whereby he extendeth or withholdeth favor as he pleaseth,) hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.
 
-## Christ Calls Us To Be Co-Heirs
+### Christ Calls Us To Be Co-Heirs
 
-Luke 8:19-21 (CSB) Then his mother and brothers came to him, but they could not meet with him because of the crowd.He was told, “Your mother and your brothers are standing outside, wanting to see you.”
+>Luke 8:19-21 (CSB) Then his mother and brothers came to him, but they could not meet with him because of the crowd.He was told, “Your mother and your brothers are standing outside, wanting to see you.”
 But he replied to them, “My mother and my brothers are those who hear and do the word of God.”
 
 ```text
@@ -114,14 +124,16 @@ Romans 8:14-17 (CSB) For all those led by God’s Spirit are God’s sons.For yo
 
 -----
 
+## Luke 8:22-25
+
 ### Westminster Larger Catechism
 
 Q. 14. How doth God execute his decrees?  
 A. God executeth his decrees in the works of creation and providence, according to his infallible foreknowledge, and the free and immutable counsel of his own will.
 
-## Christ Calls Us While We Are in the World 
+### Christ Calls Us While We Are in the World 
 
-Luke 8:22-25 (CSB) One day he and his disciples got into a boat, and he told them, “Let’s cross over to the other side of the lake.” So they set out,and as they were sailing he fell asleep. Then a fierce windstorm came down on the lake; they were being swamped and were in danger.They came and woke him up, saying, “Master, Master, we’re going to die!”
+>Luke 8:22-25 (CSB) One day he and his disciples got into a boat, and he told them, “Let’s cross over to the other side of the lake.” So they set out,and as they were sailing he fell asleep. Then a fierce windstorm came down on the lake; they were being swamped and were in danger.They came and woke him up, saying, “Master, Master, we’re going to die!”
 
 Then he got up and rebuked the wind and the raging waves. So they ceased, and there was a calm.He said to them, “Where is your faith?”
 
@@ -137,13 +149,15 @@ Does anybody in this world have the same power as God? Does anybody else even co
 
 -----
 
+## Luke 8:26-39
+
 ### Westminster Larger Catechism
 
 Q. 15. What is the work of creation?  
 A. The work of creation is that wherein God did in the beginning, by the word of his power, make of nothing the world, and all things therein, for himself, within the space of six days, and all very good.
 
-## Christ Calls Us While We Are Under Attack
-Luke 8:26-39 (CSB) Then they sailed to the region of the Gerasenes, which is opposite Galilee.When he got out on land, a demon-possessed man from the town met him. For a long time he had worn no clothes and did not stay in a house but in the tombs.When he saw Jesus, he cried out, fell down before him, and said in a loud voice, “What do you have to do with me, Jesus, Son of the Most High God? I beg you, don’t torment me!”For he had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was guarded, bound by chains and shackles, he would snap the restraints and be driven by the demon into deserted places.
+### Christ Calls Us While We Are Under Attack
+>Luke 8:26-39 (CSB) Then they sailed to the region of the Gerasenes, which is opposite Galilee.When he got out on land, a demon-possessed man from the town met him. For a long time he had worn no clothes and did not stay in a house but in the tombs.When he saw Jesus, he cried out, fell down before him, and said in a loud voice, “What do you have to do with me, Jesus, Son of the Most High God? I beg you, don’t torment me!”For he had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was guarded, bound by chains and shackles, he would snap the restraints and be driven by the demon into deserted places.
 
 “What is your name?” Jesus asked him. “Legion,” he said, because many demons had entered him.And they begged him not to banish them to the abyss.
 
@@ -159,13 +173,15 @@ Does Christ waits until we fix our lives before accepting us into His life?
 
 -----
 
+## Luke 8:40-56
+
 ### Westminster Larger Catechism
 
 Q. 16. How did God create angels?  
 A. God created all the angels spirits, immortal, holy, excelling in knowledge, mighty in power, to execute his commandments, and to praise his name, yet subject to change.
 
-## Christ Calls Us Out of Disease and Death
-Luke 8:40-56 (CSB) When Jesus returned, the crowd welcomed him, for they were all expecting him.Just then, a man named Jairus came. He was a leader of the synagogue. He fell down at Jesus’s feet and pleaded with him to come to his house,because he had an only daughter about twelve years old, and she was dying.
+### Christ Calls Us Out of Disease and Death
+>Luke 8:40-56 (CSB) When Jesus returned, the crowd welcomed him, for they were all expecting him.Just then, a man named Jairus came. He was a leader of the synagogue. He fell down at Jesus’s feet and pleaded with him to come to his house,because he had an only daughter about twelve years old, and she was dying.
 While he was going, the crowds were nearly crushing him.A woman suffering from bleeding for twelve years, who had spent all she had on doctors and yet could not be healed by any,approached from behind and touched the end of his robe. Instantly her bleeding stopped.
 
 “Who touched me?” Jesus asked.

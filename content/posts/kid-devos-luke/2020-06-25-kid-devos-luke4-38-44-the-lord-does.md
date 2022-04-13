@@ -12,11 +12,13 @@ series:
 css: "prayers"
 draft: false
 ---
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Lord Heals
+### The Lord Heals
 
 Luke 4:38–40 (CSB) After he left the synagogue, he entered Simon’s house. Simon’s mother-in-law was suffering from a high fever, and they asked him about her.  So he stood over her and rebuked the fever, and it left her. She got up immediately and began to serve them.  When the sun was setting, all those who had anyone sick with various diseases brought them to him. As he laid his hands on each one of them, he healed them.
 
@@ -28,11 +30,13 @@ In what ways does God heals us? What about doctors, nurses, medicine, or science
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Lord Delivers
+### The Lord Delivers
 
 Luke 4:41 And demons also came out of many, crying, “You are the Son of God!” But he rebuked them and would not allow them to speak, because they knew that he was the Christ.
 
@@ -48,11 +52,13 @@ Then what are being delivered to?
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## The Lord Saves
+### The Lord Saves
 
 Luke 4:42–44 (CSB) When it was day, he went out and made his way to a deserted place. But the crowds were searching for him. They came to him and tried to keep him from leaving them.  But he said to them, “It is necessary for me to proclaim the good news about the kingdom of God to the other towns also, because I was sent for this purpose.”  And he was preaching in the synagogues of Judea.
 

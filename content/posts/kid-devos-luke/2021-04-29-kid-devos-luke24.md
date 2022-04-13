@@ -13,11 +13,13 @@ css: "prayers"
 draft: false
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## By The Spirit, Christ Lives
+### By The Spirit, Christ Lives
 
 >Luke 24:1-8 (CSB) On the first day of the week, very early in the morning, they came to the tomb, bringing the spices they had prepared. They found the stone rolled away from the tomb. They went in but did not find the body of the Lord Jesus. While they were perplexed about this, suddenly two men stood by them in dazzling clothes. So the women were terrified and bowed down to the ground.
 >
@@ -33,11 +35,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## By the Spirit, We Are Fully Alive
+### By the Spirit, We Are Fully Alive
 
 >Luke 24:9-12 (CSB) Returning from the tomb, they reported all these things to the Eleven and to all the rest. Mary Magdalene, Joanna, Mary the mother of James, and the other women with them were telling the apostles these things. But these words seemed like nonsense to them, and they did not believe the women. Peter, however, got up and ran to the tomb. When he stooped to look in, he saw only the linen cloths. So he went away, amazed at what had happened.
 
@@ -71,11 +75,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## By The Spirit, We Truly Know God
+### By The Spirit, We Truly Know God
 
 >Luke 24:13-35 (CSB) Now that same day two of them were on their way to a village called Emmaus, which was about seven miles from Jerusalem. Together they were discussing everything that had taken place. And while they were discussing and arguing, Jesus himself came near and began to walk along with them. But they were prevented from recognizing him. Then he asked them, “What is this dispute that you’re having with each other as you are walking?” And they stopped walking and looked discouraged.
 >
@@ -115,11 +121,13 @@ Q.
 
 ---
 
+## 
+
 ### Westminster Larger Catechism
 
 Q.
 
-## By The Spirit, We Now Worship God
+### By The Spirit, We Now Worship God
 
 >Luke 24:36-53 (CSB) As they were saying these things, he himself stood in their midst. He said to them, “Peace to you!” But they were startled and terrified and thought they were seeing a ghost. “Why are you troubled?” he asked them. “And why do doubts arise in your hearts? Look at my hands and my feet, that it is I myself! Touch me and see, because a ghost does not have flesh and bones as you can see I have.” Having said this, he showed them his hands and feet. But while they still were amazed and in disbelief because of their joy, he asked them, “Do you have anything here to eat?” So they gave him a piece of a broiled fish, and he took it and ate in their presence.
 >
