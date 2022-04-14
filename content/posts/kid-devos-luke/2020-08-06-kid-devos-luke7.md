@@ -13,14 +13,14 @@ css: "prayers"
 draft: false
 ---
 
-## Luke 7:1–10
+## 🏠 Luke 7:1–10
 
-### 🏠 Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 3. What is the Word of God?  
 A. The holy Scriptures of the Old and New Testament are the Word of God, the only rule of faith and obedience.
 
-### 🏠 To Respond with Faith
+### To Respond with Faith
 
 >Luke 7:1–10 (CSB) When he had concluded saying all this to the people who were listening, he entered Capernaum. A centurion’s servant, who was highly valued by him, was sick and about to die. When the centurion heard about Jesus, he sent some Jewish elders to him, requesting him to come and save the life of his servant. When they reached Jesus, they pleaded with him earnestly, saying, “He is worthy for you to grant this, because he loves our nation and has built us a synagogue.”
 >
@@ -36,14 +36,14 @@ If God says he will do it, won't he do it?
 
 ---
 
-## Luke 7:11–17
+## 🏠 Luke 7:11–17
 
-### 🏠 Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 4. How doth it appear that the Scriptures are of the Word of God?  
 A. The Scriptures manifest themselves to be the Word of God, by their majesty and purity; by the consent of all the parts, and the scope of the whole, which is to give all glory to God; by their light and power to convince and convert sinners, to comfort and build up believers unto salvation: but the Spirit of God bearing witness by and with the Scriptures in the heart of man, is alone able fully to persuade it that they are the very word of God.
 
-### 🏠 To Respond with Obedience
+### To Respond with Obedience
 
 >Luke 7:11–17 (CSB) Afterward he was on his way to a town called Nain. His disciples and a large crowd were traveling with him.  Just as he neared the gate of the town, a dead man was being carried out. He was his mother’s only son, and she was a widow. A large crowd from the town was also with her.  When the Lord saw her, he had compassion on her and said, “Don’t weep.”  Then he came up and touched the open coffin, and the pallbearers stopped. And he said, “Young man, I tell you, get up!”  The dead man sat up and began to speak, and Jesus gave him to his mother.  Then fear came over everyone, and they glorified God, saying, “A great prophet has risen among us,” and “God has visited his people.”  This report about him went throughout Judea and all the vicinity.
 
@@ -53,14 +53,14 @@ If God doesn't give us a new heart and new life, can we even obey God?
 
 ---
 
-## Luke 7:18–30
+## 🏠 Luke 7:18–30
 
-### 🏠 Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 5. What do the Scriptures principally teach?  
 A. The Scriptures principally teach, what man is to believe concerning God, and what duty God requires of man.
 
-### 🏠 To Respond with Attention
+### To Respond with Attention
 
 >Luke 7:18–30 (CSB) Then John’s disciples told him about all these things. So John summoned two of his disciples  and sent them to the Lord, asking, “Are you the one who is to come, or should we expect someone else?”
 >
@@ -84,14 +84,14 @@ How should we respond to prophets? Should we take them at their word or is there
 
 ---
 
-## Luke 7:29–30
+## 🏠 Luke 7:29–30
 
-### 🏠 Westminster Larger Catechism
+### Westminster Larger Catechism
 
 Q. 6. What do the Scriptures make known of God?  
 A. The Scriptures make known what God is, the persons in the Godhead, his decrees, and the execution of his decrees.
 
-### 🏠 Yet, We Reject Him
+### Yet, We Reject Him
 
 >Luke 7:29–30 (CSB) (And when all the people, including the tax collectors, heard this, they acknowledged God’s way of righteousness, because they had been baptized with John’s baptism.  But since the Pharisees and experts in the law had not been baptized by him, they rejected the plan of God for themselves.)
 
@@ -107,7 +107,8 @@ Why would you reject God?
 
 ### Westminster Larger Catechism
 
-Q. 7. What is God?  
+Q. 7. What is God?
+
 A. God is a Spirit, in and of himself infinite in being, glory, blessedness, and perfection; all-sufficient, eternal, unchangeable, incomprehensible, every where present, almighty, knowing all things, most wise, most holy, most just, most merciful and gracious, long-suffering, and abundant in goodness and truth.
 
 ### Yet, We Accuse Him
@@ -133,7 +134,8 @@ How does God respond to our cries?
 
 ### Westminster Larger Catechism
 
-Q. 8. Are there more Gods than one?  
+Q. 8. Are there more Gods than one?
+
 A. There is but one only, the living and true God.
 
 ### Yet, Our First Response
