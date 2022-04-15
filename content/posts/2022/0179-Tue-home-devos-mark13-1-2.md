@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 13:1-2 What Does Christ Want? Our Sin"
 author: Joseph Louthan
 publishDate: 2022-04-19T06:00:00-06:00
 url: /home-devos/2022-04-19-Tue-home-devos-mark/
@@ -15,7 +15,10 @@ draft: true
 ---
 ## The Text
 
+>Mark 13:1–2 (CSB)  
+><sup> 1 </sup> As he was going out of the temple, one of his disciples said to him, “Teacher, look! What massive stones! What impressive buildings!” 
 
+><sup> 2 </sup> Jesus said to him, “Do you see these great buildings? Not one stone will be left upon another—all will be thrown down.”
 
 ## The Devotion
 

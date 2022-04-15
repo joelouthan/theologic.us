@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 12:41-44 What Does Christ Want? Our Everything"
 author: Joseph Louthan
 publishDate: 2022-04-18T06:00:00-06:00
 url: /home-devos/2022-04-18-Mon-home-devos-mark/
@@ -15,7 +15,14 @@ draft: true
 ---
 ## The Text
 
+>Mark 12:41–44 (CSB)  
+><sup> 41 </sup> Sitting across from the temple treasury, he watched how the crowd dropped money into the treasury. Many rich people were putting in large sums. 
 
+><sup> 42 </sup> Then a poor widow came and dropped in two tiny coins worth very little. 
+
+><sup> 43 </sup> Summoning his disciples, he said to them, “Truly I tell you, this poor widow has put more into the treasury than all the others. 
+
+><sup> 44 </sup> For they all gave out of their surplus, but she out of her poverty has put in everything she had—all she had to live on.”
 
 ## The Devotion
 
