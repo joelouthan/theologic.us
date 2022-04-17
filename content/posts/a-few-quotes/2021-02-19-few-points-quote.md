@@ -14,7 +14,9 @@ draft: false
 
 ## On the Fullness of Joy
 
->Oh close and blessed union! Justified by God, accepted in Christ, condemnation there cannot be. I stand in the Divine presence as Joshua stood before the Lord, or as the woman stood before the Savior, charged, accused, guilty; but I am in the presence of him who, though now he sits upon the throne as my Judge, once hung upon the cross as my Savior. And, investing me with his own spotless robe, he proceeds to pronounce the sentence- "No Condemnation!" "These things write I unto you that your joy may be full."
+>Oh close and blessed union! Justified by God, accepted in Christ, condemnation there cannot be. I stand in the Divine presence as Joshua stood before the Lord, or as the woman stood before the Savior, charged, accused, guilty; but I am in the presence of him who, though now he sits upon the throne as my Judge, once hung upon the cross as my Savior. And, investing me with his own spotless robe, he proceeds to pronounce the sentence- "NO CONDEMNATION!"
+>
+> "These things write I unto you that your joy may be full."
 >
 >Octavius Winslow. No Condemnation in Christ Jesus. 191.
 ------
