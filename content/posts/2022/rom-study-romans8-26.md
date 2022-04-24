@@ -1,8 +1,8 @@
 ---
 title: "Study: Romans 8:26 Who Defines Us in the Midst of Our Weakness?"
 author: Joseph Louthan
-publishDate: 2022-01-10T06:00:00-06:00
-url: /bible-study/2022-01-10-study-romans/
+publishDate: 2022-05-07T06:00:00-06:00
+url: /bible-study/2022-05-07-study-romans/
 categories:
   - Bible Study
 tags:
