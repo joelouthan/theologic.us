@@ -1,8 +1,8 @@
 ---
 title: "Gospel NT: Titus 1:1-4 Minister Like This: Know God"
 author: Joseph Louthan
-publishDate: 2022-02-01T06:00:00-06:00
-url: /gospel-nt/2022-02-01-gospel-nt-titus/
+publishDate: 2022-05-11T06:00:00-06:00
+url: /gospel-nt/2022-05-11-gospel-nt-titus/
 categories:
    - "Gospel NT"
 tags:
@@ -11,7 +11,7 @@ series:
   - "Gospel NT: Pastorals"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Introduction
 

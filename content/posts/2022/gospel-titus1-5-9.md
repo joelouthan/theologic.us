@@ -1,8 +1,8 @@
 ---
 title: "Gospel NT: Titus 1:5-9 Minister Like This: Love God"
 author: Joseph Louthan
-publishDate: 2022-02-08T06:00:00-06:00
-url: /gospel-nt/2022-02-08-gospel-nt-titus/
+publishDate: 2022-05-18T06:00:00-06:00
+url: /gospel-nt/2022-05-18-gospel-nt-titus/
 categories:
    - "Gospel NT"
 tags:
@@ -11,7 +11,7 @@ series:
   - "Gospel NT: Pastorals"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Introduction
 
@@ -112,7 +112,9 @@ If in your own church, you are close enough to see the fire and the smoke. In so
 
 >the husband of one wife
 
-**FILLIN**
+From my [commentary](/gospel-nt/2021-03-17-gospel-nt-1-timothy/) on 1 Timothy 3:2
+
+>>
 
 ---
 

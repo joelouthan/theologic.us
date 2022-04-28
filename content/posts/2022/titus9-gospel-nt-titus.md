@@ -1,14 +1,14 @@
 ---
-title: "Gospel NT: Titus 3:1-7 Live Like This: Indwelling of the Spirit"
+title: "Gospel NT: "
 author: Joseph Louthan
-publishDate: 2022-03-15T06:00:00-06:00
-url: /gospel-nt/2022-03-15-gospel-nt-titus/
+publishDate: 2022-07-27T06:00:00-06:00
+url: /gospel-nt/2022-07-27-gospel-nt-titus/
 categories:
-   - "Gospel NT"
+  - Gospel
 tags:
   - "Titus"
 series:
-  - "Gospel NT: Pastorals"
+  - "Gospel NT"
 tocopen: true
 css: "prayers"
 draft: true
@@ -54,8 +54,6 @@ draft: true
 ```text
 
 ```
-
-<div style="page-break-after: always;"></div>
 
 ## The Media
 

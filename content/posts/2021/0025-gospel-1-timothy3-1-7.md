@@ -15,7 +15,20 @@ draft: false
 ---
 ## The Text
 
->1 Timothy 3:1-7 (CSB) This saying is trustworthy: “If anyone aspires to be an overseer, he desires a noble work.” An overseer, therefore, must be above reproach, the husband of one wife, self-controlled, sensible, respectable, hospitable, able to teach, not an excessive drinker, not a bully but gentle, not quarrelsome, not greedy. He must manage his own household competently and have his children under control with all dignity. (If anyone does not know how to manage his own household, how will he take care of God’s church?) He must not be a new convert, or he might become conceited and incur the same condemnation as the devil. Furthermore, he must have a good reputation among outsiders, so that he does not fall into disgrace and the devil’s trap.
+>1 Timothy 3:1–7 (CSB)  
+><sup> 1 </sup> This saying is trustworthy: “If anyone aspires to be an overseer, he desires a noble work.” 
+
+><sup> 2 </sup> An overseer, therefore, must be above reproach, the husband of one wife, self-controlled, sensible, respectable, hospitable, able to teach, 
+
+><sup> 3 </sup> not an excessive drinker, not a bully but gentle, not quarrelsome, not greedy. 
+
+><sup> 4 </sup> He must manage his own household competently and have his children under control with all dignity. 
+
+><sup> 5 </sup> (If anyone does not know how to manage his own household, how will he take care of God’s church?) 
+
+><sup> 6 </sup> He must not be a new convert, or he might become conceited and incur the same condemnation as the devil. 
+
+><sup> 7 </sup> Furthermore, he must have a good reputation among outsiders, so that he does not fall into disgrace and the devil’s trap.
 
 ## The Meditation
 
