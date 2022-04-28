@@ -2,7 +2,7 @@
 title: "0050📺 Gospel NT: 1 Timothy 4:11-5:2 Minister in Christ"
 author: Joseph Louthan
 publishDate: 2021-04-21T06:00:00-06:00
-url: /gospel-nt/2021-04-21--gospel-nt-1-timothy/
+url: /gospel-nt/2021-04-21-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:

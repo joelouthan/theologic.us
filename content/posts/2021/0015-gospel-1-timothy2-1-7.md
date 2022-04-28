@@ -2,7 +2,7 @@
 title: "0015📺 Gospel NT: 1 Timothy 2:1-7 Pray in Christ"
 author: Joseph Louthan
 publishDate: 2021-03-03T06:00:00-06:00
-url: /gospel-nt/2021-03-03--gospel-nt-1-timothy/
+url: /gospel-nt/2021-03-03-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:

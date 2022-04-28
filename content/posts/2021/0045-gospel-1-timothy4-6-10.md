@@ -2,7 +2,7 @@
 title: "0045📺 Gospel NT: 1 Timothy 4:6-10 Train in Christ"
 author: Joseph Louthan
 publishDate: 2021-04-14T06:00:00-06:00
-url: /gospel-nt/2021-04-14--gospel-nt-1-timothy/
+url: /gospel-nt/2021-04-14-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:

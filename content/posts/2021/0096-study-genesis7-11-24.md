@@ -218,7 +218,7 @@ This is not about who is going to be your spouse.
 
 This is about your eternal existence. Leave now, go your own way, and end up under the active burning wrath of the Lord Jesus Christ.
 
-Choose on this day on whom you will serve. God is calling you--gospel commanding--to come trust your Son.
+Choose on this day on whom you will serve. God is calling you-gospel commanding--to come trust your Son.
 
 If you have never trusted Jesus Christ before, you can do so now. If you have been in church all of your life and you just now realize you never trusted Christ, what about now. Now is the best time.
 

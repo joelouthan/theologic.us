@@ -2,7 +2,7 @@
 title: "0030📺 Gospel NT: 1 Timothy 3:8-13 Serve in Christ"
 author: Joseph Louthan
 publishDate: 2021-03-24T06:00:00-06:00
-url: /gospel-nt/2021-03-24--gospel-nt-1-timothy/
+url: /gospel-nt/2021-03-24-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:

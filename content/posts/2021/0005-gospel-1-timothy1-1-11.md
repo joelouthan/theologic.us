@@ -2,7 +2,7 @@
 title: "0005📺 Gospel NT: 1 Timothy 1:1–11 Christ Our Grace"
 author: Joseph Louthan
 publishDate: 2021-02-10T06:00:00-06:00
-url: /gospel-nt/2021-02-10--gospel-nt-1-timothy/
+url: /gospel-nt/2021-02-10-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:
