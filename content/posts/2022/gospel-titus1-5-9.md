@@ -11,7 +11,7 @@ series:
   - "Gospel NT: Pastorals"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
@@ -96,7 +96,7 @@ Some call it deconstruction. Others are calling it the elect are being swayed aw
 
 ## Minister Like This: Love God and Love Your Family
 
->blameless
+### blameless
 
 Right out the gate, where Paul repeats these same qualifications of God to Pastor Timothy, is that an elder, pastor, overseer must be blameless.
 
@@ -110,53 +110,123 @@ But the other way is the way of people who have obtain power for themselves and 
 
 If in your own church, you are close enough to see the fire and the smoke. In somebody's elses church across the country on the internet, you are not close enough. Christ has you. You will be taken care of.
 
->the husband of one wife
+### the husband of one wife
 
-From my [commentary](/gospel-nt/2021-03-17-gospel-nt-1-timothy/) on 1 Timothy 3:2
+From my [commentary](/gospel-nt/2021-03-17-gospel-nt-1-timothy/#the-husband-of-one-wife) on 1 Timothy 3:2:
 
+>>I read this not as strictly "must be married" and to wholesale reject any single, divorced, or widowed men.
 >>
+>>You know how I would read this in light of the entire Bible?
+>>
+>>1 Corinthians 6:18 (CSB) Flee sexual immorality! Every other sin a person commits is outside the body, but the person who is sexually immoral sins against his own body.
+>>
+>>An elder is one who flees from sexual sin. Single. Divorced. Married. Widowed. It matters not. If you are bought with the blood of Christ, we have the power of the Spirit to flee all sin including sexual sin.
+
+If your church wants to restrict the office of elder/overseer to married men only, your church is free to abide by the letter of the law. But in light of the Bible, and I hope I am abiding in the spirit of the law, this would not prohibit qualified men from serving as elders of a church.
+
+Before I leave this subject of male eldership, let us talk about women serving as elders in a church.
+
+What I am going to give you is completely my experience only.
+
+Churches who abide in the strict reading of 1 Timothy 3 and Titus 1 will almost always read in light of this infamous verse in the most strictest sense:
+
+>1 Timothy 2:11-15 (CSB) A woman is to learn quietly with full submission. I do not allow a woman to teach or to have authority over a man; instead, she is to remain quiet. For Adam was formed first, then Eve. And Adam was not deceived, but the woman was deceived and transgressed. But she will be saved through childbearing, if they continue in faith, love, and holiness, with good sense.
+
+(I say, "almost always", I have yet to see an exception to this.)
+
+To that end, the office of elder is frontloaded with many Biblical responsibilities and qualifications--according to the letter of the law.
+
+The counter-argument to male-only eldership is the inclusion of women within eldership for one reason or another.
+
+But here's where I want to extend grace: again, in my experience, churches who include women within the office of eldership also tend to expand or shrink those same qualifications and responsibilies--I would say, according to the spirit of the law. This can based on the specific mission in the place you are called to or any other myriad of reasons.
+
+When I engage in these secondary and tertiary matters of doctrine--and make no mistake, egalitarian and complementarian views of doctrine are secondary at best--I will not let such matters keep me away from fellowship and loving my brothers and sisters in Christ. I am not speaking from fake unity but an actual unity in Christ according to Ephesians 4:11-16.
+
+This is a hill I am certainly not willing to die upon.  I have bigger hills to die on--just not this one.
+
+### with faithful children who are not accused of wildness or rebellion.
+
+From my [commentary](/gospel-nt/2021-03-17-gospel-nt-1-timothy/#the-husband-of-one-wife/#must-manage-his-own-household-competently-and-have-his-children-under-control-with-all-dignity-if-anyone-does-not-know-how-to-manage-his-own-household-how-will-he-take-care-of-gods-church) on 1 Timothy 3:4:
+
+>> Take a walk through your home, budget, and the general "adulting" things that need to get done: are they getting done?
+
+Are we talking about, "Are your adult kids saved by God and faithful to Him alone--never backsliding nor doubting nor deconstructing?" I don't think so.
+
+I remember sharing a story with my wife about a prominent pastor whose adult son not only was not saved but was quite against Christianity as a whole. This pastor struggled with his qualification as an elder in his church.
+
+To which my wife responded, "Think this through: his adult child rebelled against the Lord and somehow that would disqualified his father from ministry?" We have all gone astray from our Father in heaven. None can stray so far that they would disqualify themselves--let alone, disqualify any of their family members.
+
+But parents with children at home, answer this question: who is in charge at home, the parents or the kids?
+
+And just to be crystal clear, if you think that this God's call upon your life to "rule your home with an iron fist", let me ask you this, "What if our Father ruled over you like that?" It would suck, wouldn't it?
+
+Our Father in heaven loves us, rejoices over us, provides for our every need and takes care of us. We know this for a fact because He sent his only begotten son to live and die for us so that we can be with him whose presence is the fullness of joy and at his right hand are pleasures forevermore. (Psalm 16:11)
+Don't be that parent! Be like your Father in heaven who is perfect. (Matthew 5:48)
 
 ---
 
-><sup> 7 </sup>As an overseer of God’s household, he must be blameless, not arrogant, not hot-tempered, not an excessive drinker, not a bully, not greedy for money, 
+><sup> 7 </sup>As an overseer of God’s household, he must be blameless, not arrogant, not hot-tempered, not an excessive drinker, not a bully, not greedy for money <sup> 8 </sup>but hospitable, loving what is good, sensible, righteous, holy, self-controlled, 
 
-## Minister Like This: Love God 
+## Minister Like This: Love God and Bear Fruit
 
-><sup> 8 </sup>but hospitable, loving what is good, sensible, righteous, holy, self-controlled, 
+What is the Bible saying here? You have to be absolutely perfect? We cannot. That is why we have Christ.
 
-## Minister Like This: Love God 
+And this passage even gives grace for wherever we are at. For some Christians--if not most Christians--are saved but still struggle with unbelief. "I am a Christian but I cuss a little." That's fine (although we are called tp put away filthy language from our mouths--Colossians 3:8). The point is that the office of the overseer is one who does not struggle with cussing or anger or greed or being a bully or alcohol.
 
-><sup> 9 </sup>holding to the faithful message as taught, so that he will be able both to encourage with sound teaching and to refute those who contradict it.
+It is really a man marked with the fruit of the Spirit:
+
+>Galatians 5:22-23 (CSB) But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
+
+Which of us would be a mark of kindness or gentleness or joy? Which of us are patient? Have you met someone marked with faithfulness? These men might be make great elders if they desire to serve as one.
 
 ## The Gospel
 
+><sup> 9 </sup>holding to the faithful message as taught, so that he will be able both to encourage with sound teaching and to refute those who contradict it.
+
+## Minister Like This: Love God and Believe the Gospel
+
+1 Timothy 3:2 calls the the would-be elder that is "able to teach." What is does that look like? Here in verse 9.
+
+The elder must hear the gospel and recieves the gospel; believes the gospel and lives out that good news that Christ has saved his people from their sins.
+
+Yet, knowing God and his work in our lives, we know that this is not a one time thing. The gospel elder continues to hear the gospel and is continuously examined and formed by the doctrine and theology. They are continuously being equipped to sthat they can encourage others with sound teaching and be able to counter bad teaching.
+
+How does that training, education, and equipping looks like will look different from minister to minster according to the grace of God.
+
+And it all starts from one single premise:
+
+>1 Corinthians 15:1-5 (CSB) Now I want to make clear for you, brothers and sisters, the gospel I preached to you, which you received, on which you have taken your stand and by which you are being saved, if you hold to the message I preached to you — unless you believed in vain. For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, then to the Twelve.
+
+Believe on this and you shall be saved.
 
 ## The Discussion
 
 ```text
-1. 
+1. Why can we not assume that every pastor is saved?
 ```
 
 ```text
-2. 
+2. How do know for sure that someone else is saved? Can we see the heart like God?
 ```
 
 ```text
-3. 
+3. On the same thought, can we know when someone is not saved?
 ```
 
 ```text
-4. 
+4. How many Christians do you know who want to serve as an elder in their local church?
 ```
 
 ## The Prayer
 
 <div style='font-variant: small-caps;'>
-
+Beckoning of our Souls
 </div>
 
 ```text
+Call us to love and minister to one another.
 
+Amen.
 ```
 
 <div style="page-break-after: always;"></div>

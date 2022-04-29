@@ -11,7 +11,7 @@ series:
   - "Gospel NT: Pastorals"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
