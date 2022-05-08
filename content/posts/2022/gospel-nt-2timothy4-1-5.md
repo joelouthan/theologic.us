@@ -1,5 +1,5 @@
 ---
-title: "0171📺 Gospel NT: 2 Timothy 4:1-5 Charged by God"
+title: "Gospel NT: 2 Timothy 4:1-5 Charged by God"
 author: Joseph Louthan
 publishDate: 2022-04-27T06:00:00-06:00
 url: /gospel-nt/2022-04-27-gospel-nt-2-timothy/

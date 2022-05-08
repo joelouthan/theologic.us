@@ -1,5 +1,5 @@
 ---
-title: "0165📺 Study: Genesis 10 The Gospel Certainty: The Lineage of God"
+title: "Study: Genesis 10 The Gospel Certainty: The Lineage of God"
 author: Joseph Louthan
 publishDate: 2022-04-22T06:00:00-06:00
 url: /bible-study/2022-04-22-study-genesis/
