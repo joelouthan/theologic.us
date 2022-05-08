@@ -11,7 +11,7 @@ series:
   - "Bible Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
