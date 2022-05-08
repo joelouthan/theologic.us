@@ -1,8 +1,8 @@
 ---
 title: "Home Devotions: Matthew 1:24-25 Jesus Christ is Our Grace"
 author: Joseph Louthan
-publishDate: 2022-04-16T06:00:00-06:00
-url: /home-devos/2022-04-16-home-devos-matthew/
+publishDate: 2022-04-30T06:00:00-06:00
+url: /home-devos/2022-04-30-home-devos-matthew/
 categories:
   - Home Devotions
 tags:
