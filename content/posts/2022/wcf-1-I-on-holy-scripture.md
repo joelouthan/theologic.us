@@ -2,7 +2,6 @@
 title: "0173📺 Westminster Confession of Faith, Chapter 1.I On Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-01-12T06:00:00-06:00
-url: /confession/2022-01-12-westminster-confession/
 categories:
   - Confessions
 tags:

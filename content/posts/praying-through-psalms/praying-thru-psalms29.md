@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 29'
 author: Joseph Louthan
 publishDate: 2020-04-21
-url: /praying-through-psalmss/2020-04-21-praying-through-psalmss/
 categories:
   - Prayers
 tags:

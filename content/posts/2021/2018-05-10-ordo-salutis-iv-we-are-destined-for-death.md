@@ -2,7 +2,6 @@
 title: "📺 Doctrine: Ordo Salutis IV: We Are Destined For Death"
 author: Joseph Louthan
 date: 2018-05-10T12:00:53+00:00
-url: /ordo-salutis/ordo-salutis-iv-we-are-destined-for-death/
 categories:
   - Theology
 tags:

@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 22:22-24'
 author: Joseph Louthan
 date: 2018-05-15T12:00:06+00:00
-url: /prayer/praying-through-psalms-2222-24/
 categories:
   - Prayers
 tags:

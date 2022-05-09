@@ -2,7 +2,6 @@
 title: "🏠 Home Devotions: Matthew 1:22-23 Jesus Christ is Our Immanuel"
 author: Joseph Louthan
 publishDate: 2022-04-09T06:00:00-06:00
-url: /home-devos/2022-04-09-home-devos-matthew/
 categories:
   - Home Devotions
 tags:

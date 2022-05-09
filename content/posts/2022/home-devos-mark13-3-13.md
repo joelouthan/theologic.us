@@ -2,7 +2,6 @@
 title: "Home Devotions: Mark 13:3-13 What Does Christ Want? Our Hearts"
 author: Joseph Louthan
 publishDate: 2022-04-20T06:00:00-06:00
-url: /home-devos/2022-04-20-Wed-home-devos-mark/
 categories:
   - Home Devotions
 tags:

@@ -2,7 +2,6 @@
 title: '🏠📺 Study: Romans 1:1-7 God Alone Fulfills His Promises'
 author: Joseph Louthan
 publishDate: 2021-03-02T06:00:00-06:00
-url: /bible-study/2021-03-02-study-romans/
 categories:
   - Bible Study
 tags:

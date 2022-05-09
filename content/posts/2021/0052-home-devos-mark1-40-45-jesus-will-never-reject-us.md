@@ -2,7 +2,6 @@
 title: "🏠📺 Home Devotions: Mark 1:40-45 Jesus Accepts"
 author: Joseph Louthan
 date: 2012-08-13
-url: /home-devotions/mark-140-45-jesus-will-never-reject-us/
 categories:
   - Devotions
 tags:

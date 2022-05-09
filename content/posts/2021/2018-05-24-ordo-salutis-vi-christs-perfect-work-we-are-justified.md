@@ -2,7 +2,6 @@
 title: "📺 Doctrine: Ordo Salutis VI: Christ’s Perfect Work, We Are Justified"
 author: Joseph Louthan
 date: 2018-05-24T12:00:51+00:00
-url: /ordo-salutis/ordo-salutis-vi-christs-perfect-work-we-are-justified/
 categories:
   - Theology
 tags:

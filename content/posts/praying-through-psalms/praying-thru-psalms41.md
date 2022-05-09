@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 41'
 author: Joseph Louthan
 publishDate: 2021-02-09T12:00:00-06:00
-url: /prayers/2021-02-09-noon-praying-through-psalms/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,6 @@
 title: "Study: Romans 8:29a Who Defines Us Before The World Ever Began?"
 author: Joseph Louthan
 publishDate: 2022-05-30T06:00:00-06:00
-url: /bible-study/2022-05-30-study-romans/
 categories:
   - Bible Study
 tags:

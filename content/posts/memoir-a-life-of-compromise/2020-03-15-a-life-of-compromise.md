@@ -2,7 +2,6 @@
 title: 'A Life of Compromise: A Foreword'
 author: Joseph Louthan
 publishDate: 2020-03-15
-url: /memoir/2020-03-15-a-life-of-compromise/
 categories:
   - Memoir
 tags:

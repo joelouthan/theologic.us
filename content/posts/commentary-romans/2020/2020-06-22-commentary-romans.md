@@ -2,7 +2,6 @@
 title: 'Romans 1:18-20 The Righteousness of God: His Wrath'
 author: Joseph Louthan
 publishDate: 2020-06-22
-url: /commentary-romans/2020-06-22-commentary-romans/
 categories:
   - Commentary
 tags:

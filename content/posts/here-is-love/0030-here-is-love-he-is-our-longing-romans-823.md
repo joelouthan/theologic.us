@@ -2,7 +2,6 @@
 title: 'Here is Love: He is Our Longing – Romans 8:23'
 author: Joseph Louthan
 date: 2014-01-20T15:00:23+00:00
-url: /theology/here-is-love-he-is-our-longing-romans-823/
 categories:
   - Theology
 tags:

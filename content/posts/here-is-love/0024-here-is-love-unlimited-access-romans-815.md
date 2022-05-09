@@ -2,7 +2,6 @@
 title: 'Here is Love: Unlimited Access–Romans 8:15'
 author: Joseph Louthan
 date: 2013-04-22T14:00:44+00:00
-url: /theology/here-is-love-unlimited-access-romans-815/
 categories:
   - Theology
 tags:

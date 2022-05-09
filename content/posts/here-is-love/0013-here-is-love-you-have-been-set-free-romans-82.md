@@ -2,7 +2,6 @@
 title: 'Here is Love: You Have Been Set Free – Romans 8:2'
 author: Joseph Louthan
 date: 2012-11-12T15:00:23+00:00
-url: /theology/here-is-love-you-have-been-set-free-romans-82/
 categories:
   - Theology
 tags:

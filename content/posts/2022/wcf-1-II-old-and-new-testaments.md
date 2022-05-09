@@ -2,7 +2,6 @@
 title: "0179📺 Westminster Confession of Faith, Chapter 1.II The Old and New Testaments of Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-01-19T06:00:00-06:00
-url: /confession/2022-01-19-westminster/
 categories:
   - Confessions
 tags:

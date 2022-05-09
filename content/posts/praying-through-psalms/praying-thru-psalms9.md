@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 9'
 author: Joseph Louthan
 date: 2012-12-18T06:00:00-06:00
-url: /prayers/praying-through-psalms-9/
 categories:
   - Prayers
 tags:

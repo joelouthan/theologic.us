@@ -2,7 +2,6 @@
 title: "📺 Study: Genesis 6:8-9 The Gospel Certainty: The Grace of God"
 author: Joseph Louthan
 publishDate: 2021-09-02T06:00:00-06:00
-url: /bible-study/2021-09-02-study-genesis/
 categories:
   - Bible Study
 tags:

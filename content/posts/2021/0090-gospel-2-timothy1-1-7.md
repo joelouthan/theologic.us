@@ -2,7 +2,6 @@
 title: "0090📺 Gospel NT: 2 Timothy 1:1-7 Thanks Be To God!"
 author: Joseph Louthan
 publishDate: 2021-06-16T06:00:00-06:00
-url: /gospel-nt/2021-06-16-2nd-timothy/
 categories:
   - "Gospel NT"
 tags:

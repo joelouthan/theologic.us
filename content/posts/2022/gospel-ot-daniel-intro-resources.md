@@ -2,7 +2,6 @@
 title: "0167📺 Gospel OT: Daniel, An Introduction and Resources"
 author: Joseph Louthan
 publishDate: 2022-01-07T06:00:00-06:00
-url: /gospel-nt/2022-01-07-daniel/
 categories:
   - "Gospel OT"
 tags:

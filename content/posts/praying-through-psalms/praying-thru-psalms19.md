@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 19'
 author: Joseph Louthan
 date: 2013-09-03T06:00:00-06:00
-url: /prayers/praying-through-psalms-19/
 categories:
   - Prayers
 tags:

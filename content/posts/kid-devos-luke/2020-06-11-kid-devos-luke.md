@@ -2,7 +2,6 @@
 title: '🏠 Kid Devotions: Luke 4:1-13 How Did Jesus Face Temptations?'
 author: Joseph Louthan
 publishDate: 2020-06-11T06:00:00-06:00
-url: /kid-devotions/2020-06-11-kid-devotions-luke/
 categories:
   - Devotions
 tags:

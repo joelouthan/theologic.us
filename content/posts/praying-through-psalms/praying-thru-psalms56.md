@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 56"
 author: Joseph Louthan
 publishDate: 2021-03-03T06:00:00-06:00
-url: /prayers/2021-03-03-praying-through-psalms/
 categories:
   - Prayers
 tags:

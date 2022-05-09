@@ -2,7 +2,6 @@
 title: 'Romans 1:5-7 Who Are We? We Are Called to Obedience'
 author: Joseph Louthan
 publishDate: 2019-12-16
-url: /study-romans/2019-12-16-commentary-romans/
 categories:
   - Commentary
 tags:

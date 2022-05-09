@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 32:3a'
 author: Joseph Louthan
 publishDate: 2020-08-18
-url: /prayers/2020-08-18-praying-through-psalms/
 categories:
   - Prayers
 tags:

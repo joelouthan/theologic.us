@@ -2,7 +2,6 @@
 title: 'A Life of Compromise: 4. How to Be Released and Then Imprisoned'
 author: Joseph Louthan
 publishDate: 2020-04-01
-url: /memoir/2020-04-01-a-life-of-compromise/
 categories:
   - Memoir
 tags:

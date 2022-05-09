@@ -2,7 +2,6 @@
 title: "A Few Quotes: Dustin Benge"
 author: Joseph Louthan
 publishDate: 2020-06-12T06:00:00-06:00
-url: /a-few-quotes/2020-06-12-a-few-quotes/
 categories:
   - Quotes
 tags:

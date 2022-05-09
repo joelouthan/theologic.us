@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 3:7-19 Jesus is on Mission"
 author: Joseph Louthan
 date: 2012-09-03
-url: /home-devotions/mark-36-21-jesus-is-on-mission-from-the-father/
 categories:
   - Devotions
 tags:

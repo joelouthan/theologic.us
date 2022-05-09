@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 31:1-2'
 author: Joseph Louthan
 publishDate: 2020-06-02
-url: /praying-through-psalmss/2020-06-02-praying-through-psalmss/
 categories:
   - Prayers
 tags:

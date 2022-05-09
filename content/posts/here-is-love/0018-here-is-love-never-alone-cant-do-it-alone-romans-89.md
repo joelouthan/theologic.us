@@ -2,7 +2,6 @@
 title: 'Here is Love: Never Alone, Can’t Do It Alone – Romans 8:9'
 author: Joseph Louthan
 date: 2013-01-28T15:00:54+00:00
-url: /theology/here-is-love-never-alone-cant-do-it-alone-romans-89/
 categories:
   - Theology
 tags:

@@ -2,7 +2,6 @@
 title: "0165📺 Home Devotions: Mark 10:46-52 God Alone Receives The Poor"
 author: Joseph Louthan
 publishDate: 2022-01-12T06:00:00-06:00
-url: /home-devotions/2022-01-12-Wed-home-devos-mark/
 categories:
   - Home Devotions
 tags:

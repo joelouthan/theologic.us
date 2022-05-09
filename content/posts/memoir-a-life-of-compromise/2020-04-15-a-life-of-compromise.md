@@ -2,7 +2,6 @@
 title: 'A Life of Compromise: 5. Why Am I Being Hurt? [Part 1]'
 author: Joseph Louthan
 publishDate: 2020-04-15
-url: /memoir/2020-04-15-a-life-of-compromise/
 categories:
   - Memoir
 tags:

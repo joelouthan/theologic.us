@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 11'
 author: Joseph Louthan
 date: 2013-01-15T06:00:00-06:00
-url: /prayers/praying-through-psalms-11/
 categories:
   - Prayers
 tags:

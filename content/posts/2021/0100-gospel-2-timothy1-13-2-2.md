@@ -2,7 +2,6 @@
 title: "0100📺 Gospel NT: 2 Timothy 1:13-2:2 Taught By God"
 author: Joseph Louthan
 publishDate: 2021-06-30T06:00:00-06:00
-url: /gospel-nt/2021-06-30-2nd-timothy/
 categories:
   - "Gospel NT"
 tags:

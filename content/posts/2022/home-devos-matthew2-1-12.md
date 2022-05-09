@@ -2,7 +2,6 @@
 title: "Home Devotions: Matthew 2:1-12 Jesus Christ is Our King"
 author: Joseph Louthan
 publishDate: 2022-05-07T06:00:00-06:00
-url: /home-devos/2022-05-07-home-devos-matthew/
 categories:
   - Home Devotions
 tags:

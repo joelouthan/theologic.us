@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 9:30-32 God Alone is Over Death"
 author: Joseph Louthan
 publishDate: 2021-12-14T06:00:00-06:00
-url: /home-devotions/2021-12-14-home-devos-mark/
 categories:
   - Home Devotions
 tags:

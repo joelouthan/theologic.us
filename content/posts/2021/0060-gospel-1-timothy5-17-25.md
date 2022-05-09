@@ -2,7 +2,6 @@
 title: "0060📺 Gospel NT: 1 Timothy 5:17-25 Christ our Eldest Brother"
 author: Joseph Louthan
 publishDate: 2021-05-05T06:00:00-06:00
-url: /gospel-nt/2021-05-05-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:

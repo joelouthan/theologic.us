@@ -2,7 +2,6 @@
 title: "📺 Doctrine: Ordo Salutis III: For God So Loved The World"
 author: Joseph Louthan
 date: 2018-04-27T06:00:00-06:00
-url: /ordo-salutis/ordo-salutis-iii-for-god-so-loved-the-world/
 categories:
   - Theology
 tags:

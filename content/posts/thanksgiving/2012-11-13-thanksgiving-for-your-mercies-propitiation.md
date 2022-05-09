@@ -2,7 +2,6 @@
 title: Thanksgiving for Your Mercies—Propitiation
 author: Joseph Louthan
 date: 2012-11-13
-url: /scriptures/thanksgiving-for-your-mercies-propitiation/
 categories:
   - Doxology
   - Scriptures

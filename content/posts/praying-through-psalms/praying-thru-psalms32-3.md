@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 32:8-9'
 author: Joseph Louthan
 publishDate: 2020-11-02T20:00:00-06:00
-url: /prayers/2020-11-02-pm-praying-through-psalms/
 categories:
   - Prayers
 tags:

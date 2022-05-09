@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 79"
 author: Joseph Louthan
 publishDate: 2021-06-22T06:00:00-06:00
-url: /prayers/2021-06-22-praying-through-psalms/
 categories:
   - Prayers
 tags:

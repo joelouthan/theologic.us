@@ -2,7 +2,6 @@
 title: "0080📺 Gospel NT: 1 Timothy 6:17-19 Hope in Christ"
 author: Joseph Louthan
 publishDate: 2021-06-02T06:00:00-06:00
-url: /gospel-nt/2021-06-02-gospel-nt-1-timothy/
 categories:
   - "Gospel NT"
 tags:

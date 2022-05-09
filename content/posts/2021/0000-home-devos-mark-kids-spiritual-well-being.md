@@ -2,7 +2,6 @@
 title: "🏠📺Kids’ Spiritual Well-Being For the Sake of the Gospel?"
 author: Joseph Louthan
 date: 2012-07-27
-url: /home-devotions/2012-07-26-home-devotions-mark/
 categories:
   - Devotions
 tags:

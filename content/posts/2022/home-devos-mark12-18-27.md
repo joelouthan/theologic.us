@@ -2,7 +2,6 @@
 title: "0173📺 Home Devotions: Mark 12:18-27 So That We Might Live and Be With Him Forever"
 author: Joseph Louthan
 publishDate: 2022-01-28T06:00:00-06:00
-url: /home-devos/2022-01-28-Fri-home-devos-mark/
 categories:
   - Home Devotions
 tags:

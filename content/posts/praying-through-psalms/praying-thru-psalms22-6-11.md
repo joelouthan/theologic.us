@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 22:6-11'
 author: Joseph Louthan
 date: 2018-04-24T12:00:39+00:00
-url: /prayer/praying-through-psalms-22-6-11/
 categories:
   - Prayers
 tags:

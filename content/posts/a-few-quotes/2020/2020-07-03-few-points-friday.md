@@ -2,7 +2,6 @@
 title: "A Few Quotes: On Believing"
 author: Joseph Louthan
 publishDate: 2020-07-03T06:00:00-06:00
-url: /a-few-quotes/2020-07-03-a-few-quotes/
 categories:
   - Quotes
 tags:

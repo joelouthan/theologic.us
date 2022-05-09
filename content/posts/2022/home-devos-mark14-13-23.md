@@ -2,7 +2,6 @@
 title: "Home Devotions: Mark 13:14-23 What Does Christ Want? Our Attention"
 author: Joseph Louthan
 publishDate: 2022-04-21T06:00:00-06:00
-url: /home-devos/2022-04-21-Thu-home-devos-mark/
 categories:
   - Home Devotions
 tags:

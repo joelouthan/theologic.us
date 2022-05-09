@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 69"
 author: Joseph Louthan
 publishDate: 2021-04-13T06:00:00-06:00
-url: /prayers/2021-04-13-praying-through-psalms/
 categories:
   - Prayers
 tags:

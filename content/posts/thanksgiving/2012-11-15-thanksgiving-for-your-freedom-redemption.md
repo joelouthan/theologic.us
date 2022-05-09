@@ -2,7 +2,6 @@
 title: Thanksgiving for Your Freedom—Redemption
 author: Joseph Louthan
 date: 2012-11-15
-url: /scriptures/thanksgiving-for-your-freedom-redemption/
 categories:
   - Doxology
   - Scriptures

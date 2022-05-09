@@ -2,7 +2,6 @@
 title: "📺 Study: Genesis 1:20-25 Our Forever Creator"
 author: Joseph Louthan
 publishDate: 2021-07-01T06:00:00-06:00
-url: /bible-study/2021-07-01-study-genesis/
 categories:
   - Bible Study
 tags:

@@ -2,7 +2,6 @@
 title: "🏠📺 Home Devotions: Mark 1:29-34 Jesus Heals"
 author: Joseph Louthan
 date: 2012-08-09
-url: /home-devotions/mark-129-34-jesus-heals-the-sick/
 categories:
   - Devotions
 tags:

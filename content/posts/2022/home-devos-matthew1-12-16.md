@@ -2,7 +2,6 @@
 title: "🏠 Home Devotions: Matthew 1:12-16 Jesus Christ is Our Messiah"
 author: Joseph Louthan
 publishDate: 2022-02-12T06:00:00-06:00
-url: /home-devos/2022-02-12-home-devos-matthew/
 categories:
   - Home Devotions
 tags:

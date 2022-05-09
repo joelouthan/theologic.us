@@ -2,7 +2,6 @@
 title: "0175📺 Home Devotions: Mark 12:35-37 So That We Might Live and Be Glorified"
 author: Joseph Louthan
 publishDate: 2022-02-03T06:00:00-06:00
-url: /home-devos/2022-02-03-Thu-home-devos-mark/
 categories:
   - Home Devotions
 tags:

@@ -2,8 +2,6 @@
 title: In Christ Alone
 author: Joseph Louthan
 date: 2018-08-11T12:00:46+00:00
-url: /scriptual-prooftext-lyrics/in-christ-alone/
-featured_image: https://i2.wp.com/theologic.us/wp-content/uploads/2018/08/91pNKDTmv6L.jpg?resize=825%2C510
 categories:
   - lyrics
 tags:

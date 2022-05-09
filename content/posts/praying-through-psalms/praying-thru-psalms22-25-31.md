@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 22:25-31'
 author: Joseph Louthan
 date: 2018-05-22T12:00:16+00:00
-url: /prayer/praying-through-psalms-2225-31/
 categories:
   - Prayers
 tags:

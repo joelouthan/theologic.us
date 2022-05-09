@@ -2,7 +2,6 @@
 title: 'Here is Love: Our Sin is Death, Our God is Life – Romans 8:10'
 author: Joseph Louthan
 date: 2013-02-04T15:00:42+00:00
-url: /theology/here-is-love-our-sin-is-death-our-god-is-life-romans-810/
 categories:
   - Theology
 tags:

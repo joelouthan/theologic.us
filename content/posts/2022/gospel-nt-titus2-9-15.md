@@ -2,7 +2,6 @@
 title: "Gospel NT: Titus 2:9-15 Teach Like This: One with Christ "
 author: Joseph Louthan
 publishDate: 2022-05-12T06:00:00-06:00
-url: /gospel-nt/2022-05-12-gospel-nt-titus/
 categories:
   - Gospel
 tags:

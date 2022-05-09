@@ -2,7 +2,6 @@
 title: 'Romans 1:5-7 Who Are We? We Are Far From God'
 author: Joseph Louthan
 publishDate: 2019-12-02
-url: /commentary-romans/2019-12-02-commentary-romans/
 categories:
   - Commentary
 tags:

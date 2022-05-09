@@ -2,7 +2,6 @@
 title: "📺 Study: Genesis 9:18-29 The Gospel Certainty: The Glory of God"
 author: Joseph Louthan
 publishDate: 2021-10-28T06:00:00-06:00
-url: /bible-study/2021-10-28-study-genesis/
 categories:
   - Bible Study
 tags:

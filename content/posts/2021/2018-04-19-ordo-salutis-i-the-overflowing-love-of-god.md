@@ -2,7 +2,6 @@
 title: "📺 Doctrine: Ordo Salutis I: The Overflowing Love of God"
 author: Joseph Louthan
 date: 2018-04-19T12:00:48+00:00
-url: /ordo-salutis/ordo-salutis-i-the-overflowing-love-of-god/
 categories:
   - Theology
 tags:

@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 3:1-6 Jesus is Life"
 author: Joseph Louthan
 date: 2012-08-29
-url: /home-devotions/mark-31-6-jesus-softens-hearts/
 categories:
   - Devotions
 tags:

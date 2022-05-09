@@ -2,7 +2,6 @@
 title: "0110📺 Gospel NT: 2 Timothy 2:15-19 Truth by God"
 author: Joseph Louthan
 publishDate: 2021-07-14T06:00:00-06:00
-url: /gospel-nt/2021-07-14-2nd-timothy/
 categories:
   - "Gospel NT"
 tags:

@@ -2,7 +2,6 @@
 title: '🏠 Kid Devotions: Luke 2:1-7 God Becomes Man [Part 1]'
 author: Joseph Louthan
 publishDate: 2020-01-15T06:00:00-06:00
-url: /kid-devotions/2020-01-15-kid-devotions-luke/
 categories:
   - Devotions
 tags:

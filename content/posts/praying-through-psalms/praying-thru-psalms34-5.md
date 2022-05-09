@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 34:7'
 author: Joseph Louthan
 publishDate: 2020-11-10T06:00:00-06:00
-url: /prayers/2020-11-10-am-praying-through-psalms/
 categories:
   - Prayers
 tags:

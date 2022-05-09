@@ -2,7 +2,6 @@
 title: 'Here is Love: Predestined by God - Romans 8:30a'
 author: Joseph Louthan
 date: 2018-06-11T12:00:41+00:00
-url: /theology/romans-830a-predestined/
 categories:
   - Theology
 tags:

@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 23:4a Through the Valley of the Shadow of Death'
 author: Joseph Louthan
 date: 2018-07-10T12:00:41+00:00
-url: /prayer/praying-through-psalms-0234a-through-the-valley-of-the-shadow-of-death/
 categories:
   - Prayers
 tags:

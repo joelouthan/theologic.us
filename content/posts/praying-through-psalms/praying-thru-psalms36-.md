@@ -3,7 +3,6 @@ title: 'Praying Through: Psalm 36:1-4'
 author: Joseph Louthan
 type: post
 publishDate: 2020-12-29T12:00:00-06:00
-url: /now_sings_my_soul_psalm/2020-12-29-noon-now_sings_my_soul_psalm/
 categories:
   - Prayers
 tags:

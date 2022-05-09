@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 7:7-13 The Word of God is Law"
 author: Joseph Louthan
 publishDate: 2021-11-19T06:00:00-06:00
-url: /home-devotions/2021-11-19-home-devos-mark/
 categories:
   - Home Devotions
 tags:

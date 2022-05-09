@@ -2,7 +2,6 @@
 title: " 📺 Home Devotions: Mark 6:14-29 Jesus is the Lord over Humanity"
 author: Joseph Louthan
 publishDate: 2021-11-14T06:00:00-06:00
-url: /home-devotions/2021-11-14-home-devos-mark/
 categories:
   - Home Devotions
 tags:

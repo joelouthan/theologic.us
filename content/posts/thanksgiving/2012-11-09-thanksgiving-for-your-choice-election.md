@@ -2,7 +2,6 @@
 title: Thanksgiving for Your Choice—Election
 author: Joseph Louthan
 date: 2012-11-09
-url: /scriptures/thanksgiving-for-your-choice-election/
 categories:
   - Doxology
   - Scriptures

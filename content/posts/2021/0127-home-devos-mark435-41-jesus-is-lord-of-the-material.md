@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 4:35-41 Jesus is Lord of the Material"
 author: Joseph Louthan
 date: 2013-01-09
-url: /home-devotions/mark-435-41-jesus-is-lord-over-the-storm/
 categories:
   - Devotions
 tags:

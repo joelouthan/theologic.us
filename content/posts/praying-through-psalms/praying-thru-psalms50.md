@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 50"
 author: Joseph Louthan
 publishDate: 2021-02-24T06:00:00-06:00
-url: /prayers/2021-02-24-0900-praying-through-psalms/
 categories:
   - Prayers
 tags:

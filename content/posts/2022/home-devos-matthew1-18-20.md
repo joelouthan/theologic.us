@@ -2,7 +2,6 @@
 title: "🏠 Home Devotions: Matthew 1:18-20 Jesus Christ is Our Righteousness"
 author: Joseph Louthan
 publishDate: 2022-03-26T06:00:00-06:00
-url: /home-devos/2022-03-26-home-devos-matthew/
 categories:
   - Home Devotions
 tags:

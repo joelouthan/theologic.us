@@ -2,7 +2,6 @@
 title: "📺 Doctrine: Ordo Salutis XII: Our New Body – Spirit's Power in Our Glorification"
 author: Joseph Louthan
 date: 2018-07-05T12:00:42+00:00
-url: /ordo-salutis/our-new-body-spirits-power-in-our-glorification/
 categories:
   - Theology
 tags:

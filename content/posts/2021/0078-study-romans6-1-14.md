@@ -2,7 +2,6 @@
 title: '📺🏠 Study: Romans 6:1-14 God Kills Our Sin'
 author: Joseph Louthan
 publishDate: 2021-03-18T06:00:00-06:00
-url: /bible-study/2021-03-18-study-romans/
 categories:
   - Bible Study
 tags:

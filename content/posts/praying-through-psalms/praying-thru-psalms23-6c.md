@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 23:6c You Will Always Be With Me'
 author: Joseph Louthan
 publishDate: 2019-11-12
-url: /praying-through-psalmss/2019-11-12-praying-through-psalmss/
 categories:
   - Prayers
 tags:

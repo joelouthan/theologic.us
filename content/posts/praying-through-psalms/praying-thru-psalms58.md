@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 58"
 author: Joseph Louthan
 publishDate: 2021-03-05T06:00:00-06:00
-url: /prayers/2021-03-05-praying-through-psalms/
 categories:
   - Prayers
 tags:

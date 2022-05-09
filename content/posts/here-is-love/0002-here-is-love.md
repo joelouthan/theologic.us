@@ -2,7 +2,6 @@
 title: Here is Love
 author: Joseph Louthan
 date: 2012-08-22T15:00:43+00:00
-url: /doxology/here-is-love/
 categories:
   - Doxology
 tags:

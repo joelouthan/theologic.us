@@ -2,7 +2,6 @@
 title: 'Here is Love: God to Man and Man to God—2 Corinthians 5:21'
 author: Joseph Louthan
 date: 2012-10-08T14:00:52+00:00
-url: /theology/here-is-love-god-to-man-and-man-to-god/
 categories:
   - Theology
 tags:

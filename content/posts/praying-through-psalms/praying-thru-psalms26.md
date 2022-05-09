@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 26'
 author: Joseph Louthan
 publishDate: 2019-12-20
-url: /praying-through-psalmss/2019-12-20-praying-through-psalmss/
 categories:
   - Prayers
 tags:

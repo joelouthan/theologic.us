@@ -2,7 +2,6 @@
 title: 'Romans 1:16-17 What is the Gospel? For Salvation [Part 2]'
 author: Joseph Louthan
 publishDate: 2020-04-20
-url: /commentary-romans/2020-04-20-commentary-romans/
 categories:
   - Commentary
 tags:

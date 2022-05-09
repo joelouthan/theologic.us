@@ -2,7 +2,6 @@
 title: "0181📺 Study: Genesis 12 The Gospel Predestination "
 author: Joseph Louthan
 publishDate: 2022-01-20T06:00:00-06:00
-url: /bible-study/2022-01-20-study-genesis/
 categories:
   - Bible Study
 tags:

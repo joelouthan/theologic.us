@@ -2,7 +2,6 @@
 title: "📺 Doctrine: Romans 8:14-17 Pray Like This, Our Father in Heaven"
 author: Joseph Louthan
 date: 2018-07-26T06:00:00-06:00
-url: /prayer/2018-07-26-praying-through-the-lords-prayer/
 categories:
   - Prayers
   - Doctrine

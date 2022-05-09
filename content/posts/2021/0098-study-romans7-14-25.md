@@ -2,7 +2,6 @@
 title: '📺 Study: Romans 7:14-25 Then, God Saves Us From Our Sin'
 author: Joseph Louthan
 publishDate: 2021-03-21T12:00:00-06:00
-url: /bible-study/2021-03-21a-study-romans/
 categories:
   - Bible Study
 tags:

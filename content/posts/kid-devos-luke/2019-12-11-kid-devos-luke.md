@@ -2,7 +2,6 @@
 title: '🏠 Kid Devotions: Luke 1:26-38 God Calls Us To Him'
 author: Joseph Louthan
 publishDate: 2019-12-11T06:00:00-06:00
-url: /kid-devotions/2019-12-11-kid-devotions-luke/
 categories:
   - Devotions
 tags:

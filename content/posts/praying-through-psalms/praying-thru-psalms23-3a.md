@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 23:3a He Restores My Soul'
 author: Joseph Louthan
 date: 2018-06-26T12:00:47+00:00
-url: /prayer/praying-through-psalms-23_3a-he-restores-my-soul/
 categories:
   - Prayers
 tags:

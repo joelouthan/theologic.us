@@ -3,7 +3,6 @@ title: 'Praying Through: Psalm 23:1a The Lord Is My Shepherd'
 author: Joseph Louthan
 type: post
 date: 2018-05-29T12:00:05+00:00
-url: /prayer/psalm-231a-the-lord-is-my-shepherd/
 categories:
   - Prayers
 tags:

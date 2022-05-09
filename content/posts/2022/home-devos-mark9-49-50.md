@@ -2,7 +2,6 @@
 title: "0158📺 Home Devotions: Mark 9:49-50 God Alone is Our Source"
 author: Joseph Louthan
 publishDate: 2022-01-03T06:00:00-06:00
-url: /home-devotions/2022-01-03-home-devos-mark/
 categories:
   - Home Devotions
 tags:

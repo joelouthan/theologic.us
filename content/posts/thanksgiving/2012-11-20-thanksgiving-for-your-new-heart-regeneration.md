@@ -2,7 +2,6 @@
 title: Thanksgiving for Your New Heart—Regeneration
 author: Joseph Louthan
 date: 2012-11-20
-url: /scriptures/thanksgiving-for-your-new-heart-regeneration/
 categories:
   - Doxology
   - Scriptures

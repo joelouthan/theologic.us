@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 4'
 author: Joseph Louthan
 date: 2012-10-23T06:00:00-06:00
-url: /prayers/praying-through-psalms-4/
 categories:
   - Prayers
 tags:

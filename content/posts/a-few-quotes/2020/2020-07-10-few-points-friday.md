@@ -2,7 +2,6 @@
 title: "A Few Quotes: Gospel of God Foremost"
 author: Joseph Louthan
 publishDate: 2020-07-10T06:00:00-06:00
-url: /a-few-quotes/2020-07-10-a-few-quotes/
 categories:
   - Quotes
 tags:

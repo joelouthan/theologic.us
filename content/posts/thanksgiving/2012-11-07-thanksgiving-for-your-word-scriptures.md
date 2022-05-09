@@ -2,7 +2,6 @@
 title: Thanksgiving for Your Word—Scriptures
 author: Joseph Louthan
 date: 2012-11-07
-url: /scriptures/thanksgiving-for-your-word-scriptures/
 categories:
   - Doxology
   - Scriptures

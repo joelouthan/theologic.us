@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 35:6'
 author: Joseph Louthan
 publishDate: 2021-01-05T06:00:00-06:00
-url: /now_sings_my_soul_psalm/2021-01-05-am-now_sings_my_soul_psalm/
 categories:
   - Prayers
 tags:

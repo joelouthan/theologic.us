@@ -2,7 +2,6 @@
 title: "Home Devotions: Mark 13:1-2 What Does Christ Want? Our Sin"
 author: Joseph Louthan
 publishDate: 2022-04-19T06:00:00-06:00
-url: /home-devos/2022-04-19-Tue-home-devos-mark/
 categories:
   - Home Devotions
 tags:

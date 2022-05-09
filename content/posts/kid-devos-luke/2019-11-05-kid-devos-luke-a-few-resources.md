@@ -2,7 +2,6 @@
 title: "🏠Kid Devotions: Luke, A Few Resources"
 author: Joseph Louthan
 publishDate: 2019-11-05T06:00:00-06:00
-url: /devotions/2019-11-05-kid-devotions-luke-a-few-resources/
 categories:
   - Bibliography
   - Devotions

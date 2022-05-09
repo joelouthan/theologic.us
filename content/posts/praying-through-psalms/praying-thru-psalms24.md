@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 24'
 author: Joseph Louthan
 publishDate: 2019-12-06
-url: /praying-through-psalmss/2019-12-06-praying-through-psalmss/
 categories:
   - Prayers
 tags:

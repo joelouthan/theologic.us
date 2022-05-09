@@ -2,7 +2,6 @@
 title: "🏠 Kid Devotions: Luke 1:1-4 To Be Called A Witness"
 author: Joseph Louthan
 publishDate: 2019-11-06T06:00:00-06:00
-url: /devotions/2019-11-06-kid-devotions-luke-to-be-called-a-witness/
 categories:
   - Devotions
 tags:

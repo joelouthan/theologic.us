@@ -2,7 +2,6 @@
 title: 'Here is Love: How Did God Save Us? – Romans 8:29b'
 author: Joseph Louthan
 date: 2018-05-14T12:00:32+00:00
-url: /theology/here-is-love-how-did-god-save-us-romans-829b/
 categories:
   - Theology
 tags:

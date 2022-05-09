@@ -2,7 +2,6 @@
 title: "Gospel NT: 2 Timothy 4:6-22 Glorified by God"
 author: Joseph Louthan
 publishDate: 2022-05-04T06:00:00-06:00
-url: /gospel-nt/2022-05-04-gospel-nt-2-timothy/
 categories:
   - "Gospel NT"
 tags:

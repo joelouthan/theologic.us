@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 36:10-12'
 author: Joseph Louthan
 publishDate: 2021-01-05T20:00:00-06:00
-url: /now_sings_my_soul_psalm/2021-01-05-pm-now_sings_my_soul_psalm/
 categories:
   - Prayers
 tags:

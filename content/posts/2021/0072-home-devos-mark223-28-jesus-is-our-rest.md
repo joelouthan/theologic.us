@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 2:23-28 Jesus is Our Rest"
 author: Joseph Louthan
 date: 2012-08-27
-url: /home-devotions/13-mark-223-28-jesus-is-our-rest/
 categories:
   - Devotions
 tags:

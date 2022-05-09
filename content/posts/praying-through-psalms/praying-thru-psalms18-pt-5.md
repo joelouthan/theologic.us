@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 18, Pt. 5'
 author: Joseph Louthan
 date: 2013-08-27T06:00:00-06:00
-url: /prayers/praying-through-psalms-18-pt-5/
 categories:
   - Prayers
 tags:

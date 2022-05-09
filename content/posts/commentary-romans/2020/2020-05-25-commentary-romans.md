@@ -2,7 +2,6 @@
 title: 'Romans 1:16-17 What is the Gospel? From Faith For Faith [Part 6]'
 author: Joseph Louthan
 publishDate: 2020-05-25
-url: /commentary-romans/2020-05-25-commentary-romans/
 categories:
   - Commentary
 tags:

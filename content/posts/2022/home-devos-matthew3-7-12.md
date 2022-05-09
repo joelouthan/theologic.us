@@ -1,30 +1,23 @@
 ---
-title: "Gospel NT: Titus 3:8-11 Live Like This: Lead by the Spirit"
+title: "Home Devotions: Matthew 3:7-12 Jesus Christ is Our Repentance"
 author: Joseph Louthan
-publishDate: 2022-05-14T06:00:00-06:00
-url: /gospel-nt/2022-05-14-gospel-nt-titus/
+publishDate: 2022-06-11T06:00:00-06:00
 categories:
-  - Gospel
+  - Home Devotions
 tags:
-  - "Titus"
+  - "Matthew"
 series:
-  - "Gospel NT: Titus"
+  - "Home Devotions: Matthew"
 tocopen: true
 css: "prayers"
 draft: true
 ---
-## The Introduction
-
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
-<div style="page-break-after: always;"></div>
-
-## The Meditation
 
 
-## The Gospel
+## The Devotion
+
 
 
 ## The Discussion
@@ -47,6 +40,8 @@ draft: true
 
 ## The Prayer
 
+>
+
 <div style='font-variant: small-caps;'>
 
 </div>
@@ -54,6 +49,8 @@ draft: true
 ```text
 
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## The Media
 

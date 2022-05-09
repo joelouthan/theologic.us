@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 22:19-21'
 author: Joseph Louthan
 date: 2018-05-08T12:00:50+00:00
-url: /prayer/praying-through-psalms-2219-21/
 categories:
   - Prayers
 tags:

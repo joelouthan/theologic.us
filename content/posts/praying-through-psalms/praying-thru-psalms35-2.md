@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 35:7-28'
 author: Joseph Louthan
 publishDate: 2020-12-29T06:00:00-06:00
-url: /now_sings_my_soul_psalm/2020-12-29-am-now_sings_my_soul_psalm/
 categories:
   - Prayers
 tags:

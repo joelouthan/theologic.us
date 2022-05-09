@@ -2,7 +2,6 @@
 title: 'Kid Devotions: Luke 18 Christ Is God'
 author: Joseph Louthan
 publishDate: 2021-03-18T06:00:00-06:00
-url: /kid-devotions/2021-03-18-kid-devotions-luke/
 categories:
   - Devotions
 tags:

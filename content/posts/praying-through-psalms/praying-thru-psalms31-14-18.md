@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 31:14-18'
 author: Joseph Louthan
 publishDate: 2020-07-07
-url: /prayers/2020-07-07-praying-through-psalms/
 categories:
   - Prayers
 tags:

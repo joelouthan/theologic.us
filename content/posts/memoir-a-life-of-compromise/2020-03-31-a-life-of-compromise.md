@@ -2,7 +2,6 @@
 title: 'A Life of Compromise: 3. How To Be Rescued and Then Abandoned'
 author: Joseph Louthan
 publishDate: 2020-03-31
-url: /memoir/2020-03-31-a-life-of-compromise/
 categories:
   - Memoir
 tags:

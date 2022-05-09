@@ -2,7 +2,6 @@
 title: Thanksgiving for Your Weight–Glorification
 author: Joseph Louthan
 date: 2012-11-28
-url: /scriptures/thanksgiving-for-your-weight-glorification/
 categories:
   - Doxology
   - Scriptures

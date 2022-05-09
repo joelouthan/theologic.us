@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 37:12-13'
 author: Joseph Louthan
 publishDate: 2021-01-26T12:00:00-06:00
-url: /prayers/2021-01-26-noon-praying-through-psalms/
 categories:
   - Prayers
 tags:

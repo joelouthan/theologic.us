@@ -2,7 +2,6 @@
 title: "0164📺 Home Devotions: Mark 10:32-45 God Alone Receives the Dead"
 author: Joseph Louthan
 publishDate: 2022-01-11T06:00:00-06:00
-url: /home-devotions/2022-01-11-Tue-home-devos-mark/
 categories:
   - Home Devotions
 tags:

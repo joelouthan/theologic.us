@@ -2,7 +2,6 @@
 title: 'Here is Love: To Whom Are We Saved? – Romans 8:29e'
 author: Joseph Louthan
 date: 2018-06-04T12:00:53+00:00
-url: /theology/here-is-love-to-whom-are-we-saved-romans-829e/
 categories:
   - Theology
 tags:

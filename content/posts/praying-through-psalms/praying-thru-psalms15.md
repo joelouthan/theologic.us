@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 15'
 author: Joseph Louthan
 date: 2013-03-05T06:00:00-06:00
-url: /prayers/praying-through-psalms-15/
 categories:
   - Prayers
 tags:

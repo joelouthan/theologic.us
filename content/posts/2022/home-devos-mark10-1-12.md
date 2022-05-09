@@ -2,7 +2,6 @@
 title: "0159📺 Home Devotions: Mark 10:1-12 God Alone Receives the Widow"
 author: Joseph Louthan
 publishDate: 2022-01-04T06:00:00-06:00
-url: /home-devotions/2022-01-04-home-devos-mark/
 categories:
   - Home Devotions
 tags:

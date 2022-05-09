@@ -2,7 +2,6 @@
 title: "🏠📺 Home Devotions: Mark 1:1 Jesus is the Good News"
 author: Joseph Louthan
 date: 2012-07-30
-url: /home-devotions/2012-07-30-home-devotions-mark/
 categories:
   - Devotions
 tags:

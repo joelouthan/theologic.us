@@ -2,7 +2,6 @@
 title: '🏠📺 Study: Romans 1:8-12 God Alone Reigns'
 author: Joseph Louthan
 publishDate: 2021-03-03T06:00:00-06:00
-url: /bible-study/2021-03-03-study-romans/
 categories:
   - Bible Study
 tags:

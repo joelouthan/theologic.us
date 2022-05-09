@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 4:13-20 Jesus Sows, We Grow"
 author: Joseph Louthan
 date: 2012-10-24
-url: /home-devotions/mark-413-20-jesus-sows-we-grow/
 categories:
   - Devotions
 tags:

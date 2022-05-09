@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 33:12'
 author: Joseph Louthan
 publishDate: 2020-11-07T06:00:00-06:00
-url: /prayers/2020-11-07-am-praying-through-psalms/
 categories:
   - Prayers
 tags:

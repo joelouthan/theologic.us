@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 37:3'
 author: Joseph Louthan
 publishDate: 2021-01-12T12:00:00-06:00
-url: /now_sings_my_soul_psalm/2021-01-12-noon-now_sings_my_soul_psalm/
 categories:
   - Prayers
 tags:

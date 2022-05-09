@@ -2,7 +2,6 @@
 title: 'A Life of Compromise: 7. How to Be Hurt and Not Believed'
 author: Joseph Louthan
 publishDate: 2020-05-20
-url: /memoir/2020-05-20-a-life-of-compromise/
 categories:
   - Memoir
 tags:

@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 30:8-10'
 author: Joseph Louthan
 publishDate: 2020-05-19
-url: /praying-through-psalmss/2020-05-19-praying-through-psalmss/
 categories:
   - Prayers
 tags:

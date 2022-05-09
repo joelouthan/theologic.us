@@ -2,7 +2,6 @@
 title: "📺 Study: Genesis 6:10-22 The Gospel Certainty: The Holiness of God"
 author: Joseph Louthan
 publishDate: 2021-09-09T06:00:00-06:00
-url: /bible-study/2021-09-09-study-genesis/
 categories:
   - Bible Study
 tags:

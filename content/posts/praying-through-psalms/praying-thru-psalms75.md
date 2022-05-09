@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 75"
 author: Joseph Louthan
 publishDate: 2021-05-25T06:00:00-06:00
-url: /prayers/2021-05-25-praying-through-psalms/
 categories:
   - Prayers
 tags:

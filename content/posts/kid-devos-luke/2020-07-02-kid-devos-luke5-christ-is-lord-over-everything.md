@@ -2,7 +2,6 @@
 title: '🏠 Kid Devotions: Luke 5: Christ is Lord Over Everything'
 author: Joseph Louthan
 publishDate: 2020-07-02T06:00:00-06:00
-url: /kid-devotions/2020-07-02-kid-devotions-luke/
 categories:
   - Devotions
 tags:

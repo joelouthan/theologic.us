@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 4:23-25 Jesus Gives More, Do We Receive?"
 author: Joseph Louthan
 date: 2012-11-07
-url: /home-devotions/mark-423-25-jesus-gives-more-do-we-receive/
 categories:
   - Devotions
 tags:

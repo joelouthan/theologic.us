@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 34:10'
 author: Joseph Louthan
 publishDate: 2020-11-11T06:00:00-06:00
-url: /prayers/2020-11-11-am-praying-through-psalms/
 categories:
   - Prayers
 tags:

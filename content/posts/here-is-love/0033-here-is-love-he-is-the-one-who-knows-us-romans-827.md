@@ -2,7 +2,6 @@
 title: 'Here is Love: He is the One Who Knows Us – Romans 8:27'
 author: Joseph Louthan
 date: 2018-04-23T12:00:37+00:00
-url: /theology/here-is-love-he-is-the-one-who-knows-us-romans-827/
 categories:
   - Theology
 tags:

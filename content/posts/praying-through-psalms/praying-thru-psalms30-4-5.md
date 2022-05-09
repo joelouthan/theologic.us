@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 30:4-5'
 author: Joseph Louthan
 publishDate: 2020-05-05
-url: /praying-through-psalmss/2020-05-05-praying-through-psalmss/
 categories:
   - Prayers
 tags:

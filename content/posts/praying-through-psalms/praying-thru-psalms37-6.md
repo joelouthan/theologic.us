@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 37:10-11'
 author: Joseph Louthan
 publishDate: 2021-01-26T06:00:00-06:00
-url: /prayers/2021-01-26-am-praying-through-psalms/
 categories:
   - Prayers
 tags:

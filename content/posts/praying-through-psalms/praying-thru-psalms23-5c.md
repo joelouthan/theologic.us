@@ -3,7 +3,6 @@ title: 'Praying Through: Psalm 23:5c My Cup Overflows'
 author: Joseph Louthan
 type: post
 date: 2018-08-21T12:00:49+00:00
-url: /prayer/praying-through-psalms-235c-my-cup-overflows/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,6 @@
 title: "Home Devotions: Mark 12:41-44 What Does Christ Want? Our Everything"
 author: Joseph Louthan
 publishDate: 2022-04-18T06:00:00-06:00
-url: /home-devos/2022-04-18-Mon-home-devos-mark/
 categories:
   - Home Devotions
 tags:

@@ -2,7 +2,6 @@
 title: 'Praying Through: Psalm 32:7'
 author: Joseph Louthan
 publishDate: 2020-11-02T12:00:00-06:00
-url: /prayers/2020-11-02-noon-praying-through-psalms/
 categories:
   - Prayers
 tags:

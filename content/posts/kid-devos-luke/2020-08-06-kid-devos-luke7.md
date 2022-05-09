@@ -2,7 +2,6 @@
 title: 'Kid Devotions: Luke 7 The Responses of Mankind'
 author: Joseph Louthan
 publishDate: 2020-08-06T06:00:00-06:00
-url: /kid-devotions/2020-08-06-kid-devotions-luke/
 categories:
   - Devotions
 tags:

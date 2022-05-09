@@ -2,7 +2,6 @@
 title: "📺 Study: Genesis 3:1-13 The Gospel Needed"
 author: Joseph Louthan
 publishDate: 2021-07-29T06:00:00-06:00
-url: /bible-study/2021-07-29-study-genesis/
 categories:
   - Bible Study
 tags:

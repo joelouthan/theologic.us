@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 6:30-44 Jesus is the Lord of Provision"
 author: Joseph Louthan
 publishDate: 2021-11-15T06:00:00-06:00
-url: /home-devotions/2021-11-15-home-devos-mark/
 categories:
   - Home Devotions
 tags:

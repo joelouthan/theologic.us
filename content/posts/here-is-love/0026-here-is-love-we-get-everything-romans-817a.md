@@ -2,7 +2,6 @@
 title: 'Here is Love: We Get Everything—Romans 8:17, Pt. 1'
 author: Joseph Louthan
 date: 2013-07-01T14:00:04+00:00
-url: /theology/here-is-love-we-get-everything-romans-817a/
 categories:
   - Theology
 tags:

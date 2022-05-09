@@ -2,7 +2,6 @@
 title: "Praying Through: Psalm 72"
 author: Joseph Louthan
 publishDate: 2021-05-04T06:00:00-06:00
-url: /prayers/2021-05-04-praying-through-psalms/
 categories:
   - Prayers
 tags:

@@ -2,7 +2,6 @@
 title: "📺 Home Devotions: Mark 8:34-9:1 We Must Die"
 author: Joseph Louthan
 publishDate: 2021-12-09T06:00:00-06:00
-url: /home-devotions/2021-12-09-home-devos-mark/
 categories:
   - Home Devotions
 tags:

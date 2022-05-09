@@ -2,7 +2,6 @@
 title: "🏠 Home Devotions: Matthew 1:7–12 Jesus Christ is Our Lineage"
 author: Joseph Louthan
 publishDate: 2022-02-05T06:00:00-06:00
-url: /home-devos/2022-02-05-home-devos-matthew/
 categories:
   - Home Devotions
 tags:

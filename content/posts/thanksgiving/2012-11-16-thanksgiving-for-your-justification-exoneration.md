@@ -2,7 +2,6 @@
 title: Thanksgiving for Your Justification—Exoneration
 author: Joseph Louthan
 date: 2012-11-16
-url: /scriptures/thanksgiving-for-your-justification-exoneration/
 categories:
   - Doxology
   - Scriptures

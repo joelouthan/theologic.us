@@ -2,7 +2,6 @@
 title: 'Here is Love: Never Alone- Romans 8:14'
 author: Joseph Louthan
 date: 2013-04-15T14:00:44+00:00
-url: /theology/here-is-love-never-alone-romans-814/
 categories:
   - Theology
 tags:

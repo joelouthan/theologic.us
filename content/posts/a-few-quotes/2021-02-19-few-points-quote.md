@@ -2,7 +2,6 @@
 title: "A Few Quotes: Octavius Winslow"
 author: Joseph Louthan
 publishDate: 2021-02-19T06:00:00-06:00
-url: /a-few-quotes/2021-02-19-a-few-quotes/
 categories:
   - Quotes
 tags:
