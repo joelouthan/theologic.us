@@ -24,7 +24,7 @@ What I propose to anyone who will listen: when you read the Bible and it grates 
 
 All the sermons and all the commentaries in the world are a good thing. But all books about God and his word must submit themselves to what the Scriptures say about Scriptures.
 
-We are in Paul's writing. More precisely, Paul's writing to Pastor Titus. If we are not reading this letter in light of the Gospels and the rest of Scriptures, we can lose sight of what God is saying to you and I.
+We are in Paul's writing. More precisely, Paul's writing to Pastor Titus. If we are not reading this letter in light of the Gospels and the rest of Scriptures, we can lose sight of what God is saying to you and me.
 
 Paul talks about elders of the church to Titus. God is the inspiration and the source of this passage. But it is the same God who told Peter in John 21, "Do you love me, Peter? Then, feed my lambs, shepherd my sheep, feed my sheep."
 
@@ -69,7 +69,7 @@ We know that Christ is the Head Pastor of the Church. We know that he has appoin
 
 Right now, there are people who are leaving the church. Most of us call it, "deconstruction." Most of us think that people are deconstructing their faith by falling away from orthodox faith so that they can become little heretics and swim in unrepentant sin. 
 
-What I have sin is people stepping away from church because they cannot make sense of a wonderful loving God and yet false shepherds who continue to hurt and try to destroy his little ones.
+What I have seen is people stepping away from church because they cannot make sense of a wonderful loving God and yet false shepherds who continue to hurt and try to destroy his little ones.
 
 If church is not even a safe place, where can we go?
 
@@ -111,7 +111,7 @@ If in your own church, you are close enough to see the fire and the smoke. In so
 
 ### the husband of one wife
 
-From my [commentary](/gospel-nt/2021-03-17-gospel-nt-1-timothy/#the-husband-of-one-wife) on 1 Timothy 3:2:
+From my commentary on 1 Timothy 3:2:
 
 >>I read this not as strictly "must be married" and to wholesale reject any single, divorced, or widowed men.
 >>
