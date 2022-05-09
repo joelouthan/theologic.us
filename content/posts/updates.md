@@ -23,25 +23,3 @@ Now that I have a goal and a purpose, I know what I am aiming for. And the best 
 Those who are familiar with Agile and Sprint, follow the progress over at my [sprint board at Trello.com](https://trello.com/b/5YnUCRsn/bible-commentary-set).
 
 ![Theologicus Bible Commentary](/images/trello-theologicus-bible-commentary.png)
-
-## As always catch us online at:
-
-### Live
-
-* Live at [twitch.theologic.us](http://twitch.theologic.us)
-
-### Video
-
-* Watch at [youtube.theologic.us](http://youtube.theologic.us)
-* Watch at [Twitter](https://twitter.com/theologic_us)
-* Watch at [AfreecaTV](https://bj.afreecatv.com/theologicus)
-
-### Audio
-
-* Podcast sources at [study.theologic.us](http://study.theologic.us/blog/)
-* [Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)
-* [Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)
-
-### Discussion
-
-* [Discord](http://discord.theologic.us)

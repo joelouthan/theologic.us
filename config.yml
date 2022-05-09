@@ -64,18 +64,16 @@ params:
               url: posts
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
-            - name: "Study: Romans"
-              url: /series/bible-study-romans/
-            - name: "Gospel NT: Pastoral Epistles"
-              url: /series/gospel-nt-pastorals/
-            - name: "Westminster Confession of Faith"
-              url: /series/westminster-confession/
-            - name: "Study: Genesis"
-              url: /series/bible-study-genesis/
-            - name: "Gospel OT: Daniel"
-              url: /series/gospel-ot-major-prophets/
             - name: "Home Devotions: Matthew"
               url: /series/home-devotions-matthew/
+            - name: "Study: Romans"
+              url: /series/bible-study-romans/
+            - name: "Study: Genesis"
+              url: /series/bible-study-genesis/
+            - name: "Gospel NT: Pastoral Epistles"
+              url: /series/gospel-nt-pastorals/
+            - name: "Doctrine: Westminster Confession of Faith"
+              url: /series/westminster-confession/
             - name: Other Series
               url: series
 
