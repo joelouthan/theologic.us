@@ -1,5 +1,5 @@
 ---
-title: "🏠📺 Home Devotions: Mark 1:2-6 Jesus is the Center of Our Lives"
+title: "Home Devotions: Mark 1:2-6 Jesus is the Center of Our Lives"
 author: Joseph Louthan
 date: 2012-08-01
 categories:

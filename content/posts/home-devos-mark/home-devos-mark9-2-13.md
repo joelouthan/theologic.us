@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 9:2-13 We Will Suffer"
+title: "Home Devotions: Mark 9:2-13 We Will Suffer"
 author: Joseph Louthan
 publishDate: 2021-12-10T06:00:00-06:00
 categories:

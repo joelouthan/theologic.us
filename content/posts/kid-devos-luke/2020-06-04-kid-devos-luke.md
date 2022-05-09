@@ -1,5 +1,5 @@
 ---
-title: '🏠 Kid Devotions: Luke 3:23-38 How was Jesus Like You and Me?'
+title: ' Kid Devotions: Luke 3:23-38 How was Jesus Like You and Me?'
 author: Joseph Louthan
 publishDate: 2020-06-04T06:00:00-06:00
 categories:

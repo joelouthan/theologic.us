@@ -1,5 +1,5 @@
 ---
-title: '🏠 Kid Devotions: Luke 3:1–20 Who Heralds The Kingdom of God?'
+title: ' Kid Devotions: Luke 3:1–20 Who Heralds The Kingdom of God?'
 author: Joseph Louthan
 publishDate: 2020-05-21T06:00:00-06:00
 categories:

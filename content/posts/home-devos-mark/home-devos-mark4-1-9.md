@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 4:1-9 Jesus Teaches, How Do We Respond?"
+title: "Home Devotions: Mark 4:1-9 Jesus Teaches, How Do We Respond?"
 author: Joseph Louthan
 date: 2012-10-10
 categories:

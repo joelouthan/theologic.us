@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 4:30-32 Jesus Grows His Kingdom"
+title: "Home Devotions: Mark 4:30-32 Jesus Grows His Kingdom"
 author: Joseph Louthan
 date: 2012-12-05
 categories:

@@ -12,7 +12,7 @@ css: "prayers"
 draft: false
 ---
 
-## 🏠 Luke 7:1–10
+##  Luke 7:1–10
 
 ### Westminster Larger Catechism
 
@@ -35,7 +35,7 @@ If God says he will do it, won't he do it?
 
 ---
 
-## 🏠 Luke 7:11–17
+##  Luke 7:11–17
 
 ### Westminster Larger Catechism
 
@@ -52,7 +52,7 @@ If God doesn't give us a new heart and new life, can we even obey God?
 
 ---
 
-## 🏠 Luke 7:18–30
+##  Luke 7:18–30
 
 ### Westminster Larger Catechism
 
@@ -83,7 +83,7 @@ How should we respond to prophets? Should we take them at their word or is there
 
 ---
 
-## 🏠 Luke 7:29–30
+##  Luke 7:29–30
 
 ### Westminster Larger Catechism
 

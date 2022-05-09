@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 8:1-10 Jesus Feeds Us So We May Have Life"
+title: "Home Devotions: Mark 8:1-10 Jesus Feeds Us So We May Have Life"
 author: Joseph Louthan
 publishDate: 2021-11-23T06:00:00-06:00
 categories:

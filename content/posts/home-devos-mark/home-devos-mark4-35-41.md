@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 4:35-41 Jesus is Lord of the Material"
+title: "Home Devotions: Mark 4:35-41 Jesus is Lord of the Material"
 author: Joseph Louthan
 date: 2013-01-09
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 4:10-13 Jesus Helps Us to Understand, See, Hear, Feel, and Know God"
+title: "Home Devotions: Mark 4:10-13 Jesus Helps Us to Understand, See, Hear, Feel, and Know God"
 author: Joseph Louthan
 date: 2012-10-17
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 3:1-6 Jesus is Life"
+title: "Home Devotions: Mark 3:1-6 Jesus is Life"
 author: Joseph Louthan
 date: 2012-08-29
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "🏠📺 Home Devotions: Mark 1:40-45 Jesus Accepts"
+title: "Home Devotions: Mark 1:40-45 Jesus Accepts"
 author: Joseph Louthan
 date: 2012-08-13
 categories:

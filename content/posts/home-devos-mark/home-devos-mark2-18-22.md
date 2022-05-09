@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 2:18-22 Jesus is the Bridegroom"
+title: "Home Devotions: Mark 2:18-22 Jesus is the Bridegroom"
 author: Joseph Louthan
 date: 2012-08-22
 categories:

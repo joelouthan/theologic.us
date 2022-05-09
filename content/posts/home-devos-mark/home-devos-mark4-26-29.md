@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 4:26-29 Jesus Grows Us"
+title: "Home Devotions: Mark 4:26-29 Jesus Grows Us"
 author: Joseph Louthan
 date: 2012-11-14
 categories:

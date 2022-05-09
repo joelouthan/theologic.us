@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 8:27–30 Jesus Opens the Only Way to God"
+title: "Home Devotions: Mark 8:27–30 Jesus Opens the Only Way to God"
 author: Joseph Louthan
 publishDate: 2021-12-07T06:00:00-06:00
 categories:

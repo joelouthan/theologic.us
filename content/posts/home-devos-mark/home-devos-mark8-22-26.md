@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 8:22–26 Jesus Opens Our Eyes So That We Would See God"
+title: "Home Devotions: Mark 8:22–26 Jesus Opens Our Eyes So That We Would See God"
 author: Joseph Louthan
 publishDate: 2021-12-06T06:00:00-06:00
 categories:

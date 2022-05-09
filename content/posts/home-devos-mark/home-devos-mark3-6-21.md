@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 3:7-19 Jesus is on Mission"
+title: "Home Devotions: Mark 3:7-19 Jesus is on Mission"
 author: Joseph Louthan
 date: 2012-09-03
 categories:

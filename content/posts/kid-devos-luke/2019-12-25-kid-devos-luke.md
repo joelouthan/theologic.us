@@ -1,5 +1,5 @@
 ---
-title: '🏠 Kid Devotions: Luke 1:46–55 What is Your Song?'
+title: ' Kid Devotions: Luke 1:46–55 What is Your Song?'
 author: Joseph Louthan
 publishDate: 2019-12-25T06:00:00-06:00
 categories:

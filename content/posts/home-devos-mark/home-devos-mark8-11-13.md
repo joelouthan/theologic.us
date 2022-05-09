@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 8:11–13 Jesus Changes Our Minds So We Now Understand God"
+title: "Home Devotions: Mark 8:11–13 Jesus Changes Our Minds So We Now Understand God"
 author: Joseph Louthan
 publishDate: 2021-11-24T06:00:00-06:00
 categories:

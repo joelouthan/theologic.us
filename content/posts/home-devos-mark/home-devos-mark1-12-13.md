@@ -1,5 +1,5 @@
 ---
-title: "🏠📺 Home Devotions: Mark 1:12-13 Jesus is Led by the Holy Spirit"
+title: "Home Devotions: Mark 1:12-13 Jesus is Led by the Holy Spirit"
 author: Joseph Louthan
 date: 2012-08-05
 categories:

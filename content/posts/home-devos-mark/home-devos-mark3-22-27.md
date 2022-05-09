@@ -1,5 +1,5 @@
 ---
-title: "📺 Home Devotions: Mark 3:20-27 Christ is Stronger"
+title: "Home Devotions: Mark 3:20-27 Christ is Stronger"
 author: Joseph Louthan
 date: 2012-09-18
 categories:
