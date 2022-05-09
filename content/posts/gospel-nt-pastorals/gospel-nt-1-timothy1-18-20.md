@@ -1,5 +1,5 @@
 ---
-title: "📺 Gospel NT: 1 Timothy 1:18-20 Christ Our All"
+title: "Gospel NT: 1 Timothy 1:18-20 Christ Our All"
 author: Joseph Louthan
 publishDate: 2021-02-24T06:00:00-06:00
 categories:
