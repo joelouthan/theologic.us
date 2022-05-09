@@ -1,5 +1,5 @@
 ---
-title: "📺 Study: Genesis 5 The Gospel Plan"
+title: "Study: Genesis 5 The Gospel Plan"
 author: Joseph Louthan
 publishDate: 2021-08-19T06:00:00-06:00
 categories:

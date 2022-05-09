@@ -1,5 +1,5 @@
 ---
-title: "📺 Study: Genesis 2:4-25 Our Forever Righteousness"
+title: "Study: Genesis 2:4-25 Our Forever Righteousness"
 author: Joseph Louthan
 publishDate: 2021-07-22T06:00:00-06:00
 categories:

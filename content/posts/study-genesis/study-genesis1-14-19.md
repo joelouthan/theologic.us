@@ -1,5 +1,5 @@
 ---
-title: "📺 Study: Genesis 1:14-19 Our Forever Light"
+title: "Study: Genesis 1:14-19 Our Forever Light"
 author: Joseph Louthan
 publishDate: 2021-06-24T06:00:00-06:00
 categories:

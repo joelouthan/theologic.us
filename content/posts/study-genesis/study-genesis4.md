@@ -1,5 +1,5 @@
 ---
-title: "📺 Study: Genesis 4 The Gospel Meeting"
+title: "Study: Genesis 4 The Gospel Meeting"
 author: Joseph Louthan
 publishDate: 2021-08-12T06:00:00-06:00
 categories:

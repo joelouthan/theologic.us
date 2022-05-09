@@ -1,5 +1,5 @@
 ---
-title: "📺 Study: Genesis 1:1-5 Our Forever Wisdom"
+title: "Study: Genesis 1:1-5 Our Forever Wisdom"
 author: Joseph Louthan
 publishDate: 2021-06-10T06:00:00-06:00
 categories:
