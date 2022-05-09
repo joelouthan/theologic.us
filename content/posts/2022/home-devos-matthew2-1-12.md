@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Matthew"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -42,43 +42,34 @@ draft: true
 
 ## The Devotion
 
+### People want a king and not the King
 
+>1 Samuel 8:4-7 (CSB) So all the elders of Israel gathered together and went to Samuel at Ramah. They said to him, “Look, you are old, and your sons do not walk in your ways. Therefore, appoint a king to judge us the same as all the other nations have.”When they said, “Give us a king to judge us,” Samuel considered their demand wrong, so he prayed to the LORD. But the LORD told him, “Listen to the people and everything they say to you. They have not rejected you; they have rejected me as their king.
 
-## The Discussion
+### A line of sinful kings yet God establishes
 
-```text
-1. 
-```
+>2 Samuel 7:16 (CSB) Your house and kingdom will endure before me forever, and your throne will be established forever.
 
-```text
-2. 
-```
+God promises this through will be established forever *before* David rapes Bathsheba and murders Uriah.
 
-```text
-3. 
-```
+### Jesus is born and he is King of kings
 
-```text
-4. 
-```
+Jesus was born under the grotesquely evil King Herod. That was not a mistake.
 
-## The Prayer
+Who set King Herod to rule?
 
->
+>Daniel 2:19-21 (CSB) The mystery was then revealed to Daniel in a vision at night, and Daniel praised the God of the heavens and declared:
+May the name of God
+be praised forever and ever,
+for wisdom and power belong to him.
+He changes the times and seasons;
+he removes kings and establishes kings.
+He gives wisdom to the wise
+and knowledge to those
+who have understanding.
 
-<div style='font-variant: small-caps;'>
+Jesus Christ, son of God, who is God, who is the King of kings and Lord of lords, and he is ruling and reigning over all creation--born to a poor, working class, family under the tyranny of a evil king.
 
-</div>
+God established the throne of David. Despite the brokenness of our world, God stopped at nothing to save his people from their sins.
 
-```text
-
-```
-
-<div style="page-break-after: always;"></div>
-
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
-
+And it starts with completing what he promised to David so many centuries before.
