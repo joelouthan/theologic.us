@@ -10,7 +10,7 @@ series:
   - "Bible Study: Genesis"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 

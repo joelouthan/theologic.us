@@ -1,0 +1,324 @@
+---
+title: 'Study: Romans 6:15–23 God Buries Our Sin'
+author: Joseph Louthan
+publishDate: 2021-03-19T06:00:00-06:00
+categories:
+  - Bible Study
+tags:
+  - "Romans"
+series:
+  - "Bible Study: Romans"
+tocopen: true
+css: "prayers"
+draft: false
+---
+## The Introduction
+
+So, you are reading and studying Romans. You are convicted and comforted by the fact that you could have not done anything good enough to be saved by God. You convicted and comforted in the fact that God in his grace must save you to him. You cannot boast in other than God. You cannot earn your salvation--you can only receive God's gift of salvation, grace, mercy, faith, and love.
+
+We just read in Romans 5: Christ is the giver, the lover, and the life when everything else has led to death.
+
+To the Christian, this is convicting and comforting.
+
+I am speaking to just to some of you. Some of you don't want to give up everything to follow God. Some don't want to give up pet sins. Some don't want to put their trust in Christ over anything else in this world. So this message is not for you.
+
+But to those who counted the cost and walked through that narrow gate? Ah, the Bible doesn't drop you off and leave you to figure out on your own. No! Guess what? We might be saved from sin until God but as Christians, we quickly learn that "sin is always crouching for us... waiting to devour us." (Genesis 4:7)
+
+In Genesis 6, Paul lays out the absolute answer to the question you might be asking--or I would suggest, you should be asking, "We are still struggling with sin--what do we do with it?"
+
+So far, Paul answers one part, "We don't have grace to sin all the more because your sin was buried with Christ and it stays dead."
+
+What you do get is grace by God alone to be forgiven, cleansed, and sanctified all the time.
+
+<div style="page-break-after: always;"></div>
+
+## The Text
+
+>Romans 6:15-23 (CSB) What then? Should we sin because we are not under the law but under grace? Absolutely not!
+>
+><sup> 16 </sup>Don’t you know that if you offer yourselves to someone as obedient slaves, you are slaves of that one you obey—either of sin leading to death or of obedience leading to righteousness?
+>
+><sup> 17 </sup>But thank God that, although you used to be slaves of sin, you obeyed from the heart that pattern of teaching to which you were handed over,
+>
+><sup> 18 </sup>and having been set free from sin, you became enslaved to righteousness.
+>
+><sup> 19 </sup>I am using a human analogy because of the weakness of your flesh. For just as you offered the parts of yourselves as slaves to impurity, and to greater and greater lawlessness, so now offer them as slaves to righteousness, which results in sanctification.
+>
+><sup> 20 </sup>For when you were slaves of sin, you were free with regard to righteousness.
+>
+><sup> 21 </sup>So what fruit was produced then from the things you are now ashamed of? The outcome of those things is death.
+>
+><sup> 22 </sup>But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life!
+>
+><sup> 23 </sup>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+
+<div style="page-break-after: always;"></div>
+
+## The Support
+
+>Romans 6:15 (CSB) What then? Should we sin because we are not under the law but under grace? Absolutely not!
+
+### We are free under grace--doesn't mean we get to sin
+
+Sin only leads to death. That is not freedom. God rightfully accused the Israelites of wanting to go back into slavery to sin as "a dog returning to eat its vomit."
+
+Peter puts it this way:
+
+>2 Peter 2:17-22 (CSB) These people are springs without water, mists driven by a storm. The gloom of darkness has been reserved for them. 18 For by uttering boastful, empty words, they seduce, with fleshly desires and debauchery, people who have barely escaped from those who live in error. 19 They promise them freedom, but they themselves are slaves of corruption, since people are enslaved to whatever defeats them. 20 For if, having escaped the world’s impurity through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in these things and defeated, the last state is worse for them than the first. 21 For it would have been better for them not to have known the way of righteousness than, after knowing it, to turn back from the holy command delivered to them. 22 It has happened to them according to the true proverb: A dog returns to its own vomit, and, “A washed sow returns to wallowing in the mud.”
+
+That prison, that darkness, that wickedness? There is nothing for you. Don't turn back to it. I cannot tell you when I have been unrepentant in my sin for longer than moment, God sets me free again but the lingering effects of sin infect my heart and my mind. It felt like it took forever to be free lingering thoughts. But God's mercy was always always upon me.
+
+What about you? Is there a sin you have abstained and repented and confess and gave to Christ but it still lingers around. That is what sin does. A few of us might be instantly freed from sin--the rest of us, you and me, it lingers around.
+
+We have grace to be tempted. Temptation is a fact in our fallen world. We have grace to feel the effects of sin. That is what it means to live on this side of heaven. We don't get the grace to return back to the vomit.
+
+If you are thinking, "Why does he keep saying that word--it's so gross and disgusting!"
+
+God also calls the Israelites who wanted to sin under grace, "those who wanted to go back to their former lovers." There is an entire chapter dedicated to it in Ezekiel 23. Go and read it when you get home.
+
+That is the sin. It promises what it cannot give. It gives that is fleeting. It leaves you empty and broken hearted.
+
+Take the grace that God has and turn back to him. Confess and turn to him. Repent from sin and turn back to him.
+
+><sup> 16 </sup>Don’t you know that if you offer yourselves to someone as obedient slaves, you are slaves of that one you obey—either of sin leading to death or of obedience leading to righteousness?
+
+### We are free under grace to look like God
+
+We don't get grace to serve an idol and God. We don't get the grace to sin and live righteously. Sometimes, when we ask questions about our faith, the answer might be, "Why not both?" When it comes to sin and grace, there is no both.
+
+It is either or. It is black and white. There is no middle ground.
+
+>Romans 8:5-8 (CSB) For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit. 6 Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace. 7 The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so. 8 Those who are in the flesh cannot please God.
+
+There is no third way. There is no neutral way. I don't care what the Catholics or the Mormons say. There ain't a third way because there are only two. It is basic math. Go your own way which is the same as everybody else that leads to destruction or go in the path that the Lord commands you and me to walk.
+
+I will say it this way, and I got this saying from someone else. It ain't mine but I love the quote and I think about it all the time: "There are infinite number of ways to get to God. That is very much true. In the end, all roads lead to God. But only one way protects you from the wrath of God and that is in the arms of the Almighty Savior Jesus Christ."
+
+><sup> 17 </sup>But thank God that, although you used to be slaves of sin, you obeyed from the heart that pattern of teaching to which you were handed over,
+>
+><sup> 18 </sup>and having been set free from sin, you became enslaved to righteousness.
+
+### We are free under grace to obey God
+
+>Ephesians 2:8-10 (CSB) For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—9 not from works, so that no one can boast. 10 For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
+
+In other words, because you are in Christ, you get to obey Christ.
+
+I have used this analogy many times and I do so because I want you to change your minds: sinners cannot obey God. Unbelievers don't get to obey God. Those who don't acknowledge God, suppress the truth of God don't get to obey God. 
+
+We just read that in Romans 8:8
+
+>8 Those who are in the flesh cannot please God.
+
+You know what people love to do? Think that they can not be really evil, do generic good things, and think that God is going to grade on a curve. "I may not be perfect but at least I am not like that."
+
+But God demands perfection. He demands holiness. "Why would I want to follow a god that demands perfection--why even bother?" But that is just it: he provides the perfection--his Son, Jesus Christ. The gift right there. Take the gift and go and be with God.
+
+Stop making it hard on yourself. Trust in God.
+
+### We are free under grace to be righteous
+
+><sup> 19 </sup>I am using a human analogy because of the weakness of your flesh. For just as you offered the parts of yourselves as slaves to impurity, and to greater and greater lawlessness, so now offer them as slaves to righteousness, which results in sanctification.
+
+It is 2 Corinthians 5:21 over and over again. For our sake, for our sake--God made Christ to be our sin who in himself was sinless so that in Christ we might become the righteousness of Christ.
+
+Because we are slaved to God and yoked to Christ's easy and light righteousness, we are shaped and formed to this perfection--to look more like His Son every day until that one day, we hold him face to face and be perfectly content and satisfied with His likeness. (Psalm 17:15)
+
+><sup> 20 </sup>For when you were slaves of sin, you were free with regard to righteousness.
+
+### We are free under grace to be free
+
+That is true. When we were once slaves to sin, we were free from all unrighteousness. We were as free as a prisoner might be. As unbelieving and untrusting sinners, we were free to not obey God and sin all the more.
+
+Prisoners might be content and happy in where they are at. But if you want real freedom--that glorious freedom--it is only available to the children of God.
+
+We might be enslaved to God. But we get to be with Him and enjoy him forever.
+
+<div style="page-break-after: always;"></div>
+
+**Where do you see God in the text? What does the text say about God?**
+
+## God
+
+Christ alone is our freedom.
+
+>Isaiah 61:1 (CSB) The Spirit of the Lord GOD is on me, because the LORD has anointed me to bring good news to the poor. He has sent me to heal the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners;
+
+Who is that? Who is going to bring good news to the poor? Who has come to heal our broken hearts? Who has come to set the captives free?
+
+Christ Jesus is his name.
+
+<div style="page-break-after: always;"></div>
+
+## The Gospel
+
+We don't get to sin more because we are in bondage to sin. That is something we have to realize about unbelievers: the best that they can do is sin. Because they are not in Christ, everything they do is in sin.
+
+Again and again, if you are hearing this and you thought to yourself, "I am not like unbelievers because I am a Christians because I went to church all of my life" or something else you did.  Trust me when I say this: you might be an unbeliever. You might be in shackles of sin and unbelief but you might behave a little better than the next person.
+
+Just because you behave better does not make a believer.
+
+I cannot do the work of the Holy Spirit. But there are people listening and reading this Bible Study who are entertaining sin and not really wanting to change their mind about it and definitely have no interested in changing their lives. They want to go to church, be a member, read the Bible, memorize verses, sing songs, volunteer in Kid's Ministry, even be on staff of church still thinking that they have done enough to be consider a Christian. And some sin doesn't lead to immediate death so the consequences are little. But some of you are playing with such sins that if you get caught, it will completely blow up your entire lives. But I think that you have convinced yourself when that happens, you are going to be really sorry, there might be tears, and you will try really hard.
+
+And you will still be under the wrath of God for your unbelief in the Lord Jesus Christ.
+
+<div style="page-break-after: always;"></div>
+
+## Our Responsibility
+
+What is ours to do?
+
+><sup> 21 </sup>So what fruit was produced then from the things you are now ashamed of? The outcome of those things is death.
+
+### If you have Christ in you, you will look more like Christ
+
+You will produce the fruit of the Spirit.
+
+>Galatians 5:19-26 (CSB) Now the works of the flesh are obvious: sexual immorality, moral impurity, promiscuity, 20 idolatry, sorcery, hatreds, strife, jealousy, outbursts of anger, selfish ambitions, dissensions, factions, 21 envy, drunkenness, carousing, and anything similar. I am warning you about these things—as I warned you before—that those who practice such things will not inherit the kingdom of God.
+>
+>22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, 23 gentleness, and self-control. The law is not against such things. 24 Now those who belong to Christ Jesus have crucified the flesh with its passions and desires. 25 If we live by the Spirit, let us also keep in step with the Spirit. 26 Let us not become conceited, provoking one another, envying one another.
+
+Ask yourself some difficult questions: are you picking and peeling the fruit of the Spirit that comes easy to you. "I have love but not a lot of self-control." That's not a thing. It is just a fruit of the Spirit not fruits. Don't push back with perfection argument--we have Christ who is our perfection.
+
+Measure your self-control. Measure your kindness. Are you more so than a year ago or five years ago. Do you have friends who would tell you the truth? And if you don't have real friends, I dare you to ask the Holy Spirit. See what he says. See what he exposes.
+
+><sup> 22 </sup>But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life!
+
+### If you have Christ in you, he will bring you all the way home
+
+That is the tricky thing about sanctification. It is completely a work of God and yet, without obedience, we don't grow and mature.
+
+God gives the grace.
+
+God gives the growth.
+
+God gives the righteousness.
+
+God gives the freedom.
+
+That narrow gate to the tiny path to God? God walks with you. God is your friend who is there every step of the way. All the way back to God.
+
+### If you have Christ in you, you will have eternal life
+
+><sup> 23 </sup>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+
+That is the gift. That is the gospel. 
+
+Our sin causes death at every level.
+
+Christ's righteousness gives life at every level.
+
+## Pray
+
+<div style="font-variant: small-caps;">
+Savior and Redeemer
+</div>
+&nbsp;
+
+Draw me in. Rescue me. And never let me go.
+
+Amen.
+
+## The Media
+
+Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-61523-god-buries-our-sin)
+
+\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
+
+## Resources
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="100" style="padding-right: 10px" />Christian Standard Bible](https://amzn.to/3FbGqbM).  
+Holmon Publishing. 2020.  
+&nbsp;
+
+___
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38).  
+Crossway. 2016.
+
+&nbsp;
+
+___
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+by John Calvin.  
+Baker. 2009.
+
+&nbsp;
+
+___
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51utvezkAcL._SX323_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />No Condemnation in Christ Jesus: As Unfolded in the Eighth Chapter of the Epistle to the Romans](https://amzn.to/3zDFiMZ).  
+by Octavius Winslow.  
+Banner of Trust. 1991.  
+&nbsp;  
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51enHREddML._SX343_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Romans: An Expositional Commentary](https://amzn.to/3GaYTGJ).  
+by R.C. Sproul.  
+Reformation Trust Publishing. 2019.  
+
+&nbsp;
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/510tS0bc3jL._SX336_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />The Letter to the Romans (New International Commentary on the New Testament (NICNT))](https://amzn.to/3tcauBO).  
+by Douglas Moo.  
+First Edition.  
+Eerdmans. 1996.  
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51JRo7sUdGL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />New Testament Commentary: Romans: Chapters 1-16](https://amzn.to/3zHvu4D).  
+by William Hendriksen.  
+Baker. 1992.  
+
+&nbsp;
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://books.google.com/books/content?id=nn1EAAAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72sbduWDe-FDdpJWpEdxA39XGAk1Gn13nRRTn19x0PuOx37CIrB_n2nhpSVq7yoiqH1iW6sP9z5Yug16kxtKECC1uxXNf6EawIr8vLirT5K_YS7G7ji9NtjXaKf_FVMtPRbBX4B" align="left" width="100" style="padding-right: 10px" />Romans](https://amzn.to/3zFAIxv).  
+by William S. Plumer.  
+Kregel. 1993.  
+
+&nbsp;
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41Oh-dWTyCL._SX318_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)](https://amzn.to/33hjElg).  
+by Robert Mounce.  
+Holmon Reference. 1995.  
+&nbsp;
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51XmpThqFeS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />Romans (Ancient Christian Commentary on Scripture, NT Volume 6)](https://amzn.to/3HLaNra).  
+Edited by Gerald L. Bray.  
+IVP Academic. 2005.  
+
+&nbsp;
+
+___
+
+<p style="clear:both;">
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41yNgHWAm0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />Commentary on Romans](https://amzn.to/3r13Tat).  
+by Martin Luther.  
+Kregel. 2003.  
+
+&nbsp;
+
+___
