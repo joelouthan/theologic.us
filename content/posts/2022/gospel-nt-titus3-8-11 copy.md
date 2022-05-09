@@ -1,8 +1,8 @@
 ---
 title: "Gospel NT: Titus 3:8-11 Live Like This: Lead by the Spirit"
 author: Joseph Louthan
-publishDate: 2022-05-13T06:00:00-06:00
-url: /gospel-nt/2022-05-13-gospel-nt-titus/
+publishDate: 2022-05-14T06:00:00-06:00
+url: /gospel-nt/2022-05-14-gospel-nt-titus/
 categories:
   - Gospel
 tags:
