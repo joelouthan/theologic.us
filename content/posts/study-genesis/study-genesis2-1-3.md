@@ -1,5 +1,5 @@
 ---
-title: "📺 Study: Genesis 2:1-3 Our Forever Rest"
+title: "Study: Genesis 2:1-3 Our Forever Rest"
 author: Joseph Louthan
 publishDate: 2021-07-15T06:00:00-06:00
 categories:
