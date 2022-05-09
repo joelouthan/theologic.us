@@ -58,8 +58,6 @@ params:
         buttons:
             - name: "What is Theologicus?"
               url: /about/
-            - name: "2022 Schedule"
-              url: /2022-schedule/
             - name: Updates
               url: updates
             - name: Recent Posts

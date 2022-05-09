@@ -4,7 +4,7 @@ author: Joseph Louthan
 date: 2021-06-11T22:41:05.006Z
 url: "/2022-schedule/"
 showtoc: false
-draft: false
+draft: true
 ---
 I was really hoping that I can go two episodes Monday through Friday. I don't know why I thought I could do that with trying to move a second household cross country from Oklahoma to Kentucky.
 
