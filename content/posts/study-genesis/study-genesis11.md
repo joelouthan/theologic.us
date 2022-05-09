@@ -1,7 +1,7 @@
 ---
-title: "0175📺 Study: Genesis 11 The Gospel Tongue"
+title: "Study: Genesis 11 The Gospel Tongue"
 author: Joseph Louthan
-publishDate: 2022-01-13T06:00:00-06:00
+publishDate: 2022-05-09T06:00:00-06:00
 categories:
   - Bible Study
 tags:
