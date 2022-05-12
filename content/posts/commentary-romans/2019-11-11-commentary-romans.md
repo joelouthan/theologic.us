@@ -8,7 +8,7 @@ tags:
   - Romans
 series:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 We begin our commentary into the Epistle to the church in Rome not starting off the bat with fleshing out entirety verse one:
 

@@ -8,7 +8,7 @@ tags:
   - Romans
 series:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 **Romans 1:5-7 through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,  including you who are called to belong to Jesus Christ,   To all those in Rome who are loved by God and called to be saints:  Grace to you and peace from God our Father and the Lord Jesus Christ.**
 

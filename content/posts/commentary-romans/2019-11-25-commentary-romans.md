@@ -8,7 +8,7 @@ tags:
   - Romans
 series:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 Let us continue.
 

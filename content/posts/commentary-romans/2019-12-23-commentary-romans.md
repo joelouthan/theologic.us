@@ -8,7 +8,7 @@ tags:
   - Romans
 series:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 
 **Romans 1:8-15 First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.  For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you  always in my prayers, asking that somehow by God’s will I may now at last succeed in coming to you. For I long to see you, that I may impart to you some spiritual gift to strengthen you—  that is, that we may be mutually encouraged by each other’s faith, both yours and mine.  I do not want you to be unaware, brothers, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles.  I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish.  So I am eager to preach the gospel to you also who are in Rome.**

@@ -8,7 +8,7 @@ tags:
   - Romans
 series:
   - 'Commentary: Romans'
-draft: false
+draft: true
 ---
 
 ### as it written, "The righteous shall live by faith."

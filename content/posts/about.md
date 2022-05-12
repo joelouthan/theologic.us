@@ -1,7 +1,7 @@
 ---
 title: What is Theologicus?
 author: Joseph Louthan
-date: 2022-05-09T06:00:00.006Z
+date: 2022-04-17T06:00:00.006Z
 url: "/about/"
 draft: false
 ---
