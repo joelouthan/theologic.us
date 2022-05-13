@@ -9,3 +9,6 @@ Insert any custom code (web-analytics, resources, etc.) - it will appear in the 
 {{ if eq .Params.css "prayers"}}
 {{ template "css/prayers.html" }}
 {{ end }}
+{{- if not .Params.Index -}}
+<meta name="robots" content="noindex">
+{{- end -}}
