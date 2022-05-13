@@ -1,7 +1,7 @@
 ---
 title: Daily Prayers
 author: Joseph Louthan
-date: 2022-05-13T22:41:05.006Z
+date: 2022-02-28T06:00:00.006Z
 url: "/prayers/"
 draft: false
 index: false
