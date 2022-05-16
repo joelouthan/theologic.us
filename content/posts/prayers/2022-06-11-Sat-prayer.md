@@ -1,8 +1,7 @@
 ---
 title: Daily Prayers
 author: Joseph Louthan
-date: 2022-02-28T06:00:00.006Z
-url: "/prayers/"
+publishDate: 2022-06-11T05:00:00-05:00
 draft: false
 index: false
 css: "prayers"
@@ -14,9 +13,11 @@ tocopen: true
 Lord,
 </div>
 
+```text
 I have seen my prayers. I believe that you have answered them. I see that you have changed my heart. I do not believe I have failed you. I know that I am obeying your will—​all because of what your Son has done for us.
 
 Amen.
+```
 
 ## Hood
 
