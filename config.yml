@@ -3,6 +3,14 @@ title: Theologicus
 paginate: 1000
 theme: PaperMod
 
+rssLimit: 100
+copyright: "2022 Joseph Louthan All Rights Reserved"
+languageCode: "en-us"
+
+author:
+    name: "Joseph Louthan"
+    email: "joe@theologic.us"
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

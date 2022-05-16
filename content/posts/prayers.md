@@ -10,11 +10,13 @@ tocopen: true
 ---
 ## Repentance
 
-```text
-Lord, I have seen my prayers. I believe that you have answered them. I see that you have changed my heart. I do not believe I have failed you. I know that I am obeying your will—​all because of what your Son has done for us.
+<div style='font-variant: small-caps;'>
+Lord,
+</div>
+
+I have seen my prayers. I believe that you have answered them. I see that you have changed my heart. I do not believe I have failed you. I know that I am obeying your will—​all because of what your Son has done for us.
 
 Amen.
-```
 
 ## Hood
 
