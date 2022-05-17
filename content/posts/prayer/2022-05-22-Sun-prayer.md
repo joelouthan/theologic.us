@@ -43,7 +43,7 @@ Theresa & hubs
 
 Michelle & Martin
 
-Sherrie, finance, daughter
+Sherrie & fiance, Mira
 
 Jacqui, hubs, fam
 

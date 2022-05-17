@@ -1,7 +1,7 @@
 ---
-title: "Daily Prayers for Saturday, 28 May 2022"
+title: "Daily Prayers for Thursday, 16 June 2022"
 author: Joseph Louthan
-publishDate: 2022-05-28T05:00:00-05:00
+publishDate: 2022-06-16T05:00:00-05:00
 categories:
   - Prayer
 draft: false
