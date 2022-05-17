@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 12:13-17 So That We Might Live and Belong to Him"
 author: Joseph Louthan
 publishDate: 2022-01-27T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

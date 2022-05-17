@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 6:45-52 Jesus is the Lord over Sin"
 author: Joseph Louthan
 publishDate: 2021-11-16T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 11:12-14 So That We Might Live and Never Die"
 author: Joseph Louthan
 publishDate: 2022-01-18T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

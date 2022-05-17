@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 12:18-27 So That We Might Live and Be With Him Fore
 author: Joseph Louthan
 publishDate: 2022-01-28T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

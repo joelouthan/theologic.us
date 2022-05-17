@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 7:14-23 The Word of God is Righteousness"
 author: Joseph Louthan
 publishDate: 2021-11-20T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

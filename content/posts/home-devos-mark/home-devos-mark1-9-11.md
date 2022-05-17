@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 1:9-11 Jesus is God"
 author: Joseph Louthan
 date: 2012-08-04
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

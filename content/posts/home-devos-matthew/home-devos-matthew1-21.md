@@ -3,6 +3,7 @@ title: "Home Devotions: Matthew 1:21 Jesus Christ is Our Savior"
 author: Joseph Louthan
 publishDate: 2022-04-02T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Matthew"

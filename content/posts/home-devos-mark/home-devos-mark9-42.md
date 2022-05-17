@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 9:42 God Alone is Mighty to Save"
 author: Joseph Louthan
 publishDate: 2021-12-17T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

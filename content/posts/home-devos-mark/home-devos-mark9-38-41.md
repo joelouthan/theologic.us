@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 9:38-41 God Alone Saves His People"
 author: Joseph Louthan
 publishDate: 2021-12-16T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

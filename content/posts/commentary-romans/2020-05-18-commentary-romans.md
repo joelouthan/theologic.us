@@ -3,7 +3,7 @@ title: 'Romans 1:16-17 What is the Gospel? The Righteousness of God Revealed [Pa
 author: Joseph Louthan
 publishDate: 2020-05-18
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

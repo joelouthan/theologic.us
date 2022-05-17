@@ -3,7 +3,8 @@ title: "Gospel NT: Titus 2:6-8 Teach Like This: Spirit of Christ"
 author: Joseph Louthan
 publishDate: 2022-05-11T06:00:00-06:00
 categories:
-  - Gospel
+  - Commentaries
+  - "Gospel NT"
 tags:
   - "Titus"
 series:

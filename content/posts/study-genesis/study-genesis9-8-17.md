@@ -3,6 +3,7 @@ title: "Study: Genesis 9:8-17 The Gospel Certainty: The Redemption of God"
 author: Joseph Louthan
 publishDate: 2021-10-21T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Genesis"

@@ -3,6 +3,7 @@ title: "Study: Genesis 12 The Gospel Predestination "
 author: Joseph Louthan
 publishDate: 2022-05-19T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Genesis"

@@ -3,7 +3,7 @@ title: 'Romans 1:16-17 What is the Gospel? The Power of God [Part 1]'
 author: Joseph Louthan
 publishDate: 2020-04-13
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

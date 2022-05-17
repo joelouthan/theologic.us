@@ -3,6 +3,7 @@ title: "Home Devotions: Matthew 1:17 Jesus Christ is Our God"
 author: Joseph Louthan
 publishDate: 2022-02-19T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Matthew"

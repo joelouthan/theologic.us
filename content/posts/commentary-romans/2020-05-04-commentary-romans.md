@@ -3,7 +3,7 @@ title: 'Romans 1:16-17 What is the Gospel? To Everyone Who Believes [Part 3]'
 author: Joseph Louthan
 publishDate: 2020-05-04
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

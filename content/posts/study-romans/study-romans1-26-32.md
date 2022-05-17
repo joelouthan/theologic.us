@@ -3,6 +3,7 @@ title: 'Study: Romans 1:26-32 All Wrath Belongs to God'
 author: Joseph Louthan
 publishDate: 2021-03-07T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

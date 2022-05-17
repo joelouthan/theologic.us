@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 2:1-12 Jesus Forgives"
 author: Joseph Louthan
 date: 2012-08-15
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

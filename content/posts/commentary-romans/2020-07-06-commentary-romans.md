@@ -3,7 +3,7 @@ title: 'Romans 1:18-20 The Righteousness of God: His Obviousness'
 author: Joseph Louthan
 publishDate: 2020-07-06
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

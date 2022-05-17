@@ -3,6 +3,7 @@ title: "Study: Romans 8:12-13 What Do I Do When I Sin?"
 author: Joseph Louthan
 publishDate: 2021-03-24T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

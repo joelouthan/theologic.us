@@ -3,6 +3,7 @@ title: "Gospel NT: 1 Timothy 6:17-19 Hope in Christ"
 author: Joseph Louthan
 publishDate: 2021-06-02T06:00:00-06:00
 categories:
+  - Commentaries
   - "Gospel NT"
 tags:
   - "1 Timothy"

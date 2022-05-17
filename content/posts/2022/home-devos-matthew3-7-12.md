@@ -3,6 +3,7 @@ title: "Home Devotions: Matthew 3:7-12 Jesus Christ is Our Repentance"
 author: Joseph Louthan
 publishDate: 2022-06-11T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Matthew"

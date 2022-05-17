@@ -3,7 +3,7 @@ title: 'Romans 1:5-7 Who Are We? We Are Dependent on Grace'
 author: Joseph Louthan
 publishDate: 2019-12-09
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

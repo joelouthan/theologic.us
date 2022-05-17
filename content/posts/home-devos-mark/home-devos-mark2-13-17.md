@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 2:13-17 Jesus is the Good Doctor"
 author: Joseph Louthan
 date: 2012-08-17
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

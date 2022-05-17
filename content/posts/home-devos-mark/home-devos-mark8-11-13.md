@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 8:11–13 Jesus Changes Our Minds So We Now Underst
 author: Joseph Louthan
 publishDate: 2021-11-24T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

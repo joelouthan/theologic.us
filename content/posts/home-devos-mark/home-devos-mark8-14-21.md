@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 8:14–21 Jesus Gives Us New Hearts So That We Migh
 author: Joseph Louthan
 publishDate: 2021-11-25T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

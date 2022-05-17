@@ -3,6 +3,7 @@ title: "Kids’ Spiritual Well-Being For the Sake of the Gospel?"
 author: Joseph Louthan
 date: 2012-07-27
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

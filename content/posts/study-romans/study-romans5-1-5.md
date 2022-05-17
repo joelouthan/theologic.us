@@ -3,6 +3,7 @@ title: 'Study: Romans 5:1-5 God Sanctifies, Not Us'
 author: Joseph Louthan
 publishDate: 2021-03-15T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

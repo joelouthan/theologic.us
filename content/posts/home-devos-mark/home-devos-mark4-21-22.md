@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 4:21-22 Jesus is the Light"
 author: Joseph Louthan
 date: 2012-10-31
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

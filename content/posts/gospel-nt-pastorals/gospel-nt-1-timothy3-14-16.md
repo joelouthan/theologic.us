@@ -3,6 +3,7 @@ title: "Gospel NT: 1 Timothy 3:14-16 Mystery of Christ"
 author: Joseph Louthan
 publishDate: 2021-03-31T06:00:00-06:00
 categories:
+  - Commentaries
   - "Gospel NT"
 tags:
   - "1 Timothy"

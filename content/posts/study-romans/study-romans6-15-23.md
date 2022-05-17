@@ -3,6 +3,7 @@ title: 'Study: Romans 6:15–23 God Buries Our Sin'
 author: Joseph Louthan
 publishDate: 2021-03-19T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

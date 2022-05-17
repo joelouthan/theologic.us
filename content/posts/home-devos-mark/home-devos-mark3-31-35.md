@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 3:31-35 Jesus is Family"
 author: Joseph Louthan
 date: 2012-10-03
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

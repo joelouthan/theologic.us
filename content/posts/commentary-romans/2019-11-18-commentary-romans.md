@@ -3,7 +3,7 @@ title: 'Romans 1:1 Who is God? God Saves'
 author: Joseph Louthan
 publishDate: 2019-11-18
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

@@ -3,6 +3,7 @@ title: 'Study: Romans 8:14-17 Who Bears Witness For Us?'
 author: Joseph Louthan
 publishDate: 2021-03-25T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 6:1-6	Jesus is the Lord of Life"
 author: Joseph Louthan
 publishDate: 2021-11-12T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

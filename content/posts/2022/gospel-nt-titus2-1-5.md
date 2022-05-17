@@ -3,7 +3,8 @@ title: "Gospel NT: Titus 2:1-5 Teach Like This: Family of Christ"
 author: Joseph Louthan
 publishDate: 2022-05-10T06:00:00-06:00
 categories:
-  - Gospel
+  - Commentaries
+  - "Gospel NT"
 tags:
   - "Titus"
 series:

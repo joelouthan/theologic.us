@@ -3,6 +3,7 @@ title: "Gospel NT: 1 Timothy 4:1-5 Worship Christ"
 author: Joseph Louthan
 publishDate: 2021-04-07T06:00:00-06:00
 categories:
+  - Commentaries
   - "Gospel NT"
 tags:
   - "1 Timothy"

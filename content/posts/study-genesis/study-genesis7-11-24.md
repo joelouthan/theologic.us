@@ -3,6 +3,7 @@ title: "Study: Genesis 7:11-24 The Gospel Certainty: The Will of God"
 author: Joseph Louthan
 publishDate: 2021-09-23T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Genesis"

@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 5:14-20	Jesus is the Lord of Salvation"
 author: Joseph Louthan
 publishDate: 2021-11-08T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

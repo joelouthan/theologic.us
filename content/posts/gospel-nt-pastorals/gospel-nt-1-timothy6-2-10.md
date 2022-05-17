@@ -3,6 +3,7 @@ title: "Gospel NT: 1 Timothy 6:2-10 Be Content in Christ"
 author: Joseph Louthan
 publishDate: 2021-05-19T06:00:00-06:00
 categories:
+  - Commentaries
   - "Gospel NT"
 tags:
   - "1 Timothy"

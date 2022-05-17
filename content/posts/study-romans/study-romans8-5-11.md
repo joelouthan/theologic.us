@@ -3,6 +3,7 @@ title: 'Study: Romans 8:5-11 How Can I Walk This Path?'
 author: Joseph Louthan
 publishDate: 2021-03-23T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

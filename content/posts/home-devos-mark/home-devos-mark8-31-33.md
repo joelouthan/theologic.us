@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 8:31-33 Jesus Must Die"
 author: Joseph Louthan
 publishDate: 2021-12-08T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

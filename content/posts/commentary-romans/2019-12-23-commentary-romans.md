@@ -3,7 +3,7 @@ title: 'Romans 1:8-15 Who Are We? We Are Saved to Good Works'
 author: Joseph Louthan
 publishDate: 2019-12-23
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

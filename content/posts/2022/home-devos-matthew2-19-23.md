@@ -3,6 +3,7 @@ title: "Home Devotions: Matthew 2:19-23 Jesus Christ is Our Identity"
 author: Joseph Louthan
 publishDate: 2022-05-28T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Matthew"

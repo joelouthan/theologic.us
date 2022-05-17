@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 6:7-13 Jesus is the Lord of Preaching"
 author: Joseph Louthan
 publishDate: 2021-11-13T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

@@ -3,6 +3,7 @@ title: "Study: Genesis 1:26-31 Our Forever Image"
 author: Joseph Louthan
 publishDate: 2021-07-08T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Genesis"

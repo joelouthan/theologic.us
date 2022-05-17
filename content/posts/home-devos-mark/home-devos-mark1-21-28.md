@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 1:21-28 Jesus Rules and Reigns Over Satan and Demon
 author: Joseph Louthan
 date: 2012-08-08
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

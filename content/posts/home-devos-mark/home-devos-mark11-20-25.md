@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 11:20-25 So That We Might Live and Believe"
 author: Joseph Louthan
 publishDate: 2022-01-24T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

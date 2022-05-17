@@ -3,6 +3,7 @@ title: 'Study: Romans 7:7-13 First, God Reveals Our Sin'
 author: Joseph Louthan
 publishDate: 2021-03-21T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

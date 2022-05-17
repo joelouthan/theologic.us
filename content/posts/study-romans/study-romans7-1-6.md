@@ -3,6 +3,7 @@ title: 'Study: Romans 7:1-6 God Rips Our Sin From Us'
 author: Joseph Louthan
 publishDate: 2021-03-20T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

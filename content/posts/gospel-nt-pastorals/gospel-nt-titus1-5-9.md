@@ -3,7 +3,8 @@ title: "Gospel NT: Titus 1:5-9 Minister Like This: Love God"
 author: Joseph Louthan
 publishDate: 2022-05-08T06:00:00-06:00
 categories:
-   - "Gospel NT"
+  - Commentaries
+  - "Gospel NT"
 tags:
   - "Titus"
 series:

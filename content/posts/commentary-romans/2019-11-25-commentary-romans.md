@@ -3,7 +3,7 @@ title: 'Romans 1:2-4 Who is God? God Redeems'
 author: Joseph Louthan
 publishDate: 2019-11-25
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

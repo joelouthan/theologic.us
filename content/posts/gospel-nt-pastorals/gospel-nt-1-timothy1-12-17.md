@@ -3,6 +3,7 @@ title: "Gospel NT: 1 Timothy 1:12-17 Christ Our Salvation"
 author: Joseph Louthan
 publishDate: 2021-02-17T06:00:00-06:00
 categories:
+  - Commentaries
   - "Gospel NT"
 tags:
   - "1 Timothy"

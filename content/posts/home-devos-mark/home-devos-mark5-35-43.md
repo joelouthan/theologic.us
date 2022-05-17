@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 5:35-43	Jesus is the Lord over Death"
 author: Joseph Louthan
 publishDate: 2021-11-11T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

@@ -3,6 +3,7 @@ title: 'Study: Romans 5:6–11 God Loves, Not Us'
 author: Joseph Louthan
 publishDate: 2021-03-16T06:00:00-06:00
 categories:
+  - Commentaries
   - Bible Study
 tags:
   - "Romans"

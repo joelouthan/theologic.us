@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 4:10-13 Jesus Helps Us to Understand, See, Hear, Fe
 author: Joseph Louthan
 date: 2012-10-17
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

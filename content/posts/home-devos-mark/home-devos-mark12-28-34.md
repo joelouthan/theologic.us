@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 12:28-34 So That We Might Live and Love Him and Lov
 author: Joseph Louthan
 publishDate: 2022-02-02T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 5:1-13 Jesus is Lord of Hell"
 author: Joseph Louthan
 date: 2013-01-16
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

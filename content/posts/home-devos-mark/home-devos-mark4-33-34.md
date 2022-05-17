@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 4:33-34 Jesus is Lord of the Spiritual"
 author: Joseph Louthan
 date: 2012-12-19
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

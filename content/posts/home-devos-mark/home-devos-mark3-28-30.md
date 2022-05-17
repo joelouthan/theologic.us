@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 3:28-30 Listen to the Holy Spirit"
 author: Joseph Louthan
 date: 2012-09-20
 categories:
+  - Commentaries
   - Devotions
 tags:
   - Mark

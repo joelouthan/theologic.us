@@ -3,7 +3,7 @@ title: 'Romans 1:16-17 What is the Gospel? To the Jew First and also to the Gree
 author: Joseph Louthan
 publishDate: 2020-05-11
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:

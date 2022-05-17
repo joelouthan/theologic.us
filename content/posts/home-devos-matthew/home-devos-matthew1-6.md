@@ -3,6 +3,7 @@ title: "Home Devotions: Matthew 1:1-6 Jesus Christ is Our Perfection"
 author: Joseph Louthan
 publishDate: 2022-01-29T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Matthew"

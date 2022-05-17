@@ -3,6 +3,7 @@ title: "Home Devotions: Mark 10:23-27 God Alone Receives the Lost"
 author: Joseph Louthan
 publishDate: 2022-01-07T06:00:00-06:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"

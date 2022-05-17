@@ -3,6 +3,7 @@ title: "Gospel NT: 1 Timothy 6:1-2 Christ Our Lord"
 author: Joseph Louthan
 publishDate: 2021-05-12T06:00:00-06:00
 categories:
+  - Commentaries
   - "Gospel NT"
 tags:
   - "1 Timothy"

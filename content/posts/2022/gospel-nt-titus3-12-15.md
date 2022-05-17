@@ -3,7 +3,8 @@ title: "Gospel NT: Titus 3:12-15 Live Like This: Go in the Spirit"
 author: Joseph Louthan
 publishDate: 2022-05-15T06:00:00-06:00
 categories:
-  - Gospel
+  - Commentaries
+  - "Gospel NT"
 tags:
   - "Titus"
 series:

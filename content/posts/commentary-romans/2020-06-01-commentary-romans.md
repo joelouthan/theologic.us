@@ -3,7 +3,7 @@ title: 'Romans 1:16-17 What is the Gospel? The Righteous Shall Live By Faith! [P
 author: Joseph Louthan
 publishDate: 2020-06-01
 categories:
-  - Commentary
+  - Commentaries
 tags:
   - Romans
 series:
