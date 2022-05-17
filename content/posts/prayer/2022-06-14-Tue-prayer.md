@@ -93,6 +93,10 @@ Rayny & Ty
 
 ## Community
 
+### Wilmore
+
+Randy (MDiv) - barista at Drinklings
+
 ### Clover Bottom Baptist  
 
 Dale Raglund & fam  
