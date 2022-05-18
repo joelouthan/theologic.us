@@ -1,7 +1,7 @@
 ---
-title: "Daily Prayers for Tuesday, 7 June 2022"
+title: "Daily Prayers for Saturday, 18 June 2022"
 author: Joseph Louthan
-publishDate: 2022-06-07T05:00:00-05:00
+publishDate: 2022-06-18T05:00:00-05:00
 categories:
   - Prayer
 draft: false

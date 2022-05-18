@@ -102,7 +102,7 @@ Randy (MDiv) - barista at Drinklings
 Dale Raglund & fam  
 - Jason
 
-### St.Andrews Anglican  
+### St. Andrews Anglican  
 
 Ben & Stephanie, Boys
 
