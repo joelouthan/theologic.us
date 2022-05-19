@@ -1,9 +1,8 @@
 ---
-title: "Daily Prayers for Tuesday, 7 June 2022"
+title: "Daily Prayer"
 author: Joseph Louthan
-publishDate: 2022-06-07T05:00:00-05:00
-categories:
-  - Prayer
+publishDate: 2022-05-19T05:00:00-05:00
+url: /prayer/
 draft: false
 index: false
 css: "prayers"
@@ -87,7 +86,7 @@ Victoria Schmidt
 
 Bruce & Suzanne
 
-Chuck & Debbie, daughter
+Chuck & Debbie, Nathaniel, Garrett, Katherine
 
 Rayny & Ty
 
@@ -100,6 +99,7 @@ Randy (MDiv) - barista at Drinklings
 ### Clover Bottom Baptist  
 
 Dale Raglund & fam  
+
 - Jason
 
 ### St. Andrews Anglican  
