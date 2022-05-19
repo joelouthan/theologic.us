@@ -40,24 +40,36 @@ draft: false
 
 ## The Devotion
 
+Jesus is giving us the real facts. The Son of God who is God is not and will never sugarcoat what it takes to believe and trust in Him while we are still very much in a fallen world.
 
+There are some who will deny God. Without Christ to save them, they "will be thrown into the outer darkness where the wrath of Christ remains upon them--the weeping and gnashing of teeth." (Matthew 8:12; John 3:36)
+
+There are some who will lying and twisting of Scriptures, will tell us that God will bless with health, wealth and prosperity if you believe and trust in them--coincide, coincidentally, with how much you give to line their pockets. These false shepherds are falling into their own destructions, not unlike the false prophets in Bible times. They are false because they promise what God never promises.
+
+Here, the Son of God is crystal clear: Trust in Him and for that, you will be persecuted in some way. Your job, your family, your friends, your neighbors--some in your own church might turn against you.
+
+We are not called to retaliate or take revenge. We are not called to fight and draw blood. We are called, dear brothers and sisters, to love God and love one another.
+
+And to do so, God is asking one thing from you: your heart. Where is your heart? Does your heart belong to you or does it belong to God? Does your affections are with the King of kings or whatever you can do while you are here on earth for a very short time. Are you led by the Spirit or led by your own understanding and lusts.
+
+Choose on this day whom you will serve.
 
 ## The Discussion
 
 ```text
-1. 
+1. How have we Christians called something "persecution" when there is no persecution to be had?
 ```
 
 ```text
-2. 
+2. What does persecution actually look like?
 ```
 
 ```text
-3. 
+3. How are we to respond?
 ```
 
 ```text
-4. 
+4. Is there a right way to respond? In other words, do we have to get it perfect? Where does God's grace factor in this?
 ```
 
 ## The Prayer from the Psalms
