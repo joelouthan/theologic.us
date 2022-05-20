@@ -92,6 +92,8 @@ Rayny & Ty
 
 ## Community
 
+Jenn, fam 
+
 ### Wilmore
 
 Randy (MDiv) - barista at Drinklings
