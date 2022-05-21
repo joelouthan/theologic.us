@@ -23,7 +23,7 @@ draft: false
 ## The Article
 
 ```text
-1.II Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament, which are these:
+Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament, which are these:
 
 Of the Old Testament Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth I Samuel II Samuel I Kings II Kings I Chronicles II Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes The Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi
 

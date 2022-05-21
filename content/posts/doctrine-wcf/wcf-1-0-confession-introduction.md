@@ -4,11 +4,11 @@ author: Joseph Louthan
 publishDate: 2022-05-25T06:00:00-06:00
 categories:
   - Confessions
+  - Books
 tags:
-  - "Westminster Confession"
-  - "Books"
+  - "Westminster Confession of Faith"
 series:
-  - "Westminster Confession"
+  - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
