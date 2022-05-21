@@ -1,5 +1,5 @@
 ---
-title: "Westminster Confession of Faith, Chapter 1.II The Old and New Testaments of Holy Scripture"
+title: "Westminster Confession of Faith, Chapter 1.ii The Old and New Testaments of Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-06-08T06:00:00-06:00
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - "Westminster Confession of Faith"
 series:
-  - "Westminster Confession"
+  - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
@@ -65,39 +65,6 @@ And if you don't know your Bible well, you might be tempted to dismiss this alto
 But there is one who returned from the dead, who breathed out the words of God by the power of the Holy Spirit from the sovereign grace and mercy of God our Father--that is, Jesus Christ our Lord.
 
 Christ has returned from the dead. Will you repent of your sins? Will you trust and believe and live by the words of God? Will you obey the Son of God who is God for your life!
-
-### The books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of Scripture; and therefore are of no authority in the church of God, nor to be any otherwise approved, or made use of, than other human writings.
-
->Luke 24:25-27 (CSB) He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! Wasn’t it necessary for the Messiah to suffer these things and enter into his glory?” Then beginning with Moses and all the Prophets, he interpreted for them the things concerning himself in all the Scriptures.
-
-The Apocrypha consisting of the following:
-
-- 1 Esdras (Vulgate 3 Esdras)
-- 2 Esdras (Vulgate 4 Esdras)
-- Tobit
-- Judith ("Judeth" in Geneva)
-- Rest of Esther (Vulgate Esther 10:4 – 16:24)
-- Wisdom
-- Ecclesiasticus (also known as Sirach)
-- Baruch and the Epistle of Jeremy ("Jeremiah" in Geneva) (all part of Vulgate Baruch)
-- Song of the Three Children (Vulgate Daniel 3:24–90)
-- Story of Susanna (Vulgate Daniel 13)
-- The Idol Bel and the Dragon (Vulgate Daniel 14)
-- Prayer of Manasseh (Daniel)
-- 1 Maccabees
-- 2 Maccabees
-
-These books are not canon because they are not wholly inspired by God in their writings. Despite them being not canon, we don't reject them wholesale. They are literature of great historial importance. Sproul says it this way:
-
->>Although the Apocrypha are not part of the canon of the Scripture, these books need not be completely ignored or discarded. We do not throw away the letters of Clement, Ignatius, or other church fathers, which are of historical interest. The confession makes the point only that the books of the Apocrypha are not inspired and therefore do not belong in the canon.
->>
->> R.C. Sproul. Truths We Confess. 12. 
-
-We don't need to seek out other good news outside the revelation of God in Christ Jesus because there is nowhere else. If you don't believe the word of God, that is one thing. And I pray that you believe and obey Christ. But don't say you are a Christian and then keep looking for something other than the simple gospel of the Lord Jesus Christ.
-
-Repent, for the kingdom of God is now.
-
->Galatians 1:6-10 (CSB) I am amazed that you are so quickly turning away from him who called you by the grace of Christ and are turning to a different gospel— not that there is another gospel, but there are some who are troubling you and want to distort the gospel of Christ. But even if we or an angel from heaven should preach to you a gospel contrary to what we have preached to you, a curse be on him! As we have said before, I now say again: If anyone is preaching to you a gospel contrary to what you received, a curse be on him! For am I now trying to persuade people, or God? Or am I striving to please people? If I were still trying to please people, I would not be a servant of Christ.
 
 ## The Discussion
 

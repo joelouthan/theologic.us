@@ -1,20 +1,17 @@
 ---
-title: "Westminster Confession of Faith, Chapter 1.I On Holy Scripture"
+title: "Westminster Confession of Faith, Chapter 1.i On Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-06-01T06:00:00-06:00
 categories:
   - Confessions
 tags:
-  - "Westminster Confession"
+  - "Westminster Confession of Faith"
 series:
-  - "Westminster Confession"
+  - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
 ---
-## The Introduction 
-
-
 
 ## The Text
 
