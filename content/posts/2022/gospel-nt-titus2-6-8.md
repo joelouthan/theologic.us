@@ -19,6 +19,13 @@ draft: true
 
 ## The Text
 
+>Titus 2:6–8 (CSB)  
+><sup> 6 </sup> In the same way, encourage the young men to be self-controlled 
+
+><sup> 7 </sup> in everything. Make yourself an example of good works with integrity and dignity in your teaching. 
+
+><sup> 8 </sup> Your message is to be sound beyond reproach, so that any opponent will be ashamed, because he doesn’t have anything bad to say about us.
+
 <div style="page-break-after: always;"></div>
 
 ## The Meditation
