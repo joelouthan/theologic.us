@@ -82,6 +82,8 @@ params:
               url: /series/gospel-nt-pastorals/
             - name: "Doctrine: Westminster Confession of Faith"
               url: /series/westminster-confession/
+            - name: "Kid Devotions: Luke"
+              url: /series/kid-devotions-luke/
             - name: Other Series
               url: series
 
