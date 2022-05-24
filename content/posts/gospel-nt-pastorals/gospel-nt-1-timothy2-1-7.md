@@ -15,6 +15,12 @@ draft: false
 ---
 ## The Introduction
 
+Just in previous chapter, Paul exhorts Timothy to remember the prophecies made about Timothy in order to keep the good fight--because apart from the grace of God, we are a plethora of tiny, micro decisions from shipwrecking our faith.
+
+Paul encourages us to fight the good fight of faith. How do we do that?
+
+Paul goes on:
+
 ## The Text
 
 >1 Timothy 2:1-7 (CSB) First of all, then, I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone, for kings and all those who are in authority, so that we may lead a tranquil and quiet life in all godliness and dignity. This is good, and it pleases God our Savior, who wants everyone to be saved and to come to the knowledge of the truth.
@@ -27,78 +33,110 @@ draft: false
 
 ### I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone, for kings and all those who are in authority
 
->Luke 11:1-13 (CSB) He was praying in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”
->He said to them, “Whenever you pray, say,
+Let us boldly petition God for God for everyone. What does that mean?
+
+Look at Luke's account of the Lord's prayer.
+
+>Luke 11:5-13 (CSB) He also said to them, “Suppose one of you has a friend and goes to him at midnight and says to him, ‘Friend, lend me three loaves of bread, because a friend of mine on a journey has come to me, and I don’t have anything to offer him.’ Then he will answer from inside and say, ‘Don’t bother me! The door is already locked, and my children and I have gone to bed. I can’t get up to give you anything.’ I tell you, even though he won’t get up and give him anything because he is his friend, yet because of his friend’s shameless boldness, he will get up and give him as much as he needs.
 >
->Father,  
->your name be honored as holy.  
->Your kingdom come.  
->Give us each day our daily bread.  
->And forgive us our sins,  
->for we ourselves also forgive everyone  
->in debt to us.  
->And do not bring us into temptation.”  
->
->He also said to them, “Suppose one of you has a friend and goes to him at midnight and says to him, ‘Friend, lend me three loaves of bread, because a friend of mine on a journey has come to me, and I don’t have anything to offer him.’ Then he will answer from inside and say, ‘Don’t bother me! The door is already locked, and my children and I have gone to bed. I can’t get up to give you anything.’ I tell you, even though he won’t get up and give him anything because he is his friend, yet because of his friend’s shameless boldness, he will get up and give him as much as he needs.
->
->“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him?”
+>“So I say to you, ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead of a fish? Or if he asks for an egg, will give him a scorpion? If you then, who are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him? ”
 
-Christ taught us how to pray. Pray like he taught us to pray. We need not to impress one another. Because of Christ, we get to speak to our Father in heaven.
+When we pray, how should we come to the Father? One might say humbly and I would agree so since we are mere mortals approaching our Creator God who is Holy and lifted far above all our sinful idols.
 
-If you need help in putting into your own words:
+But Jesus tells us to have this mindset and attitude when approaching our Good Father:
 
-- petitions
+ - boldly
+ - confidently
+ - audaciously
+ - almost to the point of where you think you are bugging God
 
->James 4:1-3 (CSB) What is the source of wars and fights among you? Don’t they come from your passions that wage war within you? You desire and do not have. You murder and covet and cannot obtain. You fight and wage war. You do not have because you do not ask. You ask and don’t receive because you ask with wrong motives, so that you may spend it on your pleasures.
+But guess what, you cannot "bug" nor "bother" the God of the universe whose Son actively in his mind actively holds together the molecules of the universe:
 
-Stop taking matters into your own hands. Ask of your Father.
+>Colossians 1:15-20 (CSB) He is the image of the invisible God,
+the firstborn over all creation.
+For everything was created by him,
+in heaven and on earth,
+the visible and the invisible,
+whether thrones or dominions
+or rulers or authorities —
+all things have been created through him and for him.
+He is before all things,
+and by him all things hold together.
+He is also the head of the body, the church;
+he is the beginning,
+the firstborn from the dead,
+so that he might come to have
+first place in everything.
+For God was pleased to have
+all his fullness dwell in him,
+and through him to reconcile
+everything to himself,
+whether things on earth or things in heaven,
+by making peace
+through his blood, shed on the cross.
 
-- prayers
+... the same God of the universe who infinitely does everything and all infinite things all at the same time from past to present to future at all times infinitely and maxed out good and perfect. If he does that, does he not devote his undivided attention to you?
 
-Don't overthink this.  Keep it simple. This is your time to be emotionally honest from the Lord. Read the Psalms. Read the book of Job.
+I am a dad who is blessed with kids who are bold and audacious to ask their Papa for everything. And I cannot give them all of my attention all the time. I always have to stop what I am doing and focus on them. And even then, it is so far from perfect.
 
-- intercessions
+Christ, the Son of God who is God, commands us, to put it simply, "Go to God, ask for God, you will get God."
 
->Exodus 32:7-14 (CSB) The LORD spoke to Moses: “Go down at once! For your people you brought up from the land of Egypt have acted corruptly. They have quickly turned from the way I commanded them; they have made for themselves an image of a calf. They have bowed down to it, sacrificed to it, and said, ‘Israel, these are your gods, who brought you up from the land of Egypt.’” The LORD also said to Moses, “I have seen this people, and they are indeed a stiff-necked people. Now leave me alone, so that my anger can burn against them and I can destroy them. Then I will make you into a great nation.”
->
->But Moses sought the favor of the LORD his God: “LORD, why does your anger burn against your people you brought out of the land of Egypt with great power and a strong hand? Why should the Egyptians say, ‘He brought them out with an evil intent to kill them in the mountains and eliminate them from the face of the earth’? Turn from your fierce anger and relent concerning this disaster planned for your people. Remember your servants Abraham, Isaac, and Israel—you swore to them by yourself and declared, ‘I will make your offspring as numerous as the stars of the sky and will give your offspring all this land that I have promised, and they will inherit it forever.’” So the LORD relented concerning the disaster he had said he would bring on his people.
+Now you might think, "Isn't the prayers of the wicked worthless to God?"
 
->Romans 8:26-27 (CSB) In the same way the Spirit also helps us in our weakness, because we do not know what to pray for as we should, but the Spirit himself intercedes for us with inexpressible groanings. And he who searches our hearts knows the mind of the Spirit, because he intercedes for the saints according to the will of God.
+Let me ask you this, if you have the wisdom, gumption, smarts, strength, grace, wherewithal, motivation to go to God, where do you think you get that power from? Not on earth. Not from yourself. 
 
->Romans 8:34 (CSB) Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us.
+I encourage you all to study [Ordo Salutis](/series/ordo-salutis/), the order of how God saves his people from their sins. You will see, for someone to even approach God, they could not as a son of Adam, but God, rich in mercy and love, has to swoop down into us, pull our wicked, concrete hearts out, replaces it with his own heart, and then gives us his Almighty Spirit so that you and I will now have new desires and passions.
 
-Simply this: pray for others.
+The unbeliever and worthless man cannot go to God. Not until God changes that man. Only then can mankind know that they are in desperate need of the only Savior who is able, willing, and power to save them from the death and sin.
 
-- thanksgivings
+Linked all together.  Jesus Christ said, "Go and try to bother the Father." Turn from your sin, turn to God, go to God, run to God, ask God for God, it is guaranteed by the blood of the Lamb, in exchange you will get God.
 
->1 Thessalonians 5:16-18 (CSB) Rejoice always, pray constantly, give thanks in everything; for this is God’s will for you in Christ Jesus.
+Now Paul takes that and says:
 
-Give thanks.
+>I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone, for kings and all those who are in authority
+
+Go to God--audaciously, boldly--and petition, prayer, intercede and give thanks for everyone--in the Greek, that means 'everyone'--and for kings and the even the presidents, judges, and senators that you hate. You are go to God and ask God to save them so that, in heaven, they will be side by side with you, worshipping our great God together. Wouldn't that be a splendid and wonderful thing?
+
 
 ### so that we may lead a tranquil and quiet life in all godliness and dignity
 
->Titus 2:1-8 (CSB) But you are to proclaim things consistent with sound teaching. Older men are to be self-controlled, worthy of respect, sensible, and sound in faith, love, and endurance. In the same way, older women are to be reverent in behavior, not slanderers, not slaves to excessive drinking. They are to teach what is good, so that they may encourage the young women to love their husbands and to love their children, to be self-controlled, pure, workers at home, kind, and in submission to their husbands, so that God’s word will not be slandered.
->
->In the same way, encourage the young men to be self-controlled in everything. Make yourself an example of good works with integrity and dignity in your teaching. Your message is to be sound beyond reproach, so that any opponent will be ashamed, because he doesn’t have anything bad to say about us.
+You know what is the effect of intentionally praying, petitioning, interceding, and giving thanks for people who you think are your mortal enemies? Shocking enough, they stop being your enemies. You stop hating them. You start loving them. You start caring for them. You start giving to them and want nothing in return. You literally start killing them with kindness. Jesus praises the shrewdness and the craftiness of the the dishonest manager in Luke 16. And Jesus wishes that the children of light were just as crafty as the children of the world in dealing with others and loving them. 
+
+Our Father owns the cattle on a thousand hills. We are so stupidly wealthy. Kill others with kindness--literally, "money whip" others--so that:
+
+>Luke 16:9 (CSB) And I tell you, make friends for yourselves by means of worldly wealth so that when it fails, they may welcome you into eternal dwellings.
+
+I am not off subject. Look at what Paul tells us to do: "lead a tranquil and quiet life in all godliness and dignity." Paul never says, "lead a quiet, godly life if your circumstances see fit." No, you cannot control your circumstances--I don't care what prosperity false preachers told you. No, you cannot control other people. But you can lead a godly, tranquil, quiet life and you do so by first praying for others and giving thanks for them.
 
 ### This is good, and it pleases God our Savior, who wants everyone to be saved and to come to the knowledge of the truth
 
 >Romans 2:3-4 (CSB) Do you think—anyone of you who judges those who do such things yet do the same—that you will escape God’s judgment? Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance?
 
+You know what these passages are not about? Trying to full some Calvinist vs. non-Calvinist online debate. You know what this passage is about? Look and marvel at the sweetness of God our Savior and his tender mercies and kindness towards mankind.
+
+God is holy, just, and right. Fully and perfectly, But God is love, kind, gracious, and merciful. Fully and perfectly. It's the end of discussion. Dwell on the goodness of God.
+
+If you do not know God in this way, ask a friend. Ask your neighbor. Read your Bible. Read books. Write. Journal. Listen to podcasts and sermons until you know and feel that Jesus loves you because the Bible told you so.
+
 ### For there is one God and one mediator between God and mankind, the man Christ Jesus, who gave himself as a ransom for all, a testimony at the proper time
 
 >Romans 6:8-11 (CSB) Now if we died with Christ, we believe that we will also live with him, because we know that Christ, having been raised from the dead, will not die again. Death no longer rules over him. For the death he died, he died to sin once for all time; but the life he lives, he lives to God. So, you too consider yourselves dead to sin and alive to God in Christ Jesus.
 
-### For this I was appointed a herald, an apostle (I am telling the truth; I am not lying), and a teacher of the Gentiles in faith and truth
+Sum this up:
 
->Romans 1:13-15 (CSB) Now I don’t want you to be unaware, brothers and sisters, that I often planned to come to you (but was prevented until now) in order that I might have a fruitful ministry among you, just as I have had among the rest of the Gentiles. I am obligated both to Greeks and barbarians, both to the wise and the foolish. So I am eager to preach the gospel to you also who are in Rome.
->
->Romans 15:14-21 (CSB) My brothers and sisters, I myself am convinced about you that you also are full of goodness, filled with all knowledge, and able to instruct one another. Nevertheless, I have written to remind you more boldly on some points because of the grace given me by God to be a minister of Christ Jesus to the Gentiles, serving as a priest of the gospel of God. God’s purpose is that the Gentiles may be an acceptable offering, sanctified by the Holy Spirit. Therefore I have reason to boast in Christ Jesus regarding what pertains to God. For I would not dare say anything except what Christ has accomplished through me by word and deed for the obedience of the Gentiles, by the power of miraculous signs and wonders, and by the power of God’s Spirit. As a result, I have fully proclaimed the gospel of Christ from Jerusalem all the way around to Illyricum. My aim is to preach the gospel where Christ has not been named, so that I will not build on someone else’s foundation, but, as it is written,
->
->Those who were not told about him will see,  
->and those who have not heard will understand.
+>Romans 5:8 (CSB) But God proves his own love for us in that while we were still sinners, Christ died for us.
+
+Christ gave his life for his people over 2,000 years ago. The deal is done. The sacrifice is complete. Nothing more to do. His work is complete. We are saved.
 
 ## The Gospel
+
+### For this I was appointed a herald, an apostle (I am telling the truth; I am not lying), and a teacher of the Gentiles in faith and truth
+
+Here are big facts: this not my truth. This is not the truth that is true to me because I believe it and others may not. It is definitely not the truth of the world--which was different a 100 years ago, when I was born, 20 years ago and today.
+
+This is absolute truth for all mankind for all of history because the One God who created heaven and hell and earth and you and me proclaimed it to be so and it is done.
+
+Believe on this. Call upon the name of the Lord Jesus Christ and you will be saved.
 
 ## The Prayer
 
