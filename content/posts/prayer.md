@@ -104,6 +104,10 @@ Jenn, fam
 
 Randy (MDiv) - barista at Drinklings
 
+#### Great Commission Fellowship (Vineyard)
+
+Jason & Kyra, fam
+
 ### Clover Bottom Baptist  
 
 Dale Raglund & fam  
