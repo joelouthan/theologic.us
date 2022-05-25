@@ -84,11 +84,11 @@ Joshua & Lynnette, Elijah
 
 Troy & Morgan, Marcella
 
-Jim Lucas
+Jim
 
-Trisha Day
+Trisha
 
-Victoria Schmidt
+Victoria
 
 Bruce & Suzanne
 
@@ -102,7 +102,7 @@ Jenn, fam
 
 ### Wilmore
 
-Randy (MDiv) - barista at Drinklings
+Randy & kids
 
 #### Great Commission Fellowship (Vineyard)
 
