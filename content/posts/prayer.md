@@ -96,10 +96,6 @@ Chuck & Debbie, Nathaniel, Garrett, Katherine
 
 Rayny & Ty
 
-## Community
-
-Jenn, fam 
-
 ### Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
@@ -112,33 +108,39 @@ Randy & kids
 
 Jason & Kyra, fam
 
-### Clover Bottom Baptist  
+### Nonesuch
+
+#### Clover Bottom Baptist  
 
 Dale Raglund & fam  
 
 - Jason
 
-### St. Andrews Anglican  
+#### Truth Community Church
+
+### Versailles
+
+Jenn, fam 
+
+#### St. Andrews Anglican  
 
 Ben & Stephanie, Boys
 
 Kelly & her girls
 
-### Pinckard Baptist
+#### Pinckard Baptist
 
 Jeremy & fam
 
-### King’s Way
+#### King’s Way
 
 Parker & Amy, kids
 
-### Southside Christian Church
+#### Southside Christian Church
 
-### Truth Community Church, Nonesuch
+#### Little Texas Community Church
 
-### Little Texas Community Church
-
-### Clear Creak Baptist
+#### Clear Creak Baptist
 
 ## Family
 
