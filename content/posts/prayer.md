@@ -96,6 +96,8 @@ Chuck & Debbie, Nathaniel, Garrett, Katherine
 
 Rayny & Ty
 
+Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
+
 ### Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
