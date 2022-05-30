@@ -1,7 +1,7 @@
 ---
-title: "Gospel NT: Titus 3:12-15 Live Like This: Go in the Spirit"
+title: "Gospel NT: Titus 3:1-7 Live Like This: Indwelling of the Spirit"
 author: Joseph Louthan
-publishDate: 2022-05-15T06:00:00-06:00
+publishDate: 2022-06-10T06:00:00-06:00
 categories:
   - Commentaries
   - "Gospel NT"

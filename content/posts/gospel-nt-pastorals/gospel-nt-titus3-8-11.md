@@ -1,7 +1,7 @@
 ---
-title: "Gospel NT: Titus 2:9-15 Teach Like This: One with Christ "
+title: "Gospel NT: Titus 3:8-11 Live Like This: Lead by the Spirit"
 author: Joseph Louthan
-publishDate: 2022-05-12T06:00:00-06:00
+publishDate: 2022-06-17T06:00:00-06:00
 categories:
   - Commentaries
   - "Gospel NT"
