@@ -98,6 +98,8 @@ Rayny & Ty
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
+## Lexington
+
 ## Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
