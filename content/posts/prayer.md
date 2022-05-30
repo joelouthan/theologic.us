@@ -98,51 +98,51 @@ Rayny & Ty
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
-### Danville
+## Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
 
-### Wilmore
+## Wilmore
 
 Randy & kids
 
-#### Great Commission Fellowship (Vineyard)
+### Great Commission Fellowship (Vineyard)
 
 Jason & Kyra, fam
 
-### Nonesuch
+## Nonesuch
 
-#### Clover Bottom Baptist  
+### Clover Bottom Baptist  
 
 Dale Raglund & fam  
 
 - Jason
 
-#### Truth Community Church
+### Truth Community Church
 
-### Versailles
+## Versailles
 
 Jenn, fam 
 
-#### St. Andrews Anglican  
+### St. Andrews Anglican  
 
 Ben & Stephanie, Boys
 
 Kelly & her girls
 
-#### Pinckard Baptist
+### Pinckard Baptist
 
 Jeremy & fam
 
-#### King’s Way
+### King’s Way
 
 Parker & Amy, kids
 
-#### Southside Christian Church
+### Southside Christian Church
 
-#### Little Texas Community Church
+### Little Texas Community Church
 
-#### Clear Creak Baptist
+### Clear Creak Baptist
 
 ## Family
 
