@@ -46,18 +46,10 @@ draft: true
 4. 
 ```
 
-## The Prayer from the Psalms
-
->
-
-<div style='font-variant: small-caps;'>
-
-</div>
-
-```text
-
-```
-
+<<<<<<< Local Changes
+ 
+=======
+>>>>>>> External Changes
 <div style="page-break-after: always;"></div>
 
 ## The Media
