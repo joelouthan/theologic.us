@@ -80,7 +80,7 @@ Gary
 
 ## Mosiac Eastside
 
-Andrew & Jordyn, Will, Alice, Elliot
+Andrew & Jordyn, Will, Alice, Elliot, Annie
 
 ## RTC
 
