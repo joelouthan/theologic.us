@@ -70,11 +70,17 @@ David & Letha, Isabella, Mercedes
 
 Ian
 
-## World
+## Kenya
 
 Alex
 
+## Philippians
+
 Gary
+
+## Mosiac Eastside
+
+Andrew & Jordyn, Will, Alice, Elliot
 
 ## RTC
 
@@ -156,4 +162,4 @@ Yusef
 
 Molly
 
-Elijah, Ivy, Amber, Kara, Griffin, Gabe, Emma, Leslie, Grace, Lucy
+Elijah, Ivy, Amber, Kara, Gina, Gabe, Emma, Leslie, Grace, Lucy
