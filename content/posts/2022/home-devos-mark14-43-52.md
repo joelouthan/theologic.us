@@ -1,28 +1,20 @@
 ---
-title: "Home Devotions: Mark 13:24-27 What Does Christ Want? Our Eternity"
+title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-06-10T06:00:00-06:00
+publishDate: 2022-08-05T06:00:00-06:00
 categories:
-  - Commentaries
   - Home Devotions
 tags:
   - "Mark"
 series:
-  - "Home Devotions: Mark"
+  - "Mark"
 tocopen: true
 css: "prayers"
 draft: true
 ---
 ## The Text
 
->Mark 13:24–27 (CSB)  
-><sup> 24 </sup> “But in those days, after that tribulation: The sun will be darkened, and the moon will not shed its light; 
 
-><sup> 25 </sup> the stars will be falling from the sky, and the powers in the heavens will be shaken. 
-
-><sup> 26 </sup> Then they will see the Son of Man coming in clouds with great power and glory. 
-
-><sup> 27 </sup> He will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.
 
 ## The Devotion
 
@@ -46,8 +38,15 @@ draft: true
 4. 
 ```
 
- 
-<div style="page-break-after: always;"></div>
+## The Prayer
+
+<div style='font-variant: small-caps;'>
+
+</div>
+
+```text
+
+```
 
 ## The Media
 
