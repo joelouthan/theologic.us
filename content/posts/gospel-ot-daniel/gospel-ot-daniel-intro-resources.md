@@ -1,13 +1,13 @@
 ---
-title: "Gospel OT: Daniel, An Introduction and Resources"
+title: "Gospel OT: Daniel - Introduction and Resources"
 author: Joseph Louthan
 publishDate: 2022-01-07T06:00:00-06:00
 categories:
   - Commentaries
   - "Gospel OT"
+  - Books
 tags:
   - "Daniel"
-  - "Books"
 series:
   - "Gospel OT: Major Prophets"
 tocopen: true

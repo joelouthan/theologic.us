@@ -1,14 +1,13 @@
 ---
-title: "Home Devotions: Mark, A Few Resources"
+title: "Home Devotions: Mark - A Few Resources"
 author: Joseph Louthan
 date: 2012-07-25T06:00:00-06:00
 categories:
   - Commentaries
-  - Bibliography
   - Devotions
+  - Books
 tags:
   - Mark
-  - Books
 series:
   - 'Home Devotions: Mark'
 css: "prayers"

@@ -1,21 +1,19 @@
 ---
-title: 'Study: Romans - A Few Resources'
+title: "Study: Genesis - Introduction and Resources"
 author: Joseph Louthan
-publishDate: 2021-01-07T06:00:00-06:00
+publishDate: 2021-06-01T06:00:00-06:00
 categories:
   - Commentaries
   - Bible Study
   - Books
 tags:
-  - Romans
+  - "Genesis"
 series:
-  - 'Bible Study: Romans'
+  - "Bible Study: Genesis"
 tocopen: true
 css: "prayers"
 draft: false
 ---
-*Updated: January 9, 2022 - Fixed formatting, links, images, and order of preference. -Ed.*
-
 Here just the very small list of resources on Romans that I have found most helpful.
 
 ## It Goes Without Say
@@ -41,16 +39,6 @@ Incredible resource.
 I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
 
 [<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
-
-___
-
-<p style="clear:both;">
-
-## Personal
-
-[Here is Love: Exposition on Romans 8](/series/here-is-love/) This is the work that really started it all. And by all I mean, all of reading, writing, studying, teaching, and preaching. I worked on this from 2012 to 2018.  I cannot begin to tell you the agonizing and cripplingly darkness I went through while writing this book. At the end, it ended up being my worshipful testimony of the heights and depths of the beauty of God's grace alone.  Even outside of Romans 8 in the Bible, I will unashamedly often refer to Romans 8. Why? Romans 8 is contains the entire gospel.
-
-You can certainly do worse than to memorize it, write songs about it, and even write books about it.  There are too many rightful references to Romans 8 being Mount Everest of any chapter in the Bible.  Martin Luther called it, "The clearest gospel of all."
 
 ___
 
@@ -158,13 +146,3 @@ by Martin Luther.
 Kregel. 2003.
 
 I would be remiss if I didn't mention Luther's commentary. It was his desperate mediation on one little famous Habakkukan quote that literally and figuratively hammers the change within the Church and help begun the Protestant Reformation: **THE JUST SHALL LIVE BY FAITH!**
-
-___
-
-<p style="clear:both;">
-
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans-a-few-resources/)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
