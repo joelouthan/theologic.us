@@ -10,7 +10,7 @@ series:
   - "Psalms"
 showtoc: false
 css: "prayers"
-css: "prayers"
+draft: true
 ---
 ## The Psalms
 

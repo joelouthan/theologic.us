@@ -12,7 +12,7 @@ series:
   - "Bible Study: Genesis"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 Here just the very small list of resources on Romans that I have found most helpful.
 
