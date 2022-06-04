@@ -6,7 +6,7 @@ url: /prayer/
 draft: false
 index: false
 css: "prayers"
-tocopen: true
+tocopen: false
 ---
 ## Repentance
 
