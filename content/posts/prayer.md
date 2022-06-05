@@ -134,6 +134,21 @@ Dale Raglund & fam
 
 Jenn, fam 
 
+### Love Feast
+
+Justin & Holly 
+Lily
+Rico
+Sharon
+Melinda
+Logan & wife
+Steve
+Joshua - 1 Cor 13:14
+Caleb
+Virginia
+Emily
+Andy & Lily
+
 ### St. Andrews Anglican  
 
 Ben & Stephanie, Boys
