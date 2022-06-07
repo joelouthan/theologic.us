@@ -12,7 +12,7 @@ css: "prayers"
 draft: false
 ---
 
-## Luke 8:1-3
+## 🏠Luke 8:1-3
 
 ### Westminster Larger Catechism
 
@@ -30,7 +30,7 @@ If God did nothing, could we ever know God?
 
 -----
 
-## Luke 8:4-8
+## 🏠Luke 8:4-8
 
 ### Westminster Larger Catechism
 
