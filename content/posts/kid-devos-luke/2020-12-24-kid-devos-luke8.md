@@ -61,7 +61,7 @@ Romans 1:16-17 (CSB) For I am not ashamed of the gospel, because it is the power
 
 -----
 
-## Luke 8:9-15
+## 🏠Luke 8:9-15
 
 ### Westminster Larger Catechism
 
@@ -71,10 +71,10 @@ A. The Scriptures manifest that the Son and the Holy Ghost are God equal with th
 ### Christ Calls Us By Giving Us New Hearts
 
 >Luke 8:9-15 (CSB) Then his disciples asked him, “What does this parable mean?”So he said, “The secrets of the kingdom of God have been given for you to know, but to the rest it is in parables, so that
-    Looking they may not see,
-      and hearing they may not understand.
-
- “This is the meaning of the parable: The seed is the word of God.The seed along the path are those who have heard and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.And the seed on the rock are those who, when they hear, receive the word with joy. Having no root, these believe for a while and fall away in a time of testing.As for the seed that fell among thorns, these are the ones who, when they have heard, go on their way and are choked with worries, riches, and pleasures of life, and produce no mature fruit.But the seed in the good ground—these are the ones who, having heard the word with an honest and good heart, hold on to it and by enduring, produce fruit.
+>    Looking they may not see,
+>      and hearing they may not understand.
+>
+> “This is the meaning of the parable: The seed is the word of God.The seed along the path are those who have heard and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.And the seed on the rock are those who, when they hear, receive the word with joy. Having no root, these believe for a while and fall away in a time of testing.As for the seed that fell among thorns, these are the ones who, when they have heard, go on their way and are choked with worries, riches, and pleasures of life, and produce no mature fruit.But the seed in the good ground—these are the ones who, having heard the word with an honest and good heart, hold on to it and by enduring, produce fruit.
  
 ```text
 What does God have to do in order for us to believe and trust in Him?
