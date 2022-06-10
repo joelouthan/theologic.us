@@ -84,7 +84,7 @@ Ezekiel 36:25-27 (CSB) I will also sprinkle clean water on you, and you will be 
 
 -----
 
-## Luke 8:16-18
+## 🏠Luke 8:16-18
 
 ### Westminster Larger Catechism
 
