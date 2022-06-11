@@ -82,9 +82,7 @@ Gary
 
 Andrew & Jordyn, Will, Alice, Elliot, Annie
 
-## Lexington
-
-### RTC
+## RTC
 
 Jeremiah & Serah, Israel, Isabella, Moses, Isaiah, Ezekiel, and Augustine
 
@@ -110,13 +108,15 @@ Elijah & Annie, fam
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
+## Lexington
+
 ## Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
 
 ## Wilmore
 
-Randy & his girls
+Randy & kids
 
 ### Great Commission Fellowship (Vineyard)
 
