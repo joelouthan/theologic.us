@@ -15,7 +15,11 @@ Lord,
 </div>
 
 ```text
-I have seen my prayers. I believe that you have answered them. I see that you have changed my heart. I do not believe I have failed you. I know that I am obeying your will—​all because of what your Son has done for us.
+My identity is not my sin. 
+
+My identity is forever in your Son. 
+
+Do what you must so I would be conformed to the image of my Christ.
 
 Amen.
 ```
@@ -106,7 +110,7 @@ Chuck & Debbie, Nathaniel, Garrett, Katherine
 
 Rayny & Ty
 
-Elijah & Annie, fam
+Elijah & Annie, Aspen, Analeise
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
