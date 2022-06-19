@@ -7,10 +7,10 @@ categories:
 tags:
   - "Psalms"
 series:
-  - "Psalms"
+- 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-css: "prayers"
+draft: true
 ---
 ## The Psalms
 
