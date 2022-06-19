@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: "
+title: "Praying Through: Psalm 89 Keeper"
 author: Joseph Louthan
 publishDate: 2022-08-07T06:00:00-06:00
 categories:

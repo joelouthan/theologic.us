@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: "
+title: "Praying Through: Psalm 87 Dwelling"
 author: Joseph Louthan
 publishDate: 2022-07-24T06:00:00-06:00
 categories:

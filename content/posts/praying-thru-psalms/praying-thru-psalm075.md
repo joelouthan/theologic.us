@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: Psalm 75"
+title: "Praying Through: Psalm 75 Judge"
 author: Joseph Louthan
 publishDate: 2021-05-25T06:00:00-06:00
 categories:

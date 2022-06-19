@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: Psalm 73"
+title: "Praying Through: Psalm 73 Heart"
 author: Joseph Louthan
 publishDate: 2021-05-11T06:00:00-06:00
 categories:

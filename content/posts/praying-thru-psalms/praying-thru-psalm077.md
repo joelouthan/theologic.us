@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: Psalm 77"
+title: "Praying Through: Psalm 77 Confidence"
 author: Joseph Louthan
 publishDate: 2021-06-08T06:00:00-06:00
 categories:
