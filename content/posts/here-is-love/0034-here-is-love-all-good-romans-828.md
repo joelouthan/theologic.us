@@ -7,9 +7,9 @@ categories:
 tags:
   - 'Romans 8'
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
-draft: true
+draft: false
 ---
 >Romans 8:28 And we know that for those who love God all things work together for good, for those who are called according to his purpose.
 

@@ -7,9 +7,9 @@ categories:
 tags:
   - 'Romans 8'
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
-draft: true
+draft: false
 ---
 My abusing and the abuse done against me.
 

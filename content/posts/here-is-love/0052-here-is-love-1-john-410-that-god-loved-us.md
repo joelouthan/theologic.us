@@ -9,9 +9,9 @@ tags:
   - 1 John
   - Romans
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
-draft: true
+draft: false
 ---
 For here is love: **Genesis 3:15**
 **I will put enmity between you and the woman,**

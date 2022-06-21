@@ -7,9 +7,9 @@ categories:
 tags:
   - 'Romans 8'
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
-draft: true
+draft: false
 ---
 >Romans 8:7 **For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot.
 

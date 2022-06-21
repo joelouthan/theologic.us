@@ -7,9 +7,9 @@ categories:
 tags:
   - 'Romans 8'
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
-draft: true
+draft: false
 ---
 >Romans 8:10 But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness.
 

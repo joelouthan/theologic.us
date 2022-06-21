@@ -8,9 +8,9 @@ categories:
 tags:
   - 'Romans 8'
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
-draft: true
+draft: false
 ---
 **This is the good news for all time**: that Jesus Christ has come to make all things right-standing with Him.[^1]
 

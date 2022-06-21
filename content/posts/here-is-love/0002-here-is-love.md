@@ -7,10 +7,10 @@ categories:
 tags:
   - Romans 8
 series:
-  - 'Here is Love'
+  - "Here is Love"
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ```text
