@@ -15,10 +15,6 @@ Lord,
 </div>
 
 ```text
-My identity is not my sin. 
-
-My identity is forever in your Son. 
-
 Do what you must so I would be conformed to the image of my Christ.
 
 Amen.
