@@ -103,7 +103,7 @@ John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and t
 
 -----
 
-## Luke 8:19-21
+## 🏠Luke 8:19-21
 
 ### Westminster Larger Catechism
 
