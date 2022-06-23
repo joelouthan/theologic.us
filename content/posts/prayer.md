@@ -28,8 +28,6 @@ Ms. Susan
 
 Mark & Collie
 
-Paul & Anne, Olivia, Louis, Violet
-
 ## Co-workers
 
 Dianna & her family
@@ -139,6 +137,8 @@ Dale Raglund & fam
 Jenn, fam 
 
 ### Love Feast
+
+Paul & Anne, Olivia, Louis, Violet
 
 Justin & Holly
 
