@@ -138,7 +138,7 @@ Her grandson, foolishly thought he was saved from damnation and death just becau
 
 This little old lady, by God's sweet grace, got to see each of her prayers answered before she went to be with God.
 
-If this story sounds a little bit personal, because it is. That little old lady was my grandma. Her name is Francis and her husband's name was Jack. Her youngest son in the story, who ended up dying while doing ministry in prison? His name was Joseph.
+If this story sounds a little bit personal, because it is. That little old lady was my grandma. Her name is Frances and her husband's name was Jack. Her youngest son in the story, who ended up dying while doing ministry in prison? His name was Joseph.
 
 His oldest son, the grandson in the story, is me. I am Joseph Jr.. I was the grandson with the crippling porn addiction and the jacked up, messed up life to show for it.
 
