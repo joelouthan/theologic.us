@@ -8,6 +8,7 @@ index: false
 css: "prayers"
 tocopen: false
 ---
+
 ## Repentance
 
 <div style='font-variant: small-caps;'>
@@ -20,6 +21,8 @@ Do what you must so I would be conformed to the image of my Christ.
 Amen.
 ```
 
+---
+
 ## Hood
 
 Gabby & Jose, Natalie, Aria
@@ -27,6 +30,8 @@ Gabby & Jose, Natalie, Aria
 Ms. Susan
 
 Mark & Collie
+
+---
 
 ## Co-workers
 
@@ -56,6 +61,8 @@ Ameleah
 
 Matthew & fam
 
+---
+
 ## Friends
 
 Holly & Jake, Jonah, Ellis, Finley
@@ -72,17 +79,25 @@ Ian
 
 Elisheba 
 
+---
+
 ## Kenya
 
 Alex
+
+---
 
 ## Philippians
 
 Gary
 
+---
+
 ## Mosiac Eastside
 
 Andrew & Jordyn, Will, Alice, Elliot, Annie
+
+---
 
 ## RTC
 
@@ -110,11 +125,17 @@ Elijah & Annie, Aspen, Analeise
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
+---
+
 ## Lexington
+
+---
 
 ## Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
+
+---
 
 ## Wilmore
 
@@ -123,6 +144,8 @@ Randy & kids
 ### Great Commission Fellowship (Vineyard)
 
 Jason & Kyra, fam
+
+---
 
 ## Nonesuch
 
@@ -133,6 +156,8 @@ Dale Raglund & fam
 - Jason
 
 ### Truth Community Church
+
+---
 
 ## Versailles
 
@@ -185,6 +210,8 @@ Parker & Amy, kids
 ### Little Texas Community Church
 
 ### Clear Creak Baptist
+
+---
 
 ## Family
 
