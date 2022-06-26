@@ -6,7 +6,7 @@ url: /resume/
 index: false
 draft: false
 css: "home-devos"
-tocopen: true
+tocopen: false
 ---
 
 <img src="/images/1-smile-no-braces-portrait-bright.jpg">**JOSEPH LOUTHAN**  
@@ -135,8 +135,10 @@ Isaiah 55:11 (CSB)
 As a Christian, I can minister in all the ways. But I am specifically charged with one thing in life:
 
 ```text
-I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and because of his appearing and his kingdom: 
-Preach the word; 
+I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and because of his appearing and his kingdom:
+
+Preach the word;
+
 be ready in season and out of season; correct, rebuke, and encourage with great patience and teaching. For the time will come when people will not tolerate sound doctrine, but according to their own desires, will multiply teachers for themselves because they have an itch to hear what they want to hear. They will turn away from hearing the truth and will turn aside to myths. But as for you, exercise self-control in everything, endure hardship, do the work of an evangelist, fulfill your ministry. 
 
 2 Timothy 4:1-5 (CSB) 
