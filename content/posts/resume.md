@@ -14,7 +14,6 @@ tocopen: false
 Versailles, Kentucky 40383  
 cell: 817.707.1486  
 email: [joe@theologic.us](mailto:joe@theologic.us)  
-website: [theologic.us](https://theologic.us)  
 twitter: [@joelouthan](https://twitter.com/JosephLouthan)  
 linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)
 
@@ -35,7 +34,7 @@ Samuel Rutherford
 
 ### ON THEOLOGY
 
-My kids asked me once, “Papa, why do you have so many books on God?” To which I answered, “Most of the books on these shelves say the same thing over and over again, that, ‘Jesus loves me this I know for the BIble tells me so.’”
+My kids asked me once, “Papa, why do you have so many books on God?” To which I answered, “Most of the books on these shelves say the same thing over and over again, that, ‘Jesus loves me this I know for the Bible tells me so.’”
 
 If God is the lover of my new heart, should I not know just how much He loves me? More so, I need to be reminded every day of His love for me because I tend to forget.
 
@@ -68,7 +67,7 @@ In addition, your servant is warned by them,
 Psalms 19:7-11 (CSB)
 ```
 
-When I was younger in the faith and perhaps a bit snarkier, I used to shockingly say, “I do not believe in the inerrancy and the infallibility of the Bible.” But the older I get and as I put my shock-jock days behind me, now I simply quote Psalm 19 & 119, “The word of God is perfect.”
+When I was younger in the faith and perhaps a bit snarkier, I used to shockingly say, “I do not believe in the inerrancy and the infallibility of the Bible.” But the older I get and as I put my shock-jock days behind me, I simply quote Psalm 19 & 119, “The word of God is perfect.”
 
 ### ON THE GOSPEL
 
@@ -147,12 +146,13 @@ be ready in season and out of season; correct, rebuke, and encourage with great 
 ### ON THE PASTORAL & COUNSELING
 
 Because I have the same Spirit that raised Christ from the dead dwelling in me (Romans 8:11), I get to depend on the Holy Spirit to minister to others. Like all Christians, I get to lift up others, encourage them, and continuously point them back to the gospel of Christ and his perfect word.
-
-To that end, when I am ministering to a person has been through trauma and when it is evident they need more healing and help, I will not foolishly claim to be an expert. If they are willing, I will gladly help them find a licensed therapist who counsels and cares from a Christian worldview and who is trauma-informed.
-
-I have Posttraumatic Stress Disorder (PTSD) because I have endured childhood abuse. Therefore, I take trauma seriously. Please know that I handle those whom have gone through trauma with the gentlest care, for if I love the Lord my Christ, then I am to feed, card and shepherd his sheep. (John 21:15-17)
+ 
+To that end, when I am ministering to a person who has been through trauma and when it is evident they need more healing and help, I will not foolishly claim to be an expert. If they are willing, I will gladly help them find a licensed therapist who counsels and cares from a Christian worldview and who is trauma-informed.
+ 
+I have Posttraumatic Stress Disorder (PTSD) because I have endured childhood abuse. Therefore, I take trauma seriously. Please know that I handle those who have gone through trauma with the gentlest care, for if I love the Lord my Christ, then I am to feed, card, and shepherd his sheep. (John 21:15-17)
 
 I can minister to others because of Christ. We do live in a post-Genesis 3 world where everything is broken at the core and there seems to be no end to the destruction of sin. Yet, Christ is our Redeemer and Savior. He is the only God that heals because his grace is more.
+
 
 ```text
 No pit is so deep that He is not deeper still; with Jesus even in our darkest moments, the best remains and the very best is yet to be.
@@ -162,33 +162,33 @@ Corrie Ten Boom
 
 ### ON ACCOUNTABILITY
 
-Before knowing Christ, I lived a life that was emotionally alone and did not want people to know my real heart for it was terribly wicked. When I was saved by Christ, I have to fight to make sure I am truly known by those whom I love and who love me.
-
-I have many friends I turn to (see References) in times of trouble. But, as you can see, most of them are out of state. Since moving to Kentucky, I pray to God to provide new friends and new community. Joyfully, I see, in his steadfast love, continuously increasing his people around me. God will provide. He always does.
+Before knowing Christ, I lived a life that was emotionally alone and did not want people to know my real heart for it was terribly wicked. When I was saved by Christ, I had to fight to make sure I am truly known by those whom I love and who love me.
+ 
+I have many friends I turn to (see References) in times of trouble. But, as you can see, most of them are out of state. Since moving to Kentucky, I pray to God to provide new friends and a new community. Joyfully, I see, in his steadfast love, continuously increasing His people around me. God will provide. He always does.
 
 ## Personal History
 
-I know this little old lady. Lived to about 88 years old. Love the Lord her God. Was blessed with a husband, three boys and adopted a little girl. This little lady prayed every day and every night that God would save her family.
+I know this little old lady. Lived to about 88 years old. Love the Lord her God. Was blessed with a husband, three boys, and adopted a little girl. This little lady prayed every day and every night that God would save her family.
 
-Her husband lost his good sense and ran away with some other woman. This lady promptly drove to Phoenix in their family station wagon, picked his sorry butt up and brought him home. A few months later was diagnosed with prostate cancer and passed away after that diagnosis pretty quickly.
-
-The little old lady continued to pray.
-
-Their youngest son was the worst kind of human being. Porn absolutely wrecked his life. So much so, he sexually abused his own children, got caught, and then got sent to prison for about 400 years before he died in prison.
+Her husband lost his good sense and ran away with some other woman. This lady promptly drove to Phoenix in their family station wagon, picked his sorry butt up, and brought him home. A few months later was diagnosed with prostate cancer and passed away after that diagnosis pretty quickly.
 
 The little old lady continued to pray.
 
-And then his son (her grandson), while thank God did not hurt any children, did the lion's share of his own sexual immorality. You might be thinking, "Lion's share? How can you top adultery and child molestation?" Her grandson was introduced by his dad to porn at the age of 5. And it had gripped his heart for all of his life. His addiction became so crippling that he went to go work in the porn industry just as the internet was coming online. Websites, servers, photos, videos, recruiting--whatever it took in order to feed his wicked heart.
+Their youngest son was the worst kind of human being. Porn absolutely wrecked his life. So much so, that he sexually abused his own children, got caught, and then got sent to prison for about 400 years before he died in prison.
+
+The little old lady continued to pray.
+
+While we thank God that the little old lady’s grandson did not abuse any children, he certainly did his fair share of his own sexual immorality. Her grandson was introduced to porn at the age of 8. And it had gripped his heart for all of his life. His addiction became so crippling that he went to go work in the porn industry just as the internet was coming online. Websites, servers, photos, videos, recruiting--whatever it took in order to feed his wicked heart.
 
 Yet, the little old lady continued to pray.
 
-How did God respond to this little old lady who prayed every morning and every night for over a half a century?
+How did God respond to this little old lady who prayed every morning and every night for over half a century?
 
-After yanking her husband back from Phoenix, her husband came to know Christ and repenting of all his sins. Shortly thereafter, around 42 years old, he died from cancer and went to be with the Lord.
+After yanking her husband back from Phoenix, her husband came to know Christ and repent of all his sins. Shortly thereafter, around 42 years old, he died from cancer and went to be with the Lord.
 
 Her son, who was rotting away in prison, wasn't saved by Christ until he was 56--twenty some odd years after being in prison. God gripped his heart so hard, that he gave up what little he had to be with God. Even his supposed future freedom. When he was finally up for parole, he declined. When the board asked him why, he simply stated, "There are many men in this place who are in darkness. I have the light of God in me. If I leave, who will show them the light of Christ? Therefore, I have to stay." He continued to do ministry for a few more years until he went to be with the Lord.
 
-Her grandson, who foolishly thought he was saved from damnation and death just because he had said a sinner's prayer when he was 8 years old. Never mind the fact that by the time he was 25 years old, he was dealing in so much porn and living the most depraved, sexual immoral life with absolutely no repentance of his sins and no love nor fear of God. But then, right before his 32nd birthday, God snatched this man's heart and gave him His own heart. In that moment, this man laid everything down and repented before God. And he loved the Lord his God. Did the young man's life suddenly became awesome and easy? Nope. This man will undoubtedly be conformed to the image of His blessed Son for the rest of his saved life. (Romans 8:29) For this man knew he belonged to God and God belonged to him forever. 
+Her grandson, who foolishly thought he was saved from damnation and death just because he had said a sinner's prayer when he was 8 years old. Never mind the fact that by the time he was 25 years old, he was dealing in so much porn and living the most depraved, immoral life with absolutely no repentance of his sins and no love nor fear of God. But then, right before his 32nd birthday, God snatched this man's heart and gave him His own heart. At that moment, this man laid everything down and repented before God. And he loved the Lord his God. Did the young man's life suddenly become awesome and easy? Nope. This man will undoubtedly be conformed to the image of His blessed Son for the rest of his saved life. (Romans 8:29) For this man knew he belonged to God and God belonged to him forever. 
 
 This little old lady, by God's sweet grace, got to see each of her prayers answered before she went to be with God.
 
@@ -202,9 +202,9 @@ If this story sounds a little bit personal, that’s because it is. That little 
 
 Her youngest son in the story, who ended up dying while doing ministry in prison? His name is Joseph.
 
-His oldest son, the grandson in the story? That is me. I am Joseph. I am the grandson that used to have a crippling porn addiction and had nothing but a jacked up, messed up life to show for it.
+His oldest son, the grandson in the story? That is me. I am Joseph. I am the grandson that used to have a crippling porn addiction and had nothing but a jacked-up, messed-up life to show for it.
 
-My grandma contended for our lives and our hearts to God. And each of us Louthan men went to the utter extremes of sin and depravity to find out that the world and sin had nothing to offer. My grandfather, my father, and I have sinned upon sin–way more than the average man. Yet, because Christ has came to save His people from their sins, my fathers and I have been given grace upon grace. (Matthew 1:21; John 1:16) Yet, I know for a fact that God is the mighty one who saves. (Zephaniah 3:17) 
+My grandma contended for our lives and our hearts to God. And each of us Louthan men went to the utter extremes of sin and depravity to find out that the world and sin had nothing to offer. My grandfather, my father, and I have sinned upon sin–way more than the average man. Yet, because Christ has come to save His people from their sins, my fathers and I have been given grace upon grace. (Matthew 1:21; John 1:16) Yet, I know for a fact that God is the mighty one who saves. (Zephaniah 3:17) 
 
 God asks in Isaiah, "Is my arm too short to save anyone?" (Isaiah 50:2)
 
@@ -221,7 +221,7 @@ Layperson - Digital
 
 ### Frontline Church South, Oklahoma City, OK
 
-Intern - Community
+Intern, Community
 
 Layperson
 
