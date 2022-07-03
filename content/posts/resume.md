@@ -363,36 +363,36 @@ Project Management
 
 ## References
 
-Jeremiah Hurt
-Senior Pastor
-Reforming Truth Church
+Jeremiah Hurt  
+Senior Pastor  
+Reforming Truth Church  
 [email](mailto:jhurt@reformingtruth.church)
 
-David Starchman
-Senior Pastor, Former
-True Vine Church
-Goldsby, OK
-[mailto:dstarchman@gmail.com](mailto:dstarchman@gmail.com)
+David Starchman  
+Senior Pastor, Former  
+True Vine Church  
+Goldsby, OK  
+[email](mailto:dstarchman@gmail.com)
 
-Dave Evans
-Senior Pastor, Retired
-Highland Baptist Church
-Moore, OK
-[mailto:dave.evans@moorefaithclinic.org](mailto:dave.evans@moorefaithclinic.org)
+Dave Evans  
+Senior Pastor, Retired  
+Highland Baptist Church  
+Moore, OK  
+[email](mailto:dave.evans@moorefaithclinic.org)
 
-Holly Shockley
-Licensed Counselor
-Thrive Christian Counseling
-[mailto:mhollyshockley@gmail.com](mailto:mhollyshockley@gmail.com)
+Holly Shockley  
+Licensed Counselor  
+Thrive Christian Counseling  
+[email](mailto:mhollyshockley@gmail.com)
 
-Andrew Burkhart
-Lead Pastor
-Frontline Church South
-[mailto:aburkhart@frontlinechurch.com](mailto:aburkhart@frontlinechurch.com)
+Andrew Burkhart  
+Lead Pastor  
+Frontline Church South  
+[email](mailto:aburkhart@frontlinechurch.com)
 
-Andrew Franklin
-Senior Pastor
-Mosaic Community Church Eastside
-[http://andrew.franklin@mosaic.family](mailto:andrew.franklin@mosaic.family)
+Andrew Franklin  
+Senior Pastor  
+Mosaic Community Church Eastside  
+[email](mailto:andrew.franklin@mosaic.family)
 
-_Additional references available upon request._
+_Other contact information and additional references are available upon request._
