@@ -325,22 +325,11 @@ Leadership & Discipleship Ministry
 Gateway Church  
 January to August 2009
 
-## Education
-
-<div style='font-variant: small-caps; font-weight: bold'>Enrolled</div>
-
-Masters of Divinity \
-Asbury Theological Seminary \
-Wilmore, KY \
-July 2022 to Present
-
-
 ## Skills
 
 Expository preaching and teaching \
 Writing \
 Project Management
-
 
 ## Writings
 
