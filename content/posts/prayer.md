@@ -163,7 +163,13 @@ Dale Raglund & fam
 
 ### Truth Community Church
 
----
+___
+
+## Newport, KY
+
+### Newport City Church of God
+
+___
 
 ## Versailles
 
