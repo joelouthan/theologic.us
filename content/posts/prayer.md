@@ -131,6 +131,8 @@ Elijah & Annie, Aspen, Analeise
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
+Paul, Jeong, Jeia
+
 ---
 
 ## Lexington
