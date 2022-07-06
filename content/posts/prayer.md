@@ -163,13 +163,13 @@ Dale Raglund & fam
 
 ### Truth Community Church
 
-___
+---
 
 ## Newport
 
 ### Newport City Church of God
 
-___
+---
 
 ## Versailles
 
