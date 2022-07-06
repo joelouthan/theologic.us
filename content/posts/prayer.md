@@ -165,7 +165,7 @@ Dale Raglund & fam
 
 ___
 
-## Newport, KY
+## Newport
 
 ### Newport City Church of God
 
