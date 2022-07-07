@@ -17,6 +17,10 @@ email: [joe@theologic.us](mailto:joe@theologic.us)
 twitter: [@joelouthan](https://twitter.com/JosephLouthan)  
 linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)
 
+## Ministry Vision
+
+Seeking to glorify Christ by serving His Bride as an Interim Pastor. I do so by preaching his word. 2 Timothy 4:1-5, Romans 10:17, Isaiah 55:17, Romans 1:16-17, Matthew 1:21 drives what I do. I believe the Bible to be true and perfect. And if those verses mean what He says, then I must preach. I will preach wherever a podium is empty and a congregation needs to hear His word.
+
 ## Personal Values
 
 ### ON GOD
@@ -152,7 +156,6 @@ To that end, when I am ministering to a person who has been through trauma and w
 I have Posttraumatic Stress Disorder (PTSD) because I have endured childhood abuse. Therefore, I take trauma seriously. Please know that I handle those who have gone through trauma with the gentlest care, for if I love the Lord my Christ, then I am to feed, card, and shepherd his sheep. (John 21:15-17)
 
 I can minister to others because of Christ. We do live in a post-Genesis 3 world where everything is broken at the core and there seems to be no end to the destruction of sin. Yet, Christ is our Redeemer and Savior. He is the only God that heals because his grace is more.
-
 
 ```text
 No pit is so deep that He is not deeper still; with Jesus even in our darkest moments, the best remains and the very best is yet to be.
