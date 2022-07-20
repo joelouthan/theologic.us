@@ -151,6 +151,8 @@ Abby, Waylon, Elijah, Everly
 
 ## Lexington
 
+Shelby, Joe & Lyla 
+
 ---
 
 ## Danville
@@ -162,6 +164,8 @@ Ronnie, Tracy, Kailyn, Hayden, Hayley
 ## Wilmore
 
 Randy & kids
+
+### Asbury University & Theological Seminary
 
 ### Great Commission Fellowship (Vineyard)
 
