@@ -18,8 +18,7 @@ twitter: [@joelouthan](https://twitter.com/JosephLouthan)
 linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)
 
 ## Ministry Vision
-
-Seeking to glorify Christ by serving His Bride as an Interim Pastor. I do so by preaching his word. 2 Timothy 4:1-5, Romans 10:17, Isaiah 55:17, Romans 1:16-17, Matthew 1:21 drives what I do. I believe the Bible to be true and perfect. And if those verses mean what He says, then I must preach. I will preach wherever a podium is empty and a congregation needs to hear His word.
+Seeking to glorify Christ by serving his Bride by, first and foremost, preaching and teaching his word. My desire is to serve your church as an Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
 
 ## Personal Values
 
@@ -108,9 +107,11 @@ For you are saved by grace through faith, and this is not from yourselves; it is
 Ephesians 2:8-10 (CSB)
 ```
 
-Now, as those saved by God, we have imperatives to fulfill. Because we are the children of God, we have commands to follow. Because Christ is our Lord and our God, we get to obey His law. For Christ’s works are your own. Christ’s life is your own. Christ’s life is yours! We have been justified, we are glorified! 
+Now, as those saved by God, we have imperatives to fulfill. Because we are the children of God, we have commands to follow. Because Christ is our Lord and our God, we get to obey His law. For Christ’s works are your own. Christ’s life is your own. Christ’s life is yours! We have been justified, we are glorified! (Romans 8:30)
 
-(Romans 8:30)
+The gospel is the good news that God looked upon me as a wicked, depraved, weak sinner and sent his Son to live and die so that I might be truly alive and free by the power of his Spirit. (Romans 5:9; 1 John 5:1, Romans 8:14-17)
+
+This is the gospel of Christ that I must preach so that all may know the love of Christ for their souls. Simply put, we are saved by no name other than Jesus Christ. (Acts 4:12)
 
 ## Ministry Philosophy
 

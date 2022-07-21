@@ -64,8 +64,10 @@ params:
         imageHeight: 100
         imageTitle: "Joseph Louthan"
         buttons:
-            - name: "What is Theologicus?"
+            - name: About
               url: /about/
+            - name: Ministry Resume
+              url: /resume/
             - name: Updates
               url: updates
             - name: Recent Posts
