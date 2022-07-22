@@ -21,6 +21,24 @@ Do what you must so I would be conformed to the image of my Christ.
 Amen.
 ```
 
+## 10:02
+
+> Luke 10:2 (CSB) He told them, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.
+
+<div style=‘font-variant: small-caps;’>
+My God,
+</div>
+
+```text
+Open my eyes to see those far from you. 
+
+Open my heart to love those who do not know you. 
+
+Open my mouth so I would tell them your precious gospel. 
+
+Amen.
+```
+
 ---
 
 ## Hood
