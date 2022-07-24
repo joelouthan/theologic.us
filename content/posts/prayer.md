@@ -165,6 +165,8 @@ Paul, Jeong, Jeia
 
 Abby, Waylon, Elijah, Everly
 
+Kevin & Shannon, Brentley
+
 ---
 
 ## Lexington
