@@ -265,6 +265,13 @@ Parker & Amy, kids
 
 ### Clear Creak Baptist
 
+## KBC
+
+Andy & Lisa
+- Drew & fam
+- Caleb & fam
+- Will
+
 ---
 
 ## Family
