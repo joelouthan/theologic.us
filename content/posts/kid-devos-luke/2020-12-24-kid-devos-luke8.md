@@ -133,10 +133,10 @@ A. God executeth his decrees in the works of creation and providence, according 
 ### Christ Calls Us While We Are in the World 
 
 >Luke 8:22-25 (CSB) One day he and his disciples got into a boat, and he told them, “Let’s cross over to the other side of the lake.” So they set out,and as they were sailing he fell asleep. Then a fierce windstorm came down on the lake; they were being swamped and were in danger.They came and woke him up, saying, “Master, Master, we’re going to die!”
-
-Then he got up and rebuked the wind and the raging waves. So they ceased, and there was a calm.He said to them, “Where is your faith?”
-
-They were fearful and amazed, asking one another, “Who then is this? He commands even the winds and the waves, and they obey him!”
+>
+>Then he got up and rebuked the wind and the raging waves. So they ceased, and there was a calm.He said to them, “Where is your faith?”
+>
+>They were fearful and amazed, asking one another, “Who then is this? He commands even the winds and the waves, and they obey him!”
 
 ```text
 What is God in charge over?
