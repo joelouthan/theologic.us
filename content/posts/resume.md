@@ -1,5 +1,5 @@
 ---
-title: "Ministry Resume"
+title: "Ministry Resume: Joseph Louthan"
 author: Joseph Louthan
 publishDate: 2022-06-25T05:00:00-05:00
 url: /resume/
