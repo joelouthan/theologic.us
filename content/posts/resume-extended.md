@@ -15,7 +15,9 @@ Versailles, Kentucky 40383
 cell: 817.707.1486  
 email: [joe@theologic.us](mailto:joe@theologic.us)  
 twitter: [@joelouthan](https://twitter.com/JosephLouthan)  
-linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)
+linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)  
+youtube: [Theologicus](http://youtube.theologic.us)  
+podcast: [Theologicus](http://apple.theologic.us)
 
 ## Ministry Vision
 Seeking to glorify Christ by serving his Bride by, first and foremost, preaching and teaching his word. My desire is to serve your church as an Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
