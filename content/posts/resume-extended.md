@@ -22,6 +22,115 @@ podcast: [Theologicus](http://apple.theologic.us)
 ## Ministry Vision
 Seeking to glorify Christ by serving his Bride by, first and foremost, preaching and teaching his word. My desire is to serve your church as an Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
 
+## Testimony
+
+I came to saving faith when the Almighty God came down, took my heart, and in exchange, gave me His heart, and His Spirit.
+
+```text
+I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols. I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
+
+Ezekiel 36:25-27 (CSB)
+```
+
+It was then and only then that I was able to "follow His statues" and "be careful to observe the ordinances of the Lord."
+
+I first heard the gospel of Christ when I was 8 years old in a small independent fundamentalist KJV-only church in Oklahoma City. I praise God for that church because they had an incredible fleet of buses that would bring kids like me to church. Those old school buses would take me out of my sin-filled and depraved home, sung songs, memorize books of the Bible, attend Sunday School, and sit under the preaching of the word.
+
+I remember clear as day, "Do you want to go to hell or heaven?" I had no desire to go to hell so I raised my hand and came forward. I wish I knew the Lord then. I wish my heart was turned then. But it was not. I have no doubt that little Suzy to my left or little Bobby to my right was saved by God at that moment. But I was not. I know this because I spent the next 24 years sinning all the more and never repenting of my sin not once to the God of the Universe. For the gospel of John says it clearly:
+
+```text
+The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+John 3:36 (CSB)
+```
+
+I did not believe Christ Jesus because I kept on sinning. I did not believe it because I thought that my repeating of words would keep me in God's good graces as I spent my adult life working in the pornography industry. I have had people would suggest that I was indeed saved at a young age. I push back, "Tell me this: is there such thing as an unrepentant Christian? Could I unrepentantly work in an industry that supplied my depraved and killing addiction?" (You think the answer would be a quick and easy, "No" but I will spare you the number of times I have seen hesitation answering this question.)
+
+The fact is I did not have eternal life. The fact is I had the wrath of God remaining upon me because I have rejected and disobeyed the Son of God. If I had died before that rainy Monday in April 2007 in Dallas, I know that I know I would burn for all eternity in the lake of fire.
+
+```text
+And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also.
+
+Ephesians 2:1-3 (CSB)
+```
+
+And
+
+```text
+For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
+
+Titus 3:3 (CSB)
+```
+
+That was me. All of my life that was me. Foolish Worthless. Disobedient. Deceived. Enslaved to my own lustful addiction. Living in malice and envy. Hateful and hating everybody.
+
+In other words, I was dead in my trespasses and sins against the Almighty God.
+
+But God, being absolutely incomparable in grace and mercy, saved me. Not because I have done anything good in my life. I have done everything wicked in my life. But God, looked down on me, dead in my sins, took pity, and called me forth as Christ would call forth Lazarus out of the grave of the dead.
+
+```text
+But God proves his own love for us in that while we were still sinners, Christ died for us.
+
+Romans 5:8 (CSB) 
+```
+
+Do you see this? My heart turned towards him and had nothing to do with me activating the love of God. No! God made his mind up before the foundation of the world that the Father would send his only begotten Son to live and die to come to save my soul.
+
+```text
+For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
+
+Ephesians 1:4-6 (CSB)
+```
+
+```text
+For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+John 3:16 (CSB)
+```
+
+The crucifixion of my only, only Lord Jesus Christ happened nearly 2,000 years before I was even born, let alone born again to love God. I did not activate the love of God but rather God loved me first.
+
+```text
+We love because he first loved us.
+
+1 John 4:19 (CSB)
+```
+
+And 
+
+```text
+You did not choose me, but I chose you. I appointed you to go and produce fruit and that your fruit should remain, so that whatever you ask the Father in my name, he will give you.
+
+John 15:16 (CSB)
+```
+
+God gave me His Son. God gave me His Spirit. God the Father has made his home with me (John 14:23).
+
+What kind of love is this? It can only be the Triune God who is the only one and true God that saves:
+
+```text
+The LORD your God is among you,
+a warrior who saves.
+He will rejoice over you with gladness.
+He will be quiet in his love.
+He will delight in you with singing.”
+
+Zephaniah 3:17 (CSB)
+```
+
+It stands to reason: if God could save a wretch like me, then no one is outside the reach of his mighty saving arm:
+
+```text
+Why was no one there when I came?
+Why was there no one to answer when I called?
+Is my arm too weak to redeem?
+Or do I have no power to rescue?
+
+Isaiah 50:2a (CSB)
+```
+
+It is like I ask my kids, "Does God have T-Rex arms?" Of course He doesn't. He is the mighty one who saves.
+
 ## Personal Values
 
 ### ON GOD
@@ -153,9 +262,9 @@ be ready in season and out of season; correct, rebuke, and encourage with great 
 ### ON THE PASTORAL & COUNSELING
 
 Because I have the same Spirit that raised Christ from the dead dwelling in me (Romans 8:11), I get to depend on the Holy Spirit to minister to others. Like all Christians, I get to lift up others, encourage them, and continuously point them back to the gospel of Christ and his perfect word.
- 
+
 To that end, when I am ministering to a person who has been through trauma and when it is evident they need more healing and help, I will not foolishly claim to be an expert. If they are willing, I will gladly help them find a licensed therapist who counsels and cares from a Christian worldview and who is trauma-informed.
- 
+
 I have Posttraumatic Stress Disorder (PTSD) because I have endured childhood abuse. Therefore, I take trauma seriously. Please know that I handle those who have gone through trauma with the gentlest care, for if I love the Lord my Christ, then I am to feed, card, and shepherd his sheep. (John 21:15-17)
 
 I can minister to others because of Christ. We do live in a post-Genesis 3 world where everything is broken at the core and there seems to be no end to the destruction of sin. Yet, Christ is our Redeemer and Savior. He is the only God that heals because his grace is more.
@@ -169,52 +278,8 @@ Corrie Ten Boom
 ### ON ACCOUNTABILITY
 
 Before knowing Christ, I lived a life that was emotionally alone and did not want people to know my real heart for it was terribly wicked. When I was saved by Christ, I had to fight to make sure I am truly known by those whom I love and who love me.
- 
+
 I have many friends I turn to (see References) in times of trouble. But, as you can see, most of them are out of state. Since moving to Kentucky, I pray to God to provide new friends and a new community. Joyfully, I see, in his steadfast love, continuously increasing His people around me. God will provide. He always does.
-
-## Personal History
-
-I know this little old lady. Lived to about 88 years old. Love the Lord her God. Was blessed with a husband, three boys, and adopted a little girl. This little lady prayed every day and every night that God would save her family.
-
-Her husband lost his good sense and ran away with some other woman. This lady promptly drove to Phoenix in their family station wagon, picked his sorry butt up, and brought him home. A few months later was diagnosed with prostate cancer and passed away after that diagnosis pretty quickly.
-
-The little old lady continued to pray.
-
-Their youngest son was the worst kind of human being. Porn absolutely wrecked his life. So much so, that he sexually abused his own children, got caught, and then got sent to prison for about 400 years before he died in prison.
-
-The little old lady continued to pray.
-
-While we thank God that the little old lady’s grandson did not abuse any children, he certainly did his fair share of his own sexual immorality. Her grandson was introduced to porn at the age of 8. And it had gripped his heart for all of his life. His addiction became so crippling that he went to go work in the porn industry just as the internet was coming online. Websites, servers, photos, videos, recruiting--whatever it took in order to feed his wicked heart.
-
-Yet, the little old lady continued to pray.
-
-How did God respond to this little old lady who prayed every morning and every night for over half a century?
-
-After yanking her husband back from Phoenix, her husband came to know Christ and repent of all his sins. Shortly thereafter, around 42 years old, he died from cancer and went to be with the Lord.
-
-Her son, who was rotting away in prison, wasn't saved by Christ until he was 56--twenty some odd years after being in prison. God gripped his heart so hard, that he gave up what little he had to be with God. Even his supposed future freedom. When he was finally up for parole, he declined. When the board asked him why, he simply stated, "There are many men in this place who are in darkness. I have the light of God in me. If I leave, who will show them the light of Christ? Therefore, I have to stay." He continued to do ministry for a few more years until he went to be with the Lord.
-
-Her grandson, who foolishly thought he was saved from damnation and death just because he had said a sinner's prayer when he was 8 years old. Never mind the fact that by the time he was 25 years old, he was dealing in so much porn and living the most depraved, immoral life with absolutely no repentance of his sins and no love nor fear of God. But then, right before his 32nd birthday, God snatched this man's heart and gave him His own heart. At that moment, this man laid everything down and repented before God. And he loved the Lord his God. Did the young man's life suddenly become awesome and easy? Nope. This man will undoubtedly be conformed to the image of His blessed Son for the rest of his saved life. (Romans 8:29) For this man knew he belonged to God and God belonged to him forever. 
-
-This little old lady, by God's sweet grace, got to see each of her prayers answered before she went to be with God.
-
-```text
-I recall your sincere faith that first lived in your grandmother Lois and in your mother Eunice and now, I am convinced, is in you also.
-
-2 Timothy 1:5 (CSB) 
-```
-
-If this story sounds a little bit personal, that’s because it is. That little old lady is my grandma. Her name is Frances and her husband's name was Jack. 
-
-Her youngest son in the story, who ended up dying while doing ministry in prison? His name is Joseph.
-
-His oldest son, the grandson in the story? That is me. I am Joseph. I am the grandson that used to have a crippling porn addiction and had nothing but a jacked-up, messed-up life to show for it.
-
-My grandma contended for our lives and our hearts to God. And each of us Louthan men went to the utter extremes of sin and depravity to find out that the world and sin had nothing to offer. My grandfather, my father, and I have sinned upon sin–way more than the average man. Yet, because Christ has come to save His people from their sins, my fathers and I have been given grace upon grace. (Matthew 1:21; John 1:16) Yet, I know for a fact that God is the mighty one who saves. (Zephaniah 3:17) 
-
-God asks in Isaiah, "Is my arm too short to save anyone?" (Isaiah 50:2)
-
-The answer is gloriously clear: you cannot out-sin the salvation of the Almighty God.
 
 ## Ministry Positions
 

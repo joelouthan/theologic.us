@@ -20,7 +20,7 @@ podcast: [Theologicus](http://apple.theologic.us)
 
 ## MINISTRY VISION
 
-Seeking to glorify Christ by serving his Bride, first and foremost, by preaching and teaching his word. My desire is to serve your church as an Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
+Seeking to glorify Christ by serving his Bride, first and foremost, by preaching and teaching his word. My desire is to serve your church as either in Pulpit Supply and/or Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
 
 ## THE GOSPEL of CHRIST
 
@@ -39,13 +39,116 @@ This is the gospel of Christ that I must preach so that all may know the love of
 
 ## PERSONAL
 
-Born on May 17, 1975, in Fort Worth, TX. Before being saved by God, I grew up in an abusive and broken home because of my father and stepmother. In addition, because of this brokenness, I have had a crippling pornography addiction since the age of 8 and never sought help. The tragedy of it all: despite repeating the sinner’s prayer, I was never repentant of my sins.
+Born on May 17, 1975, in Fort Worth, TX. My home is in Versailles, KY with my wife, Sarah, and our two kids, Elijah, and Ivy. Also, my in-laws live with us, Cherri and Jason. My oldest son, Yusef, lives in Norman, OK.
 
-But God alone is good. When I was 32 years old, he snatched my heart up and called me his own. At that moment, I repented of all of my sins and trust in Christ alone.  So whatever God had in store, all I know is that I would serve and worship him for all of my days. In his great mercy and grace, God not only delivered me from my porn addiction but my life continues to produce the fruit of his Spirit within because my Father continuously conforms me to the image of his Son. [^5]
+## TESTIMONY
 
-[^5]: Galatians 5:22-23; Romans 8:29 
+I came to saving faith when the Almighty God came down, took my heart, and in exchange, gave me His heart, and His Spirit.
 
-My home is in Versailles, KY with my wife, Sarah, and our two kids, Elijah, and Ivy. Also, my in-laws live with us, Cherri and Jason. My oldest son, Yusef, lives in Norman, OK.
+```text
+I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols. I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
+
+Ezekiel 36:25-27 (CSB)
+```
+
+It was then and only then that I was able to "follow His statues" and "be careful to observe the ordinances of the Lord."
+
+I first heard the gospel of Christ when I was 8 years old in a small independent fundamentalist KJV-only church in Oklahoma City. I praise God for that church because they had an incredible fleet of buses that would bring kids like me to church. Those old school buses would take me out of my sin-filled and depraved home, sung songs, memorize books of the Bible, attend Sunday School, and sit under the preaching of the word.
+
+I remember clear as day, "Do you want to go to hell or heaven?" I had no desire to go to hell so I raised my hand and came forward. I wish I knew the Lord then. I wish my heart was turned then. But it was not. I have no doubt that little Suzy to my left or little Bobby to my right was saved by God at that moment. But I was not. I know this because I spent the next 24 years sinning all the more and never repenting of my sin not once to the God of the Universe. For the gospel of John says it clearly:
+
+```text
+The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+John 3:36 (CSB)
+```
+
+I did not believe Christ Jesus because I kept on sinning. I did not believe it because I thought that my repeating of words would keep me in God's good graces as I spent my adult life working in the pornography industry. I have had people would suggest that I was indeed saved at a young age. I push back, "Tell me this: is there such thing as an unrepentant Christian? Could I unrepentantly work in an industry that supplied my depraved and killing addiction?" (You think the answer would be a quick and easy, "No" but I will spare you the number of times I have seen hesitation answering this question.)
+
+The fact is I did not have eternal life. The fact is I had the wrath of God remaining upon me because I have rejected and disobeyed the Son of God. If I had died before that rainy Monday in April 2007 in Dallas, I know that I know I would burn for all eternity in the lake of fire.
+
+```text
+And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also.
+
+Ephesians 2:1-3 (CSB)
+```
+
+And
+
+```text
+For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
+
+Titus 3:3 (CSB)
+```
+
+That was me. All of my life that was me. Foolish Worthless. Disobedient. Deceived. Enslaved to my own lustful addiction. Living in malice and envy. Hateful and hating everybody.
+
+In other words, I was dead in my trespasses and sins against the Almighty God.
+
+But God, being absolutely incomparable in grace and mercy, saved me. Not because I have done anything good in my life. I have done everything wicked in my life. But God, looked down on me, dead in my sins, took pity, and called me forth as Christ would call forth Lazarus out of the grave of the dead.
+
+```text
+But God proves his own love for us in that while we were still sinners, Christ died for us.
+
+Romans 5:8 (CSB) 
+```
+
+Do you see this? My heart turned towards him and had nothing to do with me activating the love of God. No! God made his mind up before the foundation of the world that the Father would send his only begotten Son to live and die to come to save my soul.
+
+```text
+For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
+
+Ephesians 1:4-6 (CSB)
+```
+
+```text
+For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+John 3:16 (CSB)
+```
+
+The crucifixion of my only, only Lord Jesus Christ happened nearly 2,000 years before I was even born, let alone born again to love God. I did not activate the love of God but rather God loved me first.
+
+```text
+We love because he first loved us.
+
+1 John 4:19 (CSB)
+```
+
+And 
+
+```text
+You did not choose me, but I chose you. I appointed you to go and produce fruit and that your fruit should remain, so that whatever you ask the Father in my name, he will give you.
+
+John 15:16 (CSB)
+```
+
+God gave me His Son. God gave me His Spirit. God the Father has made his home with me (John 14:23).
+
+What kind of love is this? It can only be the Triune God who is the only one and true God that saves:
+
+```text
+The LORD your God is among you,
+a warrior who saves.
+He will rejoice over you with gladness.
+He will be quiet in his love.
+He will delight in you with singing.”
+
+Zephaniah 3:17 (CSB)
+```
+
+It stands to reason: if God could save a wretch like me, then no one is outside the reach of his mighty saving arm:
+
+```text
+Why was no one there when I came?
+Why was there no one to answer when I called?
+Is my arm too weak to redeem?
+Or do I have no power to rescue?
+
+Isaiah 50:2a (CSB)
+```
+
+It is like I ask my kids, "Does God have T-Rex arms?" Of course He doesn't. He is the mighty one who saves.
 
 ## MINISTRY POSITIONS
 
