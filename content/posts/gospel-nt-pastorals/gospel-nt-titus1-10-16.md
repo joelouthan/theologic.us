@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: Titus 1:10-16 Minister Like This: Fear God"
 author: Joseph Louthan
-publishDate: 2022-05-13T06:00:00-06:00
+publishDate: 2022-05-07T06:00:00-06:00
 categories:
   - Commentaries
   - "Gospel NT"
