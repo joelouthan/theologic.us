@@ -147,6 +147,8 @@ Michael & Grace, kids
 
 Jim & Victoria
 
+> I would love for us to pray for my neighbor Nadine and my sister Melissa and her family￼
+
 Trisha
 
 Crystal
