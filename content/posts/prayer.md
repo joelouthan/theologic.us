@@ -181,7 +181,7 @@ Abby, Waylon, Elijah, Everly
 
 Kevin & Shannon, Brentley
 
-Micah (Navajo)
+Micah
 
 Matthew & Alisha, fam
 
