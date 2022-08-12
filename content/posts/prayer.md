@@ -149,21 +149,33 @@ Jim & Victoria
 
 > I would love for us to pray for my neighbor Nadine and my sister Melissa and her family￼
 
-Trisha
+Tricia
+
+> Pray for the girl Crystal who has been coming to church.
 
 Crystal
 
 Bruce & Suzanne
 
+> Our children:. Tommy, Ashley and her husband Ollie, and my youngest son, who calls himself Kiley now, and his wife Meggie.
+
 Chuck & Debbie, Nathaniel, Garrett, Katherine
 
 Rayny & Ty
+
+> My neighbors Jack, Amy, River and Quinn. My husband Ty my Mom and Dad StepDad Patrick brothers and sisters Lionne, Max & Meghan. ❤️❤️❤️
 
 Elijah & Annie, Aspen, Annabloom
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
-Paul, Jeong, Jeia
+Paul, Jiyoung, Gia
+
+> Beverly(Paul’s mom), Taylor(niece, worship crystals, built an altar in her room, having panic attacks), Marie(ex-coworker), Hoon(my brother), and my father.
+
+>> For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.” (Luke 11:9-10 NIV)
+>>
+>> Amen 🙏
 
 Abby, Waylon, Elijah, Everly
 
