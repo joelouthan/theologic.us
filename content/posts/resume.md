@@ -3,13 +3,13 @@ title: "Ministry Resume: Joseph Louthan"
 author: Joseph Louthan
 publishDate: 2022-06-25T05:00:00-05:00
 url: /resume/
-index: true
+index: false
+css: home-devos
 draft: false
-css: "home-devos"
 tocopen: false
 ---
 
-<img src="/images/1-smile-no-braces-portrait-bright.jpg">**JOSEPH LOUTHAN**  
+<img style="padding-top: 10px" src="/images/1-smile-no-braces-portrait-bright.jpg" width="185px">**JOSEPH LOUTHAN**  
 Versailles, Kentucky  
 cell: 817.707.1486  
 email: [joe@theologic.us](mailto:joe@theologic.us)  

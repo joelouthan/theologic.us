@@ -64,8 +64,10 @@ params:
         imageHeight: 100
         imageTitle: "Joseph Louthan"
         buttons:
-            - name: About
+            - name: What Is It?
               url: /about/
+            - name: What Is It Not?
+              url: /not-about/
             - name: Ministry Resume
               url: /resume/
             - name: Updates
@@ -88,6 +90,8 @@ params:
               url: /series/kid-devotions-luke/
             - name: Other Series
               url: series
+            - name: "Contact Me"
+              url: /contact-me/
 
     # home-info mode
     homeInfoParams:
