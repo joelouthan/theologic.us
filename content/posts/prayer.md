@@ -141,7 +141,7 @@ Jeremiah & Serah, Israel, Isabella, Moses, Isaiah, Ezekiel, and Augustine
 
 Joshua & Lynnette, Elijah
 
-Troy & Morgan, Marcella
+Troy & Morgan, Marcella, Titus
 
 Michael & Grace, kids
 
@@ -181,7 +181,7 @@ Paul, Jiyoung, Gia
 >>
 >> Amen 🙏
 
-Abby, Waylon, Elijah, Everly
+Abby, Waylon, Elijah, Everlee
 
 > Abby’s dad, Mike. I’m not entirely sure where my dad stands, but know he thinks he has a relationship with God and his views are very influential in my family. He is a Christian Universalist and in my study of it have come to see it as an absolute heresy and false gospel. We have been able to have an ongoing discussion about it over email the past 2 weeks, so please pray that I’m able to stay humble and respectful in our conversation and speak nothing out of emotion but only truth. It has been going very well so far. Please, please pray! 🙏 
 
