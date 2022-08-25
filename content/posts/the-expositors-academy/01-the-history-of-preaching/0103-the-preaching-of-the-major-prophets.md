@@ -8,7 +8,7 @@ categories:
 tags:
   - "The Expositors Academy"
 series:
-  - "Expositors: The History of Preaching",
+  - "Expositors: The History of Preaching"
 tocopen: true
 css: "prayers"
 draft: false
