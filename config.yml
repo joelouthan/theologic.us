@@ -59,7 +59,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Theologicus
-        imageUrl: "images/1-no-braces-new-do-x2.jpg"
+        imageUrl: "images/1-smile-no-braces-portrait-bright-noback-x2-small.png"
         imageWidth: 100
         imageHeight: 100
         imageTitle: "Joseph Louthan"
