@@ -126,58 +126,58 @@ or who gave him counsel?
 
 ### Grace of God: God gives us this word without counsel 
 
->Isaiah 40:14 (CSB) Who did he consult?
-Who gave him understanding
-and taught him the paths of justice?
-Who taught him knowledge
-and showed him the way of understanding?
+>Isaiah 40:14 (CSB) Who did he consult?  
+>Who gave him understanding  
+>and taught him the paths of justice?  
+>Who taught him knowledge  
+>and showed him the way of understanding?
 
 ### Grace of God: 
 
->Isaiah 40:15-17 (CSB) Look, the nations are like a drop in a bucket;
-they are considered as a speck of dust on the scales;
-he lifts up the islands like fine dust.
-16 Lebanon’s cedars are not enough for fuel,
-or its animals enough for a burnt offering.
-17 All the nations are as nothing before him;
-they are considered by him
-as empty nothingness.
+>Isaiah 40:15-17 (CSB) Look, the nations are like a drop in a bucket;  
+>they are considered as a speck of dust on the scales;  
+>he lifts up the islands like fine dust.  
+>16 Lebanon’s cedars are not enough for fuel,  
+>or its animals enough for a burnt offering.  
+>17 All the nations are as nothing before him;  
+>they are considered by him  
+>as empty nothingness.
 
 ### Grace of God: God cannot be brought down to us
 
->Isaiah 40:18-24 (CSB) With whom will you compare God?
-What likeness will you set up for comparison with him?
-19 An idol? — something that a smelter casts
-and a metalworker plates with gold
-and makes silver chains for?
-20 A poor person contributes wood for a pedestal
-that will not rot.
-He looks for a skilled craftsman
-to set up an idol that will not fall over.
-21 Do you not know?
-Have you not heard?
-Has it not been declared to you
-from the beginning?
-Have you not considered
-the foundations of the earth?
-22 God is enthroned above the circle of the earth;
-its inhabitants are like grasshoppers.
-He stretches out the heavens like thin cloth
-and spreads them out like a tent to live in.
-23 He reduces princes to nothing
-and makes judges of the earth like a wasteland.
-24 They are barely planted, barely sown,
-their stem hardly takes root in the ground
-when he blows on them and they wither,
-and a whirlwind carries them away like stubble.
-Isaiah 40:25-26 (CSB) To whom will you compare me,
-or who is my equal? ” asks the Holy One.
-26 Look up and see!
-Who created these?
-He brings out the stars by number;
-he calls all of them by name.
-Because of his great power and strength,
-not one of them is missing.
+>Isaiah 40:18-24 (CSB) With whom will you compare God?  
+>What likeness will you set up for comparison with him?  
+>19 An idol? — something that a smelter casts  
+>and a metalworker plates with gold  
+>and makes silver chains for?  
+>20 A poor person contributes wood for a pedestal  
+>that will not rot.  
+>He looks for a skilled craftsman  
+>to set up an idol that will not fall over.  
+>21 Do you not know?  
+>Have you not heard?  
+>Has it not been declared to you  
+>from the beginning?  
+>Have you not considered  
+>the foundations of the earth?  
+>22 God is enthroned above the circle of the earth;  
+>its inhabitants are like grasshoppers.  
+>He stretches out the heavens like thin cloth  
+>and spreads them out like a tent to live in.  
+>23 He reduces princes to nothing  
+>and makes judges of the earth like a wasteland.  
+>24 They are barely planted, barely sown,  
+>their stem hardly takes root in the ground  
+>when he blows on them and they wither,  
+>and a whirlwind carries them away like stubble.  
+>Isaiah 40:25-26 (CSB) To whom will you compare me,  
+>or who is my equal? ” asks the Holy One.  
+>26 Look up and see!  
+>Who created these?  
+>He brings out the stars by number;  
+>he calls all of them by name.  
+>Because of his great power and strength,  
+>not one of them is missing.
 
 ### Grace of God: God has no equals
 
