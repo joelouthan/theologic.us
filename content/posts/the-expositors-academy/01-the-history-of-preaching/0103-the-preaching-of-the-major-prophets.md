@@ -16,7 +16,7 @@ draft: false
 
 Prophetic in the OT:
 
-- Major: Isaiah, Jeremiah/Lamentations, Ezekiel, Daniel, Hosea
+- Major: Isaiah, Jeremiah/Lamentations, Ezekiel, Daniel
 - Minor: Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
 
 Two fold thrusts:
