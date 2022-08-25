@@ -18,6 +18,10 @@ Lord,
 ```text
 Do what you must so I would be conformed to the image of my Christ.
 
+I ask for a double portion of your blessing and your spirit and your grace in order for me to preach your word and your great gospel.
+
+Lord, please be in me. I open my heart and mind and hands and eyes and mouth. I cannot and will not do this without your mercy and grace upon me.
+
 Amen.
 ```
 
