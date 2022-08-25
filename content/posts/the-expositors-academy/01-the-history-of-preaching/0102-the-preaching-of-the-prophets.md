@@ -11,9 +11,10 @@ series:
   - "Expositors: The History of Preaching"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 Puritans' on Preaching: "Primary means of grace"
+
 - not "only" but "primary"
 - Biblically, Historically, Experientially
 
