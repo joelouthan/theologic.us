@@ -43,6 +43,10 @@ Open my mouth so I would tell them your precious gospel.
 Amen.
 ```
 
+## Confession
+
+Eternal God, in whom we live and move and have our being, we have sinned against you, and we sometimes forget your mercy toward us. **Cleanse us from all our offenses, and deliver us from proud thoughts and vain desires.** With lowliness and meekness may we draw near to you, confessing our faults, confiding in your grace, and finding in you our refuge and strength; through Jesus Christ your Son. Amen!
+
 ---
 
 ## Hood
@@ -269,7 +273,21 @@ Virginia
 
 Emily
 
-Andy & Lily
+Andie & Lily
+
+- brother Scott
+
+Olga
+
+Martin (walker)
+
+Terry & Donna
+
+Virginia Beth
+
+Henry & Dionne
+
+- from apt to house
 
 ### St. Andrews Anglican  
 
