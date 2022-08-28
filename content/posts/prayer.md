@@ -199,6 +199,8 @@ Micah
 
 Matthew & Alisha, fam
 
+Derek & Nikki, fam
+
 ---
 
 ## Lexington
