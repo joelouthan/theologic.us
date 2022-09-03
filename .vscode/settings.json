@@ -4,5 +4,8 @@
   ],
   "cSpell.words": [
     "showtoc"
+  ],
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "master"
   ]
 }
