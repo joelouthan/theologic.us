@@ -19,8 +19,7 @@ draft: false
 
 ## The Text
 
->Romans 8:29 (CSB)
-><sup> 29 </sup> For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. 
+>Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
 
 ## The Support
 
