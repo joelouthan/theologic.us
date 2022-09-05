@@ -1,7 +1,7 @@
 ---
 title: "Study: "
 author: Joseph Louthan
-publishDate: 2022-06-27T06:00:00-06:00
+publishDate: 2022-10-17T06:00:00-06:00
 categories:
   - Study
 tags:
@@ -34,7 +34,9 @@ Where do you see God in the text? What does the text say about God?
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
+
+
 
 ## The Discussion
 
@@ -63,12 +65,6 @@ Where do you see God in the text? What does the text say about God?
 ```text
 
 ```
-
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
 
 ## Resources
 
