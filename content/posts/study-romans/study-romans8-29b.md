@@ -3,6 +3,7 @@ title: "Study: Romans 8:29b How Did God Save Us?"
 author: Joseph Louthan
 publishDate: 2022-09-05T06:00:00-06:00
 categories:
+  - Commentaries
   - Study
 tags:
   - "Romans"
