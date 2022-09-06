@@ -19,6 +19,15 @@ draft: true
 
 ## The Text
 
+>Titus 3:8–11 (CSB)  
+><sup> 8  </sup>This saying is trustworthy. I want you to insist on these things, so that those who have believed God might be careful to devote themselves to good works. These are good and profitable for everyone. 
+
+><sup> 9  </sup>But avoid foolish debates, genealogies, quarrels, and disputes about the law, because they are unprofitable and worthless. 
+
+><sup> 10  </sup>Reject a divisive person after a first and second warning. 
+
+><sup> 11  </sup>For you know that such a person has gone astray and is sinning; he is self-condemned.
+
 <div style="page-break-after: always;"></div>
 
 ## The Meditation

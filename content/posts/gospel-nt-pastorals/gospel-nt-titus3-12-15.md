@@ -19,6 +19,15 @@ draft: true
 
 ## The Text
 
+>Titus 3:12–15 (CSB)  
+><sup> 12  </sup>When I send Artemas or Tychicus to you, make every effort to come to me in Nicopolis, because I have decided to spend the winter there. 
+
+><sup> 13  </sup>Diligently help Zenas the lawyer and Apollos on their journey, so that they will lack nothing. 
+
+><sup> 14  </sup>Let our people learn to devote themselves to good works for pressing needs, so that they will not be unfruitful. 
+
+><sup> 15  </sup>All those who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you.
+
 <div style="page-break-after: always;"></div>
 
 ## The Meditation
