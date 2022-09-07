@@ -1,7 +1,7 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "Westminster Confession of Faith, Chapter 1.v The Testimony of the Church"
 author: Joseph Louthan
-publishDate: 2022-06-15T06:00:00-06:00
+publishDate: 2022-09-21T06:00:00-06:00
 categories:
   - Confessions
 tags:
@@ -10,16 +10,19 @@ series:
   - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+2022-09-07
 ## The Text
+
+>1 Thessalonians 2:7–8 (NIV) Instead, we were like young children among you. Just as a nursing mother cares for her children, 8 so we cared for you. Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well.
 
 <div style="page-break-after: always;"></div>
 
 ## The Article
 
 ```text
-
+We may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man’s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.
 ```
 
 <div style="page-break-after: always;"></div>

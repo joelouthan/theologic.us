@@ -1,7 +1,7 @@
 ---
 title: "Westminster Confession of Faith, Chapter 1.iv The Authority of Holy Scripture "
 author: Joseph Louthan
-publishDate: 2022-06-22T06:00:00-06:00
+publishDate: 2022-09-14T06:00:00-06:00
 categories:
   - Confessions
 tags:
@@ -49,49 +49,57 @@ draft: false
 
 ```text
 The authority of the holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the Author thereof; and therefore it is to be received, because it is the Word of God.
-
-We may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man’s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.
 ```
 
 <div style="page-break-after: always;"></div>
 
 ## The Confession
 
-### 
+>2 Peter 1:19 (CSB) We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.
 
-## The Discussion
+>John 1:4–5 (CSB) In him was life, and that life was the light of men. 5 That light shines in the darkness, and yet the darkness did not overcome it.
 
-```text
-1. 
-```
+In reading John Stott's *Between Two Worlds*, I was moved by his compassion towards the theological liberal. Stott suggested that they were trying to make sense of the rational world in which they lived and what the Bible said. In other words, does an ancient text like the Bible, or for that matter, the religion of Christianity, have any place in today's modern world.
 
-```text
-2. 
-```
+But this is where we see and receive the authority given by God to us for us. God did not give supreme authority to kings and rulers of this age (although he did give governing authority as stated in Romans 13). God did not give supreme authority to the philosophical thought of this age. (It must be noted that Paul warns us to guard against philosophy and empty deceit based on human tradition, which is based on the elements of the world, rather than Christ. Colossians 2:8)
 
-```text
-3. 
-```
+But rather, God himself has spoken. And his words were not merely touch upon the ears of man for one time. But those words were instructed by the same great God to be written down for his people in the ages to come.
 
-```text
-4. 
-```
+>2 Timothy 3:16 (CSB) All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness,
 
-## The Prayer
+Because the Bible is the word of God, the Bible is supreme authority because it **wholly depends on God (who is truth itself)**
 
-<div style='font-variant: small-caps;'>
+>John 1:1 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God.
 
-</div>
+This is why the Apostle John, in writing to the Greeks of his age, which would have a firm grasp on what is truth, rightly declares the Son of God, Jesus Christ, is the Logos, the Truth, the Word. And now, because of the appearance of Christ, the Truth is now revealed.
 
-```text
+>John 1:18 (CSB) No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
 
-```
+We could say that the Bible is about anything. And for the most part, we would be right but in part. The word of God is about Jesus Christ, which this word did not originate with mankind but with God.
 
-## The Media
+>1 Thessalonians 2:13 (CSB) This is why we constantly thank God, because when you received the word of God that you heard from us, you welcomed it not as a human message, but as it truly is, the word of God, which also works effectively in you who believe.
 
-Today's episode at [The Study](http://study.theologic.us/podcast/)
+>1 John 5:9 (CSB) If we accept human testimony, God’s testimony is greater, because it is God’s testimony that he has given about his Son.
 
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
+Or let David sing of these truths:
+
+><sup> 7  </sup>The instruction of the LORD is perfect, renewing one’s life; the testimony of the LORD is trustworthy, making the inexperienced wise.
+
+><sup> 8  </sup>The precepts of the LORD are right, making the heart glad; the command of the LORD is radiant, making the eyes light up.
+
+><sup> 9  </sup>The fear of the LORD is pure, enduring forever; the ordinances of the LORD are reliable and altogether righteous.
+
+><sup> 10  </sup>They are more desirable than gold— than an abundance of pure gold; and sweeter than honey dripping from a honeycomb.
+
+Let me speak to one thing: acknowledging the authority of Scripture is one thing. But receiving and believing it is another. In the day and age where we can look back in history all the way to Adam, where Satan continuously makes war against the word of God and will continue to send false teachers and false prophets to keep twisting the Bible for their own ill-gotten gains.
+
+>Genesis 3:1 (CSB) Now the serpent was the most cunning of all the wild animals that the LORD God had made. He said to the woman, “Did God really say, ‘You can’t eat from any tree in the garden’?”
+
+In the Old Testament, false teachers and false prophets were to be executed on site by the people of God as decreed by God himself.
+
+Where we live in, the New Testament church, we cannot execute false teachers and preachers. And I would suspect that everyone who reads these words has been hurt and abused by those who claimed they were right with God but proven themselves to be children of the Devil by twisting His word and preying on the weak. I get that. Whether we acknowledge the authority of the Bible or not, does not bestow or remove that authority. Even when it is wrongly twisted for the end of man. God is good and right and he alone will make all things right with him.
+
+God has spoken. He command each ones of us to trust in Him alone. Trust in him. Sit under the preaching of the word. Test the Scriptures. This is the calling of the people of God for all of their days.
 
 ## The Resources
 
