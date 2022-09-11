@@ -147,7 +147,7 @@ Andrew & Jordyn, Will, Alice, Elliot, Annie
 
 ## RTC
 
-Jeremiah & Serah, Israel, Isabella, Moses, Isaiah, Ezekiel, and Augustine
+Jeremiah & Serah, Israel, Isabella, Moses (brunette), Isaiah (brunette), Ezekiel (blond), and Augustine (blond)
 
 Joshua & Lynnette, Elijah
 
@@ -202,6 +202,14 @@ Micah
 Matthew & Alisha, fam
 
 Derek & Nikki, fam
+
+Kelly (Asbury)
+- her friends
+- her family
+
+James & Anna, (Sister) & Frankie
+
+
 
 ---
 
