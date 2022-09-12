@@ -17,7 +17,7 @@ When we speak of Romans 8, most Christians rightfully cling to the verse 1: **Th
 
 >Romans 7:24–25 Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh, I serve the law of sin.
 
-Seem familiar? Don’t we hear the same desperation in anyone, who by the grace of God, see their own sins as an affront and treason against holy and loving God? It is the great cry of the tax collector, “&#8230; standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’” [^1]
+Seem familiar? Don’t we hear the same desperation in anyone, who by the grace of God, see their own sins as an affront and treason against holy and loving God? It is the great cry of the tax collector, “standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’” [^1]
 
 [^1]: Luke 18:13
 
@@ -35,9 +35,9 @@ Even more than that, it seems to be the same question Isaiah asked:
 
 Isaiah the great prophet, to whom Christ unraveled his glory before him and Christ then sent an angel to touch Isaiah’s lips with a hot coal and cleansed his soul from all unrighteousness even asked, “Shall we be saved?”
 
-I know that Paul answers all the cries of all the saints who clearly see their own sin before a glorious God, “THERE IS THEREFORE NOW NO CONDEMNATION FOR THOSE WHO ARE IN CHRIST JESUS!”
+I know that Paul answers all the cries of all the saints who clearly see their own sin before a glorious God, **“THERE IS THEREFORE NOW NO CONDEMNATION FOR THOSE WHO ARE IN CHRIST JESUS!”**
 
-Let that be one of the many banners over our souls and hearts: “THERE IS NO CONDEMNATION BECAUSE I AM IN CHRIST AND HE IS IN ME FOREVER!”
+Let that be one of the many banners over our souls and hearts: **“THERE IS NO CONDEMNATION BECAUSE I AM IN CHRIST AND HE IS IN ME FOREVER!”**
 
 But this is not some standalone “theory” that we have to do doctrinal gymnastics in order to arrive at this point. The world wants to make the Bible more difficult than it needs to be. By either claiming to be nonsense, or it is a book filled with fantasy, or that God is an angry god or there are just too many contradictions. To such counters I will say two things: One, you cannot understand any gift of God without the Holy Spirit of God[^2]. Two, once you have the Holy Spirit and by his will, power and wisdom alone, you can now begin to grasp the Bible for it really is—the word of God.  All of a sudden, when we read passages like Luke 24 when Jesus taught his disciples about all the Scriptures, we realize that the Bible is really all about Him.
 

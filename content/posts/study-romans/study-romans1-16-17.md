@@ -238,8 +238,8 @@ ___
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41yNgHWAm0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />Commentary on Romans](https://amzn.to/3r13Tat).  
 by Martin Luther.  
-Kregel. 2003.  
+Kregel. 2003.
 
 &nbsp;
 
-___
+<p style="clear:both;">
