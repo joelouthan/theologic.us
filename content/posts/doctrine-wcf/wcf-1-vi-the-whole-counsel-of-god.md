@@ -1,7 +1,7 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "Westminster Confession of Faith, Chapter 1.vi The Whole Counsel of God"
 author: Joseph Louthan
-publishDate: 2022-06-22T06:00:00-05:00
+publishDate: 2022-09-29T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
