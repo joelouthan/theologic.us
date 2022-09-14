@@ -113,13 +113,6 @@ But it is only dependent on God who wills us to understanding and maturity:
 >Hebrews 5:11–6:3 (CSB)  We have a great deal to say about this, and it is difficult to explain, since you have become too lazy to understand. 12 Although by this time you ought to be teachers, you need someone to teach you the basic principles of God’s revelation again. You need milk, not solid food. 13 Now everyone who lives on milk is inexperienced with the message about righteousness, because he is an infant. 14 But solid food is for the mature—for those whose senses have been trained to distinguish between good and evil. 6:1 Therefore, let us leave the elementary teaching about Christ and go on to maturity, not laying again a foundation of repentance from dead works, faith in God, 2 teaching about ritual washings, laying on of hands, the resurrection of the dead, and eternal judgment. 3 And we will do this if God permits.
 
 What can we do? Pray and ask God to mature us and conform us to the image of His Son so that we might see him clearer and clearer every day.
-
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
-
 ## The Resources
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  

@@ -100,7 +100,6 @@ In the Old Testament, false teachers and false prophets were to be executed on s
 Where we live in, the New Testament church, we cannot execute false teachers and preachers. And I would suspect that everyone who reads these words has been hurt and abused by those who claimed they were right with God but proven themselves to be children of the Devil by twisting His word and preying on the weak. I get that. Whether we acknowledge the authority of the Bible or not, does not bestow or remove that authority. Even when it is wrongly twisted for the end of man. God is good and right and he alone will make all things right with him.
 
 God has spoken. He command each ones of us to trust in Him alone. Trust in him. Sit under the preaching of the word. Test the Scriptures. This is the calling of the people of God for all of their days.
-
 ## The Resources
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
