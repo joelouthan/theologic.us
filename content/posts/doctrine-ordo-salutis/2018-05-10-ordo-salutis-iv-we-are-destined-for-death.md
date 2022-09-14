@@ -127,8 +127,3 @@ But God saves those who he foreknew and loved before the beginning of time and b
 
 >Romans 8:28-30 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. 29 For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. 30 And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-iv-we-are-destined-for-death)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]

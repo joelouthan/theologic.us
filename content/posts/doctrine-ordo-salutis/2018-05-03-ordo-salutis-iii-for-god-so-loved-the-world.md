@@ -104,8 +104,3 @@ Salvation was there for Esau. Salvation was there for you. All you have to do is
 
 >John 3:16-17 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. <sup> 17 </sup> For God did not send his Son into the world to condemn the world, but to save the world through him.
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-iii-for-god-so-loved-the-world)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]

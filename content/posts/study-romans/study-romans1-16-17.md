@@ -140,11 +140,6 @@ Help us to be faithful
 Amen
 ```
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/the-study-romans1-16-17/)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
 
 ## Resources
 

@@ -82,8 +82,3 @@ We must admit the exceeding sinfulness of our sin. We must be desperate for to s
 
 We call upon him. We look towards him. We reach out and cry, "Lord, have mercy on me, a sinner.” God, who is merciful, gives us His Son because He is the God who actually saves.
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-vii-christs-sufficient-work-we-are-clean)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]

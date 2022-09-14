@@ -108,8 +108,3 @@ Some of it will look like Israelites wandering in the desert (see the book of Ex
 
 Some of it will look like death as though we are walking through the valley of the stench of death but never forget that Jesus Christ is the lily of the valley whose wonderful fragrance gives life!
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-isaiah-489-11-ordo-salutis-xi-our-new-lives--spirits-work-in-our-sanctification)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]

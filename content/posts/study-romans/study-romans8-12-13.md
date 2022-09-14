@@ -196,11 +196,6 @@ Every day, give me you. I need all of you. Not in what you give but you.
 
 Amen.
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/study-romans-812-13-what-do-i-do-when-i-sin)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
 
 ## Resources
 

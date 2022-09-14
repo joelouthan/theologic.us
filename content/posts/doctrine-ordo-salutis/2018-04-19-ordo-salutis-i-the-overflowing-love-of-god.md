@@ -55,8 +55,3 @@ Passages to read for our next lesson:
 
 I am very excited to walk alongside with you in this study.   I strongly encourage you to do all things in worship to God, especially reading the word of God, soak this in prayer and seeking out His understanding and His will in all things.
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/doctrine-ordo-salutis-i--the-overflowing-love-of-god)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]

@@ -237,11 +237,6 @@ Give us your Son to come save us from our sins!
 
 Amen.
 
-## The Media
-
-Today's episode at [The Study](http://study.theologic.us/podcast/study-genesis-711-24-the-gospel-certainty-the-will-of-god)
-
-\[[Apple](https://podcasts.apple.com/us/podcast/the-study/id1557102127)\]\[[Spotify](https://open.spotify.com/show/0Xs5qsNvWePyRqcmtOTPkR)\]\[[YouTube](http://youtube.theologic.us)\]\[[Twitch](http://twitch.theologic.us)\]\[[Twitter](https://twitter.com/theologic_us)\]\[[Facebook](https://www.facebook.com/groups/462231051477464)\]\[[Afreeca](https://bj.afreecatv.com/theologicus)\]\[[Discord](http://discord.theologic.us)\]
 
 ## The Resources
 
