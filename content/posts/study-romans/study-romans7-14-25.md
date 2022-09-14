@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 7:14-25 Then, God Saves Us From Our Sin'
 author: Joseph Louthan
-publishDate: 2021-03-21T12:00:00-06:00
+publishDate: 2021-03-21T12:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

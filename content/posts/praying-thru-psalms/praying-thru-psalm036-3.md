@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 36:7-9'
 author: Joseph Louthan
-publishDate: 2021-01-05T12:00:00-06:00
+publishDate: 2021-01-05T12:00:00-05:00
 categories:
   - Prayers
 tags:

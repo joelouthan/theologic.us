@@ -1,7 +1,7 @@
 ---
 title: 'Doctrine: Matthew 16:15-19 Pray Like This, Your Kingdom Come'
 author: Joseph Louthan
-date: 2018-08-09T06:00:00-06:00
+date: 2018-08-09T06:00:00-05:00
 categories:
   - Prayers
   - Doctrine

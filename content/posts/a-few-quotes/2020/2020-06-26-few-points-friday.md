@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: Hanging On Some Choice Memes"
 author: Joseph Louthan
-publishDate: 2020-06-26T06:00:00-06:00
+publishDate: 2020-06-26T06:00:00-05:00
 categories:
   - Quotes
 tags:

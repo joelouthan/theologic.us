@@ -1,7 +1,7 @@
 ---
 title: "Westminster Confession of Faith: Chapter 1.iii The Apocrypha of Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-06-15T06:00:00-06:00
+publishDate: 2022-06-15T06:00:00-05:00
 categories:
   - Confessions
 tags:

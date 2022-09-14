@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 4:13-25 God Fulfills His Promises, Not Us'
 author: Joseph Louthan
-publishDate: 2021-03-14T06:00:00-06:00
+publishDate: 2021-03-14T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

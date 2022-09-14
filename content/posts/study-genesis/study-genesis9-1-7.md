@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 9:1-7 The Gospel Certainty: The Love of God"
 author: Joseph Louthan
-publishDate: 2021-10-14T06:00:00-06:00
+publishDate: 2021-10-14T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

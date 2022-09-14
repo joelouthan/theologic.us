@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 1:1 Our Forever Love"
 author: Joseph Louthan
-publishDate: 2021-06-03T06:00:00-06:00
+publishDate: 2021-06-03T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

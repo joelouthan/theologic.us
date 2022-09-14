@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:30 Promise Fulfilled"
 author: Joseph Louthan
-publishDate: 2022-06-06T06:00:00-06:00
+publishDate: 2022-06-06T06:00:00-05:00
 categories:
   - Commentaries
   - Study

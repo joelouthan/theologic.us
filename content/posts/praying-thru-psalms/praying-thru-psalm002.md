@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 2'
 author: Joseph Louthan
-date: 2012-10-09T06:00:00-06:00
+date: 2012-10-09T06:00:00-05:00
 categories:
   - Prayers
 tags:

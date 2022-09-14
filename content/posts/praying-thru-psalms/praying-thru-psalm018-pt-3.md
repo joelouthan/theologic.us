@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 18, Pt. 3'
 author: Joseph Louthan
-date: 2013-07-02T06:00:00-06:00
+date: 2013-07-02T06:00:00-05:00
 categories:
   - Prayers
 tags:

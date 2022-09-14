@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:27 Who Defines Us in the Midst of Our Sin?"
 author: Joseph Louthan
-publishDate: 2022-05-16T06:00:00-06:00
+publishDate: 2022-05-16T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

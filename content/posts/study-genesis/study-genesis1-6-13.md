@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 1:6-13 Our Forever Home"
 author: Joseph Louthan
-publishDate: 2021-06-17T06:00:00-06:00
+publishDate: 2021-06-17T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

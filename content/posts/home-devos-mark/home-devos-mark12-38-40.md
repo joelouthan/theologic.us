@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 12:38-40 So That We Might Live and Be In His Family Forever"
 author: Joseph Louthan
-publishDate: 2022-02-04T06:00:00-06:00
+publishDate: 2022-02-04T06:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

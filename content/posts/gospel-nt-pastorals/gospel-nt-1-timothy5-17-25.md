@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 5:17-25 Christ our Eldest Brother"
 author: Joseph Louthan
-publishDate: 2021-05-05T06:00:00-06:00
+publishDate: 2021-05-05T06:00:00-05:00
 categories:
   - Commentaries
   - "Gospel NT"

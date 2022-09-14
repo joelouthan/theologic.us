@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 34:5'
 author: Joseph Louthan
-publishDate: 2020-11-09T12:00:00-06:00
+publishDate: 2020-11-09T12:00:00-05:00
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 34:15-18'
 author: Joseph Louthan
-publishDate: 2020-11-11T20:00:00-06:00
+publishDate: 2020-11-11T20:00:00-05:00
 categories:
   - Prayers
 tags:

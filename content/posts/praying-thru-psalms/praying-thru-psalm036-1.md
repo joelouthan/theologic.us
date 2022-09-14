@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 36:5'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-29T20:00:00-06:00
+publishDate: 2020-12-29T20:00:00-05:00
 categories:
   - Prayers
 tags:

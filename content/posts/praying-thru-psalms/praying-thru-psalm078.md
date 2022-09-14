@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 78 Remembrance"
 author: Joseph Louthan
-publishDate: 2021-06-15T06:00:00-06:00
+publishDate: 2021-06-15T06:00:00-05:00
 categories:
   - Prayers
 tags:

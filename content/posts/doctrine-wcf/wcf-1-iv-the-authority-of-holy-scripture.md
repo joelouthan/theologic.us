@@ -1,7 +1,7 @@
 ---
 title: "Westminster Confession of Faith, Chapter 1.iv The Authority of Holy Scripture "
 author: Joseph Louthan
-publishDate: 2022-09-14T06:00:00-06:00
+publishDate: 2022-09-14T06:00:00-05:00
 categories:
   - Confessions
 tags:

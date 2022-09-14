@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 7:1–10 The Gospel Certainty: The Salvation of God"
 author: Joseph Louthan
-publishDate: 2021-09-16T06:00:00-06:00
+publishDate: 2021-09-16T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 10'
 author: Joseph Louthan
-date: 2013-01-08T06:00:00-06:00
+date: 2013-01-08T06:00:00-05:00
 categories:
   - Prayers
 tags:

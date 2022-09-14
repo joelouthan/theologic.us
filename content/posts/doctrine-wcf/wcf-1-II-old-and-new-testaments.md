@@ -1,7 +1,7 @@
 ---
 title: "Westminster Confession of Faith, Chapter 1.ii The Old and New Testaments of Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-06-08T06:00:00-06:00
+publishDate: 2022-06-08T06:00:00-05:00
 categories:
   - Confessions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Matthew 2:13-18 Jesus Christ is Our Salvation"
 author: Joseph Louthan
-publishDate: 2022-05-21T06:00:00-06:00
+publishDate: 2022-05-21T06:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

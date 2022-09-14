@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 6:1-14 God Kills Our Sin'
 author: Joseph Louthan
-publishDate: 2021-03-18T06:00:00-06:00
+publishDate: 2021-03-18T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study

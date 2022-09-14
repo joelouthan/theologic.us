@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 1:13-15 God Alone is Sovereign'
 author: Joseph Louthan
-publishDate: 2021-03-04T06:00:00-06:00
+publishDate: 2021-03-04T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study
