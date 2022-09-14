@@ -1,12 +1,24 @@
 ---
 title: Updates
 author: Joseph Louthan
-date: 2021-01-30T22:41:05.006Z
+date: 2022-09-14T06:00:00-05:00
 url: "/updates/"
 draft: false
 ---
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
+
+## Stripping the Media links
+
+**Tuesday, September 14, 2022**
+
+I have prayed and meditate on this decision for a long while. I decided to strip the media links to the individual post. I will keep the links to YouTube, Twitch, Podcasts on the home page.
+
+What does this mean?
+
+Doesn't mean I won't keep recording and broadcasting. Honestly, externally going over my notes (i.e. blog posts) helps me know the word of God even more so--to dwell and meditate on him night and day. 
+
+What it does mean that the recordings are not the main focus of Theologicus. This site, my blog, my recordings' main focus is to know the word of God. Ergo, honestly, nothing more than a really big bag of study notes.
 
 ## From Podcasts to Commentary Set
 

@@ -1,7 +1,7 @@
 ---
 title: "Study: "
 author: Joseph Louthan
-publishDate: 2022-09-19T06:00:00-06:00
+publishDate: 2022-09-19T06:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -18,6 +18,8 @@ draft: true
 <div style="page-break-after: always;"></div>
 
 ## The Text
+
+>Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
 
 ## The Support
 
