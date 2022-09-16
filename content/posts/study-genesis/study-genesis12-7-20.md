@@ -1,7 +1,7 @@
 ---
-title: "Study: Genesis 12 The Gospel Predestination "
+title: "Study: Genesis 12:7-20 The Gospel Preservation"
 author: Joseph Louthan
-publishDate: 2022-05-19T06:00:00-05:00
+publishDate: 2022-09-29T06:00:00-05:00
 categories:
   - Commentaries
   - Bible Study
@@ -11,7 +11,7 @@ series:
   - "Bible Study: Genesis"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
@@ -19,19 +19,7 @@ draft: true
 
 ## The Text
 
->Genesis 12 (CSB)  
-><sup> 1 </sup> The LORD said to Abram: Go from your land, your relatives, and your father’s house to the land that I will show you. 
-
-><sup> 2 </sup> I will make you into a great nation, I will bless you, I will make your name great, and you will be a blessing. 
-
-><sup> 3 </sup> I will bless those who bless you, I will curse anyone who treats you with contempt, and all the peoples on earth will be blessed through you. 
-
-><sup> 4 </sup> So Abram went, as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he left Haran. 
-
-><sup> 5 </sup> He took his wife, Sarai, his nephew Lot, all the possessions they had accumulated, and the people they had acquired in Haran, and they set out for the land of Canaan. When they came to the land of Canaan, 
-
-><sup> 6 </sup> Abram passed through the land to the site of Shechem, at the oak of Moreh. (At that time the Canaanites were in the land.) 
-
+>Genesis 12:7-20 (CSB)
 ><sup> 7 </sup> The LORD appeared to Abram and said, “To your offspring, I will give this land.” So he built an altar there to the LORD who had appeared to him. 
 
 ><sup> 8 </sup> From there he moved on to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. He built an altar to the LORD there, and he called on the name of the LORD. 
@@ -76,7 +64,7 @@ Where do you see God in the text? What does the text say about God?
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ## The Discussion
 
@@ -105,9 +93,6 @@ Where do you see God in the text? What does the text say about God?
 ```text
 
 ```
-
-<div style="page-break-after: always;"></div>
-
 
 ## The Resources
 
@@ -142,4 +127,3 @@ by Martyn Lloyd-Jones.
 Crossway. 2009.
 
 <p style="clear:both;">
-
