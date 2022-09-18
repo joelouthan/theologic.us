@@ -22,7 +22,7 @@ I ask for a double portion of your blessing and your spirit and your grace in or
 
 Lord, please be in me. I open my heart and mind and hands and eyes and mouth. I cannot and will not do this without your mercy and grace upon me.
 
-My God, give me a church so that I might preach your gospel there for all of my days and that I might be a herald for you in the midst of this town. 
+My God, give me a church so that I might preach your gospel there for all of my days and that I might be a herald for you in the midst of where I live. 
 
 Amen.
 ```
