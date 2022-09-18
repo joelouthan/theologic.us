@@ -8,6 +8,16 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## Pastorals: FINISHED plus OT/NT Survey
+
+First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.
+
+I had a pastor friend of my, Alex, who is preaching and evangelizing in Kenya, asked me to come teach the Bible to him and his pastor friends.
+
+I wasn't sure if I would have the budget for such an adventure at least for a couple years. More so than that, what could I teach?
+
+So I will write out a Survey on the Old and New Testaments. That will be the new Tuesday series.
+
 ## Stripping the Media links
 
 **Tuesday, September 14, 2022**
