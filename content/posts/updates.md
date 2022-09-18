@@ -8,9 +8,11 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
-## Pastorals: FINISHED plus OT/NT Survey
+## 20220908S Pastorals: FINISHED
 
 First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.
+
+### Coming Soon! OT & NT Survey
 
 I had a pastor friend of my, Alex, who is preaching and evangelizing in Kenya, asked me to come teach the Bible to him and his pastor friends.
 
@@ -18,9 +20,7 @@ I wasn't sure if I would have the budget for such an adventure at least for a co
 
 So I will write out a Survey on the Old and New Testaments. That will be the new Tuesday series.
 
-## Stripping the Media links
-
-**Tuesday, September 14, 2022**
+## 20220914T Stripping the Media links
 
 I have prayed and meditate on this decision for a long while. I decided to strip the media links to the individual post. I will keep the links to YouTube, Twitch, Podcasts on the home page.
 
@@ -30,9 +30,9 @@ Doesn't mean I won't keep recording and broadcasting. Honestly, externally going
 
 What it does mean that the recordings are not the main focus of Theologicus. This site, my blog, my recordings' main focus is to know the word of God. Ergo, honestly, nothing more than a really big bag of study notes.
 
-## From Podcasts to Commentary Set
+## 20220508S From Podcasts to Commentary Set
 
-**Sunday, May 8, 2022** - So here's the real deal: the Internet at my rural home in Kentucky is a struggle bus. By God's good grace, it is good enough for my wife and I to get work done during the day and we can stream a movie at night. But live streaming and/or uploading videos is a real chore.
+So here's the real deal: the Internet at my rural home in Kentucky is a struggle bus. By God's good grace, it is good enough for my wife and I to get work done during the day and we can stream a movie at night. But live streaming and/or uploading videos is a real chore.
 
 So I had to step back and look at the bigger picture: what do I really want to do. What I figured out is that the podcast/videos/"radio" episodes is really just an extension and the effect of the writing.
 
