@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 14:3-9 Every Step Is Joy: Christ Is Annointed For Us"
 author: Joseph Louthan
-publishDate: 2022-10-07T06:00:00-05:00
+publishDate: 2022-10-14T06:00:00-05:00
 categories:
   - Home Devotions
 tags:
