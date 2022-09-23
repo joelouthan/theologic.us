@@ -32,7 +32,7 @@ draft: false
 >
 >The men who were traveling with him stood speechless, hearing the sound but seeing no one. Saul got up from the ground, and though his eyes were open, he could see nothing. So they took him by the hand and led him into Damascus. He was unable to see for three days and did not eat or drink.
 
->### Saul’s Baptism
+### Saul’s Baptism
 >
 >There was a disciple in Damascus named Ananias, and the Lord said to him in a vision, “Ananias.”
 >“Here I am, Lord,” he replied.
@@ -46,7 +46,7 @@ draft: false
 >
 >At once something like scales fell from his eyes, and he regained his sight. Then he got up and was baptized. And after taking some food, he regained his strength.
 >
->### Saul Proclaiming the Messiah
+### Saul Proclaiming the Messiah
 >
 >Saul was with the disciples in Damascus for some time. Immediately he began proclaiming Jesus in the synagogues: “He is the Son of God.”
 >
