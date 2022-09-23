@@ -23,7 +23,7 @@ Well, logic dictates, he must start with a person. Now, because we have seen a c
 
 Biblical genealogies are not there so that God and throw out a bunch of names so that in the year 2022, some English speaking Americans will get tripped up and mispronounce all of them. No, I promise you that is not the point.
 
-Ever person list, whether saved by God or not, matters to him because He loves them. You have a name? You are loved by God. You matter to him. And you love and trust and believe his Son. Then your name is written in the Book of Life forever. But that is another sermon for another time.
+Ever person listed, whether saved by God or not, matters to him because He loves them. You have a name? You are loved by God. You matter to him. And you love and trust and believe his Son. Then your name is written in the Book of Life forever. But that is another sermon for another time.
 
 I want you to keep in mind when we read and study Genesis 12, God is putting together his people through one man. We just read his family of origin. Let us see how and perhaps why God chose Abraham.
 
