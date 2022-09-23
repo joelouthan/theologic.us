@@ -1,7 +1,7 @@
 ---
-title: "Study: "
+title: "Study: Romans 8:30a Predestined by God"
 author: Joseph Louthan
-publishDate: 2022-10-03T06:00:00-05:00
+publishDate: 2022-10-10T06:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -11,13 +11,15 @@ series:
   - "Bible Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
 <div style="page-break-after: always;"></div>
 
 ## The Text
+
+>Romans 8:30 (CSB)  **And those he predestined**, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
 ## The Support
 
