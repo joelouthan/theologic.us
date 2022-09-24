@@ -1,16 +1,16 @@
 ---
-title: "Survey: An Introduction"
+title: "Survey of the New Testament"
 author: Joseph Louthan
-publishDate: 2022-09-27T06:00:00-05:00
+publishDate: 2023-11-07T06:00:00-05:00
 categories:
-  - Survey OT
+  - Survey NT
 tags:
-  - "Survey of the Old Testament"
+  - "Survey of the New Testament"
 series:
-  - "Survey of the Old Testament"
+  - "Survey of the New Testament"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Intro
 
