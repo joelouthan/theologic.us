@@ -103,6 +103,10 @@ Andy
 
 ---
 
+Kathryn - and her partner gone to Europe!
+
+---
+
 ## Friends
 
 Holly & Jake, Jonah, Ellis, Finley
