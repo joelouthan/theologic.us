@@ -207,13 +207,13 @@ Matthew & Alisha, fam
 
 Derek & Nikki, fam
 
-Kelly (Asbury)
-- her friends
-- her family
+Kelly
+
+Megan
 
 James & Anna, Zoe & Frankie
 
-
+Lauren & Trey
 
 ---
 
