@@ -42,3 +42,58 @@ vs. a crowd that weeks before that wanted Barabbas rather than Christ
 
 ## Preaching of Peter: Biblically with Exposition
 
+## Preaching of Peter: Commandingly
+
+imperative and indicative
+
+> Repent
+
+ - John the Baptist and all the faithful priests, prophets and kings
+ - Lord Jesus Christ
+
+> Titus 2:15 (CSB) Proclaim these things; encourage and rebuke with all authority. Let no one disregard you.
+
+>Titus 2:15 (NASB) These things speak and exhort and reprove with all authority. Let no one disregard you.
+
+>Acts 2:37-41 (CSB) When they heard this, they were pierced to the heart and said to Peter and the rest of the apostles, “Brothers, what should we do? ”Peter replied, “Repent and be baptized, each of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children, and for all who are far off, as many as the Lord our God will call.” With many other words he testified and strongly urged them, saying, “Be saved from this corrupt generation! ” So those who accepted his message were baptized, and that day about three thousand people were added to them.
+
+The gospel:
+- is a free offer
+- an invitation
+- is a command by the Almighty God--from the throne of God to the heart of the listener "Repent"
+- anything not repenting and delaying is only sin against God
+
+## Preaching of Peter: Prophetically 
+
+Christ is the fulfillment of the Old Testament
+
+>Acts 3:12-20 (CSB) When Peter saw this, he addressed the people: “Fellow Israelites, why are you amazed at this? Why do you stare at us, as though we had made him walk by our own power or godliness? The God of Abraham, Isaac, and Jacob, the God of our ancestors, has glorified his servant Jesus, whom you handed over and denied before Pilate, though he had decided to release him. You denied the Holy and Righteous One and asked to have a murderer released to you. You killed the source of life, whom God raised from the dead; we are witnesses of this. By faith in his name, his name has made this man strong, whom you see and know. So the faith that comes through Jesus has given him this perfect health in front of all of you. “And now, brothers and sisters, I know that you acted in ignorance, just as your leaders also did. In this way God fulfilled what he had predicted through all the prophets — that his Messiah would suffer. Therefore repent and turn back, so that your sins may be wiped out, that seasons of refreshing may come from the presence of the Lord, and that he may send Jesus, who has been appointed for you as the Messiah.
+
+>Acts 4:8-12 (CSB) Then Peter was filled with the Holy Spirit and said to them, “Rulers of the people and elders: If we are being examined today about a good deed done to a disabled man, by what means he was healed, let it be known to all of you and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom you crucified and whom God raised from the dead — by him this man is standing here before you healthy. This Jesus is
+>the stone rejected by you builders,  
+>which has become the cornerstone.  
+>There is salvation in no one else, for there is no other name under heaven given to people by which we must be saved.”
+
+Peter makes a beeline in his preaching to Christ.
+
+>>A sermon without Christ is an awful thing.
+>>
+>>Spurgeon.
+
+>1 Corinthians 1:22-23 (CSB) For the Jews ask for signs and the Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles.
+
+## Preaching of Peter: Defiantly
+
+>Acts 4:19-20 (CSB) Peter and John answered them, “Whether it’s right in the sight of God for us to listen to you rather than to God, you decide; for we are unable to stop speaking about what we have seen and heard.
+
+## Preaching of Peter: Primarily
+
+>Acts 6:2-4 (CSB) The Twelve summoned the whole company of the disciples and said, “It would not be right for us to give up preaching the word of God to wait on tables. Brothers and sisters, select from among you seven men of good reputation, full of the Spirit and wisdom, whom we can appoint to this duty. But we will devote ourselves to prayer and to the ministry of the word.”
+
+Not below but it was not what God has charged the Apostles to do. We cannot be pulled in different directions.
+
+But the priority of the pastorate is the preaching the word of God
+
+## Preaching of Peter: Confidently
+
+>Acts 10:34–43 (CSB)  Peter began to speak: “Now I truly understand that God doesn’t show favoritism, 35 but in every nation the person who fears him and does what is right is acceptable to him. 36 He sent the message to the Israelites, proclaiming the good news of peace through Jesus Christ—he is Lord of all. 37 You know the events that took place throughout all Judea, beginning from Galilee after the baptism that John preached: 38 how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how he went about doing good and healing all who were under the tyranny of the devil, because God was with him. 39 We ourselves are witnesses of everything he did in both the Judean country and in Jerusalem, and yet they killed him by hanging him on a tree. 40 God raised up this man on the third day and caused him to be seen, 41 not by all the people, but by us whom God appointed as witnesses, who ate and drank with him after he rose from the dead. 42 He commanded us to preach to the people and to testify that he is the one appointed by God to be the judge of the living and the dead. 43 All the prophets testify about him that through his name everyone who believes in him receives forgiveness of sins.”
