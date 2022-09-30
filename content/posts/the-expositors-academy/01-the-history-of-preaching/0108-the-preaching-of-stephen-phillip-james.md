@@ -160,3 +160,50 @@ The results cut to the heart:
 
 >Acts 7:56-60 He said, “Look, I see the heavens opened and the Son of Man standing at the right hand of God!” 57 They yelled at the top of their voices, covered their ears, and together rushed against him. 58 They dragged him out of the city and began to stone him. And the witnesses laid their garments at the feet of a young man named Saul. 59 While they were stoning Stephen, he called out, “Lord Jesus, receive my spirit!” 60 He knelt down and cried out with a loud voice, “Lord, do not hold this sin against them!” And after saying this, he fell asleep.
 
+## Philip
+
+### Obediently
+
+>Acts 8:26–40 (CSB)  An angel of the Lord spoke to Philip: “Get up and go south to the road that goes down from Jerusalem to Gaza.” (This is the desert road.) 
+
+We go where God sends us.
+
+>Revelation 1:16 (CSB)  He had seven stars in his right hand; a sharp double-edged sword came from his mouth, and his face was shining like the sun at full strength.
+
+>27 So he got up and went. There was an Ethiopian man, a eunuch and high official of Candace, queen of the Ethiopians, who was in charge of her entire treasury. He had come to worship in Jerusalem 28 and was sitting in his chariot on his way home, reading the prophet Isaiah aloud. 29 The Spirit told Philip, “Go and join that chariot.” 
+
+### Expositorily
+
+>30 When Philip ran up to it, he heard him reading the prophet Isaiah, and said, “Do you understand what you’re reading?” 31 “How can I,” he said, “unless someone guides me?” So he invited Philip to come up and sit with him. 32 Now the Scripture passage he was reading was this: He was led like a sheep to the slaughter, and as a lamb is silent before its shearer, so he does not open his mouth. 33 In his humiliation justice was denied him. Who will describe his generation? For his life is taken from the earth. **34 The eunuch said to Philip, “I ask you, who is the prophet saying this about—himself or someone else?” 35 Philip proceeded to tell him the good news about Jesus, beginning with that Scripture.** 
+
+### Continually
+
+>36 As they were traveling down the road, they came to some water. The eunuch said, “Look, there’s water. What would keep me from being baptized?” 38 So he ordered the chariot to stop, and both Philip and the eunuch went down into the water, and he baptized him. 39 When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch did not see him any longer but went on his way rejoicing. **40 Philip appeared in Azotus, and he was traveling and preaching the gospel in all the towns until he came to Caesarea.**
+
+## James
+
+### Theologically
+
+>Acts 15:13–21 (CSB)  After they stopped speaking, James responded, “Brothers, listen to me. 14 Simeon has reported how God first intervened to take from the Gentiles a people for his name.
+
+### Doctrinally
+
+>16 After these things I will return and rebuild David’s fallen tent. I will rebuild its ruins and set it up again, 17 so that the rest of humanity may seek the Lord— even all the Gentiles who are called by my name— declares the Lord who makes these things 18 known from long ago.
+
+When you speak, Scripture flows out and teaches doctrinally
+
+### Pastorally
+
+>19 Therefore, in my judgment, we should not cause difficulties for those among the Gentiles who turn to God, 20 but instead we should write to them to abstain from things polluted by idols, from sexual immorality, from eating anything that has been strangled, and from blood. 21 For since ancient times, Moses has had those who proclaim him in every city, and every Sabbath day he is read aloud in the synagogues.”
+
+### Soberly
+
+>James 3:1 (CSB)  Not many should become teachers, my brothers, because you know that we will receive a stricter judgment.
+
+>2 Timothy 2:15 (CSB)  Be diligent to present yourself to God as one approved, a worker who doesn’t need to be ashamed, correctly teaching the word of truth.
+
+We will give an account to God for our preaching. Period.
+
+>1 Corinthians 3:10–15 (CSB)  According to God’s grace that was given to me, I have laid a foundation as a skilled master builder, and another builds on it. But each one is to be careful how he builds on it. 11 For no one can lay any foundation other than what has been laid down. That foundation is Jesus Christ. 12 If anyone builds on the foundation with gold, silver, costly stones, wood, hay, or straw, 13 each one’s work will become obvious. For the day will disclose it, because it will be revealed by fire; the fire will test the quality of each one’s work. 14 If anyone’s work that he has built survives, he will receive a reward. 15 If anyone’s work is burned up, he will experience loss, but he himself will be saved—but only as through fire.
+
+All the crap that we preach will go up in flames and smoke
