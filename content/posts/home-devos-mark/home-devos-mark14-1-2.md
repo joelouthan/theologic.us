@@ -66,3 +66,5 @@ Christ was not the tragic victim of chaos and destruction and Satan. Christ gave
 >James 1:2-4 (CSB) Consider it a great joy, my brothers and sisters, whenever you experience various trials, because you know that the testing of your faith produces endurance. And let endurance have its full effect, so that you may be mature and complete, lacking nothing.
 
 Christ counted as joy to save his people. Whatever trials and tribulations you might experience in your life, count it all as joy.
+
+And every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."

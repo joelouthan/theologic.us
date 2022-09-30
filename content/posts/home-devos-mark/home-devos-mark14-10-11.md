@@ -1,7 +1,7 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 14:10-11 Every Step Is Joy: Christ Is Betrayed Unto Death For Us"
 author: Joseph Louthan
-publishDate: 2022-07-15T06:00:00-05:00
+publishDate: 2022-10-21T06:00:00-05:00
 categories:
   - Home Devotions
 tags:
@@ -10,7 +10,7 @@ series:
   - "Mark"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
