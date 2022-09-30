@@ -50,32 +50,3 @@ At this moment in time, Christ told the Disciples that he was going to give his 
 >Romans 6:1–11 (CSB)  What should we say then? Should we continue in sin so that grace may multiply? 2 Absolutely not! How can we who died to sin still live in it? 3 Or are you unaware that all of us who were baptized into Christ Jesus were baptized into his death? 4 Therefore we were buried with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, so we too may walk in newness of life. 5 For if we have been united with him in the likeness of his death, we will certainly also be in the likeness of his resurrection. 6 For we know that our old self was crucified with him so that the body ruled by sin might be rendered powerless so that we may no longer be enslaved to sin, 7 since a person who has died is freed from sin. 8 Now if we died with Christ, we believe that we will also live with him, 9 because we know that Christ, having been raised from the dead, will not die again. Death no longer rules over him. 10 For the death he died, he died to sin once for all time; but the life he lives, he lives to God. 11 So, you too consider yourselves dead to sin and alive to God in Christ Jesus.
 
 Every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."
-
-## The Discussion
-
-```text
-1. 
-```
-
-```text
-2. 
-```
-
-```text
-3. 
-```
-
-```text
-4. 
-```
-
-## The Prayer
-
-<div style='font-variant: small-caps;'>
-
-</div>
-
-```text
-
-```
-

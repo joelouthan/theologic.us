@@ -20,31 +20,4 @@ draft: false
 
 
 
-## The Discussion
-
-```text
-1. 
-```
-
-```text
-2. 
-```
-
-```text
-3. 
-```
-
-```text
-4. 
-```
-
-## The Prayer
-
-<div style='font-variant: small-caps;'>
-
-</div>
-
-```text
-
-```
-
+Every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."
