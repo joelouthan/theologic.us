@@ -233,7 +233,7 @@ Ronnie, Tracy, Kailyn, Hayden, Hayley
 
 ## Wilmore
 
-Randy & kids
+Randy & kids (Noah)
 
 ### Asbury University & Theological Seminary
 
