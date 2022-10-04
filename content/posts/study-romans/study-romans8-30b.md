@@ -1,7 +1,7 @@
 ---
-title: "Study: "
+title: "Study: Romans 8:30b Loved & Called by God"
 author: Joseph Louthan
-publishDate: 2022-10-10T06:00:00-05:00
+publishDate: 2022-10-17T06:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -11,8 +11,9 @@ series:
   - "Bible Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+
 ## The Introduction
 
 <div style="page-break-after: always;"></div>

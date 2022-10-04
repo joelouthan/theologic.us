@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 8:30a Predestined by God"
+title: "Study: Romans 8:30a Loved & Predestined by God"
 author: Joseph Louthan
 publishDate: 2022-10-10T06:00:00-05:00
 categories:
