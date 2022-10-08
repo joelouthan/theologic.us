@@ -225,6 +225,12 @@ Shelby, Joe & Lyla
 
 ---
 
+## Louisville
+
+Chris & Jessica, Jacob, Selah, William (Met at Progress Park)
+
+---
+
 ## Danville
 
 Ronnie, Tracy, Kailyn, Hayden, Hayley
