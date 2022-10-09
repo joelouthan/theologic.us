@@ -1,13 +1,13 @@
 ---
-title: "Survey of the Old Testament: Genesis"
+title: "Survey Genesis: Christ is Our Beginning"
 author: Joseph Louthan
-publishDate: 2022-10-04T06:00:00-05:00
+publishDate: 2022-10-11T06:00:00-05:00
 categories:
   - Survey OT
 tags:
-  - "Survey of the Old Testament"
+  - "Survey: Old Testament"
 series:
-  - "Survey of the Old Testament"
+  - "Survey: Old Testament"
 tocopen: true
 css: "prayers"
 draft: true

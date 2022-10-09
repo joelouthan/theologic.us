@@ -5,9 +5,9 @@ publishDate: 2023-09-12T06:00:00-05:00
 categories:
   - Survey NT
 tags:
-  - "Survey of the New Testament"
+  - "Survey: New Testament"
 series:
-  - "Survey of the New Testament"
+  - "Survey: New Testament"
 tocopen: true
 css: "prayers"
 draft: true

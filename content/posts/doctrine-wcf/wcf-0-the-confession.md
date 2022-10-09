@@ -46,11 +46,25 @@ The whole counsel of God, concerning all things necessary for His own glory, man
 
 ---
 
+### 1.vii 
+
 All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed, for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means, may attain unto a sufficient understanding of them.
+
+---
+
+### 1.viii
 
 The Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by His singular care and providence kept pure in all ages, are therefore authentical; so as in all controversies of religion the church is finally to appeal unto them. But because these original tongues are not known to all the people of God who have right unto, and interest in, the Scriptures, and are commanded, in the fear of God, to read and search them, therefore they are to be translated into the vulgar language of every nation unto which they come, that the Word of God dwelling plentifully in all, they may worship Him in an acceptable manner, and, through patience and comfort of the Scriptures, may have hope.
 
+---
+
+### 1.ix
+
 The infallible rule of interpretation of Scripture, is the Scripture itself; and therefore, when there is a question about the true and full sense of any scripture (which is not manifold, but one), it may be searched and known by other places that speak more clearly.
+
+---
+
+### 1.x
 
 The Supreme Judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Spirit speaking in the Scripture.
 

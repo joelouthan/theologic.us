@@ -5,9 +5,9 @@ publishDate: 2023-02-21T06:00:00-05:00
 categories:
   - Survey OT
 tags:
-  - "Survey of the Old Testament"
+  - "Survey: Old Testament"
 series:
-  - "Survey of the Old Testament"
+  - "Survey: Old Testament"
 tocopen: true
 css: "prayers"
 draft: true
