@@ -22,8 +22,24 @@ draft: true
 
 ## The Survey
 
+Romans 8:30
+
 
 ## The Christ
+
+Beginning of the Creation
+
+Beginning of the Law
+
+Beginning of the Gospel
+
+Beginning of the Righteousness 
+
+Beginning of the Calling 
+
+Beginning of the Covenant 
+
+
 
 ## The Resources
 
