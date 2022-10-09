@@ -1,29 +1,38 @@
 ---
-title: "Survey: An Introduction"
+title: "Survey of the Bible: An Introduction"
 author: Joseph Louthan
 publishDate: 2022-09-27T06:00:00-05:00
 categories:
   - Survey OT
 tags:
-  - "Survey of the Old Testament"
+  - "Survey: Old Testament"
 series:
-  - "Survey of the Old Testament"
+  - "Survey: Old Testament"
 tocopen: true
 css: "prayers"
 draft: false
 ---
-## The Intro
+## The Text
 
-<div style="page-break-after: always;"></div>
+>John 1:1 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God.
 
-## The Book
+## The Introduction
 
-<div style="page-break-after: always;"></div>
+A few months back, I was introduced to a pastor and evangelist in Kenya named Alex. Alex and I developed a great relationship--exhorting and encouraging each other to press on to Christ. I have witness his ordination and his preaching the gospel to the most remote places of his homeland. Out of this friendship, Alex asked me if I could do him a favor:
 
-## The Survey
+>>"Would you please come to Kenya and teach my pastor friends and me the whole Bible?"
 
+That is no small task, that is for sure. And as I am excited to teach anyone anywhere God's holy word, I knew that this would take a great deal of study preparation (not to mention some budget preparation).
 
-## The Christ
+I told my wonderful friend that budget wise, it might be a couple years. In the meantime, let me start studying.
+
+But where do I start and what resources do I even considered.
+
+Early in my faith, I was sincerely blessed by Chuck Missler's "Learn the Bible in 24 Hours".
+
+>Luke 24:25-27 (CSB) He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! Wasn’t it necessary for the Messiah to suffer these things and enter into his glory? ” Then beginning with Moses and all the Prophets, he interpreted for them the things concerning himself in all the Scriptures.
+
+>Romans 10:14-17 (CSB) How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher? And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news. But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message? So faith comes from what is heard, and what is heard comes through the message about Christ.
 
 ## The Resources
 
