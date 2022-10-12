@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: Psalm 84 Almighty"
+title: "Praying Through: Psalm 84 Home"
 author: Joseph Louthan
 publishDate: 2022-10-15T06:00:00-05:00
 categories:
@@ -44,9 +44,28 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Home
 </div>
 
 ```text
+You are my joy
+  my haven
+  my safe place
+  my comfort in my desperate time of need.
 
+You are the only place
+  I can go to
+  when I am hurt
+  lonely
+  scared
+  ashamed
+  cold
+  and you will bring me in
+  bring me close to your heart
+  and let me heal and be restored
+  and cared for and soothed
+  all the days of my life.
+
+You are my great God in heaven
+  I will forever praise your holy name.
 ```
