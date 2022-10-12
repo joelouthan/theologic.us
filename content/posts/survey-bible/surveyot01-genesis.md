@@ -14,6 +14,8 @@ draft: true
 ---
 ## The Intro
 
+>Romans 8:28–30 (CSB)  We know that all things work together for the good of those who love God, who are called according to his purpose. 29 For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. 30 **And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.**
+
 <div style="page-break-after: always;"></div>
 
 ## The Book
