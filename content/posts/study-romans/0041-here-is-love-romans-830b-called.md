@@ -71,7 +71,7 @@ We know Jesus has raised those who were extremely ill to the point of being thou
 
 This is the first time we’ve seen Christ step before not just His friend’s dead body but at Death itself. Through the deepest and darkest grief and pain of losing his friend, even for a moment, Christ looked upon His Father and with tears running down his cheeks, he simply prays, “Father, I thank you that you hear me and have heard me. I knew that you always heard me but I want everybody around here to know that as well so that they believe in me.”
 
-It is Jesus Christ—the lord ruling over heaven, earth, and hell; the upcoming victor over Satan and his demons—faced death and with His own voice cut through Death’s power and call his friend back to himself: “Lazarus, come out!”
+It is Jesus Christ—the Lord ruling over heaven, earth, and hell; the upcoming victor over Satan and his demons—faced death and with His own voice cut through Death’s power and call his friend back to himself: “Lazarus, come out!”
 
 This was the first time Christ faced death and won. But wasn’t the last.
 
