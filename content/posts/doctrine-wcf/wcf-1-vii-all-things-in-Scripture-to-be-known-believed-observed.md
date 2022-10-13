@@ -1,7 +1,7 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "Westminster Confession of Faith, Chapter 1.vii What is Necessary to be Known, Believed, and Observed by Scripture"
 author: Joseph Louthan
-publishDate: 2022-06-29T06:00:00-05:00
+publishDate: 2022-11-02T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -19,7 +19,7 @@ draft: true
 ## The Article
 
 ```text
-
+All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed, for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means, may attain unto a sufficient understanding of them.
 ```
 
 <div style="page-break-after: always;"></div>
