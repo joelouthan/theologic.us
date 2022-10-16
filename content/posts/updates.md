@@ -8,6 +8,16 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## Backing off: Bible Survey & Switching from WCF to 1689
+
+So I just got the word from the elders that we will make the transition from Calvary Chapel to Reformed Baptist 1689 2nd London Baptist Confession by the end of the year.
+
+I am going to put the Survey on hold and go back to weekly expositions of the Westminster Confession.
+
+For those who do not know: All the confessions are essentially the same chapters. The chapters on Baptism will be differing between those denominations who practice infant baptism (Presbyterians & Anglicans) and those who practice faith baptism (Baptists).
+
+I thought and prayed about this for a while. I have decided to switch gears and convert my work from expositing the WCF to the 1689 because of where my church is going. The work so far will not be in vain. And I think it would be wise to continue using the resources that I have been using for the WCF.
+
 ## 20220908S Pastorals: FINISHED
 
 First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.

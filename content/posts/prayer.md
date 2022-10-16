@@ -27,6 +27,56 @@ My God, give me a church so that I might preach your gospel there for all of my 
 Amen.
 ```
 
+## Pray to be one of the two witnesses
+
+```text
+I absolutely do not know any better.
+
+Could I be one of the two witnesses that prophesy for 1,260 days straight? I assume that is like straight through.
+
+You have all the details. I love you, Lord.
+
+Amen
+```
+
+><sup> 1 </sup> Then I was given a measuring reed like a rod, with these words: “Go and measure the temple of God and the altar, and count those who worship there. 
+
+><sup> 2 </sup> But exclude the courtyard outside the temple. Don’t measure it, because it is given to the nations, and they will trample the holy city for forty-two months. 
+
+><sup> 3 </sup> I will grant my two witnesses authority to prophesy for 1,260 days, dressed in sackcloth.” 
+
+><sup> 4 </sup> These are the two olive trees and the two lampstands that stand before the Lord of the earth. 
+
+><sup> 5 </sup> If anyone wants to harm them, fire comes from their mouths and consumes their enemies; if anyone wants to harm them, he must be killed in this way. 
+
+><sup> 6 </sup> They have authority to close up the sky so that it does not rain during the days of their prophecy. They also have power over the waters to turn them into blood and to strike the earth with every plague whenever they want. 
+
+><sup> 7 </sup> When they finish their testimony, the beast that comes up out of the abyss will make war on them, conquer them, and kill them. 
+
+><sup> 8 </sup> Their dead bodies will lie in the main street of the great city, which figuratively is called Sodom and Egypt, where also their Lord was crucified. 
+
+><sup> 9 </sup> And some of the peoples, tribes, languages, and nations will view their bodies for three and a half days and not permit their bodies to be put into a tomb. 
+
+><sup> 10 </sup> Those who live on the earth will gloat over them and celebrate and send gifts to one another because these two prophets had tormented those who live on the earth. 
+
+><sup> 11 </sup> But after three and a half days, the breath of life from God entered them, and they stood on their feet. Great fear fell on those who saw them. 
+
+><sup> 12 </sup> Then they heard a loud voice from heaven saying to them, “Come up here.” They went up to heaven in a cloud, while their enemies watched them. 
+
+><sup> 13 </sup> At that moment a violent earthquake took place, a tenth of the city fell, and seven thousand people were killed in the earthquake. The survivors were terrified and gave glory to the God of heaven. 
+
+><sup> 14 </sup> The second woe has passed. Take note: The third woe is coming soon! 
+
+><sup> 15 </sup> The seventh angel blew his trumpet, and there were loud voices in heaven saying, The kingdom of the world has become the kingdom of our Lord and of his Christ, and he will reign forever and ever. 
+
+><sup> 16 </sup> The twenty-four elders, who were seated before God on their thrones, fell facedown and worshiped God, 
+
+><sup> 17 </sup> saying, We give you thanks, Lord God, the Almighty, who is and who was, because you have taken your great power and have begun to reign. 
+
+><sup> 18 </sup> The nations were angry, but your wrath has come. The time has come for the dead to be judged and to give the reward to your servants the prophets, to the saints, and to those who fear your name, both small and great, and the time has come to destroy those who destroy the earth. 
+
+><sup> 19 </sup> Then the temple of God in heaven was opened, and the ark of his covenant appeared in his temple. There were flashes of lightning, rumblings and peals of thunder, an earthquake, and severe hail.
+
 ## 10:02
 
 > Luke 10:2 (CSB) He told them, “The harvest is abundant, but the workers are few. Therefore, pray to the Lord of the harvest to send out workers into his harvest.
