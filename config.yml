@@ -74,6 +74,8 @@ params:
               url: updates
             - name: Recent Posts
               url: posts
+            - name: "Confession: 1689 Baptist Confession of Faith"
+              url: /series/1689-baptist-confession-of-faith/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
             - name: "Home Devotions: Matthew"
@@ -84,8 +86,6 @@ params:
               url: /series/bible-study-genesis/
             - name: "Gospel NT: Pastoral Epistles"
               url: /series/gospel-nt-pastorals/
-            - name: "Doctrine: Westminster Confession of Faith"
-              url: /series/westminster-confession-of-faith/
             - name: "Kid Devotions: Luke"
               url: /series/kid-devotions-luke/
             - name: Other Series

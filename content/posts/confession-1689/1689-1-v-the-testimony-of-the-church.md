@@ -1,13 +1,13 @@
 ---
-title: "Westminster Confession of Faith, Chapter 1.v The Inward Work of the Holy Spirit Concerning the Scriptures"
+title: "1689 Baptist Confession of Faith, Chapter 1.v The Inward Work of the Holy Spirit Concerning the Scriptures"
 author: Joseph Louthan
 publishDate: 2022-09-21T06:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 series:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false

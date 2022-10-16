@@ -1,13 +1,13 @@
 ---
-title: "Westminster Confession of Faith: Chapter 1.iii The Apocrypha of Holy Scripture"
+title: "1689 Baptist Confession of Faith: Chapter 1.iii The Apocrypha of Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-06-15T06:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 series:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false

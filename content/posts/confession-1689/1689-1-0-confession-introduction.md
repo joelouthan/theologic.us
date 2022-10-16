@@ -1,14 +1,14 @@
 ---
-title: "Westminster Confession of Faith - Introduction and Resources"
+title: "1689 Baptist Confession of Faith - Introduction and Resources"
 author: Joseph Louthan
 publishDate: 2022-05-25T06:00:00-05:00
 categories:
   - Confessions
   - Books
 tags:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 series:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false

@@ -1,13 +1,13 @@
 ---
-title: "Westminster Confession of Faith, Chapter 1.vi The Whole Counsel of God Concerning Glory of God, Man's Salvation, Faith and Life"
+title: "1689 Baptist Confession of Faith, Chapter 1.vi The Whole Counsel of God Concerning Glory of God, Man's Salvation, Faith and Life"
 author: Joseph Louthan
 publishDate: 2022-10-19T06:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 series:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false

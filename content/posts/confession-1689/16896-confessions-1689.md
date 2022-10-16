@@ -1,13 +1,13 @@
 ---
-title: "Westminster Confession of Faith, Chapter "
+title: "1689 Baptist Confession of Faith, Chapter "
 author: Joseph Louthan
-publishDate: 2022-07-20T06:00:00-05:00
+publishDate: 2022-07-27T06:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 series:
-  - "Westminster Confession of Faith"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: true
