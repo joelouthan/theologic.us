@@ -33,17 +33,30 @@ But why such extremes? Why did the Son of God have to perish so that others will
 
 For you see, apart from God and without God we stand before God with no representation. We stand before a good and right judge who rightly judges his people from not his people.
 
-Divide those who called upon His name to be saved and those who suppress their own knowledge in order to defy his plainly observed existence.[^1]
+Divide those who called upon His name to be saved and those who suppress their own knowledge in order to defy his plainly observed existence.
 
-Bifurcate those who have the gift of the Holy Spirit from those have experience and claim the deeds the power of the Holy Spirit for themselves.[^2]
+>Acts 2:21 (CSB)  Then everyone who calls on the name of the Lord will be saved.
 
-Separate those who live according to the Spirit from those who live according to the flesh.[^3]
+>Romans 1:18–23 (CSB)  For God’s wrath is revealed from heaven against all godlessness and unrighteousness of people who by their unrighteousness suppress the truth, 19 since what can be known about God is evident among them, because God has shown it to them. 20 For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse. 21 For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. 22 Claiming to be wise, they became fools 23 and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles.
 
-Redirect those who have entered the narrow gate of life away of the masses on the wide gate to destruction.[^4]
+Bifurcate those who have the gift of the Holy Spirit from those have experience and claim the deeds the power of the Holy Spirit for themselves.
+
+>John 1:33 (CSB)  I didn’t know him, but he who sent me to baptize with water told me, ‘The one you see the Spirit descending and resting on—he is the one who baptizes with the Holy Spirit.’
+
+>Matthew 7:21–23 (CSB)  “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. 22 On that day many will say to me, ‘Lord, Lord, didn’t we prophesy in your name, drive out demons in your name, and do many miracles in your name?’ 23 Then I will announce to them, ‘I never knew you. Depart from me, you lawbreakers!’
+
+Separate those who live according to the Spirit from those who live according to the flesh.
+
+>Romans 8:1–8 (CSB)  Therefore, there is now no condemnation for those in Christ Jesus, 2 because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death. 3 For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, 4 in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit. 5 For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit. 6 Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace. 7 The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so. 8 Those who are in the flesh cannot please God.
+
+
+Redirect those who have entered the narrow gate of life away of the masses on the wide gate to destruction.
+
+>Matthew 7:13–14 (CSB)  “Enter through the narrow gate. For the gate is wide and the road broad that leads to destruction, and there are many who go through it. 14 How narrow is the gate and difficult the road that leads to life, and few find it.
 
 Justification is often referred to as a legal term because one, it is and two, a trial actually occurred.
 
->Matthew 27:15–23 Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted.  And they had then a notorious prisoner called Barabbas.  So when they had gathered, Pilate said to them, “Whom do you want me to release for you: Barabbas, or Jesus who is called Christ?”  For he knew that it was out of envy that they had delivered him up.  Besides, while he was sitting on the judgment seat, his wife sent word to him, “Have nothing to do with that righteous man, for I have suffered much because of him today in a dream.”  Now the chief priests and the elders persuaded the crowd to ask for Barabbas and destroy Jesus.  The governor again said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.”  Pilate said to them, “Then what shall I do with Jesus who is called Christ?” They all said, “Let him be crucified!”  And he said, “Why? What evil has he done?” But they shouted all the more, “Let him be crucified!”
+>Matthew 27:15–23 (CSB)  At the festival the governor’s custom was to release to the crowd a prisoner they wanted. 16 At that time they had a notorious prisoner called Barabbas. 17 So when they had gathered together, Pilate said to them, “Who is it you want me to release for you—Barabbas, or Jesus who is called Christ?” 18 For he knew it was because of envy that they had handed him over. 19 While he was sitting on the judge’s bench, his wife sent word to him, “Have nothing to do with that righteous man, for today I’ve suffered terribly in a dream because of him.” 20 The chief priests and the elders, however, persuaded the crowds to ask for Barabbas and to execute Jesus. 21 The governor asked them, “Which of the two do you want me to release for you?” “Barabbas!” they answered. 22 Pilate asked them, “What should I do then with Jesus, who is called Christ?” They all answered, “Crucify him!” 23 Then he said, “Why? What has he done wrong?” But they kept shouting all the more, “Crucify him!”
 
 Barabbas is us and Christ is Christ! There is no coincidence nor mistake in the timing of the feast of the governor and the trial of Jesus.
 
@@ -51,11 +64,13 @@ And there is no mistake that the gospel of Matthew has more details about this o
 
 Barabbas was guilty as sin. Yet, Christ stood in his place to appease the blood-thirsty crowds.
 
-We are guilty as sin. Yet, Christ stood in our place to satisfy the just and holy wrath of God upon those do not believe and obey the Son of God.[^5]
+We are guilty as sin. Yet, Christ stood in our place to satisfy the just and holy wrath of God upon those do not believe and obey the Son of God.
 
-And here is love, the cross of Christ where "steadfast love and faithfulness meet and righteousness and peace kiss each other".[^6]
+>John 3:36 (CSB)  The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
-[^6]: Psalm 85:10
+And here is love, the cross of Christ! Psalm 85 says it best:
+
+>Psalm 85:10 (ESV)  Steadfast love and faithfulness meet; righteousness and peace kiss each other.
 
 In the end, we will all stand before that same Son of Man. I will stand before my Savior. But instead of Jesus being mocked, stripped naked, shamed, and in excruciating torturous pain crying out to His Father, Christ Jesus will be glorious, sitting in majesty and at the right hand of the Father.
 
@@ -90,9 +105,3 @@ I stare into the face of the loveliest face that I have ever seen in my existenc
 He looks into my eyes, and with the sweetest smile, he says to me, "Enter in the joy of your master."
 
 It is only by the sovereign grace of our Father, through the power and might of the Holy Spirit, by the glorious life, death, and resurrection of Christ Jesus that we are justified to God forever.
-
-[^1]: Acts 2:21; Romans 1:18-23
-[^2]: John 1:33; Matthew 7:21-23
-[^3]: Romans 8:1-8
-[^4]: Matthew 7:13-14
-[^5]: John 3:36

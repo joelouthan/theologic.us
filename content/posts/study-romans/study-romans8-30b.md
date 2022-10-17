@@ -16,7 +16,9 @@ draft: false
 
 ## The Introduction
 
-And here is love: Romans 8:30b **And those whom he predestined he also called…**
+And here is love: 
+
+>Romans 8:30 (CSB)  **And those he predestined, he also called**; and those he called, he also justified; and those he justified, he also glorified.
 
 So if there was nothing in us to attract, sway, or convinced God to love us and save us, what did God see in us before He saved us?
 
