@@ -74,7 +74,7 @@ params:
               url: updates
             - name: Recent Posts
               url: posts
-            - name: "Confession: 1689 Baptist Confession of Faith"
+            - name: "1689 Baptist Confession of Faith"
               url: /series/1689-baptist-confession-of-faith/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
