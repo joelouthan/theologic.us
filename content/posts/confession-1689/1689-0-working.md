@@ -14,7 +14,7 @@ css: "prayers"
 draft: false
 ---
 
-Adopted by the Ministers and Messengers of the general assembly which met in London in 1689
+**Adopted by the Ministers and Messengers of the general assembly which met in London in 1689**
 
 ## Chapter 1: Of the Holy Scriptures
 
@@ -22,7 +22,33 @@ Adopted by the Ministers and Messengers of the general assembly which met in Lon
 The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God and his will which is necessary unto salvation. Therefore it pleased the Lord at sundry times and in divers manners to reveal himself, and to declare that his will unto his church; and afterward for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto writing; which maketh the Holy Scriptures to be most necessary, those former ways of God's revealing his will unto his people being now ceased.
 ```
 
-2 Timothy 3:15-17; Isaiah 8:20; Luke 16:29, 31; Ephesians 2:20; Romans 1:19-21; Romans 2:14,15; Psalms 19:1-3; Hebrews 1:1; Proverbs 22:19-21; Romans 15:4; 2 Peter 1:19-20
+>2 Timothy 3:15–17 (CSB)  and you know that from infancy you have known the sacred Scriptures, which are able to give you wisdom for salvation through faith in Christ Jesus. 16 All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, 17 so that the man of God may be complete, equipped for every good work.
+
+>Isaiah 8:20 (CSB)  Go to God’s instruction and testimony! If they do not speak according to this word, there will be no dawn for them.
+
+>Luke 16:29 (CSB)  “But Abraham said, ‘They have Moses and the prophets; they should listen to them.’
+
+>Luke 16:31 (CSB)  “But he told him, ‘If they don’t listen to Moses and the prophets, they will not be persuaded if someone rises from the dead.’ ”
+
+>Ephesians 2:20 (CSB)  built on the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone.
+
+>Romans 1:19–21 (CSB)  since what can be known about God is evident among them, because God has shown it to them. 20 For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse. 21 For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened.
+
+>Romans 2:14 (CSB)  So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law.
+
+>Romans 2:15 (CSB)  They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them
+
+>Psalm 19:1–3 (CSB)  The heavens declare the glory of God, and the expanse proclaims the work of his hands. 2 Day after day they pour out speech; night after night they communicate knowledge. 3 There is no speech; there are no words; their voice is not heard.
+
+>Hebrews 1:1 (CSB)  Long ago God spoke to our ancestors by the prophets at different times and in different ways.
+
+>Proverbs 22:19–21 (CSB)  I have instructed you today—even you— so that your confidence may be in the LORD. 20 Haven’t I written for you thirty sayings about counsel and knowledge, 21 in order to teach you true and reliable words, so that you may give a dependable report to those who sent you?
+
+>Romans 15:4 (CSB)  For whatever was written in the past was written for our instruction, so that we may have hope through endurance and through the encouragement from the Scriptures.
+
+>2 Peter 1:19–20 (CSB)  We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts. 20 Above all, you know this: No prophecy of Scripture comes from the prophet’s own interpretation,
+
+---
 
 ### 1.ii The Old and New Testaments of Holy Scripture
 
@@ -37,6 +63,8 @@ All of which are given by the inspiration of God, to be the rule of faith and li
 
 2 Timothy 3:16
 
+---
+
 ### 1.iii The Apocrypha of Holy Scripture
 
 ```text
@@ -44,6 +72,8 @@ The books commonly called Apocrypha, not being of divine inspiration, are no par
 ```
 
 Luke 24:27-44; Romans 3:2
+
+---
 
 ### 1.iv The Authority of Holy Scripture
 
@@ -53,6 +83,8 @@ The authority of the Holy Scripture, for which it ought to be believed, dependet
 
 2 Peter 1:19-21; 2 Timothy 3:16; 2 Thessalonians 2:13; 1 John 5:9
 
+---
+
 ### 1.v The Inward Work of the Holy Spirit Concerning Holy Scripture
 
 ```text
@@ -60,7 +92,9 @@ We may be moved and induced by the testimony of the church of God to an high and
 
 ```
 
-John 16:13,14; 1 Corinthians 2:10-12; 1 John 2:20, 27)
+John 16:13,14; 1 Corinthians 2:10-12; 1 John 2:20, 27
+
+---
 
 ### 1.vi The Whole Counsel of God Within Holy Scripture
 
@@ -68,7 +102,9 @@ John 16:13,14; 1 Corinthians 2:10-12; 1 John 2:20, 27)
 The whole counsel of God concerning all things necessary for his own glory, man's salvation, faith and life, is either expressly set down or necessarily contained in the Holy Scripture: unto which nothing at any time is to be added, whether by new revelation of the Spirit, or traditions of men. Nevertheless, we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word, and that there are some circumstances concerning the worship of God, and government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.
 ```
 
-2 Timothy 3:15-17; Galatians 1:8,9; John 6:45; 1 Corinthians 2:9-12; 1 Corinthians 11:13, 14; 1 Corinthians 14:26,40)
+2 Timothy 3:15-17; Galatians 1:8,9; John 6:45; 1 Corinthians 2:9-12; 1 Corinthians 11:13, 14; 1 Corinthians 14:26,40
+
+---
 
 ### 1.vii What is Necessary According to Holy Scripture
 
@@ -76,7 +112,9 @@ The whole counsel of God concerning all things necessary for his own glory, man'
 All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed and observed for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of ordinary means, may attain to a sufficient understanding of them.
 ```
 
-2 Peter 3:16; Psalms 19:7; Psalms 119:130)
+2 Peter 3:16; Psalms 19:7; Psalms 119:130
+
+---
 
 ### 1.viii The Inspiration of God on Holy Scripture
 
@@ -86,13 +124,17 @@ The Old Testament in Hebrew (which was the native language of the people of God 
 
 Romans 3:2; Isaiah 8:20; Acts 15:15; John 5:39; 1 Corinthians 14:6, 9, 11, 12, 24, 28; Colossians 3:16
 
+---
+
 ### 1.ix The Interpretation of Holy Scripture
 
 ```text
 The infallible rule of interpretation of Scripture is the Scripture itself; and therefore when there is a question about the true and full sense of any Scripture (which is not manifold, but one), it must be searched by other places that speak more clearly.
 ```
 
-2 Peter 1:20, 21; Acts 15:15, 16)
+2 Peter 1:20, 21; Acts 15:15, 16
+
+---
 
 ### 1.x The Speaking of the Holy Spirit in Holy Scripture
 
@@ -100,7 +142,10 @@ The infallible rule of interpretation of Scripture is the Scripture itself; and 
 The supreme judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved.
 ```
 
-Matthew 22:29, 31, 32; Ephesians 2:20; Acts 28:23)
+Matthew 22:29, 31, 32; Ephesians 2:20; Acts 28:23
+
+---
+---
 
 ## Chapter 2: Of God and of the Holy Trinity
 
@@ -123,6 +168,8 @@ In this divine and infinite Being there are three subsistences, the Father, the 
 
 ## Chapter 3: Of God's Decree
 
+---
+
 ### 
 
 ```text
@@ -130,6 +177,8 @@ God hath decreed in himself, from all eternity, by the most wise and holy counse
 ```
 
 Isaiah 46:10; Ephesians 1:11; Hebrews 6:17; Romans 9:15, 18; James 1:13; 1 John 1:5; Acts 4:27, 28; John 19:11; Numbers 23:19; Ephesians 1:3-5
+
+---
 
 ### 
 
@@ -144,6 +193,8 @@ Acts 15:18; Romans 9:11, 13, 16, 18
 
 1 Timothy 5:21; Matthew 25:34; Ephesians 1:5, 6; Romans 9:22, 23; Jude 4
 
+---
+
 ### 
 
 ```text
@@ -151,6 +202,8 @@ These angels and men thus predestinated and foreordained, are particularly and u
 ```
 
 2 Timothy 2:19; John 13:18
+
+---
 
 ### 
 
@@ -160,6 +213,8 @@ Those of mankind that are predestinated to life, God, before the foundation of t
 
 Ephesians 1:4, 9, 11; Romans 8:30; 2 Timothy 1:9; 1 Thessalonians 5:9; Romans 9:13, 16; Ephesians 2:5, 12
 
+---
+
 ### 
 
 ```text
@@ -167,6 +222,8 @@ As God hath appointed the elect unto glory, so he hath, by the eternal and most 
 ```
 
 1 Peter 1:2; 2 Thessalonians 2:13; 1 Thessalonians 5:9, 10; Romans 8:30; 2 Thessalonians 2:13; 1 Peter 1:5; John 10:26; John 17:9; John 6:64
+
+---
 
 ### 
 
@@ -178,6 +235,8 @@ The doctrine of the high mystery of predestination is to be handled with special
 
 ## Chapter 4: Of Creation
 
+---
+
 ### 
 
 ```text
@@ -186,6 +245,8 @@ In the beginning it pleased God the Father, Son, and Holy Spirit, for the manife
 
 John 1:2, 3; Hebrews 1:2; Job 26:13; Romans 1:20; Colossians 1:16; Genesis 1:31
 
+---
+
 ### 
 
 ```text
@@ -193,6 +254,8 @@ After God had made all other creatures, he created man, male and female, with re
 ```
 
 Genesis 1:27; Genesis 2:7; Ecclesiastes 7:29; Genesis 1:26; Romans 2:14, 15; Genesis 3:6
+
+---
 
 ### 
 
@@ -204,6 +267,8 @@ Genesis 2:17; Genesis 1:26, 28
 
 ## Chapter 5: Of Divine Providence
 
+---
+
 ### 
 
 ```text
@@ -211,6 +276,8 @@ God the good Creator of all things, in his infinite power and wisdom doth uphold
 ```
 
 Hebrews 1:3; Job 38:11; Isaiah 46:10, 11; Psalms 135:6; Matthew 10:29-31; Ephesians 1:11
+
+---
 
 ### 
 
@@ -220,6 +287,8 @@ Although in relation to the foreknowledge and decree of God, the first cause, al
 
 Acts 2:23; Proverbs 16:33; Genesis 8:22
 
+---
+
 ### 
 
 ```text
@@ -227,6 +296,8 @@ God, in his ordinary providence maketh use of means, yet is free to work without
 ```
 
 Acts 27:31, 44; Isaiah 55:10, 11; Hosea 1:7; Romans 4:19-21; Daniel 3:27
+
+---
 
 ### 
 
@@ -236,6 +307,8 @@ The almighty power, unsearchable wisdom, and infinite goodness of God, so far ma
 
 Romans 11:32-34; 2 Samuel 24:1, 1 Chronicles 21:1; 2 Kings 19:28; Psalms 76;10; Genesis 1:20; Isaiah 10:6, 7, 12; Psalms 1:21; 1 John 2:16
 
+---
+
 ### 
 
 ```text
@@ -244,6 +317,8 @@ The most wise, righteous, and gracious God doth oftentimes leave for a season hi
 
 2 Chronicles 32:25, 26, 31; 2 Corinthians 12:7-9; Romans 8:28
 
+---
+
 ### 
 
 ```text
@@ -251,6 +326,8 @@ As for those wicked and ungodly men whom God, as the righteous judge, for former
 ```
 
 Romans 1:24-26, 28; Romans 11:7, 8; Deuteronomy 29:4; Matthew 13:12; Deuteronomy 2:30; 2 Kings 8:12, 13; Psalms 81:11, 12; 2 Thessalonians 2:10-12; Exodus 8:15, 32; Isaiah 6:9, 10; 1 Peter 2:7, 8
+
+---
 
 ### 
 
@@ -262,6 +339,8 @@ As the providence of God doth in general reach to all creatures, so after a more
 
 ## Chapter 6: Of the Fall of Man, Of Sin, And of the Punishment Thereof
 
+---
+
 ### 
 
 ```text
@@ -269,6 +348,8 @@ Although God created man upright and perfect, and gave him a righteous law, whic
 ```
 
 Genesis 2:16, 17; Genesis 3:12,13; 2 Corinthians 11:3
+
+---
 
 ### 
 
@@ -283,6 +364,8 @@ Romans 3:23; Romans 5:12, etc; Titus 1:15; Genesis 6:5; Jeremiah 17:9; Romans 3:
 
 Romans 5:12-19; 1 Corinthians 15:21, 22, 45, 49; Psalms 51:5; Job 14:4; Ephesians 2:3; Romans 6:20 Romans 5:12; Hebrews 2:14, 15; 1 Thessalonians 1:10
 
+---
+
 ### 
 
 ```text
@@ -291,12 +374,16 @@ From this original corruption, whereby we are utterly indisposed, disabled, and 
 
 Romans 8:7; Colossians 1:21; James 1:14, 15; Matthew 15:19
 
+---
+
 ### 
 
 ```text
 The corruption of nature, during this life, doth remain in those that are regenerated; and although it be through Christ pardoned and mortified, yet both itself, and the first motions thereof, are truly and properly sin. ( Romans 7:18,23; Ecclesiastes 7:20; 1 John 1:8; Romans 7:23-25; Galatians 5:17
 
 ## Chapter 7: Of God's Covenant
+
+---
 
 ### 
 
@@ -306,6 +393,8 @@ The distance between God and the creature is so great, that although reasonable 
 
 Luke 17:10; Job 35:7,8
 
+---
+
 ### 
 
 ```text
@@ -314,6 +403,8 @@ Moreover, man having brought himself under the curse of the law by his fall, it 
 
 Genesis 2:17; Galatians 3:10; Romans 3:20, 21; Romans 8:3; Mark 16:15, 16; John 3:16; Ezekiel 36:26, 27; John 6:44, 45; Psalms 110:3
 
+---
+
 ### 
 
 ```text
@@ -321,9 +412,10 @@ This covenant is revealed in the gospel; first of all to Adam in the promise of 
 ```
 
 Genesis 3:15; Hebrews 1:1; 2 Timothy 1:9; Titus 1:2; Hebrews 11;6, 13; Romans 4:1, 2, &c.; Acts 4:12; John 8:56
-)
 
 ## Chapter 8: Of Christ the Mediator
+
+---
 
 ### 
 
@@ -333,6 +425,8 @@ It pleased God, in His eternal purpose, to choose and ordain the Lord Jesus, his
 
 Isaiah 42:1; 1 Peter 1:19, 20; Acts 3:22; Hebrews 5:5, 6; Psalms 2:6; Luke 1:33; Ephesians 1:22, 23; Hebrews 1:2; Acts 17:31; Isaiah 53:10; John 17:6; Romans 8:30
 
+---
+
 ### 
 
 ```text
@@ -340,6 +434,8 @@ The Son of God, the second person in the Holy Trinity, being very and eternal Go
 ```
 
 John 1:14; Galatians 4;4; Romans 8:3; Hebrews 2:14, 16, 17; Hebrews 4:15; Matthew 1:22, 23; Luke 1:27, 31, 35; Romans 9:5; 1 Timothy 2:5
+
+---
 
 ### 
 
@@ -349,6 +445,8 @@ The Lord Jesus, in his human nature thus united to the divine, in the person of 
 
 Psalms 45:7; Acts 10:38; John 3:34; Colossians 2:3; Colossians 1:19; Hebrews 7:26; John 1:14; Hebrews 7:22; Hebrews 5:5; John 5:22, 27; Matthew 28:18; Acts 2:36
 
+---
+
 ### 
 
 ```text
@@ -357,6 +455,8 @@ This office the Lord Jesus did most willingly undertake, which that he might dis
 
 Psalms 40:7, 8; Hebrews 10:5-10; John 10:18; Gal 4:4; Matthew 3:15; Galatians 3:13; Isaiah 53:6; 1 Peter 3:18; 2 Corinthians 5:21; Matthew 26:37, 38; Luke 22:44; Matthew 27:46; Acts 13:37; 1 Corinthians 15:3, 4; John 20:25, 27; Mark 16:19; Acts 1:9-11; Romans 8:34; Hebrews 9:24; Acts 10:42; Romans 14:9, 10; Acts 1:11; 2 Peter 2:4
 
+---
+
 ### 
 
 ```text
@@ -364,6 +464,8 @@ The Lord Jesus, by his perfect obedience and sacrifice of himself, which he thro
 ```
 
 Hebrews 9:14; Hebrews 10:14; Romans 3:25, 26; John 17:2; Hebrews 9:15
+
+---
 
 ### 
 
@@ -375,6 +477,8 @@ efficacy, and benefit thereof were communicated to the elect in all ages, succes
 
 1 Corinthians 4:10; Hebrews 4:2; 1 Peter 1:10, 11; Revelation 13:8; Hebrews 13:8
 
+---
+
 ### 
 
 ```text
@@ -382,6 +486,8 @@ Christ, in the work of mediation, acteth according to both natures, by each natu
 ```
 
 John 3:13; Acts 20:28
+
+---
 
 ### 
 
@@ -391,6 +497,8 @@ To all those for whom Christ hath obtained eternal redemption, he doth certainly
 
 John 6:37; John 10:15, 16; John 17:9; Romans 5:10; John 17:6; Ephesians 1:9; 1 John 5:20; Romans 8:9, 14; Psalms 110:1; 1 Corinthians 15:25, 26; John 3:8; Ephesians 1:8
 
+---
+
 ### 
 
 ```text
@@ -398,6 +506,8 @@ This office of mediator between God and man is proper only to Christ, who is the
 ```
 
 1 Timothy 2:5
+
+---
 
 ### 
 
@@ -409,6 +519,8 @@ John 1:18; Colossians 1:21; Galatians 5:17; John 16:8; Psalms 110:3; Luke 1:74, 
 
 ## Chapter 9: Of Free Will
 
+---
+
 ### 
 
 ```text
@@ -416,6 +528,8 @@ God hath endued the will of man with that natural liberty and power of acting up
 ```
 
 Matthew 17:12; James 1:14; Deuteronomy 30:19
+
+---
 
 ### 
 
@@ -425,6 +539,8 @@ Man, in his state of innocency, had freedom and power to will and to do that whi
 
 Ecclesiastes 7:29; Genesis 3:6
 
+---
+
 ### 
 
 ```text
@@ -432,6 +548,8 @@ Man, by his fall into a state of sin, hath wholly lost all ability of will to an
 ```
 
 Romans 5:6; Romans 8:7; Ephesians 2:1, 5; Titus 3:3-5; John 6:44
+
+---
 
 ### 
 
@@ -441,12 +559,16 @@ When God converts a sinner, and translates him into the state of grace, he freet
 
 Colossians 1:13; John 8:36; Philippians 2:13; Romans 7:15, 18, 19, 21, 23
 
+---
+
 ### 
 
 ```text
 This will of man is made perfectly and immutably free to good alone in the state of glory only. ( Ephesians 4:13
 
 ## Chapter 10: Of Effectual Calling
+
+---
 
 ### 
 
@@ -456,6 +578,8 @@ Those whom God hath predestinated unto life, he is pleased in his appointed, and
 
 Romans 8:30; Romans 11:7; Ephesians 1:10, 11; 2 Thessalonians 2:13, 14; Ephesians 2:1-6; Acts 26:18; Ephesians 1:17, 18; Ezekiel 36:26; Deuteronomy 30:6; Ezekiel 36:27; Ephesians 1:19; Psalm 110:3; Song of Solomon 1:4
 
+---
+
 ### 
 
 ```text
@@ -464,6 +588,8 @@ This effectual call is of God's free and special grace alone, not from anything 
 
 2 Timothy 1:9; Ephesians 2:8; 1 Corinthians 2:14; Ephesians 2:5; John 5:25; Ephesians 1:19, 20
 
+---
+
 ### 
 
 ```text
@@ -471,6 +597,8 @@ Elect infants dying in infancy are regenerated and saved by Christ through the S
 ```
 
 John 3:3, 5, 6; John 3:8
+
+---
 
 ### 
 
@@ -482,6 +610,8 @@ Matthew 22:14; Matthew 13:20, 21; Hebrews 6:4, 5; John 6:44, 45, 65; 1 John 2:24
 
 ## Chapter 11: Of Justification
 
+---
+
 ### 
 
 ```text
@@ -489,6 +619,8 @@ Those whom God effectually calleth, he also freely justifieth, not by infusing r
 ```
 
 Romans 3:24; Romans 8:30; Romans 4:5-8; Ephesians 1:7; 1 Corinthians 1:30, 31; Romans 5:17-19; Philippians 3:8, 9; Ephesians 2:8-10; John 1:12; Romans 5:17
+
+---
 
 ### 
 
@@ -498,10 +630,14 @@ Faith thus receiving and resting on Christ and his righteousness, is the alone i
 
 Romans 3:28; Galatians 5:6; James 2:17, 22, 26
 
+---
+
 ### 
 
 ```text
 Christ, by his obedience and death, did fully discharge the debt of all those that are justified; and did, by the sacrifice of himself in the blood of his cross, undergoing in their stead the penalty due unto them, make a proper, real, and full satisfaction to God's justice in their behalf; yet, inasmuch as he was given by the Father for them, and his obedience and satisfaction accepted in their stead, and both freely, not for anything in them, their justification is only of free grace, that both the exact justice and rich grace of God might be glorified in the justification of sinners. ( Hebrews 10:14; 1 Peter 1:18, 19; Isaiah 53:5, 6; Romans 8:32; 2 Corinthians 5:21; Romans 3:26; Ephesians 1:6,7; Ephesians 2:7
+
+---
 
 ### 
 
@@ -511,6 +647,8 @@ God did from all eternity decree to justify all the elect, and Christ did in the
 
 Galatians 3:8; 1 Peter 1:2; 1 Timothy 2:6; Romans 4:25; Colossians 1:21,22; Titus 3:4-7
 
+---
+
 ### 
 
 ```text
@@ -518,6 +656,8 @@ God doth continue to forgive the sins of those that are justified, and although 
 ```
 
 Matthew 6:12; 1 John 1:7, 9; John 10:28; Psalms 89:31-33; Psalms 32:5; Psalms 51; Matthew 26:75
+
+---
 
 ### 
 
@@ -537,6 +677,8 @@ Lamentations 3:31; Ephesians 4:30; Hebrews 1:14; Hebrews 6:12
 
 ## Chapter 13: Of Sanctification
 
+---
+
 ### 
 
 ```text
@@ -545,6 +687,8 @@ They who are united to Christ, effectually called, and regenerated, having a new
 
 Acts 20:32; Romans 6:5, 6; John 17:17; Ephesians 3:16-19; 1 Thessalonians 5:21-23; Romans 6:14; Galatians 5:24; Colossians 1:11; 2 Corinthians 7:1; Hebrews 12:14
 
+---
+
 ### 
 
 ```text
@@ -552,6 +696,8 @@ This sanctification is throughout the whole man, yet imperfect in this life; the
 ```
 
 1 Thessalonians 5:23; Romans 7:18, 23; Galatians 5:17; 1 Peter 2:11
+
+---
 
 ### 
 
@@ -563,10 +709,14 @@ Romans 7:23; Romans 6:14; Ephesians 4:15, 16; 2 Corinthians 3:18; 2 Corinthians 
 
 ## Chapter 14: Of Saving Faith
 
+---
+
 ### 
 
 ```text
 The grace of faith, whereby the elect are enabled to believe to the saving of their souls, is the work of the Spirit of Christ in their hearts, and is ordinarily wrought by the ministry of the Word; by which also, and by the administration of baptism and the Lord's supper, prayer, and other means appointed of God, it is increased and strengthened. ( 2 Corinthians 4:13; Ephesians 2:8; Romans 10:14, 17; Luke 17:5; 1 Peter 2:2; Acts 20:32
+
+---
 
 ### 
 
@@ -575,6 +725,8 @@ By this faith a Christian believeth to be true whatsoever is revealed in the Wor
 ```
 
 Acts 24:14; Psalms 27:7-10; Psalms 119:72; 2 Timothy 1:12; John 14:14; Isaiah 66:2; Hebrews 11:13; John 1:12; Acts 16:31; Galatians 2:20; Acts 15:11
+
+---
 
 ### 
 
@@ -586,10 +738,14 @@ Hebrews 5:13, 14; Matthew 6:30; Romans 4:19, 20; 2 Peter 1:1; Ephesians 6:16; 1 
 
 ## Chapter 15: Of Repentance Unto Life and Salvation
 
+---
+
 ### 
 
 ```text
 Such of the elect as are converted at riper years, having sometime lived in the state of nature, and therein served divers lusts and pleasures, God in their effectual calling giveth them repentance unto life. ( Titus 3:2-5
+
+---
 
 ### 
 
@@ -599,6 +755,8 @@ Whereas there is none that doth good and sinneth not, and the best of men may, t
 
 Ecclesiastes 7:20; Luke 22:31, 32
 
+---
+
 ### 
 
 ```text
@@ -607,6 +765,8 @@ This saving repentance is an evangelical grace, whereby a person, being by the H
 
 Zechariah 12:10; Acts 11:18; Ezekiel 36:31; 2 Corinthians 7:11; Psalms 119:6; Psalms 119:128
 
+---
+
 ### 
 
 ```text
@@ -614,6 +774,8 @@ As repentance is to be continued through the whole course of our lives, upon the
 ```
 
 Luke 19:8; 1 Timothy 1:13, 15
+
+---
 
 ### 
 
@@ -625,6 +787,8 @@ Romans 6:23; Isaiah 1:16-18 Isaiah 55:7
 
 ## Chapter 16: Of Good Works
 
+---
+
 ### 
 
 ```text
@@ -632,6 +796,8 @@ Good works are only such as God hath commanded in his Holy Word, and not such as
 ```
 
 Micah 6:8; Hebrews 13:21; Matthew 15:9; Isaiah 29:13
+
+---
 
 ### 
 
@@ -641,6 +807,8 @@ These good works, done in obedience to God's commandments, are the fruits and ev
 
 James 2:18, 22; Psalms 116:12, 13; 1 John 2:3, 5; 2 Peter 1:5-11; Matthew 5:16; 1 Timothy 6:1; 1 Peter 2:15; Philippians 1:11; Ephesians 2:10; Romans 6:22
 
+---
+
 ### 
 
 ```text
@@ -648,6 +816,8 @@ Their ability to do good works is not at all of themselves, but wholly from the 
 ```
 
 John 15:4, 5; 2 Corinthians 3:5; Philippians 2:13; Philippians 2:12; Hebrews 6:11, 12; Isaiah 64:7
+
+---
 
 ### 
 
@@ -657,6 +827,8 @@ They who in their obedience attain to the greatest height which is possible in t
 
 Job 9:2-3; Galatians 5:17; Luke 17:10
 
+---
+
 ### 
 
 ```text
@@ -665,6 +837,8 @@ We cannot by our best works merit pardon of sin or eternal life at the hand of G
 
 Romans 3:20; Ephesians 2:8, 9; Romans 4:6; Galatians 5:22, 23; Isaiah 64:6; Psalms 143:2
 
+---
+
 ### 
 
 ```text
@@ -672,6 +846,8 @@ Yet notwithstanding the persons of believers being accepted through Christ, thei
 ```
 
 Ephesians 1:6; 1 Peter 2:5; Matthew 25:21, 23; Hebrews 6:10
+
+---
 
 ### 
 
@@ -685,6 +861,8 @@ Works done by unregenerate men, although for the matter of them they may be thin
 
 ## Chapter 17: Of The Perseverance of the Saints
 
+---
+
 ### 
 
 ```text
@@ -693,6 +871,8 @@ Those whom God hath accepted in the beloved, effectually called and sanctified b
 
 John 10:28, 29; Philippians 1:6; 2 Timothy 2:19; 1 John 2:19; Psalms 89:31, 32; 1 Corinthians 11:32; Malachi 3:6
 
+---
+
 ### 
 
 ```text
@@ -700,6 +880,8 @@ This perseverance of the saints depends not upon their own free will, but upon t
 ```
 
 Romans 8:30 Romans 9:11, 16; Romans 5:9, 10; John 14:19; Hebrews 6:17, 18; 1 John 3:9; Jeremiah 32:40
+
+---
 
 ### 
 
@@ -711,6 +893,8 @@ Matthew 26:70, 72, 74; Isaiah 64:5, 9; Ephesians 4:30; Psalms 51:10, 12; Psalms 
 
 ## Chapter 18: Of the Assurance of Grace and Salvation
 
+---
+
 ### 
 
 ```text
@@ -718,6 +902,8 @@ Although temporary believers, and other unregenerate men, may vainly deceive the
 ```
 
 Job 8:13, 14; Matthew 7:22, 23; 1 John 2:3; 1 John 3:14, 18, 19, 21, 24; 1 John 5:13; Romans 5:2, 5
+
+---
 
 ### 
 
@@ -727,6 +913,8 @@ This certainty is not a bare conjectural and probable persuasion grounded upon a
 
 Hebrews 6:11, 19; Hebrews 6:17, 18; 2 Peter 1:4, 5, 10, 11; Romans 8:15, 16; 1 John 3:1-3
 
+---
+
 ### 
 
 ```text
@@ -734,6 +922,8 @@ This infallible assurance doth not so belong to the essence of faith, but that a
 ```
 
 Isaiah 50:10; Psalms 88; Psalms 77:1-12; 1 John 4:13; Hebrews 6:11, 12; Romans 5:1, 2, 5; Romans 14:17; Psalms 119:32; Romans 6:1,2; Titus 2:11, 12, 14
+
+---
 
 ### 
 
@@ -745,6 +935,8 @@ Canticles 5:2, 3, 6; Psalms 51:8, 12, 14; Psalms 116:11; Psalms 77:7, 8; Psalms 
 
 ## Chapter 19: Of the Law of God
 
+---
+
 ### 
 
 ```text
@@ -752,6 +944,8 @@ God gave to Adam a law of universal obedience written in his heart, and a partic
 ```
 
 Genesis 1:27; Ecclesiastes 7:29; Romans 10:5; Galatians 3:10, 12
+
+---
 
 ### 
 
@@ -761,6 +955,8 @@ The same law that was first written in the heart of man continued to be a perfec
 
 Romans 2:14, 15; Deuteronomy 10:4
 
+---
+
 ### 
 
 ```text
@@ -768,6 +964,8 @@ Besides this law, commonly called moral, God was pleased to give to the people o
 ```
 
 Hebrews 10:1; Colossians 2:17; 1 Corinthians 5:7; Colossians 2:14, 16, 17; Ephesians 2:14, 16
+
+---
 
 ### 
 
@@ -777,6 +975,8 @@ To them also he gave sundry judicial laws, which expired together with the state
 
 1 Corinthians 9:8-10
 
+---
+
 ### 
 
 ```text
@@ -785,6 +985,8 @@ The moral law doth for ever bind all, as well justified persons as others, to th
 
 Romans 13:8-10; James 2:8, 10-12; James 2:10, 11; Matthew 5:17-19; Romans 3:31
 
+---
+
 ### 
 
 ```text
@@ -792,6 +994,8 @@ Although true believers be not under the law as a covenant of works, to be there
 ```
 
 Romans 6:14; Galatians 2:16; Romans 8:1; Romans 10:4; Romans 3:20; Romans 7:7, etc; Romans 6:12-14; 1 Peter 3:8-13
+
+---
 
 ### 
 
@@ -803,6 +1007,8 @@ Galatians 3:21; Ezekiel 36:27
     
 ## Chapter 20: Of the Gospel, and of the Extent of the Grace Thereof
 
+---
+
 ### 
 
 ```text
@@ -810,6 +1016,8 @@ The covenant of works being broken by sin, and made unprofitable unto life, God 
 ```
 
 Genesis 3:15; Revelation 13:8
+
+---
 
 ### 
 
@@ -819,6 +1027,8 @@ This promise of Christ, and salvation by him, is revealed only by the Word of Go
 
 Romans 1:17; Romans 10:14,15,17; Proverbs 29:18; Isaiah 25:7; Isaiah 60:2, 3
 
+---
+
 ### 
 
 ```text
@@ -826,6 +1036,8 @@ The revelation of the gospel unto sinners, made in divers times and by sundry pa
 ```
 
 Psalms 147:20; Acts 16:7; Romans 1:18-32
+
+---
 
 ### 
 
@@ -837,6 +1049,8 @@ Psalms 110:3; 1 Corinthians 2:14; Ephesians 1:19, 20; John 6:44; 2 Corinthians 4
 
 ## Chapter 21: Of Christian Liberty and Liberty of Conscience
 
+---
+
 ### 
 
 ```text
@@ -846,6 +1060,8 @@ All which were common also to believers under the law for the substance of them;
 
 Galatians 3:13; Galatians 1:4; Acts 26:18; Romans 8:3; Romans 8:28; 1 Corinthians 15:54-57; 2 Thessalonians 1:10; Romans 8:15; Luke 1:73-75; 1 John 4:18; Galatians 3:9, 14; John 7:38, 39; Hebrews 10:19-21
 
+---
+
 ### 
 
 ```text
@@ -853,6 +1069,8 @@ God alone is Lord of the conscience, and hath left it free from the doctrines an
 ```
 
 James 4:12; Romans 14:4; Acts 4:19, 29; 1 Corinthians 7:23; Matthew 15:9; Colossians 2:20, 22, 23; 1 Corinthians 3:5; 2 Corinthians 1:24
+
+---
 
 ### 
 
@@ -864,6 +1082,8 @@ Romans 6:1, 2; Galatians 5:13; 2 Peter 2:18, 21
 
 ## Chapter 22: Of Religious Worship and the Sabbath Day
 
+---
+
 ### 
 
 ```text
@@ -871,6 +1091,8 @@ The light of nature shews that there is a God, who hath lordship and sovereignty
 ```
 
 Jeremiah 10:7; Mark 12:33; Deuteronomy 12:32; Exodus 20:4-6
+
+---
 
 ### 
 
@@ -880,6 +1102,8 @@ Religious worship is to be given to God the Father, Son, and Holy Spirit, and to
 
 Matthew 4:9, 10; John 6:23; Matthew 28:19; Romans 1:25; Colossians 2:18; Revelation 19:10; John 14:6; 1 Timothy 2:5
 
+---
+
 ### 
 
 ```text
@@ -888,6 +1112,8 @@ Prayer, with thanksgiving, being one part of natural worship, is by God required
 
 Psalms 95:1-7; Psalms 65:2; John 14:13, 14; Romans 8:26; 1 John 5:14; 1 Corinthians 14:16, 17
 
+---
+
 ### 
 
 ```text
@@ -895,6 +1121,8 @@ Prayer is to be made for things lawful, and for all sorts of men living, or that
 ```
 
 1 Timothy 2:1, 2; 2 Samuel 7:29; 2 Samuel 12:21-23; 1 John 5:16
+
+---
 
 ### 
 
@@ -905,6 +1133,8 @@ The reading of the Scriptures, preaching, and hearing the Word of God, teaching 
 1 Timothy 4:13; 2 Timothy 4:2; Luke 8:18; Colossians 3:16; Ephesians 5:19; Matthew 28:19, 20; 1 Corinthians
 11:26; Esther 4:16; Joel 2:12; Exodus 15:1-19, Psalms 107
 
+---
+
 ### 
 
 ```text
@@ -912,6 +1142,8 @@ Neither prayer nor any other part of religious worship, is now under the gospel,
 ```
 
 John 4:21; Malachi 1:11; 1 Timothy 2:8; Acts 10:2; Matthew 6:11; Psalms 55:17; Matthew 6:6; Hebrews 10:25; Acts 2:42
+
+---
 
 ### 
 
@@ -923,6 +1155,8 @@ world to the resurrection of Christ was the last day of the week, and from the r
 
 Exodus 20:8; 1 Corinthians 16:1, 2; Acts 20:7; Revelation 1:10
 
+---
+
 ### 
 
 ```text
@@ -933,6 +1167,8 @@ Isaiah 58:13; Nehemiah 13:15-22; Matthew 12:1-13
 
 ## Chapter 23: Of Lawful Oaths and Vows
 
+---
+
 ### 
 
 ```text
@@ -940,6 +1176,8 @@ A lawful oath is a part of religious worship, wherein the person swearing in tru
 ```
 
 Exodus 20:7; Deuteronomy 10:20; Jeremiah 4:2; 2 Chronicles 6:22, 23
+
+---
 
 ### 
 
@@ -949,6 +1187,8 @@ The name of God only is that by which men ought to swear; and therein it is to b
 
 Matthew 5:34, 37; James 5:12; Hebrews 6:16; 2 Corinthians 1:23; Nehemiah 13:25
 
+---
+
 ### 
 
 ```text
@@ -957,13 +1197,17 @@ Whosoever taketh an oath warranted by the Word of God, ought duly to consider th
 
 Leviticus 19:12; Jeremiah 23:10
 
+---
+
 ### 
 
 ```text
 An oath is to be taken in the plain and common sense of the words, without equivocation or mental reservation.
 ```
 
-Psalms 24:4 (Ps. 24:4)
+Psalms 24:4
+
+---
 
 ### 
 
@@ -975,6 +1219,8 @@ Psalms 76:11; Genesis 28:20-22; 1 Corinthians 7:2, 9; Ephesians 4:28; Matthew 19
 
 ## Chapter 24: Of the Civil Magistrate
 
+---
+
 ### 
 
 ```text
@@ -983,6 +1229,8 @@ God, the supreme Lord and King of all the world, hath ordained civil magistrates
 
 Romans 13:1-4
 
+---
+
 ### 
 
 ```text
@@ -990,6 +1238,8 @@ It is lawful for Christians to accept and execute the office of a magistrate whe
 ```
 
 2 Samuel 23:3; Psalms 82:3, 4; Luke 3:14
+
+---
 
 ### 
 
@@ -1001,6 +1251,8 @@ Romans 13:5-7; 1 Peter 2:17; 1 Timothy 2:1, 2
 
 ## Chapter 25: Of Marriage
 
+---
+
 ### 
 
 ```text
@@ -1008,6 +1260,8 @@ Marriage is to be between one man and one woman; neither is it lawful for any ma
 ```
 
 Genesis 2:24; Malachi 2:15; Matthew 19:5,6
+
+---
 
 ### 
 
@@ -1017,6 +1271,8 @@ Marriage was ordained for the mutual help of husband and wife, for the increase 
 
 Genesis 2:18; Genesis 1:28; 1 Corinthians 7:2, 9
 
+---
+
 ### 
 
 ```text
@@ -1024,6 +1280,8 @@ It is lawful for all sorts of people to marry, who are able with judgment to giv
 ```
 
 Hebrews 13:4; 1 Timothy 4:3; 1 Corinthians 7:39; Nehemiah 13:25-27
+
+---
 
 ### 
 
@@ -1035,6 +1293,8 @@ Leviticus 18; Mark 6:18; 1 Corinthians 5:1
 
 ## Chapter 26: Of the Church
 
+---
+
 ### 
 
 ```text
@@ -1043,10 +1303,14 @@ The catholic or universal church, which (with respect to the internal work of th
 
 Hebrews 12:23; Colossians 1:18; Ephesians 1:10, 22, 23; Ephesians 5:23, 27, 32
 
+---
+
 ### 
 
 ```text
 All persons throughout the world, professing the faith of the gospel, and obedience unto God by Christ according unto it, not destroying their own profession by any errors everting the foundation, or unholiness of conversation, are and may be called visible saints; and of such ought all particular congregations to be constituted. ( 1 Corinthians 1:2; Acts 11:26; Romans 1:7; Ephesians 1:20-22
+
+---
 
 ### 
 
@@ -1057,6 +1321,8 @@ The purest churches under heaven are subject to mixture and error; and some have
 1 Corinthians 5; Revelation 2; Revelation 3; Revelation 18:2; 2 Thessalonians 2:11, 12; Matthew 16:18; Psalms
 72:17; Psalm 102:28; Revelation 12:17
 
+---
+
 ### 
 
 ```text
@@ -1064,6 +1330,8 @@ The Lord Jesus Christ is the Head of the church, in whom, by the appointment of 
 ```
 
 Colossians 1:18; Matthew 28:18-20; Ephesians 4:11, 12; 2 Thessalonians 2:2-9
+
+---
 
 ### 
 
@@ -1073,6 +1341,8 @@ In the execution of this power wherewith he is so intrusted, the Lord Jesus call
 
 John 10:16; John 12:32; Matthew 28:20; Matthew 18:15-20
 
+---
+
 ### 
 
 ```text
@@ -1081,6 +1351,8 @@ The members of these churches are saints by calling, visibly manifesting and evi
 
 Romans. 1:7; 1 Corinthians 1:2; Acts 2:41, 42; Acts 5:13, 14; 2 Corinthians 9:13
 
+---
+
 ### 
 
 ```text
@@ -1088,6 +1360,8 @@ To each of these churches thus gathered, according to his mind declared in his w
 ```
 
 Matthew 18:17, 18; 1 Corinthians 5:4, 5; 1 Corinthians 5:13; 2 Corinthians 2:6-8
+
+---
 
 ### 
 
@@ -1099,6 +1373,8 @@ and members; and the officers appointed by Christ to be chosen and set apart by 
 
 Acts 20:17, 28; Philippians 1:1
 
+---
+
 ### 
 
 ```text
@@ -1106,6 +1382,8 @@ The way appointed by Christ for the calling of any person, fitted and gifted by 
 ```
 
 Acts 14:23; 1 Timothy 4:14; Acts 6:3, 5, 6
+
+---
 
 ### 
 
@@ -1115,6 +1393,8 @@ The work of pastors being constantly to attend the service of Christ, in his chu
 
 Acts 6:4; Hebrews 13:17; 1 Timothy 5:17, 18; Galatians 6:6, 7; 2 Timothy 2:4; 1 Timothy 3:2; 1 Corinthians 9:6-14
 
+---
+
 ### 
 
 ```text
@@ -1122,6 +1402,8 @@ Although it be incumbent on the bishops or pastors of the churches, to be instan
 ```
 
 Acts 11:19-21; 1 Peter 4:10, 11
+
+---
 
 ### 
 
@@ -1131,6 +1413,8 @@ As all believers are bound to join themselves to particular churches, when and w
 
 1 Thessalonians 5:14; 2 Thessalonians 3:6, 14, 15
 
+---
+
 ### 
 
 ```text
@@ -1139,6 +1423,8 @@ No church members, upon any offence taken by them, having performed their duty r
 
 Matthew 18:15-17; Ephesians 4:2, 3
 
+---
+
 ### 
 
 ```text
@@ -1146,6 +1432,8 @@ As each church, and all the members of it, are bound to pray continually for the
 ```
 
 Ephesians 6:18; Psalms 122:6; Romans 16:1, 2; 3 John 8-10
+
+---
 
 ### 
 
@@ -1157,6 +1445,8 @@ Acts 15:2, 4, 6, 22, 23, 25; 2 Corinthians 1:24; 1 John 4:1
 
 ## Chapter 27: Of the Communion of Saints
 
+---
+
 ### 
 
 ```text
@@ -1164,6 +1454,8 @@ All saints that are united to Jesus Christ, their head, by his Spirit, and faith
 ```
 
 1 John 1:3; John 1:16; Philippians 3:10; Romans 6:5, 6; Ephesians 4:15, 16; 1 Corinthians 12:7; 1 Corinthians 3:21- 23; 1 Thessalonians 5:11, 14; Romans 1:12; 1 John 3:17, 18; Galatians 6:10
+
+---
 
 ### 
 
@@ -1175,6 +1467,8 @@ Hebrews 10:24, 25; Hebrews 3:12, 13; Acts 11:29, 30; Ephesians 6:4; 1 Corinthian
 
 ## Chapter 28: Of Baptism and the Lord's Supper
 
+---
+
 ### 
 
 ```text
@@ -1182,6 +1476,8 @@ Baptism and the Lord's Supper are ordinances of positive and sovereign instituti
 ```
 
 Matthew 28:19, 20; 1 Corinthians 11:26
+
+---
 
 ### 
 
@@ -1193,6 +1489,8 @@ Matthew 28:19; 1 Corinthians 4:1
 
 ## Chapter 29: Of Baptism
 
+---
+
 ### 
 
 ```text
@@ -1200,6 +1498,8 @@ Baptism is an ordinance of the New Testament, ordained by Jesus Christ, to be un
 ```
 
 Romans 6:3-5; Colossians 2;12; Galatians 3:27; Mark 1:4; Acts 22:16; Romans 6:4
+
+---
 
 ### 
 
@@ -1209,6 +1509,8 @@ Those who do actually profess repentance towards God, faith in, and obedience to
 
 Mark 16:16; Acts 8:36, 37; Acts 2:41; Acts 8:12; Acts 18:8
 
+---
+
 ### 
 
 ```text
@@ -1217,12 +1519,16 @@ The outward element to be used in this ordinance is water, wherein the party is 
 
 Matthew 28:19, 20; Acts 8:38
 
+---
+
 ### 
 
 ```text
 Immersion, or dipping of the person in water, is necessary to the due administration of this ordinance. ( Matthew 3:16; John 3:23
 
 ## Chapter 30: Of the Lord's Supper
+
+---
 
 ### 
 
@@ -1232,6 +1538,8 @@ The supper of the Lord Jesus was instituted by him the same night wherein he was
 
 1 Corinthians 11:23-26; 1 Corinthians 10:16, 17,21
 
+---
+
 ### 
 
 ```text
@@ -1239,6 +1547,8 @@ In this ordinance Christ is not offered up to his Father, nor any real sacrifice
 ```
 
 Hebrews 9:25, 26, 28; 1 Corinthians 11:24; Matthew 26:26, 27
+
+---
 
 ### 
 
@@ -1248,6 +1558,8 @@ The Lord Jesus hath, in this ordinance, appointed his ministers to pray, and ble
 
 1 Corinthians 11:23-26, etc.
 
+---
+
 ### 
 
 ```text
@@ -1255,6 +1567,8 @@ The denial of the cup to the people, worshipping the elements, the lifting them 
 ```
 
 Matthew 26:26-28; Matthew 15:9; Exodus 20:4, 5
+
+---
 
 ### 
 
@@ -1264,6 +1578,8 @@ The outward elements in this ordinance, duly set apart to the use ordained by Ch
 
 1 Corinthians 11:27; 1 Corinthians 11:26-28
 
+---
+
 ### 
 
 ```text
@@ -1272,6 +1588,8 @@ That doctrine which maintains a change of the substance of bread and wine, into 
 
 Acts 3:21; Luke 14:6, 39; 1 Corinthians 11:24, 25
 
+---
+
 ### 
 
 ```text
@@ -1279,6 +1597,8 @@ Worthy receivers, outwardly partaking of the visible elements in this ordinance,
 ```
 
 1 Corinthians 10:16; 1 Corinthians 11:23-26
+
+---
 
 ### 
 
@@ -1292,6 +1612,8 @@ mysteries, or be admitted thereunto; yea, whosoever shall receive unworthily, ar
 
 ## Chapter 31: Of the State of Man after Death and Of the Resurrection of the Dead
 
+---
+
 ### 
 
 ```text
@@ -1300,6 +1622,8 @@ The bodies of men after death return to dust, and see corruption; but their soul
 
 Genesis 3:19; Acts 13:36; Ecclesiastes 12:7; Luke 23:43; 2 Corinthians 5:1, 6,8; Philippians 1:23; Hebrews 12:23; Jude 6, 7; 1 Peter 3:19; Luke 16:23, 24
 
+---
+
 ### 
 
 ```text
@@ -1307,6 +1631,8 @@ At the last day, such of the saints as are found alive, shall not sleep, but be 
 ```
 
 1 Corinthians 15:51, 52; 1 Thessalonians 4:17; Job 19:26, 27; 1 Corinthians 15:42, 43
+
+---
 
 ### 
 
@@ -1318,6 +1644,8 @@ Acts 24:15; John 5:28, 29; Philippians 3:21
 
 ## Chapter 32: Of the Last Judgment
 
+---
+
 ### 
 
 ```text
@@ -1326,6 +1654,8 @@ God hath appointed a day wherein he will judge the world in righteousness, by Je
 
 Acts 17:31; John 5:22, 27; 1 Corinthians 6:3; Jude 6; 2 Corinthians 5:10; Ecclesiastes 12:14; Matthew 12:36; Romans 14:10, 12; Matthew 25:32-46
 
+---
+
 ### 
 
 ```text
@@ -1333,6 +1663,8 @@ The end of God's appointing this day, is for the manifestation of the glory of h
 ```
 
 Romans 9:22, 23; Matthew 25:21, 34; 2 Timothy 4:8; Matthew 25:46; Mark 9:48; 2 Thessalonians 1:7-10
+
+---
 
 ### 
 
