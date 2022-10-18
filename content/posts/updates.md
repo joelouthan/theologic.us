@@ -18,6 +18,8 @@ For those who do not know: All the confessions are essentially the same chapters
 
 I thought and prayed about this for a while. I have decided to switch gears and convert my work from expositing the WCF to the 1689 because of where my church is going. The work so far will not be in vain. And I think it would be wise to continue using the resources that I have been using for the WCF.
 
+(Be prepare for some transitioning. 1689/WCF section might be a little messy for a moment. -Ed.)
+
 ## Pastorals: FINISHED
 
 **Thursday, September 8, 2022** - First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.
