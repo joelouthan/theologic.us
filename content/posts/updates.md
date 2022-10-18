@@ -1,7 +1,7 @@
 ---
 title: Updates
 author: Joseph Louthan
-date: 2022-09-14T06:00:00-05:00
+date: 2022-10-14T06:00:00-05:00
 url: "/updates/"
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 
 ## Backing off: Bible Survey & Switching from WCF to 1689
 
-So I just got the word from the elders that we will make the transition from Calvary Chapel to Reformed Baptist 1689 2nd London Baptist Confession by the end of the year.
+**Tuesday, October 18, 2022** - So I just got the word from the elders that we will make the transition from Calvary Chapel to Reformed Baptist 1689 2nd London Baptist Confession by the end of the year.
 
 I am going to put the Survey on hold and go back to weekly expositions of the Westminster Confession.
 
@@ -18,21 +18,21 @@ For those who do not know: All the confessions are essentially the same chapters
 
 I thought and prayed about this for a while. I have decided to switch gears and convert my work from expositing the WCF to the 1689 because of where my church is going. The work so far will not be in vain. And I think it would be wise to continue using the resources that I have been using for the WCF.
 
-## 20220908S Pastorals: FINISHED
+## Pastorals: FINISHED
 
-First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.
+**Thursday, September 8, 2022** - First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.
 
-### Coming Soon! OT & NT Survey
+## ~~Coming Soon! OT & NT Survey~~
 
-I had a pastor friend of my, Alex, who is preaching and evangelizing in Kenya, asked me to come teach the Bible to him and his pastor friends.
+~~**Sunday, September 4, 2022** - I had a pastor friend of my, Alex, who is preaching and evangelizing in Kenya, asked me to come teach the Bible to him and his pastor friends.~~
 
-I wasn't sure if I would have the budget for such an adventure at least for a couple years. More so than that, what could I teach?
+~~I wasn't sure if I would have the budget for such an adventure at least for a couple years. More so than that, what could I teach?~~
 
-So I will write out a Survey on the Old and New Testaments. That will be the new Tuesday series.
+~~So I will write out a Survey on the Old and New Testaments. That will be the new Tuesday series.~~
 
-## 20220914T Stripping the Media links
+## Stripping the Media links
 
-I have prayed and meditate on this decision for a long while. I decided to strip the media links to the individual post. I will keep the links to YouTube, Twitch, Podcasts on the home page.
+**Sunday, August 14, 2022** - I have prayed and meditate on this decision for a long while. I decided to strip the media links to the individual post. I will keep the links to YouTube, Twitch, Podcasts on the home page.
 
 What does this mean?
 
@@ -40,9 +40,9 @@ Doesn't mean I won't keep recording and broadcasting. Honestly, externally going
 
 What it does mean that the recordings are not the main focus of Theologicus. This site, my blog, my recordings' main focus is to know the word of God. Ergo, honestly, nothing more than a really big bag of study notes.
 
-## 20220508S From Podcasts to Commentary Set
+## From Podcasts to Commentary Set
 
-So here's the real deal: the Internet at my rural home in Kentucky is a struggle bus. By God's good grace, it is good enough for my wife and I to get work done during the day and we can stream a movie at night. But live streaming and/or uploading videos is a real chore.
+**Sunday, May 8, 2022** - So here's the real deal: the Internet at my rural home in Kentucky is a struggle bus. By God's good grace, it is good enough for my wife and I to get work done during the day and we can stream a movie at night. But live streaming and/or uploading videos is a real chore.
 
 So I had to step back and look at the bigger picture: what do I really want to do. What I figured out is that the podcast/videos/"radio" episodes is really just an extension and the effect of the writing.
 
