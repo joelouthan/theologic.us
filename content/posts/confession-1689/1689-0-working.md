@@ -11,7 +11,7 @@ series:
 - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 **Adopted by the Ministers and Messengers of the general assembly which met in London in 1689**

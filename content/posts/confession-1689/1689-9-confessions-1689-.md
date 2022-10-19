@@ -58,29 +58,29 @@ draft: true
 
 ## The Resources
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
+<img src="/images/resources/confession-sproul-truths-we-confess.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
 Sproul, R. C.    
 Orlando: Reformation Trust, 2019.  
-[Amazon](https://amzn.to/3tdrQyf)
+[Goodreads](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)
 
 ___
-<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
+<img src="/images/resources/confession-sproul-truths-we-confess.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
 Sproul, R. C.    
 Orlando: Reformation Trust, 2019.  
-[Amazon](https://amzn.to/3tdrQyf)
+[Goodreads](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)
 
 ___
-<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
+<img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
 The Directory for the Public Worship of God, with Associated Historical Documents. 2018.   
-[Amazon](https://amzn.to/34ok0az)
+[Goodreads](https://www.goodreads.com/book/show/39905592-the-westminster-confession?ac=1&from_search=true&qid=oMfahlcldC&rank=1)
 
 ___
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
+<img src="/images/resources/cbook-trueman-the-creedal-imperative.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
 Crossway, 2012.  
-[Amazon](https://amzn.to/34gzOMl)
+[Goodreads](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)
 
 ___
 

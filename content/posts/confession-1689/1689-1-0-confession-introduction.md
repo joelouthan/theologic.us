@@ -11,7 +11,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Introduction
 
@@ -55,7 +55,7 @@ Of course, I am not a heathen: where I copy word for word, I will footnote it wi
 
 ___
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91Ce5gPJWRL.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://amzn.to/3tdrQyf)  
+[<img src="/images/resources/confession-sproul-truths-we-confess.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)  
 by R.C. Sproul.  
 Reformation Trust Publishing. 2019.
 
@@ -69,7 +69,7 @@ And in God's great grace, this book was released shortly after his death. This b
 
 ___
 
-[<img src="https://banneroftruth.org/us/wp-content/uploads/sites/2/2018/04/westminster-confession.jpg" align="left" width="150" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://amzn.to/34ok0az).  
+[<img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="150" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://www.goodreads.com/book/show/39905592-the-westminster-confession?ac=1&from_search=true&qid=oMfahlcldC&rank=1)  
 The Westminster Divines.  
 Banner of Truth. 2018.
 
@@ -89,7 +89,7 @@ So when I saw the full Biblical references on this resource for the Westminster 
 
 ___
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91dj-UoPpxL.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative](https://amzn.to/34gzOMl)  
+[<img src="/images/resources/cbook-trueman-the-creedal-imperative.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)  
 by Carl Trueman.  
 Crossway. 2012.
 

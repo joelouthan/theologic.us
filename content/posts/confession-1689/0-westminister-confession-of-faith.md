@@ -10,7 +10,7 @@ series:
   - "Westminster Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## CHAPTER 1 Of the Holy Scripture
 
