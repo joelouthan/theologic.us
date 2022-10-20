@@ -233,7 +233,7 @@ Rayny & Ty
 
 > My neighbors Jack, Amy, River and Quinn. My husband Ty my Mom and Dad StepDad Patrick brothers and sisters Lionne, Max & Meghan. ❤️❤️❤️
 
-Elijah & Annie, Aspen, Annabloom
+Elijah & Annie, Aspen, Ana Bloom
 
 Michael & Lindsey, Anna & Emily (visiting family from Georgetown)
 
