@@ -135,8 +135,7 @@ Give me your power to murder my sin.
 
 Amen.
 
-
-## Resources
+## The Resources
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="100" style="padding-right: 10px" />Christian Standard Bible](https://amzn.to/3FbGqbM).  
 Holmon Publishing. 2020.  
