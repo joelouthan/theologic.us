@@ -206,100 +206,85 @@ I believe in you. Save me!
 Amen.
 
 
-## Resources
+## The Resources
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="100" style="padding-right: 10px" />Christian Standard Bible](https://amzn.to/3FbGqbM).  
-Holmon Publishing. 2020.  
-&nbsp;
+<p style="clear:both;">
 
-___
-
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38).  
-Crossway. 2016.
-
-&nbsp;
-
-___
-
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
-Baker. 2009.
+Baker. 2009.  
+[Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
 
-&nbsp;
+<p style="clear:both;">
 
-___
+---
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51utvezkAcL._SX323_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />No Condemnation in Christ Jesus: As Unfolded in the Eighth Chapter of the Epistle to the Romans](https://amzn.to/3zDFiMZ).  
+<img src="/images/resources/book-winslow-no-condemnation.jpg" align="left" width="100" style="padding-right: 10px" />No Condemnation in Christ Jesus: As Unfolded in the Eighth Chapter of the Epistle to the Romans  
 by Octavius Winslow.  
 Banner of Trust. 1991.  
-&nbsp;  
-
-___
+[Goodreads](https://www.goodreads.com/book/show/4011534-no-condemnation-in-christ-jesus?ac=1&from_search=true&qid=K1waoHAVw7&rank=1)
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51enHREddML._SX343_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Romans: An Expositional Commentary](https://amzn.to/3GaYTGJ).  
+---
+
+<img src="/images/resources/commentary-sproul-romans.jpg" align="left" width="100" style="padding-right: 10px" />Romans: An Expositional Commentary  
 by R.C. Sproul.  
 Reformation Trust Publishing. 2019.  
-
-&nbsp;
-
-___
+[Goodreads](https://www.goodreads.com/book/show/6468546-romans?ac=1&from_search=true&qid=xl3x8afdFN&rank=2)
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/510tS0bc3jL._SX336_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />The Letter to the Romans (New International Commentary on the New Testament (NICNT))](https://amzn.to/3tcauBO).  
-by Douglas Moo.  
-First Edition.  
+---
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/510tS0bc3jL._SX336_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />The Letter to the Romans (New International Commentary on the New Testament (NICNT))  
+by Douglas Moo.    
 Eerdmans. 1996.  
-
-___
+[Goodreads](https://www.goodreads.com/book/show/48640436-the-letter-to-the-romans-new-international-commentary-on-the-new-testam?ac=1&from_search=true&qid=K0oRkdrYXP&rank=1)
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51JRo7sUdGL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />New Testament Commentary: Romans: Chapters 1-16](https://amzn.to/3zHvu4D).  
+---
+
+<img src="/images/resources/commentary-hendricksen-romans.webp" align="left" width="100" style="padding-right: 10px" />New Testament Commentary: Romans: Chapters 1-16  
 by William Hendriksen.  
 Baker. 1992.  
-
-&nbsp;
-
-___
+[Goodreads](https://www.goodreads.com/book/show/6033721-romans?ac=1&from_search=true&qid=VSDDrJALl9&rank=1)
 
 <p style="clear:both;">
 
-[<img src="https://books.google.com/books/content?id=nn1EAAAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72sbduWDe-FDdpJWpEdxA39XGAk1Gn13nRRTn19x0PuOx37CIrB_n2nhpSVq7yoiqH1iW6sP9z5Yug16kxtKECC1uxXNf6EawIr8vLirT5K_YS7G7ji9NtjXaKf_FVMtPRbBX4B" align="left" width="100" style="padding-right: 10px" />Romans](https://amzn.to/3zFAIxv).  
+---
+
+<img src="/images/resources/commentary-plumer-romans.jpeg" align="left" width="100" style="padding-right: 10px" />Romans  
 by William S. Plumer.  
 Kregel. 1993.  
-
-&nbsp;
-
-___
+[Goodreads](https://www.goodreads.com/book/show/3189435-commentary-on-romans?ac=1&from_search=true&qid=pinspEBLVG&rank=1)
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41Oh-dWTyCL._SX318_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)](https://amzn.to/33hjElg).  
+---
+
+<img src="/images/resources/commentary-mounce-romans.jpg" align="left" width="100" style="padding-right: 10px" />Romans: An Exegetical and Theological Exposition of Holy Scripture (The New American Commentary)  
 by Robert Mounce.  
 Holmon Reference. 1995.  
-&nbsp;
-
-___
+[Goodreads](https://www.goodreads.com/book/show/1652633.Romans?ac=1&from_search=true&qid=t43icJXUYR&rank=2)
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51XmpThqFeS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />Romans (Ancient Christian Commentary on Scripture, NT Volume 6)](https://amzn.to/3HLaNra).  
+---
+
+<img src="/images/resources/commentary-bray-romans.webp" align="left" width="100" style="padding-right: 10px" />Romans (Ancient Christian Commentary on Scripture, NT Volume 6)  
 Edited by Gerald L. Bray.  
 IVP Academic. 2005.  
-
-&nbsp;
-
-___
+[Goodreads](https://www.goodreads.com/book/show/32922759-romans?ac=1&from_search=true&qid=O8EDAlniS5&rank=1)
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41yNgHWAm0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" align="left" width="100" style="padding-right: 10px" />Commentary on Romans](https://amzn.to/3r13Tat).  
-by Martin Luther.  
-Kregel. 2003.
+---
 
-&nbsp;
+<img src="/images/resources/commentary-luther-romans.webp" align="left" width="100" style="padding-right: 10px" />Commentary on Romans  
+by Martin Luther.  
+Kregel. 2003.  
+[Goodreads](https://www.goodreads.com/book/show/1635020.Commentary_on_Romans?ac=1&from_search=true&qid=aIXX1icyNY&rank=5)
 
 <p style="clear:both;">
