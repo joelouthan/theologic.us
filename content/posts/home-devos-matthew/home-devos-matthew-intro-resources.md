@@ -22,7 +22,7 @@ We did end up finding a church by April and have been faithfully attending. It w
 
 ## The Resources
 
-## It Goes Without Say
+### It Goes Without Say
 
 [<img src="/images/resources/bible-CSB-paperback.jpg" align="left" width="200" style="padding-right: 10px" />The Holy Bible](https://amzn.to/3FbGqbM)
 
@@ -48,7 +48,7 @@ I have purchased this resource multiple times over for myself and friends. If yo
 
 ___
 
-## Commentaries & Books
+### Commentaries & Books
 
 I don't have a personal insightful recommendation on the following. I just wanted to have a stack of resources that I can check by and draw from if I need to.
 
