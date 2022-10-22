@@ -27,40 +27,45 @@ draft: true
 
 ## The Resources
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="100" style="padding-right: 10px" />Christian Standard Bible](https://amzn.to/3FbGqbM).  
+<img src="/images/resources/bible-CSB-paperback.jpg" align="left" width="100" style="padding-right: 10px" />Christian Standard Bible  
 Holmon Publishing. 2020.  
-&nbsp;
+[Goodreads](https://www.goodreads.com/book/show/30746802-csb-outreach-bible)
 
-___
+<p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38).  
-Crossway. 2016.
+---
 
-&nbsp;
+<img src="/images/resources/bible-ESV-study-bible.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible  
+Crossway. 2016.  
+[Goodreads](https://www.goodreads.com/book/show/5031805-esv-study-bible?ac=1&from_search=true&qid=BEzDEv7NUE&rank=1)
 
-___
+<p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+---
+
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
-Baker. 2009.
+Baker. 2009.  
+[Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
 
-&nbsp;
+<p style="clear:both;">
 
-___
+---
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/81zVfwcJuEL.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: Old Testament](https://www.amazon.com/gp/product/0830814191/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).  
-by John H. Walton, Victor H. Matthews, Mark W. Chavalas.  
-IVP Academic. November 8, 2000.
+<img src="/images/resources/commentary-walton-ivp-background.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: Old Testament  
+by .  
+. .  
+[Goodreads]()
 
-&nbsp;
+<p style="clear:both;">
 
-___
+---
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/81a-Z-PCV0L.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: New Testament](https://www.amazon.com/gp/product/0830824782/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).  
+<img src="/images/resources/commentary-keeener-ivp-background.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: New Testament  
 by Craig S. Keener.  
-IVP Academic. January 3, 2014.
+IVP Academic. January 3, 2014.  
+[Goodreads](https://www.goodreads.com/book/show/17861691-the-ivp-bible-background-commentary)
 
-&nbsp;
+<p style="clear:both;">
 
-___
-
+---
