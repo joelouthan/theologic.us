@@ -3,11 +3,12 @@ title: "Study: "
 author: Joseph Louthan
 publishDate: 2023-02-16T06:00:00-05:00
 categories:
+  - Commentaries
   - Study
 tags:
   - "Genesis"
 series:
-  - "Genesis"
+  - "Study: Genesis"
 tocopen: true
 css: "prayers"
 draft: true

@@ -12,7 +12,7 @@ series:
   - "Gospel OT: Major Prophets"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Introduction
 

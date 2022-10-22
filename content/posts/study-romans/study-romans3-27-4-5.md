@@ -2,12 +2,13 @@
 title: 'Study: Romans 3:27-4:5 No One May Boast'
 author: Joseph Louthan
 publishDate: 2021-03-12T06:00:00-05:00
-url: /bible-study/2021-03-12-study-romans/categories
-  - Bible Study
+categories:
+  - Commentaries
+  - Study
 tags:
-  - Romans
+  - "Romans"
 series:
-  - 'Bible Study: Romans'
+  - "Study: Romans"
 tocopen: true
 css: "prayers"
 draft: false

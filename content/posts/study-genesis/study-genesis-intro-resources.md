@@ -4,12 +4,12 @@ author: Joseph Louthan
 publishDate: 2021-06-01T06:00:00-05:00
 categories:
   - Commentaries
-  - Bible Study
+  - Study
   - Books
 tags:
   - "Genesis"
 series:
-  - "Bible Study: Genesis"
+  - "Study: Genesis"
 tocopen: true
 css: "prayers"
 draft: false

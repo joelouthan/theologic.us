@@ -8,7 +8,7 @@ categories:
 tags:
   - "Romans"
 series:
-  - "Bible Study: Romans"
+  - "Study: Romans"
 tocopen: true
 css: "prayers"
 draft: true

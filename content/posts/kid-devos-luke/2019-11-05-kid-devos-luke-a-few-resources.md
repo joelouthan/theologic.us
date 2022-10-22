@@ -7,7 +7,6 @@ categories:
   - Books
 tags:
   - Luke
-  - Books
 series:
   - 'Kid Devotions: Luke'
 css: "prayers"
