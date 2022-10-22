@@ -10,7 +10,7 @@ series:
   - "Survey: Old Testament"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Text
 

@@ -9,7 +9,7 @@ tags:
 series:
   - "Here is Love"
 showtoc: false
-draft: false
+draft: true
 ---
 >Romans 8:33 Who shall bring any charge against God’s elect? It is God who justifies.
 

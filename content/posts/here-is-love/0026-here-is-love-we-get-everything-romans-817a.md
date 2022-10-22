@@ -9,7 +9,7 @@ tags:
 series:
   - "Here is Love"
 showtoc: false
-draft: false
+draft: true
 ---
 >Romans 8:17a and if children, then heirs-heirs of God and fellow heirs with Christ,
 >

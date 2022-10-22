@@ -11,7 +11,7 @@ tags:
 series:
   - "Here is Love"
 showtoc: false
-draft: false
+draft: true
 ---
 For here is love: **Genesis 3:15**
 **I will put enmity between you and the woman,**

@@ -10,7 +10,7 @@ tags:
 series:
   - "Here is Love"
 showtoc: false
-draft: false
+draft: true
 ---
 My life is not my own. My heart, my soul, my flesh, my mind, and my strength: all of it does not belong to me.
 

@@ -9,7 +9,7 @@ tags:
 series:
   - "Here is Love"
 showtoc: false
-draft: false
+draft: true
 ---
 >Romans 8:8 Those who are in the flesh cannot please God.
 
