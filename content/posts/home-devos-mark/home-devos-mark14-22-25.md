@@ -3,11 +3,12 @@ title: "Home Devotions: Mark 14:22-25 Every Step is Joy: Christ Is Broken For Us
 author: Joseph Louthan
 publishDate: 2022-11-04T06:00:00-05:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"
 series:
-  - "Mark"
+  - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
 draft: false

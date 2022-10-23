@@ -3,11 +3,12 @@ title: "Home Devotions: Mark 14:1-2 Every Step Is Joy: Christ Will Give Up His L
 author: Joseph Louthan
 publishDate: 2022-10-07T06:00:00-05:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"
 series:
-  - "Mark"
+  - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
 draft: false

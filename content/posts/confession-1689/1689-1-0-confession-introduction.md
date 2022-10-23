@@ -55,7 +55,7 @@ Of course, I am not a heathen: where I copy word for word, I will footnote it wi
 
 ___
 
-[<img src="/images/resources/confession-sproul-truths-we-confess.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)  
+[<img src="/images/resources/confession-wcf-truths-we-confess-sproul.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)  
 by R.C. Sproul.  
 Reformation Trust Publishing. 2019.
 
@@ -89,7 +89,7 @@ So when I saw the full Biblical references on this resource for the Westminster 
 
 ___
 
-[<img src="/images/resources/cbook-trueman-the-creedal-imperative.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)  
+[<img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)  
 by Carl Trueman.  
 Crossway. 2012.
 

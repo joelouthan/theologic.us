@@ -95,7 +95,7 @@ ___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/510tS0bc3jL._SX336_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />The Letter to the Romans (New International Commentary on the New Testament (NICNT))](https://amzn.to/3tcauBO).  
+[<img src="/images/resources/commentary-romans-moo.jpg" align="left" width="150" style="padding-right: 10px" />The Letter to the Romans (New International Commentary on the New Testament (NICNT))](https://amzn.to/3tcauBO).  
 by Douglas Moo.  
 First Edition.  
 Eerdmans. 1996.

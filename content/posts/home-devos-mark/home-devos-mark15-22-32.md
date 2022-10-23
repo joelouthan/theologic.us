@@ -3,11 +3,12 @@ title: "Home Devotions: "
 author: Joseph Louthan
 publishDate: 2022-09-23T06:00:00-05:00
 categories:
+  - Commentaries
   - Home Devotions
 tags:
   - "Mark"
 series:
-  - "Mark"
+  - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
 draft: true

@@ -52,7 +52,7 @@ Baker. 2009.
 
 ---
 
-<img src="/images/resources/commentary-sproul-matthew.jpg" align="left" width="100" style="padding-right: 10px" />Matthew: An Expositional Commentary(https://a.co/d/iPO4KvF).  
+<img src="/images/resources/commentary-matthew-sproul.jpg" align="left" width="100" style="padding-right: 10px" />Matthew: An Expositional Commentary(https://a.co/d/iPO4KvF).  
 by R.C. Sproul.  
 Ligonier Ministries. October 29, 2019.  
 [Goodreads](https://www.goodreads.com/book/show/14453116-matthew?ac=1&from_search=true&qid=1gLpP1i9jq&rank=1)
@@ -71,7 +71,7 @@ Crossway. September 7, 2021.
 
 ---
 
-<img src="/images/resources/commentary-nac-blomberg-matthew.jpg" align="left" width="100" style="padding-right: 10px" />Matthew: An Exegetical and Theological Exposition of Holy Scripture (Volume 22) (The New American Commentary)(https://a.co/d/4nRKV6G).  
+<img src="/images/resources/commentary-matthew-nac-blomberg.jpg" align="left" width="100" style="padding-right: 10px" />Matthew: An Exegetical and Theological Exposition of Holy Scripture (Volume 22) (The New American Commentary)(https://a.co/d/4nRKV6G).  
 by Craig L. Blomberg.  
 Holman Reference. May 1992.
 

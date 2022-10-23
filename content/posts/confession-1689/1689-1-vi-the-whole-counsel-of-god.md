@@ -196,7 +196,7 @@ He has not left us alone to figure out how we should worship to him. We are not 
 
 ## The Resources
 
-<img src="/images/resources/confession-waldron-a-modern-exposition.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
+<img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
 by Samuel E. Waldron.  
 Evangelical Press. 2013.  
 [Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
@@ -205,7 +205,7 @@ Evangelical Press. 2013.
 
 ---
 
-<img src="/images/resources/confession-ventura-a-new-exposition-1689.jpg" align="left" width="100" style="padding-right: 10px" />A New Exposition of the London Baptist Confession of Faith of 1689    
+<img src="/images/resources/confession-1689-new-exposition-ventura.jpg" align="left" width="100" style="padding-right: 10px" />A New Exposition of the London Baptist Confession of Faith of 1689    
 by Rob Ventura.  
 Mentor. January 17, 2023.  
 [Amazon](https://www.amazon.com/Exposition-London-Baptist-Confession-Faith/dp/1527108902/ref=asc_df_1527108902/?tag=hyprod-20&linkCode=df0&hvadid=598295323603&hvpos=&hvnetw=g&hvrand=3877532160906942020&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014286&hvtargid=pla-1722666080628&psc=1)
@@ -214,7 +214,7 @@ Mentor. January 17, 2023.
 
 ---
 
-<img src="/images/resources/confession-masters-1689.jpg" align="left" width="100" style="padding-right: 10px" />The Baptist Confession of Faith 1689: Or the Second London Confession with Scripture Proofs  
+<img src="/images/resources/confession-1689-masters.jpg" align="left" width="100" style="padding-right: 10px" />The Baptist Confession of Faith 1689: Or the Second London Confession with Scripture Proofs  
 by Peter Masters.  
 Wakeman Trust. January 1, 1981.  
 [Goodreads](https://www.goodreads.com/book/show/1723671.Baptist_Confession_of_Faith_1689?ac=1&from_search=true&qid=HfdndsOLE6&rank=1)
@@ -223,7 +223,7 @@ Wakeman Trust. January 1, 1981.
 
 ---
 
-<img src="/images/resources/confession-sproul-truths-we-confess.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
+<img src="/images/resources/confession-wcf-truths-we-confess-sproul.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
 Sproul, R. C.    
 Orlando: Reformation Trust, 2019.  
 [Goodreads](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)
@@ -241,7 +241,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 ___
 
-<img src="/images/resources/book-trueman-the-creedal-imperative.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
+<img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
 Crossway, 2012.  
 [Goodreads](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)

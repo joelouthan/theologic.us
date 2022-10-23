@@ -10,7 +10,7 @@ series:
   - "Survey: Old Testament"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 
 ---
 ## The Intro
@@ -71,7 +71,7 @@ Baker. 2009.
 
 ---
 
-<img src="/images/resources/commentary-walton-ivp-background.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: Old Testament  
+<img src="/images/resources/commentary-ivp-background-ot-walton.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: Old Testament  
 by .  
 . .  
 [Goodreads]()
@@ -80,7 +80,7 @@ by .
 
 ---
 
-<img src="/images/resources/commentary-keeener-ivp-background.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: New Testament  
+<img src="/images/resources/commentary-ivp-background-nt-keener.jpg" align="left" width="100" style="padding-right: 10px" />The IVP Bible Background Commentary: New Testament  
 by Craig S. Keener.  
 IVP Academic. January 3, 2014.  
 [Goodreads](https://www.goodreads.com/book/show/17861691-the-ivp-bible-background-commentary)
