@@ -11,11 +11,11 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
-I am brand new to Historical Christian Confessions. So why Confessional and why the Westminster? To answer that is to give the long answer.
+I am brand new to Historical Christian Confessions. So why Confessional and why the Westminster Confession of Faith before settling on the 1689? To answer that is to give the long answer.
 
 I was born into a family with some of the most depraved men you'll ever met married to some of the most Godly women you have ever met.
 
@@ -43,6 +43,23 @@ I didn't grow up liturgical or in high church. I didn't grow up reciting creeds 
 
 So, for no other reason, I picked the Westminster because of my wonderful friends in the Presbyterian Church of America. And I may not baptize babies, I understand what they are doing and why they do it and could go as far to defend their doctrinal position when it came to sprinkling water on infants.
 
+I started this exposition right before moving to Kentucky. When the KY move was being planned, I thought, "Perhaps this is God's grace for me to move into another denomination?" because there were no Acts 29 churches in Lexington.
+
+And if I had my druthers, I don't see why I would go to a non-denomination generic evangelical church. Why would I not start out with Reformed.
+
+So I did.
+
+An Anglican, Presbyterian, and oddly enough, a church that started as Calvary Chapel.
+
+The Anglican and the Presbyterian churches were nice. But this "Calvary Chapel" church called themselves, "Creedal, Confessional, and adhering to the Five Solas". That doesn't sound like typical Calvary Chapel.
+
+And they were not. Turns out, they were moving away from their Calvary Chapel connection and heading towards 1689 Confessional.
+
+And this is the church we landed. And it is so wonderful. The best part: they don't need me. I get to sit under the preaching of God's word. And they do Bible Study--like I didn't have to start a Bible Study. We study the Bible together and not on our own.
+
+So now, I am attempting, as a layperson, to exposit the 1689 Second London Baptist Confession.
+
+
 ## The Recommendations
 
 Usually when I give resources recommendations, I would say, one or twice a month, I would refer to those resources just to see what other teachers say on the matter and to make sure I am not going off the rails.
@@ -53,25 +70,79 @@ Of course, I am not a heathen: where I copy word for word, I will footnote it wi
 
 (Including in each post within the WCF series will be a listing of these resources. Just assume I will be using them with every single post and episode.)
 
-___
+But I do have to divvy these resources up into two categories--which is not split up in the way you think it will be.
 
-[<img src="/images/resources/confession-wcf-truths-we-confess-sproul.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)  
+### 1689 Expositions
+
+The truth that there isn't a lot out there. First, get this little book as a handout for your congregation:
+
+<img src="/images/resources/confession-1689-masters.jpg" align="left" width="100" style="padding-right: 10px" />The Baptist Confession of Faith 1689: Or the Second London Confession with Scripture Proofs  
+by Peter Masters.  
+Wakeman Trust. January 1, 1981.  
+[Goodreads](https://www.goodreads.com/book/show/1723671.Baptist_Confession_of_Faith_1689?ac=1&from_search=true&qid=HfdndsOLE6&rank=1)
+
+<p style="clear:both;">
+
+---
+
+By God's great provision, within the next few months, two will be dropping. One from James Renihan for Volume 2 to this set:
+
+<img src="/images/resources/confession-1689-vindication-of-the-truth-renihan.png" align="left" width="100" style="padding-right: 10px" />For the Vindication of the Truth: Baptist Symbolics Volume 1  
+by James Renihan.  
+Founders Press. 2021.  
+[Goodreads](https://www.goodreads.com/book/show/61768195-for-the-vindication-of-the-truth?ac=1&from_search=true&qid=HBlZSEJ6T2&rank=2)
+
+<p style="clear:both;">
+
+And then a new exposition on the 1689 dropping in January from Rob Ventura:
+
+<img src="/images/resources/confession-1689-new-exposition-ventura.jpg" align="left" width="100" style="padding-right: 10px" />A New Exposition of the London Baptist Confession of Faith of 1689    
+by Rob Ventura.  
+Mentor. January 17, 2023.  
+[Amazon](https://www.amazon.com/Exposition-London-Baptist-Confession-Faith/dp/1527108902/ref=asc_df_1527108902/?tag=hyprod-20&linkCode=df0&hvadid=598295323603&hvpos=&hvnetw=g&hvrand=3877532160906942020&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014286&hvtargid=pla-1722666080628&psc=1)
+
+<p style="clear:both;">
+
+---
+
+In the meantime, this Modern Exposition from Samuel Waldron was used as a textbook for his class in seminary:
+
+<img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
+by Samuel E. Waldron.  
+Evangelical Press. 2013.  
+[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
+
+<p style="clear:both;">
+
+---
+
+Annnnnnnd that's it. One book hard to get, one on the 1644 (for Particular Baptists--which I am not one) and two books that have not dropped.
+
+What do you do?
+
+I will then take the Westminster Exposition from R.C. Sproul and the WCF from Banner of Truth and let the good times roll. Also, the Creedal Imperative is a must have.
+
+---
+
+<img src="/images/resources/confession-wcf-truths-we-confess-sproul.jpg" align="left" width="150" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith  
 by R.C. Sproul.  
 Reformation Trust Publishing. 2019.
+[Goodreads](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)
 
 Do you know me? Have you been on this channel? Will I always use an R.C. Sproul book if possible?
 
-In my humble opinion, Dr. Sproul was one of the greatest Bible teachers of my generation. I have read his commentaries cover to cover. I have studied through his [Philosophy courses at Ligonier(https://www.ligonier.org/learn/topics/philosophy)]. When he spoke, I did my best to listen.
+In my humble opinion, Dr. Sproul was one of the greatest Bible teachers of my generation. I have read his commentaries cover to cover. I have studied through his Philosophy courses at [Ligonier](https://www.ligonier.org/learn/topics/philosophy). When he spoke, I did my best to listen.
 
 His ministry has had the greatest impact on my Christian life. What I love is that he is a Presbyterian and I am a Charismatic. We don't agree on everything but at a distance, I am certainly mentored and shaped by him.
 
-And in God's great grace, this book was released shortly after his death. This book all but confirmed my unction that I should study the WCF. I would not have this series without his work and his influence on my life.
+And in God's great grace, this book was released shortly after his death. This book all but confirmed my unction that I should study the Confessions. I would not have this series without his work and his influence on my life.
 
 ___
 
-[<img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="150" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism](https://www.goodreads.com/book/show/39905592-the-westminster-confession?ac=1&from_search=true&qid=oMfahlcldC&rank=1)  
+<img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="150" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism  
 The Westminster Divines.  
 Banner of Truth. 2018.
+[Goodreads](https://www.goodreads.com/book/show/39905592-the-westminster-confession?ac=1&from_search=true&qid=oMfahlcldC&rank=1)
 
 How I did come to discover this book? My wife would say I do spend a lot of money and time on the Banner of Trust website. To which I would confess, "I haven't bought every book. I still have thousands left to purchase." One day. Oh, one fine day.
 
@@ -89,9 +160,10 @@ So when I saw the full Biblical references on this resource for the Westminster 
 
 ___
 
-[<img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)  
+<img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative  
 by Carl Trueman.  
 Crossway. 2012.
+[Goodreads](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)
 
 At the time of this post, I have yet to read through this. But when I popped on [r/Reformed](https://www.reddit.com/r/Reformed/comments/pkat4l/not_confessional_but_want_to_be/) and asked for a few good resources, this book was overwhelmingly recommended.
 
@@ -120,4 +192,3 @@ Amen.
 ```
 
 <div style="page-break-after: always;"></div>
-

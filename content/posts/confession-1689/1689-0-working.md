@@ -527,7 +527,17 @@ Besides the law written in their hearts, they received a command not to eat of t
 God the good Creator of all things, in his infinite power and wisdom doth uphold, direct, dispose, and govern all creatures and things, from the greatest even to the least, by his most wise and holy providence, to the end for the which they were created, according unto his infallible foreknowledge, and the free and immutable counsel of his own will; to the praise of the glory of his wisdom, power, justice, infinite goodness, and mercy.
 ```
 
-Hebrews 1:3; Job 38:11; Isaiah 46:10-11; Psalms 135:6; Matthew 10:29-31; Ephesians 1:11
+>Hebrews 1:3 (CSB) The Son is the radiance of God’s glory and the exact expression of his nature, sustaining all things by his powerful word. After making purification for sins, he sat down at the right hand of the Majesty on high.
+
+>Job 38:11 (CSB) when I declared, “You may come this far, but no farther; your proud waves stop here”?
+
+>Isaiah 46:10–11 (CSB) I declare the end from the beginning, and from long ago what is not yet done, saying: my plan will take place, and I will do all my will. I call a bird of prey from the east, a man for my purpose from a far country. Yes, I have spoken; so I will also bring it about. I have planned it; I will also do it.
+
+>Psalm 135:6 (CSB) The LORD does whatever he pleases in heaven and on earth, in the seas and all the depths.
+
+>Matthew 10:29–31 (CSB) Aren’t two sparrows sold for a penny? Yet not one of them falls to the ground without your Father’s consent. But even the hairs of your head have all been counted. So don’t be afraid; you are worth more than many sparrows.
+
+>Ephesians 1:11 (CSB) In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
 
 ---
 
@@ -537,7 +547,11 @@ Hebrews 1:3; Job 38:11; Isaiah 46:10-11; Psalms 135:6; Matthew 10:29-31; Ephesia
 Although in relation to the foreknowledge and decree of God, the first cause, all things come to pass immutably and infallibly; so that there is not anything befalls any by chance, or without his providence; yet by the same providence he ordereth them to fall out according to the nature of second causes, either necessarily, freely, or contingently.
 ```
 
-Acts 2:23; Proverbs 16:33; Genesis 8:22
+>Acts 2:23 (CSB) Though he was delivered up according to God’s determined plan and foreknowledge, you used lawless people to nail him to a cross and kill him.
+
+>Proverbs 16:33 (CSB) The lot is cast into the lap, but its every decision is from the LORD.
+
+>Genesis 8:22 (CSB) As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, and day and night will not cease.”
 
 ---
 
@@ -547,7 +561,15 @@ Acts 2:23; Proverbs 16:33; Genesis 8:22
 God, in his ordinary providence maketh use of means, yet is free to work without, above, and against them at his pleasure.
 ```
 
-Acts 27:31-44; Isaiah 55:10-11; Hosea 1:7; Romans 4:19-21; Daniel 3:27
+>Acts 27:31–44 (CSB) Paul said to the centurion and the soldiers, “Unless these men stay in the ship, you cannot be saved.” Then the soldiers cut the ropes holding the skiff and let it drop away. When it was about daylight, Paul urged them all to take food, saying, “Today is the fourteenth day that you have been waiting and going without food, having eaten nothing. So I urge you to take some food. For this is for your survival, since none of you will lose a hair from your head.” After he said these things and had taken some bread, he gave thanks to God in the presence of all of them, and after he broke it, he began to eat. They all were encouraged and took food themselves. In all there were 276 of us on the ship. When they had eaten enough, they began to lighten the ship by throwing the grain overboard into the sea. When daylight came, they did not recognize the land but sighted a bay with a beach. They planned to run the ship ashore if they could. After cutting loose the anchors, they left them in the sea, at the same time loosening the ropes that held the rudders. Then they hoisted the foresail to the wind and headed for the beach. But they struck a sandbar and ran the ship aground. The bow jammed fast and remained immovable, while the stern began to break up by the pounding of the waves. The soldiers’ plan was to kill the prisoners so that no one could swim away and escape. But the centurion kept them from carrying out their plan because he wanted to save Paul, and so he ordered those who could swim to jump overboard first and get to land. The rest were to follow, some on planks and some on debris from the ship. In this way, everyone safely reached the shore.
+
+>Isaiah 55:10–11 (CSB) For just as rain and snow fall from heaven and do not return there without saturating the earth and making it germinate and sprout, and providing seed to sow and food to eat, so my word that comes from my mouth will not return to me empty, but it will accomplish what I please and will prosper in what I send it to do.”
+
+>Hosea 1:7 (CSB) But I will have compassion on the house of Judah, and I will deliver them by the LORD their God. I will not deliver them by bow, sword, or war, or by horses and cavalry.
+
+>Romans 4:19–21 (CSB) He did not weaken in faith when he considered his own body to be already dead (since he was about a hundred years old) and also the deadness of Sarah’s womb. He did not waver in unbelief at God’s promise but was strengthened in his faith and gave glory to God, because he was fully convinced that what God had promised, he was also able to do.
+
+>Daniel 3:27 (CSB) When the satraps, prefects, governors, and the king’s advisers gathered around, they saw that the fire had no effect on the bodies of these men: not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them.
 
 ---
 
@@ -557,7 +579,25 @@ Acts 27:31-44; Isaiah 55:10-11; Hosea 1:7; Romans 4:19-21; Daniel 3:27
 The almighty power, unsearchable wisdom, and infinite goodness of God, so far manifest themselves in his providence, that his determinate counsel extendeth itself even to the first fall, and all other sinful actions both of angels and men; and that not by a bare permission, which also he most wisely and powerfully boundeth, and otherwise ordereth and governeth, in a manifold dispensation to his most holy ends; yet so, as the sinfulness of their acts proceedeth only from the creatures, and not from God, who, being most holy and righteous, neither is nor can be the author or approver of sin.
 ```
 
-Romans 11:32-34; 2 Samuel 24:1; 1 Chronicles 21:1; 2 Kings 19:28; Psalms 76;10; Genesis 1:20; Isaiah 10:6-12; Psalms 1:21; 1 John 2:16
+>Romans 11:32–34 (CSB) For God has imprisoned all in disobedience so that he may have mercy on all. Oh, the depth of the riches and the wisdom and the knowledge of God! How unsearchable his judgments and untraceable his ways! For who has known the mind of the Lord? Or who has been his counselor?
+
+>2 Samuel 24:1 (CSB) The LORD’s anger burned against Israel again, and he stirred up David against them to say, “Go, count the people of Israel and Judah.”
+
+>1 Chronicles 21:1 (CSB) Satan rose up against Israel and incited David to count the people of Israel.
+
+>2 Kings 19:28 (CSB) Because your raging against me and your arrogance have reached my ears, I will put my hook in your nose and my bit in your mouth; I will make you go back the way you came.
+
+>Psalm 76 (CSB) For the choir director: with stringed instruments. A psalm of Asaph. A song. God is known in Judah; his name is great in Israel. His tent is in Salem, his dwelling place in Zion. There he shatters the bow’s flaming arrows, the shield, the sword, and the weapons of war. Selah You are resplendent and majestic coming down from the mountains of prey. The brave-hearted have been plundered; they have slipped into their final sleep. None of the warriors was able to lift a hand. At your rebuke, God of Jacob, both chariot and horse lay still. And you—you are to be feared. When you are angry, who can stand before you? From heaven you pronounced judgment. The earth feared and grew quiet when God rose up to judge and to save all the lowly of the earth. Selah Even human wrath will praise you; you will clothe yourself with the wrath that remains. Make and keep your vows to the LORD your God; let all who are around him bring tribute to the awe-inspiring one. He humbles the spirit of leaders; he is feared by the kings of the earth.
+
+>Psalm 10 (CSB) LORD, why do you stand so far away? Why do you hide in times of trouble? In arrogance the wicked relentlessly pursue their victims; let them be caught in the schemes they have devised. For the wicked one boasts about his own cravings; the one who is greedy curses and despises the LORD. In all his scheming, the wicked person arrogantly thinks, “There’s no accountability, since there’s no God.” His ways are always secure; your lofty judgments have no effect on him; he scoffs at all his adversaries. He says to himself, “I will never be moved— from generation to generation I will be without calamity.” Cursing, deceit, and violence fill his mouth; trouble and malice are under his tongue. He waits in ambush near settlements; he kills the innocent in secret places. His eyes are on the lookout for the helpless; he lurks in secret like a lion in a thicket. He lurks in order to seize a victim; he seizes a victim and drags him in his net. So he is oppressed and beaten down; helpless people fall because of the wicked one’s strength. He says to himself, “God has forgotten; he hides his face and will never see.” Rise up, LORD God! Lift up your hand. Do not forget the oppressed. Why has the wicked person despised God? He says to himself, “You will not demand an account.” But you yourself have seen trouble and grief, observing it in order to take the matter into your hands. The helpless one entrusts himself to you; you are a helper of the fatherless. Break the arm of the wicked, evil person, until you look for his wickedness, but it can’t be found. The LORD is King forever and ever; the nations will perish from his land. LORD, you have heard the desire of the humble; you will strengthen their hearts. You will listen carefully, doing justice for the fatherless and the oppressed so that mere humans from the earth may terrify them no more.
+
+>Genesis 1:20 (CSB) Then God said, “Let the water swarm with living creatures, and let birds fly above the earth across the expanse of the sky.”
+
+>Isaiah 10:6–12 (CSB) I will send him against a godless nation; I will command him to go against a people destined for my rage, to take spoils, to plunder, and to trample them down like clay in the streets. But this is not what he intends; this is not what he plans. It is his intent to destroy and to cut off many nations. For he says, “Aren’t all my commanders kings? Isn’t Calno like Carchemish? Isn’t Hamath like Arpad? Isn’t Samaria like Damascus? As my hand seized the kingdoms of worthless images, kingdoms whose idols exceeded those of Jerusalem and Samaria, and as I did to Samaria and its worthless images will I not also do to Jerusalem and its idols?” But when the Lord finishes all his work against Mount Zion and Jerusalem, he will say, “I will punish the king of Assyria for his arrogant acts and the proud look in his eyes.”
+
+>Psalm 1:6 (CSB) For the LORD watches over the way of the righteous, but the way of the wicked leads to ruin.
+
+>1 John 2:16 (CSB) For everything in the world—the lust of the flesh, the lust of the eyes, and the pride in one’s possessions—is not from the Father, but is from the world.
 
 ---
 
@@ -567,7 +607,11 @@ Romans 11:32-34; 2 Samuel 24:1; 1 Chronicles 21:1; 2 Kings 19:28; Psalms 76;10; 
 The most wise, righteous, and gracious God doth oftentimes leave for a season his own children to manifold temptations and the corruptions of their own hearts, to chastise them for their former sins, or to discover unto them the hidden strength of corruption and deceitfulness of their hearts, that they may be humbled; and to raise them to a more close and constant dependence for their support upon himself; and to make them more watchful against all future occasions of sin, and for other just and holy ends. So that whatsoever befalls any of his elect is by his appointment, for his glory, and their good.
 ```
 
-2 Chronicles 32:25-31; 2 Corinthians 12:7-9; Romans 8:28
+>2 Chronicles 32:25–31 (CSB) However, because his heart was proud, Hezekiah didn’t respond according to the benefit that had come to him. So there was wrath on him, Judah, and Jerusalem. Then Hezekiah humbled himself for the pride of his heart—he and the inhabitants of Jerusalem—so the LORD’s wrath didn’t come on them during Hezekiah’s lifetime. Hezekiah had abundant riches and glory, and he made himself treasuries for silver, gold, precious stones, spices, shields, and every desirable item. He made warehouses for the harvest of grain, new wine, and fresh oil, and stalls for all kinds of cattle, and pens for flocks. He made cities for himself, and he acquired vast numbers of flocks and herds, for God gave him abundant possessions. This same Hezekiah blocked the upper outlet of the water from the Gihon Spring and channeled it smoothly downward and westward to the city of David. Hezekiah succeeded in everything he did. When the ambassadors of Babylon’s rulers were sent to him to inquire about the miraculous sign that happened in the land, God left him to test him and discover what was in his heart.
+
+>2 Corinthians 12:7–9 (CSB) especially because of the extraordinary revelations. Therefore, so that I would not exalt myself, a thorn in the flesh was given to me, a messenger of Satan to torment me so that I would not exalt myself. Concerning this, I pleaded with the Lord three times that it would leave me. But he said to me, “My grace is sufficient for you, for my power is perfected in weakness.” Therefore, I will most gladly boast all the more about my weaknesses, so that Christ’s power may reside in me.
+
+>Romans 8:28 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose.
 
 ---
 
@@ -577,7 +621,27 @@ The most wise, righteous, and gracious God doth oftentimes leave for a season hi
 As for those wicked and ungodly men whom God, as the righteous judge, for former sin doth blind and harden; from them he not only withholdeth his grace, whereby they might have been enlightened in their understanding, and wrought upon their hearts; but sometimes also withdraweth the gifts which they had, and exposeth them to such objects as their corruption makes occasion of sin; and withal, gives them over to their own lusts, the temptations of the world, and the power of Satan, whereby it comes to pass that they harden themselves, under those means which God useth for the softening of others.
 ```
 
-Romans 1:24-26-28; Romans 11:7-8; Deuteronomy 29:4; Matthew 13:12; Deuteronomy 2:30; 2 Kings 8:12-13; Psalms 81:11-12; 2 Thessalonians 2:10-12; Exodus 8:15-32; Isaiah 6:9-10; 1 Peter 2:7-8
+>Romans 1:24–28 (CSB) Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves. They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen. For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones. The men in the same way also left natural relations with women and were inflamed in their lust for one another. Men committed shameless acts with men and received in their own persons the appropriate penalty of their error. And because they did not think it worthwhile to acknowledge God, God delivered them over to a corrupt mind so that they do what is not right.
+
+>Romans 11:7–8 (CSB) What then? Israel did not find what it was looking for, but the elect did find it. The rest were hardened, as it is written, God gave them a spirit of stupor, eyes that cannot see and ears that cannot hear, to this day.
+
+>Deuteronomy 29:4 (CSB) Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.
+
+>Matthew 13:12 (CSB) For whoever has, more will be given to him, and he will have more than enough; but whoever does not have, even what he has will be taken away from him.
+
+>Deuteronomy 2:30 (CSB) But King Sihon of Heshbon would not let us travel through his land, for the LORD your God had made his spirit stubborn and his heart obstinate in order to hand him over to you, as has now taken place.
+
+>2 Kings 8:12–13 (CSB) and Hazael asked, “Why is my lord weeping?” He replied, “Because I know the evil you will do to the people of Israel. You will set their fortresses on fire. You will kill their young men with the sword. You will dash their children to pieces. You will rip open their pregnant women.” Hazael said, “How could your servant, a mere dog, do such a mighty deed?” Elisha answered, “The LORD has shown me that you will be king over Aram.”
+
+>Psalm 81:11–12 (CSB) “But my people did not listen to my voice; Israel did not obey me. So I gave them over to their stubborn hearts to follow their own plans.
+
+>2 Thessalonians 2:10–12 (CSB) and with every wicked deception among those who are perishing. They perish because they did not accept the love of the truth and so be saved. For this reason God sends them a strong delusion so that they will believe the lie, so that all will be condemned—those who did not believe the truth but delighted in unrighteousness.
+
+>Exodus 8:15–32 (CSB) But when Pharaoh saw there was relief, he hardened his heart and would not listen to them, as the LORD had said. Then the LORD said to Moses, “Tell Aaron: Stretch out your staff and strike the dust of the land, and it will become gnats throughout the land of Egypt.” And they did this. Aaron stretched out his hand with his staff, and when he struck the dust of the land, gnats were on people and animals. All the dust of the land became gnats throughout the land of Egypt. The magicians tried to produce gnats using their occult practices, but they could not. The gnats remained on people and animals. “This is the finger of God,” the magicians said to Pharaoh. But Pharaoh’s heart was hard, and he would not listen to them, as the LORD had said. The LORD said to Moses, “Get up early in the morning and present yourself to Pharaoh when you see him going out to the water. Tell him: This is what the LORD says: Let my people go, so that they may worship me. But if you will not let my people go, then I will send swarms of flies against you, your officials, your people, and your houses. The Egyptians’ houses will swarm with flies, and so will the land where they live. But on that day I will give special treatment to the land of Goshen, where my people are living; no flies will be there. This way you will know that I, the LORD, am in the land. I will make a distinction between my people and your people. This sign will take place tomorrow.” And the LORD did this. Thick swarms of flies went into Pharaoh’s palace and his officials’ houses. Throughout Egypt the land was ruined because of the swarms of flies. Then Pharaoh summoned Moses and Aaron and said, “Go sacrifice to your God within the country.” But Moses said, “It would not be right to do that, because what we will sacrifice to the LORD our God is detestable to the Egyptians. If we sacrifice what the Egyptians detest in front of them, won’t they stone us? We must go a distance of three days into the wilderness and sacrifice to the LORD our God as he instructs us.” Pharaoh responded, “I will let you go and sacrifice to the LORD your God in the wilderness, but don’t go very far. Make an appeal for me.” “As soon as I leave you,” Moses said, “I will appeal to the LORD, and tomorrow the swarms of flies will depart from Pharaoh, his officials, and his people. But Pharaoh must not act deceptively again by refusing to let the people go and sacrifice to the LORD.” Then Moses left Pharaoh’s presence and appealed to the LORD. The LORD did as Moses had said: He removed the swarms of flies from Pharaoh, his officials, and his people; not one was left. But Pharaoh hardened his heart this time also and did not let the people go.
+
+>Isaiah 6:9–10 (CSB) And he replied: Go! Say to these people: Keep listening, but do not understand; keep looking, but do not perceive. Make the minds of these people dull; deafen their ears and blind their eyes; otherwise they might see with their eyes and hear with their ears, understand with their minds, turn back, and be healed.
+
+>1 Peter 2:7–8 (CSB) So honor will come to you who believe; but for the unbelieving, The stone that the builders rejected— this one has become the cornerstone, and A stone to stumble over, and a rock to trip over. They stumble because they disobey the word; they were destined for this.
 
 ---
 
@@ -587,7 +651,11 @@ Romans 1:24-26-28; Romans 11:7-8; Deuteronomy 29:4; Matthew 13:12; Deuteronomy 2
 As the providence of God doth in general reach to all creatures, so after a more special manner it taketh care of his church, and disposeth of all things to the good thereof.
 ```
 
-1 Timothy 4:10; Amos 9:8-9; Isaiah 43:3-5
+>1 Timothy 4:10 (CSB) For this reason we labor and strive, because we have put our hope in the living God, who is the Savior of all people, especially of those who believe.
+
+>Amos 9:8–9 (CSB) Look, the eyes of the Lord GOD are on the sinful kingdom, and I will obliterate it from the face of the earth. However, I will not totally destroy the house of Jacob— this is the LORD’s declaration— for I am about to give the command, and I will shake the house of Israel among all the nations, as one shakes a sieve, but not a pebble will fall to the ground.
+
+>Isaiah 43:3–5 (CSB) For I am the LORD your God, the Holy One of Israel, and your Savior. I have given Egypt as a ransom for you, Cush and Seba in your place. Because you are precious in my sight and honored, and I love you, I will give people in exchange for you and nations instead of your life. Do not fear, for I am with you; I will bring your descendants from the east, and gather you from the west.
 
 ---
 ---
@@ -600,7 +668,11 @@ As the providence of God doth in general reach to all creatures, so after a more
 Although God created man upright and perfect, and gave him a righteous law, which had been unto life had he kept it, and threatened death upon the breach thereof, yet he did not long abide in this honour; Satan using the subtlety of the serpent to subdue Eve, then by her seducing Adam, who, without any compulsion, did willfully transgress the law of their creation, and the command given unto them, in eating the forbidden fruit, which God was pleased, according to his wise and holy counsel to permit, having purposed to order it to his own glory.
 ```
 
-Genesis 2:16-17; Genesis 3:12,13; 2 Corinthians 11:3
+>Genesis 2:16–17 (CSB) And the LORD God commanded the man, “You are free to eat from any tree of the garden, but you must not eat from the tree of the knowledge of good and evil, for on the day you eat from it, you will certainly die.”
+
+>Genesis 3:12–13 (CSB) The man replied, “The woman you gave to be with me—she gave me some fruit from the tree, and I ate.” So the LORD God asked the woman, “What have you done?” And the woman said, “The serpent deceived me, and I ate.”
+
+>2 Corinthians 11:3 (CSB) But I fear that, as the serpent deceived Eve by his cunning, your minds may be seduced from a sincere and pure devotion to Christ.
 
 ---
 
@@ -610,13 +682,43 @@ Genesis 2:16-17; Genesis 3:12,13; 2 Corinthians 11:3
 Our first parents, by this sin, fell from their original righteousness and communion with God, and we in them whereby death came upon all: all becoming dead in sin, and wholly defiled in all the faculties and parts of soul and body.
 ```
 
-Romans 3:23; Romans 5:12; Titus 1:15; Genesis 6:5; Jeremiah 17:9; Romans 3:10-19
+>Romans 3:23 (CSB) For all have sinned and fall short of the glory of God;
+
+>Romans 5:12 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.
+
+>Titus 1:15 (CSB) To the pure, everything is pure, but to those who are defiled and unbelieving nothing is pure; in fact, both their mind and conscience are defiled.
+
+>Genesis 6:5 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time,
+
+>Jeremiah 17:9 (CSB) The heart is more deceitful than anything else, and incurable—who can understand it?
+
+>Romans 3:10–19 (CSB) as it is written: There is no one righteous, not even one. There is no one who understands; there is no one who seeks God. All have turned away; all alike have become worthless. There is no one who does what is good, not even one. Their throat is an open grave; they deceive with their tongues. Vipers’ venom is under their lips. Their mouth is full of cursing and bitterness. Their feet are swift to shed blood; ruin and wretchedness are in their paths, and the path of peace they have not known. There is no fear of God before their eyes. Now we know that whatever the law says, it speaks to those who are subject to the law, so that every mouth may be shut and the whole world may become subject to God’s judgment.
+
+---
+
+###
 
 ```text
 They being the root, and by God's appointment, standing in the room and stead of all mankind, the guilt of the sin was imputed, and corrupted nature conveyed, to all their posterity descending from them by ordinary generation, being now conceived in sin, and by nature children of wrath, the servants of sin, the subjects of death, and all other miseries, spiritual, temporal, and eternal, unless the Lord Jesus set them free.
 ```
 
-Romans 5:12-19; 1 Corinthians 15:21-49; Psalms 51:5; Job 14:4; Ephesians 2:3; Romans 6:20 Romans 5:12; Hebrews 2:14-15; 1 Thessalonians 1:10
+>Romans 5:12–19 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned. In fact, sin was in the world before the law, but sin is not charged to a person’s account when there is no law. Nevertheless, death reigned from Adam to Moses, even over those who did not sin in the likeness of Adam’s transgression. He is a type of the Coming One. But the gift is not like the trespass. For if by the one man’s trespass the many died, how much more have the grace of God and the gift which comes through the grace of the one man Jesus Christ overflowed to the many. And the gift is not like the one man’s sin, because from one sin came the judgment, resulting in condemnation, but from many trespasses came the gift, resulting in justification. If by the one man’s trespass, death reigned through that one man, how much more will those who receive the overflow of grace and the gift of righteousness reign in life through the one man, Jesus Christ. So then, as through one trespass there is condemnation for everyone, so also through one righteous act there is justification leading to life for everyone. For just as through one man’s disobedience the many were made sinners, so also through the one man’s obedience the many will be made righteous.
+
+>1 Corinthians 15:21–49 (CSB) For since death came through a man, the resurrection of the dead also comes through a man. For just as in Adam all die, so also in Christ all will be made alive. But each in his own order: Christ, the firstfruits; afterward, at his coming, those who belong to Christ. Then comes the end, when he hands over the kingdom to God the Father, when he abolishes all rule and all authority and power. For he must reign until he puts all his enemies under his feet. The last enemy to be abolished is death. For God has put everything under his feet. Now when it says “everything” is put under him, it is obvious that he who puts everything under him is the exception. When everything is subject to Christ, then the Son himself will also be subject to the one who subjected everything to him, so that God may be all in all. Otherwise what will they do who are being baptized for the dead? If the dead are not raised at all, then why are people baptized for them? Why are we in danger every hour? I face death every day, as surely as I may boast about you, brothers and sisters, in Christ Jesus our Lord. If I fought wild beasts in Ephesus as a mere man, what good did that do me? If the dead are not raised, Let us eat and drink, for tomorrow we die. Do not be deceived: “Bad company corrupts good morals.” Come to your senses and stop sinning; for some people are ignorant about God. I say this to your shame. But someone will ask, “How are the dead raised? What kind of body will they have when they come?” You fool! What you sow does not come to life unless it dies. And as for what you sow—you are not sowing the body that will be, but only a seed, perhaps of wheat or another grain. But God gives it a body as he wants, and to each of the seeds its own body. Not all flesh is the same flesh; there is one flesh for humans, another for animals, another for birds, and another for fish. There are heavenly bodies and earthly bodies, but the splendor of the heavenly bodies is different from that of the earthly ones. There is a splendor of the sun, another of the moon, and another of the stars; in fact, one star differs from another star in splendor. So it is with the resurrection of the dead: Sown in corruption, raised in incorruption; sown in dishonor, raised in glory; sown in weakness, raised in power; sown a natural body, raised a spiritual body. If there is a natural body, there is also a spiritual body. So it is written, The first man Adam became a living being; the last Adam became a life-giving spirit. However, the spiritual is not first, but the natural, then the spiritual. The first man was from the earth, a man of dust; the second man is from heaven. Like the man of dust, so are those who are of the dust; like the man of heaven, so are those who are of heaven. And just as we have borne the image of the man of dust, we will also bear the image of the man of heaven.
+
+>Psalm 51:5 (CSB) Indeed, I was guilty when I was born; I was sinful when my mother conceived me.
+
+>Job 14:4 (CSB) Who can produce something pure from what is impure? No one!
+
+>Ephesians 2:3 (CSB) We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also.
+
+>Romans 6:20 (CSB) For when you were slaves of sin, you were free with regard to righteousness.
+
+>Romans 5:12 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.
+
+>Hebrews 2:14–15 (CSB) Now since the children have flesh and blood in common, Jesus also shared in these, so that through his death he might destroy the one holding the power of death—that is, the devil—and free those who were held in slavery all their lives by the fear of death.
+
+>1 Thessalonians 1:10 (CSB) and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.
 
 ---
 
@@ -626,7 +728,13 @@ Romans 5:12-19; 1 Corinthians 15:21-49; Psalms 51:5; Job 14:4; Ephesians 2:3; Ro
 From this original corruption, whereby we are utterly indisposed, disabled, and made opposite to all good, and wholly inclined to all evil, do proceed all actual transgressions.
 ```
 
-Romans 8:7; Colossians 1:21; James 1:14-15; Matthew 15:19
+>Romans 8:7 (CSB) The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so.
+
+>Colossians 1:21 (CSB) Once you were alienated and hostile in your minds as expressed in your evil actions.
+
+>James 1:14–15 (CSB) But each person is tempted when he is drawn away and enticed by his own evil desire. Then after desire has conceived, it gives birth to sin, and when sin is fully grown, it gives birth to death.
+
+>Matthew 15:19 (CSB) For from the heart come evil thoughts, murders, adulteries, sexual immoralities, thefts, false testimonies, slander.
 
 ---
 
@@ -636,7 +744,17 @@ Romans 8:7; Colossians 1:21; James 1:14-15; Matthew 15:19
 The corruption of nature, during this life, doth remain in those that are regenerated; and although it be through Christ pardoned and mortified, yet both itself, and the first motions thereof, are truly and properly sin.
 ```
 
-Romans 7:18,23; Ecclesiastes 7:20; 1 John 1:8; Romans 7:23-25; Galatians 5:17
+>Romans 7:18 (CSB) For I know that nothing good lives in me, that is, in my flesh. For the desire to do what is good is with me, but there is no ability to do it.
+
+>Romans 7:23 (CSB) but I see a different law in the parts of my body, waging war against the law of my mind and taking me prisoner to the law of sin in the parts of my body.
+
+>Ecclesiastes 7:20 (CSB) There is certainly no one righteous on the earth who does good and never sins.
+
+>1 John 1:8 (CSB) If we say, “We have no sin,” we are deceiving ourselves, and the truth is not in us.
+
+>Romans 7:23–25 (CSB) but I see a different law in the parts of my body, waging war against the law of my mind and taking me prisoner to the law of sin in the parts of my body. What a wretched man I am! Who will rescue me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.
+
+>Galatians 5:17 (CSB) For the flesh desires what is against the Spirit, and the Spirit desires what is against the flesh; these are opposed to each other, so that you don’t do what you want.
 
 ---
 ---
