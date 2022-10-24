@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ## The Text
@@ -23,10 +23,10 @@ draft: true
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
-Although the light of nature, and the works of creation and providence, do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation; therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His church; and afterwards for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing; which maketh the holy Scripture to be most necessary; those former ways of God’s revealing His will unto His people being now ceased.
+The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God and his will which is necessary unto salvation. Therefore it pleased the Lord at sundry times and in divers manners to reveal himself, and to declare that his will unto his church; and afterward for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto writing; which maketh the Holy Scriptures to be most necessary, those former ways of God's revealing his will unto his people being now ceased.
 ```
 
 <div style="page-break-after: always;"></div>
@@ -37,7 +37,7 @@ I am coming into the study with a few expectations. One of which is that I am 99
 
 Lets walk through the points:
 
-### Although the light of nature, and the works of creation and providence, do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable;
+### The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable
 
 >Romans 2:14–15 (CSB) So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law. 15 They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them
 
@@ -85,7 +85,7 @@ How we deal with what Christ said is sin indwelling in each of us--all of the ch
 
 We are without excuse
 
-### yet are they not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation;
+### yet are they not sufficient to give that knowledge of God and his will which is necessary unto salvation
 
 >1 Corinthians 1:21 (CSB) For since, in God’s wisdom, the world did not know God through wisdom, God was pleased to save those who believe through the foolishness of what is preached.
 
@@ -103,7 +103,7 @@ For you to know and embrace the salvation of God, God must first give you a new 
 
 >Ezekiel 36:26-27 (CSB) I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
 
-### therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His church; 
+### Therefore it pleased the Lord at sundry times and in divers manners to reveal himself, and to declare that his will unto his church 
 
 >Hebrews 1:1 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways.
 
@@ -113,9 +113,9 @@ It is hard to imagine this for some but when God spoke to the prophets, he didn'
 
 Take the prophet, Jeremiah, and look at the verse ones of every chapter:
 
- - "The word of the LORD came to me"
- - "The Lord says"
- - "The word of the Lord came to Jeremiah..."
+- "The word of the LORD came to me"
+- "The Lord says"
+- "The word of the Lord came to Jeremiah..."
 
 Jeremiah went about his business. Living his life. Waited on the Lord to speak. Not all at one time but when God chose to speak so that Jeremiah could preach to Judah and the nations surrounding Israel.
 
@@ -125,7 +125,7 @@ God speaks when he wants to speak. Maybe it will be day after day. Or it might b
 
 And you might think that stinks. But hold on. Keep your britches on. I got some good news.
 
-### and afterwards for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing;
+### and afterward for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto writing
 
 >Proverbs 22:19–21 (CSB) I have instructed you today—even you— so that your confidence may be in the LORD. 20 Haven’t I written for you thirty sayings about counsel and knowledge, 21 in order to teach you true and reliable words, so that you may give a dependable report to those who sent you?
 
@@ -151,7 +151,7 @@ The gospel was given to one another by preaching it. The gospel was given to one
 
 And the word of God lives forever. Burn all the Bible and destroy all of the Internet and it will live forever. But the Bible is not of this world. It is the breathed out words of the Almighty Creator God of the Universe.
 
-### which maketh the holy Scripture to be most necessary; 
+### which maketh the Holy Scriptures to be most necessary 
 
 >2 Timothy 3:15 (CSB) and you know that from infancy you have known the sacred Scriptures, which are able to give you wisdom for salvation through faith in Christ Jesus.
 
@@ -165,11 +165,11 @@ Christian, want to debate on this. Try living your life for a week, completely s
 
 Some of yall can tell me that because most of us don't engage in the word of God outside a pretty instagram post for months. I am not here to condemn you nor shame you. But without the Bread of Life, how do you expect to live?
 
-### those former ways of God’s revealing His will unto His people being now ceased.
+### those former ways of God's revealing his will unto his people being now ceased
 
 >Hebrews 1:1–2 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways. 2 In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
 
-I am what people call, "Charismatic". All that means is that the gifts of the Spirit, infinite in their numbers, are given to the people of God for the work of the ministry and they continue on to this day.
+I am what people call, "Charismatic". All that means is that the gifts of the Spirit, infinite in numbers, are given to the people of God for the work of the ministry and they continue on to this day.
 
 One of the most controversial gifts of the Spirit is prophecy. We are called to exhort and encourage one another and sometimes, Charismatics will call that "prophecy".
 
@@ -253,7 +253,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -262,7 +262,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -271,4 +271,4 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
+---

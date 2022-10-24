@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -51,7 +51,7 @@ draft: true
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
 The whole counsel of God, concerning all things necessary for His own glory, man’s salvation, faith, and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men. Nevertheless we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word; and that there are some circumstances concerning the worship of God, and the government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.
@@ -119,7 +119,7 @@ And if God saves you, it is a done deal forever:
 
 The whole counsel of God, expressed plainly in Scriptures or by good and necessary consequence may be deduced from Scripture is sufficient and basic and complete for our salvation, faith, and life.
 
-### unto which nothing at any time is to be added, whether by new revelations of the Spirit and traditions of men
+### unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men
 
 I wanted to add some clarification to Sproul's example of using Charismatics. *Some* Charismatics believe that they can receive a new revelation by the Holy Spirit and it does not have to be tested or tried by the Bible. Most Charismatics could pass the orthodoxy pop quiz by asking them this question, "Do you believe you could receive revelation by the Holy Spirit that would add to the Scriptures?" and they would say, "Of course not." I would add on, "Because are not Mormons or Jehovah Witnesses."
 
@@ -182,7 +182,7 @@ I am not saying circumstances and my own sin will not impact nor crush me. Regre
 
 Oh, when I see the face of my Savior, I will kiss his face with a million kisses because he loved me and saved me to himself.
 
-### that there are some circumstances concerning the worship of God, and the government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed
+### and that there are some circumstances concerning the worship of God, and the government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed
 
 From the Scriptures, we know how to worship of God--not just in church but with all of our lives. For:
 
@@ -230,7 +230,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -239,7 +239,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -248,6 +248,4 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
-
-
+---

@@ -45,10 +45,10 @@ draft: true
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
-The authority of the holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the Author thereof; and therefore it is to be received, because it is the Word of God.
+The authority of the Holy Scripture, for which it ought to be believed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the author thereof; therefore it is to be received because it is the Word of God.
 ```
 
 <div style="page-break-after: always;"></div>
@@ -136,7 +136,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -145,7 +145,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -154,6 +154,6 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
+---
 
 

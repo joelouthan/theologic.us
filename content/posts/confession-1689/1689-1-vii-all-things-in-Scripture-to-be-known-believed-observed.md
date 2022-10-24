@@ -16,7 +16,7 @@ draft: true
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
 All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed, for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means, may attain unto a sufficient understanding of them.
@@ -26,7 +26,13 @@ All things in Scripture are not alike plain in themselves, nor alike clear unto 
 
 ## The Confession
 
-### 
+### All things in Scripture are not alike plain in themselves, nor alike clear unto all
+
+### yet those things which are necessary to be known, believed, and observed, for salvation
+
+### are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned
+
+### in a due use of the ordinary means, may attain unto a sufficient understanding of them.
 
 ## The Discussion
 
@@ -92,7 +98,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -101,7 +107,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -110,6 +116,4 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
-
-
+---

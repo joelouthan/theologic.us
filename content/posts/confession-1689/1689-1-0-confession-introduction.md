@@ -137,7 +137,7 @@ His ministry has had the greatest impact on my Christian life. What I love is th
 
 And in God's great grace, this book was released shortly after his death. This book all but confirmed my unction that I should study the Confessions. I would not have this series without his work and his influence on my life.
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="150" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism  
 The Westminster Divines.  
@@ -158,7 +158,7 @@ So I took the [time to redesign](https://drive.google.com/file/d/18b99ilwtFlP2PW
 
 So when I saw the full Biblical references on this resource for the Westminster Confession, I instantly handed over some cash and got this wonderful resource in my hands. Sit and read it with me. You will not be disappointed.
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="150" style="padding-right: 10px" />The Creedal Imperative  
 by Carl Trueman.  
@@ -169,7 +169,7 @@ At the time of this post, I have yet to read through this. But when I popped on 
 
 I will read this through as we are going through the series.
 
-___
+---
 
 <div style="page-break-after: always;"></div>
 

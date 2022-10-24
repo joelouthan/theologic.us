@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ## The Text
@@ -19,10 +19,10 @@ draft: true
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
-The books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of Scripture; and therefore are of no authority in the church of God, nor to be any otherwise approved, or made use of, than other human writings.
+The books commonly called Apocrypha, not being of divine inspiration, are no part of the canon or rule of the Scripture, and, therefore, are of no authority to the church of God, nor to be any otherwise approved or made use of than other human writings.
 ```
 
 <div style="page-break-after: always;"></div>
@@ -134,7 +134,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -143,7 +143,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -152,6 +152,6 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
+---
 
 

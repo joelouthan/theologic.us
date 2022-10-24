@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -26,10 +26,10 @@ And
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
-We may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man’s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.
+We may be moved and induced by the testimony of the church of God to an high and reverent esteem of the Holy Scriptures; and the heavenliness of the matter, the efficacy of the doctrine, and the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man's salvation, and many other incomparable excellencies, and entire perfections thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit bearing witness by and with the Word in our hearts.
 ```
 
 <div style="page-break-after: always;"></div>
@@ -84,13 +84,13 @@ In other words, you will need the Holy Spirit to understand the Bible. Without H
 
 >2 Corinthians 2:15-16 (CSB) For to God we are the fragrance of Christ among those who are being saved and among those who are perishing. 16 To some we are an aroma of death leading to death, but to others, an aroma of life leading to life. Who is adequate for these things?
 
-### We may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine...
+### We may be moved and induced by the testimony of the church of God to an high and reverent esteem of the Holy Scriptures; and the heavenliness of the matter, the efficacy of the doctrine
 
 Wherever we might be in our theology and doctrine and the sheer academic study of the Scriptures, we stand on the giants of the faith before us. That is the church of Christ before us. Going back to the Christ and his ministry and then going back further to the work of Moses, we know nothing outside the testimony of the Church. All the pastors, all the Apostles, all the Prophets, the Kings, the Priests under the sovereign grace of Christ, who is the head of the church.
 
 We get to know or discover nothing new outside all of our brothers and sisters before us have done.
 
-### ... the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man’s salvation
+### the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man's salvation
 
 Throw your best arguments and pushbacks against the Bible. Let us say you don't believe it is supernatural, it is not from God because there is no God. One thing that cannot be denied is the Bible has withstood the test of time.
 
@@ -102,17 +102,18 @@ You might say, "But look at the controversies and the heresies and the abuse run
 
 And for those controversies and heresies and abuse? They did not win. They did not overcome. They did not conquer. They did not shut down the Church. All the world and hell and Satan and demons could not begin to build their best assault against the kingdom of God. Why? Jesus already brought the kingdom of God here to earth. And it is finished and complete. Now, we, you and me who belong to him, are charged as gospel heralds to proclaim that the good news that Jesus Christ is Lord of all.
 
-### the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God
+### and many other incomparable excellencies, and entire perfections thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God
 
 To the living word of God, there is nothing that compares to it. And it bears witness that Jesus Christ is Lord and God. It is the holder of the gospel--the absolutely power of God in salvation for you and me who believe. 
 
-### yet, notwithstanding, our full persuasion and assurance of the infallible truth and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts
+### yet notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit bearing witness by and with the Word in our hearts
 
 But it is only dependent on God who wills us to understanding and maturity:
 
 >Hebrews 5:11–6:3 (CSB)  We have a great deal to say about this, and it is difficult to explain, since you have become too lazy to understand. 12 Although by this time you ought to be teachers, you need someone to teach you the basic principles of God’s revelation again. You need milk, not solid food. 13 Now everyone who lives on milk is inexperienced with the message about righteousness, because he is an infant. 14 But solid food is for the mature—for those whose senses have been trained to distinguish between good and evil. 6:1 Therefore, let us leave the elementary teaching about Christ and go on to maturity, not laying again a foundation of repentance from dead works, faith in God, 2 teaching about ritual washings, laying on of hands, the resurrection of the dead, and eternal judgment. 3 And we will do this if God permits.
 
 What can we do? Pray and ask God to mature us and conform us to the image of His Son so that we might see him clearer and clearer every day.
+
 ## The Resources
 
 <img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
@@ -149,7 +150,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -158,7 +159,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -167,6 +168,4 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
-
-
+---

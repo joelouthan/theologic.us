@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -20,25 +20,23 @@ draft: true
 
 <div style="page-break-after: always;"></div>
 
-## The Article
+## The Chapter
 
 ```text
-Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament, which are these:
+Under the name of Holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these:
 
-Of the Old Testament Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth I Samuel II Samuel I Kings II Kings I Chronicles II Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes The Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi
+OF THE OLD TESTAMENT: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, I Samuel, II Samuel, I Kings, II Kings, I Chronicles, II Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Solomen, Isaiah, Jeremiah, Lamentations,Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
 
-Of the New Testament The Gospels according to Matthew Mark Luke John The Acts of the Apostles Paul's Epistles to the Romans Corinthians I Corinthians II Galatians Ephesians Philippians Colossians Thessalonians I Thessalonians II to Timothy I to Timothy II to Titus to Philemon The Epistle to the Hebrews The Epistle of James The First and Second Epistles of Peter The First, Second, and Third Epistles of John The Epistle of Jude The Revelation
+OF THE NEW TESTAMENT: Matthew, Mark, Luke, John, The Acts of the Apostles, Paul's Epistle to the Romans, I Corinthians, II Corinthians, Galatians, Ephesians, Philippians, Colossians, I Thessalonians, II Thessalonians, I Timothy, II Timothy, To Titus, To Philemon, The Epistle to the Hebrews, Epistle of James, The first and second Epistles of Peter, The first, second, and third Epistles of John, The Epistle of Jude, The Revelation
 
-All which are given by inspiration of God, to be the rule of faith and life.
-
-The books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of Scripture; and therefore are of no authority in the church of God, nor to be any otherwise approved, or made use of, than other human writings.
+All of which are given by the inspiration of God, to be the rule of faith and life. 
 ```
 
 <div style="page-break-after: always;"></div>
 
 ## The Confession
 
-### Under the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testament
+### Under the name of Holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments
 
 How did the canonization of the 66 books of the Bible come to being?
 
@@ -56,7 +54,7 @@ And if you don't know your Bible well, you might be tempted to dismiss this alto
 >
 >Simon Peter answered, “Lord, to whom will we go? You have the words of eternal life. We have come to believe and know that you are the Holy One of God.”
 
-### All which are given by inspiration of God, to be the rule of faith and life
+### All of which are given by the inspiration of God, to be the rule of faith and life
 
 >2 Timothy 3:16 - 17 (CSB) All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, so that the man of God may be complete, equipped for every good work.
 
@@ -144,7 +142,7 @@ Orlando: Reformation Trust, 2019.
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/confession-wcf-banner-of-truth.jpg" align="left" width="100" style="padding-right: 10px" />The Westminster Confession: The Confession of Faith, The Larger and Shorter Catechism.  
 Westminster Assembly.  
@@ -153,7 +151,7 @@ The Directory for the Public Worship of God, with Associated Historical Document
 
 <p style="clear:both;">
 
-___
+---
 
 <img src="/images/resources/book-creedal-imperative-trueman.jpg" align="left" width="100" style="padding-right: 10px" />The Creedal Imperative.  
 Carl R. Trueman    
@@ -162,4 +160,4 @@ Crossway, 2012.
 
 <p style="clear:both;">
 
-___
+---
