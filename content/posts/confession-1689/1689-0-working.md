@@ -132,7 +132,7 @@ The whole counsel of God concerning all things necessary for his own glory, man'
 
 ---
 
-### 1.vii What is Necessary According to Holy Scripture
+### 1.vii The Clarity of Scripture for Salvation
 
 ```text
 All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed and observed for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of ordinary means, may attain to a sufficient understanding of them.
