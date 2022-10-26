@@ -13,6 +13,8 @@ css: "prayers"
 draft: false
 ---
 ## The Psalms
+>Psalm 86 (CSB)  
+> A prayer of David. 
 
 ><sup> 1 </sup> Listen, LORD, and answer me, for I am poor and needy. 
 
@@ -51,10 +53,38 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Protector
 </div>
 
 ```text
+You have been my God
+  since my birth
+  you have protected me
+  from the attacks of the world
+  you have shielded me
+  from the attacks of the enemy
 
+Moreso
+  you have been my shelter
+  when I had no roof
+  you have been my tower
+  when I was in constant danger
+  you have been my hope
+  when I was drowning in despair
+  you have been my home
+  when I had no one who loved me
+  you have been my God
+  when my idols have destroyed me.
+
+In my life and love and heart and strength,
+  I will glorify you for all of my days
+  You are my sweetest King
+  and one day, I will rest in your throne room
+  to worship you
+  and to look upon your lovely face
+  for all of my days.
+
+Thank you, my God and Protector.
+
+Amen.
 ```
-
