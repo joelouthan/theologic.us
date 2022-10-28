@@ -1,7 +1,7 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter "
+title: "1689 Baptist Confession of Faith, Chapter 1.ix The Interpretation of Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-07-13T06:00:00-05:00
+publishDate: 2022-11-09T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,16 +10,22 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
+
+>1 John 2:2 (CSB) He himself is the atoning sacrifice for our sins, and not only for ours, but also for those of the whole world.
+
+1. Sola scriptura
+2. The failure of sects and cults: failing to interpret standalone passages with the rest of scripture--taking things out of context
+3. The dangers of Biblicism (ex. 1 Cor 7)
 
 <div style="page-break-after: always;"></div>
 
 ## The Chapter
 
 ```text
-
+The infallible rule of interpretation of Scripture is the Scripture itself; and therefore when there is a question about the true and full sense of any Scripture (which is not manifold, but one), it must be searched by other places that speak more clearly.
 ```
 
 <div style="page-break-after: always;"></div>
