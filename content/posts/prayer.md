@@ -331,6 +331,8 @@ Dale Raglund & fam
 
 Jenn, fam 
 
+Derek & Jeanny, fam (built house on Fords Mill & Gastineau)
+
 ### Love Feast
 
 Paul & Anne, Olivia, Louis, Violet
