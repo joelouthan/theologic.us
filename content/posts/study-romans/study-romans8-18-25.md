@@ -134,7 +134,7 @@ You are going to see change in your heart. Don't fight it nor resist it. Give in
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ### Christ defines us: remember your adoption by the Father
 

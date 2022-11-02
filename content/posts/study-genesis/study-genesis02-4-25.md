@@ -236,7 +236,7 @@ Self-righteousness is deceptive. Isn't it. Because you think you are doing somet
 
 Jesus' righteousness comes from a place so completely alien to us. Jesus is righteous because not only did he not sin but he knew no sin. None us cannot claim that. All of us know sin. God knows no sin. Yet, he died so we could have that exact same righteousness forever. Because of that death and because of that righteousness for self-righteousness exchange, we can now be with God--like it was always designed in the beginning--forever.
 
-## Our Responsibility
+## Our Response
 
 We have got to stop thinking that we, within ourselves, with the work of our hands, the thoughts in our heads, the voices we are listening to and the world at large is the standard for life.
 

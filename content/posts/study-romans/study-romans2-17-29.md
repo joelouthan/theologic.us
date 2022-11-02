@@ -169,7 +169,7 @@ Only one's works were obedient to God because the believer has no righteousness 
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 The call is always to believe and put your trust in God.  It is literally the only way you can be saved.
 

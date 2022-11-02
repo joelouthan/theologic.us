@@ -224,7 +224,7 @@ we are being put to death all day long;
 we are counted as sheep to be slaughtered.
 37 No, in all these things we are more than conquerors through him who loved us. 38 For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, 39 nor height nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.
 
-## Our Responsibility
+## Our Response
 
 
 ><sup> 13-14 </sup> In the six hundred first year, in the first month, on the first day of the month, the water that had covered the earth was dried up. Then Noah removed the ark’s cover and saw that the surface of the ground was drying. 

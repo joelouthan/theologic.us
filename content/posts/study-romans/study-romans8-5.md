@@ -35,7 +35,7 @@ Where do you see God in the text? What does the text say about God?
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ## The Discussion
 

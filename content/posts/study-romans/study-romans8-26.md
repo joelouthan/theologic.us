@@ -81,7 +81,7 @@ That’s when the almighty Spirit steps in, shatters the mouth of the lion, shie
 
 That is powerful love.
 
-## Our Responsibility
+## Our Response
 
 Yours to do: is to give the only thing you and I have to offer to the Son of God who is God: our sin.
 

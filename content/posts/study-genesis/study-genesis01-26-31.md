@@ -96,7 +96,7 @@ So many of the laws of God deals with how we are to treat other humans. Do not s
 
 >Colossians 3:11 (CSB) In Christ there is not Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, slave and free; but Christ is all and in all.
 
-## Our Responsibility
+## Our Response
 
 ### Know that our sin against one another is sin against God
 

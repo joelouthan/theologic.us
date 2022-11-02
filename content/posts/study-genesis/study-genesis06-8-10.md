@@ -114,7 +114,7 @@ We are declared blameless.
 >so far has he removed  
 >our transgressions from us.
 
-## Our Responsibility
+## Our Response
 
 >1 John 1:9 (CSB) If we confess our sins, he is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.
 

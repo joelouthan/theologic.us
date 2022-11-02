@@ -144,7 +144,7 @@ It is an absolute fact: "You shall name Him, Jesus, for he will save His people 
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ><sup> 20 </sup> The law came along to multiply the trespass. But where sin multiplied, grace multiplied even more 
 

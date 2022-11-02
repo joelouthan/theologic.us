@@ -170,7 +170,7 @@ God is Absolute Judge. He sees the the depths of our hearts and how we think and
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Let us not kid ourselves into thinking that we acknowledging God in our prayers over meals or injecting the name of God into our Constitution or Pledge of Allegiance or on our bumper stickers that would be good enough for God.
 

@@ -152,7 +152,7 @@ Jesus Christ is the righteousness we need.
 
 Jesus Christ is the blessing.
 
-## Our Responsibility
+## Our Response
 
 ### The Love of God: Love God then go
 

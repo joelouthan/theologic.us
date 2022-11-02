@@ -96,7 +96,7 @@ If that is you, then take a few seconds to listen how the Almighty, Wrathful, Ju
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Hear that? Jesus Christ who lived, died, and rose again is asking you to come to him. You carrying around slogs of crap around? Give it to him. He will take it. What about that wickedness? What about that sin? What about my anxiety? What about struggles? What about my addictions?
 

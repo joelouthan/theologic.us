@@ -144,7 +144,7 @@ But why would God need to save His people from their sins? **For all have sinned
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 What is ours to do? The Bible and especially the book of Romans is going to start making clear and distinct marks: either you are in Christ or you are not in Christ. There is no middle ground.
 

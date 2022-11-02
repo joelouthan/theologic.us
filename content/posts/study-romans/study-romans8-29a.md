@@ -106,7 +106,7 @@ And you might say to me, “This foreknowledge to too much for me to dwell on. H
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 So in all of this, I must concede to one answer to the question of “What did God see in us to save us?”
 

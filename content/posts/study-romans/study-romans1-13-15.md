@@ -96,7 +96,7 @@ The other reaction: God gives you a new heart with new desires. I think, it is a
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Stop turning away from God.
 

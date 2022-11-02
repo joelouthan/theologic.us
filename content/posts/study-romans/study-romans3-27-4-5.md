@@ -185,7 +185,7 @@ The second best time would be right this second. Listen, you might try to hold o
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 >Mark 1:14-15 (CSB) After John was arrested, Jesus went to Galilee, proclaiming the good news of God: “The time is fulfilled, and the kingdom of God has come near. Repent and believe the good news!”
 

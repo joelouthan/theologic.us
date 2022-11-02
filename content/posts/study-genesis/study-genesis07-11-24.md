@@ -198,7 +198,7 @@ God has provided everything that you will need to fully and truly live--he has d
 
 >Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.
 
-## Our Responsibility
+## Our Response
 
 ><sup> 24 </sup> And the water surged on the earth 150 days.
 

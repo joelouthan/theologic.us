@@ -177,7 +177,7 @@ Or to sum it up in another way:
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ### Obey the gospel command: repent and believe
 

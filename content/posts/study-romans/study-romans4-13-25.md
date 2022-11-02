@@ -134,7 +134,7 @@ Paul will sum up all of the first half of Romans in this precious way:
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 How on earth do we do that?
 

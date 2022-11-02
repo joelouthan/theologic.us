@@ -140,7 +140,7 @@ Paul would double down with rest of the Bible: we are not saved by good works bu
 
 ><sup> 6 </sup> Abram passed through the land to the site of Shechem, at the oak of Moreh. (At that time the Canaanites were in the land.) 
 
-## Our Responsibility
+## Our Response
 
 ### Predestined by God: Abram Gets Glorify God and Enjoy Him Forever
 

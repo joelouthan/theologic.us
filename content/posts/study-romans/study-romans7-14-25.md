@@ -148,7 +148,7 @@ This week, we are going to see the ongoing recovery from that surgery.
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ### Praise his name: We were once dead
 

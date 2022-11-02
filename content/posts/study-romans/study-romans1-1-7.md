@@ -122,7 +122,7 @@ What about those who do not believe in Christ Jesus:
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 This is the call: trust in God alone.
 

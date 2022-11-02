@@ -197,7 +197,7 @@ What is the kindness of God that comes from not his love but all rooted in his h
 
 Just as God perfectly planned and provided for the salvation of Noah and his family in the midst of the great flood, God perfectly sent His Perfect Son, who perfectly and joyfully obeyed God--even to death on a cross--in order to live and die so that His people would be saved from sins forever.
 
-## Our Responsibility
+## Our Response
 
 ><sup> 22 </sup> And Noah did this. He did everything that God had commanded him.
 

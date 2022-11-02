@@ -75,7 +75,7 @@ The gospel saves only those who believe. The gospel saves only to those who call
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Now sit and think about all that. And now consider every verse you have read or heard you had about preaching:
 

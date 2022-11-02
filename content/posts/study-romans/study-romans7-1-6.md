@@ -153,7 +153,7 @@ Here's another one:
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ><sup> 5 </sup> For when we were in the flesh, the sinful passions aroused through the law were working in us to bear fruit for death. 
 

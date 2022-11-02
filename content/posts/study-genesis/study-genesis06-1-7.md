@@ -157,7 +157,7 @@ Christian? What does God say? How is God going to save us now?
 
 >Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord
 
-## Our Responsibility
+## Our Response
 
 Sin does not leave us alone. Sin does not get better on its own. Sin is not neutral. It is always crouching and waiting to devour us. It will consume us. It will destroy us. It will kill us.
 

@@ -209,7 +209,7 @@ But because God does not change, that all of his promises are yes and amen, that
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Read your Bible. Know your God.
 

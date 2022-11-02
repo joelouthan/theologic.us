@@ -121,7 +121,7 @@ draft: false
 >
 >4 But when the kindness of God our Savior and his love for mankind appeared, 5 he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. 6 He poured out his Spirit on us abundantly through Jesus Christ our Savior 7 so that, having been justified by his grace, we may become heirs with the hope of eternal life.
 
-## Our Responsibility
+## Our Response
 
 ### Don't be tempted and deceived by sin
 

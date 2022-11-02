@@ -108,7 +108,7 @@ Who is the only one?
 
 >Matthew 11:28-30 (CSB) 28 “Come to me, all of you who are weary and burdened, and I will give you rest. 29 Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. 30 For my yoke is easy and my burden is light.”
 
-## Our Responsibility
+## Our Response
 
 ### We are to put our faith in the one gives us rest by living and dying for us
 

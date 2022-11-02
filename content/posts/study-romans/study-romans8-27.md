@@ -80,7 +80,7 @@ Oh, the mighty love of God be will with us all today and forever. Amen.
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 But what if you don’t know God like this? What if this is all foreign to you? Just know that our precious God made sure there is more than ample room at the foot of the cross of Christ for you.
 

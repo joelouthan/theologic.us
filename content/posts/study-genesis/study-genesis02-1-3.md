@@ -114,7 +114,7 @@ What does Christ say?
 
 >Matthew 11:29-30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”
 
-## Our Responsibility
+## Our Response
 
 ### God loves us and one day, in him alone, we will have our rest forever
 

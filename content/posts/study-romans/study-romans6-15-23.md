@@ -165,7 +165,7 @@ And you will still be under the wrath of God for your unbelief in the Lord Jesus
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 What is ours to do?
 

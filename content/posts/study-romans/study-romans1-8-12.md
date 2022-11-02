@@ -67,7 +67,7 @@ The gospel is about His Son, Jesus Christ.
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ### For I want very much to see you
 
