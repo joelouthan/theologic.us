@@ -67,7 +67,7 @@ draft: false
 
 Idolatry is our feeble attempt to control God.
 
-## Our Responsibility
+## Our Response
 
 ### Why are we to carry out the Great Commission?
 

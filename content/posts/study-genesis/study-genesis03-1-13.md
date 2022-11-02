@@ -170,7 +170,7 @@ Adam and Eve were tempted by being like God. They were not satisfied with being 
 
 You followed your heart. And you end up in the deepest, darkest trenches, left for dead. And if God has mercy on your soul, you will want something more than death.
 
-## Our Responsibility
+## Our Response
 
 ### Realize and know: we have nothing more than God
 

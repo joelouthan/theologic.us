@@ -160,7 +160,7 @@ Per John Stott, God is high above, far from, exposes, burns, and vomits out sin.
 
 But here is the good news: God did not do the sin. God does not do evil. Yet, God does not lie. God desires his people. Therefore, God does whatever it takes to save his people.
 
-## Our Responsibility
+## Our Response
 
 Go and sin no more.
 

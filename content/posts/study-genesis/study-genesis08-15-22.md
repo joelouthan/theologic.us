@@ -119,7 +119,7 @@ Jesus Christ is his name!
 
 >Matthew 23:37-39 (CSB) Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her. How often I wanted to gather your children together, as a hen gathers her chicks under her wings, but you were not willing! 38 See, your house is left to you desolate. 39 For I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord’!”
 
-## Our Responsibility
+## Our Response
 
 ><sup> 20 </sup> Then Noah built an altar to the LORD. He took some of every kind of clean animal and every kind of clean bird and offered burnt offerings on the altar. 
 

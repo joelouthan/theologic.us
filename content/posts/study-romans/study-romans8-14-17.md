@@ -70,7 +70,7 @@ God is our Father. Christ is our eldest brother. Spirit bears witness with our s
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Trust in Christ.
 

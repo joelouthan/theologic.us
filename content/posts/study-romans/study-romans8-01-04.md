@@ -88,7 +88,7 @@ Chrst alone is our fulfillment of the law.
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ><sup> 4 </sup> in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
 

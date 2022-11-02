@@ -205,7 +205,7 @@ But let us not foolishly believe that we can control God, tell God what to do, a
 
 We are weak. He is strong. We are desperate. He alone gives relief. We are far. He draws near. Never forget that.
 
-## Our Responsibility
+## Our Response
 
 ><sup> 28 </sup> Now Noah lived 350 years after the flood.
 

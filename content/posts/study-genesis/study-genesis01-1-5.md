@@ -187,7 +187,7 @@ We have all sinned and fallen short of the glory of God. (Romans 3:23) In order 
 >that Jesus Christ is Lord,  
 >to the glory of God the Father.
 
-## Our Responsibility
+## Our Response
 
 Turn to God. Repent. Lay our sin upon Christ His Son. This is the wisdom of God that does not make sense to the world. It doesn't have to make sense to them. It almost doesn't have to make sense to us--we just need to trust and obey the gospel of Christ crucified.
 

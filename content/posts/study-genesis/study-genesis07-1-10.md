@@ -203,7 +203,7 @@ You depart not into some neutral territory or some wilderness. You will sit unde
 
 Christian, listen to me: do not let the world or other Christians try to tell you that Christ never spoken about hell. Your pithy word search "hell" in your Bible is coming up with zero results and that lie you are believing might send you straight to hell.
 
-## Our Responsibility
+## Our Response
 
 If it is clear that God's judgment upon mankind is certain, what is ours to do?
 

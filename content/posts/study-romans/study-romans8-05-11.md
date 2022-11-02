@@ -94,7 +94,7 @@ Who will be merely injured by the Liar?
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 First:
 

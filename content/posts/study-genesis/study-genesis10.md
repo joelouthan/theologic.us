@@ -365,7 +365,7 @@ What is God's gift? Salvation, grace, faith? The answer is yes--all three.
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 We build our little kingdoms and we are vaporized like dew in the high noon sun.
 

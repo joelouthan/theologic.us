@@ -175,7 +175,7 @@ God has to give you six things in order for you to battle spiritually and agains
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 1\. Pray for all the saints:
 

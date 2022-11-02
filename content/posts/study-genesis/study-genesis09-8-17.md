@@ -118,7 +118,7 @@ And
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ><sup> 17 </sup> God said to Noah, “This is the sign of the covenant that I have established between me and every creature on earth.”
 

@@ -108,7 +108,7 @@ Are we saved by our good works? Are saved to God by ourselves first? How did God
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Consider this, if you are in Christ:
 

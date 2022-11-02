@@ -74,7 +74,7 @@ Let the world take everything-my innocence, my money, my family, my job, my educ
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 How’s that you say? Again, let us use the words of Paul:
 

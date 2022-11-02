@@ -85,7 +85,7 @@ It is all of Romans 6.
 
 >Luke 13:1-5 (CSB) At that time, some people came and reported to him about the Galileans whose blood Pilate had mixed with their sacrifices. And he responded to them, “Do you think that these Galileans were more sinful than all the other Galileans because they suffered these things? No, I tell you; but unless you repent, you will all perish as well. Or those eighteen that the tower in Siloam fell on and killed—do you think they were more sinful than all the other people who live in Jerusalem? No, I tell you; but unless you repent, you will all perish as well.”
 
-## Our Responsibility
+## Our Response
 
 ### Repent of sin
 

@@ -94,7 +94,7 @@ draft: false
 
 >2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
-## Our Responsibility
+## Our Response
 
 ### We are to suffer under the curse of sin--that is inescapable
 

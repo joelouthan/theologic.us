@@ -159,7 +159,7 @@ Here is the call: change your mind about what you have and where it comes from.
 
 Our paychecks, our livelihood, the knowledge in our brains, the strength in our hands, the college we attended, the cars we drive, the clothes on our back, 5G and high speed internet--all of it--comes from God.
 
-## Our Responsibility
+## Our Response
 
 ### Believe in God as Provision
 

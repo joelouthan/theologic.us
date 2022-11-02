@@ -94,7 +94,7 @@ God is good. God is there. God is our healer. God is our defender. God is our pr
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ### Take a hold of the truest form of peace--shalom--that comes only by being justified by God by faith in God
 

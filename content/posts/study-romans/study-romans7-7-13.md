@@ -154,7 +154,7 @@ And yes, I do believe you need to get therapy for our physical, mental, and emot
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 ><sup> 13 </sup> Therefore, did what is good become death to me? Absolutely not! But, sin, in order to be recognized as sin, was producing death in me through what is good, so that through the commandment, sin might become sinful beyond measure.
 

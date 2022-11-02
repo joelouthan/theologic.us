@@ -144,7 +144,7 @@ You now have eyes to see, ears to hear, mind to think, and a new heart with new 
 
 You are not just a physical body walking around merely existing. You are now fully and truly alive.
 
-## Our Responsibility
+## Our Response
 
 What is ours to do?
 

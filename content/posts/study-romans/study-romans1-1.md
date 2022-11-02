@@ -84,7 +84,7 @@ Make no mistake: without a faith in Christ Jesus as your Lord and Savior, you wi
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 If you are listening to the podcast, let it be known that God has made the call to you. Right now, He is extending his hand out and asking you to trust in Him. He is asking you to trust in Him and take him at his word.
 

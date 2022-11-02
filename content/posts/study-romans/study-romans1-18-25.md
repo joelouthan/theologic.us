@@ -190,7 +190,7 @@ God knows that sin breaks us because it already has broken us. If we let it cont
 
 <div style="page-break-after: always;"></div>
 
-## Our Responsibility
+## Our Response
 
 Worship the one God, the only God, maker of heaven and earth.
 
