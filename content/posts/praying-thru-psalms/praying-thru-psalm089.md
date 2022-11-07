@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 89 Keeper"
 author: Joseph Louthan
-publishDate: 2022-08-07T06:00:00-05:00
+publishDate: 2022-11-19T06:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -10,7 +10,7 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Psalms
 
