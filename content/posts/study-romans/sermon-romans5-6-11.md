@@ -1,7 +1,7 @@
 ---
 title: 'Sermon: Romans 5:6–11'
 author: Joseph Louthan
-publishDate: 2022-11-02T06:00:00-05:00
+publishDate: 2022-11-07T06:00:00-05:00
 categories:
   - Sermons
 tags:
