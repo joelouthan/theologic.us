@@ -45,10 +45,13 @@ How did we get here?
 
 ### Our Helpless Estate
 
-Worm not a man
-1 Cor 29
-Dead in our trespasses
-once foolish
+>Psalms 22:6 (CSB) But I am a worm and not a man, scorned by mankind and despised by people.
+
+>1 Chronicles 29:14 (CSB) But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from you, and we have given you only what comes from your own hand.
+
+>Ephesians 2:1 (CSB) And you were dead in your trespasses and sins
+
+>Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 
 ---
 
