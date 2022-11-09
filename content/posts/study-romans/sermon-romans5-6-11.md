@@ -1,5 +1,5 @@
 ---
-title: 'Sermon: Romans 5:6–11'
+title: 'Sermon: Romans 5:6–11 Future Sin Future Grace'
 author: Joseph Louthan
 publishDate: 2022-11-07T06:00:00-05:00
 categories:
@@ -41,6 +41,8 @@ How did we get here?
 
 ## Our God
 
+><sup> 6 </sup> For while we were still helpless, at the right time, Christ died for the ungodly.
+
 ### Our Helpless Estate
 
 Worm not a man
@@ -48,23 +50,52 @@ Worm not a man
 Dead in our trespasses
 once foolish
 
+---
+
+><sup> 7 </sup> For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. 
+
 ### Far from God
 
-laying down ones life
-  stipulations
-  earn trust
-  take a bullet
+No one here has been in a situation to take a bullet for someone's life--
+
 
 ## The Gospel
 
-### While we were yet sinners
+><sup> 8 </sup> But God proves his own love for us in that while we were still sinners, Christ died for us.
 
-### While we were yet enemies
+### But God
+
+### proves his own love
+
+### for us
+
+### in that while we were still sinners
+
+### Christ
+
+### died for us
+
+---
 
 ## Our Response
 
-### Boast in nothing else
+><sup> 10 </sup> For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life. 
+
+### No longer at war with God, but peace through his Son, the Lord Jesus Christ
+
+---
+
+><sup> 11 </sup> And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
 
 ### We have been fully reconciled to God
 
-2 Cor 5:17-21
+>2 Corinthians 5:17–21 (CSB)  
+><sup> 17 </sup> Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come! 
+
+><sup> 18 </sup> Everything is from God, who has reconciled us to himself through Christ and has given us the ministry of reconciliation. 
+
+><sup> 19 </sup> That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and he has committed the message of reconciliation to us. 
+
+><sup> 20 </sup> Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.” 
+
+><sup> 21 </sup> He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
