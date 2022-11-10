@@ -13,7 +13,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
->>So sin cannot approach God, and God cannot tolerate sin.
+>>So sin cannot approach God, and God cannot tolerate sin.  
 >>John Stott, The Cross of Christ
 
 We can say ‘holiness of God’ and yet, it is entirely possible we don’t know what that truly means. On earth, we attempt to go through rituals or processes to be holy or appear to be holy. What makes God almighty and power is that he does do things like a human in order to be something, he is or as he would expertly, precisely and simply put it, “I Am”.
