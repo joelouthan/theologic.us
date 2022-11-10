@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1.i On Holy Scripture"
+title: "1689 Baptist Confession of Faith, Chapter 1 Of the Holy Scriptures"
 author: Joseph Louthan
 publishDate: 2022-06-01T06:00:00-05:00
 categories:
