@@ -83,7 +83,11 @@ So using all Romans, how did we get here? What did Paul say before saying this w
 
 >James 1:2-3 (CSB) Consider it a great joy, my brothers and sisters, whenever you experience various trials, because you know that the testing of your faith produces endurance.
 
-TODO: Boast in our afflictions? Consider it a great joy for trials and tribulations? 
+Boast in our afflictions? Consider it a great joy for trials and tribulations? Who needs tribulations? Isn't life hard enough as is?
+
+Character and endurance? What is God preparing us for?
+
+To answer that question, you got to start again from the beginning.
 
 ## Our God
 
@@ -98,6 +102,7 @@ TODO: Boast in our afflictions? Consider it a great joy for trials and tribulati
 >>
 >>Horatio Spafford. It Is Well With My Soul.
 
+>Isaiah 6:1–5 (CSB) In the year that King Uzziah died, I saw the Lord seated on a high and lofty throne, and the hem of his robe filled the temple. Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another: Holy, holy, holy is the LORD of Armies; his glory fills the whole earth. The foundations of the doorways shook at the sound of their voices, and the temple was filled with smoke. Then I said: Woe is me for I am ruined because I am a man of unclean lips and live among a people of unclean lips, and because my eyes have seen the King, the LORD of Armies.
 
 >Psalms 22:6 (CSB) But I am a worm and not a man, scorned by mankind and despised by people.
 
@@ -107,20 +112,63 @@ TODO: Boast in our afflictions? Consider it a great joy for trials and tribulati
 
 >Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 
+The Christian comes upon seeing the glory and beauty and the holiness of God and just becomes undone. Now you and I might have the Paul's Road to Damascus radical transformation. Some do. Others might have been like C.S. Lewis who just gets on their motorcycle and at the end of a very short drive, just believes and trust in God. 
+
+But we are all undone in one way or another at the sight of God and the beauty of his grace and gospel. And once you see it, you are never the same. You can't go back to what you once was. 
+
+In that moment when you were saved by God, you felt helpless. Insecure. Fearful. Shaky ground. Like Paul cries out, "Wretched man that I am! Who is going to save me from this body of sin and death!" Or like the tax collector, standing in the back of the sanctuary, beating his chest and crying out, "Lord, have mercy on me, a sinner!"
+
+It was there when God saved you completely unto himself. For good. You and I as sinners in the sight of God are helpless--you wanna say as babies--but even babies breath and live. We were helpless and dead corpses at the bottom of the ocean. Who is going to save us?
+
 ---
 
 ><sup> 7 </sup> For rarely will someone die for a just person—though for a good person perhaps someone might even dare to die. 
 
 ### Future Sin Future Grace: Far From God
 
-No one here has been in a situation to take a bullet for someone's life--
+I am going on a short limb to say that I don't think anybody here has ever been in a situation where you put yourself in danger in order of someone else to live. If you have, share with us afterwards because that would be an awesome story.
 
+I was a kid of the 80s where I was constantly exposed to the greatest movie genre ever to be invented: The Action Movie! And man, you saw so many movies where someone gives their own life so someone else would live, that you grew up thinking, "Man, this is just life for now on. Just psych yourself to take one for the team."
+
+And I am a US Air Force vet. I didn't see action like that.
+
+And in these action movies, it was someone being saved was if not a good person, at least someone redeemable. 
+
+But life is not an action movie. As awesome as it might sound, we do not live in constant danger with bullets whizzing by our heads every second of the day. 
+
+But this life is certainly not an action movie because the ones needing to be saved--you and I--were not good in the sight of God and by own strength, could not redeem ourselves. 
+
+You see what Christ did here?
+
+><sup> 6b </sup> at the right time, Christ died for the ungodly.
+
+Let me give it to you in another the way--the good news...
 
 ## The Gospel
 
 ><sup> 8 </sup> But God proves his own love for us in that while we were still sinners, Christ died for us.
 
 ### But God
+
+Let us start off here. Who is God? 
+
+Is God like us? No. He is far from us. For his good and worthy and holy and righteous and perfect. If you ever wanted a clearer picture, I encourage you all to read John Stott's Cross of Christ. Starting on page 107, Stott lists out 5 ways, because just the reason of sin, how we are not God:
+
+- He is high above our sin and idolatry
+- He is far from our wickedness and depravity
+- He is glorious - He shines the brightest
+
+>Revelation 22:5 (CSB) Night will be no more; people will not need the light of a lamp or the light of the sun, because the Lord God will give them light, and they will reign forever and ever.
+
+>>I am in sweet communion with Christ as a poor sinner can be; and am only pained that he hath much beauty and fairness, and I little love; he great power and mercy, and I little faith; he much light and I bleared eyes.
+>>Samuel Rutherford. The Loveliness of Christ.
+
+- He is rejects all sin from his presence - no toleration, does not have to live with it
+- 
+
+Does God have good and bad days and whatever life circumstances give him, he deals with accordingly? No. In actuality, he is completely sovereign over all circumstances. Things don't happen to him unless he allows it. That makes him omnipotent--which is a fancy way of calling him, Almighty.
+
+
 
 ### proves his own love
 
