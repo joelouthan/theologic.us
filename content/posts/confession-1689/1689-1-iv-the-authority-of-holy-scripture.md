@@ -102,6 +102,15 @@ Where we live in, the New Testament church, we cannot execute false teachers and
 God has spoken. He command each ones of us to trust in Him alone. Trust in him. Sit under the preaching of the word. Test the Scriptures. This is the calling of the people of God for all of their days.
 ## The Resources
 
+<img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
+by James Renihan.  
+Founders Press. 2022.  
+[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
+
+<p style="clear:both;">
+
+---
+
 <img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
 by Samuel E. Waldron.  
 Evangelical Press. 2013.  
