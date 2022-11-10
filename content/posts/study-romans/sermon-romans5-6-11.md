@@ -163,12 +163,12 @@ Is God like us? No. He is far from us. For his good and worthy and holy and righ
 >>I am in sweet communion with Christ as a poor sinner can be; and am only pained that he hath much beauty and fairness, and I little love; he great power and mercy, and I little faith; he much light and I bleared eyes.
 >>Samuel Rutherford. The Loveliness of Christ.
 
-- He is rejects all sin from his presence - no toleration, does not have to live with it
-- 
+- He is all-consuming - he will perfectly eradicate all sin from everywhere
+- He is rejects all sin from his presence - no toleration, does not have to live with it; he vomits it out of his being
 
 Does God have good and bad days and whatever life circumstances give him, he deals with accordingly? No. In actuality, he is completely sovereign over all circumstances. Things don't happen to him unless he allows it. That makes him omnipotent--which is a fancy way of calling him, Almighty.
 
-
+TODO: 
 
 ### proves his own love
 
