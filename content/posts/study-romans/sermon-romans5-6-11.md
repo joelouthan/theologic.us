@@ -1,7 +1,7 @@
 ---
 title: 'Sermon: Romans 5:6–11 Future Sin Future Grace'
 author: Joseph Louthan
-publishDate: 2022-11-10T06:00:00-05:00
+publishDate: 2022-11-11T06:00:00-05:00
 categories:
   - Sermons
 tags:
@@ -152,7 +152,7 @@ Let me give it to you in another the way--the good news...
 
 Let us start off here. Who is God? 
 
-Is God like us? No. He is far from us. For his good and worthy and holy and righteous and perfect. If you ever wanted a clearer picture, I encourage you all to read John Stott's Cross of Christ. Starting on page 107, Stott lists out 5 ways, because just the reason of sin, how we are not God:
+Is God like us? No. He is far from us. For his good and worthy and holy and righteous and perfect. If you ever wanted a clearer picture of who God is and how far we are from him, I encourage you all to read John Stott's Cross of Christ. Starting on page 107, Stott lists out 5 ways, because just the reason of sin, how we are not God:
 
 - He is high above our sin and idolatry
 - He is far from our wickedness and depravity
@@ -166,33 +166,124 @@ Is God like us? No. He is far from us. For his good and worthy and holy and righ
 - He is all-consuming - he will perfectly eradicate all sin from everywhere
 - He is rejects all sin from his presence - no toleration, does not have to live with it; he vomits it out of his being
 
-Does God have good and bad days and whatever life circumstances give him, he deals with accordingly? No. In actuality, he is completely sovereign over all circumstances. Things don't happen to him unless he allows it. That makes him omnipotent--which is a fancy way of calling him, Almighty.
+Does God have good and bad days and whatever life circumstances give him, he deals with accordingly? No. In actuality, he is completely sovereign over all circumstances. Things don't happen to him unless he allows it. That makes him omnipotent--which is a fancy way of calling him, the Almighty God.
 
-TODO: 
+Of all the things that he is and we are not, do you know what is the one chief thing that God is and we get to do? We do get to love one another.
 
 ### proves his own love
 
+I am not going to sugar coat this: the world has try to taken the word 'love' by God's definition and twist it like their father Satan does. But I want you to see how God defines love.
+
+For here is love:  
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+And here is love:  
+>Deuteronomy 7:6–8 (CSB) For you are a holy people belonging to the LORD your God. The LORD your God has chosen you to be his own possession out of all the peoples on the face of the earth. “The LORD had his heart set on you and chose you, not because you were more numerous than all peoples, for you were the fewest of all peoples. But because the LORD loved you and kept the oath he swore to your ancestors, he brought you out with a strong hand and redeemed you from the place of slavery, from the power of Pharaoh king of Egypt.
+
+And here is love:  
+>Psalm 103:15–18 (CSB) As for man, his days are like grass— he blooms like a flower of the field; when the wind passes over it, it vanishes, and its place is no longer known. But from eternity to eternity the LORD’s faithful love is toward those who fear him, and his righteousness toward the grandchildren of those who keep his covenant, who remember to observe his precepts.
+
+And here is love:  
+>Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, for his mercies never end. They are new every morning; great is your faithfulness!
+
+And here is love:  
+>Ezekiel 36:25–28 (CSB) I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols. I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances. You will live in the land that I gave your ancestors; you will be my people, and I will be your God.
+
+And here is love:  
+>Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
+
+And here is love:  
+>John 1:16–18 (CSB) Indeed, we have all received grace upon grace from his fullness, for the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
+
+And here is love:  
+>John 3:16–17 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him.
+
+And here is love:  
+>Romans 9:25–26 (CSB) As it also says in Hosea, I will call Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there they will be called sons of the living God.
+
+And here is love:  
+>Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
+
+And here is love:  
+>Romans 8:1 (CSB) Therefore, there is now no condemnation for those in Christ Jesus,
+
+And here is love:  
+>Romans 8:38–39 (CSB) For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.
+
+And...  
+>1 John 4:10 (ESV) In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
+
+God has all day to open your eyes and see what is actual love and how much He loves you.
+
+I could take the book of Leviticus and prove to you that is the love of God. And you might think, "How is the law of God is the love of God for us." Because in delivering the law to us, he shown us how far we are from him. If you read the law correctly, you are going to shout out, "I can't do this! It is impossible!" God is saying, "I know. I know. That is why I sent my Son."
+
 ### for us
+
+And here is love:  
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+The ESV reads starts this verse as, "For our sake." That is the most amazing part. That God doesn't have a generic all encompassing love generic for all things. No. This love, this saving love, this perfect love, this sanctifying love, this glorifying love, this satisfying love, this maxed out joy love is specifically directly targeting you, the children of God, the people of God, the sheep of his flock and the joy of his heart.
+
+No other created being. Not the puppy dogs. Not the kitty cats or the cute things of this world--although adorable, he does not target his love on them because he is already their Lord. He does not have this love for the angels because they are His already and they worship him perfectly. He has a specific love for his people because He made us in his image from the start. Not anything else ever created holds that distinction. Made in his image.
+
+And you might be asking, "But what about unbelievers who don't love and trust God." Let me reply by asking you how God replied to the prophet Isaiah: "Is the saving Almighty arm of God too short?" Does our God have T-Rex arms? No! He is mighty to save. And let me submit to you because in eternity before the foundation of world God the Father and God the Son set out to save His people from their sins and we know this in full because God proved his love for us already.
 
 ### in that while we were still sinners
 
-### Christ
+I had to avoid the temptation of making this the main point "while we were still sinners." You can already see the main point of this sermon is God and His great love for us. But don't miss this point. Don't gloss over it. Don't speed read over this:
 
-### died for us
+>But God proves his own love for us in that while were still sinners
+
+I know we are in Romans 5, but let me give you a spoiler alert:
+
+>Romans 8:28–30 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. **For those he foreknew he also predestined** to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+You might want to say that "God looked down the corridors of time and look to see when we accepted him as our Savior and God picked that timeline."
+
+That is a nice theory but there is one glitch. The Bible says "God foreknew us". It never says, "God foresaw us." In other words, he didn't see us changing our minds and hearts and choosing him to be our God. No! He knew us in our sin and depravity and wickedness and evil and he knew that we were always going to run away from him unto death because He alone knows the depths of our hearts. And you know what the Almighty God, creator of the heavens, earth, and hell, you know what he said, "That's who I want in my family. That person I want in my family forever. And I am going to live and die for that person so we can be together forever."
+
+He knows our hearts. And still he loves us.
+
+### Christ died for us
+
+As many of you know, God saved my oldest son, Yusef, not that long ago. And I have shared this story tons of times and I am going to share it again. I don't care. I love worshiping the Lord because He is so good.
+
+I get to talk to Yusef twice a week. And I thought this particular Tuesday in August was going to be like any other small talk phone conversation. But this call started out different. He wanted to know, "How does one start to believe in God?" That was a loaded question that deserved a loaded answer. Towards the end of the call, Yusef tells me, "Dad, I hav always told you I could not be a Christian because false preachers and hypocrite Christians. But to be honest, that is the not the reason at all. What if I go 'all-in' into this faith and it doesn't work out. There are no guarantees in life. What if this doesn't work out."
+
+And I simply responded, "You are right. In this life and in this world, there are no guarantees. But out of all the faiths, cults, religions, and philosophy, we Christians have a guarantee--the guarantee is in the life and death and resurrection of Jesus Christ our Lord. And you know what makes it even more amazing? All of what Christ did happened 2000 years ago. Our guarantee is an historical fact."
+
+A few days later, Yusef was saved by God. And a few weeks ago, I got to baptize him.
+
+Jesus Christ, the son of God who is God, the Alpha and the Omega, and the Beginning and the End, who was and is and is to come, came into our existence and timeline, stepped into our world, by the sovereign decree of God the Father, conceived by the power of the Spirit, born of the virgin Mary, live perfectly under the law of God, then was arrested, tried, suffered under Pontius Pilate, was tortured, beaten, hung and crucified on that cross, unto to death, buried in a rich man's tomb and he descended into Hell to snatch up the keys to Hades and Death, and on the third day, he was raise back to life and then ascended to the right hand of the Father forever. 
+
+Christ's life was given for me. His death was meant for me. He resurrection is that I might be born again and now live to him. His ascension to glory means that since he justified me, he also glorified me.
+
+My salvation is secure and set. Your salvation is secure and set. Because our God is perfect, Christ is perfect, the Holy Spirit is perfect and what they promised to do is perfectly done. The Almighty Holy God lacks the sin and wickedness and deceit to break any of his promises.
 
 ---
 
 ## Our Response
 
+What? So you struggle with sinful desires and thoughts and your heart sometimes flee?
+
 ><sup> 10 </sup> For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life. 
 
-### No longer at war with God, but peace through his Son, the Lord Jesus Christ
+### Future Sin Future Grace: Christ has already saved you
+
+reconciled... 
+the death of his Son... 
+reconciled...
+saved by his life...
+
+Hear the past tense. Hear the already done. Hear that God is our Perfect Father in Heaven who doesn't lose his kids. Hear that Christ is the Good Shepherd who has never lost one of his sheep because the sheep hears his voice because Christ knows us and we will follow him. The Holy Spirit has put a seal upon our heart and marked us as and bear witness with our spirit that we are children of God.
+
+God foreknew our wicked hearts. He remembered that we are made from dust. That is why he sent his Son to live and die so that we might live and never die.
 
 ---
 
 ><sup> 11 </sup> And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
 
-### We have been fully reconciled to God
+### Future Sin Future Grace: God is ours
 
 >2 Corinthians 5:17–21 (CSB)  
 ><sup> 17 </sup> Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come! 
@@ -203,4 +294,12 @@ TODO:
 
 ><sup> 20 </sup> Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.” 
 
+Our response in love for one another: "Be reconciled to God!" You are reconciled. I am reconciled. Pray earnestly. Share Christ. Love others deeply.
+
+We carry the message of reconciliation because we are ambassadors because we have been reconciled to God because we are new creation. We have been born again. We know this because Christ lived and died 2000 years ago. I am encouraging you and you encourage each other, "Be reconciled to God."
+
 ><sup> 21 </sup> He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+My beloved, we have become the righteousness of God because Christ became our sin. In the garden, our original parents exchanged their right-standing for sin. On the cross, Christ exchanged our sin for his righteousness.
+
+Give praise to the Lord!
