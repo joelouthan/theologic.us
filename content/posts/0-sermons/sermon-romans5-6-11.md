@@ -161,6 +161,7 @@ Is God like us? No. He is far from us. For his good and worthy and holy and righ
 >Revelation 22:5 (CSB) Night will be no more; people will not need the light of a lamp or the light of the sun, because the Lord God will give them light, and they will reign forever and ever.
 
 >>I am in sweet communion with Christ as a poor sinner can be; and am only pained that he hath much beauty and fairness, and I little love; he great power and mercy, and I little faith; he much light and I bleared eyes.
+>>
 >>Samuel Rutherford. The Loveliness of Christ.
 
 - He is all-consuming - he will perfectly eradicate all sin from everywhere
