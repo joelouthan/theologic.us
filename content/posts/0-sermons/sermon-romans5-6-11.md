@@ -39,21 +39,21 @@ The 1689 Second London Baptist Confession states it this way in Chapter 1, Part 
 
 >>The whole counsel of God concerning all things necessary for his own glory, man's salvation, faith and life, is either expressly set down or necessarily contained in the Holy Scripture
 
-Confession is certainly not Scripture. But our Confessions are simply doctrine--what the Bible teaches.
+Confession is certainly not Scripture. But our Confessions are simply doctrine. Don't be scared of the word 'doctrine'. It simply means, 'What the Bible teaches'.
 
 We know that the Bible does completely teach what is necessary for the glory of God and what is necessary for our salvation because the authors who were inspired by the Author who is the Holy Spirit say so.
 
 Paul drills this point on anything outside of Scriptures concerning our salvation:
 
->Galatians 1:8–9 (CSB) But even if we or an angel from heaven should preach to you a gospel contrary to what we have preached to you, a curse be on him! As we have said before, I now say again: If anyone is preaching to you a gospel contrary to what you received, a curse be on him!
+>Galatians 1:8–9 (CSB) But even if we or an angel from heaven **should preach to you a gospel contrary to what we have preached to you**, a curse be on him! As we have said before, I now say again: If anyone is preaching to you a gospel contrary to what you received, a curse be on him!
 
 Paul tells the young Pastor Timothy concerning our faith and life as Timothy shepherds the church in Ephesus :
 
->2 Timothy 3:14-17 (CSB) But as for you, continue in what you have learned and firmly believed. You know those who taught you, and you know that from infancy you have known the sacred Scriptures, which are able to give you wisdom for salvation through faith in Christ Jesus. All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, so that the man of God may be complete, equipped for every good work.
+>2 Timothy 3:14-17 (CSB) But as for you, continue in what you have learned and firmly believed. You know those who taught you, and **you know that from infancy you have known the sacred Scriptures, which are able to give you wisdom for salvation through faith in Christ Jesus**. All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, so that the man of God may be complete, equipped for every good work.
 
 Finally, out of the mouth of Christ concerning his great glory during his earthly ministry:
 
->John 6:45 (CSB) It is written in the Prophets: And they will all be taught by God. Everyone who has listened to and learned from the Father comes to me—
+>John 6:45 (CSB) **It is written in the Prophets: And they will all be taught by God**. Everyone who has listened to and learned from the Father comes to me—
 
 When I say I need the full council of God, that is, all of the Bible, to preach to you today, what this particular passage of Scripture means, I mean what I say. And if I need it, so do you.
 
@@ -71,15 +71,18 @@ So using all Romans, how did we get here? What did Paul say before saying this w
 
 >Romans 1:32 (CSB) Although they know God’s just sentence—that those who practice such things deserve to die—they not only do them, but even applaud others who practice them.
 
-- Romans 2 God gives law
-- Romans 3 No one is righteous. No not one.
-- Romans 3:21-26 we are justified freely by his grace-saints of the OT and NT alike
-- Romans 3:27-31 The law does not save us
-- Romans 4:1-8 We do not put God into our debt
-- Romans 4:9-25 We are saved by faith alone
-- Romans 5:1-5 Since we have Christ, we even get to boast and take joy in our afflictions
+- **Romans 2 God gives law**
+- **Romans 3 No one is righteous. No not one.**
+- **Romans 3:21-26 we are justified freely by his grace-saints of the OT and NT alike**
+- **Romans 3:27-31 The law does not save us**
+- **Romans 4:1-8 We do not put God into our debt**
+- **Romans 4:9-25 We are saved by faith alone**
+
+Then our passage today is in the context of all of that with one more passage: 
 
 >Romans 5:1–5 (CSB) Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. We have also obtained access through him by faith into this grace in which we stand, and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
+
+James, the half-brother of Jesus, says it this way:
 
 >James 1:2-3 (CSB) Consider it a great joy, my brothers and sisters, whenever you experience various trials, because you know that the testing of your faith produces endurance.
 
@@ -87,7 +90,7 @@ Boast in our afflictions? Consider it a great joy for trials and tribulations? W
 
 Character and endurance? What is God preparing us for?
 
-To answer that question, you got to start again from the beginning.
+To answer that question, you got to start again from the beginning. Not necessary the beginning of time but the beginning of our lives.
 
 ## Our God
 
@@ -95,14 +98,14 @@ To answer that question, you got to start again from the beginning.
 
 ### Future Sin Future Grace: Our Helpless Estate
 
->>Though Satan should buffet, though trials should come
->>Let this blest assurance control
->>That Christ has regarded my helpless estate
->>And has shed His own blood for my soul
+>>Though Satan should buffet, though trials should come  
+>>Let this blest assurance control  
+>>That Christ has regarded my helpless estate  
+>>And has shed His own blood for my soul  
 >>
 >>Horatio Spafford. It Is Well With My Soul.
 
->Isaiah 6:1–5 (CSB) In the year that King Uzziah died, I saw the Lord seated on a high and lofty throne, and the hem of his robe filled the temple. Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another: Holy, holy, holy is the LORD of Armies; his glory fills the whole earth. The foundations of the doorways shook at the sound of their voices, and the temple was filled with smoke. Then I said: Woe is me for I am ruined because I am a man of unclean lips and live among a people of unclean lips, and because my eyes have seen the King, the LORD of Armies.
+>Isaiah 6:1–5 (CSB) In the year that King Uzziah died, I saw the Lord seated on a high and lofty throne, and the hem of his robe filled the temple. Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another: Holy, holy, holy is the LORD of Armies; his glory fills the whole earth. The foundations of the doorways shook at the sound of their voices, and the temple was filled with smoke. Then I said: **Woe is me for I am ruined because I am a man of unclean lips and live among a people of unclean lips, and because my eyes have seen the King, the LORD of Armies.**
 
 >Psalms 22:6 (CSB) But I am a worm and not a man, scorned by mankind and despised by people.
 
@@ -112,11 +115,11 @@ To answer that question, you got to start again from the beginning.
 
 >Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 
-The Christian comes upon seeing the glory and beauty and the holiness of God and just becomes undone. Now you and I might have the Paul's Road to Damascus radical transformation. Some do. Others might have been like C.S. Lewis who just gets on their motorcycle and at the end of a very short drive, just believes and trust in God. 
+The Christian comes upon seeing the glory and beauty and the holiness of God and just becomes undone. Now you and I might not have the Paul's Road to Damascus radical transformation. Some do. Others might have been like C.S. Lewis who just gets on their motorcycle and at the end of a very short drive, just believes and trust in God. 
 
 But we are all undone in one way or another at the sight of God and the beauty of his grace and gospel. And once you see it, you are never the same. You can't go back to what you once was. 
 
-In that moment when you were saved by God, you felt helpless. Insecure. Fearful. Shaky ground. Like Paul cries out, "Wretched man that I am! Who is going to save me from this body of sin and death!" Or like the tax collector, standing in the back of the sanctuary, beating his chest and crying out, "Lord, have mercy on me, a sinner!"
+In that moment when you were saved by God, you felt helpless. Insecure. Fearful. Shaky ground. Like Paul cries out, **"Wretched man that I am! Who is going to save me from this body of sin and death!"** Or like the tax collector, standing in the back of the sanctuary, beating his chest and crying out, **"Lord, have mercy on me, a sinner!"**
 
 It was there when God saved you completely unto himself. For good. You and I as sinners in the sight of God are helpless--you wanna say as babies--but even babies breath and live. We were helpless and dead corpses at the bottom of the ocean. Who is going to save us?
 
@@ -126,11 +129,13 @@ It was there when God saved you completely unto himself. For good. You and I as 
 
 ### Future Sin Future Grace: Far From God
 
-I am going on a short limb to say that I don't think anybody here has ever been in a situation where you put yourself in danger in order of someone else to live. If you have, share with us afterwards because that would be an awesome story.
+Let me shoot straight: we are not just people. None of us were born good. No, not even one.
 
-I was a kid of the 80s where I was constantly exposed to the greatest movie genre ever to be invented: The Action Movie! And man, you saw so many movies where someone gives their own life so someone else would live, that you grew up thinking, "Man, this is just life for now on. Just psych yourself to take one for the team."
+And, to that end, I am going on a short limb to say that I don't think anybody here has ever been in a situation where you put yourself in danger in order of someone else to live. If you have, share with us afterwards because that would be an awesome story.
 
-And I am a US Air Force vet. I didn't see action like that.
+I was a kid of the 80s where I was constantly exposed to the greatest movie genre ever to be invented: The Action Movie! And man, as fan of the genre, you got to see so many movies where someone gives their own life so someone else would live, that you grew up thinking, "Man, this is just life for now on. Just psych yourself to take one for the team."
+
+And I am a US Air Force vet, I didn't see action like that.
 
 And in these action movies, it was someone being saved was if not a good person, at least someone redeemable. 
 
@@ -271,6 +276,8 @@ What? So you struggle with sinful desires and thoughts and your heart sometimes 
 
 ### Future Sin Future Grace: Christ has already saved you
 
+Listen to the words:
+
 reconciled... 
 the death of his Son... 
 reconciled...
@@ -286,21 +293,34 @@ God foreknew our wicked hearts. He remembered that we are made from dust. That i
 
 ### Future Sin Future Grace: God is ours
 
->2 Corinthians 5:17–21 (CSB)  
-><sup> 17 </sup> Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come! 
+What is the reconciliation? To appease, harmonize, to rectify, to resolve... to reunite.
 
-><sup> 18 </sup> Everything is from God, who has reconciled us to himself through Christ and has given us the ministry of reconciliation. 
+To reconcile with someone in this life is one thing. In my experience, when I hear of a reconciliation between two people, I think that is magnanimous! In the times of divorce, relationships ended on a whim, our jerkiness and the lack of tact and wisdom and grace on social media, we are so easily offended and often quick to dismiss and block. When people can sit in front of each other, and give grace and understanding to one another, I think that is a miracle. I don't see it happening as often as I would like to. But that is what it is like to live in a post-Genesis 3 world.
 
-><sup> 19 </sup> That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and he has committed the message of reconciliation to us. 
+If I am calling that a miracle, then how would you define the sons of Adam now belonging to God because of Christ. (If you want to see the details of this real miracle, keep reading Romans 5 starting at first 12. That is another sermon.)
 
-><sup> 20 </sup> Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.” 
+How would you explain how Paul quotes the prophet Hosea in Romans 9:
 
-Our response in love for one another: "Be reconciled to God!" You are reconciled. I am reconciled. Pray earnestly. Share Christ. Love others deeply.
+>Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there they will be called sons of the living God.
 
-We carry the message of reconciliation because we are ambassadors because we have been reconciled to God because we are new creation. We have been born again. We know this because Christ lived and died 2000 years ago. I am encouraging you and you encourage each other, "Be reconciled to God."
+Because we were all born sons and daughters of Adam and therefore away and separated from God, we are now reunited with God by power of the Holy Spirit through the atoning death of the Lord Jesus Christ.
 
-><sup> 21 </sup> He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+Listen to me: Christ didn't die so that you were just saved from hell. And now you are on neutral ground with God. No! Reconciliation to God means you and I get it all. We get the whole kit and caboodle! The whole enchilada! Reconciliation to God means:
 
-My beloved, we have become the righteousness of God because Christ became our sin. In the garden, our original parents exchanged their right-standing for sin. On the cross, Christ exchanged our sin for his righteousness.
+- we are saved to God
+- predestined by God
+- called by God
+- justified in the sight of God
+- adopted by God
+- co-heirs with Christ who has inherited everything
+- glorified by God
+- alive by God
+- maxed out joy by God
+- pleasures evermore by God
+- completely satisfied by God
+- beautifully and preciously loved by God
+- forevermore
 
-Give praise to the Lord!
+We are truly love by God. Nothing is going to separate us from the love of God who "rejoices over you with gladness, who is quiet in his love, and delights in you with singing." (Zephaniah 3:17)
+
+Rest in that absolute truth, beloved. And give thanks to Him. Amen.
