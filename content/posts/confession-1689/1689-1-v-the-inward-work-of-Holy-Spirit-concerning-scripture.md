@@ -116,6 +116,15 @@ What can we do? Pray and ask God to mature us and conform us to the image of His
 
 ## The Resources
 
+<img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
+by James Renihan.  
+Founders Press. 2022.  
+[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
+
+<p style="clear:both;">
+
+---
+
 <img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
 by Samuel E. Waldron.  
 Evangelical Press. 2013.  

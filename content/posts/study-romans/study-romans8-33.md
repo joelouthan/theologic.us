@@ -1,7 +1,7 @@
 ---
-title: "Study: "
+title: "Study: Romans 8:33 Christ Justified Us"
 author: Joseph Louthan
-publishDate: 2022-11-14T06:00:00-05:00
+publishDate: 2022-11-21T06:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -11,7 +11,7 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Introduction
 
