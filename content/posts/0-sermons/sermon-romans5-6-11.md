@@ -286,9 +286,7 @@ And I simply responded, "You are right. In this life and in this world, there ar
 
 A few days later after that unforgettable phone call, Yusef was saved by God. A couple months later, I got to baptize him. Praise be to God!
 
----
-
-## Future Sin Future Grace: Justified Now Saved From His Wrath
+### Saved by him through him for him
 
 ><sup> 9 </sup> How much more then, since we have now been justified by his blood, will we be saved through him from wrath.
 
@@ -298,7 +296,7 @@ Christ's life was given for me. His death was meant for me. His resurrection is 
 
 My salvation is secure and set because I am in Christ and Christ is in me. And guess what? If you are in Christ, your salvation is secure and set. Because our God is perfect, Christ is perfect, the Holy Spirit is perfect and what they promised to do is perfectly done. The Almighty Holy God lacks the sin and wickedness and deceit to break any of his promises.
 
----
+<div style="page-break-after: always;"></div>
 
 ## Our Response
 
