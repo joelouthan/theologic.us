@@ -74,6 +74,10 @@ params:
               url: updates
             - name: Recent Posts
               url: posts
+            - name: Sermons
+              url: /categories/sermons/
+            - name: "1689"
+              url: /series/1689-baptist-confession-of-faith/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
             - name: "Home Devotions: Matthew"
@@ -86,7 +90,7 @@ params:
               url: /series/gospel-nt-pastorals/
             - name: "Kid Devotions: Luke"
               url: /series/kid-devotions-luke/
-            - name: Other Series
+            - name: Additional Series
               url: series
             - name: "Contact Me"
               url: /contact-me/
