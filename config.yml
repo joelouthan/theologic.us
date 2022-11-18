@@ -101,20 +101,18 @@ params:
         Content: "Trying to waste my time with God."
 
     socialIcons:
-        - name: twitch
-          url: "http://twitch.theologic.us"
-        - name: discord
-          url: "http://discord.theologic.us"
-        - name: youtube
-          url: "http://youtube.theologic.us"
+        - name: github
+          url: "https://github.com/joelouthan"
+        - name: mastodon
+          url: "https://bibly.com/@joseph"
+        - name: linkedin
+          url: "https://linkedin.com/in/joelouthan"
         - name: twitter
           url: "https://twitter.com/theologic_us"
         - name: instagram
           url: "https://instagram.com/josephlouthan"
-        - name: facebook
-          url: "https://www.facebook.com/groups/462231051477464"
-        - name: github
-          url: "https://github.com/joelouthan"
+        - name: youtube
+          url: "http://youtube.theologic.us"
 
 #    analytics:
 #        google:
