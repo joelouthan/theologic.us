@@ -7,17 +7,17 @@ index: true
 draft: false
 showtoc: false
 ---
+<img style="float: right; padding-left: 20px" src="/images/1-smile-no-braces-portrait-bright-noback.png" width="400px">
 
-<img style="float: left; padding-right: 20px" src="/images/1-smile-no-braces-portrait-bright.jpg" width="250px">
+<div align="right">
 
-**JOSEPH LOUTHAN**  
-Versailles, Kentucky  
-**cell**: 817.707.1486  
-**email**: [joe@theologic.us](mailto:joe@theologic.us)  
-**twitter**: [@joelouthan](https://twitter.com/JosephLouthan)  
-**linkedin**: [joelouthan](https://www.linkedin.com/in/joelouthan/)  
-**youtube**: [Theologicus](http://youtube.theologic.us)  
-**podcast**: [Theologicus](http://apple.theologic.us)  
-**Instagram**: [josephlouthan](https://instagram.com/josephlouthan)  
-**Facebook**: [joseph.louthan](https://www.facebook.com/groups/462231051477464)  
-**Github**: [@joelouthan](https://github.com/joelouthan)
+[![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)[![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)[![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
+[![Showwcase](https://img.shields.io/badge/Showwcase-joelouthan-D17FF3?style=for-the-badge)](https://joelouthan.showwcase.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
+[![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
+[![Twitter](https://img.shields.io/badge/Twitter-josephlouthan-blue?style=for-the-badge&logo=twitter)](https://twitter.com/josephlouthan)
+[![Instagram](https://img.shields.io/badge/Instagram-josephlouthan-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/josephlouthan/)
+[![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
+[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
+
+</div>
