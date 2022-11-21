@@ -15,7 +15,6 @@ tocopen: false
 Lord,
 </div>
 
-```text
 Do what you must so I would be conformed to the image of my Christ.
 
 I ask for a double portion of your blessing and your spirit and your grace in order for me to preach your word and your great gospel.
@@ -25,11 +24,10 @@ Lord, please be in me. I open my heart and mind and hands and eyes and mouth. I 
 My God, give me a church so that I might preach your gospel there for all of my days and that I might be a herald for you in the midst of where I live. 
 
 Amen.
-```
+
 
 ## Pray to be one of the two witnesses
 
-```text
 I absolutely do not know any better.
 
 Could I be one of the two witnesses that prophesy for 1,260 days straight? I assume that is like straight through.
@@ -37,7 +35,7 @@ Could I be one of the two witnesses that prophesy for 1,260 days straight? I ass
 You have all the details. I love you, Lord.
 
 Amen
-```
+
 
 ><sup> 1 </sup> Then I was given a measuring reed like a rod, with these words: “Go and measure the temple of God and the altar, and count those who worship there. 
 
@@ -85,7 +83,6 @@ Amen
 My God,
 </div>
 
-```text
 Open my eyes to see those far from you. 
 
 Open my heart to love those who do not know you. 
@@ -93,7 +90,6 @@ Open my heart to love those who do not know you.
 Open my mouth so I would tell them your precious gospel. 
 
 Amen.
-```
 
 ## Confession
 
