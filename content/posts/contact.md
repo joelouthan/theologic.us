@@ -7,9 +7,9 @@ index: true
 draft: false
 showtoc: false
 ---
-<img style="float: right; padding-left: 20px" src="/images/1-smile-no-braces-portrait-bright-noback.png" width="400px">
+<img style="float: left; padding-right: 20px" src="/images/1-smile-no-braces-portrait-bright-noback.png" width="400px">
 
-<div align="right">
+<div align="left">
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)[![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)[![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
 [![Showwcase](https://img.shields.io/badge/Showwcase-joelouthan-D17FF3?style=for-the-badge)](https://joelouthan.showwcase.com)
