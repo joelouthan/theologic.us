@@ -271,7 +271,7 @@ Adam & Kyla, babies
 
 Eric & Morgan, Pax
 
-Zach & Toni Tincher, kids (twins Isaac & Carli)
+Zach & Toni Tincher, kids (Maria, Jack, twins Isaac & Carli)
 
 Andrew & Blythe, baby
 
