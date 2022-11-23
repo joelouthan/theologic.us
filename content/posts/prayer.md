@@ -14,15 +14,17 @@ tocopen: false
 <div style='font-variant: small-caps;'>
 Eternal God, In Whom We Live and Move and Have Our Being,
 </div>
+<br>
+I have sinned against you, and I sometimes forget your mercy toward me. **Cleanse me from all my offenses, and deliver me from proud thoughts and vain desires.** With lowliness and meekness may I draw near to you, confessing my faults, confiding in your grace, and finding in you my refuge and strength; through Jesus Christ your Son.
 
-I have sinned against you, and I sometimes forget your mercy toward us. **Cleanse me from all my offenses, and deliver me from proud thoughts and vain desires.** With lowliness and meekness may I draw near to you, confessing my faults, confiding in your grace, and finding in you my refuge and strength; through Jesus Christ your Son. Amen!
+Amen!
 
 ## Repentance
 
 <div style='font-variant: small-caps;'>
 Lord,
 </div>
-
+<br>
 Do what you must so I would be conformed to the image of my Christ.
 
 I ask for a double portion of your blessing and your spirit and your grace in order for me to preach your word and your great gospel.
@@ -33,8 +35,12 @@ My God, give me a church so that I might preach your gospel there for all of my 
 
 Amen.
 
+## One of the two witnesses
 
-## Pray to be one of the two witnesses
+<div style='font-variant: small-caps;'>
+My God,
+</div>
+<br>
 
 I absolutely do not know any better.
 
