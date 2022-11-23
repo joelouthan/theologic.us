@@ -9,6 +9,14 @@ css: "prayers"
 tocopen: false
 ---
 
+## Confession
+
+<div style='font-variant: small-caps;'>
+Eternal God, In Whom We Live and Move and Have Our Being,
+</div>
+
+I have sinned against you, and I sometimes forget your mercy toward us. **Cleanse me from all my offenses, and deliver me from proud thoughts and vain desires.** With lowliness and meekness may I draw near to you, confessing my faults, confiding in your grace, and finding in you my refuge and strength; through Jesus Christ your Son. Amen!
+
 ## Repentance
 
 <div style='font-variant: small-caps;'>
@@ -90,10 +98,6 @@ Open my heart to love those who do not know you.
 Open my mouth so I would tell them your precious gospel. 
 
 Amen.
-
-## Confession
-
-Eternal God, in whom we live and move and have our being, we have sinned against you, and we sometimes forget your mercy toward us. **Cleanse us from all our offenses, and deliver us from proud thoughts and vain desires.** With lowliness and meekness may we draw near to you, confessing our faults, confiding in your grace, and finding in you our refuge and strength; through Jesus Christ your Son. Amen!
 
 ---
 
@@ -326,6 +330,10 @@ Dale Raglund & fam
 ---
 
 ## Versailles
+
+### Urgent Care
+
+### Starbucks
 
 Jenn, fam 
 
