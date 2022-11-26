@@ -1,7 +1,7 @@
 ---
-title: "Praying Through: "
+title: "Praying Through: Psalm 93 Majesty"
 author: Joseph Louthan
-publishDate: 2022-09-04T06:00:00-05:00
+publishDate: 2022-12-17T06:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -10,11 +10,20 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Psalms
 
+>Psalm 93 (CSB)  
+><sup> 1  </sup>The LORD reigns! He is robed in majesty; the LORD is robed, enveloped in strength. The world is firmly established; it cannot be shaken. 
 
+><sup> 2  </sup>Your throne has been established from the beginning; you are from eternity. 
+
+><sup> 3  </sup>The floods have lifted up, LORD, the floods have lifted up their voice; the floods lift up their pounding waves. 
+
+><sup> 4  </sup>Greater than the roar of a huge torrent— the mighty breakers of the sea— the LORD on high is majestic. 
+
+><sup> 5  </sup>LORD, your testimonies are completely reliable; holiness adorns your house for all the days to come.
 
 ## The Prayer
 
