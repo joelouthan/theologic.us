@@ -1,28 +1,38 @@
 ---
-title: "Ministry Resume: Joseph Louthan"
+title: "Ministry Resume"
 author: Joseph Louthan
-publishDate: 2022-06-25T05:00:00-05:00
+publishDate: 2022-11-26T05:00:00-05:00
 url: /resume/
 index: false
-css: home-devos
 draft: false
 tocopen: false
+css: home-devos
 ---
 
-<img style="padding-top: 10px" src="/images/1-smile-no-braces-portrait-bright.jpg" width="185px">**JOSEPH LOUTHAN**  
-Versailles, Kentucky  
-cell: 817.707.1486  
-email: [joe@theologic.us](mailto:joe@theologic.us)  
-twitter: [@joelouthan](https://twitter.com/JosephLouthan)  
-linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)  
-youtube: [Theologicus](http://youtube.theologic.us)  
-podcast: [Theologicus](http://apple.theologic.us)
+<img style="float: left; padding-right: 20px" src="/images/1-smile-no-braces-portrait-bright-noback.png" width="400px">
 
-## MINISTRY VISION
+<div align="left">
+
+<span style="font-size:xx-large;">**Joseph Louthan**</span>  
+Versailles, Kentucky  
+
+[![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
+[![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
+[![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
+[![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
+[![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
+[![Twitter](https://img.shields.io/badge/Twitter-josephlouthan-blue?style=for-the-badge&logo=twitter)](https://twitter.com/josephlouthan)
+[![Instagram](https://img.shields.io/badge/Instagram-josephlouthan-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/josephlouthan/)
+
+</div>
+
+<p style="clear:both;">
+
+### MINISTRY VISION
 
 Seeking to glorify Christ by serving his Bride, first and foremost, by preaching and teaching his word. My desire is to serve your church as either in Pulpit Supply and/or Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
 
-## THE GOSPEL of CHRIST
+#### THE GOSPEL of CHRIST
 
 The gospel is the good news that God looked upon me as a wicked, depraved, weak sinner and sent his Son to live and die so that I might be truly alive and free by the power of his Spirit.[^1]
 
@@ -37,11 +47,11 @@ This is the gospel of Christ that I must preach so that all may know the love of
 [^3]: Romans 10:17
 [^4]: Acts 4:12
 
-## PERSONAL
+### PERSONAL
 
 Born on May 17, 1975, in Fort Worth, TX. My home is in Versailles, KY with my wife, Sarah, and our two kids, Elijah, and Ivy. Also, my in-laws live with us, Cherri and Jason. My oldest son, Yusef, lives in Norman, OK.
 
-## TESTIMONY
+### TESTIMONY
 
 I came to saving faith when the Almighty God came down, took my heart, and in exchange, gave me His heart, and His Spirit.
 
@@ -150,17 +160,17 @@ Isaiah 50:2a (CSB)
 
 It is like I ask my kids, "Does God have T-Rex arms?" Of course He doesn't. He is the mighty one who saves.
 
-## MINISTRY POSITIONS
+### MINISTRY POSITIONS
 
 <div style='font-variant: small-caps; font-weight: bold'>current</div>  
 
-### Reforming Truth Church, Lexington, KY
+#### Reforming Truth Church, Lexington, KY
 
 Layperson - Web
 
 <div style='font-variant: small-caps; font-weight: bold'>former</div>  
 
-### Frontline Church South, Oklahoma City, OK
+#### Frontline Church South, Oklahoma City, OK
 
 Intern, Community
 
@@ -171,7 +181,7 @@ Layperson
 - Children’s Teacher
 - Worship Presentation
 
-### Antioch Community Church, Norman, OK
+#### Antioch Community Church, Norman, OK
 
 Assistant to the Senior Pastor
 
@@ -181,19 +191,19 @@ Layperson:
 - Small Group Leader
 - Children’s Teacher
 
-### Catch the Fire Ministries, Bedford, TX
+#### Catch the Fire Ministries, Bedford, TX
 
 Layperson
 
 - Children’s Teacher
 
-### The City Church, Fort Worth, TX
+#### The City Church, Fort Worth, TX
 
 Layperson
 
 - Mentored by Ben Connelly, Senior Pastor
 
-### Gateway Church, Southlake, TX
+#### Gateway Church, Southlake, TX
 
 Intern, Leadership & Discipleship
 
@@ -204,7 +214,7 @@ Layperson
 - Small Group Leader
 - Mentored by Alan Smith, Pastor of Leadership & Discipleship
 
-## VOCATIONAL EXPERIENCE
+### VOCATIONAL EXPERIENCE
 
 <div style='font-variant: small-caps; font-weight: bold'>Current</div>
 
@@ -215,93 +225,91 @@ Project Manager at Red Hat, Inc.
 Information Technology Administrator & Manager  
 United States Air Force Veteran  
 
-## MINISTRY DEVELOPMENT
+### MINISTRY DEVELOPMENT
 
-### Interim Pastor Training
+#### Interim Pastor Training
 
 Kentucky Baptist Convention  
 Louisville, KY  
 July 2022
 
-### The Institute for Expository Preaching (2021)
+#### The Institute for Expository Preaching (2021)
 
 Dr. Steven J. Lawson  
 Oklahoma City, OK  
 August 2021
 
-### Internship, Frontline Church
+#### Internship, Frontline Church
 
 Frontline Church  
 Oklahoma City, OK  
 September 2020 to May 2021
 
-### The Institute for Expository Preaching (2019)
+#### The Institute for Expository Preaching (2019)
 
 Dr. Steven J. Lawson  
 Oklahoma City, OK  
 October 2019
 
-### On Preaching
+#### On Preaching
 
 Matt Chandler  
 Acts 29 Regional  
 2010
 
-### The Doctrine of God
+#### The Doctrine of God
 
 Dr. Sinclair Ferguson  
 Reformed Theological Seminary  
 Dallas, TX  
 January to May 2010
 
-### The Need for Evangelism
+#### The Need for Evangelism
 
 Desiring God 2009 Conference for Pastors  
 Minneapolis, MN  
 February 2009
 
-### Internship, Gateway Church
+#### Internship, Gateway Church
 
 Leadership & Discipleship Ministry  
 Gateway Church  
 January to August 2009
 
-## SKILLS
+### SKILLS
 
 Expository preaching and teaching \
 Writing \
 Project Management
 
-## WRITINGS
+### WRITINGS
 
 <div style='font-variant: small-caps; font-weight: bold'>Completed Writings</div>
 
-[Here is Love: An Exposition of Romans 8](https://theologic.us/series/here-is-love/)
+[Gospel Meditations in the New Testament: The Pastoral Epistles](/series/gospel-nt-pastorals/)
 
-[Praying Through: The Lord’s Prayer](https://theologic.us/series/praying-through-the-lords-prayer/)
+[Praying Through: The Lord’s Prayer](/series/praying-through-the-lords-prayer/)
 
-[Doctrine: Ordo Salutis or Doctrine on the Order of Salvation](https://theologic.us/series/ordo-salutis/)
+[Doctrine: Ordo Salutis or Doctrine on the Order of Salvation](/series/ordo-salutis/)
 
 <hr>
 
 <div style='font-variant: small-caps; font-weight: bold'>Works in Progress</div>
 
-[Gospel Meditations in the New Testament: The Pastoral Epistles](https://theologic.us/series/gospel-nt-pastorals/)
+[1689 Second London Baptist Confession: An Exposition](/series/1689-baptist-confession-of-faith/)
 
-[Home Devotions in the Gospel of Mark](https://theologic.us/series/home-devotions-mark/)
+[Home Devotions in the Gospel of Mark](/series/home-devotions-mark/)
 
-[Bible Study in Romans](https://theologic.us/series/bible-study-romans/)
+[Bible Study in Romans](/series/bible-study-romans/)
 
-[Bible Study in Genesis](https://theologic.us/series/bible-study-genesis/)
-
-[Westminster Confession of Faith: An Exposition](https://theologic.us/series/westminster-confession-of-faith/)
+[Bible Study in Genesis](/series/bible-study-genesis/)
 
 <hr>
 
 <div style='font-variant: small-caps; font-weight: bold'>Current Writing Projects</div>
 
-[Theologicus Project Board](https://trello.com/b/5YnUCRsn/bible-commentary-set)
+<iframe class="clickup-embed" src="https://sharing.clickup.com/25749688/c/rhu5r-144/calendar" onwheel="" width="100%" height="700px" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## REFERENCES
+### REFERENCES
 
 *To protect the privacy of my references, their contact information can be provided upon request*
