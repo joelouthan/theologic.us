@@ -113,3 +113,12 @@ IVP Academic. 2005.
 [Goodreads](https://www.goodreads.com/book/show/33015669-mark)
 
 I think this entire series is an excellent resource to have on hand if you can pony up the scratch.  It's all fine and good to read guys from within the last few centuries. But how about reading commentary from within the first few centuries after the ascension of Christ. You ain't going to read anything shockingly new.  But what you are going realize there is absolutely new under the sun and Jesus Christ the same yesterday, today, and tomorrow.
+
+---
+
+<img src="/images/resources/commentary-mark-gombis.jpg" align="left" width="150" style="padding-right: 10px" />Mark (The Story of God Bible Commentary Series)  
+by Timothy G. Gombis.   
+Zondervan Academic. March 9th 2021.  
+[Goodreads](https://www.goodreads.com/book/show/54287613-mark)
+
+<p style="clear:both;">
