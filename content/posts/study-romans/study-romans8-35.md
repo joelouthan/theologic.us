@@ -1,7 +1,7 @@
 ---
-title: "Study: "
+title: "Study: Romans 8:35-36 Christ Defined Us"
 author: Joseph Louthan
-publishDate: 2022-11-28T06:00:00-05:00
+publishDate: 2022-12-05T06:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -14,6 +14,9 @@ css: "prayers"
 draft: true
 ---
 ## The Introduction
+
+>Romans 8:35 (CSB) Who can separate us from the love of Christ? Can affliction or distress or persecution or famine or nakedness or danger or sword?
+
 
 <div style="page-break-after: always;"></div>
 
