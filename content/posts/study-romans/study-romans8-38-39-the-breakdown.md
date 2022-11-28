@@ -13,7 +13,7 @@ draft: true
 ---
 >Romans 8:38–39 For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 
-In the year of our 2018, we have Christians contending that their faith would be unshaken if the resurrection never took place. That argument is nothing new. For the orthodox Christian, this is not our first rodeo. Paul was already dealing with this argument thirty years after Jesus ascended to glory:
+In these days, we have Christians contending that their faith would be unshaken if the resurrection never took place. That argument is nothing new. For the orthodox Christian, this is not our first rodeo. Paul was already dealing with this argument thirty years after Jesus ascended to glory:
 
 >Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead? But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain.[^1]
 
