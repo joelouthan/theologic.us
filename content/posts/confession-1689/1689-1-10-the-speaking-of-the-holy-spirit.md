@@ -1,7 +1,7 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter "
+title: "1689 Baptist Confession of Faith, Chapter 1.x The Speaking of the Holy Spirit in Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-08-17T06:00:00-05:00
+publishDate: 2022-11-16T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -19,7 +19,7 @@ draft: true
 ## The Chapter
 
 ```text
-
+The supreme judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved.
 ```
 
 <div style="page-break-after: always;"></div>
@@ -120,3 +120,5 @@ Crossway, 2012.
 <p style="clear:both;">
 
 ---
+
+

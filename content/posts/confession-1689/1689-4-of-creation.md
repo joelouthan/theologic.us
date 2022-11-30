@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter "
 author: Joseph Louthan
-publishDate: 2022-08-03T06:00:00-05:00
+publishDate: 2022-12-07T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
