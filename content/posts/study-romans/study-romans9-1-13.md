@@ -1,5 +1,5 @@
 ---
-title: "Study: "
+title: "Study: Romans 9:1-13 For His Mercies Never End"
 author: Joseph Louthan
 publishDate: 2023-01-09T06:00:00-05:00
 categories:
@@ -14,6 +14,33 @@ css: "prayers"
 draft: true
 ---
 ## The Text
+
+>Romans 9:1–13 (CSB)  
+><sup> 1  </sup>I speak the truth in Christ—I am not lying; my conscience testifies to me through the Holy Spirit—
+
+><sup> 2  </sup>that I have great sorrow and unceasing anguish in my heart. 
+
+><sup> 3  </sup>For I could wish that I myself were cursed and cut off from Christ for the benefit of my brothers and sisters, my own flesh and blood. 
+
+><sup> 4  </sup>They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the temple service, and the promises. 
+
+><sup> 5  </sup>The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen. 
+
+><sup> 6  </sup>Now it is not as though the word of God has failed, because not all who are descended from Israel are Israel. 
+
+><sup> 7  </sup>Neither is it the case that all of Abraham’s children are his descendants. On the contrary, your offspring will be traced through Isaac. 
+
+><sup> 8  </sup>That is, it is not the children by physical descent who are God’s children, but the children of the promise are considered to be the offspring. 
+
+><sup> 9  </sup>For this is the statement of the promise: At this time I will come, and Sarah will have a son. 
+
+><sup> 10  </sup>And not only that, but Rebekah conceived children through one man, our father Isaac. 
+
+><sup> 11  </sup>For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—
+
+><sup> 12  </sup>not from works but from the one who calls—she was told, The older will serve the younger. 
+
+><sup> 13  </sup>As it is written: I have loved Jacob, but I have hated Esau.
 
 ## The Introduction
 
