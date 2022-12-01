@@ -2,7 +2,7 @@
 
 # writing using
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,md,css,html,bash,git,github,netlify,linux)](https://theologic.us/)
+[![tools](https://skillicons.dev/icons?i=vscode,md,css,html,bash,git,github,netlify,linux)](https://theologic.us/)
 
 # contact me
 
