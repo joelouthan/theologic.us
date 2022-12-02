@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: "
 author: Joseph Louthan
-publishDate: 2022-09-30T06:00:00-05:00
+publishDate: 2023-01-13T06:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

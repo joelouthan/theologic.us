@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 15:1-5 Every Step is Joy: Christ Does Not Defend Himself For Us"
 author: Joseph Louthan
-publishDate: 2022-12-09T06:00:00-05:00
+publishDate: 2022-12-16T06:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

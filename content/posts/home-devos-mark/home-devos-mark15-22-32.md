@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 15:22-32 Every Step Is Joy: Christ Is Crucified For Us"
 author: Joseph Louthan
-publishDate: 2022-12-30T06:00:00-05:00
+publishDate: 2023-01-06T06:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions
