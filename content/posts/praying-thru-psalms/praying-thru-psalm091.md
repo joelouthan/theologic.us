@@ -50,10 +50,42 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Almighty God
 </div>
 
 ```text
+I remember all the times when my Grandma would pray this prayer over me. When she did, I never knew why.
 
+But the dangers and the turmoil and the devastation I would face,
+  when Satan and his demons would place their hands on me
+  and do me much harm.
+
+When the world and its effects
+  finally succeeded in corrupting my soul
+  and had me worshipping demons.
+
+When the wickedness of my heart
+  turned against you
+  and I gave into my whims and desires
+  and received only shit.
+
+Still,
+  these prayers and the faith my grandma
+  protest my heart, my soul, my heart, and my life.
+
+You did not ignore nor discard me
+  you saved me.
+
+You did not leave me to rot and die
+  you gave me life.
+
+You did not left me lonely, hated, and at war with you
+  you were always my God.
+
+Be exalted, O Lord
+  be exalted, higher and higher
+  and I will forever praise your holy name.
+
+Amen
 ```
 
