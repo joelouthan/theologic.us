@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter "
+title: "1689 Baptist Confession of Faith, Chapter 2.1 The Attributes of God"
 author: Joseph Louthan
 publishDate: 2022-12-07T06:00:00-05:00
 categories:
@@ -19,7 +19,7 @@ draft: true
 ## The Chapter
 
 ```text
-
+The Lord our God is but one only living and true God; whose subsistence is in and of himself, infinite in being and perfection; whose essence cannot be comprehended by any but himself; a most pure spirit, invisible, without body, parts, or passions, who only hath immortality, dwelling in the light which no man can approach unto; who is immutable, immense, eternal, incomprehensible, almighty, every way infinite, most holy, most wise, most free, most absolute; working all things according to the counsel of his own immutable and most righteous will for his own glory; most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him, and withal most just and terrible in his judgments, hating all sin, and who will by no means clear the guilty.
 ```
 
 <div style="page-break-after: always;"></div>
