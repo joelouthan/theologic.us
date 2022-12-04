@@ -1,7 +1,7 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1.x The Speaking of the Holy Spirit in Holy Scripture"
+title: "1689 Baptist Confession of Faith, Chapter "
 author: Joseph Louthan
-publishDate: 2022-11-16T06:00:00-05:00
+publishDate: 2022-12-21T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Text
 
@@ -19,7 +19,7 @@ draft: false
 ## The Chapter
 
 ```text
-The supreme judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved.
+
 ```
 
 <div style="page-break-after: always;"></div>
@@ -28,44 +28,7 @@ The supreme judge, by which all controversies of religion are to be determined, 
 
 ### 
 
-## The Discussion
-
-```text
-1. 
-```
-
-```text
-2. 
-```
-
-```text
-3. 
-```
-
-```text
-4. 
-```
-
-## The Prayer
-
-<div style='font-variant: small-caps;'>
-
-</div>
-
-```text
-
-```
-
 ## The Resources
-
-<img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
-by James Renihan.  
-Founders Press. 2022.  
-[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
-
-<p style="clear:both;">
-
----
 
 <img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
 by Samuel E. Waldron.  
@@ -121,4 +84,4 @@ Crossway, 2012.
 
 ---
 
-
+139057

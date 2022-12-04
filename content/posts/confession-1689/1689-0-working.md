@@ -21,6 +21,8 @@ draft: false
 
 ## Chapter 1: Of the Holy Scriptures
 
+### 1.0 The Holy Scriptures
+
 ```text
 The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God and his will which is necessary unto salvation. Therefore it pleased the Lord at sundry times and in divers manners to reveal himself, and to declare that his will unto his church; and afterward for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto writing; which maketh the Holy Scriptures to be most necessary, those former ways of God's revealing his will unto his people being now ceased.
 ```
@@ -53,7 +55,7 @@ The Holy Scripture is the only sufficient, certain, and infallible rule of all s
 
 ---
 
-### 1.ii The Old and New Testaments of Holy Scripture
+### 1.2 The Old and New Testaments of Holy Scripture
 
 ```text
 Under the name of Holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these:
@@ -69,7 +71,7 @@ All of which are given by the inspiration of God, to be the rule of faith and li
 
 ---
 
-### 1.iii The Apocrypha of Holy Scripture
+### 1.3 The Apocrypha of Holy Scripture
 
 ```text
 The books commonly called Apocrypha, not being of divine inspiration, are no part of the canon or rule of the Scripture, and, therefore, are of no authority to the church of God, nor to be any otherwise approved or made use of than other human writings.
@@ -81,7 +83,7 @@ The books commonly called Apocrypha, not being of divine inspiration, are no par
 
 ---
 
-### 1.iv The Authority of Holy Scripture
+### 1.4 The Authority of Holy Scripture
 
 ```text
 The authority of the Holy Scripture, for which it ought to be believed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the author thereof; therefore it is to be received because it is the Word of God.
@@ -97,7 +99,7 @@ The authority of the Holy Scripture, for which it ought to be believed, dependet
 
 ---
 
-### 1.v The Inward Work of the Holy Spirit Concerning Holy Scripture
+### 1.5 The Inward Work of the Holy Spirit Concerning Holy Scripture
 
 ```text
 We may be moved and induced by the testimony of the church of God to an high and reverent esteem of the Holy Scriptures; and the heavenliness of the matter, the efficacy of the doctrine, and the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man's salvation, and many other incomparable excellencies, and entire perfections thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit bearing witness by and with the Word in our hearts.
@@ -112,7 +114,7 @@ We may be moved and induced by the testimony of the church of God to an high and
 
 ---
 
-### 1.vi The Whole Counsel of God Within Holy Scripture
+### 1.6 The Whole Counsel of God Within Holy Scripture
 
 ```text
 The whole counsel of God concerning all things necessary for his own glory, man's salvation, faith and life, is either expressly set down or necessarily contained in the Holy Scripture: unto which nothing at any time is to be added, whether by new revelation of the Spirit, or traditions of men. Nevertheless, we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word, and that there are some circumstances concerning the worship of God, and government of the church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.
@@ -132,7 +134,7 @@ The whole counsel of God concerning all things necessary for his own glory, man'
 
 ---
 
-### 1.vii The Clarity of Scripture for Salvation
+### 1.7 The Clarity of Scripture for Salvation
 
 ```text
 All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed and observed for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of ordinary means, may attain to a sufficient understanding of them.
@@ -146,7 +148,7 @@ All things in Scripture are not alike plain in themselves, nor alike clear unto 
 
 ---
 
-### 1.viii The Inspiration of God on Holy Scripture
+### 1.8 The Inspiration of God on Holy Scripture
 
 ```text
 The Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentic; so as in all controversies of religion, the church is finally to appeal to them. But because these original tongues are not known to all the people of God, who have a right unto, and interest in the Scriptures, and are commanded in the fear of God to read and search them, therefore they are to be translated into the vulgar language of every nation unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and through patience and comfort of the Scriptures may have hope.
@@ -166,7 +168,7 @@ The Old Testament in Hebrew (which was the native language of the people of God 
 
 ---
 
-### 1.ix The Interpretation of Holy Scripture
+### 1.9 The Interpretation of Holy Scripture
 
 ```text
 The infallible rule of interpretation of Scripture is the Scripture itself; and therefore when there is a question about the true and full sense of any Scripture (which is not manifold, but one), it must be searched by other places that speak more clearly.
@@ -178,7 +180,7 @@ The infallible rule of interpretation of Scripture is the Scripture itself; and 
 
 ---
 
-### 1.x The Speaking of the Holy Spirit in Holy Scripture
+### 1.10 The Infallibility Holy Scripture
 
 ```text
 The supreme judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved.
@@ -195,7 +197,7 @@ The supreme judge, by which all controversies of religion are to be determined, 
 
 ## Chapter 2: Of God and of the Holy Trinity
 
-### 
+### 2.1 The Attributes of God
 
 ```text
 The Lord our God is but one only living and true God; whose subsistence is in and of himself, infinite in being and perfection; whose essence cannot be comprehended by any but himself; a most pure spirit, invisible, without body, parts, or passions, who only hath immortality, dwelling in the light which no man can approach unto; who is immutable, immense, eternal, incomprehensible, almighty, every way infinite, most holy, most wise, most free, most absolute; working all things according to the counsel of his own immutable and most righteous will for his own glory; most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him, and withal most just and terrible in his judgments, hating all sin, and who will by no means clear the guilty.
@@ -257,7 +259,7 @@ The Lord our God is but one only living and true God; whose subsistence is in an
 
 ---
 
-### 
+### 2.2 The Sufficiency of God
 
 ```text
 God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself all- sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them, but only manifesting his own glory in, by, unto, and upon them; he is the alone fountain of all being, of whom, through whom, and to whom are all things, and he hath most sovereign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth; in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature, so as nothing is to him contingent or uncertain; he is most holy in all his counsels, in all his works, and in all his commands; to him is due from angels and men, whatsoever worship, service, or obedience, as creatures they owe unto the Creator, and whatever he is further pleased to require of them.
@@ -293,7 +295,7 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 
 ---
 
-### 
+### 2.3 The Trinitarianess of God
 
 ```text
 In this divine and infinite Being there are three subsistences, the Father, the Word or Son, and Holy Spirit, of one substance, power, and eternity, each having the whole divine essence, yet the essence undivided: the Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Spirit proceeding from the Father and the Son; all infinite, without beginning, therefore but one God, who is not to be divided in nature and being, but distinguished by several peculiar relative properties and personal relations; which doctrine of the Trinity is the foundation of all our communion with God, and comfortable dependence on him.
