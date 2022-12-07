@@ -103,7 +103,7 @@ Look at all the things that God has give us: justified, faith, peace, God himsel
 
 Because we have all of those things, guess what we get to do:
 
-><sup> 7 </sup> and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
+><sup> 3 </sup> and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
 
 James, the half-brother of Jesus, says it this way:
 
