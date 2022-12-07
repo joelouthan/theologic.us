@@ -39,11 +39,11 @@ Open up the 1689 2nd London Baptist Confession and right from the gate, it will 
 
 >>The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience
 
-Continue reading this Confession to part 6: 
+Continue reading this Confession to chapter 1 part 6: 
 
 >>The whole counsel of God concerning all things necessary for his own glory, man's salvation, faith and life, is either expressly set down or necessarily contained in the Holy Scripture
 
-Let me be clear: Historical Confessions, whether it is the 1689 or the Westminster or the 39 Articles, are certainly not Scripture. But our Historical Confessions of Faith are simply confessions of doctrine. What is doctrine? Doctrine is what the Bible teaches. If the Bible does not teach it, then it is outside of doctrine.
+Let me be clear: the Historical Confessions, whether it is the 1689 or the Westminster or the 39 Articles, are certainly not Scripture. But our Historical Confessions of Faith are simply confessions of doctrine. What is doctrine? Simply put, doctrine is what the Bible teaches. If the Bible does not teach it, then it is outside of doctrine.
 
 We know that the Bible does completely teach what is necessary for the glory of God and what is necessary for our salvation. How? We know that because the Holy Spirit inspired the authors who penned all of the words of the 66 books within this Bible.
 
@@ -65,13 +65,19 @@ Christ himself speaks on concerning his great glory:
 
 >John 6:45 (CSB) It is written in the Prophets: And they will all be taught by God. Everyone who has listened to and learned from the Father comes to me—
 
-So, when I say I need the full council of God, that is, all of the Bible, to preach to you today, what this particular passage of Scripture means, I mean what I say. And if I need the full council of God, so do you.
+So, when I say I need the full council of God, that is, all of the Bible, to preach to you today and what tonight's passage means, I mean what I say. I am going to need the whole Bible to preach to you today. And if I need the full council of God, so do you.
 
-We'e been learning in Bible study in Chad Bird's "The Christ Key" that the Bible starts with the Torah--the first five books of the Bible--and then the other 61 books of the Bible refers and quotes and builds off of the Torah. The Bible is not a disconnected bunches of little books that have nothing to do with each other--they are are connected because they have one author: the Holy Spirit who inspired human authors to put pen to parchment.
+Let us build off from that. We'e been learning in Bible study in Chad Bird's "The Christ Key" that the Bible starts with the Torah. The first five books are not simply there because of chronological order, although that is quite true. The first five books are there because the rest of the Bible builds off of that.
 
-I say that to say that tonight's passage, Romans 5:6-11, does not exist by itself so I cannot preach this nor could not faithfully read it as a standalone, disconnected, taken-out-of-context passage. Romans is built upon the foundation of all of Scripture starting with Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
+Here's one example. One common mistake that people who want to defend homosexuality as right in the eyes of God would often say that Christ never spoke about marriage being of one man and one woman. Now, anybody who has been paying attention in church knows that is not true. Not only did Jesus speak about marriage between one man and one woman, what does he quote? He quotes Genesis 2.
 
-As much as I would love to, tonight, I cannot give you a survey on the entire Bible. We don't have that kind of time. Maybe another time. BUT, using the first five chapters of Romans, how did we get here? What did Paul say before getting to tonight's wonderful gospel passage in Romans 5:6-11 How did he build his case?
+I say that to say this: tonight's passage, Romans 5:6-11, does not exist by itself. So I cannot preach this nor could not faithfully read it as a standalone, disconnected, taken-out-of-context passage. Romans is built upon the foundation of all of Scripture starting with Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
+
+I preach tonight needing all of Scripture. All of the word of God. The full council of God.
+
+As much as I would love to in this moment, I cannot give you a survey on the entire Bible. We don't have that kind of time. Maybe another time. BUT, using the first five chapters of Romans, how did we get here? What did Paul say before getting to tonight's wonderful gospel passage in Romans 5:6-11 How did he build his case?
+
+<div style="page-break-after: always;"></div>
 
 ### A Walkthrough of Romans
 
@@ -91,19 +97,25 @@ As much as I would love to, tonight, I cannot give you a survey on the entire Bi
 
 Then our passage today is in the context of all of that with one more passage: 
 
->Romans 5:1–5 (CSB) Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. We have also obtained access through him by faith into this grace in which we stand, and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
+>Romans 5:1–5 (CSB) Therefore, since we have been **justified** by **faith**, we have **peace** with **God** through our **Lord Jesus Christ**. We have also obtained **access** through **him** by **faith** into this **grace** in which we stand,
+
+Look at all the things that God has give us: justified, faith, peace, God himself, the Lord Jesus Christ, access to God, grace of God!
+
+Because we have all of those things, guess what we get to do:
+
+><sup> 7 </sup> and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
 
 James, the half-brother of Jesus, says it this way:
 
 >James 1:2-3 (CSB) Consider it a great joy, my brothers and sisters, whenever you experience various trials, because you know that the testing of your faith produces endurance.
 
-Since we have been justified by faith, we have peace with God through Christ alone. Since we have peace, we have obtained access to God. Christ in Matt 6 & Luke 11 on the Lord's Prayer puts it like this, "If you turn to God, go to God, ask God for God, you are going to get God." No delay. No if, ands, or buts about it. Ask for God, you are going to get God.
+We boast! We marvel! We worship! We give thanks to God! We celebrate! We testify to the goodness of God. See all the things he have done for us!
 
 There is the good news. But what else is Paul talking about here?
 
-Verse 3 says, "boast in our afflictions?" Afflictions? Some Bibles call it 'trials'. The Geneva Bible translates that as 'tribulations'. Consider it a great joy for trials and tribulations? Who needs tribulations? Isn't life hard enough as is?
+Verse 3 says, we "boast in the glory of God and boast in our afflictions" Afflictions? Some Bibles call it 'trials'. The Geneva Bible translates that as 'tribulations'. Consider it a great joy, worshipful, celebrate trials and tribulations? Who needs tribulations? Isn't life hard enough as is?
 
-The building up of character and endurance? What is God preparing us for? Why do we need to be build up in character, endurance and hope?
+And the building up of character and endurance? What is God preparing us for? Why do we need to be build up in character, endurance and hope?
 
 To answer that question, you got to start again from the beginning. Not necessary the beginning of time but the beginning of our lives.
 
@@ -115,6 +127,8 @@ To answer that question, you got to start again from the beginning. Not necessar
 
 ### Future Sin Future Grace: Our Helpless Estate
 
+What is the hymn that we sing often on Sundays?
+
 >>Though Satan should buffet, though trials should come  
 >>Let this blest assurance control  
 >>That Christ has regarded my helpless estate  
@@ -124,7 +138,7 @@ To answer that question, you got to start again from the beginning. Not necessar
 
 Why do we need the building up of character, of endurance and hope?
 
-Consider our helpless estate before we met God:
+You and I must consider our helpless estate before we met God:
 
 Upon the prophet Isaiah seeing the glory of Christ (John 12:41), he cries out:
 
@@ -134,19 +148,27 @@ David feeling the pangs of separation from God:
 
 >Psalms 22:6 (CSB) **But I am a worm and not a man, scorned by mankind and despised by people.**
 
-Us in our unbelief:
+This is you and me in our unbelief:
 
 >Ephesians 2:1 (CSB) **And you were dead in your trespasses and sins**
 
-Us apart from God:
+And this you and me apart from God:
 
 >Titus 3:3 (CSB) **For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.**
 
-Let me contend that the Christian comes upon seeing the glory and beauty and the holiness of God and just becomes undone. Now you and I might not have the Paul's Road to Damascus radical transformation. Some do. Others might have been like C.S. Lewis who just gets on their motorcycle and at the end of a very short ride through the countryside, Mr. Lewis just believes and trust in God. 
+Let me contend that the Christian comes upon seeing the glory and beauty and the holiness of God and just becomes undone. 
 
-But we are all undone in one way or another at the sight of God and the beauty of his grace and gospel. And once you see it, you are never the same. You can't go back to what you once was. If your eyes were opened to the gospel of God, you cannot go back to your helpless estate because that feeling of being helpless is terrible and the worst feeling in the world. You now know that you need help--super help, something outside of yourself. Like Paul, you cry out, "Wretched man that I am! Who is going to save me from this body of sin and death!" Or like the tax collector, standing in the back of the sanctuary, beating his chest and crying out, "Lord, have mercy on me, a sinner!"
+Now you and I might not have the Paul's Road to Damascus radical transformation. Some do. Others might have been like C.S. Lewis who just gets on their motorcycle and at the end of a very short ride through the countryside, Mr. Lewis just believes and trust in God. 
 
-It was there, in that moment, is when God saved you completely and perfectly to himself. For good. You and I as sinners in the sight of God are helpless. I used to say 'helpless as babes' but even babies breath on their own. We were helpless as dead corpses at the bottom of the ocean. Who is going to save us?
+But we are all undone in one way or another at the sight of God and the beauty of his grace and gospel. And once you see it, you are never the same. You can't go back to what you once was. 
+
+If your eyes were opened to the gospel of God, you cannot go back to your helpless estate because that feeling of being helpless is terrible and the worst feeling in the world. 
+
+You now know that you need help--super help, something outside of yourself. Like Paul, you cry out, "Wretched man that I am! Who is going to save me from this body of sin and death!" Or like the tax collector, standing in the back of the sanctuary, beating his chest and crying out, "Lord, have mercy on me, a sinner!"
+
+It was there, in that moment, when God revealed his glory to you, is when God saved you completely and perfectly to himself. For good. 
+
+You and I as sinners in the sight of God are helpless. I used to say 'helpless as babes' but even babies breath on their own. We were helpless as dead corpses at the bottom of the ocean. Who is going to save us?
 
 ---
 
@@ -154,27 +176,31 @@ It was there, in that moment, is when God saved you completely and perfectly to 
 
 ### Future Sin Future Grace: Far From God
 
-Let me shoot straight: we are not born just and righteous people. Romans 3:10 quoting Psalm 14: None of us were born good. No, not even one.
+Let me shoot straight: we are not born just and righteous people. Romans 3:10 quoting Psalm 14: 
 
-And, to that end, I am going on a short limb to say that I don't think anybody here has ever been in a situation where you put yourself in danger in order of someone else to live. If you have, share with us afterwards because that would be an awesome story.
+>None of us were born good. No, not even one.
 
-I was a kid of the 80s where I was constantly exposed to the greatest movie genre ever to be invented: The Action Movie! And man, as fan of the genre, you got to see so many movies where someone gives their own life so someone else would live, that you grew up thinking, "Man, this is just life for now on. Just psych yourself to take one for the team."
+>For rarely will someone die for a just person
 
-And even as a US Air Force vet, I didn't see any action like that. My job titled had the word, "Combat" in it. Alas, no action to be found.
+What is Paul saying here? I venture to say that I don't think anybody here has ever been in a situation where you put yourself in danger in order of someone else to live. Now, if you have, share with us afterwards because that would be an awesome story to hear.
+
+I was a kid of the 80s where I was constantly exposed to the greatest movie genre ever to be invented: The Action Movie! Rambo, Robocop, Predator, Transformers. Over and over, someone died so that someone else might live. And man, as fan of the genre, I got to see so many times where this played out, that I grew up thinking, "Man, this is just life for now on. I need to psych myself out and take one for the team."
+
+And I went into the Air Force, I didn't see any action like that. My job title even had the word, "Combat" in it. Alas, no action like that to be found.
 
 And in these action movies, it was someone being saved was if not a good person, at least someone redeemable. 
 
 But life is not an action movie. As awesome as it might sound, we do not live in constant danger with bullets whizzing by our heads every second of the day. 
 
-But this life is certainly not an action movie because the ones needing to be saved--you and I--were not good in the sight of God and by own strength, could not redeem ourselves. 
+But this life is certainly not an action movie because the ones needing to be saved--you and I--were not good in the sight of God and by own strength, could not redeem ourselves.
 
-In this passage, do you see what Christ did here?
+<div style="page-break-after: always;"></div>
+
+But yet, in verse 6, do you see what Christ did here?
 
 ><sup> 6b </sup> at the right time, Christ died for the ungodly.
 
 Let me give it to you in another the way. Let me give you some good news...
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -182,9 +208,9 @@ Let me give it to you in another the way. Let me give you some good news...
 
 ### But God
 
-Let us start off here. Who is God? 
+Let us start off here. Who is God? If we are ungodly, dead in our sins, how can we relate to God?
 
-In the book, *Cross of Christ*, John Stott puts it bluntly on how we are not God and in fact, very far from God:
+Simply put, we cannot. In his book, *Cross of Christ*, John Stott puts it bluntly on how we are not God and in fact, very far from God:
 
 - **God is high above** our sin and idolatry
 - **God is far** from our wickedness and depravity
@@ -197,21 +223,29 @@ In the book, *Cross of Christ*, John Stott puts it bluntly on how we are not God
 - **He is all-consuming** - he will perfectly eradicate all sin from everywhere
 - **He is rejects all sin** from his presence - no toleration, does not have to live with it; he vomits it out of his being
 
-Does God have good and bad days and whatever life circumstances give him, he deals with accordingly? No. In actuality, he is completely sovereign over all circumstances. Things don't happen to him unless he allows it. That makes him omnipotent--which is a fancy way of calling him, the Almighty God.
+So right from birth and choice, we are far from God.
 
-Of all the things that he is and we are not, do you know what is the one chief thing that God is and we get to do? We do get to love one another.
+Is there anything makes us relatable to God? We are far from him, do we have anything else in common? Is there something in us that makes him love us?
+
+What about does God have good and bad days and whatever life circumstances give him, he deals with accordingly like we do? No. In actuality, he is completely sovereign over all circumstances. Things don't happen to him unless he allows it. That makes him omnipotent--which is a fancy way of calling him, the Almighty God.
+
+Of all the things that he is and we are not, there are a few things that we can relate to him--even as unbelievers. 
+
+We do get to love one another. And her is the connection, but God...
 
 ### proves his own love
 
-I am not going to sugar coat this: the world has try to taken the word 'love' by God's definition and twist it like their father Satan does. But I want you to see how, in Scripture, God defines love.
+Let's talk about love. How many songs about love have you heard. Just the words "let's talk about love"--I can name three off the top of my head.
+
+I am not going to sugar coat this: the world has try to taken the word 'love' by God's definition and twist it like their father Satan does. But tonight, using the words of God, how God defines love.
 
 For here is love, God proclaims the good news that He will make all things right:  
 >Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
 
-And here is love, God is faithful:  
->Psalm 103:15–18 (CSB) As for man, his days are like grass— he blooms like a flower of the field; when the wind passes over it, it vanishes, and its place is no longer known. **But from eternity to eternity the LORD’s faithful love is toward those who fear him, and his righteousness toward the grandchildren of those who keep his covenant, who remember to observe his precepts.**
+<!-- And here is love, God is faithful:  
+>Psalm 103:15–18 (CSB) As for man, his days are like grass— he blooms like a flower of the field; when the wind passes over it, it vanishes, and its place is no longer known. **But from eternity to eternity the LORD’s faithful love is toward those who fear him, and his righteousness toward the grandchildren of those who keep his covenant, who remember to observe his precepts.** -->
 
-And here is love, God's mercies will never come to an end:  
+And here is love, God's faithful love and mercies will never come to an end:  
 >Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, **for his mercies never end**. They are new every morning; great is your faithfulness!
 
 <!-- And here is love, God does everything for you to be with Him:  
@@ -224,26 +258,25 @@ And here is love, God saves us from our sins:
 >John 1:16–18 (CSB) Indeed, we have all received grace upon grace from his fullness, for the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him. -->
 
 And here is love, God sent his only begotten Son, Jesus Christ:  
->John 3:16–17 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him.
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
 
-And here is love, God adopts us into his family:  
->Romans 9:25–26 (CSB) As it also says in Hosea, I will call Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there **they will be called sons of the living God.**
+<!-- And here is love, God adopts us into his family:  
+>Romans 9:25–26 (CSB) As it also says in Hosea, I will call Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there **they will be called sons of the living God.** -->
 
-And here is love, God loved me and lived and died for me:  
+And here is love, Christ loved me and lived and died for me:  
 >Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
-And here is love, we have no condemnation:  
->Romans 8:1 (CSB) Therefore, there is now no condemnation for those in Christ Jesus,
+And here is love, we have no condemnation and no separate from God:  
+>Romans 8:1; 38-39 (CSB) Therefore, there is now no condemnation for those in Christ Jesus... and nothing will every separate us from the love of God that is in Jesus Christ our Lord.
 
-And nothing can separate us from God's love because of Christ our Lord:  
->Romans 8:38–39 (CSB) For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor any other no created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.
-
-And the ultimate form of love? He loved us first...  
+And the ultimate form of love? The Triune Almighty God loved us first...  
 >1 John 4:10 (ESV) In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
 
-God has all day to open your eyes and see what is actual love and how much He loves you.
+And what is so good about our Holy God is that he will spend all of your days in order to open your eyes and see what is actual love and how much He loves you.
 
-I could take the book of Leviticus and prove to you that is the love of God for you. And you might think, "How is the law of God is the love of God for us." Because in delivering the law to us, he shown us how far we are from him. If you read the law correctly, you are going to shout out, "I can't do this! It is impossible!" God is saying, "I know. I know. That is why I sent my Son."
+I could have taken the book of Leviticus and prove to you that is the love of God for you. And you might think, "How is the law of God is the love of God for us?"
+
+Because in delivering the law to us, he shown us how far we are from him. If you read the law correctly, you are going to shout out, "I can't do this! It is impossible!" God is saying, "I know. I know. That is why I sent my Son."
 
 ### for us
 
@@ -252,13 +285,15 @@ And he sent his Son for us!
 And here is love:  
 >2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
-Or as the ESV reads, "For our sake." That is the most amazing part. God does this for us. For our sake because we were so helpless, dead, woeful, and far from him.
+Or as the ESV reads, "For our sake." That is the most amazing part. God does this **for us**. For our sake because we were so helpless, dead, woeful, and far from him.
 
-That God doesn't have a generic all encompassing love generic for all things. No. This love, this saving love, this perfect love, this sanctifying love, this glorifying love, this satisfying love, this maxed out joy love is specifically directly targeting you, the children of God, the people of God, the sheep of his flock, the apple of his eye and the joy of his heart.
+That God doesn't have a generic all encompassing love generic for all things.  No other created being. Not the puppy dogs. Not the kitty cats or the cute things of this world--although adorable, he does not target his love on them because he is already their Lord. He does not have this type of love for the angels because they are His already and they worship him perfectly. 
 
-No other created being. Not the puppy dogs. Not the kitty cats or the cute things of this world--although adorable, he does not target his love on them because he is already their Lord. He does not have this type of love for the angels because they are His already and they worship him perfectly. He has a specific love for his people because He made us in his image from the start. Not anything else ever created holds that distinction. We are made in his image.
+No. This love, this saving love, this perfect love, this sanctifying love, this glorifying love, this satisfying love, this maxed out joy love is specifically directly targeting you, the children of God, the people of God, the sheep of his flock, the apple of his eye and the joy of his heart.
 
-And you might be asking, "But what about unbelievers who don't love and trust God." Let me reply by asking you how God replied to the prophet Isaiah: "Is the saving Almighty arm of God too short?" In other words, does our God have T-Rex arms? No! **He is mighty to save**. And let me submit to you because in eternity before the foundation of world God the Father and God the Son set out to save His people from their sins and we know this in full because God proved his love for us already.
+He has a specific love for his people because He made us in his image from the start. Not anything else ever created holds that distinction. We are made in his image.
+
+And you might be asking, "But what about unbelievers who don't love and trust God." Let me reply by asking you how God replied to the prophet Isaiah: "Is the saving Almighty arm of God too short?" In other words, does our God have T-Rex arms? No! **He is mighty to save**. And let me submit to you because in eternity before the foundation of world God the Father and God the Son set out to save His people from their sins and we know this in full because God proved his love for us already...
 
 ### in that while we were still sinners
 
@@ -272,7 +307,13 @@ I know we are in Romans 5, but let me give you a spoiler alert for Romans 8:
 
 You might want to say that "God looked down the corridors of time and look to see when we accepted him as our Savior and God picked that timeline."
 
-That is a nice theory but there is one glitch. The Bible says "God foreknew us". It never says, "God foresaw us." In other words, he didn't see us changing our minds and hearts and choosing him to be our God. No! He knew us in our sin and depravity and wickedness and evil and he knew that we were always going to run away from him unto death because He alone knows the depths of our hearts. And you know what the Almighty God, creator of the heavens, earth, and hell, when he saw us sinning and rebelling against Him all day long, do you know what he said, "That's who I want in my family. That person I want in my family forever. And I am going to send my Son live and die for that person and send my Spirit to give them life so we can be together forever."
+That is a nice theory but there is one glitch. The Bible says "God foreknew us". It never says, "God foresaw us." 
+
+In other words, he didn't see us changing our minds and hearts and choosing him to be our God. No! He knew us in our sin and depravity and wickedness and evil and he knew that we were always going to run away from him unto death because He alone knows the depths of our hearts. 
+
+And you know what the Almighty God, creator of the heavens, earth, and hell, when he saw us sinning and rebelling against Him all day long, do you know what he said?
+
+"That's who I want in my family. That person I want in my family forever. And I am going to send my Son live and die for that person and send my Spirit to give them life so we can be together forever."
 
 He knows our hearts. And still he loves us. Because...
 
@@ -280,15 +321,17 @@ He knows our hearts. And still he loves us. Because...
 
 As many of you know, God saved my oldest son, Yusef, not that long ago. And I have shared this story tons of times and I am going to share it again. I don't care. I love worshiping the Lord because He is so good.
 
-I get to talk to Yusef twice a week. And I thought this particular Tuesday in August was going to be like any other small talk phone conversation. But this call started out different. He wanted to know, "How does one start to believe in God?" That was a loaded question that deserved a loaded answer. Towards the end of the call, Yusef tells me, "Dad, I hav always told you I could not be a Christian because false preachers and hypocrite Christians. But to be honest, that is the not the reason at all. What if I go 'all-in' into this faith and it doesn't work out. There are no guarantees in life. What if this doesn't work out."
+One week, out of nowhere, Yusef tells me, "Dad, I hav always told you I could not be a Christian because false preachers and hypocrite Christians. But to be honest, that is the not the reason at all. What if I go 'all-in' into this faith and it doesn't work out. There are no guarantees in life. What if this doesn't work out."
 
-And I simply responded, "You are right. In this life and in this world, there are no guarantees. But out of all the faiths, cults, religions, and philosophy, we Christians have a guarantee--the guarantee is in the life and death and resurrection of Jesus Christ our Lord. And you know what makes it even more amazing? All of what Christ did happened 2000 years ago. Our guarantee is an historical fact."
+And I simply responded, "You are right. In this life and in this world, there are no guarantees. But out of all the faiths, cults, religions, and philosophies, we Christians have a guarantee--our guarantee is in the life and death and resurrection of Jesus Christ our Lord. And you know what makes it even more amazing? All of what Christ did happened 2000 years ago. Our guarantee is an historical fact."
 
 A few days later after that unforgettable phone call, Yusef was saved by God. A couple months later, I got to baptize him. Praise be to God!
 
-God foreknew my son. God knew that my son's heart was from from Him. God knew my son, knew his disbelief. Knew that Christianity was just a myth and nothing more. God knew him and saved him.
+God foreknew my son. God knew that my son's heart was far from Him. God knew my son, knew his sins, knew his disbelief, knew him to be dead. God knew that Yusef saw God as a mythological being  and nothing more. God knew him and saved him.
 
-God knew that I was deceived into wickedness and sin. I tasted the goodness of God when I was young but spent so much of my life rebelling and trespassing against a holy God. I was at war with God and his creation. God knew me and sent his Son to save me from my sins.
+God knew that I was deceived into wickedness and sin. I tasted the goodness of God when I was young but spent so much of my life rebelling and trespassing against a holy God. I was at war with God and his creation. I was a violent and arrogant God-opposer. God knew me and sent his Son to love me, die for me, to save me from my sins.
+
+Because of what God has done through Jesus Christ our Lord, we are...
 
 ### Saved by him through him for him
 
@@ -335,7 +378,7 @@ If I am calling that a miracle, then how would you define the sons of Adam now b
 
 How would you explain how Paul quotes the prophet Hosea in Romans 9:
 
->Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there they will be called sons of the living God.
+>Not my People, My People, **reconciled** and she who is Unloved, Beloved. **reconciled** And it will be in the place where they were told, you are not my people, there they will be called sons of the living God.**reconciled**
 
 Because we were all born sons and daughters of Adam and therefore away and separated from God, we are now reunited with God by power of the Holy Spirit through the atoning death of the Lord Jesus Christ.
 
@@ -359,20 +402,34 @@ We are truly love by God. Nothing is going to separate us from the love of God w
 
 Our great God who sent his only begotten Son for you has saved you. God rejoices, loves, and delights in you. God sings and rejoices over you? Why? Nothing that you and I have ever done. We were born sinners. But God loves us because you are in Christ and Christ is in you.
 
-I asked in the beginning of our time here, "What is God preparing us for? Why do we need to be build up in character, endurance and hope?" I am reminded of the Day 4 Advent Reading from Ronnie Martin's God Who is With Us and he expounded on Genesis 50:20:
+The question I asked us from Romans 5:1-5, "What is God preparing us for? Why do we need to be build up in character, endurance and hope?" I am reminded of the Day 4 Advent Reading from Ronnie Martin's God Who is With Us and he expounded on Genesis 50:20:
 
 >Genesis 50:20 (CSB) You planned evil against me; God planned it for good to bring about the present result—the survival of many people.
 
-We live in fallen, evil world. There is no denying that. You can actively pay attention to the news and doom-scroll your social media and listen to worthless conspiracy theories and myths and have your heart and soul be inundated by the mad world we are a part of. You can simply not watch the news and not doom-scroll and you would still know the just how corrupt the world is becoming. You know without even looking hard enough that Satan is the still the prince of the air--as defeated as he might be.
+I think some of you know that I suffered abuse as a child at the hands of my dad and my stepmother. And I still suffer the effects of PTSD till this day. And by God's grace, I was saved many years later--about 15 years ago.
 
-With all evil and corruption--the radical depravity of the world around us--Christ did not come to shield us and buffer us and keep us unscathed and uninjured and disconnected from those who are still imprisoned by Satan and sin.
+There was this moment in time, before I had met Sarah, even with the Triune God dwelling in me and making his home in me, I had made some foolish decisions.
 
-See how Jesus prays for us:
+I was married to someone I shouldn't have. I have always said, "I am not God's brightest star" because my life is filled with regrets that had devastating consequences.
 
->John 17:15–17 (CSB) I am not praying that you take them out of the world but that you protect them from the evil one. They are not of the world, just as I am not of the world. Sanctify them by the truth; your word is truth.
+In this particular dark time of my life, I was facing so much abuse, that I attempted suicide just so I could at least see the face of my God and stop the suffering.
 
-Why is God building us up in character, endurance and hope? Because while we are not of this world just like our Christ was not of this world, we are very much in this world, just like Christ was. And just like Christ, we are here to do the good works that the Father has laid out for each of us to do--namely, to minister and to love one another.
+The world, Satan and his demons planned great evil against me, but God planned it for good.
 
-TODO:
+I get that. I get that down in my bones and in my heart and in my soul.
 
-Rest in that absolute truth, brothers and sisters. And give thanks to Him. Amen.
+But believe me when I said, if God approached me moments before that dark moment in my life and told me what I was about to face, I would have said, "NO!" and did everything in my power to avoid that kind of pain and anguish.
+
+And I am not going to lie to you, if time machines were an actual thing, every single moment of my life would be overwhelming temptation to go back in time and change the past so I wouldn't have to endure that affliction... that trial... that tribulation.
+
+And I wish I could tell you today, when that trial ended, I came out victorious! Stronger than ever! Unbreakable faith! Never end joy. To tell you the truth, I was the opposite. I was defeated. I was lost. I ran back to my old self--trying to recreate my past dead life of trash and sin.
+
+But here is love, God rescued me once more. God was never one and done with me. He is always rescuing me because even on my best days, I fail and sin against him. And on my worst days, I surpass the chief of sinners.
+
+God knew that. God knew that and he loved me. God knew that, made up his mind about me before he created the universe. God knew that and He sent his Son, Jesus Christ, to live and die for me.
+
+I don't know if you are struggling with regret and sins of your past life. I don't know if you are regretting something now that is going on.
+
+Let me tell you, you are never too far from the saving grace of the Almighty God. Christ died for the ungodly. It is an historical fact that God has already proven his love for us because while you and I were sinners, Christ died for you and me.
+
+Boast in that. Worship God in that. Give thanks to God in that. Praise his holy name today.
