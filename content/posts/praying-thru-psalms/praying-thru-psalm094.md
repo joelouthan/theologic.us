@@ -64,10 +64,41 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Vengeance
 </div>
 
 ```text
+The sins against me
+  when the people should have
+  cared for me
+  tender towards me
+  love me
+  cherish me
 
+Instead
+  I was forgotten
+  forsaken
+  betrayed
+  hated
+  unloved
+
+But you appeared
+  you saved me
+  and nothing I have done
+  brought you to me
+  everything that I have done
+  should have attracted your wrath
+
+Those who forgotten me
+  you are closer than whisper
+  those who forsaken me
+  you dwell in me
+  those who have betrayed me
+  you have adopted me
+  those who have hated me 
+  you have loved me
+  those who despite me
+  I am my Beloved
+  and you are mine
+  forever 
 ```
-

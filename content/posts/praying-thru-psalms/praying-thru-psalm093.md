@@ -28,10 +28,41 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Majesty
 </div>
 
 ```text
+You are the God
+  of all splendor and grace
 
+Your beauty is
+  beyond my comprehension
+
+Your power is
+  the definition of amazing
+
+Your grace is
+  always undeserving
+
+Your mercy
+  will never come to an end
+
+Because of you
+  I am alive
+  I am free
+  I am your child
+  and I will worship you
+  because you are great
+  holy
+  righteous
+  just
+  grace
+  mercy
+  perfect
+  love
+  almighty
+
+Be exalted, my Lord
+  today
 ```
 

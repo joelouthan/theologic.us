@@ -42,10 +42,43 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Righteousness
 </div>
 
 ```text
+For you, O Lord
+  are high
+  above all the earth
 
+And you alone
+  are exalted
+  far above
+  all of my gods
+
+I thought
+  that what I did was good enough
+  to have nothing to do with you
+  and wanted everything you provide
+  to worship your gifts
+  instead of worshipping the Giver
+
+But you were none content
+  with my life unto death
+  you will not let your son perish
+  nor see corruption
+
+You gave me a new heart
+  renewed mind
+  gift of repentance 
+  and Your Spirit
+  because you were thoughtful
+  mindful
+  gracious
+  to give me your Son
+
+Now I get to sing
+  now I get to worship
+  now I get to proclaim
+  you are my Lord
+  and you are my great God!
 ```
-

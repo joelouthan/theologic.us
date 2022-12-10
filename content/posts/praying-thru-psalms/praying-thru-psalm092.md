@@ -50,10 +50,39 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Faithfulness
 </div>
 
 ```text
+I worship you
+  Almighty God
+  there is none like you.
 
+Who is like you, O Lord
+  who has spare my life
+  who has saved my soul
+  who has made your home in me
+  who is the lover of my heart?
+
+There is none
+  because you have never left nor betrayed
+  despite my wickedness and folly
+  you have been for me
+  and you have been there
+  always to bring me back to you!
+
+With my mouth
+  I certainly will sing
+  I will give testimony
+  I will build my life giving you thanks
+  I will preach your word
+  I will proclaim your name
+  You are the only One
+  that my heart desires.
+
+I love you
+  and all that is within me
+  I will bless your holy name.
+
+Amen
 ```
-

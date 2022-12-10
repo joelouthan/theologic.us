@@ -36,10 +36,31 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Awe
 </div>
 
 ```text
+You are gracious and kind
+  and my heart is limited
 
+You are merciful and loving
+  and my soul can only bear so much
+
+You dwell in me
+  and I have spent most of life
+  rejecting you
+
+You are glorious
+  and I tightly squint my eyes
+  because they ache from your light
+
+I have seen your great power and might
+  and rarely do I believe
+
+You alone are awe-inspiring
+  and I often settle for less
+
+Yet, I am yours
+  and you are mine
+  forever
 ```
-
