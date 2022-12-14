@@ -209,7 +209,7 @@ Andrew & Jordyn, Will, Alice, Elliot, Annie
 
 ## RTC
 
-Jeremiah & Serah, Israel, Isabella, Moses (brunette), Isaiah (brunette), Ezekiel (blond), and Augustine (blond)
+Jeremiah & Serah, Israel, Bella, Moses, Isaiah, Zeke, Augustine 
 
 Joshua & Lynnette, Elijah
 
