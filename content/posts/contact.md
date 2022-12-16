@@ -7,7 +7,7 @@ index: true
 draft: false
 showtoc: false
 ---
-<img style="float: left; padding-right: 20px" src="/images/1-smile-no-braces-portrait-bright-noback.png" width="400px">
+<img style="float: left; padding-right: 20px" src="/images/jlouthan-ai-starry-back-500-01.png" width="400px">
 
 <div align="left">
 
