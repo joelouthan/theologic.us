@@ -26,35 +26,21 @@ The Lord our God is but one only living and true God; whose subsistence is in an
 
 ## The Confession
 
+This is loaded chapter. Because right out out the gate, after solidifying the confessions on the Scriptures, we go right into answering the question:
+
+*Who is God?*
+
+And the Historical Confessions (WCF, Savor, and 2LBC) front loads Chapter 2 on Theology with the attributes of God. Systematically speaking, it starts with the incommunicable attributes--the attributes that belong to God alone, while finishing it off with the communicable attributes of God--namely, those attributes that are shared with the imagebearers of God, that is, mankind. 
+
+Another way of seeing these attributes organized is Richard Muller defined it. In *To the Judicious and Impartial Reader: Baptist Symbolics Volume 2*, Dr. Renihan attributes the following terms from Richard Muller's *Dictionary of Latin and Greek Theological Terms (2nd edition)*:
+
+>>“*Archetypal theology* is “the infinite knowledge of God known only to God himself” while *ectypal theology* is “all true finite theology, defined as a reflection of the divine archetype.”
+>>
+>>Renihan. Baptist Symbolics Volume 2
+
+To learn these attributes, we must examine them bit by bit and connect them with the appropriate declaration from Scripture.
+
 ### 
-
-## The Discussion
-
-```text
-1. 
-```
-
-```text
-2. 
-```
-
-```text
-3. 
-```
-
-```text
-4. 
-```
-
-## The Prayer
-
-<div style='font-variant: small-caps;'>
-
-</div>
-
-```text
-
-```
 
 ## The Resources
 

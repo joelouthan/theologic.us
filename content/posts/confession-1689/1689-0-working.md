@@ -203,9 +203,7 @@ The supreme judge, by which all controversies of religion are to be determined, 
 The Lord our God is but one only living and true God; whose subsistence is in and of himself, infinite in being and perfection; whose essence cannot be comprehended by any but himself; a most pure spirit, invisible, without body, parts, or passions, who only hath immortality, dwelling in the light which no man can approach unto; who is immutable, immense, eternal, incomprehensible, almighty, every way infinite, most holy, most wise, most free, most absolute; working all things according to the counsel of his own immutable and most righteous will for his own glory; most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him, and withal most just and terrible in his judgments, hating all sin, and who will by no means clear the guilty.
 ```
 
->1 Corinthians 8:4 (CSB) About eating food sacrificed to idols, then, we know that “an idol is nothing in the world,” and that “there is no God but one.”
-
->1 Corinthians 8:6 (CSB) yet for us there is one God, the Father. All things are from him, and we exist for him. And there is one Lord, Jesus Christ. All things are through him, and we exist through him.
+>1 Corinthians 8:4–6 (CSB) About eating food sacrificed to idols, then, we know that “an idol is nothing in the world,” and that “there is no God but one.” For even if there are so-called gods, whether in heaven or on earth—as there are many “gods” and many “lords”—yet for us there is one God, the Father. All things are from him, and we exist for him. And there is one Lord, Jesus Christ. All things are through him, and we exist through him.
 
 >Deuteronomy 6:4 (CSB) “Listen, Israel: The LORD our God, the LORD is one.
 
@@ -295,7 +293,7 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 
 ---
 
-### 2.3 The Trinitarianess of God
+### 2.3 The Trinitarianess of GOD
 
 ```text
 In this divine and infinite Being there are three subsistences, the Father, the Word or Son, and Holy Spirit, of one substance, power, and eternity, each having the whole divine essence, yet the essence undivided: the Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Spirit proceeding from the Father and the Son; all infinite, without beginning, therefore but one God, who is not to be divided in nature and being, but distinguished by several peculiar relative properties and personal relations; which doctrine of the Trinity is the foundation of all our communion with God, and comfortable dependence on him.
