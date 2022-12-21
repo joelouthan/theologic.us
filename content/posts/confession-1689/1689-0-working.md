@@ -322,7 +322,7 @@ In this divine and infinite Being there are three subsistences, the Father, the 
 
 ## Chapter 3: Of God's Decree
 
-### 
+### 3.1 The Sovereignty of God
 
 ```text
 God hath decreed in himself, from all eternity, by the most wise and holy counsel of his own will, freely and unchangeably, all things, whatsoever comes to pass; yet so as thereby is God neither the author of sin nor hath fellowship with any therein; nor is violence offered to the will of the creature, nor yet is the liberty or contingency of second causes taken away, but rather established; in which appears his wisdom in disposing all things, and power and faithfulness in accomplishing his decree.
@@ -350,7 +350,7 @@ God hath decreed in himself, from all eternity, by the most wise and holy counse
 
 ---
 
-### 
+### 3.2 The Decretive Will of God
 
 ```text
 Although God knoweth whatsoever may or can come to pass, upon all supposed conditions, yet hath he not decreed anything, because he foresaw it as future, or as that which would come to pass upon such conditions.
@@ -360,7 +360,7 @@ Although God knoweth whatsoever may or can come to pass, upon all supposed condi
 
 >Romans 9:11–18 (CSB) For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—not from works but from the one who calls—she was told, The older will serve the younger. As it is written: I have loved Jacob, but I have hated Esau. What should we say then? Is there injustice with God? Absolutely not! For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. So then, it does not depend on human will or effort but on God who shows mercy. For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
 
-###
+### 3.3 The Predestination & Foreordination of God
 
 ```text
 By the decree of God, for the manifestation of his glory, some men and angels are predestinated, or foreordained to eternal life through Jesus Christ, to the praise of his glorious grace; others being left to act in their sin to their just condemnation, to the praise of his glorious justice.
@@ -382,7 +382,7 @@ By the decree of God, for the manifestation of his glory, some men and angels ar
 
 ---
 
-### 
+### 3.4 The Certainty of God When It Comes To His People
 
 ```text
 These angels and men thus predestinated and foreordained, are particularly and unchangeably designed, and their number so certain and definite, that it cannot be either increased or diminished.
@@ -394,7 +394,7 @@ These angels and men thus predestinated and foreordained, are particularly and u
 
 ---
 
-### 
+### 3.5 The Election of God
 
 ```text
 Those of mankind that are predestinated to life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ unto everlasting glory, out of his mere free grace and love, without any other thing in the creature as a condition or cause moving him thereunto.
@@ -416,7 +416,7 @@ Those of mankind that are predestinated to life, God, before the foundation of t
 
 ---
 
-### 
+### 3.6 The Free Purpose of the Will of God
 
 ```text
 As God hath appointed the elect unto glory, so he hath, by the eternal and most free purpose of his will, foreordained all the means thereunto; wherefore they who are elected, being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ, by his Spirit working in due season, are justified, adopted, sanctified, and kept by his power through faith unto salvation; neither are any other redeemed by Christ, or effectually called, justified, adopted, sanctified, and saved, but the elect only.
@@ -442,7 +442,7 @@ As God hath appointed the elect unto glory, so he hath, by the eternal and most 
 
 ---
 
-### 
+### 3.7 The Mercies of God
 
 ```text
 The doctrine of the high mystery of predestination is to be handled with special prudence and care, that men attending the will of God revealed in his Word, and yielding obedience thereunto, may, from the certainty of their effectual vocation, be assured of their eternal election; so shall this doctrine afford matter of praise, reverence, and admiration of God, and of humility, diligence, and abundant consolation to all that sincerely obey the gospel.
