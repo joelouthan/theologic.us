@@ -1,7 +1,7 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter "
+title: "1689 Baptist Confession of Faith, Chapter 3.5 The Election of God"
 author: Joseph Louthan
-publishDate: 2022-12-28T06:00:00-05:00
+publishDate: 2023-01-25T06:00:00-05:00
 categories:
   - Confessions
 tags:
