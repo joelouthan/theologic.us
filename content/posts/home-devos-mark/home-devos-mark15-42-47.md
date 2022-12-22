@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 15:42-47 Every Step Is Joy: Christ Is Buried For Us"
 author: Joseph Louthan
 publishDate: 2023-01-20T06:00:00-05:00
 categories:

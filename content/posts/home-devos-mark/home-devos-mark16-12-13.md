@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 16:12-13 Every Step Is Joy: Christ Fulfilled The Law For Us"
 author: Joseph Louthan
 publishDate: 2023-03-10T06:00:00-05:00
 categories:

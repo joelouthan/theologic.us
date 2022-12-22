@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 16:14-20 Go And Do Likewise"
 author: Joseph Louthan
 publishDate: 2023-03-17T06:00:00-05:00
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: "
+title: "Home Devotions: Mark 16:9-12 Every Step Is Joy: Christ Has Defeated Satan, Demons, Sin, Hell, And Death For Us"
 author: Joseph Louthan
 publishDate: 2023-03-03T06:00:00-05:00
 categories:
