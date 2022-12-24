@@ -38,7 +38,47 @@ draft: false
 
 ## The Devotion
 
+It all started in the garden where our original parents exchange the glory of God for themselves.
 
+>Genesis 3:6 (CSB)
+The woman saw that the tree was good for food and delightful to look at, and that it was desirable for obtaining wisdom. So she took some of its fruit and ate it; she also gave some to her husband, who was with her, and he ate it.
+
+Paul expounds on this:
+
+>Romans 1:20-25 (CSB)
+For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse. For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. Claiming to be wise, they became fools and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles.
+>
+>Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves. They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen.
+
+Right there is we worship self rather than God. We were made to worship God. When we don’t, all of creation is broken, is marred, is fracture down to the core.  That is sin. 
+
+And sin ends in death. 
+
+We were made to worship God forever. We were made to live forever and not die. But humanity’s sin broke that. 
+
+Yet, God saw our helpless estate and in his merciful love, set to make it right.
+
+>Genesis 3:15 (CSB)
+I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+Where we exchanged God for ourselves, Christ, Son of God who is God, came down to us, lived as us without sin, to be exchanged ourselves back to God. 
+
+And it started by exchanging the worst within us for God.
+
+Our sinful nature wants the Barabbas within us to be set free without consequence. 
+
+God knew that. 
+
+We may want no consequence for our sin but without the shedding of blood there is no forgiveness of sin. (Hebrews 9:22)
+
+Our sin demands a punishment. Our wickedness demands a sacrifice. For the people of God, we cannot bear the punishment for our sins. If we died, we would not be made holy. 
+
+But Christ, endured this mockery of a trial, tortured, beaten, spat upon—-and the worst, to be falsely accused when he has done no sin. And remained silent for he will save his people from their sins. 
+
+It was in this moment he exchanged our sin back to his glory. To save his people. Forever. 
+
+>2 Corinthians 5:21 (CSB)
+He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
 Every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."
 
