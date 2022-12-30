@@ -175,9 +175,9 @@ In terms of what Christ did, as fully God and fully man, the Apostle John states
 
 >John 21:25 (CSB) And there are also many other things that Jesus did, which, if every one of them were written down, I suppose not even the world itself could contain the books that would be written.
 
-To sum up *immenseness* of God, God is not just everywhere at all times but where you are at right now, God is with you right now. He is Jehovah-Shammah--God is there.[^1]
+To sum up *immenseness* of God, God is not just everywhere at all times but where you are at right now, God is with you right now. He is Jehovah-Shammah--God is there.
 
-[^1]: Ezekiel 48:35 (CSB) The perimeter of the city will be six miles, and the name of the city from that day on will be The LORD Is There.”
+>Ezekiel 48:35 (CSB) The perimeter of the city will be six miles, and the name of the city from that day on will be **The LORD Is There.**”
 
 ### eternal
 
