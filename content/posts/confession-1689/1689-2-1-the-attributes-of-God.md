@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 2.1 The Attributes of God"
 author: Joseph Louthan
-publishDate: 2022-12-07T06:00:00-05:00
+publishDate: 2023-01-03T06:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -41,6 +41,8 @@ Another way of seeing these attributes organized is Richard Muller defined it. I
 To learn these attributes, we must examine them bit by bit and connect them with the appropriate declaration from Scripture.
 
 ### The Lord our God
+
+>Deuteronomy 6:4-9 (CSB) “Listen, Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart, with all your soul, and with all your strength. These words that I am giving you today are to be in your heart. Repeat them to your children. Talk about them when you sit in your house and when you walk along the road, when you lie down and when you get up. Bind them as a sign on your hand and let them be a symbol on your forehead. Write them on the doorposts of your house and on your city gates.
 
 From his book, *Baptist Symbolics Volume 2.*, Dr. Renihan spots something that I missed, "the paragraph begins with a personalized assertion about God—He is ours.”[^1] Whatever God wants to reveal about himself to us, it will not be everything about God but it will be *truly* about God and we, as his people, know him truly. Let the world say what they want about our God. But the maker of the heavens and the earth, the Almighty God, from everlasting to everlasting, belongs to his people. God belongs to me. For I am my Beloved's and He is mine forever. [^2] God personally belongs to me and I personally belong to him. For:
 
@@ -161,9 +163,21 @@ I find it fascinating when humans want something else not the word of God to giv
 
 >1 Kings 8:27 (CSB) But will God indeed live on earth? Even heaven, the highest heaven, cannot contain you, much less this temple I have built.
 
+>Numbers 14:21 (CSB) Yet as I live and as the whole earth is filled with the LORD’s glory,
+
+The *immensity* of God speaks to the omnipresence of God--God is everywhere at all times. That is not say God is in everything--that is would be *pantheism*. And we know that not be the case because nothing of God dwells or resides in the unbelievers.
+
+I think it will be reasonable to comprehend the Father and the Spirit to be everywhere at all times because they are spirit. But what about the Second Person of the Trinity, Jesus Christ, who took on flesh and dwelled among us? The Apostle Paul states it perfectly:
+
+>Colossians 1:15–20 (CSB) He is the image of the invisible God, the firstborn over all creation. For everything was created by him, in heaven and on earth, the visible and the invisible, whether thrones or dominions or rulers or authorities— all things have been created through him and for him. He is before all things, and by him all things hold together. He is also the head of the body, the church; he is the beginning, the firstborn from the dead, so that he might come to have first place in everything. **For God was pleased to have all his fullness dwell in him, and through him to reconcile everything to himself, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.**
+
+In terms of what Christ did, as fully God and fully man, the Apostle John states:
+
 >John 21:25 (CSB) And there are also many other things that Jesus did, which, if every one of them were written down, I suppose not even the world itself could contain the books that would be written.
 
-TODO:
+To sum up *immenseness* of God, God is not just everywhere at all times but where you are at right now, God is with you right now. He is Jehovah-Shammah--God is there.[^1]
+
+[^1]: Ezekiel 48:35 (CSB) The perimeter of the city will be six miles, and the name of the city from that day on will be The LORD Is There.”
 
 ### eternal
 
