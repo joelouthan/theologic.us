@@ -11,8 +11,9 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
+
 ## The Text
 
 >Mark 15:16-21 (CSB)  
