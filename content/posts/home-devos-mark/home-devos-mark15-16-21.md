@@ -11,7 +11,7 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ## The Text
@@ -31,7 +31,39 @@ draft: true
 
 ## The Devotion
 
+>Isaiah 53:3-4 (CSB)
+He was despised and rejected by men,  
+a man of suffering who knew what sickness was.  
+He was like someone people turned away from;  
+he was despised, and we didn’t value him.  
+Yet he himself bore our sicknesses,    
+and he carried our pains;  
+but we in turn regarded him stricken,  
+struck down by God, and afflicted.
 
+Born into this sinful, broken, diseased world—-we are mocked and scorned and we do so to others. 
+
+>Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
+
+We are commanded to never mock, make fun of, scorn, or hate one another. The first commandment is to love God with everything you got. In Christ continued exposition of the law, he goes on to say:
+
+>Matthew 22:39 (CSB) The second is like it: Love your neighbor as yourself.
+
+Loving your neighbor (which everyone) as yourself is like loving the Lord your God with all of your being. 
+
+And in our sin, we don’t do that. We literally do the opposite. We hate one another. We gossip about one another. We cut each other down. We despise one another. 
+
+And no one deserves this type of hate but for the most vile, depraved, wicked among us.
+
+Yet, Christ, being ill-deserving of any hatred bears all the sin of hatred for us—for his people.
+
+>Malachi 1:2-3 (CSB)
+“I have loved you,” says the LORD.
+Yet you ask, “How have you loved us?” “Wasn’t Esau Jacob’s brother?” This is the LORD’s declaration. “Even so, I loved Jacob, but I hated Esau. I turned his mountains into a wasteland, and gave his inheritance to the desert jackals.”
+
+That hatred for Esau was Esau’s final judgment. For all of the blessings that Esau received in his lifetime and for the despicable behavior of Jacob—yet, Jacob trusted God and Esau did not. God loved Jacob and hated Esau. 
+
+For our hatred of others, we should have been hated by God. But Christ took that sin of hatred and hostility and placed it on himself for his people. Now we are forever loved and cherished because we belong to him. 
 
 Every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."
 
