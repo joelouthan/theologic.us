@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -183,7 +183,30 @@ To sum up *immenseness* of God, God is not just everywhere at all times but wher
 
 >Psalm 90:2 (CSB) Before the mountains were born, before you gave birth to the earth and the world, from eternity to eternity, you are God.
 
-TODO:
+>Revelation 22:12-13 (CSB) “Look, I am coming soon, and my reward is with me to repay each person according to his work. I am the Alpha and the Omega, the first and the last, the beginning and the end.
+
+John Calvin wrote:
+
+>> finitum non capax infiniti
+
+In other words, "the finite mind cannot comprehend the infinite." If there is one attribute of God that is the hardest for us to grasp, I suggest it would be the eternality of God.
+
+It is easy for us to quote Moses in Psalm 90, "from eternity to eternity, you are God." But to state that absolute fact and believe that absolute fact has implication.
+
+For one, God is the Creator of all creation and he is before all things.
+
+>John 1:1-3 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. All things were created through him, and apart from him not one thing was created that has been created.
+
+Nothing created him and he is before all created things. There wasn't a moment in time that God was not there. What is true for any point in the past is absolutely true for the future. Any moment in the future, God is already there. And when he relates to us, he always uses temporal terms despite being outside of time.
+
+What is even more amazing, within those temporal terms, when the Son of God took on flesh, he subjected himself not only to his material plane and the effects of the corruption of sin but he subjected himself to the constraints of time like we are.
+
+Jesus Christ, the Son of God who is God, "grew in stature and wisdom"[^3] and preached the gospel [^4]
+
+[^3]: Luke 2:40
+[^4]: Mark 1:14
+
+>Genesis 1:1 (CSB) In the beginning God created the heavens and the earth.
 
 ### incomprehensible
 

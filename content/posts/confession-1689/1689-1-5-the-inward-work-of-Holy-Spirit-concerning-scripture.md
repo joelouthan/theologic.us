@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1.v The Inward Work of the Holy Spirit Concerning the Scriptures"
+title: "1689 Baptist Confession of Faith, Chapter 1.5 The Inward Work of the Holy Spirit Concerning the Scriptures"
 author: Joseph Louthan
 publishDate: 2022-09-21T06:00:00-05:00
 categories:

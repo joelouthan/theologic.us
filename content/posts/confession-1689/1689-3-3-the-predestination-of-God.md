@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1689: Chapter 3.3 The Predestination & Foreordination of God"
+title: "1689 Baptist Confession of Faith, Chapter 3.3 The Predestination & Foreordination of God"
 author: Joseph Louthan
 publishDate: 2023-01-11T06:00:00-05:00
 categories:

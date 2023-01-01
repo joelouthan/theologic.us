@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1.viii The Inspiration of God on Holy Scripture"
+title: "1689 Baptist Confession of Faith, Chapter 1.8 The Inspiration of God on Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-11-02T06:00:00-05:00
 categories:

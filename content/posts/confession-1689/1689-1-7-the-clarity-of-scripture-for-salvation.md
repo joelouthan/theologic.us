@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1.vii The Clarity of Holy Scripture for Salvation"
+title: "1689 Baptist Confession of Faith, Chapter 1.7 The Clarity of Holy Scripture for Salvation"
 author: Joseph Louthan
 publishDate: 2022-10-26T06:00:00-05:00
 categories:
