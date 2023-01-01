@@ -85,12 +85,12 @@ Wakeman Trust. January 1, 1981.
 
 ---
 
-By God's great provision, within the next few months, two will be dropping. One from James Renihan for Volume 2 to this set:
+By God's great provision, within the next few months, two will be dropping. One from James Renihan:
 
-<img src="/images/resources/confession-1689-vindication-of-the-truth-renihan.png" align="left" width="100" style="padding-right: 10px" />For the Vindication of the Truth: Baptist Symbolics Volume 1  
+<img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
 by James Renihan.  
-Founders Press. 2021.  
-[Goodreads](https://www.goodreads.com/book/show/61768195-for-the-vindication-of-the-truth?ac=1&from_search=true&qid=HBlZSEJ6T2&rank=2)
+Founders Press. 2022.  
+[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
 
 <p style="clear:both;">
 
