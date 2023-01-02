@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.7 The Mercies of God"
 author: Joseph Louthan
-publishDate: 2023-02-08T00:00:00-05:00
+publishDate: 2023-03-08T00:00:00-05:00
 categories:
   - Confessions
 tags:
