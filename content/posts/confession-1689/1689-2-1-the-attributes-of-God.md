@@ -210,15 +210,125 @@ Jesus Christ, the Son of God who is God, "grew in stature and wisdom"[^3] and pr
 
 ### incomprehensible
 
-TODO:
+In continuing with the Calvin's statement, eternality of God is one thing but the fact that we cannot comprehend him in our natural state is something humbling.
+
+Those who contend for the free will of man in their own salvation will, after much consideration, will have to conclude that if the mortal man can learn 2+2=4, then God is a fact that can be learned.
+
+But God is not a school subject. He is not an academic course. He is not a science project. He is not an undiscovered element. The modern mind wants to so desperately treat God as if he is just another major study at the local college. But the Scripture make it crystal clear:
+
+>1 Corinthians 2:7–16 (CSB)  
+><sup> 7  </sup>On the contrary, we speak God’s hidden wisdom in a mystery, a wisdom God predestined before the ages for our glory. 
+
+><sup> 8  </sup>None of the rulers of this age knew this wisdom, because if they had known it, they would not have crucified the Lord of glory. 
+
+><sup> 9  </sup>But as it is written, What no eye has seen, no ear has heard, and no human heart has conceived— God has prepared these things for those who love him. 
+
+><sup> 10  </sup>Now God has revealed these things to us by the Spirit, since the Spirit searches everything, even the depths of God. 
+
+><sup> 11  </sup>For who knows a person’s thoughts except his spirit within him? In the same way, no one knows the thoughts of God except the Spirit of God. 
+
+><sup> 12  </sup>Now we have not received the spirit of the world, but the Spirit who comes from God, so that we may understand what has been freely given to us by God. 
+
+><sup> 13  </sup>We also speak these things, not in words taught by human wisdom, but in those taught by the Spirit, explaining spiritual things to spiritual people. 
+
+><sup> 14  </sup>But the person without the Spirit does not receive what comes from God’s Spirit, because it is foolishness to him; he is not able to understand it since it is evaluated spiritually. 
+
+><sup> 15  </sup>The spiritual person, however, can evaluate everything, and yet he himself cannot be evaluated by anyone. 
+
+><sup> 16  </sup>For who has known the Lord’s mind, that he may instruct him? But we have the mind of Christ.
+
+In other words, knowledge of God is supernatural and not natural. Something outside of us must reveal God to us. And throughout the Scriptures, we know that it must be God that reveals himself to us for us to know, believe, trust, and obey Him. No exceptions.
+
+Let me take it one step further: do you believe that the Scriptures are another literary work or are the inspired by God?
+
+>2 Timothy 3:14-17 (CSB) But as for you, continue in what you have learned and firmly believed. You know those who taught you, and you know that from infancy you have known the sacred Scriptures, which are able to give you wisdom for salvation through faith in Christ Jesus. **All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, so that the man of God may be complete, equipped for every good work.**
+
+If it is inspired by God, then the word of God comes from God alone. If it comes from God alone, it is supernatural. If it is supernatural, then how are we to even comprehend the word of God?
+
+Only if God reveals it to us. In other words, only if God opens our eyes. For:
+
+>Hebrews 6:1-3 (CSB) Therefore, let us leave the elementary teaching about Christ and go on to maturity, not laying again a foundation of repentance from dead works, faith in God, teaching about ritual washings, laying on of hands, the resurrection of the dead, and eternal judgment. **And we will do this if God permits.**
+
+And
+
+>Mark 8:22-25 (CSB) They came to Bethsaida. They brought a blind man to him and begged him to touch him. He took the blind man by the hand and brought him out of the village. Spitting on his eyes and laying his hands on him, he asked him, “Do you see anything? ” He looked up and said, “I see people — they look like trees walking.” Again Jesus placed his hands on the man’s eyes. The man looked intently and his sight was restored and he saw everything clearly.
+
+You might say, "Are you saying we cannot know God at all?"
+
+Can we fully know God? No. But can we *truly* know him? Absolutely. How do I know this? He sent his Son, Jesus Christ, to live and die for us.
+
+>John 1:18 (CSB) No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
 
 ### almighty
 
+>When Abram was ninety-nine years old, the LORD appeared to him, saying, “I am God Almighty. Live in my presence and be blameless.
+
+>Revelation 4:8 (CSB) Each of the four living creatures had six wings; they were covered with eyes around and inside. Day and night they never stop, saying,  
+>Holy, holy, holy,  
+>Lord God, the Almighty,  
+>who was, who is, and who is to come.
+
+In the most simplistic way, almighty is a contraction of two words, "all" and "mighty". That is too say, all-might. If we have a hard time grasping the ever-existence of God, I think we really do no fathom what it means for God to be omnipotent. And the reason why is throughout all of history, man, in his frailty and weakness, has strived and fought for power.
+
+>Genesis 6:4 (CSB) The Nephilim were on the earth both in those days and afterward, when the sons of God came to the daughters of mankind, who bore children to them. **They were the powerful men of old, the famous men.**
+
+Yet God says:
+
+>Proverbs 16:5 (CSB) Everyone with a proud heart is detestable to the LORD; be assured, he will not go unpunished.
+
+In my Genesis commentary, I wrote this about verse 4:
+
+>>We live in a culture that celebrates the powerful and the famous. If we are not too careful we might look at that line and think nothing of it. But God declares prideful men and women “detestable”.
+
+We power grab everything. We even will construct entire theologies over power structures. 
+
+On my best day, I can deadlift over 500 pounds, squat 470, and leg press over a thousand. And nearly every time I step into a gym or my hand folds over and grips iron or steel, I humbling reminded that the atoms of this weight plate is being actively held together by the crucified Son of Man.
+
+>Colossians 1:17 (CSB) He is before all things, and by him all things hold together.
+
+What is my mere weight lifting compared to the Almighty King who holds the universe in his hands? I cannot comprehend.
+
+But who alone can swap my heart of stone, give me his own loving soft tender heart and places his Spirit within me so that God and His Son can make their home in me? This is too astounding to embrace.
+
+That is true strength.
+
+>Ephesians 6:10 (CSB) Finally, be strengthened by the Lord and by his vast strength.
+
+This Almighty God now has given us his strength and grace to do his will. Blessed be his name.
+
 ### every way infinite
+
+Take these attributes of God--*immensity, eternal, incomprehensible, almighty*--and to measure them is without end. You cannot measure them. And the attributes of God are not infinite with a contained area (like our universe) but rather, he is infinite and we, in our place, world, and galaxy, is quite, quite limited in comparison.
 
 ### most holy
 
+>Isaiah 6:2-3 (CSB) Seraphim were standing above him; they each had six wings: with two they covered their faces, with two they covered their feet, and with two they flew. And one called to another:  
+>Holy, holy, holy is the LORD of Armies;  
+>his glory fills the whole earth.
+
+R.C. Sproul is famous for correctly stating:
+
+>>The Bible doesn't say God is "love, love, love," or "grace, grace, grace." The Bible says He is "holy, holy, holy."
+
+Holiness of God is revealed by God in one of two ways. One, our sinfulness and far from Him we really are. Two, his absolute moral perfection. Sproul sums up nicely in this way:
+
+>>“That attribution of greatness and goodness to God can be summed up as “He is holy,” because holiness incorporates both greatness and goodness.” [^5]
+
+[^5]: R.C. Sproul. Truths We Confess. 46.
+
+It is the infinite, perfect greatness and goodness that God revealed to Isaiah and caused him to cry out, "Woe is me, for I am a man of unclean lips!" It is this holiness that cause the persecutor Saul declare Christ as Lord. It is this perfection that the heavenly beings continue to sing, "Holy, holy, holy."
+
+It is this same holiness that caused the tax collector to stand in the back of the tabernacle, who would not dare lift his eyes towards heavens, but instead shout out, "Lord, have mercy on me, a sinner!"
+
+It is this same holiness that keeps sons of Adam far from the presence of God.
+
+It is this same holiness that marks the entire life of Jesus Christ. 
+
+It is this same holiness that is now given to the people of God. All because God alone is holy.
+
 ### most wise
+
+TODO:
 
 ### most free
 
