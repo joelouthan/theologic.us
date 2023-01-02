@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:30c Loved & Justified by God"
 author: Joseph Louthan
-publishDate: 2022-10-24T06:00:00-05:00
+publishDate: 2022-10-24T00:00:00-05:00
 categories:
   - Commentaries
   - Study

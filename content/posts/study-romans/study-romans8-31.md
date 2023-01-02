@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:31 Christ Saved Us"
 author: Joseph Louthan
-publishDate: 2022-11-07T06:00:00-05:00
+publishDate: 2022-11-07T00:00:00-05:00
 categories:
   - Commentaries
   - Study

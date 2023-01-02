@@ -1,7 +1,7 @@
 ---
 title: Updates
 author: Joseph Louthan
-date: 2022-10-14T06:00:00-05:00
+date: 2022-10-14T00:00:00-05:00
 url: "/updates/"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 9:14-29 God Alone Over Faith"
 author: Joseph Louthan
-publishDate: 2021-12-13T06:00:00-05:00
+publishDate: 2021-12-13T00:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

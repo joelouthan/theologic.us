@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 62"
 author: Joseph Louthan
-publishDate: 2021-03-09T06:00:00-05:00
+publishDate: 2021-03-09T00:00:00-05:00
 categories:
   - Prayers
 tags:

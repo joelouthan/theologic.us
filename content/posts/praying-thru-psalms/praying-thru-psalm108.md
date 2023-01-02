@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: "
 author: Joseph Louthan
-publishDate: 2025-03-01T06:00:00-05:00
+publishDate: 2025-03-01T00:00:00-05:00
 categories:
   - Prayers
 tags:

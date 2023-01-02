@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 23:6a Surely Goodness'
 author: Joseph Louthan
-date: 2019-10-29T06:00:00-05:00
+date: 2019-10-29T00:00:00-05:00
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 85 Grace"
 author: Joseph Louthan
-publishDate: 2022-10-22T06:00:00-05:00
+publishDate: 2022-10-22T00:00:00-05:00
 categories:
   - Prayers
 tags:

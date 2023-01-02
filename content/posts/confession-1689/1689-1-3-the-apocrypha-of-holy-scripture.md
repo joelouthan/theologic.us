@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith: Chapter 1.3 The Apocrypha of Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-06-15T06:00:00-05:00
+publishDate: 2022-06-15T00:00:00-05:00
 categories:
   - Confessions
 tags:

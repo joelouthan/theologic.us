@@ -1,7 +1,7 @@
 ---
 title: ' Kid Devotions: Luke 1:67-80 What Are You Saved From and To?'
 author: Joseph Louthan
-publishDate: 2020-01-08T06:00:00-05:00
+publishDate: 2020-01-08T00:00:00-05:00
 categories:
   - Devotions
 tags:

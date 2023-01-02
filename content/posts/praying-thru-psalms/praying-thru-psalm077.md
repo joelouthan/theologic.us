@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 77 Confidence"
 author: Joseph Louthan
-publishDate: 2021-06-08T06:00:00-05:00
+publishDate: 2021-06-08T00:00:00-05:00
 categories:
   - Prayers
 tags:

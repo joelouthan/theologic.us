@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 9:1-13 For His Mercies Never End"
 author: Joseph Louthan
-publishDate: 2023-01-09T06:00:00-05:00
+publishDate: 2023-01-09T00:00:00-05:00
 categories:
   - Commentaries
   - Study

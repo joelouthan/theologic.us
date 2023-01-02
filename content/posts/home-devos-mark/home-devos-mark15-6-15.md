@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 15:6-15 Every Step Is Joy: Christ Is Exchanged For Us"
 author: Joseph Louthan
-publishDate: 2022-12-23T06:00:00-05:00
+publishDate: 2022-12-23T00:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

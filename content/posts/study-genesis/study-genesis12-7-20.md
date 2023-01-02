@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 12:7-20 The Gospel Preservation"
 author: Joseph Louthan
-publishDate: 2022-10-06T06:00:00-05:00
+publishDate: 2022-10-06T00:00:00-05:00
 categories:
   - Commentaries
   - Study

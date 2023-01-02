@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Expository Preaching"
 author: Joseph Louthan
-publishDate: 2020-07-17T06:00:00-05:00
+publishDate: 2020-07-17T00:00:00-05:00
 categories:
   - Quotes
 tags:

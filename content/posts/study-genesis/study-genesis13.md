@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 13 The Gospel Life"
 author: Joseph Louthan
-publishDate: 2022-10-20T06:00:00-05:00
+publishDate: 2022-10-20T00:00:00-05:00
 categories:
   - Commentaries
   - Study

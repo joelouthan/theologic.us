@@ -1,7 +1,7 @@
 ---
 title: ' Kid Devotions: Luke 2:39–40 Christ Grew In Wisdom and Stature [Part 4]'
 author: Joseph Louthan
-publishDate: 2020-05-07T06:00:00-05:00
+publishDate: 2020-05-07T00:00:00-05:00
 categories:
   - Devotions
 tags:

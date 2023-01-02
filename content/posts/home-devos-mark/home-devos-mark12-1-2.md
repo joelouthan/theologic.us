@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 12:1-12 So That We Might Live and Be Sent By Him"
 author: Joseph Louthan
-publishDate: 2022-01-26T06:00:00-05:00
+publishDate: 2022-01-26T00:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

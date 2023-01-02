@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:28 Who Define Us in the Midst of Sin Around Us?"
 author: Joseph Louthan
-publishDate: 2022-05-23T06:00:00-05:00
+publishDate: 2022-05-23T00:00:00-05:00
 categories:
   - Commentaries
   - Study

@@ -1,7 +1,7 @@
 ---
 title: 'Kid Devotions: Luke 8 But Christ Calls'
 author: Joseph Louthan
-publishDate: 2020-12-24T06:00:00-05:00
+publishDate: 2020-12-24T00:00:00-05:00
 categories:
   - Devotions
 tags:

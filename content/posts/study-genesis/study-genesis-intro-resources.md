@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis - A Few Resources"
 author: Joseph Louthan
-publishDate: 2021-06-01T06:00:00-05:00
+publishDate: 2021-06-01T00:00:00-05:00
 categories:
   - Commentaries
   - Study

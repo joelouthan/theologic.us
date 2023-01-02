@@ -1,7 +1,7 @@
 ---
 title: 'Doctrine: Ezekiel 11:19-20 Pray Like This, Do What He Does'
 author: Joseph Louthan
-date: 2018-07-19T06:00:00-05:00
+date: 2018-07-19T00:00:00-05:00
 categories:
   - Prayers
   - Doctrine

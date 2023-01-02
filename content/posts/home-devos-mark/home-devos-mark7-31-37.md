@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 7:31-37 Jesus Opens Our Ears So We Now Hear God"
 author: Joseph Louthan
-publishDate: 2021-11-22T06:00:00-05:00
+publishDate: 2021-11-22T00:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

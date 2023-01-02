@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 2 Timothy 2:20-26 Chosen by God"
 author: Joseph Louthan
-publishDate: 2021-07-21T06:00:00-05:00
+publishDate: 2021-07-21T00:00:00-05:00
 categories:
   - Commentaries
   - "Gospel NT"

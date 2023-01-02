@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 40'
 author: Joseph Louthan
-publishDate: 2021-02-09T06:00:00-05:00
+publishDate: 2021-02-09T00:00:00-05:00
 categories:
   - Prayers
 tags:

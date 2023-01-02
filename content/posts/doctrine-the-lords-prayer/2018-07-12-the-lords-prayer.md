@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: Matthew 6:5-13 Pray Like This, An Introduction"
 author: Joseph Louthan
-date: 2018-07-12T06:00:00-05:00
+date: 2018-07-12T00:00:00-05:00
 categories:
   - Prayers
   - Doctrine

@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 2.1 The Attributes of God"
 author: Joseph Louthan
-publishDate: 2023-01-03T06:00:00-05:00
+publishDate: 2023-01-03T00:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -195,20 +195,22 @@ It is easy for us to quote Moses in Psalm 90, "from eternity to eternity, you ar
 
 For one, God is the Creator of all creation and he is before all things.
 
+>Genesis 1:1 (CSB) In the beginning God created the heavens and the earth.
+
 >John 1:1-3 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. All things were created through him, and apart from him not one thing was created that has been created.
 
 Nothing created him and he is before all created things. There wasn't a moment in time that God was not there. What is true for any point in the past is absolutely true for the future. Any moment in the future, God is already there. And when he relates to us, he always uses temporal terms despite being outside of time.
 
 What is even more amazing, within those temporal terms, when the Son of God took on flesh, he subjected himself not only to his material plane and the effects of the corruption of sin but he subjected himself to the constraints of time like we are.
 
-Jesus Christ, the Son of God who is God, "grew in stature and wisdom"[^3] and preached the gospel [^4]
+Jesus Christ, the Son of God who is God, "grew in stature and wisdom"[^3] and preached the gospel [^4] and minister to others with the same contraints of time and space as we do. In other words, Christ did not commission us with something he did not do himself.
 
 [^3]: Luke 2:40
 [^4]: Mark 1:14
 
->Genesis 1:1 (CSB) In the beginning God created the heavens and the earth.
-
 ### incomprehensible
+
+TODO:
 
 ### almighty
 

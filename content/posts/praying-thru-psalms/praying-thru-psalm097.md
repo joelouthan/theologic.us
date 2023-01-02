@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 97 Righteousness"
 author: Joseph Louthan
-publishDate: 2023-01-14T06:00:00-05:00
+publishDate: 2023-01-14T00:00:00-05:00
 categories:
   - Prayers
 tags:

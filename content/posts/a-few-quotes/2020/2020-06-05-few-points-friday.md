@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Grace"
 author: Joseph Louthan
-publishDate: 2020-06-05T06:00:00-05:00
+publishDate: 2020-06-05T00:00:00-05:00
 categories:
   - Quotes
 tags:

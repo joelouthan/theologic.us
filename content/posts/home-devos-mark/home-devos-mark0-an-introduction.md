@@ -1,7 +1,7 @@
 ---
 title: "Devotions in Mark: An Introduction"
 author: Joseph Louthan
-date: 2012-07-24T06:00:00-05:00
+date: 2012-07-24T00:00:00-05:00
 categories:
   - Commentaries
   - Devotions

@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 2:1-16 All Righteousness Belongs to God'
 author: Joseph Louthan
-publishDate: 2021-03-08T06:00:00-05:00
+publishDate: 2021-03-08T00:00:00-05:00
 categories:
   - Commentaries
   - Study

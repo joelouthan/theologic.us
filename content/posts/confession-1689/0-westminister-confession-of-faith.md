@@ -1,7 +1,7 @@
 ---
 title: "Westminster Confession of Faith"
 author: Joseph Louthan
-publishDate: 2022-05-18T06:00:00-05:00
+publishDate: 2022-05-18T00:00:00-05:00
 categories:
   - Confessions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 5:12–21 God Reigns, Not Us'
 author: Joseph Louthan
-publishDate: 2021-03-17T06:00:00-05:00
+publishDate: 2021-03-17T00:00:00-05:00
 categories:
   - Commentaries
   - Study

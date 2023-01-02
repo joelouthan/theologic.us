@@ -1,7 +1,7 @@
 ---
 title: 'Kid Devotions: Luke 19 Christ Comes in the Name of the Lord'
 author: Joseph Louthan
-publishDate: 2021-03-25T06:00:00-05:00
+publishDate: 2021-03-25T00:00:00-05:00
 categories:
   - Devotions
 tags:

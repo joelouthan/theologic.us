@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 8:1-14 The Gospel Certainty: The Restoration of God"
 author: Joseph Louthan
-publishDate: 2021-09-30T06:00:00-05:00
+publishDate: 2021-09-30T00:00:00-05:00
 categories:
   - Commentaries
   - Study

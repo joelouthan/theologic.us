@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 70 Rescuer"
 author: Joseph Louthan
-publishDate: 2021-04-20T06:00:00-05:00
+publishDate: 2021-04-20T00:00:00-05:00
 categories:
   - Prayers
 tags:

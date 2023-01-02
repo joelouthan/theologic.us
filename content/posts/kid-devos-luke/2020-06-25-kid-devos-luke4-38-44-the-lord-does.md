@@ -1,7 +1,7 @@
 ---
 title: ' Kid Devotions: Luke 4:38-44 The Lord Does'
 author: Joseph Louthan
-publishDate: 2020-06-25T06:00:00-05:00
+publishDate: 2020-06-25T00:00:00-05:00
 categories:
   - Devotions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 14:12-22 Every Step is Joy: Christ Prepares His Own Death For Us"
 author: Joseph Louthan
-publishDate: 2022-10-28T06:00:00-05:00
+publishDate: 2022-10-28T00:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 1.4 The Authority of Holy Scripture "
 author: Joseph Louthan
-publishDate: 2022-09-14T06:00:00-05:00
+publishDate: 2022-09-14T00:00:00-05:00
 categories:
   - Confessions
 tags:

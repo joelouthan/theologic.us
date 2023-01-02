@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 37:5-6'
 author: Joseph Louthan
-publishDate: 2021-01-19T06:00:00-05:00
+publishDate: 2021-01-19T00:00:00-05:00
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: Ephesians 1:11-14 Pray Like This, Your Will Be Done"
 author: Joseph Louthan
-date: 2018-08-16T06:00:00-05:00
+date: 2018-08-16T00:00:00-05:00
 categories:
   - Prayers
   - Doctrine

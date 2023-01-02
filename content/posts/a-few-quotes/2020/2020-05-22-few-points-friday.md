@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Righteousness"
 author: Joseph Louthan
-publishDate: 2020-05-22T06:00:00-05:00
+publishDate: 2020-05-22T00:00:00-05:00
 categories:
   - Quotes
 tags:

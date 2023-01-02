@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: Charles Spurgeon"
 author: Joseph Louthan
-publishDate: 2021-02-26T06:00:00-05:00
+publishDate: 2021-02-26T00:00:00-05:00
 categories:
   - Quotes
 tags:

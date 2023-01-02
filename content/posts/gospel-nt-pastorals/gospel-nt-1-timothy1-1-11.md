@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 1:1–11 Christ Our Grace"
 author: Joseph Louthan
-publishDate: 2021-02-10T06:00:00-05:00
+publishDate: 2021-02-10T00:00:00-05:00
 categories:
   - Commentaries
   - "Gospel NT"

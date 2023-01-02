@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 64"
 author: Joseph Louthan
-publishDate: 2021-03-11T06:00:00-05:00
+publishDate: 2021-03-11T00:00:00-05:00
 categories:
   - Prayers
 tags:

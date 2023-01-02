@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: Ordo Salutis III: For God So Loved The World"
 author: Joseph Louthan
-date: 2018-04-27T06:00:00-05:00
+date: 2018-04-27T00:00:00-05:00
 categories:
   - Theology
 tags:

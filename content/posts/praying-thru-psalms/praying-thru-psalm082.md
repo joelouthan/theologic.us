@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 82 Divine"
 author: Joseph Louthan
-publishDate: 2022-10-01T06:00:00-05:00
+publishDate: 2022-10-01T00:00:00-05:00
 categories:
   - Prayers
 tags:

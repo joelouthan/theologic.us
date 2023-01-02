@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 1:8-12 God Alone Reigns'
 author: Joseph Louthan
-publishDate: 2021-03-03T06:00:00-05:00
+publishDate: 2021-03-03T00:00:00-05:00
 categories:
   - Commentaries
   - Study

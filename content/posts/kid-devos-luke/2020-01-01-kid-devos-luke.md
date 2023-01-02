@@ -1,7 +1,7 @@
 ---
 title: ' Kid Devotions: Luke 1:57-66 What is Your Calling?'
 author: Joseph Louthan
-publishDate: 2020-01-01T06:00:00-05:00
+publishDate: 2020-01-01T00:00:00-05:00
 categories:
   - Devotions
 tags:

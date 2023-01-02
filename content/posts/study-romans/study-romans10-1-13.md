@@ -1,7 +1,7 @@
 ---
 title: "Study: "
 author: Joseph Louthan
-publishDate: 2023-01-30T06:00:00-05:00
+publishDate: 2023-01-30T00:00:00-05:00
 categories:
   - Commentaries
   - Study

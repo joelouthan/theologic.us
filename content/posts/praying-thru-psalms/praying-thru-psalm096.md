@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 96 Song"
 author: Joseph Louthan
-publishDate: 2023-01-07T06:00:00-05:00
+publishDate: 2023-01-07T00:00:00-05:00
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Westminster Larger Catechism (HTML)"
 author: Joseph Louthan
-publishDate: 2019-11-04T06:00:00-05:00
+publishDate: 2019-11-04T00:00:00-05:00
 categories:
   - Sources
 tags:

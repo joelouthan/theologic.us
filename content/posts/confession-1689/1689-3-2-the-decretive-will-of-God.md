@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.2 The Decretive Will of God"
 author: Joseph Louthan
-publishDate: 2023-01-04T06:00:00-05:00
+publishDate: 2023-01-04T00:00:00-05:00
 categories:
   - Confessions
 tags:

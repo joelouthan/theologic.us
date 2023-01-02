@@ -1,7 +1,7 @@
 ---
 title: "Home Devotions: Mark 13:24-27 What Does Christ Want? Our Eternity"
 author: Joseph Louthan
-publishDate: 2022-09-23T06:00:00-05:00
+publishDate: 2022-09-23T00:00:00-05:00
 categories:
   - Commentaries
   - Home Devotions

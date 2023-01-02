@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: Luke 23:32-34 Pray Like This: Forgive Us--Help Us to Forgive"
 author: Joseph Louthan
-publishDate: 2019-11-14T06:00:00-05:00
+publishDate: 2019-11-14T00:00:00-05:00
 categories:
   - Prayers
   - Doctrine

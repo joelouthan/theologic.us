@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 1:16-17 God Alone Saves His People'
 author: Joseph Louthan
-publishDate: 2021-03-05T06:00:00-05:00
+publishDate: 2021-03-05T00:00:00-05:00
 categories:
   - Commentaries
   - Study

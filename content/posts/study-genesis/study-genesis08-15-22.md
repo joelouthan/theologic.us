@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 8:15-22 The Gospel Certainty: The Promise of God"
 author: Joseph Louthan
-publishDate: 2021-10-07T06:00:00-05:00
+publishDate: 2021-10-07T00:00:00-05:00
 categories:
   - Commentaries
   - Study

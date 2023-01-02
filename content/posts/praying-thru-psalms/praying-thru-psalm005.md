@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 5'
 author: Joseph Louthan
-date: 2012-10-30T06:00:00-05:00
+date: 2012-10-30T00:00:00-05:00
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 5 The Gospel Plan"
 author: Joseph Louthan
-publishDate: 2021-08-19T06:00:00-05:00
+publishDate: 2021-08-19T00:00:00-05:00
 categories:
   - Commentaries
   - Study

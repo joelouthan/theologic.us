@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 80 Restorer"
 author: Joseph Louthan
-publishDate: 2022-06-19T06:00:00-05:00
+publishDate: 2022-06-19T00:00:00-05:00
 categories:
   - Prayers
 tags:

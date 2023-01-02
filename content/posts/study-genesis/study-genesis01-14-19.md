@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 1:14-19 Our Forever Light"
 author: Joseph Louthan
-publishDate: 2021-06-24T06:00:00-05:00
+publishDate: 2021-06-24T00:00:00-05:00
 categories:
   - Commentaries
   - Study

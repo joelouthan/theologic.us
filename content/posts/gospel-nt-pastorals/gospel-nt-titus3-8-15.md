@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: Titus 3:8-15 Live Like This: Rest in Christ"
 author: Joseph Louthan
-publishDate: 2022-09-20T06:00:00-05:00
+publishDate: 2022-09-20T00:00:00-05:00
 categories:
   - Commentaries
   - "Gospel NT"

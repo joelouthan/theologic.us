@@ -1,7 +1,7 @@
 ---
 title: 'Sermon: Romans 5:6–11 Future Sin Future Grace'
 author: Joseph Louthan
-publishDate: 2022-11-11T06:00:00-05:00
+publishDate: 2022-11-11T00:00:00-05:00
 categories:
   - Sermons
 tags:

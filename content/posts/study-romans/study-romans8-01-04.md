@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 8:1-4 No Condemnation in Christ Jesus'
 author: Joseph Louthan
-publishDate: 2021-03-22T06:00:00-05:00
+publishDate: 2021-03-22T00:00:00-05:00
 categories:
   - Commentaries
   - Study
