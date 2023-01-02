@@ -14,14 +14,15 @@ css: "prayers"
 draft: false
 ---
 
-**Adopted by the Ministers and Messengers of the general assembly which met in London in 1689**
+## Prelude
 
----
+Adopted by the Ministers and Messengers of the general assembly which met in London in 1689
+
 ---
 
 ## Chapter 1: Of the Holy Scriptures
 
-### 1.0 The Holy Scriptures
+### 1.1 The Holy Scriptures
 
 ```text
 The Holy Scripture is the only sufficient, certain, and infallible rule of all saving knowledge, faith, and obedience, although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God and his will which is necessary unto salvation. Therefore it pleased the Lord at sundry times and in divers manners to reveal himself, and to declare that his will unto his church; and afterward for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the church against the corruption of the flesh, and the malice of Satan, and of the world, to commit the same wholly unto writing; which maketh the Holy Scriptures to be most necessary, those former ways of God's revealing his will unto his people being now ceased.
