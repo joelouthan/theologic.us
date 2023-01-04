@@ -38,9 +38,55 @@ draft: false
 
 ## The Devotion
 
+>John 8:11 (CSB) “No one, Lord,” she answered. “Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”
 
+Why did Christ have to die?
+
+Making it's destructive way through liberal Christianity, aside from denial of the basic tenets of the Christian faith, is residing to the opinion that our Christ did not have to die for the sins of his people. Look at John 8. He simply forgave the adulteress and she went on her merry way. God can simply forgive sin because he is God and has the power to do so.
+
+To make such a statement is to assume the end: that God, in his most holy and righteousness, can simply look the other way when it comes to our transgression and utter the word, "forgive" like it is a magic spell.
+
+To which, I would say, "Of course, of course, of course--except you forgot one thing--the word of God.
+
+>Hebrews 9:22 (CSB) According to the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness. [^1]
+
+[^1]: Leviticus 17:11 (CSB) For the life of a creature is in the blood, and I have appointed it to you to make atonement on the altar for your lives, since it is the lifeblood that makes atonement.
+
+Without the shedding of blood is there is no forgiveness of sin. What the world wants to believe is that I can forgive even gross and traumatic sin and there is no effects from the sin and just simply whispering the words of forgiveness will automatically heals and repairs and makes whole.
+
+Absolutely not.
+
+Mankind tends to forget the common tenet of sin: for the wages of sin is death! [^2]
+
+[^2]: Romans 6:23a
+
+But God cannot un-know sin. God in his holiness does not have to tolerate sin. He does not let it into his presence. He would make people who would bear his image and so that they can be with him forever but that can only happen if the is no sin only holiness.
+
+God knew that. God knew there was no hope with without him. That is why he sent his Son, Jesus Christ:
+
+>Colossians 2:11-14 (CSB) You were also circumcised in him with a circumcision not done with hands, by putting off the body of flesh, in the circumcision of Christ, when you were buried with him in baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead. And when you were dead in trespasses and in the uncircumcision of your flesh, he made you alive with him and forgave us all our trespasses. **He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross.**
+
+Those who would say that Christ did not have to die to forgive us our sin only died because he was an enemy of the state. Which is only partially true. But Christ was no ordinary enemy of no ordinary state. The state was the damned, broken, death-ridden creation with Satan as its prince and the people as his prisoners.  Christ was not just mere man but fully God and fully man who was fully holy and fully righteous fully at war with sin, Satan, demons, death, and hell.
+
+Christ is God-incarnate who died on that tree Calvary.
+
+But his death was ultimate, final, complete, definite, perfect victory for his people:
+
+>Colossians 2:14-15 (CSB) He erased the certificate of debt, with its obligations, that was against us and opposed to us, and has taken it away by nailing it to the cross.
+
+... in doing so...
+
+>he disarmed the rulers and authorities and disgraced them publicly; he triumphed over them in him.
+
+Christ had to die to disarm the Satan and demons and to put them to open shame because Satan, demons, sin, hell and death can never separate the people of God from the love of God in Christ Jesus because the people of God in Christ Jesus are under no condemnation but under the law of the Spirit of life.
+
+For every Christian can raise their voice and shout this anthem:
+
+>Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
 Every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."
+
+Praise be to our God!
 
 ## The Resources
 
