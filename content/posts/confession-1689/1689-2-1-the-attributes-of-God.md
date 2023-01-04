@@ -282,7 +282,7 @@ In my Genesis commentary, I wrote this about verse 4:
 
 We power grab everything. We even will construct entire theologies over power structures. 
 
-On my best day, I can deadlift over 500 pounds, squat 470, and leg press over a thousand. And nearly every time I step into a gym or my hand folds over and grips iron or steel, I humbling reminded that the atoms of this weight plate is being actively held together by the crucified Son of Man.
+A fellow church member remarked how much he liked my shoes and that they look like "weight lifting shoes--do you lift weights?" To which I replied, "I like to pretend that I lift weights." Nearly every time I step into a gym or my hand folds over and grips iron, I humbling reminded that the atoms of this weight plate is being actively held together by the crucified Son of Man.
 
 >Colossians 1:17 (CSB) He is before all things, and by him all things hold together.
 
@@ -328,19 +328,125 @@ It is this same holiness that is now given to the people of God. All because God
 
 ### most wise
 
-TODO:
+In this, the Age of Information, the modern man has fallen for the trap of "more information means our intelligence will increase." What we have witness is the fallout of this folly:
+
+1. **Access to more information has not increased our comprehension** - What has run rampart is people taking in the all the information and not considering the sources of that information or whether or not that information is reliable and true. Which leads into...
+2. **More knowledge has nothing to do with wisdom** - I do know that people struggle with the fear of not knowing enough and they fall prey to "if I only knew more, then I can remain safer/richer/happier/insert-your-vice-here." What we have seen is that mankind does not possess the wisdom to handle the critical massive amount of knowledge that we are consuming.
+
+In God's great mercy, he has bestowed some of his infinite wisdom upon us in limited quantities along with these blessings of knowledge.
+
+>James 1:5 (CSB) Now if any of you lacks wisdom, he should ask God—who gives to all generously and ungrudgingly—and it will be given to him.
+
+In the godliness of God, God knows everything. He cannot learn anything. He isn't surprised by anything. He is infinite in all things--from the infinite reaches of the galaxy to the depths of your heart and the recesses of your mind. It knows it all perfectly and the reasons why.
+
+More so than that, he has the infinite wisdom to handle it and discern it all. This is where we are unlike God. We know very little and he knows all.
 
 ### most free
 
+>Psalm 115:3 (CSB) Our God is in heaven and does whatever he pleases.
+
+In his three volume Systematic Theology, theologian Charles Hodge explained that there were two attributes that worked out of the omnipotence or the almighty of God: his sovereignty and his freedom.
+
+The popularity and the rise of Calvinism has given way to the acceptance of God's sovereignty without the wisdom nor the emotional maturity to handle it. When something bad happens, I have heard too many new Calvinists simply shrug their shoulders and sigh, "whelp, God is sovereign." Which it is not an untrue statement but are we not going grieve this moment? Are we not going "weep with those who weep?" [^6]
+
+[^6]: Romans 12:15
+
+But that is another chapter for another book.
+
+God's sovereignty--his rule and reigning over all creation--stems from his omnipotence. 
+
+On the flipside of the same coin, for all of the debates about the free will of man, we must always compare our will towards the one who has actual free will.
+
+Consider this: Can add a foot to our height? Can we sprout wings and fly? Humans cannot do that. 
+
+So also consider this: can we simple come to God? Man in his natural state would instinctively answer, "Of course," because either we think our will is really free or we think of God of some sort of man--but holier and better than we--but just another man, nonetheless.
+
+But the Bible states that God is so far from us--he is infinitely far from us. We think we can take a step towards him or build a tower to reach the heavens without taken in who God is.
+
+Infinite distance minus a step is still infinite.
+
+God knew that. He knew that you would never make it to him even if you tried.
+
+That is why, in God's perfect power--his sovereignty and *his freedom*--he came to us. God walked the infinite gap. God bridged the infinite chasm between us and him. That is Jesus Christ, the Son of God who is God.
+
 ### most absolute
+
+>Romans 8:1-4 (CSB) Therefore, there is now no condemnation for those in Christ Jesus, because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death. For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
+
+With that almightiness power comes that God is not outside of his law nor is subjected to his own law. But in fact, that God is law and the law, standard, morality, plumb line, righteousness comes from him. He alone has the absoluteness to give the law but in our sin and wickedness, God made himself to be the Son of Man so that he alone could fulfill the same law in our stead.
 
 ### working all things according to the counsel of his own immutable and most righteous will for his own glory
 
+>Isaiah 46:10 (CSB) I declare the end from the beginning, and from long ago what is not yet done, saying: my plan will take place, and I will do all my will.
+
+>Proverbs 16:4 (CSB) The LORD has prepared everything for his purpose— even the wicked for the day of disaster.
+
+>Romans 11:36 (CSB) For from him and through him and to him are all things. To him be the glory forever. Amen.
+
 ### most loving
+
+>Song of Songs 2:4 (ESV) He brought me to the banqueting house, and his banner over me was love.
+
+>Song of Songs 2:16a (ESV) My beloved is mine, and I am his;
+
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+For here is love, God proclaims the good news that He will make all things right:  
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+And here is love, God is faithful:  
+>Psalm 103:15–18 (CSB) As for man, his days are like grass— he blooms like a flower of the field; when the wind passes over it, it vanishes, and its place is no longer known. **But from eternity to eternity the LORD’s faithful love is toward those who fear him, and his righteousness toward the grandchildren of those who keep his covenant, who remember to observe his precepts.**
+
+And here is love, God's faithful love and mercies will never come to an end:  
+>Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, **for his mercies never end**. They are new every morning; great is your faithfulness!
+
+And here is love, God does everything for you to be with Him:  
+>Ezekiel 36:25–28 (CSB) I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols. I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances. You will live in the land that I gave your ancestors; you will be my people, and I will be your God.
+
+And here is love, God saves us from our sins:  
+>Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
+
+And here is love:  
+>John 1:16–18 (CSB) Indeed, we have all received grace upon grace from his fullness, for the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
+
+And here is love, God sent his only begotten Son, Jesus Christ:  
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+And here is love, God adopts us into his family:  
+>Romans 9:25–26 (CSB) As it also says in Hosea, I will call Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there **they will be called sons of the living God.**
+
+And here is love, Christ loved me and lived and died for me:  
+>Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
+
+And here is love, we have no condemnation and no separate from God:  
+>Romans 8:1; 38-39 (CSB) Therefore, there is now no condemnation for those in Christ Jesus... and nothing will every separate us from the love of God that is in Jesus Christ our Lord.
+
+Simply put:
+
+>1 John 4:7-10 (ESV) Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God. Anyone who does not love does not know God, because **God is love**. **In this the love of God** was made manifest among us, that God sent his only Son into the world, so that we might live through him. **In this is love**, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
 
 ### gracious
 
+>Exodus 34:6–7 (CSB) The LORD passed in front of him and proclaimed: **The LORD—the LORD is a compassionate and gracious God, slow to anger and abounding in faithful love and truth, maintaining faithful love to a thousand generations, forgiving iniquity, rebellion, and sin.** But he will not leave the guilty unpunished, bringing the consequences of the fathers’ iniquity on the children and grandchildren to the third and fourth generation.
+
+>John 1:16–18 (CSB) Indeed, we have all received **grace upon grace from his fullness**, for the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
+
+It would never be grace to let us go of our sin and not remove our sins and the path before us in sin. Some people want grace because they got caught in their sin but they have no intention of abstaining from sin. Oh they will not sin again if all of their circumstances were good and their spouse acts right and work is easy and whatever. But the moment life gets a little tough, let me go back to my own wickedness.
+
+God is most gracious in that to free us from sin, he takes care of it all:
+
+- the punishment for sin
+- a new heart to love him
+- His Spirit to guide us to him
+- a new will to obey him
+- a renewed mind to know him
+- a soul alive to him
+
+We know he does this because we have Christ our God!
+
 ### merciful
+
+TODO:
 
 ### long-suffering
 
