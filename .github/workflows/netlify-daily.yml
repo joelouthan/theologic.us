@@ -1,7 +1,9 @@
 name: Trigger Netlify Build
+
 on:
   schedule:
     - cron: '0 12 * * *'
+
 jobs:
   build:
     name: Daily Netlify Rebuild
