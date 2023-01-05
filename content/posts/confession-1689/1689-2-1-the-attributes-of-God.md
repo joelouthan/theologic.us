@@ -328,6 +328,8 @@ It is this same holiness that is now given to the people of God. All because God
 
 ### most wise
 
+TODO: Proverbs 8 the knowledge to create all things 
+
 In this, the Age of Information, the modern man has fallen for the trap of "more information means our intelligence will increase." What we have witness is the fallout of this folly:
 
 1. **Access to more information has not increased our comprehension** - What has run rampart is people taking in the all the information and not considering the sources of that information or whether or not that information is reliable and true. Which leads into...
