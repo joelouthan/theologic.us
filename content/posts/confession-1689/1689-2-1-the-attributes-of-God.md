@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 2.1 The Attributes of God"
 author: Joseph Louthan
-publishDate: 2023-01-04T00:00:00-05:00
+publishDate: 2023-01-11T00:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
