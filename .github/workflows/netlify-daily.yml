@@ -2,7 +2,7 @@ name: Trigger Netlify Build
 
 on:
   schedule:
-    - cron: '0 10 * * *' #12P = 8A GitHub; Ergo 10A = 5A? I'm Ron Burgundy?
+    - cron: '0 10 * * *' #10AM UTC is 5A EST
 
 jobs:
   build:
