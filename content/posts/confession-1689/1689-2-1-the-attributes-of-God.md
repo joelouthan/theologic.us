@@ -328,7 +328,26 @@ It is this same holiness that is now given to the people of God. All because God
 
 ### most wise
 
-TODO: Proverbs 8 the knowledge to create all things 
+>Proverbs 8:22–31 (CSB)  
+><sup> 22  </sup>“The LORD acquired me at the beginning of his creation, before his works of long ago. 
+
+><sup> 23  </sup>I was formed before ancient times, from the beginning, before the earth began. 
+
+><sup> 24  </sup>I was born when there were no watery depths and no springs filled with water. 
+
+><sup> 25  </sup>Before the mountains were established, prior to the hills, I was given birth— 
+
+><sup> 26  </sup>before he made the land, the fields, or the first soil on earth. 
+
+><sup> 27  </sup>I was there when he established the heavens, when he laid out the horizon on the surface of the ocean, 
+
+><sup> 28  </sup>when he placed the skies above, when the fountains of the ocean gushed out, 
+
+><sup> 29  </sup>when he set a limit for the sea so that the waters would not violate his command, when he laid out the foundations of the earth. 
+
+><sup> 30  </sup>I was a skilled craftsman beside him. I was his delight every day, always rejoicing before him. 
+
+><sup> 31  </sup>I was rejoicing in his inhabited world, delighting in the children of Adam.
 
 In this, the Age of Information, the modern man has fallen for the trap of "more information means our intelligence will increase." What we have witness is the fallout of this folly:
 
@@ -448,21 +467,53 @@ We know he does this because we have Christ our God!
 
 ### merciful
 
-TODO:
+>Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, for his mercies never end. They are new every morning; great is your faithfulness!
+
+>Romans 9:15–16 (CSB) For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. So then, it does not depend on human will or effort but on God who shows mercy.
+
+By default, we know that there is a God but in our righteousness, we suppress the truth of God despite it being plainly obvious.
+
+>Romans 1:18–19 (CSB) For God’s wrath is revealed from heaven against all godlessness and unrighteousness of people who by their unrighteousness suppress the truth, since what can be known about God is evident among them, because God has shown it to them.
+
+Now, you and I know we are not all born complete atheists. So the passage in Romans 1 doesn't speak as an all out suppression. In the sons of Adam--all unbelievers--we suppress the truth of the existence of God in various way. 
+
+We want a God that gives me an easy life and a good life and a lavish life but then there cannot be a God if I have to suffer a little bit.
+
+We depend on God if we desire a safe, free from harm life. But the moment the world, sin, and Satan looks our way, we immediately think that God has abandoned us.
+
+If those stages of unbelief don't resonant with you, then consider this: when I sin, I want God to be completely merciful to me. When people sin against me, I do not want God to be merciful to them but to pour his wrath out on them.
+
+Right now, think of the person who has hurt you the most. What is your most immediate thought? That God would spare their lives and bring them to himself or do you wish that God would cast them down into the depths of hell to being under his never-ending wrath?
+
+Oh, let me push once more: when God doesn't instantly eradicate them from the face of the earth, do you think that God is somehow not God and he lacks the power to punish sin *against you*.
+
+Our Christ, the Son of God who is fully God and fully man, was illegally arrested, wrongfully accused, and unjustifiably condemned to death. He was then beaten, whipped with metal shards, mocked, slapped, blasphemed, battered, stripped naked, beard pulled from his face, crown of thorns shoved upon his head, made to carry his execution device, railroad spikes through his wrists and feet into a tree and then hung up for the Roman Empire and the Jewish people to see.
+
+There was a word invented to describe all of that pain. We call it *excruciating*.
+
+In this new found type of pain and torment and torture discovered by Christ upon that cross, who, let me remind you, is the Great I Am, the Alpha and the Omega, Who Was, Who Is, and Who is, and the Judge of the Quick and the Dead said with his lips?
+
+>Luke 23:34a (CSB) Then Jesus said, “Father, forgive them, because they do not know what they are doing.”
+
+Christ has all power. He alone is the Almighty God. He could have cast everyone in attendance straight to hell and he would be right in doing so.
+
+But He alone has mercy upon whom he will have mercy. And he alone has compassion on those whom he will have compassion.
+
+And in that very place where they were not the people of God, it exactly the same place in the excruciating mercies of Christ that we are now called sons of the living God!
 
 ### long-suffering
 
+>Romans 3:23–26 (CSB) For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
+
+TODO:
+
 ### abundant in goodness and truth
 
-### forgiving iniquity
-
-### transgression
-
-### and sin
+### forgiving iniquity, transgression and sin
 
 ### the rewarder of them that diligently seek him
 
-### and withal most just and terrible in his judgments
+### and withal, most just and terrible in his judgments
 
 ### hating all sin
 
