@@ -12,6 +12,33 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 6 (CSB)  
+><sup></sup> For the choir director: with stringed instruments, according to Sheminith. A psalm of David. 
+
+><sup>1</sup> LORD, do not rebuke me in your anger; do not discipline me in your wrath. 
+
+><sup>2</sup> Be gracious to me, LORD, for I am weak; heal me, LORD, for my bones are shaking; 
+
+><sup>3</sup> my whole being is shaken with terror. And you, LORD—how long? 
+
+><sup>4</sup> Turn, LORD! Rescue me; save me because of your faithful love. 
+
+><sup>5</sup> For there is no remembrance of you in death; who can thank you in Sheol? 
+
+><sup>6</sup> I am weary from my groaning; with my tears I dampen my bed and drench my couch every night. 
+
+><sup>7</sup> My eyes are swollen from grief; they grow old because of all my enemies. 
+
+><sup>8</sup> Depart from me, all evildoers, for the LORD has heard the sound of my weeping. 
+
+><sup>9</sup> The LORD has heard my plea for help; the LORD accepts my prayer. 
+
+><sup>10</sup> All my enemies will be ashamed and shake with terror; they will turn back and suddenly be disgraced.
+
+## The Prayer
+
 <div style="font-variant: small-caps;">
   My Holy Lord Above All,
 </div>

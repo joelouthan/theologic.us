@@ -12,6 +12,23 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 1 (CSB)  
+><sup>1</sup> How happy is the one who does not walk in the advice of the wicked or stand in the pathway with sinners or sit in the company of mockers! 
+
+><sup>2</sup> Instead, his delight is in the LORD’s instruction, and he meditates on it day and night. 
+
+><sup>3</sup> He is like a tree planted beside flowing streams that bears its fruit in its season, and its leaf does not wither. Whatever he does prospers. 
+
+><sup>4</sup> The wicked are not like this; instead, they are like chaff that the wind blows away. 
+
+><sup>5</sup> Therefore the wicked will not stand up in the judgment, nor sinners in the assembly of the righteous. 
+
+><sup>6</sup> For the LORD watches over the way of the righteous, but the way of the wicked leads to ruin.
+
+## The Prayer
+
 <div style="font-variant: small-caps;">
   O Lord,
 </div>

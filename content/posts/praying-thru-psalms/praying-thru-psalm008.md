@@ -12,6 +12,31 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 8 (CSB)  
+><sup></sup> For the choir director: on the Gittith. A psalm of David. 
+
+><sup>1</sup> LORD, our Lord, how magnificent is your name throughout the earth! You have covered the heavens with your majesty. 
+
+><sup>2</sup> From the mouths of infants and nursing babies, you have established a stronghold on account of your adversaries in order to silence the enemy and the avenger. 
+
+><sup>3</sup> When I observe your heavens, the work of your fingers, the moon and the stars, which you set in place, 
+
+><sup>4</sup> what is a human being that you remember him, a son of man that you look after him? 
+
+><sup>5</sup> You made him little less than God and crowned him with glory and honor. 
+
+><sup>6</sup> You made him ruler over the works of your hands; you put everything under his feet: 
+
+><sup>7</sup> all the sheep and oxen, as well as the animals in the wild, 
+
+><sup>8</sup> the birds of the sky, and the fish of the sea that pass through the currents of the seas. 
+
+><sup>9</sup> LORD, our Lord, how magnificent is your name throughout the earth!
+
+## The Prayer
+
 <div style="font-variant: small-caps;">
   My Lord, Our Lord,
 </div>

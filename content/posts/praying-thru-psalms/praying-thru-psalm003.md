@@ -12,6 +12,29 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 3 (CSB)  
+><sup></sup> A psalm of David when he fled from his son Absalom. 
+
+><sup>1</sup> LORD, how my foes increase! There are many who attack me. 
+
+><sup>2</sup> Many say about me, “There is no help for him in God.” Selah 
+
+><sup>3</sup> But you, LORD, are a shield around me, my glory, and the one who lifts up my head. 
+
+><sup>4</sup> I cry aloud to the LORD, and he answers me from his holy mountain. Selah 
+
+><sup>5</sup> I lie down and sleep; I wake again because the LORD sustains me. 
+
+><sup>6</sup> I will not be afraid of thousands of people who have taken their stand against me on every side. 
+
+><sup>7</sup> Rise up, LORD! Save me, my God! You strike all my enemies on the cheek; you break the teeth of the wicked. 
+
+><sup>8</sup> Salvation belongs to the LORD; may your blessing be on your people. Selah
+
+## The Prayer
+
 <div style="font-variant: small-caps;">
   My God,
 </div>
