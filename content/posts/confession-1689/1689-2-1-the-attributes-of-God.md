@@ -505,7 +505,9 @@ And in that very place where they were not the people of God, it exactly the sam
 
 >Romans 3:23–26 (CSB) For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
 
-TODO:
+>Romans 2:3–4 (CSB) Do you think—anyone of you who judges those who do such things yet do the same—that you will escape God’s judgment? Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance?
+
+>2 Peter 3:9 (CSB) The Lord does not delay his promise, as some understand delay, but is patient with you, not wanting any to perish but all to come to repentance.
 
 ### abundant in goodness and truth
 
