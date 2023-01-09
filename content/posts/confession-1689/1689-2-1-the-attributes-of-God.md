@@ -666,7 +666,7 @@ But the fantastic good news of a vengeful, sin-hating God is the same God who is
 
 Christ is the only way. You want to be set from and sin free, look no further than Christ who your sin upon himself and welcomed the wrath of God to fall on him so that we would never bear that wrath.
 
-[^stott-brightest]: See: [dwelling in the light which no man can approach unto](#dwelling-in-the-light-which-no-man-can-approach-unto)
+[^stott-brightest]: See [dwelling in the light which no man can approach unto](#dwelling-in-the-light-which-no-man-can-approach-unto)
 
 [^stott-five]: Stott. The Cross of Christ. 104-111
 
