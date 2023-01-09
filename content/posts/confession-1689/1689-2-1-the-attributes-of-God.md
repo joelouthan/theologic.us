@@ -14,6 +14,8 @@ draft: false
 ---
 ## The Text
 
+>Psalm 97:9 (CSB) For you, LORD, are the Most High over the whole earth; you are exalted above all the gods.
+
 <div style="page-break-after: always;"></div>
 
 ## The Chapter
