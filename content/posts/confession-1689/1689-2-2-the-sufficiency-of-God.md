@@ -14,6 +14,16 @@ draft: true
 ---
 ## The Text
 
+>Romans 11:33–36 (CSB)  
+><sup>33</sup> Oh, the depth of the riches and the wisdom and the knowledge of God! How unsearchable his judgments and untraceable his ways! 
+
+><sup>34</sup> For who has known the mind of the Lord? Or who has been his counselor? 
+
+><sup>35</sup> And who has ever given to God, that he should be repaid? 
+
+><sup>36</sup> For from him and through him and to him are all things. To him be the glory forever. Amen.
+
+
 <div style="page-break-after: always;"></div>
 
 ## The Chapter
