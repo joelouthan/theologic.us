@@ -1,5 +1,5 @@
 ---
-title: "Study: "
+title: "Study: Romans 9:14-23 His Mercies Are New Every Morning"
 author: Joseph Louthan
 publishDate: 2023-01-23T00:00:00-05:00
 categories:
@@ -11,9 +11,33 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+
+>Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, for his mercies never end. They are new every morning; great is your faithfulness!
+
 ## The Text
+
+>Romans 9:14–23 (CSB)  
+><sup>14</sup> What should we say then? Is there injustice with God? Absolutely not! 
+
+><sup>15</sup> For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. 
+
+><sup>16</sup> So then, it does not depend on human will or effort but on God who shows mercy. 
+
+><sup>17</sup> For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. 
+
+><sup>18</sup> So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden. 
+
+><sup>19</sup> You will say to me, therefore, “Why then does he still find fault? For who resists his will?” 
+
+><sup>20</sup> On the contrary, who are you, a human being, to talk back to God? Will what is formed say to the one who formed it, “Why did you make me like this?” 
+
+><sup>21</sup> Or has the potter no right over the clay, to make from the same lump one piece of pottery for honor and another for dishonor? 
+
+><sup>22</sup> And what if God, wanting to display his wrath and to make his power known, endured with much patience objects of wrath prepared for destruction? 
+
+><sup>23</sup> And what if he did this to make known the riches of his glory on objects of mercy that he prepared beforehand for glory—
 
 ## The Introduction
 
@@ -37,6 +61,15 @@ draft: true
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
+
+<p style="clear:both;">
+
+---
+
+<img src="/images/resources/commentary-romans9-1-23-the-justification-of-God-2nd-piper.jpg" align="left" width="200" style="padding-right: 10px" />The Justification of God: An Exegetical & Theological Study of Romans 9:1-23, 2nd Edition.  
+by John Piper.  
+Baker  Academic. 1993.  
+[Olive Tree](https://www.goodreads.com/book/show/210215.The_Justification_of_God)
 
 <p style="clear:both;">
 

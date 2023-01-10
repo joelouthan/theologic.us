@@ -1,7 +1,7 @@
 ---
-title: "Study: Romans 9:1-13 For His Mercies Never End"
+title: "Study: Romans 9:1-13 For His Mercies Will Never Come to An End"
 author: Joseph Louthan
-publishDate: 2023-01-09T00:00:00-05:00
+publishDate: 2023-01-16T00:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -11,54 +11,92 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+
+>Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, for his mercies never end. They are new every morning; great is your faithfulness!
+
 ## The Text
 
 >Romans 9:1–13 (CSB)  
-><sup> 1  </sup>I speak the truth in Christ—I am not lying; my conscience testifies to me through the Holy Spirit—
+><sup>1</sup> I speak the truth in Christ—I am not lying; my conscience testifies to me through the Holy Spirit—
 
-><sup> 2  </sup>that I have great sorrow and unceasing anguish in my heart. 
+><sup>2</sup> that I have great sorrow and unceasing anguish in my heart. 
 
-><sup> 3  </sup>For I could wish that I myself were cursed and cut off from Christ for the benefit of my brothers and sisters, my own flesh and blood. 
+><sup>3</sup> For I could wish that I myself were cursed and cut off from Christ for the benefit of my brothers and sisters, my own flesh and blood. 
 
-><sup> 4  </sup>They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the temple service, and the promises. 
+><sup>4</sup> They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the temple service, and the promises. 
 
-><sup> 5  </sup>The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen. 
+><sup>5</sup> The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen. 
 
-><sup> 6  </sup>Now it is not as though the word of God has failed, because not all who are descended from Israel are Israel. 
+><sup>6</sup> Now it is not as though the word of God has failed, because not all who are descended from Israel are Israel. 
 
-><sup> 7  </sup>Neither is it the case that all of Abraham’s children are his descendants. On the contrary, your offspring will be traced through Isaac. 
+><sup>7</sup> Neither is it the case that all of Abraham’s children are his descendants. On the contrary, your offspring will be traced through Isaac. 
 
-><sup> 8  </sup>That is, it is not the children by physical descent who are God’s children, but the children of the promise are considered to be the offspring. 
+><sup>8</sup> That is, it is not the children by physical descent who are God’s children, but the children of the promise are considered to be the offspring. 
 
-><sup> 9  </sup>For this is the statement of the promise: At this time I will come, and Sarah will have a son. 
+><sup>9</sup> For this is the statement of the promise: At this time I will come, and Sarah will have a son. 
 
-><sup> 10  </sup>And not only that, but Rebekah conceived children through one man, our father Isaac. 
+><sup>10</sup> And not only that, but Rebekah conceived children through one man, our father Isaac. 
 
-><sup> 11  </sup>For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—
+><sup>11</sup> For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—
 
-><sup> 12  </sup>not from works but from the one who calls—she was told, The older will serve the younger. 
+><sup>12</sup> not from works but from the one who calls—she was told, The older will serve the younger. 
 
-><sup> 13  </sup>As it is written: I have loved Jacob, but I have hated Esau.
+><sup>13</sup> As it is written: I have loved Jacob, but I have hated Esau.
 
 ## The Introduction
+
+><sup>1</sup> I speak the truth in Christ—I am not lying; my conscience testifies to me through the Holy Spirit—
+
+><sup>2</sup> that I have great sorrow and unceasing anguish in my heart. 
+
+><sup>3</sup> For I could wish that I myself were cursed and cut off from Christ for the benefit of my brothers and sisters, my own flesh and blood. 
 
 <div style="page-break-after: always;"></div>
 
 ## Our God
 
+><sup>4</sup> They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the temple service, and the promises. 
+
+><sup>5</sup> The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen. 
+
+><sup>6</sup> Now it is not as though the word of God has failed, because not all who are descended from Israel are Israel. 
+
+><sup>7</sup> Neither is it the case that all of Abraham’s children are his descendants. On the contrary, your offspring will be traced through Isaac. 
+
+><sup>8</sup> That is, it is not the children by physical descent who are God’s children, but the children of the promise are considered to be the offspring. 
+
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
+
+><sup>9</sup> For this is the statement of the promise: At this time I will come, and Sarah will have a son. 
+
+><sup>10</sup> And not only that, but Rebekah conceived children through one man, our father Isaac. 
+
+><sup>11</sup> For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—
+
+><sup>12</sup> not from works but from the one who calls—she was told, The older will serve the younger.
 
 <div style="page-break-after: always;"></div>
 
 ## Our Response
 
+><sup>13</sup> As it is written: I have loved Jacob, but I have hated Esau.
+
 ## The Resources
 
 <p style="clear:both;">
+
+<img src="/images/resources/commentary-romans9-1-23-the-justification-of-God-2nd-piper.jpg" align="left" width="200" style="padding-right: 10px" />The Justification of God: An Exegetical & Theological Study of Romans 9:1-23, 2nd Edition.  
+by John Piper.  
+Baker  Academic. 1993.  
+[Olive Tree](https://www.goodreads.com/book/show/210215.The_Justification_of_God)
+
+<p style="clear:both;">
+
+---
 
 <img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
