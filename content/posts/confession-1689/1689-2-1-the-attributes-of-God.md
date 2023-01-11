@@ -647,12 +647,16 @@ For:
 
 >Hebrews 9:27 (CSB) And just as it is appointed for people to die once — and after this, judgment —
 
-In continue in the holiness of God in comparison to our sin, John Stott gives these additional descriptors in addition to God being most glorious and shines the brightest:[^stott-brightest]
+In continue in the holiness of God in comparison to our sin, John Stott gives these additional descriptors in addition to God being most glorious and shines the brightest: [^stott-light]
+
+[^stott-light]: Stott. 109.
 
 - God is high above our sin and idolatry
 - God is far from our wickedness and depravity
 - He is all-consuming - In other words, he will perfectly eradicate all sin from everywhere
 - He is rejects all sin from his presence - He has no toleration for sin, God does not have to live with sin; God vomits it out of his being [^stott-five]
+
+[^stott-five]: Stott. 104-111.
 
 These are metaphors--uses of the English language to try to get us to simply realize that one fact that God hates sin.
 
@@ -665,10 +669,6 @@ But the fantastic good news of a vengeful, sin-hating God is the same God who is
 >John 14:6-7 (CSB) Jesus told him, “I am the way, the truth, and the life. No one comes to the Father except through me. If you know me, you will also know my Father. From now on you do know him and have seen him.”
 
 Christ is the only way. You want to be set from and sin free, look no further than Christ who your sin upon himself and welcomed the wrath of God to fall on him so that we would never bear that wrath.
-
-[^stott-brightest]: See [dwelling in the light which no man can approach unto](#dwelling-in-the-light-which-no-man-can-approach-unto)
-
-[^stott-five]: Stott. The Cross of Christ. 104-111
 
 ### and who will by no means clear the guilty.
 
