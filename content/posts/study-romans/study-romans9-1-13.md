@@ -47,6 +47,26 @@ draft: false
 
 ## The Introduction
 
+Romans 8:38-39
+
+There is no 1 Romans and 2 Romans 
+
+Romans 9-11 is perfect where it is at
+
+Israelites were given the law and not all
+
+Remnant of Israel is the church—gentile believers were always grafted in
+
+Christ is the fulfillment of all the covenants including and especially Genesis 12. 
+
+God gave the land to Israelites. God gives himself as a dwelling place for his people 
+
+Seek him and you will find him
+
+Being born a Jew was good enough. Sons of Abraham were really sons of the devil. 
+
+Christ says you must be born again. You can’t do that, God must make you a new. 
+
 ><sup>1</sup> I speak the truth in Christ—I am not lying; my conscience testifies to me through the Holy Spirit—
 
 ><sup>2</sup> that I have great sorrow and unceasing anguish in my heart. 
