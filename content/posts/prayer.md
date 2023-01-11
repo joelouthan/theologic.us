@@ -9,31 +9,11 @@ css: "prayers"
 tocopen: false
 ---
 
-## Confession
+## Request
 
-<div style='font-variant: small-caps;'>
-Eternal God, In Whom We Live and Move and Have Our Being,
-</div>
-<br>
+Now I have seen what trials and afflictions I have gone through just so that I can look a little like you and do a little of what your Son has called me to do. 
 
-I have sinned against you, and I sometimes forget your mercy toward me. **Cleanse me from all my offenses, and deliver me from proud thoughts and vain desires.** With lowliness and meekness may I draw near to you, confessing my faults, confiding in your grace, and finding in you my refuge and strength; through Jesus Christ your Son.
-
-Amen!
-
-## Repentance
-
-<div style='font-variant: small-caps;'>
-Lord,
-</div>
-<br>
-
-Do what you must so I would be conformed to the image of my Christ.
-
-I ask for a double portion of your blessing and your spirit and your grace in order for me to preach your word and your great gospel.
-
-Lord, please be in me. Open my heart and mind and hands and eyes and mouth. I cannot and will not do this without your mercy and grace upon me.
-
-My God, give me a church so that I might preach your gospel there for all of my days and that I might be a herald for you in the midst of where I live. 
+Lord, if you are not finished, then please don’t stop until I can do what your grace has me to do. 
 
 Amen.
 
