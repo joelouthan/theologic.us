@@ -141,23 +141,45 @@ And their own racist beliefs--the belief that they were born naturally into the 
 
 ## The Gospel
 
-TODO:
-
 ><sup>9</sup> For this is the statement of the promise: At this time I will come, and Sarah will have a son. 
-
-### His mercies never come to an end: 
 
 ><sup>10</sup> And not only that, but Rebekah conceived children through one man, our father Isaac. 
 
-### His mercies never come to an end: 
-
 ><sup>11</sup> For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—
-
-### His mercies never come to an end: 
 
 ><sup>12</sup> not from works but from the one who calls—she was told, The older will serve the younger.
 
-### His mercies never come to an end: 
+### His mercies never come to an end: vocation of God is justification of God
+
+Read the following carefully and slowly:
+
+>Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+For some of us, like myself growing up in church, you never heard this verse read out loud, let alone, preached on. And when you pressed a pastor to explain it, they are certainly going to squeeze in the free will of man--as though the fallen son of Adam could ever freely choose God. (Heads up: he cannot.)
+
+Now, if you are in a church that preaches the doctrines of grace, you are going to get your fill on this verse and this passage--mostly because we missed hearing it growing up.
+
+But I want you to look at this logically, almost mathematically. The text does not say, "And those he predestined, some were called." The word 'some' is nowhere to be found anywhere in that passage and in the Bible when it comes to to the salvation of God. In other words, let me summarize Romans 8:30: "For those he predestined, he also glorified.
+
+A = B = C = D. Ergo, A = D.
+
+Now, you might be asking, "Preacher, why the math lesson?" Because in Romans 9:9-12, Paul does the same mathematical formula.
+
+>Romans 9:11–12 (CSB) For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to **election might stand—not from works but from the one who calls**—she was told, The older will serve the younger.
+
+If you are elected, you are called. But we know from Romans 8:30 right before, if you chosen by God, you are going to be called by God, justified by God and glorified by God. 
+
+Sarah shall bear a son, Isaac. Then Isaac's wife, Rebekah, will bear twin boys, Esau and Jacob. But "the younger will serve the older."
+
+And you want reassurance of your salvation? You want assurance that God could save a wretch like you? Listen to what Paul preaches:
+
+>not from works but from the one who calls
+
+Go and read the life of Jacob. You know what his name means? Trickster. He was a low-down, good for nothing, trickster. Manipulated his mom. Fooled his dad. And stole everything from his brother.
+
+And God came to him, brought him to the end of his life, and broke his life and pride--to make him walk with a limp for the rest of his life.
+
+Before Isaac could do anything, he was called. Before Jacob could obey God, God justified. Before you and I can even begin to do one thing good unto the Lord, God must save us.
 
 <div style="page-break-after: always;"></div>
 
@@ -165,9 +187,19 @@ TODO:
 
 ><sup>13</sup> As it is written: I have loved Jacob, but I have hated Esau.
 
-### His mercies never come to an end: 
+### His mercies never come to an end: before the foundation of the world, we are loved.
 
+For all the blessings bestowed upon Esau despite losing his birthright by God, Esau never turned to the Lord. Never trusted him. Esau did some good things--forgave his brother, spared his brother, and had mercy on his brother. But unbelievers do that all the time. Like a friend from work told me once, "Christians didn't invent grace and forgiveness." Which is absolutely true. But among the common grace that God gives both believers and unbelievers alike, he gives everyone the ability to give grace and forgive.
 
+Esau may have done good things but it wasn't enough. Most of us who don't know God are just hoping that we have done enough good things and if God would grade on a curve, he will let us in.
+
+Jacob was a dirty, rotten, sonovagun. He was despicable. Rotten to the core. But God came to him and called Jacob, not Esau. God came to break the pride of Jacob, not Esau. In the end, God saved Jacob to himself, and not Esau.
+
+Here is the gospel, on our best days, like Esau forgiving his brother for his wrongdoing, we are far far short of God's glory. Our great days could out weigh our bad days and we still have an infinite distance to go.
+
+Can you strive infinitely? I can't. You can't. Jacob couldn't. To span that infinite gap, you are going to need a infinite being who is willing and able to come to us to bridge the gap. And that infinite being is Jesus Christ, who lived, who died, who rose again, who ascended to the right hand of the Father, making intercession for those whom he loved before the foundation of the world.
+
+>**Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, for his mercies never end. They are new every morning; great is your faithfulness!**
 
 ## The Resources
 
