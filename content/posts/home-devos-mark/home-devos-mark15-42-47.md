@@ -15,7 +15,18 @@ draft: true
 ---
 ## The Text
 
+>Mark 15:42–47 (CSB)  
+><sup>42</sup> When it was already evening, because it was the day of preparation (that is, the day before the Sabbath), 
 
+><sup>43</sup> Joseph of Arimathea, a prominent member of the Sanhedrin who was himself looking forward to the kingdom of God, came and boldly went to Pilate and asked for Jesus’s body. 
+
+><sup>44</sup> Pilate was surprised that he was already dead. Summoning the centurion, he asked him whether he had already died. 
+
+><sup>45</sup> When he found out from the centurion, he gave the corpse to Joseph. 
+
+><sup>46</sup> After he bought some linen cloth, Joseph took him down and wrapped him in the linen. Then he laid him in a tomb cut out of the rock and rolled a stone against the entrance to the tomb. 
+
+><sup>47</sup> Mary Magdalene and Mary the mother of Joses were watching where he was laid.
 
 ## The Devotion
 
