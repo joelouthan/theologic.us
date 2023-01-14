@@ -96,6 +96,8 @@ He is not a powerful being that toys with the affairs of mankind. Capricious and
 
 ## The Resources
 
+TODO:
+
 <img src=“/images/resources/confession-1689-judacious-reader-renihan.png” align=“left” width=“100” style=“padding-right: 10px” />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
 by James Renihan.  
 Founders Press. 2022.  
