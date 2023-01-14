@@ -32,7 +32,7 @@ This is loaded chapter. Because right out out the gate, after solidifying the co
 
 *Who is God?*
 
-And the Historical Confessions (WCF, Savor, and 2LBC) front loads Chapter 2 on Theology with the attributes of God. Systematically speaking, it starts with the incommunicable attributes--the attributes that belong to God alone, while finishing it off with the communicable attributes of God--namely, those attributes that are shared with the imagebearers of God, that is, mankind. 
+And the Historical Confessions (Westminster, Savoy Declaration, and London Baptist) front loads Chapter 2 on Theology with the attributes of God. Systematically speaking, it starts with the incommunicable attributes--the attributes that belong to God alone, while finishing it off with the communicable attributes of God--namely, those attributes that are shared with the imagebearers of God, that is, mankind. 
 
 Another way of seeing these attributes organized is Richard Muller defined it. In *To the Judicious and Impartial Reader: Baptist Symbolics Volume 2*, Dr. Renihan attributes the following terms from Richard Muller's *Dictionary of Latin and Greek Theological Terms (2nd edition)*:
 
