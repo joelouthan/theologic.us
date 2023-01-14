@@ -66,7 +66,9 @@ This material may be protected by copyright.
 
 ### in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature
 
-Vs open theism Romans 3:25-26
+Vs open theism 
+
+>Romans 3:25–26 (CSB) God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
 
 Sees what we do. Sees the depths of hearts 
 
