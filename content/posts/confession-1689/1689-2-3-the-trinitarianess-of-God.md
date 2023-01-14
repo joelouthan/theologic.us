@@ -29,18 +29,10 @@ In this divine and infinite Being there are three subsistences, the Father, the 
 ### 
 
 ## The Resources
-<img src=“/images/resources/confession-1689-judacious-reader-renihan.png” align=“left” width=“100” style=“padding-right: 10px” />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
+
+<img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
 by James Renihan.  
 Founders Press. 2022.  
-[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
-
-<p style=“clear:both;”>
-
----
-
-<img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
-by Samuel E. Waldron.  
-Evangelical Press. 2013.  
 [Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
 
 <p style="clear:both;">
@@ -56,6 +48,15 @@ Mentor. January 17, 2023.
 
 ---
 
+<img src="/images/resources/confession-wcf-truths-we-confess-sproul.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
+Sproul, R. C.    
+Orlando: Reformation Trust, 2019.  
+[Goodreads](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)
+
+<p style="clear:both;">
+
+---
+
 <img src="/images/resources/confession-1689-masters.jpg" align="left" width="100" style="padding-right: 10px" />The Baptist Confession of Faith 1689: Or the Second London Confession with Scripture Proofs  
 by Peter Masters.  
 Wakeman Trust. January 1, 1981.  
@@ -65,10 +66,10 @@ Wakeman Trust. January 1, 1981.
 
 ---
 
-<img src="/images/resources/confession-wcf-truths-we-confess-sproul.jpg" align="left" width="100" style="padding-right: 10px" />Truths We Confess: A Systematic Exposition of the Westminster Confession of Faith.  
-Sproul, R. C.    
-Orlando: Reformation Trust, 2019.  
-[Goodreads](https://www.goodreads.com/book/show/50024945-truths-we-confess?ac=1&from_search=true&qid=ssTkBgIFwE&rank=1)
+<img src="/images/resources/confession-1689-modern-exposition-waldron.jpg" align="left" width="100" style="padding-right: 10px" />Modern Exposition of the 1689 Baptist Confession of Faith.  
+by Samuel E. Waldron.  
+Evangelical Press. 2013.  
+[Goodreads](https://www.goodreads.com/book/show/17867976-modern-exposition-of-the-1689-baptist-confession-of-faith)
 
 <p style="clear:both;">
 
