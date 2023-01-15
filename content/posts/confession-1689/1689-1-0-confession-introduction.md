@@ -6,7 +6,7 @@ categories:
   - Confessions
   - Books
 tags:
-  - "1689 Baptist Confession of Faith"
+  - "1689"
 series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
