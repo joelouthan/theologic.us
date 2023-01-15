@@ -5,9 +5,9 @@ publishDate: 2023-03-08T00:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "1689 Baptist Confession of Faith"
+  - "1689"
 series:
-  - "1689 Baptist Confession of Faith"
+  - "1689.3 Of God's Decree"
 tocopen: true
 css: "prayers"
 draft: true

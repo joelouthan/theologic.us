@@ -5,7 +5,7 @@ publishDate: 2023-02-15T00:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "1689 Baptist Confession of Faith"
+  - "1689"
 series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
