@@ -38,13 +38,17 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 
 ### God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself
 
+>>“God is alone in and unto himself all-sufficient. God is all-sufficient not only in Himself, but also for Himself, in the absolute sense, needing nothing from any creature. Christians often use expressions that are well meaning but that, if analyzed carefully, approach blasphemy. For example, “I’m so glad that so-and-so allowed God to work through him,” or “Thank you for letting God work through you.” Does this mean that God cannot work through me unless I allow Him? God does not need our permission to do anything, any more than He needed Paul’s permission to appear to him on the Damascus road, or Judas’ to use him for His greater glory, or that of Balaam’s ass to speak prophetically. God is self-sufficient, both in Himself and for Himself.”
+>>
+>>R. C. Sproul. Truths We Confess. 55-57.
+
 ### all-sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them
+
+God did not need us = mind blowing objection to our modern minds because we all need something. The American independence twists this into we don’t need anything but others need me. And the suppression of the truth of God = God must need me. 
 
 ### but only manifesting his own glory in, by, unto, and upon them
 
 ### he is the alone fountain of all being, of whom, through whom, and to whom are all things, and he hath most sovereign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth
-
-God did not need us = mind blowing objection to our modern minds because we all need something. The American independence twists this into we don’t need anything but others need me. And the suppression of the truth of God = God must need me. 
 
 But we are created from the Creator. Romans 9
 
@@ -56,21 +60,9 @@ Great is the Lord and greatly to be praised
 
 Exposit Romans 1:18-26
 
-“God is alone in and unto himself all-sufficient. God is all-sufficient not only in Himself, but also for Himself, in the absolute sense, needing nothing from any creature. Christians often use expressions that are well meaning but that, if analyzed carefully, approach blasphemy. For example, “I’m so glad that so-and-so allowed God to work through him,” or “Thank you for letting God work through you.” Does this mean that God cannot work through me unless I allow Him? God does not need our permission to do anything, any more than He needed Paul’s permission to appear to him on the Damascus road, or Judas’ to use him for His greater glory, or that of Balaam’s ass to speak prophetically. God is self-sufficient, both in Himself and for Himself.”
-
-Excerpt From
-Truths We Confess
-R. C. Sproul
-https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0
-This material may be protected by copyright.
-
-“Most Christians claim to believe that God has the right to rule over us, yet we belie that confession by committing sin. We try to impose our will as if it were higher than His.”
-
-Excerpt From
-Truths We Confess
-R. C. Sproul
-https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0
-This material may be protected by copyright.
+>>Most Christians claim to believe that God has the right to rule over us, yet we belief that confession by committing sin. We try to impose our will as if it were higher than His.”
+>>
+>>R. C. Sproul. Truths We Confess. 58-59
 
 ### in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature
 
