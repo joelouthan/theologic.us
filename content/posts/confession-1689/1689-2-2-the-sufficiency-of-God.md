@@ -5,9 +5,9 @@ publishDate: 2023-01-18T00:00:00-05:00
 categories:
   - Confessions
 tags:
-  - "1689 Baptist Confession of Faith"
+  - "1689"
 series:
-  - "1689 Baptist Confession of Faith"
+  - "1689.2 Of the Triune God"
 tocopen: true
 css: "prayers"
 draft: true
@@ -29,12 +29,20 @@ draft: true
 ## The Chapter
 
 ```text
-God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself all- sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them, but only manifesting his own glory in, by, unto, and upon them; he is the alone fountain of all being, of whom, through whom, and to whom are all things, and he hath most sovereign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth; in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature, so as nothing is to him contingent or uncertain; he is most holy in all his counsels, in all his works, and in all his commands; to him is due from angels and men, whatsoever worship, service, or obedience, as creatures they owe unto the Creator, and whatever he is further pleased to require of them.
+God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself all-sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them, but only manifesting his own glory in, by, unto, and upon them; he is the alone fountain of all being, of whom, through whom, and to whom are all things, and he hath most sovereign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth; in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature, so as nothing is to him contingent or uncertain; he is most holy in all his counsels, in all his works, and in all his commands; to him is due from angels and men, whatsoever worship, service, or obedience, as creatures they owe unto the Creator, and whatever he is further pleased to require of them.
 ```
 
 <div style="page-break-after: always;"></div>
 
 ## The Confession
+
+### God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself
+
+### all-sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them
+
+### but only manifesting his own glory in, by, unto, and upon them
+
+### he is the alone fountain of all being, of whom, through whom, and to whom are all things, and he hath most sovereign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth
 
 God did not need us = mind blowing objection to our modern minds because we all need something. The American independence twists this into we don’t need anything but others need me. And the suppression of the truth of God = God must need me. 
 
