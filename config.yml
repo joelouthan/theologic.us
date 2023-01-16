@@ -27,7 +27,7 @@ params:
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Theologicus
-    description: "Trying to waste my time with God."
+    description: "Trying to waste my time with God. Preacher of the Gospel. Writing at Theologicus. StarCraft 2 Elderly."
     author: Joseph Louthan
     # images: ["/content/images/"]
 
