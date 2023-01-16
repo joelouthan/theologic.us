@@ -42,7 +42,17 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 >>
 >>R. C. Sproul. Truths We Confess. 55-57.
 
+2022 I looked at porn. God responds by saving my boys and letting me preach his gospel for the first time ever. 
+
+He is the source of all goodness because he is goodness. 
+
 ### all-sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them
+
+And he did not need me to repent at all. He simply gave because he is good. He did so before I was born and before the world was created. He alone is God. 
+
+God gave me his son spirit heart faith goodness righteousness holiness mercy grace love salvation and repentance. 
+
+He doesn’t need me to do anything because I have nothing to offer. But I need him so desperately. 
 
 God did not need us = mind blowing objection to our modern minds because we all need something. The American independence twists this into we don’t need anything but others need me. And the suppression of the truth of God = God must need me. 
 
