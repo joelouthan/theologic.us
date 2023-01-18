@@ -73,32 +73,66 @@ There is no escape if we neglect. There is no other name by which we are saved.
 
 ## Preacher of Hebrews: The Entirety of Faith in Christ
 
-13:33
+<!-- 13:33 -->
 
 Mind instructed. Heart impacted. Will invited and responds to the invitation of the gospel.
 
 >Hebrews 6:4–6 (CSB)  For it is impossible to renew to repentance those who were once enlightened, who tasted the heavenly gift, who shared in the Holy Spirit, 5 who tasted God’s good word and the powers of the coming age, 6 and who have fallen away. This is because, to their own harm, they are recrucifying the Son of God and holding him up to contempt.
 
-Enlightened - Know in their mind
+**Enlightened** - Know in their mind
 
-Tasted - Tasted that God is good but have not swallowed and devoured and eaten
+**Tasted** - Tasted that God is good but have not swallowed and devoured and eaten
 
-Shared in the Holy Spirit - but no indwelling nor convicting power of the Holy Spirit
+**Shared in the Holy Spirit** - but no indwelling nor convicting power of the Holy Spirit
 
-Tasted the good word of God - sit under the preaching of the Bible 
+**Tasted the good word of God** - sit under the preaching of the Bible 
 
-powers of the coming age - Revelation, Prophecy, Nations gathered
+**powers of the coming age** - Revelation, Prophecy, Nations gathered
 
-... but they want to retain the control of their own life. Control of their own destiny.
+**... but they want to retain the control of their own life. Control of their own destiny.**
 
 >and who have fallen away. This is because, to their own harm, they are recrucifying the Son of God and holding him up to contempt.
 
-They would intellectually determined that Christ should be crucified based on facts. But for them, they will not choose Christ for their salvation. You holding a line that you have crossed with God. God will not recrucified his own Son.
+They would intellectually determined that Christ should be crucified based on facts. But for them, they will not choose Christ for their salvation. You holding a line that you have crossed with God. God will not re-crucified his own Son.
 
 >James 2:19 (CSB)  You believe that God is one. Good! Even the demons believe—and they shudder.
 
-## Preacher of Hebrews: 
+>Luke 14:25–35 (CSB) Now great crowds were traveling with him. So he turned and said to them, “If anyone comes to me and does not hate his own father and mother, wife and children, brothers and sisters—yes, and even his own life—he cannot be my disciple. Whoever does not bear his own cross and come after me cannot be my disciple. “For which of you, wanting to build a tower, doesn’t first sit down and calculate the cost to see if he has enough to complete it? Otherwise, after he has laid the foundation and cannot finish it, all the onlookers will begin to ridicule him, saying, ‘This man started to build and wasn’t able to finish.’ “Or what king, going to war against another king, will not first sit down and decide if he is able with ten thousand to oppose the one who comes against him with twenty thousand? If not, while the other is still far off, he sends a delegation and asks for terms of peace. In the same way, therefore, every one of you who does not renounce all his possessions cannot be my disciple. “Now, salt is good, but if salt should lose its taste, how will it be made salty? It isn’t fit for the soil or for the manure pile; they throw it out. Let anyone who has ears to hear listen.”
 
-## Preacher of Hebrews: 
+They counted the cost and the cost was too much for them to bare. They cannot and shall not bow the knee and declare him Lord of all. 
 
-## Preacher of Hebrews: 
+The sadness and the irony of it all: Christ is Lord of all. Do you bow as a friend or do you bow as a enemy of the state.
+
+## Preacher of Hebrews: The Tragedy of Rejecting Christ
+
+>Hebrews 10:26 (CSB) For if we deliberately go on sinning after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,
+
+>Hebrews 10:27 (CSB) but a terrifying expectation of judgment and the fury of a fire about to consume the adversaries.
+
+If you reject the gospel--the good news--you have made yourself an enemy of the state. You will be under the severer punishment than if you had never heard the gospel:
+
+>Hebrews 10:28–29 (CSB) Anyone who disregarded the law of Moses died without mercy, based on the testimony of two or three witnesses. **How much worse punishment do you think one will deserve who has trampled on the Son of God, who has regarded as profane the blood of the covenant by which he was sanctified, and who has insulted the Spirit of grace?**
+
+### Greater condemnation
+
+>Matthew 11:23-30 (CSB) And you, Capernaum, will you be exalted to heaven? No, you will go down to Hades. For if the miracles that were done in you had been done in Sodom, it would have remained until today. But I tell you, it will be more tolerable for the land of Sodom on the day of judgment than for you.”
+>
+>At that time Jesus said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and intelligent and revealed them to infants. Yes, Father, because this was your good pleasure. All things have been entrusted to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son desires to reveal him.
+>
+>“Come to me, all of you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”
+
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+### Greater punishment
+
+>Hebrews 10:30–31 (CSB) For we know the one who has said, Vengeance belongs to me; I will repay, and again, The Lord will judge his people. 
+
+### Greatest terror
+
+>It is a terrifying thing to fall into the hands of the living God.
+
+## Preacher of Hebrews: The Priority of Faith in Christ
+
+>Hebrews 11:1 (CSB) Now faith is the reality of what is hoped for, the proof of what is not seen.
+
+>Hebrews 11:6 (CSB) Now without faith it is impossible to please God, since the one who draws near to him must believe that he exists and that he rewards those who seek him.
