@@ -38,64 +38,94 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 
 ### God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself
 
+I am not sure if we, Evangelicals, still believe this or not. But for the sake of covering my bases, let me state this.
+
+God does not need anything.
+
+And just so we are clear:
+
+God does not need us.
+
+I could try to paint a picture of a perfectly content Father and a perfectly content Son in perfect harmonious community joined by the Holy Spirit. To be honest, it would be a feeble attempt. Because we cannot imagine such a relationship on this side of heaven.
+
+I could walk into any room with any amount of people and ask for a show of hands who here has known anybody who has gotten divorced. The raised hands would be 100%. Yet, when God gave marriage to mankind, his intention and design was always forever. Never broken. Never fractured.
+
+We cannot not imagine unbroken marriage. Sinless relationships. Complete joy-filled unions. We can't but this is all God knew forever. There was no other reality for him.
+
+And why is that. To speak about God is that we cannot simply stop at "he is good" which he is. And he is blessedness or glory or life which he is all these things. But what sets him apart from his creation is that he is the fullness of these things. And if he is truly filled to the max, perfectly with these things, then he does not need anything.
+
+And if is filled with these things--all life, glory, goodness, blessedness--then what else does he need. He certainly did not need us. R.C. Sproul says it this way:
+
 >>“God is alone in and unto himself all-sufficient. God is all-sufficient not only in Himself, but also for Himself, in the absolute sense, needing nothing from any creature. Christians often use expressions that are well meaning but that, if analyzed carefully, approach blasphemy. For example, “I’m so glad that so-and-so allowed God to work through him,” or “Thank you for letting God work through you.” Does this mean that God cannot work through me unless I allow Him? God does not need our permission to do anything, any more than He needed Paul’s permission to appear to him on the Damascus road, or Judas’ to use him for His greater glory, or that of Balaam’s ass to speak prophetically. God is self-sufficient, both in Himself and for Himself.”
 >>
 >>R. C. Sproul. Truths We Confess. 55-57.
 
-2022 I looked at porn. God responds by saving my boys and letting me preach his gospel for the first time ever. 
-
-He is the source of all goodness because he is goodness. 
-
 ### all-sufficient, not standing in need of any creature which he hath made, nor deriving any glory from them
 
-And he did not need me to repent at all. He simply gave because he is good. He did so before I was born and before the world was created. He alone is God. 
+Often times, I have shared the story of the loss of my brother who passed away in 2020 from Stage 4 Colon Cancer. And after so much loss, you would think I would be comfortable with grieving. And been on this earth for nearly 50 years, I don't automatically grieve loss and sin and betrayal. And the reason why is because instead of grieving and sitting in that sadness and feeling the sadness, I avoid it. I avoid it like that the plague. But I turn my heart instead of the one God who can comfort me and instead turn to a much darker plague: porn.
 
-God gave me his son spirit heart faith goodness righteousness holiness mercy grace love salvation and repentance. 
+Summer of 2022, the perfect storm for Satan to release his barrage of temptations would come my way. My wife was going on an international trip for work. And I was at home by myself. But during this, I started experiencing a physical pain and ailment that immediately took me back to my dying brother in his pain and agony. And helping the nurse lift and turn his lifeless cancer ridden body. This little bit of physical grief struck me with fear that I, too, had cancer like my brother.
 
-He doesn’t need me to do anything because I have nothing to offer. But I need him so desperately. 
+And I turned to porn like I had nearly all of my life.
 
-God did not need us = mind blowing objection to our modern minds because we all need something. The American independence twists this into we don’t need anything but others need me. And the suppression of the truth of God = God must need me. 
+Five minutes into fulfilling my temptation, God quickened me. He brought me back to life. My mind and heart got powered on and I was made alive. I quickly dismissed my sin and repented to my God and my wife and my friends as fast as I could.
+
+I sinned against God knowing full well that he alone is life, goodness, blessedness and glory. He is holy, kind, and merciful, righteousness.
+
+I chose to sin against the Almighty God.
+
+In all of his glory and his power and his might, how did God respond to my treasonous sin?
+
+The Father, who has sent his Son to live and die for me, who has sent his Spirit to give me his heart secure me to him forever decided that it would be this year he would save my oldest son.
+
+And then he would save my other son--fully saving the men in my generations from my grandfather to my youngest son. He waited, in his good pleasure and grace, waited until my grandfather was 40 and my dad was 56 and myself when I was 32 to save us. But then he saves my 20 year old son and my 9 year son in a blink of an eye.
+
+He gave me mercy.
+
+Oh. Because my God is good and he alone is good and he overflows with goodness, he granted me the one desire I had in my heart for the entire time I have known and loved him--
+
+He allowed me to preach his gospel for the first time ever.
+
+I sinned. And God responded with ultimate goodness and mercy.
+
+This is my God.
 
 ### but only manifesting his own glory in, by, unto, and upon them
 
+And through my life, he has chosen to reveal his glory. Through ministering to others, he has shown to be tender in heart and full of compassion. By his preached word and the power of the Spirit through His Son, he has rescued his people from their sins.
+
+We have no other source for life, glory, goodness, and blessedness but God alone.
+
 ### he is the alone fountain of all being, of whom, through whom, and to whom are all things, and he hath most sovereign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth
 
-But we are created from the Creator. Romans 9
+We are never to be the source of anything good because we are not.
 
-Made us not he needed anything but the overflow of his love 1 John 4. Eph 1. Romans 8:30. Eph 2. 
+>Romans 3:10–12 (CSB) as it is written: There is no one righteous, not even one. There is no one who understands; there is no one who seeks God. All have turned away; all alike have become worthless. There is no one who does what is good, not even one.
 
-… does what he pleases 
+When we need to be good, we must run to the source of all good.
 
-Great is the Lord and greatly to be praised 
+Paul states it bluntly:
 
-Exposit Romans 1:18-26
+>Romans 9:14-18 (CSB) What should we say then? Is there injustice with God? Absolutely not! For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. So then, it does not depend on human will or effort but on God who shows mercy. For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
 
->Romans 1:18–26 (CSB)  
-><sup>18</sup> For God’s wrath is revealed from heaven against all godlessness and unrighteousness of people who by their unrighteousness suppress the truth, 
+God alone gives us mercy.
 
-><sup>19</sup> since what can be known about God is evident among them, because God has shown it to them. 
+So if God didn't need us, why did he create us?
 
-><sup>20</sup> For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse. 
+>1 John 4:7-10 (CSB) Dear friends, let us love one another, because love is from God, and everyone who loves has been born of God and knows God. The one who does not love does not know God, because God is love. God’s love was revealed among us in this way: God sent his one and only Son into the world so that we might live through him. Love consists in this: not that we loved God, but that he loved us and sent his Son to be the atoning sacrifice for our sins.
 
-><sup>21</sup> For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. 
+>Ephesians 2:1-5 (CSB) nd you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace!
 
-><sup>22</sup> Claiming to be wise, they became fools 
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
 
-><sup>23</sup> and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles. 
+Because God is love. And he was mindful of us before Genesis 1:1. For:
 
-><sup>24</sup> Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves. 
+>Ephesians 1:3-6 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
 
-><sup>25</sup> They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen. 
-
-><sup>26</sup> For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones.
-
-
->>Most Christians claim to believe that God has the right to rule over us, yet we belief that confession by committing sin. We try to impose our will as if it were higher than His.”
->>
->>R. C. Sproul. Truths We Confess. 58-59
+He made up his mind that he was going to create us, save us, and keep us forever.
 
 ### in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature
-
+TODO:
 Vs open theism 
 
 >Romans 3:25–26 (CSB) God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
