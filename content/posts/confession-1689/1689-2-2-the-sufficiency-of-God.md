@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 2.2 The Sufficiency of God"
 author: Joseph Louthan
-publishDate: 2023-01-18T00:00:00-05:00
+publishDate: 2023-01-25T00:00:00-05:00
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689.2 Of the Triune God"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -125,36 +125,188 @@ Because God is love. And he was mindful of us before Genesis 1:1. For:
 He made up his mind that he was going to create us, save us, and keep us forever.
 
 ### in his sight all things are open and manifest, his knowledge is infinite, infallible, and independent upon the creature
-TODO:
-Vs open theism 
 
->Romans 3:25–26 (CSB) God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
+When I was freshly saved by God and deeply interested in theology. How I got to the Doctrines of Grace is another story (it involves Wikipedia). But it was clear to people who were close to me that my leanings were becoming Calvinistic day after day. One particular mentor, who did not lean that way but didn't try to buffer my understanding. But on occasionally, he would give me books just to see if it would "grind my gears" as he would say it.
 
-Sees what we do. Sees the depths of hearts 
+One particular book he threw at me was *God of the Possible: A Biblical Introduction to the Open View of God* by Greg Boyd. This was an introduction to Open Theism.
+
+ChatGPT defines Open Theism as:
+
+>>Open Theism is a theological viewpoint that emphasizes the belief that God is omniscient, but that the future is not fully determined. This means that God is aware of all possible futures, but that the actions and decisions of human beings can ultimately determine which future comes to pass. This view contrasts with traditional theism, which holds that God has a specific plan for the future that will inevitably come to pass. Open Theism is also sometimes referred to as "free will theism."
+>>
+>>ChatGPT. "Could you explain to me Open Theism, please?". [https://chat.openai.com/chat](https://chat.openai.com/chat). Jan 9 Version.
+
+Mr. Boyd introduces the concept of Open Theism by reciting the story of King Hezekiah. The Lord appeared to King Hezekiah and simply stated:
+
+>2 Kings 20:1 (CSB) In those days Hezekiah became terminally ill. The prophet Isaiah son of Amoz came and said to him, “This is what the LORD says: ‘Set your house in order, for you are about to die; you will not recover.’ ”
+
+Hezekiah, in response, prays and weep bitterly for the Lord to extend his life.
+
+What doe the Lord do? He extends his life.
+
+Instead of expounding the love, and the mercy, and the grace of the Almighty God to save the lives of his people, Mr. Boyd takes this passage and begins to defend his belief that, in fact, God does not know know what the future holds. And that God can be swayed and persuaded by the prayers of his people.
+
+What cannot be missed when you keep reading 2 Kings is simply how sinful and foolish King Hezekiah really was. In his pride, arrogance, folly, and stupidity, he gives the envoys of the King of Babylon all the treasures of the his palace.
+
+The Lord our God, throught the prophet Isaiah, responds in kind:
+
+>2 Kings 20:16-18 (CSB) Then Isaiah said to Hezekiah, “Hear the word of the LORD: ‘Look, the days are coming when everything in your palace and all that your predecessors have stored up until today will be carried off to Babylon; nothing will be left,’ says the LORD. ‘Some of your descendants — who come from you, whom you father — will be taken away, and they will become eunuchs in the palace of the king of Babylon.’ ”
+
+What is shocking and disturbing is Hezekiah's response to God's cursing and declaration of the consequences of his sin:
+
+>2 Kings 20:19 (CSB) Then Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good,” for he thought, “Why not, if there will be peace and security during my lifetime? ” [^matt5-9]
+
+[^matt5-9]: The quintessential difference between peacekeeping and peacemaking. See Matthew 5:9. But I digress. 
+
+So why rehash King Hezekiah's folly? This historical account from 2nd Kings is not a prooftext for the heresy of open theism. This does not prove that God changes his mind and that God does change and he can change. But we have learn thus far in the 1689 that God is the fullness of goodness, blessedness, mercy, glory and life. He extended the life of Hezekiah knowing full well that Hezekiah will sin more.
+
+We know this because Paul wraps up the sins of all the Old Testament saints in this one passage:
+
+>Romans 3:21–26 (CSB) But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets. The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction. **For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.**
+
+Interested enough, this passage is not mentioned at all in Greg Boyd's book.
+
+The truth is that God sees our hearts. All of our hearts. When God saw the hearts of his people were desperately sick and will flee far from him (Jeremiah 17:9), before the foundations of the world were formed, he set his affections on us and made a covenant with his Son that he would save us.
+
+>Ephesians 1:3–10 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding. He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him.
+
+God is not like us who are sometimes whimsical--whose mind can be changed at a whim. God is not capricious--someone who changes their mind just because they can.
+
+God is steadfast in his love. God gives mercy day after day. God is so gracious, that one can only describe it as grace layered upon grace.
+
+God saw the wickedness of hearts. He knew what was going on in our hearts and in the heart of King Hezekiah. That is why He sent his Son to live and die for King Hezekiah, for you and for me.
+
+Praise be to our God!
 
 ### so as nothing is to him contingent or uncertain
 
-Molinism 
+6th-century Jesuit theologian Luis de Molina attempted a way to balance the supposed free will of man with the sovereign grace of God. He proposal is that God looks down the corridors of time and selects the correct timeline where you and I believe and trust in him.
+
+I could entertain this notion except the word of God says otherwise:
+
+>Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
+
+God never foresaw us. The word says God foreknew us. God foreknew our deceit and sinfulness and treasonous acts. God knew us and in his mercy, saved us. 
+
+The world and philosophies of this world and certain theologies like Open Theism, Molinism, and cult and sects like Mormonism and Jehoviah Witness and heresies like Arianism and Gnosticism have one thread in common: it is the feeble and wicked attempted to either lower God to be like created man or elevate created man to be like God.
+
+But true, historical, orthodox, right, and proper Christian theology is this:
+
+>>The Son of God became man so that men might become sons of God. [^packer-deathofdeath]
+
+[^packer-deathofdeath]: J.I. Packer. Essay, Introduction to John Owen's The Death of Death in the Death of Christ.
+
+God is clearly not like us in so many ways. Because by the grace of God for all of mankind, we can do some of the things he does: love, and create, and give. But only because of the Lord Jesus Christ, the Son of God who is God, it is his people alone who are saved to Him and can truly worship and obey him.
 
 ### he is most holy in all his counsels, in all his works, and in all his commands
 
-Clay potter who are you Romans 9
-
 >Leviticus 11:45(CSB) For I am the LORD, who brought you up from the land of Egypt to be your God, so you must be holy because I am holy.
+
+In this, what rails against the minds, hearts, and wills of mankind is that we are utterly dependent on Someone else for everything.
+
+In my Philosophy 101 course, the last page of Chapter 1 states something like this: "the ultimate goal of each human is autonomy."
+
+Which is in the opposition of God and his creation. To that philosophical statement, the Westminster says that our actual ultimate goal is to "glorify God and enjoy him forever." For:
+
+>Psalm 86:9 (CSB) All the nations you have made will come and bow down before you, Lord, and will honor your name.
+
+>Isaiah 60:21 (CSB) All your people will be righteous; they will possess the land forever; they are the branch I planted, the work of my hands, so that I may be glorified.
+
+>Romans 11:36 (CSB) For from him and through him and to him are all things. To him be the glory forever. Amen.
+
+>1 Corinthians 6:20 (CSB) for you were bought at a price. So glorify God with your body.
+
+>1 Corinthians 10:31 (CSB) So, whether you eat or drink, or whatever you do, do everything for the glory of God.
+
+>Revelation 4:11 (CSB) Our Lord and God, you are worthy to receive glory and honor and power, because you have created all things, and by your will they exist and were created.
+
+And
+
+>Psalm 16:5–11 (CSB) LORD, you are my portion and my cup of blessing; you hold my future. The boundary lines have fallen for me in pleasant places; indeed, I have a beautiful inheritance. I will bless the LORD who counsels me— even at night when my thoughts trouble me. I always let the LORD guide me. Because he is at my right hand, I will not be shaken. Therefore my heart is glad and my whole being rejoices; my body also rests securely. For you will not abandon me to Sheol; you will not allow your faithful one to see decay. You reveal the path of life to me; in your presence is abundant joy; at your right hand are eternal pleasures.
+
+>Psalm 144:15 (CSB) Happy are the people with such blessings. Happy are the people whose God is the LORD.
+
+>Isaiah 12:2 (CSB) Indeed, God is my salvation; I will trust him and not be afraid, for the LORD, the LORD himself, is my strength and my song. He has become my salvation.”
+
+>Luke 2:10 (CSB) But the angel said to them, “Don’t be afraid, for look, I proclaim to you good news of great joy that will be for all the people:
+
+>Philippians 4:4 (CSB) Rejoice in the Lord always. I will say it again: Rejoice!
+
+>Revelation 21:3–4 (CSB) Then I heard a loud voice from the throne: Look, God’s dwelling is with humanity, and he will live with them. They will be his peoples, and God himself will be with them and will be their God. He will wipe away every tear from their eyes. Death will be no more; grief, crying, and pain will be no more, because the previous things have passed away.
+
+Our dependance on God is not more succinctly explained then in Romans 9:
+
+>Romans 9:18–21 (CSB) So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden. You will say to me, therefore, **“Why then does he still find fault? For who resists his will?” On the contrary, who are you, a human being, to talk back to God? Will what is formed say to the one who formed it, “Why did you make me like this?” Or has the potter no right over the clay, to make from the same lump one piece of pottery for honor and another for dishonor?**
+
+Our God is personal. He is kind and loving. He is gentle and altogether lovely. And the Creator has sovereign rights over his creation.
+
+And when we are in sin, we think that we wish that God was the divine watchmaker, who created the heavens and the earth, "winds it up" like watch, lets it all go, and departs from his creation. In our rebellion, we want a God who will let us do want we want and leave us alone.
+
+But for the people of God, that can never be. Continue on in Romans 9:
+
+>Romans 9:22–24 (CSB) And what if God, wanting to display his wrath and to make his power known, endured with much patience objects of wrath prepared for destruction? And what if he did this to make known the riches of his glory on objects of mercy that he prepared beforehand for glory—on us, the ones he also called, not only from the Jews but also from the Gentiles?
+
+Christ alone is the Holy One of God. For his life, he has ransomed us and we were purchased with a price. For all of creation, we owe our life, existence, and breath to him. And we have failed to worship him, to obey him, to serve him, and to love him. Not only that we have failed to love others as he has loved us.
+
+But here is the good news:
+
+>Romans 9:25–26 (CSB) As it also says in Hosea, **I will call Not my People, My People, and she who is Unloved, Beloved. And it will be in the place where they were told, you are not my people, there they will be called sons of the living God.**
 
 ### to him is due from angels and men, whatsoever worship, service, or obedience, as creatures they owe unto the Creator, and whatever he is further pleased to require of them
 
-Genesis 15, Gen 1-2 made to worship him because he is due 
+>Psalms 97:9 (CSB) For you, LORD,
+>are the Most High over the whole earth;
+>you are exalted above all the gods.
 
-The wickedness and folly of man is why does God get to be worship and the glory and you would be right if God was a man. But he is not created. He is God. Something about being a son of Adam that either try to degrade or humble God to the status of man Isa 53 or raise man to the status of God. In other words we suppress the truth of God so that we can make him like us so we can turn judge him and criticize him and dismiss him when he doesn’t give us what we want. 
+In all of the accounts of the kings of Israel and Judah, there is not a better, clearer, more explicit example of the saving power and full-out love of the Almighty God than in the account of King Manasseh.
 
-The 1689 summarizes and teaches from the Bible that God is high and exalted far above all other gods
+If you read just the 2 Kings account, you will read of wicked and depraved king and the author of 2 Kings describes his reign as:
 
-Nebuchadnezzar Found out the hard way. Daniel 4
+>2 Kings 21:16 (CSB) Manasseh also shed so much innocent blood that he filled Jerusalem with it from one end to another. This was in addition to his sin that he caused Judah to commit, so that they did what was evil in the LORD’s sight.
 
-2 Chronicles - King Manasseh vs 2 Kings account 
+But continue reading, and when you get to 2 Chronicles, you have a few more gory details:
 
-He is not a powerful being that toys with the affairs of mankind. Capricious and whimsical and diabolical and manipulative. He is God alone who has all power and might and sovereignty and grace and love and mercy. Fullest thereof. Not split. 
+>2 Chronicles 33:6 (CSB) He passed his sons through the fire in Ben Hinnom Valley. He practiced witchcraft, divination, and sorcery, and consulted mediums and spiritists. He did a huge amount of evil in the LORD’s sight, angering him.
+
+This king was so wicked, that he sacrificed not one but two of his sons to a demon.
+
+Yet, what does God declare? "Is my saving arm too short?" Is there no one that God cannot save?
+
+>2 Chronicles 33:10-11 (CSB) The LORD spoke to Manasseh and his people, but they didn’t listen. So he brought against them the military commanders of the king of Assyria. They captured Manasseh with hooks, bound him with bronze shackles, and took him to Babylon.
+
+This might seem extreme. Why would God go to such lengths to break someone? Because this passage, right here, is the precise and most accurately description of the unbeliever. Without God, we are prisoners of war. We are imprisoned by our wickedness, Satan, demons, and the world.
+
+God could have easily raised up King Manasseh as a vessel of wrath like he did with Pharaoh during the days of Moses. He could have left Manasseh to rot in prison, die, and be under the vengeful wrath and fury of Christ for all time. And there is not a person on this earth who would think that was wrong. Manasseh was wicked. Evil. Grotesque. Abomination in the sight of God and man.
+
+>Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
+
+And I am just as wicked as Manasseh. In my first marriage, my first wife went to get an abortion because she could not stand the thought of having another child with me. To confirm her disgust of my presence, what do I do in response? Exactly like my original father, Adam, I stood by and did nothing. Continued in my porn addiction, slothfulness and laziness and apathy.
+
+But what happens when God appears?
+
+>2 Chronicles 33:12-13 When he was in distress, he sought the favor of the LORD his God and earnestly humbled himself before the God of his ancestors. He prayed to him, and the LORD was receptive to his prayer. He granted his request and brought him back to Jerusalem, to his kingdom. So Manasseh came to know that the LORD is God.
+
+God granted Manasseh his heart and his Spirit:
+
+>Ezekiel 36:25–28 (CSB) I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols. I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances. You will live in the land that I gave your ancestors; you will be my people, and I will be your God.
+
+And then and only then, could Manasseh repent and obey the Lord our God.
+
+I always assumed for most of my life that I was saved simply because I said a prayer to rescue me from hell. But an unrepentant lifetime of working in and producing pornography is sufficient evidence if I had died at any point prior to the age of 32, I would rightfully be in the bowels of hell under the continuous vengeful wrath and fury of Christ for all time in punishment for my wickedness.
+
+But on a rainy Monday in April of 2007, this is exactly what happened:
+
+>Titus 3:4–7 (CSB) But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
+
+Nothing I have done or was or ever could be should have warranted God to even look my way. But not only see me, but to take pity on me, reached out to my rotting corpse of life, and grant me life? That is a grace that I cannot fathom. Make it make sense to me! The Almighty God, who created the heavens, earth, and hell, who is without equal. Who alone has honor and praise and power and might. Who along is holy, blameless, sinless, perfection, righteous, and just. Whose steadfast love never ceases and his mercies never come to and end. Who is abounding in grace...
+
+... for me, the chief of sinners. The vilest of who walks among us.
+
+He saved me.
+
+In his holiness and loveliness, he saved me.
+
+Therefore, I will forever praise his holy name. Amen.
 
 ## The Resources
 
