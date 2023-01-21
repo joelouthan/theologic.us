@@ -77,7 +77,7 @@ params:
             - name: Sermons
               url: /categories/sermons/
             - name: "1689"
-              url: /series/1689-baptist-confession-of-faith/
+              url: /tags/1689/
             - name: "Home Devotions: Mark"
               url: /series/home-devotions-mark/
             - name: "Home Devotions: Matthew"
