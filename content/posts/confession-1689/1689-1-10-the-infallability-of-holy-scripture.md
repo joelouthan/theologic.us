@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 1.10 The Infallibility Holy Scripture"
+title: "1689 Baptist Confession of Faith, Chapter 1.10 The Infallibility of Holy Scripture"
 author: Joseph Louthan
 publishDate: 2022-11-16T00:00:00-05:00
 categories:
