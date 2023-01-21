@@ -205,7 +205,7 @@ Can you strive infinitely? I can't. You can't. Jacob couldn't. To span that infi
 
 <p style="clear:both;">
 
-<img src="/images/resources/commentary-romans9-1-23-the-justification-of-God-2nd-piper.jpg" align="left" width="200" style="padding-right: 10px" />The Justification of God: An Exegetical & Theological Study of Romans 9:1-23, 2nd Edition.  
+<img src="/images/resources/commentary-romans9-1-23-the-justification-of-God-2nd-piper.jpg" align="left" width="100" style="padding-right: 10px" />The Justification of God: An Exegetical & Theological Study of Romans 9:1-23, 2nd Edition.  
 by John Piper.  
 Baker  Academic. 1993.  
 [Olive Tree](https://www.goodreads.com/book/show/210215.The_Justification_of_God)
