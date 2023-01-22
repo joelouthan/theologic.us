@@ -1,4 +1,4 @@
-[![](static/images/github-banner-theologicus.jpg)](https://theologic.us/)
+[![](banner.png)](https://theologic.us/)
 
 ### writing using
 
