@@ -263,6 +263,8 @@ Zach & Toni Tincher, kids (Maria, Paul, Jack, Abel twins Ike & Carli)
 
 Andrew & Blythe, baby
 
+Randy & Laquita, son
+
 ---
 
 ## Lexington
