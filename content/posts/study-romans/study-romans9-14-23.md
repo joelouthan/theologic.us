@@ -196,19 +196,55 @@ God is sovereign. Which means that God is free to do what he pleases--and he doe
 
 [^nonsense]: Nonsensical questions like "Can God put a square peg into a round hole?" or "Can God create something he cannot lift?" will not be entertained by me ever. I will mark you as spam and block you.
 
-TODO:
-
 ---
 
 ><sup>20-21</sup> On the contrary, who are you, a human being, to talk back to God? Will what is formed say to the one who formed it, “Why did you make me like this?” Or has the potter no right over the clay, to make from the same lump one piece of pottery for honor and another for dishonor? 
 
 ### New Daily Mercies: God is perfectly Creator
 
+Our desire for autonomy is at war with the One who created us and everything around us.
+
+In Genesis 2, God gave mankind dominion over his creation. In Genesis 3, because we sinned and disobey God, we lost that dominion. 
+
+And as part of the Fall: our now born sin selves--whether it be our physical, mental, emotional, will, or heart--did not get that memo. We still think we have dominion over some part of creation. We see that in marriages and parenting. And the grossest part of it all: we think we have dominion and sovereignty over our lives.
+
+But we were born into sin and keep sinning just like fathers did.
+
+That is why Jesus is the last Adam: he came to perfectly obey God, and with his death and his resurrection, perfectly subdue all of creation. And that includes us.
+
+Now, the rest of creation will submit to him and be made right-standing with him. With mankind, it is not so one direction.
+
 ---
 
 ><sup>22</sup> And what if God, wanting to display his wrath and to make his power known, endured with much patience objects of wrath prepared for destruction? 
 
 ### New Daily Mercies: God is perfectly God
+
+>Matthew 13:36-43 (CSB) Then he left the crowds and went into the house. His disciples approached him and said, “Explain to us the parable of the weeds in the field.”
+>
+>He replied, “The one who sows the good seed is the Son of Man; the field is the world; and the good seed — these are the children of the kingdom. The weeds are the children of the evil one, and the enemy who sowed them is the devil. The harvest is the end of the age, and the harvesters are angels. Therefore, just as the weeds are gathered and burned in the fire, so it will be at the end of the age. The Son of Man will send out his angels, and they will gather from his kingdom all who cause sin and those guilty of lawlessness. They will throw them into the blazing furnace where there will be weeping and gnashing of teeth. Then the righteous will shine like the sun in their Father’s kingdom. Let anyone who has ears listen.
+
+Either you are with him or not with him. There is no middle ground. There is no neutral field. There is no grading on a curve. I think R.C. Sproul said it best, "All paths do lead to God; only the narrow path through the Son gets the protection from his wrath."
+
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+As creation, we are subjected to Christ. All of us.
+
+>Philippians 2:9-11 (CSB) 
+>For this reason God highly exalted him  
+>and gave him the name  
+>that is above every name,  
+>so that at the name of Jesus  
+>every knee will bow —  
+>in heaven and on earth  
+>and under the earth —  
+>and every tongue will confess  
+>that Jesus Christ is Lord,  
+>to the glory of God the Father.
+
+The question remains: do you bow your knee today or do you bow your knee, under the wrath of Christ in hell?
+
+Choose on this day whom you will serve.
 
 ---
 
@@ -220,9 +256,87 @@ TODO:
 
 ### New Daily Mercies: God is perfectly saving
 
+If you have read Romans 9 thus far in light of Romans 1-8 and you still think "it's just about Israel", or "it's about Calvinism prooftext", or "God is a jerk", I don't know what to tell you.
+
+This is the word of God through the lens of Romans 9:
+
+God is Creator.
+
+God is good.
+
+God is holy.
+
+God is just.
+
+God punishes sin.
+
+God is compassionate.
+
+God is merciful.
+
+And there is no one like him.
+
 <div style="page-break-after: always;"></div>
 
 ## Our Response
+
+What do you say and do in light of the Almighty power and sovereignty of God who alone is right and just and holy and does not and cannot tolerate even a drop of sin?
+
+Proclaim this with David in Psalm 103 and magnify our great God!
+
+>Psalm 103:1–14 (CSB)  
+><sup>1</sup> My soul, bless the LORD, and all that is within me, bless his holy name. 
+
+><sup>2</sup> My soul, bless the LORD, and do not forget all his benefits. 
+
+><sup>3</sup> He forgives all your iniquity; he heals all your diseases. 
+
+><sup>4</sup> He redeems your life from the Pit; he crowns you with faithful love and compassion. 
+
+><sup>5</sup> He satisfies you with good things; your youth is renewed like the eagle. 
+
+><sup>6</sup> The LORD executes acts of righteousness and justice for all the oppressed. 
+
+><sup>7</sup> He revealed his ways to Moses, his deeds to the people of Israel. 
+
+><sup>8</sup> The LORD is compassionate and gracious, slow to anger and abounding in faithful love. 
+
+><sup>9</sup> He will not always accuse us or be angry forever. 
+
+><sup>10</sup> He has not dealt with us as our sins deserve or repaid us according to our iniquities. 
+
+><sup>11</sup> For as high as the heavens are above the earth, so great is his faithful love toward those who fear him. 
+
+><sup>12</sup> As far as the east is from the west, so far has he removed our transgressions from us. 
+
+><sup>13</sup> As a father has compassion on his children, so the LORD has compassion on those who fear him. 
+
+><sup>14</sup> For he knows what we are made of, remembering that we are dust.
+
+God does not deal with us as our sins deserve.
+
+God does not repay us according to our iniquities.
+
+But he is not an apathetic deity who has chosen to look the other way. No!
+
+For his children, for his people, for those whom he bought with the price of the death of his Son:
+
+His love towards us is as high as the heavens are from the earth. (Please give me a rough estimate of the distance between heaven and earth. I will take miles, kilometers, or lightyears. The answer is below.) [^warp]
+
+[^warp]: The answer is infinite.
+
+And because he loves us so much, he took our sins and iniquities and removed them as far as the east is from the west. (Again, miles, kilometers, or lightyears. And again, the answer is below.) [^warp2]
+
+[^warp2]: The answer is still infinite.
+
+Our Father God loves us and gives us all the compassion because he saved us.
+
+He saved us because he knows we are made from dust--we are just mere mortals.
+
+We know this because we have His Son, Jesus Christ, dwelling in our hearts forever.
+
+Amen
+
 
 ## The Resources
 
