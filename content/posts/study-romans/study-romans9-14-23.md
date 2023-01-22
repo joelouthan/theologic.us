@@ -152,9 +152,13 @@ We can do this all day.
 
 ### New Daily Mercies: God is perfectly holy
 
+---
+
 ><sup>19</sup> You will say to me, therefore, “Why then does he still find fault? For who resists his will?” 
 
 ### New Daily Mercies: God is perfectly sovereign
+
+---
 
 ><sup>20-21</sup> On the contrary, who are you, a human being, to talk back to God? Will what is formed say to the one who formed it, “Why did you make me like this?” Or has the potter no right over the clay, to make from the same lump one piece of pottery for honor and another for dishonor? 
 
@@ -166,7 +170,7 @@ We can do this all day.
 
 ### New Daily Mercies: God is perfectly God
 
-
+---
 
 <div style="page-break-after: always;"></div>
 
