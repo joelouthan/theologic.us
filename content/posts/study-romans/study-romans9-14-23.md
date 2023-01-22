@@ -152,11 +152,51 @@ We can do this all day.
 
 ### New Daily Mercies: God is perfectly holy
 
+>>“That attribution of greatness and goodness to God can be summed up as “He is holy,” because holiness incorporates both greatness and goodness.” [^sproul-truths-holy-goodness]
+
+[^sproul-truths-holy-goodness]: R.C. Sproul. Truths We Confess. 46.
+
+Could this Pharaoh been saved by God? There is no doubt. The Bible needs not go into every sinful detail of Pharaoh's heart. But his actions: let us never forget that Pharaoh's father declared war on God's people. That Pharaoh, with his massive army, and chariots, and horses, and machines of war did not attack the able-bodied men of Israel nor even the women.
+
+But he attempted to slaughter every Jewish baby boy.
+
+And that Pharaoh raised up this Pharaoh to think of himself to be a god.
+
+And God sent Moses and Aaron to preach the gospel, "Pharaoh, you are not god. I Am is God alone. So let his people go!"
+
+God sent 9 terrible plagues. And the Pharaoh hardened his heart over and over again.
+
+On the 10th plague, the Bible never said Pharaoh soften his heart towards God. No! The Pharaoh was never repented over himself being a god. Pharaoh was sad that his narcissism and folly bore consequences--the death of his oldest son. Paul called that "worldly sorrow." That's not salvation. We know that. God always knew that. Pharaoh could have repented, let the Israelites go, and surely God would have blessed the Egyptians. It did not have to end like this. But it did.
+
+God is holy. Make war against a holy God, this is what you should expect to happen--God will stop at nothing to make all things right with him.
+
+Our world makes war against him. From Genesis 3 onward. Every day with with every action and every thought, we puny, feeble, weak, depraved little humans make war against God.
+
+What does God do? Wipes off the face of the earth? That day is coming. 
+
+But he sends his Son to proclaim to all of mankind, "you are not gods, I am God. Put your sins upon me, and you shall be free indeed."
+
+Don't reject the gospel. Take the free gift. He is holy. Take the free gift.
+
 ---
 
 ><sup>19</sup> You will say to me, therefore, “Why then does he still find fault? For who resists his will?” 
 
 ### New Daily Mercies: God is perfectly sovereign
+
+We might wage war against God but it is not dualistic. Dualism suggest that there are two nearly equal powers struggling against one another. It's like Jesus and Satan arm wrestling over the souls of man:
+
+![](/images/jesus-devil-arm-wresting.jpg#center)
+ 
+We know that is ridiculous. Yet, without the preaching of the good news to ourselves, we will default and try to war with and manipulate the will of God. Open Theism suggests that God doesn't know the future and we can bend his will towards our whims. If you think there is no church on earth who does that, think again. It is what Galatians (and the Bible) preaches against: upper tier, upper class Christianity. If you believe hard enough, do enough good works, give a lot of money, or read your Bible enough, or pray enough--the end goal of getting humans to do more stuff is so that God will do what we want him to do.
+
+Romans 4 absolutely declares we do not put God in our debt.
+
+God is sovereign. Which means that God is free to do what he pleases--and he does. But it means that God is Almighty--which means if God wants to do it, he can absolutely do it. [^nonsense]
+
+[^nonsense]: Nonsensical questions like "Can God put a square peg into a round hole?" or "Can God create something he cannot lift?" will not be entertained by me ever. I will mark you as spam and block you.
+
+TODO:
 
 ---
 
