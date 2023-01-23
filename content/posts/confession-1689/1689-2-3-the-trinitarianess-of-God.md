@@ -10,7 +10,7 @@ series:
   - "1689.2 Of the Triune God"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
