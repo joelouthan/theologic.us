@@ -294,13 +294,13 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 
 ---
 
-### 2.3 The Trinitarianess of GOD
+### 2.3 The Triune God
 
 ```text
 In this divine and infinite Being there are three subsistences, the Father, the Word or Son, and Holy Spirit, of one substance, power, and eternity, each having the whole divine essence, yet the essence undivided: the Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Spirit proceeding from the Father and the Son; all infinite, without beginning, therefore but one God, who is not to be divided in nature and being, but distinguished by several peculiar relative properties and personal relations; which doctrine of the Trinity is the foundation of all our communion with God, and comfortable dependence on him.
 ```
 
->1 John 5:7 (CSB) For there are three that testify:
+>1 John 5:7–10 (CSB) For there are three that testify: the Spirit, the water, and the blood—and these three are in agreement. If we accept human testimony, God’s testimony is greater, because it is God’s testimony that he has given about his Son. The one who believes in the Son of God has this testimony within himself. The one who does not believe God has made him a liar, because he has not believed in the testimony God has given about his Son.
 
 >Matthew 28:19 (CSB) Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 
