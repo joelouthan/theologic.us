@@ -111,7 +111,9 @@ Dianna & her family
 
 Chelsea & Mark, Callie
 
-Tim & wife
+Tim & Tracy
+
+- pray for Mirium's faith
 
 Theresa & hubs
 
