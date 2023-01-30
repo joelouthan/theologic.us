@@ -14,7 +14,20 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 13 (CSB)  
+><sup></sup> For the choir director. A psalm of David. 
 
+><sup>1</sup> How long, LORD? Will you forget me forever? How long will you hide your face from me? 
+
+><sup>2</sup> How long will I store up anxious concerns within me, agony in my mind every day? How long will my enemy dominate me? 
+
+><sup>3</sup> Consider me and answer, LORD my God. Restore brightness to my eyes; otherwise, I will sleep in death. 
+
+><sup>4</sup> My enemy will say, “I have triumphed over him,” and my foes will rejoice because I am shaken. 
+
+><sup>5</sup> But I have trusted in your faithful love; my heart will rejoice in your deliverance. 
+
+><sup>6</sup> I will sing to the LORD because he has treated me generously.
 
 ## The Prayer
 

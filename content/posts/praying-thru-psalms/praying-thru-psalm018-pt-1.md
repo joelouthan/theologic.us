@@ -14,7 +14,36 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 18:1–15 (CSB)  
+><sup>1</sup> I love you, LORD, my strength. 
 
+><sup>2</sup> The LORD is my rock, my fortress, and my deliverer, my God, my rock where I seek refuge, my shield and the horn of my salvation, my stronghold. 
+
+><sup>3</sup> I called to the LORD, who is worthy of praise, and I was saved from my enemies. 
+
+><sup>4</sup> The ropes of death were wrapped around me; the torrents of destruction terrified me. 
+
+><sup>5</sup> The ropes of Sheol entangled me; the snares of death confronted me. 
+
+><sup>6</sup> I called to the LORD in my distress, and I cried to my God for help. From his temple he heard my voice, and my cry to him reached his ears. 
+
+><sup>7</sup> Then the earth shook and quaked; the foundations of the mountains trembled; they shook because he burned with anger. 
+
+><sup>8</sup> Smoke rose from his nostrils, and consuming fire came from his mouth; coals were set ablaze by it. 
+
+><sup>9</sup> He bent the heavens and came down, total darkness beneath his feet. 
+
+><sup>10</sup> He rode on a cherub and flew, soaring on the wings of the wind. 
+
+><sup>11</sup> He made darkness his hiding place, dark storm clouds his canopy around him. 
+
+><sup>12</sup> From the radiance of his presence, his clouds swept onward with hail and blazing coals. 
+
+><sup>13</sup> The LORD thundered from heaven; the Most High made his voice heard. 
+
+><sup>14</sup> He shot his arrows and scattered them; he hurled lightning bolts and routed them. 
+
+><sup>15</sup> The depths of the sea became visible, the foundations of the world were exposed, at your rebuke, LORD, at the blast of the breath of your nostrils.
 
 ## The Prayer
 

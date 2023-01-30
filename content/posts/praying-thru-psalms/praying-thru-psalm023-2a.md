@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 23:2a He makes me lie down in green pastures'
+title: 'Praying Through: Psalm 23:2a He Lets Me Lie Down in Green Pastures'
 author: Joseph Louthan
 date: 2018-06-12T12:00:25+00:00
 categories:
@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 23:2a (CSB) He lets me lie down in green pastures
 
 ## The Prayer
 

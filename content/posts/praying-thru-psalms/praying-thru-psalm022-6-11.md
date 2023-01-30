@@ -14,7 +14,18 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 22:6–11 (CSB)  
+><sup>6</sup> But I am a worm and not a man, scorned by mankind and despised by people. 
 
+><sup>7</sup> Everyone who sees me mocks me; they sneer and shake their heads: 
+
+><sup>8</sup> “He relies on the LORD; let him save him; let the LORD rescue him, since he takes pleasure in him.” 
+
+><sup>9</sup> It was you who brought me out of the womb, making me secure at my mother’s breast. 
+
+><sup>10</sup> I was given over to you at birth; you have been my God from my mother’s womb. 
+
+><sup>11</sup> Don’t be far from me, because distress is near and there’s no one to help.
 
 ## The Prayer
 

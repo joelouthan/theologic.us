@@ -14,7 +14,22 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 14 (CSB)  
+><sup></sup> For the choir director. Of David. 
 
+><sup>1</sup> The fool says in his heart, “There’s no God.” They are corrupt; they do vile deeds. There is no one who does good. 
+
+><sup>2</sup> The LORD looks down from heaven on the human race to see if there is one who is wise, one who seeks God. 
+
+><sup>3</sup> All have turned away; all alike have become corrupt. There is no one who does good, not even one. 
+
+><sup>4</sup> Will evildoers never understand? They consume my people as they consume bread; they do not call on the LORD. 
+
+><sup>5</sup> Then they will be filled with dread, for God is with those who are righteous. 
+
+><sup>6</sup> You sinners frustrate the plans of the oppressed, but the LORD is his refuge. 
+
+><sup>7</sup> Oh, that Israel’s deliverance would come from Zion! When the LORD restores the fortunes of his people, let Jacob rejoice, let Israel be glad.
 
 ## The Prayer
 

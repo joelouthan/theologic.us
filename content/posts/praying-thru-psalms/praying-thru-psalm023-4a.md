@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 23:4a Through the Valley of the Shadow of Death'
+title: 'Praying Through: Psalm 23:4a Even When I Go Through The Darkest Valley'
 author: Joseph Louthan
 date: 2018-07-10T12:00:41+00:00
 categories:
@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 23:4a (CSB) Even when I go through the darkest valley
 
 ## The Prayer
 

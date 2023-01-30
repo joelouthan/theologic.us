@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 23:3b He leads me in paths of righteousness for his name’s sake'
+title: 'Praying Through: Psalm 23:3b He Leads Me Along The Right Paths For His Name’s Sake'
 author: Joseph Louthan
 date: 2018-07-03T12:00:41+00:00
 categories:
@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 23:3b (CSB) he leads me along the right paths for his name’s sake.
 
 ## The Prayer
 

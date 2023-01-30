@@ -10,6 +10,13 @@ tags:
 series:
   - 'Praying Through: Psalms'
 ---
+
+## The Psalms
+
+>Psalm 23:4c (CSB) for you are with me
+
+## The Prayer
+
 <div style='font-variant: small-caps;'>
 My Lord and my God,
 </div>

@@ -14,7 +14,24 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 12 (CSB)  
+><sup></sup> For the choir director: according to Sheminith. A psalm of David. 
 
+><sup>1</sup> Help, LORD, for no faithful one remains; the loyal have disappeared from the human race. 
+
+><sup>2</sup> They lie to one another; they speak with flattering lips and deceptive hearts. 
+
+><sup>3</sup> May the LORD cut off all flattering lips and the tongue that speaks boastfully. 
+
+><sup>4</sup> They say, “Through our tongues we have power; our lips are our own—who can be our master?” 
+
+><sup>5</sup> “Because of the devastation of the needy and the groaning of the poor, I will now rise up,” says the LORD. “I will provide safety for the one who longs for it.” 
+
+><sup>6</sup> The words of the LORD are pure words, like silver refined in an earthen furnace, purified seven times. 
+
+><sup>7</sup> You, LORD, will guard us; you will protect us from this generation forever. 
+
+><sup>8</sup> The wicked prowl all around, and what is worthless is exalted by the human race.
 
 ## The Prayer
 

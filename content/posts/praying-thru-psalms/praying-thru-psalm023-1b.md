@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 23:1b I Shall Not Want'
+title: 'Praying Through: Psalm 23:1b (CSB) I Have What I Need'
 author: Joseph Louthan
 type: post
 date: 2018-06-05T12:00:11+00:00
@@ -15,7 +15,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 23:1b (CSB) I have what I need.
 
 ## The Prayer
 

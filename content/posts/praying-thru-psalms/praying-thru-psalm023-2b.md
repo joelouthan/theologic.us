@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 23:2b He Leads Me Beside Still Waters'
+title: 'Praying Through: Psalm 23:2b He Leads Me Beside Quiet Waters'
 author: Joseph Louthan
 date: 2018-06-19T12:00:40+00:00
 categories:
@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 23:2b (CSB) he leads me beside quiet waters.
 
 ## The Prayer
 

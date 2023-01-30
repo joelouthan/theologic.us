@@ -1,5 +1,5 @@
 ---
-title: 'Praying Through: Psalm 23:3a He Restores My Soul'
+title: 'Praying Through: Psalm 23:3a He Renews My Life'
 author: Joseph Louthan
 date: 2018-06-26T12:00:47+00:00
 categories:
@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 23:3 (CSB) He renews my life
 
 ## The Prayer
 

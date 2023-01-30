@@ -12,6 +12,30 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 20 (CSB)  
+><sup></sup> For the choir director. A psalm of David. 
+
+><sup>1</sup> May the LORD answer you in a day of trouble; may the name of Jacob’s God protect you. 
+
+><sup>2</sup> May he send you help from the sanctuary and sustain you from Zion. 
+
+><sup>3</sup> May he remember all your offerings and accept your burnt offering. Selah 
+
+><sup>4</sup> May he give you what your heart desires and fulfill your whole purpose. 
+
+><sup>5</sup> Let us shout for joy at your victory and lift the banner in the name of our God. May the LORD fulfill all your requests. 
+
+><sup>6</sup> Now I know that the LORD gives victory to his anointed; he will answer him from his holy heaven with mighty victories from his right hand. 
+
+><sup>7</sup> Some take pride in chariots, and others in horses, but we take pride in the name of the LORD our God. 
+
+><sup>8</sup> They collapse and fall, but we rise and stand firm. 
+
+><sup>9</sup> LORD, give victory to the king! May he answer us on the day that we call.
+
+## The Prayer
 
 ```text
 If I cry out for you, will you answer me?

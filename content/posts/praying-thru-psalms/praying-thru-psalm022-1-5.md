@@ -14,7 +14,16 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 22:1–5 (CSB)  
+><sup>1</sup> My God, my God, why have you abandoned me? Why are you so far from my deliverance and from my words of groaning? 
 
+><sup>2</sup> My God, I cry by day, but you do not answer, by night, yet I have no rest. 
+
+><sup>3</sup> But you are holy, enthroned on the praises of Israel. 
+
+><sup>4</sup> Our ancestors trusted in you; they trusted, and you rescued them. 
+
+><sup>5</sup> They cried to you and were set free; they trusted in you and were not disgraced.
 
 ## The Prayer
 

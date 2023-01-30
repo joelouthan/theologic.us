@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 22:19–21 (CSB)  
+><sup>19</sup> But you, LORD, don’t be far away. My strength, come quickly to help me. 
 
+><sup>20</sup> Rescue my life from the sword, my only life from the power of these dogs. 
+
+><sup>21</sup> Save me from the lion’s mouth, from the horns of wild oxen. You answered me!
 
 ## The Prayer
 

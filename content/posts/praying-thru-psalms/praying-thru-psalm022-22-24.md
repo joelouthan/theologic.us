@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 22:22–24 (CSB)  
+><sup>22</sup> I will proclaim your name to my brothers and sisters; I will praise you in the assembly. 
 
+><sup>23</sup> You who fear the LORD, praise him! All you descendants of Jacob, honor him! All you descendants of Israel, revere him! 
+
+><sup>24</sup> For he has not despised or abhorred the torment of the oppressed. He did not hide his face from him but listened when he cried to him for help.
 
 ## The Prayer
 

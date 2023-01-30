@@ -12,6 +12,23 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 18:46–50 (CSB)  
+><sup>46</sup> The LORD lives—blessed be my rock! The God of my salvation is exalted. 
+
+><sup>47</sup> God—he grants me vengeance and subdues peoples under me. 
+
+><sup>48</sup> He frees me from my enemies. You exalt me above my adversaries; you rescue me from violent men. 
+
+><sup>49</sup> Therefore I will give thanks to you among the nations, LORD; I will sing praises about your name. 
+
+><sup>50</sup> He gives great victories to his king; he shows loyalty to his anointed, to David and his descendants forever.
+
+## The Prayer
+
+
+```text
 I was once so far from you. I was once lost. I was once your sworn enemy. Instead of casting me out, you sought me out. Instead of leaving me lost, you found me.
 Instead of leaving me to die, you found me and gave me life. Instead being at war with me, you call me friend.
 

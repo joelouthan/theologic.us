@@ -14,6 +14,23 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 11 (CSB)  
+><sup></sup> For the choir director. Of David. 
+
+><sup>1</sup> I have taken refuge in the LORD. How can you say to me, “Escape to the mountains like a bird! 
+
+><sup>2</sup> For look, the wicked string bows; they put their arrows on bowstrings to shoot from the shadows at the upright in heart. 
+
+><sup>3</sup> When the foundations are destroyed, what can the righteous do?” 
+
+><sup>4</sup> The LORD is in his holy temple; the LORD—his throne is in heaven. His eyes watch; his gaze examines everyone. 
+
+><sup>5</sup> The LORD examines the righteous, but he hates the wicked and those who love violence. 
+
+><sup>6</sup> Let him rain burning coals and sulfur on the wicked; let a scorching wind be the portion in their cup. 
+
+><sup>7</sup> For the LORD is righteous; he loves righteous deeds. The upright will see his face.
+
 
 
 ## The Prayer

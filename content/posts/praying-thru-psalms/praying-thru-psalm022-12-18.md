@@ -14,7 +14,20 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 22:12–18 (CSB)  
+><sup>12</sup> Many bulls surround me; strong ones of Bashan encircle me. 
 
+><sup>13</sup> They open their mouths against me— lions, mauling and roaring. 
+
+><sup>14</sup> I am poured out like water, and all my bones are disjointed; my heart is like wax, melting within me. 
+
+><sup>15</sup> My strength is dried up like baked clay; my tongue sticks to the roof of my mouth. You put me into the dust of death. 
+
+><sup>16</sup> For dogs have surrounded me; a gang of evildoers has closed in on me; they pierced my hands and my feet. 
+
+><sup>17</sup> I can count all my bones; people look and stare at me. 
+
+><sup>18</sup> They divided my garments among themselves, and they cast lots for my clothing.
 
 ## The Prayer
 

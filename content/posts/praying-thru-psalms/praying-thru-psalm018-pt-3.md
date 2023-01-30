@@ -12,6 +12,17 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 18:28–30 (CSB)  
+><sup>28</sup> LORD, you light my lamp; my God illuminates my darkness. 
+
+><sup>29</sup> With you I can attack a barricade, and with my God I can leap over a wall. 
+
+><sup>30</sup> God—his way is perfect; the word of the LORD is pure. He is a shield to all who take refuge in him.
+
+## The Prayer
+
 ```text
 You are my Way,
 

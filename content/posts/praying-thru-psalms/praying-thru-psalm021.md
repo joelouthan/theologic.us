@@ -12,6 +12,39 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+## The Psalms
+
+>Psalm 21 (CSB)  
+><sup></sup> For the choir director. A psalm of David. 
+
+><sup>1</sup> LORD, the king finds joy in your strength. How greatly he rejoices in your victory! 
+
+><sup>2</sup> You have given him his heart’s desire and have not denied the request of his lips. Selah 
+
+><sup>3</sup> For you meet him with rich blessings; you place a crown of pure gold on his head. 
+
+><sup>4</sup> He asked you for life, and you gave it to him— length of days forever and ever. 
+
+><sup>5</sup> His glory is great through your victory; you confer majesty and splendor on him. 
+
+><sup>6</sup> You give him blessings forever; you cheer him with joy in your presence. 
+
+><sup>7</sup> For the king relies on the LORD; through the faithful love of the Most High he is not shaken. 
+
+><sup>8</sup> Your hand will capture all your enemies; your right hand will seize those who hate you. 
+
+><sup>9</sup> You will make them burn like a fiery furnace when you appear; the LORD will engulf them in his wrath, and fire will devour them. 
+
+><sup>10</sup> You will wipe their progeny from the earth and their offspring from the human race. 
+
+><sup>11</sup> Though they intend to harm you and devise a wicked plan, they will not prevail. 
+
+><sup>12</sup> Instead, you will put them to flight when you ready your bowstrings to shoot at them. 
+
+><sup>13</sup> Be exalted, LORD, in your strength; we will sing and praise your might.
+
+## The Prayer
+
 ```text
 My Lord and My God,
 

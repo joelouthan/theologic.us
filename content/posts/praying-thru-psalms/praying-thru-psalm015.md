@@ -14,7 +14,18 @@ draft: false
 ---
 ## The Psalms
 
+>Psalm 15 (CSB)  
+><sup></sup> A psalm of David. 
 
+><sup>1</sup> LORD, who can dwell in your tent? Who can live on your holy mountain? 
+
+><sup>2</sup> The one who lives blamelessly, practices righteousness, and acknowledges the truth in his heart— 
+
+><sup>3</sup> who does not slander with his tongue, who does not harm his friend or discredit his neighbor, 
+
+><sup>4</sup> who despises the one rejected by the LORD but honors those who fear the LORD, who keeps his word whatever the cost, 
+
+><sup>5</sup> who does not lend his silver at interest or take a bribe against the innocent— the one who does these things will never be shaken.
 
 ## The Prayer
 
