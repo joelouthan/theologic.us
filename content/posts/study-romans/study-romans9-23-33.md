@@ -11,7 +11,7 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 **>Lamentations 3:22–23 (CSB) Because of the LORD’s faithful love we do not perish, for his mercies never end. They are new every morning; great is your faithfulness!**
