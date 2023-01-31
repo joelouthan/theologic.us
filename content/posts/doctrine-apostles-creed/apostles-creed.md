@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: The Apostles' Creed"
 author: Joseph Louthan
-publishDate: 2023-02-03T00:00:00-05:00
+publishDate: 2023-01-31T00:00:00-05:00
 categories:
   - Creeds
 tags:
