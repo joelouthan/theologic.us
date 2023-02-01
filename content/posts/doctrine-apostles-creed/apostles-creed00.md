@@ -13,6 +13,14 @@ css: "prayers"
 draft: true
 ---
 
+Wind of doctrine
+
+Swaying of the elect
+
+Twisting of scripture
+- Pharisees
+- Satan
+
 ## The Creed
 
 ```text
