@@ -31,13 +31,51 @@ In this divine and infinite Being there are three subsistences, the Father, the 
 
 >1 John 5:7–10 (CSB) For there are three that testify: the Spirit, the water, and the blood—and these three are in agreement. If we accept human testimony, God’s testimony is greater, because it is God’s testimony that he has given about his Son. The one who believes in the Son of God has this testimony within himself. The one who does not believe God has made him a liar, because he has not believed in the testimony God has given about his Son.
 
+I am in full appreciation of theologians in the past, that have crafted and wrote the *Westminster Confession of Faith* and the *Savoy Declaration*. The Baptists, with the 1st and 2nd London Confessions, only added a few clarifying words here and there but in every sense, blatantly plagiarize the WCF/Savoy. "If it aint broke, don't fix it" is an apropos saying from my childhood.
+
+But another way to state this: the early church theologians have already done the heavy lifting in fine tuning and carefully crafting the right words in order to protect believers from heresy.
+
+Here, a word that is not used often, subsistences. (This word is so less know that my writing application, Microsoft Visual Studio Code, is marking it as misspelled.) But even using words like *persons* or *persona* might pull a believer into tritheism or even monotheism.
+
+The definition for *subsistence* is real being. God, not a figment of anyone's imagination, not a mode, not a mask, not a god with three different names who switches out these names, masks, personalities when the time is right. God is three real beings.
+
 ### the Father, the Word or Son, and Holy Spirit
 
 >Matthew 28:19 (CSB) Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 
+And it was when Jesus Christ began his ministry on the earth that he massively unveils one of the greatest mysteries of the Old Testament, second only to how will God finally rescue his people. The answer to greatest mystery of the gospel of God in the OT is the Lord Jesus Christ. And with the revealing of the Lord Jesus Christ and the proclamation from his mouth, he reveals that God is three subsistences or three hypostases or three real beings: God the Father, God the Holy Spirit and himself, the Word, that is, God the Son.
+
+Now think of the preaching ministry of Christ. God with us, taking on flesh, fully God and fully man makes the declaration to believers and non-believers alike:
+
+>John 10:29-30 (CSB) My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand. I and the Father are one.”
+
+>John 8:58 (CSB) Jesus said to them, “Truly I tell you, before Abraham was, I am.”
+
+How do you think that the most religious of the day responded? Took it all in? Pondered the points? Consider the memorized Scriptures?
+
+No! They responded in violence!
+
+>John 10:33 (CSB) “We aren’t stoning you for a good work,” the Jews answered, “but for blasphemy, because you — being a man — make yourself God.”
+
+>John 8:59 (CSB) So they picked up stones to throw at him. But Jesus was hidden and went out of the temple.
+
+Christ himself God and equal with the Father because why? Christ is God. In the same way, I am Joseph Louthan. I could state all the things that are used to identify myself according the world and to history and to philosophy: male, tall, son of Joseph and Sue, Technical Project Manager, writer, wife of Sarah, father of three kids, heterosexual.
+
+But the only identity that actually matters is: am I in Christ or not in Christ. The fact is I am an adopted child of the living God. That is an absolute fact.
+
+Christ stating his actual existence, his subsistence, his real being--that is an absolute fact.
+
+So many people don't want to know or can't stand knowing. Don't be ignorant of the facts: we are saved by sovereign grace of the Father by the power of the Almighty Spirit through the life, death, and resurrection of Jesus Christ, the Son of God who is God.
+
 ### of one substance, power, and eternity
 
 >2 Corinthians 13:13 (CSB) The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.
+
+However and whatever means you use to preach and teach the doctrine of the Trinity, you must not forget the attributes of God [^1689.2.1]
+
+[^1689.2.1]: see [1689 Baptist Confession of Faith, Chapter 2.1 The Attributes of God](/posts/confession-1689/1689-2-1-the-attributes-of-god/)
+
+TODO:
 
 ### each having the whole divine essence, yet the essence undivided
 
