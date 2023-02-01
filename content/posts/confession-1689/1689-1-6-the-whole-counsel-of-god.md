@@ -8,6 +8,7 @@ tags:
   - "1689"
 series:
   - "1689.1 Of the Holy Scriptures"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
