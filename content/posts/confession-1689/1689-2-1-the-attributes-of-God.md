@@ -266,7 +266,7 @@ Can we fully know God? No. But can we *truly* know him? Absolutely. How do I kno
 
 ### almighty
 
->When Abram was ninety-nine years old, the LORD appeared to him, saying, “I am God Almighty. Live in my presence and be blameless.
+>Genesis 17:1 (CSB) When Abram was ninety-nine years old, the LORD appeared to him, saying, “I am God Almighty. Live in my presence and be blameless.
 
 >Revelation 4:8 (CSB) Each of the four living creatures had six wings; they were covered with eyes around and inside. Day and night they never stop, saying,  
 >Holy, holy, holy,  
