@@ -75,17 +75,58 @@ However and whatever means you use to preach and teach the doctrine of the Trini
 
 [^1689.2.1]: see [1689 Baptist Confession of Faith, Chapter 2.1 The Attributes of God](/posts/confession-1689/1689-2-1-the-attributes-of-god/)
 
-TODO:
+We know that God is eternal:
+
+>Psalm 90:2 (CSB) Before the mountains were born, before you gave birth to the earth and the world, from eternity to eternity, you are God.
+
+>Revelation 22:12-13 (CSB) “Look, I am coming soon, and my reward is with me to repay each person according to his work. I am the Alpha and the Omega, the first and the last, the beginning and the end.
+
+And we know he is almighty:
+
+>Genesis 17:1 (CSB) When Abram was ninety-nine years old, the LORD appeared to him, saying, “I am God Almighty. Live in my presence and be blameless.
+
+>Revelation 4:8 (CSB) Each of the four living creatures had six wings; they were covered with eyes around and inside. Day and night they never stop, saying,  
+>Holy, holy, holy,  
+>Lord God, the Almighty,  
+>who was, who is, and who is to come.
+
+What about one substance?
+
+>Deuteronomy 6:4 (CSB) “Listen, Israel: The LORD our God, the LORD is one.
+
+>John 10:29-30 (CSB) My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
 ### each having the whole divine essence, yet the essence undivided
 
 >Exodus 3:14 (CSB) God replied to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: I AM has sent me to you.”
+
+The Father, the Son, and the Spirit are three distinct subsistences yet are of one substance.
+
+The Nicene Creed states it as this:
+
+>>true God from true God
+
+>John 1:1 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God.
+
+>Colossians 1:15 (CSB) He is the image of the invisible God, the firstborn over all creation.
+
+>John 1:14 (CSB) The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
+
+Christ is eternally begotten from the Father. That means there was never a time when he was not begotten. He has always been with the Father, living in distinct perfect community.
+
+Every Lord's Day, in my church, [Reforming Truth Church (Lexington, KY)](https://reformingtruth.church) will conclude our Communion with this utterly Triune declaration:
+
+>>Glory to the Father, and to the Son, and to the Holy Spirit, As it was in the beginning, is now, and ever shall be world without end. Amen.
+
+After singing praises, the hearing of God's law, the Confession of our Sins, the Assurance of Pardon, the Catechism, the Prayers, with the preaching of the Gospel and to take the wine and the bread--our little church boldly and loudly declares this fact: that God is Triune and He is Glorious and He is Eternal! Amen!
 
 ### the Father is of none, neither begotten nor proceeding
 
 >John 14:11 (CSB) Believe me that I am in the Father and the Father is in me. Otherwise, believe because of the works themselves.
 
 >1 Corinthians 8:6 (CSB) yet for us there is one God, the Father. All things are from him, and we exist for him. And there is one Lord, Jesus Christ. All things are through him, and we exist through him.
+
+TODO:
 
 ### the Son is eternally begotten of the Father
 
