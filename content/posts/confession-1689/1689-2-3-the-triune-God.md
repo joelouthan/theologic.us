@@ -147,9 +147,34 @@ Christ is eternally begotten from the Father. That means there was never a time 
 
 >John 15:26 (CSB) “When the Counselor comes, the one I will send to you from the Father—the Spirit of truth who proceeds from the Father—he will testify about me.
 
-TODO:
+It is so tempting to give an entire treatise on the Holy Spirit right here and right now. Mostly because of two reasons:
+
+1. **I grew up Charismatic.** There is some baggage for sure but in the grace of God, I grew up the opposite of my Baptist brothers and sisters--namely, the Holy Spirit was not foreign to me but rather, he is my Comforter, my Witness, my Wisdom, my Truth and my Joy. More so than that, he is my God!
+2. **I just finished Holy Spirit--The Helper by John Owen** This was a real complete joy to read this and only solidify my pneumatology and be strengthen in declaring what he does.
+
+But what the Holy Spirit does will be laid out here in the entire exposition.
+
+But I want to call your attention to this one passage in John:
+
+>John 16:7-14 (CSB) Nevertheless, I am telling you the truth. **It is for your benefit that I go away, because if I don’t go away the Counselor will not come to you. If I go, I will send him to you. When he comes, he will convict the world about sin, righteousness, and judgment**: About sin, because they do not believe in me; about righteousness, because I am going to the Father and you will no longer see me; and about judgment, because the ruler of this world has been judged.
+>
+>“I still have many things to tell you, but you can’t bear them now. When the Spirit of truth comes, he will guide you into all the truth. For he will not speak on his own, but he will speak whatever he hears. He will also declare to you what is to come. **He will glorify me, because he will take from what is mine and declare it to you.**
+
+We tried to wrap our heads around the perfect community of the Triune God. Here is a prime example that I have always loved.
+
+**Christ glorifies the Spirit** - I could speculate all the live long day on why Christ said this. But the fact is: Christ is not going to do what the Spirit will be sent to do. Christ has taken on flesh to be fully God and fully man, to live and die so that he will save his people from their sins. The Holy Spirit does not do that. However, what the Spirit does that Christ does not: convict the world about sin, righteousness, and judgment.
+
+Christ, by being man during his ministry, was indeed limited by time and space (and I could give some arguments for and against this). Christ glorifies the Spirit by what the Spirit will do when Christ ascends to the Father.
+
+**The Spirit glorifies the Christ** - "He will glorify me, because he will take from what is mine and declare it to you." How does the Spirit glorifies the Son? By pointing everything, including the word of God, back to the Word of God.
+
+We have not seen glory like this in our lives. We do get a tiny glimpse of the glory of God in Christ Jesus because the Father has revealed the Son to us.[^revealedChrist]
+
+[^revealedChrist]: John 1:18; Titus 3:3-7
 
 ### all infinite, without beginning, therefore but one God
+
+TODO: Tap the breaks on the limitations of Christ.
 
 ### who is not to be divided in nature and being
 
