@@ -174,9 +174,19 @@ We have not seen glory like this in our lives. We do get a tiny glimpse of the g
 
 ### all infinite, without beginning, therefore but one God
 
-TODO: Tap the breaks on the limitations of Christ.
+You might suggest, "Oh since Christ took on flesh, he had made himself limited like us." He was limited like us in certain ways--especially when it comes to the limits of time and space. But this is where the Covenants of Works and Redemption meet. Christ perfectly born of woman and perfectly obeyed and fulfilled the law. Because Christ has done this and then died, he was perfectly glorified by the Father.
+
+Christ was always fully God. He is the Alpha and Omega and the Beginning and End. He is eternally begotten of the Father and the Sender of the Spirit. When Christ was glorified by God, he was no longer limited by time and space and within brokenness of sin but rather he is above sin and death because he has conquered it.
+
+I don't know what our glorification will completely look like except for one thing: it has already been done. Since the Father has glorified the Son, we are already glorified because all of what the Son has done.
+
+>Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+So what can we say about these things? Indeed.
 
 ### who is not to be divided in nature and being
+
+
 
 ### but distinguished by several peculiar relative properties and personal relations
 
