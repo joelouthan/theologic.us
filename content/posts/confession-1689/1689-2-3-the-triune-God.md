@@ -186,7 +186,7 @@ So what can we say about these things? Indeed.
 
 ### who is not to be divided in nature and being
 
-
+TODO:
 
 ### but distinguished by several peculiar relative properties and personal relations
 
