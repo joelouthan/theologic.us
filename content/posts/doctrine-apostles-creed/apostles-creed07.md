@@ -1,9 +1,9 @@
 ---
-title: "Apostles' Creed: "
+title: "What Do We Believe: "
 author: Joseph Louthan
 publishDate: 2023-03-24T00:00:00-05:00
 categories:
-  - Confessions
+  - Creeds
 tags:
   - "Apostles' Creed"
 series:
