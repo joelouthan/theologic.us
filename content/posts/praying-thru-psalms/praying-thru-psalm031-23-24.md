@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:23–24 (CSB)  
+><sup>23</sup> Love the LORD, all his faithful ones. The LORD protects the loyal, but fully repays the arrogant. 
 
+><sup>24</sup> Be strong, and let your heart be courageous, all you who put your hope in the LORD.
 
 ## The Prayer
 

@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:6–8 (CSB)  
+><sup>6</sup> I hate those who are devoted to worthless idols, but I trust in the LORD. 
 
+><sup>7</sup> I will rejoice and be glad in your faithful love because you have seen my affliction. You know the troubles of my soul 
+
+><sup>8</sup> and have not handed me over to the enemy. You have set my feet in a spacious place.
 
 ## The Prayer
 

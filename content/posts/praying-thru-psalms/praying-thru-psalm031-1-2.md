@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:1–2 (CSB)  
+><sup>1</sup> LORD, I seek refuge in you; let me never be disgraced. Save me by your righteousness. 
 
+><sup>2</sup> Listen closely to me; rescue me quickly. Be a rock of refuge for me, a mountain fortress to save me.
 
 ## The Prayer
 

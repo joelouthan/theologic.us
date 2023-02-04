@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:11–13 (CSB)  
+><sup>11</sup> I am ridiculed by all my adversaries and even by my neighbors. I am dreaded by my acquaintances; those who see me in the street run from me. 
 
+><sup>12</sup> I am forgotten: gone from memory like a dead person—like broken pottery. 
+
+><sup>13</sup> I have heard the gossip of many; terror is on every side. When they conspired against me, they plotted to take my life.
 
 ## The Prayer
 

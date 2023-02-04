@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:19–20 (CSB)  
+><sup>19</sup> How great is your goodness, which you have stored up for those who fear you. In the presence of everyone you have acted for those who take refuge in you. 
 
+><sup>20</sup> You hide them in the protection of your presence; you conceal them in a shelter from human schemes, from quarrelsome tongues.
 
 ## The Prayer
 

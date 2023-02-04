@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:3–5 (CSB)  
+><sup>3</sup> For you are my rock and my fortress; you lead and guide me for your name’s sake. 
 
+><sup>4</sup> You will free me from the net that is secretly set for me, for you are my refuge. 
+
+><sup>5</sup> Into your hand I entrust my spirit; you have redeemed me, LORD, God of truth.
 
 ## The Prayer
 

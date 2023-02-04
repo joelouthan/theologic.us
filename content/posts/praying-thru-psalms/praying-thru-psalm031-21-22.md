@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:21–22 (CSB)  
+><sup>21</sup> Blessed be the LORD, for he has wondrously shown his faithful love to me in a city under siege. 
 
+><sup>22</sup> In my alarm I said, “I am cut off from your sight.” But you heard the sound of my pleading when I cried to you for help.
 
 ## The Prayer
 

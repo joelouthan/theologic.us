@@ -14,7 +14,16 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:14–18 (CSB)  
+><sup>14</sup> But I trust in you, LORD; I say, “You are my God.” 
 
+><sup>15</sup> The course of my life is in your power; rescue me from the power of my enemies and from my persecutors. 
+
+><sup>16</sup> Make your face shine on your servant; save me by your faithful love. 
+
+><sup>17</sup> LORD, do not let me be disgraced when I call on you. Let the wicked be disgraced; let them be quiet in Sheol. 
+
+><sup>18</sup> Let lying lips that arrogantly speak against the righteous in proud contempt be silenced.
 
 ## The Prayer
 

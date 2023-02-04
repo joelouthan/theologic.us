@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 31:9–10 (CSB)  
+><sup>9</sup> Be gracious to me, LORD, because I am in distress; my eyes are worn out from frustration— my whole being as well. 
 
+><sup>10</sup> Indeed, my life is consumed with grief and my years with groaning; my strength has failed because of my iniquity, and my bones waste away.
 
 ## The Prayer
 
