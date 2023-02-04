@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 23:6c (CSB) will pursue me
 
 ## The Prayer
 

@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 23:6e (CSB) I will dwell in the house of the LORD as long as I live.
 
 ## The Prayer
 

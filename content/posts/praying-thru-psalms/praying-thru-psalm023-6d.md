@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 23:6d (CSB) all the days of my life
 
 ## The Prayer
 

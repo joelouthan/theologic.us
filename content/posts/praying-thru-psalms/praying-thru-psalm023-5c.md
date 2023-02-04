@@ -10,6 +10,12 @@ tags:
 series:
   - 'Praying Through: Psalms'
 ---
+## The Psalm
+
+>Psalm 23:5c (CSB) my cup overflows
+
+## The Prayer
+
 <div style='font-variant: small-caps;'>
 My Lord
 </div>

@@ -14,6 +14,7 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 23:6b (CSB) faithful love
 
 
 ## The Prayer

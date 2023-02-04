@@ -15,9 +15,7 @@ draft: false
 ---
 ## The Psalm
 
->Psalm 23:5b (CSB) you anoint my head with oil; my cup overflows.
-
-
+>Psalm 23:5b (CSB) you anoint my head with oil
 
 ## The Prayer
 

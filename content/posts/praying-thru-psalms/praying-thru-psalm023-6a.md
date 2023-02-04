@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 23:6a (CSB) Only goodness
 
 ## The Prayer
 
