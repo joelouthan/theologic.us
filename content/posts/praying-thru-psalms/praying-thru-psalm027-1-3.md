@@ -14,7 +14,13 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 27 (CSB)  
 
+><sup>1</sup> The LORD is my light and my salvation— whom should I fear? The LORD is the stronghold of my life— whom should I dread? 
+
+><sup>2</sup> When evildoers came against me to devour my flesh, my foes and my enemies stumbled and fell. 
+
+><sup>3</sup> Though an army deploys against me, my heart will not be afraid; though a war breaks out against me, I will still be confident. 
 
 ## The Prayer
 

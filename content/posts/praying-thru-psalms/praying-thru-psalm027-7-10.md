@@ -14,7 +14,15 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 27 (CSB)  
 
+><sup>7</sup> LORD, hear my voice when I call; be gracious to me and answer me. 
+
+><sup>8</sup> My heart says this about you: “Seek his face.” LORD, I will seek your face. 
+
+><sup>9</sup> Do not hide your face from me; do not turn your servant away in anger. You have been my helper; do not leave me or abandon me, God of my salvation. 
+
+><sup>10</sup> Even if my father and mother abandon me, the LORD cares for me. 
 
 ## The Prayer
 

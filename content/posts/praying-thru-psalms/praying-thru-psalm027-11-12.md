@@ -14,7 +14,11 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 27 (CSB)  
 
+><sup>11</sup> Because of my adversaries, show me your way, LORD, and lead me on a level path. 
+
+><sup>12</sup> Do not give me over to the will of my foes, for false witnesses rise up against me, breathing violence. 
 
 ## The Prayer
 

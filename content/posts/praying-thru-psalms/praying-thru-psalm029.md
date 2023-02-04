@@ -14,7 +14,30 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 29 (CSB)  
+><sup></sup> A psalm of David. 
 
+><sup>1</sup> Ascribe to the LORD, you heavenly beings, ascribe to the LORD glory and strength. 
+
+><sup>2</sup> Ascribe to the LORD the glory due his name; worship the LORD in the splendor of his holiness. 
+
+><sup>3</sup> The voice of the LORD is above the waters. The God of glory thunders— the LORD, above the vast water, 
+
+><sup>4</sup> the voice of the LORD in power, the voice of the LORD in splendor. 
+
+><sup>5</sup> The voice of the LORD breaks the cedars; the LORD shatters the cedars of Lebanon. 
+
+><sup>6</sup> He makes Lebanon skip like a calf, and Sirion, like a young wild ox. 
+
+><sup>7</sup> The voice of the LORD flashes flames of fire. 
+
+><sup>8</sup> The voice of the LORD shakes the wilderness; the LORD shakes the wilderness of Kadesh. 
+
+><sup>9</sup> The voice of the LORD makes the deer give birth and strips the woodlands bare. In his temple all cry, “Glory!” 
+
+><sup>10</sup> The LORD sits enthroned over the flood; the LORD sits enthroned, King forever. 
+
+><sup>11</sup> The LORD gives his people strength; the LORD blesses his people with peace.
 
 ## The Prayer
 

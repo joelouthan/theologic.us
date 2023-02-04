@@ -14,7 +14,11 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 27 (CSB)  
 
+><sup>13</sup> I am certain that I will see the LORD’s goodness in the land of the living. 
+
+><sup>14</sup> Wait for the LORD; be strong, and let your heart be courageous. Wait for the LORD.
 
 ## The Prayer
 

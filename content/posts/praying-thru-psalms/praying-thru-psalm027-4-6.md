@@ -14,7 +14,13 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 27 (CSB)  
 
+><sup>4</sup> I have asked one thing from the LORD; it is what I desire: to dwell in the house of the LORD all the days of my life, gazing on the beauty of the LORD and seeking him in his temple. 
+
+><sup>5</sup> For he will conceal me in his shelter in the day of adversity; he will hide me under the cover of his tent; he will set me high on a rock. 
+
+><sup>6</sup> Then my head will be high above my enemies around me; I will offer sacrifices in his tent with shouts of joy. I will sing and make music to the LORD. 
 
 ## The Prayer
 
