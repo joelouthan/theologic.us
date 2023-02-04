@@ -1,5 +1,5 @@
 ---
-title: 'Now Sings My Soul" Psalm 30:11-12'
+title: 'Praying Through: Psalm 30:11-12'
 author: Joseph Louthan
 publishDate: 2020-05-26
 categories:
@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 30:11–12 (CSB) You turned my lament into dancing; you removed my sackcloth and clothed me with gladness, so that I can sing to you and not be silent. LORD my God, I will praise you forever.
 
 ## The Prayer
 

@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 30:1–3 (CSB) I will exalt you, LORD, because you have lifted me up and have not allowed my enemies to triumph over me. LORD my God, I cried to you for help, and you healed me. LORD, you brought me up from Sheol; you spared me from among those going down to the Pit.
 
 ## The Prayer
 

@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 30:8–10 (CSB) LORD, I called to you; I sought favor from my Lord: “What gain is there in my death, if I go down to the Pit? Will the dust praise you? Will it proclaim your truth? LORD, listen and be gracious to me; LORD, be my helper.”
 
 ## The Prayer
 

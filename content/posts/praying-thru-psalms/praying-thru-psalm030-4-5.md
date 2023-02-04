@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalms
 
-
+>Psalm 30:4–5 (CSB) Sing to the LORD, you his faithful ones, and praise his holy name. For his anger lasts only a moment, but his favor, a lifetime. Weeping may stay overnight, but there is joy in the morning.
 
 ## The Prayer
 
