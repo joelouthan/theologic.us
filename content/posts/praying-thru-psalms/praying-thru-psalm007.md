@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 7 (CSB)  
 ><sup></sup> A Shiggaion of David, which he sang to the LORD concerning the words of Cush, a Benjaminite. 
