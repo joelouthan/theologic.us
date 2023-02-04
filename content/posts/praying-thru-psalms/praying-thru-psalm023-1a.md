@@ -13,7 +13,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 23:1a (CSB) The LORD is my shepherd
 

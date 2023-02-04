@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalms 23:4b (CSB) I fear no danger
 

@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 16 (CSB)  
 ><sup></sup> A Miktam of David. 

@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 1 (CSB)  
 ><sup>1</sup> How happy is the one who does not walk in the advice of the wicked or stand in the pathway with sinners or sit in the company of mockers! 

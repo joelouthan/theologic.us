@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 84 (CSB)
 >For the choir director: on the Gittith. A psalm of the sons of Korah. 

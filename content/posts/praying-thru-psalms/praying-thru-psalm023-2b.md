@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 23:2b (CSB) he leads me beside quiet waters.
 

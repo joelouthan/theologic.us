@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 30:6–7 (CSB) When I was secure, I said, “I will never be shaken.” LORD, when you showed your favor, you made me stand like a strong mountain; when you hid your face, I was terrified.
 

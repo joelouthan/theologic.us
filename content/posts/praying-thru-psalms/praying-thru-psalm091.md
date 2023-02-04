@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 91 (CSB)  
 ><sup> 1  </sup>The one who lives under the protection of the Most High dwells in the shadow of the Almighty. 

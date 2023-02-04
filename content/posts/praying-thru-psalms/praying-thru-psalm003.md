@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 3 (CSB)  
 ><sup></sup> A psalm of David when he fled from his son Absalom. 

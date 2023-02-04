@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 85 (CSB)  
 > For the choir director. A psalm of the sons of Korah. 

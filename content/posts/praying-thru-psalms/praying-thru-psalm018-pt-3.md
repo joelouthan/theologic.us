@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 18:28–30 (CSB)  
 ><sup>28</sup> LORD, you light my lamp; my God illuminates my darkness. 

@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 9 (CSB)  
 ><sup></sup> For the choir director: according to Muth-labben. A psalm of David. 

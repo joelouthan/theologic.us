@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 22:12–18 (CSB)  
 ><sup>12</sup> Many bulls surround me; strong ones of Bashan encircle me. 

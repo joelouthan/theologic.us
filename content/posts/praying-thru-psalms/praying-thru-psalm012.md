@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 12 (CSB)  
 ><sup></sup> For the choir director: according to Sheminith. A psalm of David. 

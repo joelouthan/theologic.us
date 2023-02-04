@@ -12,7 +12,7 @@ css: "prayers"
 showtoc: false
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 
 

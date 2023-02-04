@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 94 (CSB)  
 ><sup> 1  </sup>LORD, God of vengeance— God of vengeance, shine! 

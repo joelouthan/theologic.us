@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 93 (CSB)  
 ><sup> 1  </sup>The LORD reigns! He is robed in majesty; the LORD is robed, enveloped in strength. The world is firmly established; it cannot be shaken. 

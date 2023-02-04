@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 30:11–12 (CSB) You turned my lament into dancing; you removed my sackcloth and clothed me with gladness, so that I can sing to you and not be silent. LORD my God, I will praise you forever.
 

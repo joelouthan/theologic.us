@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 80 (CSB)  
 > For the choir director: according to “The Lilies.” A testimony of Asaph. A psalm. 

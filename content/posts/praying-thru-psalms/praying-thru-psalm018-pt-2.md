@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 18:16–27 (CSB)  
 ><sup>16</sup> He reached down from on high and took hold of me; he pulled me out of deep water. 

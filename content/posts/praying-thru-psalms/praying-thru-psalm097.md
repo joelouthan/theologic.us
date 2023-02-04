@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 97 (CSB)  
 ><sup> 1  </sup>The LORD reigns! Let the earth rejoice; let the many coasts and islands be glad. 

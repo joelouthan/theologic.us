@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 8 (CSB)  
 ><sup></sup> For the choir director: on the Gittith. A psalm of David. 

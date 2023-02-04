@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 22:22–24 (CSB)  
 ><sup>22</sup> I will proclaim your name to my brothers and sisters; I will praise you in the assembly. 

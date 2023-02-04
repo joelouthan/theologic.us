@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 18:1–15 (CSB)  
 ><sup>1</sup> I love you, LORD, my strength. 

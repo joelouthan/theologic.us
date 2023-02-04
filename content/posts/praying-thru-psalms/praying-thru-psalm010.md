@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 10 (CSB)  
 ><sup>1</sup> LORD, why do you stand so far away? Why do you hide in times of trouble? 

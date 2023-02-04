@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 96 (CSB)  
 ><sup> 1  </sup>Sing a new song to the LORD; let the whole earth sing to the LORD. 

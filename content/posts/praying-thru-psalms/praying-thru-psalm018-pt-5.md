@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 18:46–50 (CSB)  
 ><sup>46</sup> The LORD lives—blessed be my rock! The God of my salvation is exalted. 

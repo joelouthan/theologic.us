@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 22:1–5 (CSB)  
 ><sup>1</sup> My God, my God, why have you abandoned me? Why are you so far from my deliverance and from my words of groaning? 

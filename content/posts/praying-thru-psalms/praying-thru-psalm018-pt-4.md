@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 18:31–45 (CSB)  
 ><sup>31</sup> For who is God besides the LORD? And who is a rock? Only our God. 

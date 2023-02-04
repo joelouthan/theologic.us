@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 >Psalm 88 (CSB)  
 > A song. A psalm of the sons of Korah. For the choir director: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite. 
 

@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 4 (CSB)  
 ><sup></sup> For the choir director: with stringed instruments. A psalm of David. 

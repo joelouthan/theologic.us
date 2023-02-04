@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 22:25–31 (CSB)  
 ><sup>25</sup> I will give praise in the great assembly because of you; I will fulfill my vows before those who fear you. 

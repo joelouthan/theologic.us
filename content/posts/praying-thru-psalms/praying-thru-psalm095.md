@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 95 (CSB)  
 ><sup> 1  </sup>Come, let’s shout joyfully to the LORD, shout triumphantly to the rock of our salvation! 

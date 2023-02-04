@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 11 (CSB)  
 ><sup></sup> For the choir director. Of David. 

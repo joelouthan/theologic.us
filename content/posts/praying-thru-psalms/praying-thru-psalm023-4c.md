@@ -11,7 +11,7 @@ series:
   - 'Praying Through: Psalms'
 ---
 
-## The Psalms
+## The Psalm
 
 >Psalm 23:4c (CSB) for you are with me
 

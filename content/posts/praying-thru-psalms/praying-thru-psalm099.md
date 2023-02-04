@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 99 (CSB)  
 ><sup> 1  </sup>The LORD reigns! Let the peoples tremble. He is enthroned between the cherubim. Let the earth quake. 

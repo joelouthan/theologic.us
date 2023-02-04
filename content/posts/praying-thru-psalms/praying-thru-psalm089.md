@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 89 (CSB)  
 > A Maskil of Ethan the Ezrahite. 

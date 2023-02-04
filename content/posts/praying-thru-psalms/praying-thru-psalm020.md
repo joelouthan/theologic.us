@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 20 (CSB)  
 ><sup></sup> For the choir director. A psalm of David. 

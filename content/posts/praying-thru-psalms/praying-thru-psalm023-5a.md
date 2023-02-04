@@ -13,7 +13,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 23:5a (CSB) You prepare a table before me in the presence of my enemies
 

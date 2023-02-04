@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 22:6–11 (CSB)  
 ><sup>6</sup> But I am a worm and not a man, scorned by mankind and despised by people. 

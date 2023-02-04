@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 81 (CSB)  
 ><sup> 1  </sup>Sing for joy to God our strength; shout in triumph to the God of Jacob.

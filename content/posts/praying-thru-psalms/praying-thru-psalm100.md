@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: true
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 100 (CSB)  
 ><sup></sup> A psalm of thanksgiving. 

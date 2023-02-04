@@ -12,7 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
-## The Psalms
+## The Psalm
 
 >Psalm 22:19–21 (CSB)  
 ><sup>19</sup> But you, LORD, don’t be far away. My strength, come quickly to help me. 
