@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 35:4–6 (CSB)  
+><sup>4</sup> Let those who intend to take my life be disgraced and humiliated; let those who plan to harm me be turned back and ashamed. 
 
+><sup>5</sup> Let them be like chaff in the wind, with the angel of the LORD driving them away. 
+
+><sup>6</sup> Let their way be dark and slippery, with the angel of the LORD pursuing them.
 
 ## The Prayer
 

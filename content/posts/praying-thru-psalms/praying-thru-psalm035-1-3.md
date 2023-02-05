@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 35:1–3 (CSB)  
+><sup>1</sup> Oppose my opponents, LORD; fight those who fight me. 
 
+><sup>2</sup> Take your shields—large and small— and come to my aid. 
+
+><sup>3</sup> Draw the spear and javelin against my pursuers, and assure me, “I am your deliverance.”
 
 ## The Prayer
 
