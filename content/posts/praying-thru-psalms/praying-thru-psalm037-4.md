@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 37:7'
+title: 'Praying Through: Psalm 37:4'
 author: Joseph Louthan
-publishDate: 2021-01-19T12:00:00-05:00
+publishDate: 2021-01-12T20:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,44 +19,40 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-My One Rock
+The Only Holder of My Heart
 </div>
 
 ```text
-I examine my life
-  filled with despair
-  chaos
-  confusion
-  darkness
-  death.
+I have one prayer:
+  give me your heart.
+  for mine is frail and weak
+  and corrupted with sin.
+  it is made of stone
+  and gives me no life
+  it gives wickedness
+  and seeks to only destroy me.
 
-And your love
-  have pierced through it all
-  into my heart
-  and gave me life
-  when I was dead
-  joy
-  when there was sorrow
-  pleasure
-  when all I have ever known is pain
-  weakness
-  when I have tried to be strong
-  humility
-  when I was filled with pride
-  righteousness
-  when the world excused my lusts
-  holiness
-  when I was sin.
+If I had your heart,
+  surely I will live
+  surely I will be in your grace
+  surely I will give others your grace
+  I will see others in the a new light
+  that you love them with all of your heart
+  and your desire was to save them
 
-Be my Rock of Ages
-  Be my source
-  Be the water to my thirst
-  nourishment to my hunger
-  satisfaction to my emptiness
-  peace to my soul.
+Grant me a new heart, O Lord
+  then my desires will not be for this world
+  but for they will be for you alone.
 
-I love you Lord
-  now and always
+Be my love.
+
+Be my joy.
+
+Be my king.
+
+You are my God.
+
+I love you.
 
 Amen.
 ```
