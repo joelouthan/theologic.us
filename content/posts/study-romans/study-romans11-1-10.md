@@ -1,7 +1,7 @@
 ---
-title: "Study: Romans 10:1–13 Pt 2, God Saves"
+title: "Study: Romans 11:1-10 God Keeps"
 author: Joseph Louthan
-publishDate: 2023-02-13T00:00:00-05:00
+publishDate: 2023-03-06T00:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -15,32 +15,26 @@ draft: true
 ---
 ## The Text
 
->Romans 10:1–13 (CSB)  
-><sup>1</sup> Brothers and sisters, my heart’s desire and prayer to God concerning them is for their salvation. 
+>Romans 11:1–10 (CSB)  
+><sup>1</sup> I ask, then, has God rejected his people? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin. 
 
-><sup>2</sup> I can testify about them that they have zeal for God, but not according to knowledge. 
+><sup>2</sup> God has not rejected his people whom he foreknew. Or don’t you know what the Scripture says in the passage about Elijah—how he pleads with God against Israel? 
 
-><sup>3</sup> Since they are ignorant of the righteousness of God and attempted to establish their own righteousness, they have not submitted to God’s righteousness. 
+><sup>3</sup> Lord, they have killed your prophets and torn down your altars. I am the only one left, and they are trying to take my life! 
 
-><sup>4</sup> For Christ is the end of the law for righteousness to everyone who believes, 
+><sup>4</sup> But what was God’s answer to him? I have left seven thousand for myself who have not bowed down to Baal. 
 
-><sup>5</sup> since Moses writes about the righteousness that is from the law: The one who does these things will live by them. 
+><sup>5</sup> In the same way, then, there is also at the present time a remnant chosen by grace. 
 
-><sup>6</sup> But the righteousness that comes from faith speaks like this: Do not say in your heart, “Who will go up to heaven?” that is, to bring Christ down 
+><sup>6</sup> Now if by grace, then it is not by works; otherwise grace ceases to be grace. 
 
-><sup>7</sup> or, “Who will go down into the abyss?” that is, to bring Christ up from the dead. 
+><sup>7</sup> What then? Israel did not find what it was looking for, but the elect did find it. The rest were hardened, 
 
-><sup>8</sup> On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim: 
+><sup>8</sup> as it is written, God gave them a spirit of stupor, eyes that cannot see and ears that cannot hear, to this day. 
 
-><sup>9</sup> If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. 
+><sup>9</sup> And David says, Let their table become a snare and a trap, a pitfall and a retribution to them. 
 
-><sup>10</sup> One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. 
-
-><sup>11</sup> For the Scripture says, Everyone who believes on him will not be put to shame, 
-
-><sup>12</sup> since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. 
-
-><sup>13</sup> For everyone who calls on the name of the Lord will be saved.
+><sup>10</sup> Let their eyes be darkened so that they cannot see, and their backs be bent continually.
 
 
 ## The Introduction

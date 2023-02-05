@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 10:1–13 Pt 1"
+title: "Study: Romans 10:1–13 Pt 1, God Saves"
 author: Joseph Louthan
 publishDate: 2023-02-27T00:00:00-05:00
 categories:

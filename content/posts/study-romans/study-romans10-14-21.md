@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 10:1–13"
+title: "Study: Romans 10:1–13 God Proclaims"
 author: Joseph Louthan
 publishDate: 2023-02-20T00:00:00-05:00
 categories:
