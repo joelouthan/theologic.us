@@ -14,7 +14,52 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 38 (CSB)  
+><sup></sup> A psalm of David to bring remembrance. 
 
+><sup>1</sup> LORD, do not punish me in your anger or discipline me in your wrath. 
+
+><sup>2</sup> For your arrows have sunk into me, and your hand has pressed down on me. 
+
+><sup>3</sup> There is no soundness in my body because of your indignation; there is no health in my bones because of my sin. 
+
+><sup>4</sup> For my iniquities have flooded over my head; they are a burden too heavy for me to bear. 
+
+><sup>5</sup> My wounds are foul and festering because of my foolishness. 
+
+><sup>6</sup> I am bent over and brought very low; all day long I go around in mourning. 
+
+><sup>7</sup> For my insides are full of burning pain, and there is no soundness in my body. 
+
+><sup>8</sup> I am faint and severely crushed; I groan because of the anguish of my heart. 
+
+><sup>9</sup> Lord, my every desire is in front of you; my sighing is not hidden from you. 
+
+><sup>10</sup> My heart races, my strength leaves me, and even the light of my eyes has faded. 
+
+><sup>11</sup> My loved ones and friends stand back from my affliction, and my relatives stand at a distance. 
+
+><sup>12</sup> Those who intend to kill me set traps, and those who want to harm me threaten to destroy me; they plot treachery all day long. 
+
+><sup>13</sup> I am like a deaf person; I do not hear. I am like a speechless person who does not open his mouth. 
+
+><sup>14</sup> I am like a man who does not hear and has no arguments in his mouth. 
+
+><sup>15</sup> For I put my hope in you, LORD; you will answer me, my Lord, my God. 
+
+><sup>16</sup> For I said, “Don’t let them rejoice over me— those who are arrogant toward me when I stumble.” 
+
+><sup>17</sup> For I am about to fall, and my pain is constantly with me. 
+
+><sup>18</sup> So I confess my iniquity; I am anxious because of my sin. 
+
+><sup>19</sup> But my enemies are vigorous and powerful; many hate me for no reason. 
+
+><sup>20</sup> Those who repay evil for good attack me for pursuing good. 
+
+><sup>21</sup> LORD, do not abandon me; my God, do not be far from me. 
+
+><sup>22</sup> Hurry to help me, my Lord, my salvation.
 
 ## The Prayer
 

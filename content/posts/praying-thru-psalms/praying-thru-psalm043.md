@@ -14,7 +14,16 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 43 (CSB)  
+><sup>1</sup> Vindicate me, God, and champion my cause against an unfaithful nation; rescue me from the deceitful and unjust person. 
 
+><sup>2</sup> For you are the God of my refuge. Why have you rejected me? Why must I go about in sorrow because of the enemy’s oppression? 
+
+><sup>3</sup> Send your light and your truth; let them lead me. Let them bring me to your holy mountain, to your dwelling place. 
+
+><sup>4</sup> Then I will come to the altar of God, to God, my greatest joy. I will praise you with the lyre, God, my God. 
+
+><sup>5</sup> Why, my soul, are you so dejected? Why are you in such turmoil? Put your hope in God, for I will still praise him, my Savior and my God.
 
 ## The Prayer
 

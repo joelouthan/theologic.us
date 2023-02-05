@@ -14,7 +14,34 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 41 (CSB)  
+><sup></sup> For the choir director. A psalm of David. 
 
+><sup>1</sup> Happy is one who is considerate of the poor; the LORD will save him in a day of adversity. 
+
+><sup>2</sup> The LORD will keep him and preserve him; he will be blessed in the land. You will not give him over to the desire of his enemies. 
+
+><sup>3</sup> The LORD will sustain him on his sickbed; you will heal him on the bed where he lies. 
+
+><sup>4</sup> I said, “LORD, be gracious to me; heal me, for I have sinned against you.” 
+
+><sup>5</sup> My enemies speak maliciously about me: “When will he die and be forgotten?” 
+
+><sup>6</sup> When one of them comes to visit, he speaks deceitfully; he stores up evil in his heart; he goes out and talks. 
+
+><sup>7</sup> All who hate me whisper together about me; they plan to harm me. 
+
+><sup>8</sup> “Something awful has overwhelmed him, and he won’t rise again from where he lies!” 
+
+><sup>9</sup> Even my friend in whom I trusted, one who ate my bread, has raised his heel against me. 
+
+><sup>10</sup> But you, LORD, be gracious to me and raise me up; then I will repay them. 
+
+><sup>11</sup> By this I know that you delight in me: my enemy does not shout in triumph over me. 
+
+><sup>12</sup> You supported me because of my integrity and set me in your presence forever. 
+
+><sup>13</sup> Blessed be the LORD God of Israel, from everlasting to everlasting. Amen and amen.
 
 ## The Prayer
 

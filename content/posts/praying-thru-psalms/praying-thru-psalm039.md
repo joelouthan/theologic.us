@@ -14,7 +14,34 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 39 (CSB)  
+><sup></sup> For the choir director, for Jeduthun. A psalm of David. 
 
+><sup>1</sup> I said, “I will guard my ways so that I may not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are in my presence.” 
+
+><sup>2</sup> I was speechless and quiet; I kept silent, even from speaking good, and my pain intensified. 
+
+><sup>3</sup> My heart grew hot within me; as I mused, a fire burned. I spoke with my tongue: 
+
+><sup>4</sup> “LORD, make me aware of my end and the number of my days so that I will know how short-lived I am. 
+
+><sup>5</sup> In fact, you have made my days just inches long, and my life span is as nothing to you. Yes, every human being stands as only a vapor. Selah 
+
+><sup>6</sup> Yes, a person goes about like a mere shadow. Indeed, they rush around in vain, gathering possessions without knowing who will get them. 
+
+><sup>7</sup> “Now, Lord, what do I wait for? My hope is in you. 
+
+><sup>8</sup> Rescue me from all my transgressions; do not make me the taunt of fools. 
+
+><sup>9</sup> I am speechless; I do not open my mouth because of what you have done. 
+
+><sup>10</sup> Remove your torment from me. Because of the force of your hand I am finished. 
+
+><sup>11</sup> You discipline a person with punishment for iniquity, consuming like a moth what is precious to him; yes, every human being is only a vapor. Selah 
+
+><sup>12</sup> “Hear my prayer, LORD, and listen to my cry for help; do not be silent at my tears. For I am here with you as an alien, a temporary resident like all my ancestors. 
+
+><sup>13</sup> Turn your angry gaze from me so that I may be cheered up before I die and am gone.”
 
 ## The Prayer
 

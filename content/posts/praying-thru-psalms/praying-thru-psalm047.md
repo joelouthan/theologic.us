@@ -14,7 +14,26 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 47 (CSB)  
+><sup></sup> For the choir director. A psalm of the sons of Korah. 
 
+><sup>1</sup> Clap your hands, all you peoples; shout to God with a jubilant cry. 
+
+><sup>2</sup> For the LORD, the Most High, is awe-inspiring, a great King over the whole earth. 
+
+><sup>3</sup> He subdues peoples under us and nations under our feet. 
+
+><sup>4</sup> He chooses for us our inheritance— the pride of Jacob, whom he loves. Selah 
+
+><sup>5</sup> God ascends among shouts of joy, the LORD, with the sound of a ram’s horn. 
+
+><sup>6</sup> Sing praise to God, sing praise; sing praise to our King, sing praise! 
+
+><sup>7</sup> Sing a song of wisdom, for God is King of the whole earth. 
+
+><sup>8</sup> God reigns over the nations; God is seated on his holy throne. 
+
+><sup>9</sup> The nobles of the peoples have assembled with the people of the God of Abraham. For the leaders of the earth belong to God; he is greatly exalted.
 
 ## The Prayer
 

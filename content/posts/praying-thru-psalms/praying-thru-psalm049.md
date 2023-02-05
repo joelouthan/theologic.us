@@ -14,7 +14,48 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 49 (CSB)  
+><sup></sup> For the choir director. A psalm of the sons of Korah. 
 
+><sup>1</sup> Hear this, all you peoples; listen, all who inhabit the world, 
+
+><sup>2</sup> both low and high, rich and poor together. 
+
+><sup>3</sup> My mouth speaks wisdom; my heart’s meditation brings understanding. 
+
+><sup>4</sup> I turn my ear to a proverb; I explain my riddle with a lyre. 
+
+><sup>5</sup> Why should I fear in times of trouble? The iniquity of my foes surrounds me. 
+
+><sup>6</sup> They trust in their wealth and boast of their abundant riches. 
+
+><sup>7</sup> Yet these cannot redeem a person or pay his ransom to God— 
+
+><sup>8</sup> since the price of redeeming him is too costly, one should forever stop trying— 
+
+><sup>9</sup> so that he may live forever and not see the Pit. 
+
+><sup>10</sup> For one can see that the wise die; the foolish and stupid also pass away. Then they leave their wealth to others. 
+
+><sup>11</sup> Their graves are their permanent homes, their dwellings from generation to generation, though they have named estates after themselves. 
+
+><sup>12</sup> But despite his assets, mankind will not last; he is like the animals that perish. 
+
+><sup>13</sup> This is the way of those who are arrogant, and of their followers, who approve of their words. Selah 
+
+><sup>14</sup> Like sheep they are headed for Sheol; Death will shepherd them. The upright will rule over them in the morning, and their form will waste away in Sheol, far from their lofty abode. 
+
+><sup>15</sup> But God will redeem me from the power of Sheol, for he will take me. Selah 
+
+><sup>16</sup> Do not be afraid when a person gets rich, when the wealth of his house increases. 
+
+><sup>17</sup> For when he dies, he will take nothing at all; his wealth will not follow him down. 
+
+><sup>18</sup> Though he blesses himself during his lifetime— and you are acclaimed when you do well for yourself— 
+
+><sup>19</sup> he will go to the generation of his ancestors; they will never see the light. 
+
+><sup>20</sup> Mankind, with his assets but without understanding, is like the animals that perish.
 
 ## The Prayer
 
