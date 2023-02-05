@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 37 (CSB)  
+><sup>1</sup> Do not be agitated by evildoers; do not envy those who do wrong. 
 
+><sup>2</sup> For they wither quickly like grass and wilt like tender green plants. 
 
 ## The Prayer
 

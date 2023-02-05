@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 37 (CSB)  
+><sup>5</sup> Commit your way to the LORD; trust in him, and he will act, 
 
+><sup>6</sup> making your righteousness shine like the dawn, your justice like the noonday. 
 
 ## The Prayer
 

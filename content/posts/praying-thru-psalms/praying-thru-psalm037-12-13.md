@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 37 (CSB)  
+><sup>12</sup> The wicked person schemes against the righteous and gnashes his teeth at him. 
 
+><sup>13</sup> The Lord laughs at him because he sees that his day is coming. 
 
 ## The Prayer
 

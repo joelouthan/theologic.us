@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 37 (CSB)  
+><sup>10</sup> A little while, and the wicked person will be no more; though you look for him, he will not be there. 
 
+><sup>11</sup> But the humble will inherit the land and will enjoy abundant prosperity. 
 
 ## The Prayer
 

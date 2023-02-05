@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 37 (CSB)  
+><sup>14</sup> The wicked have drawn the sword and strung the bow to bring down the poor and needy and to slaughter those whose way is upright. 
 
+><sup>15</sup> Their swords will enter their own hearts, and their bows will be broken. 
 
 ## The Prayer
 

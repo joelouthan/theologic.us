@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 37 (CSB)  
+><sup>8</sup> Refrain from anger and give up your rage; do not be agitated—it can only bring harm. 
 
+><sup>9</sup> For evildoers will be destroyed, but those who put their hope in the LORD will inherit the land. 
 
 ## The Prayer
 
