@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 32:11 (CSB) Be glad in the LORD and rejoice, you righteous ones; shout for joy, all you upright in heart.
 
 ## The Prayer
 

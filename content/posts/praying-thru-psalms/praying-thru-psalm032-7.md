@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 32:10'
+title: 'Praying Through: Psalm 32:7'
 author: Joseph Louthan
-publishDate: 2020-11-03T00:00:00-05:00
+publishDate: 2020-11-02T12:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -14,54 +14,42 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 32:7 (CSB) You are my hiding place; you protect me from trouble. You surround me with joyful shouts of deliverance. Selah
 
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-Man of sorrows
+To the Rock of Ages
 </div>
 
 ```text
-I have spent much of my life
-  not turning to you
-  not loving you
-  and not trusting in you.
+The world
+  and the Prince of the Air
+  and his demons
+  have left me
+  to rot
+  to die
+  to drown in the middle of the ocean
+  to be consumed by the waves
+  to let my soul fall into hell.
 
-And my sorrows and grief fill my heart.
+They care not for my soul,
+  it does not bother them
+  if I live or if I die
+  It is better for them
+  if I was to be destroyed.
 
-I am sorrowful
-  because of my own sins
-  and wickedness before you
+But when the waves were about to swallow me whole
+  you have come along
+  an bedrock island
+  raised up
+  and pushes me closer to the sun
+  where I can be healed by you
+  rest in you
+  recover in you
+  be with you
+  and you with me.
 
-I grieve
-  because I wish I have only known you
-  all of my life
-
-You have been my God before
-  since I was in my mother's womb
-  since I nursed at her breasts
-  since I knew how to walk
-
-And you pursued me
-  when sin encroached
-  and preyed on my flesh
-
-You loved me
-  when I was being devoured
-  and consumed
-
-And you rescued me
-
-I see you
-  and I hear you
-  and I know you love me
-  because there is no other
-  who could care for me
-  love me so tenderly
-  and perfectly save me
-
-I love you Lord
-and I will worship you
-my Redeemer.
+You alone are my strength and shield
+  I will worship and rest in you.
 ```

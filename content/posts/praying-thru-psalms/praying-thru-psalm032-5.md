@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 32:5 (CSB) Then I acknowledged my sin to you and did not conceal my iniquity. I said, “I will confess my transgressions to the LORD,” and you forgave the guilt of my sin. Selah
 
 ## The Prayer
 

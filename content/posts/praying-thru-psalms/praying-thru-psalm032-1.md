@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 32:1 (CSB) How joyful is the one whose transgression is forgiven, whose sin is covered!
 
 ## The Prayer
 
