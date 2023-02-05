@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 36 (CSB)  
+><sup>7</sup> How priceless your faithful love is, God! People take refuge in the shadow of your wings. 
 
+><sup>8</sup> They are filled from the abundance of your house. You let them drink from your refreshing stream. 
+
+><sup>9</sup> For the wellspring of life is with you. By means of your light we see light. 
 
 ## The Prayer
 

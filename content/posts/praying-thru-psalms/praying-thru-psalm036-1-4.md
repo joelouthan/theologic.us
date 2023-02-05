@@ -15,7 +15,14 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 36 (CSB)  
+><sup>1</sup> An oracle within my heart concerning the transgression of the wicked person: Dread of God has no effect on him. 
 
+><sup>2</sup> For with his flattering opinion of himself, he does not discover and hate his iniquity. 
+
+><sup>3</sup> The words from his mouth are malicious and deceptive; he has stopped acting wisely and doing good. 
+
+><sup>4</sup> Even on his bed he makes malicious plans. He sets himself on a path that is not good, and he does not reject evil. 
 
 ## The Prayer
 

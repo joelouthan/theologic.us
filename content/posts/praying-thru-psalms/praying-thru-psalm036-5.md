@@ -15,7 +15,8 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 36 (CSB)  
+><sup>5</sup> LORD, your faithful love reaches to heaven, your faithfulness to the clouds. 
 
 ## The Prayer
 

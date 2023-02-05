@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 36 (CSB)  
+><sup>10</sup> Spread your faithful love over those who know you, and your righteousness over the upright in heart. 
 
+><sup>11</sup> Do not let the foot of the arrogant come near me or the hand of the wicked drive me away. 
+
+><sup>12</sup> There! The evildoers have fallen. They have been thrown down and cannot rise.
 
 ## The Prayer
 
