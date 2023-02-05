@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 34:7'
+title: 'Praying Through: Psalm 34:5'
 author: Joseph Louthan
-publishDate: 2020-11-10T00:00:00-05:00
+publishDate: 2020-11-09T12:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,54 +19,43 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-My Awe and Wonder
+Fairest of ten-thousands
 </div>
 
 ```text
-We know that 
-sins crouched for us.
+My God.
+  Keep me close to you.
+  Let me see your face.
+  Just this once.
+  So I can behold your beauty.
+  If I die then so be it.
+  Because I rather see you and die
+  then to never see your face and never fully live.
 
-We know that the devil
-  sets his snares for our souls.
-We know that the world
-  beckons our hearts towards death.
-But you alone are
-  worthy to be praised
+My God keep my eyes on your eyes my heart on your heart and my soul connected to yours.
+  Whatever work you must do in me do it.
+  For I am yours and you are mine.
 
-You alone are
-  holy and holy and holy
+I know this forever.
+  I will never be satisfied.
+  So long as I live.
+  Until I see your face.
 
-You alone are
-  righteous
-  for there is none like you
+So I will run hard
+  fly fast
+  do as I please
+  because I am so in love with you
+  and I have absolute freedom.
 
-I will worship you
+Never in prison yet a bond servant.
 
-I will give you praise
+Never obligated but your bride.
 
-I will sing of your wondrous works
+Never ever an orphan but your son.
 
-I will marvel at your law
+Never alone for you are with me forever.
 
-I will dance in your heart
-
-I will repent of all my sin
-
-I will trust in your Son
-
-Because you have loved me
-
-Because your Son
-  lived and died for me
-
-Because your Spirit
-  bears witness with my spirit
-  that I am a son of God.
-
-That you dwell wholly within me.
-
-And with you in me
-  I will bless your holy name forever.
-
-Amen.
+Bring me home.
+  Let me see your face.
+  But if it isn’t now then I will do your will.
 ```

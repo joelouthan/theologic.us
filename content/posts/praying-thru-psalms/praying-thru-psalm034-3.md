@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 34:5'
+title: 'Praying Through: Psalm 34:3'
 author: Joseph Louthan
-publishDate: 2020-11-09T12:00:00-05:00
+publishDate: 2020-11-08T20:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,43 +19,71 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-Fairest of ten-thousands
+Deliverer from Death
 </div>
 
 ```text
-My God.
-  Keep me close to you.
-  Let me see your face.
-  Just this once.
-  So I can behold your beauty.
-  If I die then so be it.
-  Because I rather see you and die
-  then to never see your face and never fully live.
+People of God,
+  inhabitants of the world
+  dwellers in the city
 
-My God keep my eyes on your eyes my heart on your heart and my soul connected to yours.
-  Whatever work you must do in me do it.
-  For I am yours and you are mine.
+Turn your eyes upon God
+  look at his amazing love
+  His grace is for you!
 
-I know this forever.
-  I will never be satisfied.
-  So long as I live.
-  Until I see your face.
+You do not have to die in your sin
+  He will rescue you!
+  He will pull you from hell
 
-So I will run hard
-  fly fast
-  do as I please
-  because I am so in love with you
-  and I have absolute freedom.
+You say, "I have no sin"
+  then you are condemned already
+  but those in Christ
+  there is no condemnation
 
-Never in prison yet a bond servant.
+You say, "There is no hell"
+  but to those who do not
+  trust and obey the Son
+  the wrath of God remains upon you!
+  But if you believe and obey
+  the Lamb who was slain
+  he takes the wrath
+  that was properly owed to you.
 
-Never obligated but your bride.
+You say, "There is no God"
+  Do not be a hypocrite
+  Do not suppress
+  what you have seen
+  what you have experience
+  what you know 
+  about God.
+  Go back into the only
+  good
+  perfect
+  blameless
+  word
+  where He speaks about who He is
+  who His Son is
+  and what His Spirit will do.
 
-Never ever an orphan but your son.
+I pray
+  that you worship God 
+  with me
+  that you love God
+  with all of your heart
+  that you pray to God
+  and ask to be delivered
 
-Never alone for you are with me forever.
+Your circumstances might not change
+  your sins might catch up
+  you will still be affected by other's sins
+  But God will always be there
+  He will mark you as holy
+  because he is holy
+  He will count you as righteous
+  because his Son took on your sin
+  He will call you His beloved child
+  because the Spirit shall bear witness.
 
-Bring me home.
-  Let me see your face.
-  But if it isn’t now then I will do your will.
+Worship God!
+  He alone is worthy.
 ```

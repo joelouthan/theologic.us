@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 34:6'
+title: 'Praying Through: Psalm 34:4'
 author: Joseph Louthan
-publishDate: 2020-11-09T20:00:00-05:00
+publishDate: 2020-11-09T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,51 +19,58 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-My everything 
+Essence of Faith
 </div>
 
 ```text
-I lack.
-  I am weak.
-  I have nothing.
-  I am poor.
-   I am dead.
+For all of my life
+  I have pretended to be in fear of nothing
 
-Whatever I have is from you.
-  This roof upon my head.
-  Clothes on my back.
-  My warm bed.
-  My beautiful wife.
-  My wonderful children.
-  My running cars.
-  My vocation.
+And certainly not you
 
-All of it comes from you alone.
+But I was crippled
+  by fears of
+  rejection
+  betrayal
+  abandonment
+  and not being loved
 
-But I have everything.
-  I am wealthy beyond measure.
-  I am strong.
-  I am the richest.
-  I am fully alive.
+I did whatever
+  I could to harden my heart
+  so I wouldn’t have to feel.
 
-All of because I am in full possession of your Son Jesus Christ.
 
-He is my rock
+But I was sad
+  alone
+  confused
+  angry
+  and bitter.
+  I was so lonely.
+  And my life was worth nothing.
 
-He is my fortress
+And remember when I tried to be the good guy?
+Outside I was nice and honorable.
+  But on the inside?
+  Full of wickedness and sin.
+  Heart was filled with perversion.
 
-He is my redeemer
+I am afraid
+  but I know this to be true:
+  a million times more wicked
+  than my dad.
 
-He is my strength
+Oh Lord.
+ My heart is bent toward lust and sin.
+ Save me Lord.
+ Do what you must.
+ I cannot cannot cannot go back to hell I refuse to.
+ I will not.
 
-He is my beloved
+You must do what you need to do to ensure that I don’t go back there.
 
-And I am his.
-
-Keep me close to you.
-  Do not let me go.
-  Do what you must
-  to keep me with you.
+Save me Lord.
+ Do what you will to keep me from there
+ and to you and in you and by you forever.
 
 Amen.
 ```

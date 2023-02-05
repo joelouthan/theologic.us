@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 34:9'
+title: 'Praying Through: Psalm 34:7'
 author: Joseph Louthan
-publishDate: 2020-11-10T20:00:00-05:00
+publishDate: 2020-11-10T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,47 +19,54 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-The Absolute Longings of my Heart
+My Awe and Wonder
 </div>
 
 ```text
-My God
-  I have suffered so much due
-  to all the sin I’ve committed
-  all the righteous acts that I have failed to do 
-  and all the wickedness done to me.
+We know that 
+sins crouched for us.
 
-I was destined to die
-  I was limited to this world
-  and it’s smallish pleasures
-  that fulfill nothing
-  in my eternal heart.
+We know that the devil
+  sets his snares for our souls.
+We know that the world
+  beckons our hearts towards death.
+But you alone are
+  worthy to be praised
 
-And because I am a son of Adam
-  I feared only everything not Godx
-  My attention was away from you
-  My gaze was away from your face
-  My heart flees from you
+You alone are
+  holy and holy and holy
 
-Capture my heart
-  Again and again
+You alone are
+  righteous
+  for there is none like you
 
-Capture my love
-  until I know no other love
+I will worship you
 
-Capture my life
-  until you take me home forever
+I will give you praise
 
-Tell me your will
-  so I can do it
+I will sing of your wondrous works
 
-Tell me your heart
-  so I can see if my heart matches
-  and repent if not
+I will marvel at your law
 
-Tell me I am yours forever
-  so I can be alive 
-  and free in you
+I will dance in your heart
 
-Praise your holy name forever
+I will repent of all my sin
+
+I will trust in your Son
+
+Because you have loved me
+
+Because your Son
+  lived and died for me
+
+Because your Spirit
+  bears witness with my spirit
+  that I am a son of God.
+
+That you dwell wholly within me.
+
+And with you in me
+  I will bless your holy name forever.
+
+Amen.
 ```

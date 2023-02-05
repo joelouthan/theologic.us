@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 34:8'
+title: 'Praying Through: Psalm 34:6'
 author: Joseph Louthan
-publishDate: 2020-11-10T12:00:00-05:00
+publishDate: 2020-11-09T20:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,37 +19,51 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-All of my desires and affections
+My everything 
 </div>
 
 ```text
-What did your Son say?
-  Eat of my flesh
-  Drink of my blood
-  For God alone is good.
+I lack.
+  I am weak.
+  I have nothing.
+  I am poor.
+   I am dead.
 
-There is no other manna but your Son.
+Whatever I have is from you.
+  This roof upon my head.
+  Clothes on my back.
+  My warm bed.
+  My beautiful wife.
+  My wonderful children.
+  My running cars.
+  My vocation.
 
-There is no Bread of life other than your Son.
+All of it comes from you alone.
 
-There is no other Living Water other than your Son.
+But I have everything.
+  I am wealthy beyond measure.
+  I am strong.
+  I am the richest.
+  I am fully alive.
 
-There is no life outside of your Son.
+All of because I am in full possession of your Son Jesus Christ.
 
-I will taste and see
-  because my Lord alone is good
-  For in him I live and move and have my being
+He is my rock
 
-I will forever make a joyful noise
+He is my fortress
 
-I am so weak
-  so be my strength
-  I am so filled with sin
-  so grant me your Son’s righteousness
-  I am so far
-  so send your Spirit to bring me home
-  I am an orphan
-  My God, adopt me as your own.
+He is my redeemer
 
-Be glorified. Today.
+He is my strength
+
+He is my beloved
+
+And I am his.
+
+Keep me close to you.
+  Do not let me go.
+  Do what you must
+  to keep me with you.
+
+Amen.
 ```

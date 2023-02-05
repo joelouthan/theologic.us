@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 34:10'
+title: 'Praying Through: Psalm 34:8'
 author: Joseph Louthan
-publishDate: 2020-11-11T00:00:00-05:00
+publishDate: 2020-11-10T12:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,42 +19,37 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-Infinite holder of my infinite space
+All of my desires and affections
 </div>
 
 ```text
-I have sought all of my life
-  to prey on the weak
-  to consume to my stomach's content
-  to try to fill my heart
-  with everything
-  my sin's desires
-  the world and it's pleasures
-  the sweetest temptations of the devil
+What did your Son say?
+  Eat of my flesh
+  Drink of my blood
+  For God alone is good.
 
-My God,
-  you knew me
-  and loved me
-  you sought me
-  and rescued me
-  when I was in the mud
-  at the bottom of the ocean
-  and was dead in my trespasses.
+There is no other manna but your Son.
 
-Your arm
-  none too short
-  reached in
-  carried me up
-  took me to green pastures
-  laid me besides still waters
-  restored my soul
-  for your name sake only.
+There is no Bread of life other than your Son.
 
-Feed my body
-  be my forever sustenance
-  be my forever strength
-  be my forever shield
-  be my forever salvation.
+There is no other Living Water other than your Son.
 
-In you, will I trust.
+There is no life outside of your Son.
+
+I will taste and see
+  because my Lord alone is good
+  For in him I live and move and have my being
+
+I will forever make a joyful noise
+
+I am so weak
+  so be my strength
+  I am so filled with sin
+  so grant me your Son’s righteousness
+  I am so far
+  so send your Spirit to bring me home
+  I am an orphan
+  My God, adopt me as your own.
+
+Be glorified. Today.
 ```
