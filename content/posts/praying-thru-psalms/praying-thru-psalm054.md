@@ -14,7 +14,22 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 54 (CSB)  
+><sup></sup> For the choir director: with stringed instruments. A Maskil of David. When the Ziphites went and said to Saul, “Is David not hiding among us?” 
 
+><sup>1</sup> God, save me by your name, and vindicate me by your might! 
+
+><sup>2</sup> God, hear my prayer; listen to the words from my mouth. 
+
+><sup>3</sup> For strangers rise up against me, and violent men intend to kill me. They do not let God guide them. Selah 
+
+><sup>4</sup> God is my helper; the Lord is the sustainer of my life. 
+
+><sup>5</sup> He will repay my adversaries for their evil. Because of your faithfulness, annihilate them. 
+
+><sup>6</sup> I will sacrifice a freewill offering to you. I will praise your name, LORD, because it is good. 
+
+><sup>7</sup> For he has rescued me from every trouble, and my eye has looked down on my enemies.
 
 ## The Prayer
 

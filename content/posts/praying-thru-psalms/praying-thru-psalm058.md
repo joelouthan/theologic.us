@@ -14,7 +14,30 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 58 (CSB)  
+><sup></sup> For the choir director: “Do Not Destroy.” A Miktam of David. 
 
+><sup>1</sup> Do you really speak righteously, you mighty ones? Do you judge people fairly? 
+
+><sup>2</sup> No, you practice injustice in your hearts; with your hands you weigh out violence in the land. 
+
+><sup>3</sup> The wicked go astray from the womb; liars wander about from birth. 
+
+><sup>4</sup> They have venom like the venom of a snake, like the deaf cobra that stops up its ears, 
+
+><sup>5</sup> that does not listen to the sound of the charmers who skillfully weave spells. 
+
+><sup>6</sup> God, knock the teeth out of their mouths; LORD, tear out the young lions’ fangs. 
+
+><sup>7</sup> May they vanish like water that flows by; may they aim their blunted arrows. 
+
+><sup>8</sup> Like a slug that moves along in slime, like a woman’s miscarried child, may they not see the sun. 
+
+><sup>9</sup> Before your pots can feel the heat of the thorns— whether green or burning— he will sweep them away. 
+
+><sup>10</sup> The righteous one will rejoice when he sees the retribution; he will wash his feet in the blood of the wicked. 
+
+><sup>11</sup> Then people will say, “Yes, there is a reward for the righteous! There is a God who judges on earth!”
 
 ## The Prayer
 
