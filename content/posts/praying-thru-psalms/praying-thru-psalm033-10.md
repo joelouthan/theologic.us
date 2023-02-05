@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:12'
+title: 'Praying Through: Psalm 33:10'
 author: Joseph Louthan
-publishDate: 2020-11-07T00:00:00-05:00
+publishDate: 2020-11-06T12:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -18,46 +18,40 @@ draft: false
 
 ## The Prayer
 
-<div style="font-variant: small-caps;">Reigning King</div>
+<div style="font-variant: small-caps;">Sovereign</div>
 
 ```text
-We read in your word
-  where you have called a tiny nation
-  unto you
-  to carry out your promises
-  to established your covenants.
+We have made the grandest plans
+  devised the biggest schemes
+  and planned our legacy
+  that we are so certain that lives on.
 
-Perhaps for a moment
-  this nation would worship you
-  praise you
-  and love you.
+But you are alone
+  rule and reign over all of creation
+  sets up and takes down kings
+  determines the times and boundaries of our dwelling
 
-But not even a generation would pass
-  before they worship other gods
-  distrust you
-  and fall far away from you.
+Because you are not merely in the present
+  but also currently in the past
+  because you are from everlasting to everlasting
+  and you are currently in the future
+  because you are the God who is there.
 
-That is just like any of us
-  that is just like me
-  I have cling to other idols
-  I have not given you a second thought
-  I have hated you.
+Therefore
+  you do not merely do something
+  speaking something
+  think something
+  and cause a chain reaction
+  But you are the chain
+  and the reaction
+  of everything.
 
-So Lord,
-  save me
-  keep me
-  call upon me
-  to preach to nations
-  call them to repent
-  and turn their hearts towards you.
+You rule and reign 
+  over all creation
+  time
+  space
+  the material
+  and the spiritual
 
-For one day,
-  all the nations will cease to rage
-  and they will worship you
-  because you are on your throne
-
-Oh, King of kings
-Oh my Lord of Lords
-Blessed be your glorious name.
-
+No one is like you.
 ```

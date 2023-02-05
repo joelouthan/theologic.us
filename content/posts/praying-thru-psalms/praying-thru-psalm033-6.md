@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:8'
+title: 'Praying Through: Psalm 33:6'
 author: Joseph Louthan
-publishDate: 2020-11-05T20:00:00-05:00
+publishDate: 2020-11-05T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,52 +19,41 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-My Fear and my Joy
+Creator and Redeemer
 </div>
 
 ```text
-I sit
-  and make no excuses
-  for my sin blinds me
-  my wickedness keeps me deaf
-  my trespasses rob my smarts
-  my treason born death in me.
+You are majestic
+  and altogether mighty.
 
-I could not see your glory
-  I was blind and cannot see
-  and not thing in me
-  could process your beauty.
+You alone brought something
+  out of nothing.
+  You alone can do that.
 
-I had no frame
-  no knowledge
-  no heart
-  no love
-  no life.
+When you created me,
+  you did so from what was created.
+  Out of dirt.
 
-Therefore I did not fear you.
+  But you also created me
+  out of your heart
+  because of your love for me.
 
-When I did see your glory,
-  I fell in awe
-  I lay prostrate in terror
-  my face down because I fear
-  I saw my own sin
-  compare to your holiness
-  and surely I would perish
-  because you are too good.
+  And you created me
+  out of your begotten
+  for He was the firstborn
+  among many brethen.
 
-But you reached down
-  gave me life
-  strength to my legs
-  beat to my heart
-  picked me up like a child
-  held me close to your heart
-  and whispered these words,
+Because of my sin
+  I was destined to go back into dirt
+  apart from you
+  and under your wrath.
 
-"I do not condemn you
-  and I love you.
-  You never have to sin again
-  for you are mine
-  and I am yours forever.'
+Yet, in your great love,
+  you predestined me
+  not to dirt but to life
+  not apart but to fullness of joy
+  not under your wrath but under your right hand
+  with pleasures forevermore.
 
-Praise your sweet name.
+Amen.
 ```

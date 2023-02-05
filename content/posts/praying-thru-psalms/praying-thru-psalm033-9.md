@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:11'
+title: 'Praying Through: Psalm 33:9'
 author: Joseph Louthan
-publishDate: 2020-11-06T20:00:00-05:00
+publishDate: 2020-11-06T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -18,38 +18,41 @@ draft: false
 
 ## The Prayer
 
-<div style="font-variant: small-caps;">
-Preacher of the Lost Souls
-</div>
+<div style="font-variant: small-caps;">Lover of my soul</div>
 
 ```text
-What does your word say?
-  Your word goes out
-  and does it sets to accomplishes
-  and never returns void?
+You are the only being
+  when you speak
+  things actually happen
+  When you promise
+  they are unbreakable
+  When you declare
+  it is so
+  When you proclaim
+  it comes to pass.
 
-You have made promises
-  to Adam
-  to Noah
-  to Abraham
-  to David
-  and to all the prophets
+All of your promises are yes and amen.
 
-That you will send 
-  the One who would crush the head of the serpent
-  that is Jesus Christ
-  the Savior of his people
-  the Redeemer of our sins
-  the Messiah of the nations
-  the Conquerer of Satan
-  the Vanquisher of demons
-  the Wrath-filler of hell
-  the Glory of the cosmos
+So when I hear your voice,
+  when you beckon me from the depths of hades
+  when you spoke a new identity in me
+  when you called my name
+  I answered.
 
-And this is perfectly true
-  and now you have captured our hearts.
+I was yours from the moment on.
 
-Be exalted, O God,
-  higher and higher.
+I have tried to flee
+  into my own sins
+  and back into hell.
+  But you are forever my rescuer
+  my portion
+  and deliverer.
+
+You have spoken my name
+  That means I am yours.
+  And that is unbreakable
+  and perfect.
+
+Be glorified today.
 
 ```

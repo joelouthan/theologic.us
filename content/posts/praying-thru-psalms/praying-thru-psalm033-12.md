@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:16-19'
+title: 'Praying Through: Psalm 33:12'
 author: Joseph Louthan
-publishDate: 2020-11-07T20:00:00-05:00
+publishDate: 2020-11-07T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -18,55 +18,46 @@ draft: false
 
 ## The Prayer
 
-<div style="font-variant: small-caps;">
-My Only Rescuer
-</div>
+<div style="font-variant: small-caps;">Reigning King</div>
 
 ```text
-In my darkest moments,
-  greatest fears
-  deepest pains
-  I would never turn to you
-  and instead I would flee
-  to idols and gods
-  that I thought would ease the pain
-  soothe my anxiety
-  save my soul.
+We read in your word
+  where you have called a tiny nation
+  unto you
+  to carry out your promises
+  to established your covenants.
 
-My idols were lust
-  my gods were pornography
-  when I was thirsty
-  I would insist on drinking
-  crap-infused
-  toilet water
+Perhaps for a moment
+  this nation would worship you
+  praise you
+  and love you.
 
-But you rescued me
-  you have kept my eyes upon you
-  you have turn my face
-  and my heart
-  to you
-  the source of everlasting joy.
+But not even a generation would pass
+  before they worship other gods
+  distrust you
+  and fall far away from you.
 
-You are the only one
-  who has kept me 
-  fully and truly
-  alive.
-  I have your Son
-  who bled and died for me.
-  I have your Spirit
-  who has marked me
-  and is the only one
-  that will bear witness
-  that I am your child.
+That is just like any of us
+  that is just like me
+  I have cling to other idols
+  I have not given you a second thought
+  I have hated you.
 
-Please keep me closer
-  do not let me stray
-  Destroy my idols if you must
-  Kill my masters if you please
-  Burn this world around me
-  Take my soul
-  because I do not want to go back to hell
-  I just want to be with you
+So Lord,
+  save me
+  keep me
+  call upon me
+  to preach to nations
+  call them to repent
+  and turn their hearts towards you.
 
-I love you Lord.
+For one day,
+  all the nations will cease to rage
+  and they will worship you
+  because you are on your throne
+
+Oh, King of kings
+Oh my Lord of Lords
+Blessed be your glorious name.
+
 ```

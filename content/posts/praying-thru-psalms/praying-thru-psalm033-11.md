@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:13-15'
+title: 'Praying Through: Psalm 33:11'
 author: Joseph Louthan
-publishDate: 2020-11-07T12:00:00-05:00
+publishDate: 2020-11-06T20:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,46 +19,37 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-My God
+Preacher of the Lost Souls
 </div>
 
 ```text
-I know that all of mankind
-  will wonder into ungodliness 
-  will stray into wickedness
-  and by their own sin,
-  fall away in ignorance. 
+What does your word say?
+  Your word goes out
+  and does it sets to accomplishes
+  and never returns void?
 
-I was once
-  atheistic
-  evil
-  blasphemous
-  ignorant in unbelief
+You have made promises
+  to Adam
+  to Noah
+  to Abraham
+  to David
+  and to all the prophets
 
-But yet
-  You gave me more grace
-  with the faith and love
-  that can only be found 
-  in your Son.
+That you will send 
+  the One who would crush the head of the serpent
+  that is Jesus Christ
+  the Savior of his people
+  the Redeemer of our sins
+  the Messiah of the nations
+  the Conquerer of Satan
+  the Vanquisher of demons
+  the Wrath-filler of hell
+  the Glory of the cosmos
 
-My God,
-  we know that you see us
-  you know we are not good
-  we know that you do not overlord us
-  to condemn us
-  But you’ve sent your Son
-  to save us.
+And this is perfectly true
+  and now you have captured our hearts.
 
-My Lord,
-  Be merciful to me
-  Give me grace beyond measure
-  Never remove your Spirit from me 
-  Never end your steadfast love for me
-  Do not forsake me
-  Do not forget me
-  Just be with me
+Be exalted, O God,
+  higher and higher.
 
-You are worthy to be praised. Forever.
-
-Amen.
 ```

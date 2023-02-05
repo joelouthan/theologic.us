@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:9'
+title: 'Praying Through: Psalm 33:7'
 author: Joseph Louthan
-publishDate: 2020-11-06T00:00:00-05:00
+publishDate: 2020-11-05T12:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -18,41 +18,33 @@ draft: false
 
 ## The Prayer
 
-<div style="font-variant: small-caps;">Lover of my soul</div>
+<div style="font-variant: small-caps;">God of the Cosmic</div>
 
 ```text
-You are the only being
-  when you speak
-  things actually happen
-  When you promise
-  they are unbreakable
-  When you declare
-  it is so
-  When you proclaim
-  it comes to pass.
+The galaxies fall right into the palm of your hand,
+  the universe are in your grasp
+  the stars are named by you
+  Jupiter is but a little toy to you
+  the sun is pinched between your finger and thumb
 
-All of your promises are yes and amen.
+We have been here for the length of the creation
+  and yet we do not know the depths of the oceans
+  we are powerless to gather up a ocean wave
 
-So when I hear your voice,
-  when you beckon me from the depths of hades
-  when you spoke a new identity in me
-  when you called my name
-  I answered.
+But you, my Lord,
+  gathered all the material plane
+  at your mere fingertips.
 
-I was yours from the moment on.
+And you alone, my Lord,
+  gathered my stony heart
+  tossed to the infinite east-west
+  Grabbed into your chest
+  ripped your heart out
+  by sending your Son
+  to live and die
+  and place that love
+  placed into my chest
+  just to give me life.
 
-I have tried to flee
-  into my own sins
-  and back into hell.
-  But you are forever my rescuer
-  my portion
-  and deliverer.
-
-You have spoken my name
-  That means I am yours.
-  And that is unbreakable
-  and perfect.
-
-Be glorified today.
-
+Blessed be your wonderful name.
 ```

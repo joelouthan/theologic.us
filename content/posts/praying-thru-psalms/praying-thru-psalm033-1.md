@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:2-3'
+title: 'Praying Through: Psalm 33:1'
 author: Joseph Louthan
-publishDate: 2020-11-04T00:00:00-05:00
+publishDate: 2020-11-03T20:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -19,58 +19,30 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-Only One Worthy of all my praises
+The Lyrics of the Sweetest Songs
 </div>
 
 ```text
-Who was the only one
-  who created the heavens
-  from a thought
-  who created the earth
-  from a whisper?
+With my voice
+  with every breath
+  I will shout out
+  I will cry out
+  I will sing your holy name
+  I will dance with joy
 
-Who was the only one
-  from deep love
-  and passionate affections
-  for a desire
-  to create a perfect relationship
-  with a creation
-  out of a perfect community?
+Because you alone are
+  good
+  worthy
+  beautiful
+  lovely
+  wonderful
+  peace
+  joy
+  exalted
+  and raised far above
+  all of my gods
 
-Who was the only one
-  who preached his perfect standard
-  who grieved when we rebelled
-  who filled with sorrow
-    when we wage war against you
-  who cried when we turned away from you?
-
-Who was the only one
-  who never flinched at our wickedness
-  who never balked at our sinfulness
-  who never backed away from our evilness
-  who ALONE who stared death
-    through his skull
-    and with the loudest voice
-    and the deepest wells of tears
-    the same tongue who spoke
-    all creation into existence
-    cries out
-    COME TO LIFE!
-
-Who resurrected my dead heart?
-
-Who was like that?
-
-No one.
-
-No one could nor willing nor had the power.
-
-You alone.
-
-You alone are God.
-
-You alone are good forever.
-
-Amen.
-
+I will worship you
+  forever I will worship
+  there is none like you
 ```

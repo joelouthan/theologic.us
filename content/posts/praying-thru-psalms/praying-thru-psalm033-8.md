@@ -1,7 +1,7 @@
 ---
-title: 'Praying Through: Psalm 33:10'
+title: 'Praying Through: Psalm 33:8'
 author: Joseph Louthan
-publishDate: 2020-11-06T12:00:00-05:00
+publishDate: 2020-11-05T20:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -18,40 +18,53 @@ draft: false
 
 ## The Prayer
 
-<div style="font-variant: small-caps;">Sovereign</div>
+<div style="font-variant: small-caps;">
+My Fear and my Joy
+</div>
 
 ```text
-We have made the grandest plans
-  devised the biggest schemes
-  and planned our legacy
-  that we are so certain that lives on.
+I sit
+  and make no excuses
+  for my sin blinds me
+  my wickedness keeps me deaf
+  my trespasses rob my smarts
+  my treason born death in me.
 
-But you are alone
-  rule and reign over all of creation
-  sets up and takes down kings
-  determines the times and boundaries of our dwelling
+I could not see your glory
+  I was blind and cannot see
+  and not thing in me
+  could process your beauty.
 
-Because you are not merely in the present
-  but also currently in the past
-  because you are from everlasting to everlasting
-  and you are currently in the future
-  because you are the God who is there.
+I had no frame
+  no knowledge
+  no heart
+  no love
+  no life.
 
-Therefore
-  you do not merely do something
-  speaking something
-  think something
-  and cause a chain reaction
-  But you are the chain
-  and the reaction
-  of everything.
+Therefore I did not fear you.
 
-You rule and reign 
-  over all creation
-  time
-  space
-  the material
-  and the spiritual
+When I did see your glory,
+  I fell in awe
+  I lay prostrate in terror
+  my face down because I fear
+  I saw my own sin
+  compare to your holiness
+  and surely I would perish
+  because you are too good.
 
-No one is like you.
+But you reached down
+  gave me life
+  strength to my legs
+  beat to my heart
+  picked me up like a child
+  held me close to your heart
+  and whispered these words,
+
+"I do not condemn you
+  and I love you.
+  You never have to sin again
+  for you are mine
+  and I am yours forever.'
+
+Praise your sweet name.
 ```
