@@ -14,8 +14,7 @@ draft: false
 ---
 ## The Psalm
 
->Psalm 33 (CSB)  
-
+>Psalm 34 (CSB)  
 ><sup>6</sup> This poor man cried, and the LORD heard him and saved him from all his troubles. 
 
 ## The Prayer

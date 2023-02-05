@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
->Psalm 33 (CSB)  
+>Psalm 34 (CSB)  
 ><sup>10</sup> Young lions lack food and go hungry, but those who seek the LORD will not lack any good thing. 
 
 ## The Prayer

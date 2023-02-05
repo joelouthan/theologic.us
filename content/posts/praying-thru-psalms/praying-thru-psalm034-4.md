@@ -15,7 +15,6 @@ draft: false
 ## The Psalm
 
 >Psalm 34 (CSB)  
-
 ><sup>4</sup> I sought the LORD, and he answered me and rescued me from all my fears. 
 
 ## The Prayer

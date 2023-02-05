@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
->Psalm 33 (CSB)  
+>Psalm 34 (CSB)  
 ><sup>11</sup> Come, children, listen to me; I will teach you the fear of the LORD. 
 
 ><sup>12</sup> Who is someone who desires life, loving a long life to enjoy what is good? 
