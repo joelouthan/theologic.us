@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 33:1 (CSB) Rejoice in the LORD, you righteous ones; praise from the upright is beautiful.
 
 ## The Prayer
 

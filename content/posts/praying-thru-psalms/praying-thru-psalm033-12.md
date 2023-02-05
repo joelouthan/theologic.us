@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 33:12 (CSB) Happy is the nation whose God is the LORD— the people he has chosen to be his own possession!
 
 ## The Prayer
 

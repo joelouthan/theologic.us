@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 33:2–3 (CSB) Praise the LORD with the lyre; make music to him with a ten-stringed harp. Sing a new song to him; play skillfully on the strings, with a joyful shout.
 
 ## The Prayer
 

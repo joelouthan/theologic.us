@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 33:16–19 (CSB) A king is not saved by a large army; a warrior will not be rescued by great strength. The horse is a false hope for safety; it provides no escape by its great power. But look, the LORD keeps his eye on those who fear him— those who depend on his faithful love to rescue them from death and to keep them alive in famine.
 
 ## The Prayer
 

@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 33:11 (CSB) The counsel of the LORD stands forever, the plans of his heart from generation to generation.
 
 ## The Prayer
 

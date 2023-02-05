@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 33:10 (CSB) The LORD frustrates the counsel of the nations; he thwarts the plans of the peoples.
 
 ## The Prayer
 
