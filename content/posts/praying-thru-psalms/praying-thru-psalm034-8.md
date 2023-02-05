@@ -14,7 +14,9 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
 
+><sup>8</sup> Taste and see that the LORD is good. How happy is the person who takes refuge in him! 
 
 ## The Prayer
 

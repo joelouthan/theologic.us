@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
+><sup>13</sup> The LORD looks down from heaven; he observes everyone. 
 
+><sup>14</sup> He gazes on all the inhabitants of the earth from his dwelling place. 
+
+><sup>15</sup> He forms the hearts of them all; he considers all their works. 
 
 ## The Prayer
 

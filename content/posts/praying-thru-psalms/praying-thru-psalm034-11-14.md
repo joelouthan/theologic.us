@@ -14,7 +14,14 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
+><sup>11</sup> Come, children, listen to me; I will teach you the fear of the LORD. 
 
+><sup>12</sup> Who is someone who desires life, loving a long life to enjoy what is good? 
+
+><sup>13</sup> Keep your tongue from evil and your lips from deceitful speech. 
+
+><sup>14</sup> Turn away from evil and do what is good; seek peace and pursue it. 
 
 ## The Prayer
 

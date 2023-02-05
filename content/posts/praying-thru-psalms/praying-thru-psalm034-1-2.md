@@ -14,7 +14,10 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 34:1–2 (CSB)  
+><sup>1</sup> I will bless the LORD at all times; his praise will always be on my lips. 
 
+><sup>2</sup> I will boast in the LORD; the humble will hear and be glad.
 
 ## The Prayer
 

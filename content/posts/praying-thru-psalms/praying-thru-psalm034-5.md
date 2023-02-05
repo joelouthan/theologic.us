@@ -14,7 +14,9 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
 
+><sup>5</sup> Those who look to him are radiant with joy; their faces will never be ashamed. 
 
 ## The Prayer
 

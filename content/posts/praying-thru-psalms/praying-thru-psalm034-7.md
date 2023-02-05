@@ -14,7 +14,9 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
 
+><sup>7</sup> The angel of the LORD encamps around those who fear him, and rescues them. 
 
 ## The Prayer
 

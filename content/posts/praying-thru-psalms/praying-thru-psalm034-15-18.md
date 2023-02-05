@@ -14,6 +14,7 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
 
 
 ## The Prayer

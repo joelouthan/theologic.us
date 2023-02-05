@@ -14,7 +14,12 @@ draft: false
 ---
 ## The Psalm
 
+>Psalm 33 (CSB)  
+><sup>20</sup> We wait for the LORD; he is our help and shield. 
 
+><sup>21</sup> For our hearts rejoice in him because we trust in his holy name. 
+
+><sup>22</sup> May your faithful love rest on us, LORD, for we put our hope in you.
 
 ## The Prayer
 

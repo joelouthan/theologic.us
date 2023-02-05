@@ -14,7 +14,8 @@ draft: false
 ---
 ## The Psalm
 
-
+>Psalm 34:3 (CSB)  
+><sup>3</sup> Proclaim the LORD’s greatness with me; let us exalt his name together.
 
 ## The Prayer
 
