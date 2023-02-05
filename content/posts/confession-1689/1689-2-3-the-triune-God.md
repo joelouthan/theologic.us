@@ -15,6 +15,8 @@ draft: false
 ---
 ## The Text
 
+>Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them. When they saw him, they worshiped, but some doubted. Jesus came near and said to them, **“All authority has been given to me in heaven and on earth. Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”**
+
 <div style="page-break-after: always;"></div>
 
 ## The Chapter
@@ -184,17 +186,52 @@ I don't know what our glorification will completely look like except for one thi
 
 So what can we say about these things? Indeed.
 
-### who is not to be divided in nature and being
+### who is not to be divided in nature and being but distinguished by several peculiar relative properties and personal relations
 
-TODO:
+There is a new-old heresy being circulated around that fired up about ten years ago then sort of fizzled like a fart in church, called the Eternal Submission of the Son (ESS). Those who are spouting out such nonsense are always those who fall so far into hard **Complementarianism** camp(those who believe genders of mankind are different but equal) that they are indistinguishable from Patriarchy (men are always right and women need to shut up stay quiet.) There one verse that they have built their house of cards upon is:
 
-### but distinguished by several peculiar relative properties and personal relations
+>1 Corinthians 11:3 (CSB) But I want you to know that Christ is the head of every man, and the man is the head of the woman, and God is the head of Christ.
 
-### which doctrine of the Trinity is the foundation of all our communion with God
+Now, I hope you can tell from reading the last paragraph, that I have zero grace towards people who keep teaching *ESS* like it is a real and Biblical thing. Those are false teachers and I will not stand for it. Come into my church shooting that nonsense and you will be handled promptly and according. (Not a threat but a fact.)
 
-### and comfortable dependence on him
+*Selah*
 
->Galatians 4:6 (CSB) And because you are sons, God sent the Spirit of his Son into our hearts, crying, “Abba, Father!”
+Call it Western thinking. Call it whatever you want: just because the Father is usually mentioned first does not give him more ranking than the Son nor Spirit. I know, I know mankind has been so futilely obsessed with power and influence and we have been so since the Fall of Mankind. [^Gen6-1-7]
+
+[^Gen6-1-7]: Read Genesis 6:1-7. Stay put on verse 4. For my own exposition on this passage, see [Genesis 6:1-7 The Gospel Certainty: The Wickedness of Man](https://theologic.us/posts/study-genesis/study-genesis06-1-7/)
+
+So, because of being born of Adam, indwelling of sin, and the fact we cannot help but be nurtured by the philosophies of our time, we read *into* passages like 1 Corinthians 11:3 and we put our own spin and interpretation on it. Go back to all of chapter in the context of 1 Corinthians and look me dead in the eye and tell me that is how you would interpret verse 3? Nah, I didn' think so.
+
+**Protip**: Don't take verses out of context. Now what does that mean? Don't take a standalone verse or passage out of the Bible and try to make it mean what you want it to mean and ignore the text before and after and all of Scripture. Cherry picking verses is how sects, cults, and false religions get started. See Mormons, Jehovah's Witnesses, Restoration Movement, and a whole lot of fruit from the Second Great Awakening.
+
+God the Father is God. The Son is eternally begotten with the Father. And the Holy Spirit proceeds from the Father and Son.
+
+One interesting tidbit and I will step down from my soapbox.
+
+Jesus declares "I cannot do anything unless I see my Father doing likewise":
+
+>John 5:19-20 (CSB) Jesus replied, “Truly I tell you, the Son is not able to do anything on his own, but only what he sees the Father doing. For whatever the Father does, the Son likewise does these things. For the Father loves the Son and shows him everything he is doing, and he will show him greater works than these so that you will be amazed.
+
+Yet, because Christ perfectly saved his people from their sins (Matthew 1:21), by perfectly fulfilling the law (Matthew 5:17-20), died the death we should have died for our sins (Romans 6:1-14), look how the Father glorifies the Son:
+
+>Daniel 7:13–14 (CSB)  
+><sup>13</sup> I continued watching in the night visions, and suddenly one like a son of man was coming with the clouds of heaven. He approached the Ancient of Days and was escorted before him. 
+
+><sup>14</sup> **He was given dominion and glory and a kingdom, so that those of every people, nation, and language should serve him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will not be destroyed.**
+
+Christ perfectly glorifies the Father. The Father perfectly and rightfully glorifies the Son. And they do so in the power of the Holy Spirit.
+
+Glory be his name. Amen!
+
+### which doctrine of the Trinity is the foundation of all our communion with God and comfortable dependence on him
+
+Especially in today's culture, we struggle with a lust for power--mostly because we don't want to be hurt or forgotten or abused.  And I get that. But because of how we would run the world around us cannot be put on the perfection of the Triune God. God is the source of all good, all wisdom, and is holy and righteous. And God is love. And God is perfect in love and in all things good. That is the glory of God.
+
+And upon that glory, we can rest assure that our salvation permanently and eternally secure--not because we can hope to do anything worthwhile. No. It is all rested upon the Triune God, who steadfast love towards will never come to an end because it never started. And his mercies towards will never come to an end--they are new and fresh every single morning.
+
+To the great and mighty God, his promises are yes and amen. Our promises are easily broken. We are faithless, he remains faithful. Great is his faithfulness!
+
+>Romans 8:14–17 (CSB) For all those led by God’s Spirit are God’s sons. For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
 ## The Resources
 
