@@ -84,6 +84,8 @@ params:
               url: /series/home-devotions-mark/
             - name: "Home Devotions: Matthew"
               url: /series/home-devotions-matthew/
+            - name: "Study: Ruth"
+              url: /series/study-ruth/
             - name: "Study: Romans"
               url: /series/study-romans/
             - name: "Study: Genesis"
