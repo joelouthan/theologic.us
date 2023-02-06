@@ -171,6 +171,23 @@ Social:
 #         lineNos: true
 #         style: monokai
 
+outputFormats:
+  mp3feed:
+    MediaType: "application/rss+xml"
+    BaseName: "index"
+    path: "/feed/mp3"
+    IsHTML: false
+    IsPlainText: true
+    noUgly: true
+    Rel: "alternate"
+
+outputs:
+  home:
+    - HTML
+    - AMP
+    - RSS
+    - mp3feed
+
 markup:
   goldmark:
     renderer:
