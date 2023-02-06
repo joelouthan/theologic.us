@@ -94,9 +94,17 @@ That said, you must know the Bible.
 >>
 >>Spurgeon
 
+Biblical preaching is preaching the Bible.
 
+## What is Preaching: Energetic
 
-## What is Preaching: 
+Biblical preaching with the emphasis on the preaching.
+
+All preaching starts with teaching. But preaching is brought with energy and passion. It is above the monotone and straight-line voice.
+
+>>Preaching is theology on fire--logic on fire. MLJ
+
+Passion. Zeal. Force of Conviction. Intensity. Sharpness of focus.
 
 ## What is Preaching: 
 
