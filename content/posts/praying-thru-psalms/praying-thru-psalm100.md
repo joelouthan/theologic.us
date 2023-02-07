@@ -10,7 +10,7 @@ series:
   - "Psalms"
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Psalm
 
@@ -30,9 +30,52 @@ draft: true
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Goodness
 </div>
 
 ```text
+I will sing!
+  And I will shout!
+  I will praise the Lord of Hosts!
+  For he alone is worthy to be praised!
 
+He is my heart and my life
+  I will gladly lay down my life
+  because he has saved me from the depths of hell
+  because he has loved me from the beginning of time
+  because he has kept me close to his precious heart
+  because I am his son and he is my Father
+
+So whatever I can do
+  however I can proclaim
+  however I can sing
+  however I can dance
+  however I will write
+  however I will think
+  however I will worship
+  my great God who is the source of all good
+  he alone has been good to me
+  for the world and sin and Satan and his demons
+  have sought to destroy me and crushed me and keep me from my God
+
+But my God is stronger
+  of infinite might
+  he has nor will ever lose me
+  he has sent his only begotten Son
+  to destroy and vanquished the forces of evil
+
+Now my enemies are down
+  they have no power over me
+  for the Triune God lives in me
+  forever
+  I am his and he is mine
+
+He has loved me with an everlasting love
+  let me sing unto my God
+  let me gaze upon his beauty
+  let me write a trillion words
+  and I will fall short
+  because there is no end to his loveliness
+
+Amen
 ```
