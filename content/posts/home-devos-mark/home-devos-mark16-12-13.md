@@ -1,5 +1,5 @@
 ---
-title: "Home Devotions: Mark 16:12-13 Every Step Is Joy: Christ Fulfilled The Law For Us"
+title: "Home Devotions: Mark 16:12-13 Every Step Is Joy: Christ Has Saved His People From Their Sins"
 author: Joseph Louthan
 publishDate: 2023-02-10T00:00:00-05:00
 categories:
@@ -11,15 +11,45 @@ series:
   - "Home Devotions: Mark"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+
+>Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”
+
 ## The Text
 
+>Mark 16:12–13 (CSB)  
+><sup>12</sup> After this, he appeared in a different form to two of them walking on their way into the country. 
 
+><sup>13</sup> And they went and reported it to the rest, who did not believe them either.
 
 ## The Devotion
 
+Our salvation is complete. It is done. It is finished. It is perfect.
 
+We don't get to do anything. Christ has done it all.
+
+We can't do anything because no of us is good--no, not even one.
+
+God alone is good.
+
+When Christ truly preached absolute truth, "It is finished!" That was it. He was done. There was nothing for us to do but to be saved.
+
+For all our sins, wickedness, depravity, treason, malice, hatred, foolishness, deception, slavery, bondage, corruption, Christ saw that, removed that from us and put it on him. For:
+
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+And
+
+>Matthew 11:28-30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”
+
+Today, now is the time, give your sins to Jesus. He will give you his righteousness so that you will not perish but have everlasting life.
+
+Right now. The price has been paid by God himself back to God. If you do not know God, you can do so today. Remember the promises of God: go to God, ask for God, you will instantly get to God.
+
+Now that? You can't do that unless the Spirit dwells in you. Can you ask that of God? Then do so now. If you can't, you have to ask yourself, "Why can't I go to God?" You are seriously going to sit there and not let you bother you? You are going to think that there is nothing of the wrath of God that remains on the unbeliever.
+
+You have seen the proof: God saves his people. So go to God. Receive God. Be with God. Forever.
 
 Every step that Christ took towards the cross was in complete joy and satisfaction because every step he took was one step closer to completely, satisfactorily, perfectly, definitely, absolutely, forever "save his people from their sins."
 
