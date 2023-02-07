@@ -105,7 +105,6 @@ draft: true
 
 ><sup>45</sup> All this happened so that they might keep his statutes and obey his instructions. Hallelujah!
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

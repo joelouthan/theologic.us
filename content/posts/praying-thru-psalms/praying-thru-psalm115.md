@@ -15,7 +15,6 @@ draft: true
 ## The Psalm
 
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

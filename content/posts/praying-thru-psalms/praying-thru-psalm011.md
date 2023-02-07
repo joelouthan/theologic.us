@@ -32,7 +32,6 @@ draft: false
 ><sup>7</sup> For the LORD is righteous; he loves righteous deeds. The upright will see his face.
 
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

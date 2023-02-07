@@ -73,7 +73,6 @@ draft: true
 
 ><sup>28</sup> Your servants’ children will dwell securely, and their offspring will be established before you.”
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

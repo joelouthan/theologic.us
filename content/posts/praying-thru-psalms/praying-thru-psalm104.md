@@ -85,7 +85,6 @@ draft: true
 
 ><sup>35</sup> May sinners vanish from the earth and wicked people be no more. My soul, bless the LORD! Hallelujah!
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

@@ -33,7 +33,6 @@ draft: true
 
 ><sup>8</sup> Every morning I will destroy all the wicked of the land, wiping out all evildoers from the LORD’s city.
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

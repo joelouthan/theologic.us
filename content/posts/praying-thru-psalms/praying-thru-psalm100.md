@@ -27,7 +27,6 @@ draft: true
 
 ><sup>5</sup> For the LORD is good, and his faithful love endures forever; his faithfulness, through all generations.
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">

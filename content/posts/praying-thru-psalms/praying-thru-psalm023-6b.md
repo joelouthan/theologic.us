@@ -16,7 +16,6 @@ draft: false
 
 >Psalm 23:6b (CSB) faithful love
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">
