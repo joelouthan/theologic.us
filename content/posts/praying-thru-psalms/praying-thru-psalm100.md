@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: "
+title: "Praying Through: Psalm 100 Goodness"
 author: Joseph Louthan
 publishDate: 2023-02-04T00:00:00-05:00
 categories:
@@ -37,4 +37,3 @@ draft: true
 ```text
 
 ```
-
