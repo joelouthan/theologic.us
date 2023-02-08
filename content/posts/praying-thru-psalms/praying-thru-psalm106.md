@@ -111,7 +111,6 @@ draft: true
 
 ><sup>48</sup> Blessed be the LORD God of Israel, from everlasting to everlasting. Let all the people say, “Amen!” Hallelujah!
 
-
 ## The Prayer
 
 <div style="font-variant: small-caps;">
