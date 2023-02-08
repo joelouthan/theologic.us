@@ -271,7 +271,9 @@ Randy & Laquita, son
 
 ## Lexington
 
-Shelby, Joe & Lyla 
+Shelby, Joe & Lyla (Salon)
+
+Ashley (manager, Coffee Times)
 
 ### Oasis Community Church
 
