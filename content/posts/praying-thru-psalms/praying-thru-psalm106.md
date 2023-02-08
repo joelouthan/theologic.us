@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 106 Everlasting"
 author: Joseph Louthan
-publishDate: 2025-02-15T00:00:00-05:00
+publishDate: 2023-03-18T00:00:00-05:00
 categories:
   - Prayers
 tags:

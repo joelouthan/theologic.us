@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 101 Worthy"
 author: Joseph Louthan
-publishDate: 2025-01-11T00:00:00-05:00
+publishDate: 2023-02-11T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -36,9 +36,40 @@ draft: true
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Worthy
 </div>
 
 ```text
+You have picked me
+  a cistern of destruction
+  a vessel to rightfully receive your wrath
 
+And instead you have made me
+  a lamp of your grace
+  a temple of your mercy
+  a receiver of your compassion
+
+Because
+  the Spirit rests and dwells in me
+  the Son lives in my heart
+  the Father have made your home in me
+
+For I will worship you
+  all of my days
+  because you have chosen me
+  a man fit for destruction
+  cleansed me and washed me
+  and made me yours
+
+For as long as you are with me
+  I will forever be saved
+  because your works are perfect
+  your faithfulness is certain
+  and your love is steadfast
+
+I praise you for your mercy
+  and kindness
+  for all of my days
+
+Amen
 ```

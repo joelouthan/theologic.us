@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 103 Forgiving"
 author: Joseph Louthan
-publishDate: 2025-01-25T00:00:00-05:00
+publishDate: 2023-02-25T00:00:00-05:00
 categories:
   - Prayers
 tags:
