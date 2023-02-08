@@ -1,14 +1,14 @@
 ---
-title: "Home Devotions: Matthew 3:13-17 Jesus Christ is Our Satisfaction"
+title: "Devotions: Matthew 3:13-17 Jesus Christ is Our Satisfaction"
 author: Joseph Louthan
 publishDate: 2022-06-18T00:00:00-05:00
 categories:
   - Commentaries
-  - Home Devotions
+  - Devotions
 tags:
   - "Matthew"
 series:
-  - "Home Devotions: Matthew"
+  - "Devotions: Matthew"
 tocopen: true
 css: "prayers"
 draft: true

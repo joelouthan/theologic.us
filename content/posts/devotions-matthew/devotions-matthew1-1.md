@@ -1,14 +1,14 @@
 ---
-title: "Home Devotions: Matthew 1:1 Jesus Christ is the Good News"
+title: "Devotions: Matthew 1:1 Jesus Christ is the Good News"
 author: Joseph Louthan
 publishDate: 2022-01-22T00:00:00-05:00
 categories:
   - Commentaries
-  - Home Devotions
+  - Devotions
 tags:
   - "Matthew"
 series:
-  - "Home Devotions: Matthew"
+  - "Devotions: Matthew"
 tocopen: true
 css: "prayers"
 draft: false

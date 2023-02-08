@@ -1,14 +1,14 @@
 ---
-title: "Home Devotions: Matthew 2:1-12 Jesus Christ is Our King"
+title: "Devotions: Matthew 2:1-12 Jesus Christ is Our King"
 author: Joseph Louthan
 publishDate: 2022-05-07T00:00:00-05:00
 categories:
   - Commentaries
-  - Home Devotions
+  - Devotions
 tags:
   - "Matthew"
 series:
-  - "Home Devotions: Matthew"
+  - "Devotions: Matthew"
 tocopen: true
 css: "prayers"
 draft: false

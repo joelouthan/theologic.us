@@ -1,14 +1,14 @@
 ---
-title: "Home Devotions: Matthew 4:18-22 Jesus Christ is Our Calling"
+title: "Devotions: Matthew 4:18-22 Jesus Christ is Our Calling"
 author: Joseph Louthan
 publishDate: 2022-07-09T00:00:00-05:00
 categories:
   - Commentaries
-  - Home Devotions
+  - Devotions
 tags:
   - "Matthew"
 series:
-  - "Home Devotions: Matthew"
+  - "Devotions: Matthew"
 tocopen: true
 css: "prayers"
 draft: true

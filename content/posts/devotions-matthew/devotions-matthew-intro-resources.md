@@ -3,11 +3,11 @@ title: "Matthew: Introductions & Resources"
 author: Joseph Louthan
 publishDate: 2022-01-15T00:00:00-05:00
 categories:
-  - Home Devotions
+  - Devotions
 tags:
   - "Matthew"
 series:
-  - "Home Devotions: Matthew"
+  - "Devotions: Matthew"
 tocopen: true
 css: "prayers"
 draft: false
