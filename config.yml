@@ -80,20 +80,20 @@ params:
               url: /tags/1689/
             - name: "The Apostles' Creed"
               url: /series/doctrine-apostles-creed/
-            - name: "Home Devotions: Mark"
-              url: /series/home-devotions-mark/
-            - name: "Home Devotions: Matthew"
-              url: /series/home-devotions-matthew/
+            - name: "Devotions: Mark"
+              url: /series/devotions-mark/
+            - name: "Devotions: Luke"
+              url: /series/devotions-luke/
+            - name: "Devotions: Matthew"
+              url: /series/devotions-matthew/
             - name: "Study: Ruth"
               url: /series/study-ruth/
             - name: "Study: Romans"
               url: /series/study-romans/
             - name: "Study: Genesis"
               url: /series/study-genesis/
-            - name: "Gospel NT: Pastoral Epistles"
+            - name: "Gospel: Pastoral Epistles"
               url: /series/gospel-nt-pastorals/
-            - name: "Kid Devotions: Luke"
-              url: /series/kid-devotions-luke/
             - name: Additional Series
               url: series
             - name: "Contact Me"
