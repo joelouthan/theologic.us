@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 10:1–13 God Proclaims"
+title: "Study: Romans 10:14-21 God Proclaims"
 author: Joseph Louthan
 publishDate: 2023-02-13T00:00:00-05:00
 categories:
@@ -15,33 +15,22 @@ draft: true
 ---
 ## The Text
 
->Romans 10:1–13 (CSB)  
-><sup>1</sup> Brothers and sisters, my heart’s desire and prayer to God concerning them is for their salvation. 
+>Romans 10:14–21 (CSB)  
+><sup>14</sup> How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher? 
 
-><sup>2</sup> I can testify about them that they have zeal for God, but not according to knowledge. 
+><sup>15</sup> And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news. 
 
-><sup>3</sup> Since they are ignorant of the righteousness of God and attempted to establish their own righteousness, they have not submitted to God’s righteousness. 
+><sup>16</sup> But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message? 
 
-><sup>4</sup> For Christ is the end of the law for righteousness to everyone who believes, 
+><sup>17</sup> So faith comes from what is heard, and what is heard comes through the message about Christ. 
 
-><sup>5</sup> since Moses writes about the righteousness that is from the law: The one who does these things will live by them. 
+><sup>18</sup> But I ask, “Did they not hear?” Yes, they did: Their voice has gone out to the whole earth, and their words to the ends of the world. 
 
-><sup>6</sup> But the righteousness that comes from faith speaks like this: Do not say in your heart, “Who will go up to heaven?” that is, to bring Christ down 
+><sup>19</sup> But I ask, “Did Israel not understand?” First, Moses said, I will make you jealous of those who are not a nation; I will make you angry by a nation that lacks understanding. 
 
-><sup>7</sup> or, “Who will go down into the abyss?” that is, to bring Christ up from the dead. 
+><sup>20</sup> And Isaiah says boldly, I was found by those who were not looking for me; I revealed myself to those who were not asking for me. 
 
-><sup>8</sup> On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim: 
-
-><sup>9</sup> If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. 
-
-><sup>10</sup> One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. 
-
-><sup>11</sup> For the Scripture says, Everyone who believes on him will not be put to shame, 
-
-><sup>12</sup> since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. 
-
-><sup>13</sup> For everyone who calls on the name of the Lord will be saved.
-
+><sup>21</sup> But to Israel he says, All day long I have held out my hands to a disobedient and defiant people.
 
 ## The Introduction
 
