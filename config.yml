@@ -4,7 +4,7 @@ paginate: 1000
 theme: PaperMod
 
 rssLimit: 100
-copyright: "2022 Joseph Louthan All Rights Reserved"
+copyright: "&copy;2023 by Joseph Louthan, All Rights Reserved,"
 languageCode: "en-us"
 
 author:
