@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 105 Wonderous"
 author: Joseph Louthan
-publishDate: 2025-02-08T00:00:00-05:00
+publishDate: 2023-03-11T00:00:00-05:00
 categories:
   - Prayers
 tags:
