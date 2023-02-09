@@ -111,6 +111,10 @@ params:
           url: "https://bibly.com/@joseph"
         - name: linkedin
           url: "https://linkedin.com/in/joelouthan"
+        - name: discord
+          url: "https://discord.gg/DntJ4rh5eN"
+        - name: calendar
+          url: "https://calendar.app.google/hMeh4vnexCW29jX46"
         - name: twitter
           url: "https://twitter.com/theologic_us"
         - name: instagram
@@ -162,6 +166,7 @@ Social:
     instagram: "josephlouthan"
     linkedin: "joelouthan"
     twitter: "josephlouthan"
+    github: "joelouthan"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
