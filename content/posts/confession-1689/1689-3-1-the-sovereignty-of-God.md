@@ -19,14 +19,52 @@ draft: true
 ## The Chapter
 
 ```text
-
+God hath decreed in himself, from all eternity, by the most wise and holy counsel of his own will, freely and unchangeably, all things, whatsoever comes to pass; yet so as thereby is God neither the author of sin nor hath fellowship with any therein; nor is violence offered to the will of the creature, nor yet is the liberty or contingency of second causes taken away, but rather established; in which appears his wisdom in disposing all things, and power and faithfulness in accomplishing his decree.
 ```
 
 <div style="page-break-after: always;"></div>
 
 ## The Confession
 
-### 
+### God hath decreed in himself from all eternity
+
+>Isaiah 46:10 (CSB) I declare the end from the beginning, and from long ago what is not yet done, saying: my plan will take place, and I will do all my will.
+
+### by the most wise and holy counsel of his own will
+
+>Ephesians 1:11 (CSB) In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
+
+### freely and unchangeably
+
+>Hebrews 6:17 (CSB) Because God wanted to show his unchangeable purpose even more clearly to the heirs of the promise, he guaranteed it with an oath,
+
+### all things
+
+>Romans 8:28–30 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+### whatsoever comes to pass
+
+>Romans 9:15–18 (CSB) For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. So then, it does not depend on human will or effort but on God who shows mercy. For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
+
+### yet so as thereby is God neither the author of sin nor hath fellowship with any therein nor is violence offered to the will of the creature
+
+>James 1:13 (CSB) No one undergoing a trial should say, “I am being tempted by God,” since God is not tempted by evil, and he himself doesn’t tempt anyone.
+
+>1 John 1:5 (CSB) This is the message we have heard from him and declare to you: God is light, and there is absolutely no darkness in him.
+
+### nor yet is the liberty or contingency of second causes taken away
+
+>Acts 4:27–28 (CSB) “For, in fact, in this city both Herod and Pontius Pilate, with the Gentiles and the people of Israel, assembled together against your holy servant Jesus, whom you anointed, to do whatever your hand and your will had predestined to take place.
+
+>John 19:11 (CSB) “You would have no authority over me at all,” Jesus answered him, “if it hadn’t been given you from above. This is why the one who handed me over to you has the greater sin.”
+
+### but rather established; in which appears his wisdom in disposing all things
+
+>Numbers 23:19 (CSB) God is not a man, that he might lie, or a son of man, that he might change his mind. Does he speak and not act, or promise and not fulfill?
+
+### and power and faithfulness in accomplishing his decree.
+
+>Ephesians 1:3–5 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
 
 ## The Resources
 
