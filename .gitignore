@@ -35,3 +35,5 @@ vendor
 content/posts/*/x-*.md
 
 dns-theologic_us.txt
+
+scratch.txt
