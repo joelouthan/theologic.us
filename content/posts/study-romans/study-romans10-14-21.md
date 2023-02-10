@@ -34,17 +34,66 @@ draft: true
 
 ## The Introduction
 
+### God proclaims: Christ is the will of God
+
+>Deuteronomy 7:6–7 (CSB)  
+><sup>6</sup> For you are a holy people belonging to the LORD your God. The LORD your God has chosen you to be his own possession out of all the peoples on the face of the earth. 
+
+><sup>7</sup> “The LORD had his heart set on you and chose you, not because you were more numerous than all peoples, for you were the fewest of all peoples.
+
 <div style="page-break-after: always;"></div>
 
 ## Our God
+
+><sup>14</sup> How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher? 
+
+### God proclaims: Christ is the prophecy of God alone
+
+---
+
+><sup>15</sup> And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news. 
+
+### God proclaims: Christ is the sermon of God alone
+
+---
+
+><sup>16</sup> But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message? 
+
+### God proclaims: Christ is the message of God alone
 
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
 
+><sup>17</sup> So faith comes from what is heard, and what is heard comes through the message about Christ.  
+
+### God proclaims: Christ is the gospel of God alone
+
+---
+
+><sup>18</sup> But I ask, “Did they not hear?” Yes, they did: Their voice has gone out to the whole earth, and their words to the ends of the world.
+
+### God proclaims: Christ is the voice of God alone
+
 <div style="page-break-after: always;"></div>
 
 ## Our Response
+
+><sup>19</sup> But I ask, “Did Israel not understand?” First, Moses said, I will make you jealous of those who are not a nation; I will make you angry by a nation that lacks understanding. 
+
+### God proclaims: Christ is the understanding of God alone
+
+---
+
+><sup>20</sup> And Isaiah says boldly, I was found by those who were not looking for me; I revealed myself to those who were not asking for me. 
+
+### God proclaims: Christ is the revelation of God alone
+
+---
+
+><sup>21</sup> But to Israel he says, All day long I have held out my hands to a disobedient and defiant people.
+
+### God proclaims: Christ is the obedience of his people to God alone
 
 ## The Resources
 
