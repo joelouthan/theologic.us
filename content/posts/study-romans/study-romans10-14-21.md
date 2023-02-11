@@ -42,7 +42,7 @@ But why does it seem as though Paul has taking a sharp turn in addressing the Is
 
 Paul is writing to this Roman church that Christ is the will of God and the fulfillment of their prophecy and covenant. In other words, all of the OT promises made by God were fulfilled by the revealed Son of God that is Jesus Christ our Lord.
 
-### God proclaims: Christ is the will of God
+### God proclaims: Christ is the will of God fulfilled
 
 But let us go back all the way to the Torah. Up until Deuteronomy, we have clearly seen that, while God did not exclude any Gentile from worshipping and obeying him (Moses' wife and father-in-law), starting with Abraham, he started to form a shape a people for themselves. 
 
