@@ -34,6 +34,8 @@ draft: true
 
 ## The Introduction
 
+TODO:
+
 ### God proclaims: Christ is the will of God
 
 >Deuteronomy 7:6–7 (CSB)  
