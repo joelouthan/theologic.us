@@ -34,22 +34,44 @@ draft: true
 
 ## The Introduction
 
-TODO:
+So those of us who fallen in the trap of dismissing Romans 9-11 as though it was just mean and preached towards the Israelites, we can clearly see just from the context of Scripture and of Romans and Romans 8 leading into 9, 10, 11 is that this is meant for the Christian. For Scripture is divinely inspired by God and is profitable for teaching.
+
+But make no mistake: the Scripture is profitable for teaching not as a self-help, history, science nor even as standalone little verses that have nothing to do with one another but all the Scripture is about Christ. As preachers of old love to say: Old Testament is Christ concealed and the New Testament is Christ revealed.
+
+But why does it seem as though Paul has taking a sharp turn in addressing the Israelites. Remember, just like the Hebrews were written to the Jewish Christians (which in that time was the majority of Christians in comparison to Gentile Christians), Paul was writing this to the Christians im the city of Rome--which again, the vast majority were Jewish and grew up in the Jewish faith.
+
+Paul is writing to this Roman church that Christ is the will of God and the fulfillment of their prophecy and covenant. In other words, all of the OT promises made by God were fulfilled by the revealed Son of God that is Jesus Christ our Lord.
 
 ### God proclaims: Christ is the will of God
+
+But let us go back all the way to the Torah. Up until Deuteronomy, we have clearly seen that, while God did not exclude any Gentile from worshipping and obeying him (Moses' wife and father-in-law), starting with Abraham, he started to form a shape a people for themselves. 
+
+Out of all the nations, he would could have chosen some one powerful, with lots of connections, with military might or wealth. But out of Abraham, he chose the opposite.
 
 >Deuteronomy 7:6–7 (CSB)  
 ><sup>6</sup> For you are a holy people belonging to the LORD your God. The LORD your God has chosen you to be his own possession out of all the peoples on the face of the earth. 
 
 ><sup>7</sup> “The LORD had his heart set on you and chose you, not because you were more numerous than all peoples, for you were the fewest of all peoples.
 
+Now why is that important? It was out of this people group that God will fulfill his promise to "crush the head of the serpent" (Genesis 3:15). It was out of this nationality that Mary shall bear a son and they will call his name Jesus for he will save his people from their sins (Matthew 1:21) Make no mistake, the King of kings and the Lord of lords is the King of Jews because Christ himself is Jewish.
+
+It was the will and the providence of God alone that the Jewish people would be set apart and be the land and the nation that Christ would be revealed.
+
+But to that end, they are not automatically saved. They were born in sin when Adam broke the covenant. But they must put their faith and trust into the Lord Jesus Christ to take a hold of a new covenant. There is not extra covenant--no side covenant with the Jews. Just the one whom the will of God has revealed--the Lord Jesus Christ.
+
+I tell you this for those of us who will dare to explore eschatology--the theology of the end times--be sure that you theology is rock solid and your doctrine is rock solid. That is, that your theology and your doctrine is based and about and through and revealed in the Lord Jesus Christ!
+
 <div style="page-break-after: always;"></div>
 
 ## Our God
 
+Now watch this. In this Romans 10 passage, starting at verse 14, let us see how Christ is revealed to the Jew first and also to the Greek. (Romans 1:16b)
+
 ><sup>14</sup> How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher? 
 
-### God proclaims: Christ is the prophecy of God alone
+### God proclaims: Christ is the supreme preacher of God alone
+
+TODO:
 
 ---
 
