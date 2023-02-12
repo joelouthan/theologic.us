@@ -17,6 +17,10 @@ I pray that every single person in the Restoration Movement would be saved by Yo
 
 Only You can do this. 
 
+I pray that everyone that is in Wilmore in this time will be saved and will be sent to a local church. 
+
+Only You can do this. 
+
 Let me see your glory!
 
 Amen.
