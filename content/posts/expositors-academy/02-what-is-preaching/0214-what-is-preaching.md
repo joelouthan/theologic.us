@@ -1,7 +1,7 @@
 ---
 title: "Lecture 14: What is Preaching?"
 author: Joseph Louthan
-publishDate: 2023-02-07
+publishDate: 2023-02-13
 categories:
   - Study Notes
   - Preaching
@@ -136,16 +136,60 @@ cried out: to scream
 
 >>Dispassionate preaching is a lie. RCS.
 
-## What is Preaching: 
+Do you really believe this? Have this taken a hold of your heart?
 
-## What is Preaching: 
+## What is Preaching: Energetic
 
-## What is Preaching: 
+More than a 1:1 conversation. More than leading a Bible Study.
 
-## What is Preaching: 
+karuso - crier; herald
 
-## What is Preaching: 
+## What is Preaching: Exegetic
 
-## What is Preaching: 
+More than raising your voice. You are drawing from a deep well.
 
-## What is Preaching: 
+Strict attention giving to the details of the word of God. Careful observations.
+
+Meaning of words. Parsing of verbs. Modifiers. Sentence structures. Grammar. Syntax. 
+
+Literary devices: narrative, historical, poetry, etc..
+
+>>The meaning of the text is the text. Until you get to the meaning of the text, all you have is black text on while paper. JMac
+
+All truth is propositional. It is black and white. It is clear. Factual. Rational. No ambiguity, vagueness, fuzziness.
+
+The **perspicuity of the Scripture**. The word of God is crystal clear on all matters of salvation and Christian living.
+
+```text
+1689.10.6 The whole counsel of God, concerning all things necessary for His own glory, man’s salvation, faith, and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture
+```
+
+If Scripture is clear, than our preaching must be clear.
+
+>> No clearer book has been written on the earth than the Holy Scriptures. Luther.
+
+## What is Preaching: Our Calling 2 Timothy 2:15
+
+>2 Timothy 2:15 (CSB) Be diligent to present yourself to God as one approved, a worker who doesn’t need to be ashamed, correctly teaching the word of truth.
+
+### Be diligent
+
+All in
+
+### Be approved
+
+Be tested by God. He tests our theology and doctrine.
+
+>1 Corinthians 3:13–14 (CSB) each one’s work will become obvious. For the day will disclose it, because it will be revealed by fire; the fire will test the quality of each one’s work. If anyone’s work that he has built survives, he will receive a reward.
+
+### Cannot be ashamed
+
+### Workman
+
+Field worker, in the hot sun in the open field. Labor and toil in the Scriptures.
+
+>James 3:1 (CSB) Not many should become teachers, my brothers, because you know that we will receive a stricter judgment.
+
+There is a stricter accountability before God in front of people for the those of us who handles and correctly teaching the word of truth.
+
+>>And therefore, at the heart of every pastor’s work is book-work. Call it reading, meditation, reflection, cogitation, study, exegesis, or whatever you will — a large and central part of our work is to wrestle God’s meaning from a Book, and proclaim it in the power of the Holy Spirit. Piper
