@@ -11,9 +11,17 @@ tocopen: false
 
 ## Request
 
-Now I have seen what trials and afflictions I have gone through just so that I can look a little like you and do a little of what your Son has called me to do. 
+Lord,
 
-Lord, if you are not finished, then please don’t stop until I can do what your grace has me to do. 
+I pray that every single person in the Restoration Movement would be saved by You alone. 
+
+Only You can do this. 
+
+I pray that everyone that is in Wilmore in this time will be saved and will be sent to a local church. 
+
+Only You can do this. 
+
+Let me see your glory!
 
 Amen.
 
