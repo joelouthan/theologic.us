@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 10:14-21 God Proclaims"
 author: Joseph Louthan
-publishDate: 2023-02-13T00:00:00-05:00
+publishDate: 2023-02-20T00:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -11,7 +11,7 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
