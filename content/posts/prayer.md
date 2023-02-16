@@ -1,7 +1,7 @@
 ---
 title: "Daily Prayer"
 author: Joseph Louthan
-publishDate: 2022-05-19T05:00:00-05:00
+publishDate: 2023-02-15T05:00:00-05:00
 url: /prayer/
 draft: false
 index: false
@@ -9,7 +9,7 @@ css: "prayers"
 tocopen: false
 ---
 
-## Faith comes by hearing the word of Christ
+## Faith
 
 >Romans 10:1–17 (CSB)  
 ><sup>1</sup> Brothers and sisters, my heart’s desire and prayer to God concerning them is for their salvation.
