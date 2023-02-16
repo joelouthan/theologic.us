@@ -9,17 +9,58 @@ css: "prayers"
 tocopen: false
 ---
 
+## Faith comes by hearing the word of Christ
+
+>Romans 10:1–17 (CSB)  
+><sup>1</sup> Brothers and sisters, my heart’s desire and prayer to God concerning them is for their salvation.
+
+><sup>2</sup> I can testify about them that they have zeal for God, but not according to knowledge.
+
+><sup>3</sup> Since they are ignorant of the righteousness of God and attempted to establish their own righteousness, they have not submitted to God’s righteousness.
+
+><sup>4</sup> For Christ is the end of the law for righteousness to everyone who believes,
+
+><sup>5</sup> since Moses writes about the righteousness that is from the law: The one who does these things will live by them.
+
+><sup>6</sup> But the righteousness that comes from faith speaks like this: Do not say in your heart, “Who will go up to heaven?” that is, to bring Christ down
+
+><sup>7</sup> or, “Who will go down into the abyss?” that is, to bring Christ up from the dead.
+
+><sup>8</sup> On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim:
+
+><sup>9</sup> If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
+
+><sup>10</sup> One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation.
+
+><sup>11</sup> For the Scripture says, Everyone who believes on him will not be put to shame,
+
+><sup>12</sup> since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him.
+
+><sup>13</sup> For everyone who calls on the name of the Lord will be saved.
+
+><sup>14</sup> How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher?
+
+><sup>15</sup> And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news.
+
+><sup>16</sup> But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message?
+
+><sup>17</sup> So faith comes from what is heard, and what is heard comes through the message about Christ.
+
 ## Request
 
 Lord,
 
 I pray that every single person in the Restoration Movement would be saved by You alone. 
 
-Only You can do this. 
+Only You can do this.
 
-I pray that everyone that is in Wilmore in this time will be saved and will be sent to a local church. 
+I pray that everyone that is in Wilmore in this time will be saved and will be sent to a local church.
 
-Only You can do this. 
+Only You can do this.
+
+Lord, send faithful preachers to Asbury to proclaim your Son's great name, His great gospel, and His great love for us. For:
+
+Only You can do this.
 
 Let me see your glory!
 
