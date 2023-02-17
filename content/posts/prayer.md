@@ -58,7 +58,7 @@ I pray that everyone that is in Wilmore in this time will be saved and will be s
 
 Only You can do this.
 
-Lord, send faithful preachers to Asbury to proclaim your Son's great name, His great gospel, and His great love for us. For:
+Lord, send faithful preachers to Asbury to proclaim your Son's great name, His great gospel, and His great love for us.
 
 Only You can do this.
 
