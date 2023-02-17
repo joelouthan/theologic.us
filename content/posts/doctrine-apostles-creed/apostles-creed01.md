@@ -165,10 +165,6 @@ And
 
 >John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
 
-#### The Father Gives You: Righteousness
-
->2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
-
 #### The Father Gives You: Adoption as His Child
 
 >Romans 8:14–17 (CSB) For all those led by God’s Spirit are God’s sons. For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
@@ -189,7 +185,37 @@ Keep in mind that "the Father is of none, neither begotten nor proceeding" [^168
 
 ### Almighty
 
-The Apostles' Creed, of all the things that 
+The Apostles' Creed, of all the things that it says God is, it simply calls him Almighty. Almighty simply means all might or or all strength.
+
+We tend to thing of the strong or even the strongest in the world as being someone of immense strength. But speak to those men and women and they will only tell you how weak they are when they cannot lift a certain weight at the weight they want to lift.
+
+But the Father, with all things proceeding from him, has all the strength. He is Almighty. For:
+
+>Psalm 24:1–2 (CSB) The earth and everything in it, the world and its inhabitants, belong to the LORD; for he laid its foundation on the seas and established it on the rivers.
+
+>Isaiah 50:2–3 (CSB) Why was no one there when I came? Why was there no one to answer when I called? Is my arm too weak to redeem? Or do I have no power to rescue? Look, I dry up the sea by my rebuke; I turn the rivers into a wilderness; their fish rot because of lack of water and die of thirst. I dress the heavens in black and make sackcloth their covering.
+
+If he has all the power and might, then he alone is completely free to do, for:
+
+>Psalm 115:3 (CSB) Our God is in heaven and does whatever he pleases.
+
+God has the freedom to do as his will dictates. He is God. In comparison, we, mankind, as his creation who belongs to him, have a will that is free to do what we want but limited. We cannot be 9 feet tall. We cannot sprout wings and fly. We cannot do all things perfectly. And in our brokenness and sin, we cannot ascend to God.
+
+But God knew this. He already knew this. And the Almighty God, maker of heaven, earth, and hell, sent his only begotten Son, Jesus Christ, Son of God who is God to us.
+
+When our original parents, Adam and Eve, disobeyed God and sin broken the cosmos, the world, and their hearts, they were ashamed and filled with guilt. They wanted to so badly to cover up their sin. They hid because they did not want God to find them. And they covered themselves with mud and leaves in case God did find them they would be covered.
+
+We do not have the ability, in our flesh, to cover up with our righteousness. Our righteousness is filthy rags in his sight. But God knew that. He sent his Son, in his perfect righteousness, to take on our flesh, so that he could cover us in his righteousness. For:
+
+>Isaiah 1:18–19 (CSB) “Come, let’s settle this,” says the LORD. “Though your sins are scarlet, they will be as white as snow; though they are crimson red, they will be like wool. If you are willing and obedient, you will eat the good things of the land.
+
+And
+
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+We are weak. We cannot cover up ourselves enough to be holy unto God. Yet, God is almighty. He alone was strong enough to come down from glory to take us on in order to save us from our sins.
+
+That is the Almighty God.
 
 ## The Resources
 
