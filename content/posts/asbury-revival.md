@@ -8,7 +8,7 @@ tags:
   - "Asbury Revival"
 series:
   - Revival
-tocopen: true
+tocopen: false
 css: "prayers"
 draft: false
 ---
