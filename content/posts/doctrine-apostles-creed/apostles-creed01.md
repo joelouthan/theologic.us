@@ -38,6 +38,18 @@ I believe in God, the Father Almighty
 
 ## The Belief
 
+The Apostles' Creed. This is the earliest statement of faith. The earliest written form of this creed is found in a letter that Marcellus of Ancyra wrote in Greek to Julius, the bishop of Rome, about AD 341. [^logos-apostles] Fifty years later, around 390, it started showing up in commentaries and books. This became the creed, the statement of faith, and was recited in church and before water baptisms of new believers.
+
+[^logos-apostles]: From [Logos: The Apostles' Creed: Its History and Origins](https://www.logos.com/grow/the-apostles-creed-its-history-and-origins/)
+
+This creed is not just something to recite. For you to recite it means you must believe. We might be able to recite it and not give it a second thought. But back in those days, if you said this with your lips, that might mean you are accepting the most brutal persecution by the Roman government--the same government who crucified our Christ were persecuting Christians and throwing them to lions to be devoured or taking their corpses, dipping in tar, placing them on a pole to to be the source of light for nighttime parties.
+
+>1 Corinthians 12:1–3 (CSB) Now concerning spiritual gifts: brothers and sisters, I do not want you to be unaware. You know that when you were pagans, you used to be enticed and led astray by mute idols. Therefore I want you to know that no one speaking by the Spirit of God says, “Jesus is cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
+
+If you believe this, know what you are believing. You are believing in Christ for your life.
+
+What does that look like? Let us who this ancient statement of faith and examine it.
+
 ### I believe
 
 >Hebrews 11:6 (CSB) Now without faith it is impossible to please God, since the one who draws near to him must believe that he exists and that he rewards those who seek him.
@@ -105,9 +117,79 @@ But can I tell you something? If you have the will to ask God for God, that is a
 
 ### in God
 
+I love the show **Ted Lasso**. The premise of the show is simple, "If you want something, you must believe in something." What you believe in has to be something substantial and worthwhile.
+
+I wish that could apply to anything we want to do or achieve. The opposite is quite true: if you don't believe in what you are doing, more than likely, you will not accomplish it. You will more than likely fail.
+
+But just to believe in something won't necessarily make it true. Like I can believe in being a ga-zillionaire but I still have the same provision of God that I have always have. (That is a study for another time.)
+
+But when it comes to absolute things, eternal things, who you do believe does matter because it matters forever. 
+
+For the Christian, we believe in God and most importantly, we take him at his word.
+
+Some people do believe in God but pressed on whether or not they will go to heaven, they will usually reply, "Oh, I think I am pretty good person." as if to say, "Why wouldn't God let me in?" But to believe in God is to take him at his word. And to take him at his word means we believe what he has said in the Scriptures. And if we study the Scriptures, we can easily conclude that God does not save you because you were pretty good or not as bad as a mass murderer or this other guy who cheats on his taxes. For:
+
+>Romans 3:10–12 (CSB) as it is written: There is no one righteous, not even one. There is no one who understands; there is no one who seeks God. All have turned away; all alike have become worthless. There is no one who does what is good, not even one.
+
+And
+
+>Romans 3:23 (CSB) For all have sinned and fall short of the glory of God;
+
+Who we believe is of dire and utmost importance.
+
+If all have sinned and fallen short of the glory of God, what hope is there for us?
+
+>Romans 3:21–24 (CSB) But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets. The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction. For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus.
+
 ### the Father
 
+Our Father in heaven has sent our only true and real hope, his only begotten Son, Jesus Christ, the Son of God who is God forever and ever.
+
+Everything comes the Father.
+
+The Father sent the Son:
+
+>John 5:22-23 (CSB) The Father, in fact, judges no one but has given all judgment to the Son, so that all people may honor the Son just as they honor the Father. Anyone who does not honor the Son does not honor the Father who sent him.
+
+And you believe and trust the Son, this is what the Father will give to you:
+
+#### The Father Gives You: the Holy Spirit
+
+>John 14:15-17 (CSB) “If you love me, you will keep my commands. And I will ask the Father, and he will give you another Counselor to be with you forever. He is the Spirit of truth. The world is unable to receive him because it doesn’t see him or know him. But you do know him, because he remains with you and will be in you.
+
+And
+
+>John 14:26 (CSB) But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things and remind you of everything I have told you.
+
+#### The Father Gives You: the Son
+
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+#### The Father Gives You: Righteousness
+
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+#### The Father Gives You: Adoption as His Child
+
+>Romans 8:14–17 (CSB) For all those led by God’s Spirit are God’s sons. For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!” The Spirit himself testifies together with our spirit that we are God’s children, and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
+
+#### The Father Gives You: Himself
+
+>John 14:23-24 (CSB) Jesus answered, “If anyone loves me, he will keep my word. **My Father will love him, and we will come to him and make our home with him**. The one who doesn’t love me will not keep my words. The word that you hear is not mine but is from the Father who sent me.
+
+Keep in mind that "the Father is of none, neither begotten nor proceeding" [^1689.2.3]. That just means he is not of anything or being sent by someone. He is just simply God and we all come from him and we exist for him.
+
+[^1689.2.3]: Second London Baptist Confession (1689), Chapter 2, Paragraph 3, [The Triune God](https://theologic.us/posts/confession-1689/1689-2-3-the-triune-god/)
+
+>John 14:11 (CSB) Believe me that I am in the Father and the Father is in me. Otherwise, believe because of the works themselves.
+
+>1 Corinthians 8:6 (CSB) yet for us there is one God, the Father. All things are from him, and we exist for him. And there is one Lord, Jesus Christ. All things are through him, and we exist through him.
+
+---
+
 ### Almighty
+
+The Apostles' Creed, of all the things that 
 
 ## The Resources
 
