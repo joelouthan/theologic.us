@@ -64,6 +64,10 @@ Only You can do this.
 
 Let me see your glory!
 
+And I pray that we will see revival and I bless you for being so gracious to bring it here to us. Only you. You are my Father in heaven. 
+
+Thank you. 
+
 Amen.
 
 ## One of the two witnesses
