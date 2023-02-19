@@ -76,6 +76,8 @@ params:
               url: posts
             - name: Sermons
               url: /categories/sermons/
+            - name: Praying through the Psalms
+              url: /series/praying-through-psalms/ 
             - name: "1689"
               url: /tags/1689/
             - name: "The Apostles' Creed"
@@ -163,7 +165,6 @@ Social:
     facebook: "joseph.louthan"
     instagram: "josephlouthan"
     linkedin: "joelouthan"
-    twitter: "josephlouthan"
     github: "joelouthan"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
