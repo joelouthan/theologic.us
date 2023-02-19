@@ -115,8 +115,6 @@ params:
           url: "https://discord.gg/DntJ4rh5eN"
         - name: calendar
           url: "https://calendar.app.google/hMeh4vnexCW29jX46"
-        - name: twitter
-          url: "https://twitter.com/theologic_us"
         - name: instagram
           url: "https://instagram.com/josephlouthan"
         - name: youtube
