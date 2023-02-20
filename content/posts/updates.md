@@ -8,6 +8,14 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## New Series: Ruth
+
+**Monday, February 20, 2023**
+
+I get to teach a Bible Study in my local church! 
+
+Starting this Wednesday the 22nd (and every other Wednesday after that), I will be teaching through the book of Ruth. All notes are here: [Study:Ruth](https://theologic.us/series/study-ruth/)
+
 ## FINISHED: Devotions on the Gospel of Mark
 
 **Wednesday, February 8, 2023**
@@ -16,7 +24,7 @@ Last post in the Mark series will publish on 2/17.
 
 With finishing up [Mark](https://theologic.us/series/devotions-mark/) and soon to finish [Romans](https://theologic.us/series/study-romans/), I will not be starting any new series. This will allow me to hyper focus down on expositing the [1689](https://theologic.us/tags/1689/), which has been a massive undertaking. Case in point, I hit nearly 10,734 words on [2.1 The Attributes of God](https://theologic.us/posts/confession-1689/1689-2-1-the-attributes-of-god/).
 
-### New Series: The Apostles Creed
+## New Series: The Apostles Creed
 
 So I said I wouldn't start a new series but these one doesn't count. I am doing a Bible Study with my son, Yusef, and teaching him the Basics of the Christian Faith. In other words, when we say we are a Christian, what are we saying that we believe. There is a basis of faith for the profession Christian and that is Jesus Christ our Lord.
 
