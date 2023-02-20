@@ -71,7 +71,17 @@ Now watch this. In this Romans 10 passage, starting at verse 14, let us see how 
 
 ### God proclaims: Christ is the supreme preacher of God alone
 
-TODO:
+When the world and mankind were right with God, there was no need for the gospel, no need for good news, no need for salvation, because we were once right-standing with God.
+
+The moment that sin entered entered into the world, all of it broke:
+
+>Romans 8:19–22 (CSB) For the creation eagerly waits with anticipation for God’s sons to be revealed. For the creation was subjected to futility—not willingly, but because of him who subjected it—in the hope that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children. For we know that the whole creation has been groaning together with labor pains until now.
+
+The moment sin entered into the world, this is what the world felt. These are the words that describe the pain and suffering we instantly entered into it.
+
+Adam and Eve knew the before and after. They knew what it was like to be live carefree and joyful and righteousness. Now they were stricken with a sickness that they can never heal themselves.
+
+How does God 
 
 ---
 
