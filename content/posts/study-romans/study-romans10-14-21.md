@@ -11,7 +11,7 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -81,7 +81,41 @@ The moment sin entered into the world, this is what the world felt. These are th
 
 Adam and Eve knew the before and after. They knew what it was like to be live carefree and joyful and righteousness. Now they were stricken with a sickness that they can never heal themselves.
 
-How does God 
+How does God respond?
+
+By smite? By justice? By wrath? No! God does not wipe his creation out of existence because the Source of good declares it good.
+
+He brings a new word into our vocabulary: redemption.
+
+>Genesis 50:20 (CSB) You planned evil against me; God planned it for good to bring about the present result—the survival of many people.
+
+We chose to war against God. God does not reverse time and made it like you never did the sin. But rather in the midst of our sin and despair and wickedness, it goes out of his way to show that good triumphs over evil. For:
+
+>John 1:5 (CSB) That light shines in the darkness, and yet the darkness did not overcome it.
+
+And he does so not by instantly vanquishing his enemies. That will come in due time. But rather, saving his people from their sins. For:
+
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+God does this by preaching the gospel.
+
+Speaking words.
+
+We know that God speaks everything in existence and there is absolute power.
+
+So why is it when we are told that the power of God in salvation is only found in the gospel, then it blows the mind. For:
+
+>Romans 1:16 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.
+
+And
+
+>Matthew 4:4 (CSB) He answered, “It is written: Man must not live on bread alone but on every word that comes from the mouth of God.”
+
+The Scriptures are the mouth of God. The gospel is the power of God in salvation.
+
+What is the primary means of gospel proclaim? Not action. Not doing. Not time travel. Not pretending it never happened.
+
+But preaching the gospel.
 
 ---
 
@@ -89,11 +123,37 @@ How does God
 
 ### God proclaims: Christ is the sermon of God alone
 
+Preaching is the primary. But if you are out here giving your hot takes, ten ways to counter culture, or 15 ways to live your best life, congratulations you are **not** preaching.
+
+Your preaching must be about Christ. Even when you preach from the Old Testament--for it is about Christ. You preaching must be a about the Son of God who is God who has completely, perfectly saved us from our sins. If you are a preacher, you must be preach the word of God:
+
+>2 Timothy 4:1–5 (CSB) I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and because of his appearing and his kingdom: **Preach the word**; be ready in season and out of season; correct, rebuke, and encourage with great patience and teaching. For the time will come when people will not tolerate sound doctrine, but according to their own desires, will multiply teachers for themselves because they have an itch to hear what they want to hear. They will turn away from hearing the truth and will turn aside to myths. But as for you, exercise self-control in everything, endure hardship, do the work of an evangelist, fulfill your ministry.
+
+But look at this verse in Romans 10 quoting Isaiah:
+
+>How beautiful are the feet of those who bring good news.
+
+We are not simply commanded to preach the word. We are blessed. Moses simply saw the backside of God's glory. We get to see the glory of God and seeing him switch people's hearts out and filling them with his Spirit and watching them observe his statutes and obey his commands. [^ezekiel36]
+
+[^ezekiel36]: Ezekiel 36:24-28
+
+I love how people are quick to say, "God can do anything with what we do and don't do." This is true.
+
+But here's a thought: how about just doing what he commands and commission us to do. 
+
+>Mark 16:14-15 (CSB) Later he appeared to the Eleven themselves as they were reclining at the table. He rebuked their unbelief and hardness of heart, because they did not believe those who saw him after he had risen. Then he said to them, “Go into all the world and preach the gospel to all creation.
+
 ---
 
 ><sup>16</sup> But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message? 
 
 ### God proclaims: Christ is the message of God alone
+
+I don't care what your theology is. Your theology does not include trying to control and manipulate others into believing the gospel of God.
+
+Don't you know that believing the gospel and having faith in the one that saves is completely, perfectly supernaturally. It is not in your flesh to believe. It is not natural for you to put your trust in God. For:
+
+>John 1:12–13 (CSB) But to all who did receive him, he gave them the right to be children of God, to those who believe in his name, who were born, **not of natural descent, or of the will of the flesh, or of the will of man, but of God**.
 
 <div style="page-break-after: always;"></div>
 
@@ -103,11 +163,35 @@ How does God
 
 ### God proclaims: Christ is the gospel of God alone
 
+Christ is the good news. From Genesis 3:15 on, Christ was always the good news.
+
+And we get to see the glory of God in the Son:
+
+>John 1:18 (CSB) No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
+
+And
+
+>Titus 3:4–5 (CSB) But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.
+
+Jesus Christ, Son of God who is God, was born of the Virgin Mary, lived and died in our place for our sins not a matter of blind faith or great myth but it is an historical fact. Look it up in the history books. Look at the Romans' historical accounts from this era.
+
+>1 Timothy 1:15 (CSB) This saying is trustworthy and deserving of full acceptance: “Christ Jesus came into the world to save sinners”—and I am the worst of them.
+
 ---
 
 ><sup>18</sup> But I ask, “Did they not hear?” Yes, they did: Their voice has gone out to the whole earth, and their words to the ends of the world.
 
 ### God proclaims: Christ is the voice of God alone
+
+There are two types of people on this earth at any given time: those are who have heard the call of God and those who have suppressed the knowledge of God. There is no middle ground. It is either you are saved or your damned. Your good works are hot trash before a holy God. Your church going is not going to save you. Your pastor is not going to save you. Your believing parents cannot save you.
+
+You can only be saved by Jesus Christ. In order to see the kingdom of God, you must be born again. You must be a new creature. You must have a new heart and His Spirit in you.
+
+And you hear this for the first time and you yell back, "How do I receive this great God! I cannot do this! I don't know how!"
+
+And what does God say?
+
+Ask for him. Call upon his name. You will be saved.
 
 <div style="page-break-after: always;"></div>
 
@@ -115,19 +199,51 @@ How does God
 
 ><sup>19</sup> But I ask, “Did Israel not understand?” First, Moses said, I will make you jealous of those who are not a nation; I will make you angry by a nation that lacks understanding. 
 
-### God proclaims: Christ is the understanding of God alone
-
----
-
 ><sup>20</sup> And Isaiah says boldly, I was found by those who were not looking for me; I revealed myself to those who were not asking for me. 
-
-### God proclaims: Christ is the revelation of God alone
-
----
 
 ><sup>21</sup> But to Israel he says, All day long I have held out my hands to a disobedient and defiant people.
 
+### God proclaims: Christ is the understanding of God alone
+
+### God proclaims: Christ is the revelation of God alone
+
 ### God proclaims: Christ is the obedience of his people to God alone
+
+You today do not have to go the way of the disobedient people before you. I don't care about how wicked your family might be.
+
+My grandfather left my grandmother and his three boys and adopted baby girl.
+
+Not evil enough for you?
+
+My dad sexual abused me and brother and sisters.
+
+Not wicked enough for you?
+
+I used to deal in pornography. Wholesale.
+
+Let me bare witness to you right now! My grandfather was saved by God! My dad was saved was God! I was saved by God!
+
+And I have two sons. And the men in my family were self-righteous, slothful, wicked, and depraved. 
+
+And in the middle of 2022, let me confess my sin to you: I looked at the porn. I could not grieve the loss of my younger brother and I turned to the only thing I thought would comfort me.
+
+I sinned against the Holy God.
+
+And I also sinned the merciful, kindest, most compassionate being who ever exist. 
+
+How did God respond? In striking me dead? In his wrath? In his anger and fury?
+
+None of that. What God does only he can do:
+
+He saves my 20 year old son who lives in isolation with no friends. 
+
+Then he turns around and saves my 10 year old son who made this proclamation, "I have read the Bible 3 times and I believe every word of it. I need to be baptized now."
+
+And then the Source of good who only does good gave me the mercy and grace to preach my first sermon ever.
+
+This is our God. This is our Lord. This is the one who is mighty to save.
+
+Praise be his holy name forever.
 
 ## The Resources
 
