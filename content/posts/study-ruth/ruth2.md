@@ -1,7 +1,7 @@
 ---
-title: 'Study: Ruth'
+title: 'Study: Ruth 2 God Called Us'
 author: Joseph Louthan
-publishDate: 2023-03-08T12:00:00-05:00
+publishDate: 2023-03-22T12:00:00-05:00
 categories:
   - Commentaries
   - Study
@@ -10,13 +10,70 @@ tags:
 series:
   - "Study: Ruth"
 tocopen: true
-css: "prayers"
+css: "questions"
 draft: true
 ---
 
 ## The Text
 
+>Ruth 2 (CSB)  
+><sup>1</sup> Now Naomi had a relative on her husband’s side. He was a prominent man of noble character from Elimelech’s family. His name was Boaz.
+
+><sup>2</sup> Ruth the Moabitess asked Naomi, “Will you let me go into the fields and gather fallen grain behind someone with whom I find favor?” Naomi answered her, “Go ahead, my daughter.”
+
+><sup>3</sup> So Ruth left and entered the field to gather grain behind the harvesters. She happened to be in the portion of the field belonging to Boaz, who was from Elimelech’s family.
+
+><sup>4</sup> Later, when Boaz arrived from Bethlehem, he said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.
+
+><sup>5</sup> Boaz asked his servant who was in charge of the harvesters, “Whose young woman is this?”
+
+><sup>6</sup> The servant answered, “She is the young Moabite woman who returned with Naomi from the territory of Moab.
+
+><sup>7</sup> She asked, ‘Will you let me gather fallen grain among the bundles behind the harvesters?’ She came and has been on her feet since early morning, except that she rested a little in the shelter.”
+
+><sup>8</sup> Then Boaz said to Ruth, “Listen, my daughter. Don’t go and gather grain in another field, and don’t leave this one, but stay here close to my female servants.
+
+><sup>9</sup> See which field they are harvesting, and follow them. Haven’t I ordered the young men not to touch you? When you are thirsty, go and drink from the jars the young men have filled.”
+
+><sup>10</sup> She fell facedown, bowed to the ground, and said to him, “Why have I found favor with you, so that you notice me, although I am a foreigner?”
+
+><sup>11</sup> Boaz answered her, “Everything you have done for your mother-in-law since your husband’s death has been fully reported to me: how you left your father and mother and your native land, and how you came to a people you didn’t previously know.
+
+><sup>12</sup> May the LORD reward you for what you have done, and may you receive a full reward from the LORD God of Israel, under whose wings you have come for refuge.”
+
+><sup>13</sup> “My lord,” she said, “I have found favor with you, for you have comforted and encouraged your servant, although I am not like one of your female servants.”
+
+><sup>14</sup> At mealtime Boaz told her, “Come over here and have some bread and dip it in the vinegar sauce.” So she sat beside the harvesters, and he offered her roasted grain. She ate and was satisfied and had some left over.
+
+><sup>15</sup> When she got up to gather grain, Boaz ordered his young men, “Let her even gather grain among the bundles, and don’t humiliate her.
+
+><sup>16</sup> Pull out some stalks from the bundles for her and leave them for her to gather. Don’t rebuke her.”
+
+><sup>17</sup> So Ruth gathered grain in the field until evening. She beat out what she had gathered, and it was about twenty-six quarts of barley.
+
+><sup>18</sup> She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. She brought out what she had left over from her meal and gave it to her.
+
+><sup>19</sup> Her mother-in-law said to her, “Where did you gather barley today, and where did you work? May the LORD bless the man who noticed you.” Ruth told her mother-in-law whom she had worked with and said, “The name of the man I worked with today is Boaz.”
+
+><sup>20</sup> Then Naomi said to her daughter-in-law, “May the LORD bless him because he has not abandoned his kindness to the living or the dead.” Naomi continued, “The man is a close relative. He is one of our family redeemers.”
+
+><sup>21</sup> Ruth the Moabitess said, “He also told me, ‘Stay with my young men until they have finished all of my harvest.’ ”
+
+><sup>22</sup> So Naomi said to her daughter-in-law Ruth, “My daughter, it is good for you to work with his female servants, so that nothing will happen to you in another field.”
+
+><sup>23</sup> Ruth stayed close to Boaz’s female servants and gathered grain until the barley and the wheat harvests were finished. And she lived with her mother-in-law.
+
 ## The Introduction
+
+### 
+
+```text
+
+```
+
+---
+
+<div style="page-break-after: always;"></div>
 
 ## The Passage
 
