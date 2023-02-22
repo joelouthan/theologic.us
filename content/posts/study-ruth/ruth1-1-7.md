@@ -234,8 +234,6 @@ Was it God's intent for Naomi and her husband to settle in the land of the child
 But out of this great desperation and great mingling of evilness, God will work out all things for our good and his great pleasure. Every single time.
 
 ```text
-Where have you seen evil done against you that God has turned into good? Can you believe that God allowed that to happen?
-
 Here's a more difficult question to ask yourself and be honest: where have you seen your own sins turned into redemption by God alone?
 
 These are hard questions and the answers don't come easy. You might have had great evil done against you and you might not yet see how God has redeem you. But be careful and not grieve that moment, try to stuff your feelings and explain it away, "Whelp, God is sovereign." God is sovereign and we live in the post-Genesis 3 world. God is good and entire cosmos is broken.
