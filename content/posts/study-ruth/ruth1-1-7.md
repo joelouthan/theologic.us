@@ -15,50 +15,20 @@ draft: false
 ---
 ## The Text
 
->Ruth 1 (CSB)  
+>Ruth 1:1-7 (CSB)  
 ><sup>1</sup> During the time of the judges, there was a famine in the land. A man left Bethlehem in Judah with his wife and two sons to stay in the territory of Moab for a while.
 
-><sup>2</sup> The man’s name was Elimelech, and his wife’s name was Naomi. The names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah. They entered the fields of Moab and settled there.
+><sup>2</sup> The man’s name was Elimelech (God his King), and his wife’s name was Naomi (pleasant). The names of his two sons were Mahlon (sickness) and Chilion (wasting). They were Ephrathites (Ef-err-thites) from Bethlehem in Judah. They entered the fields of Moab and settled there.
 
 ><sup>3</sup> Naomi’s husband, Elimelech, died, and she was left with her two sons.
 
-><sup>4</sup> Her sons took Moabite women as their wives: one was named Orpah and the second was named Ruth. After they lived in Moab about ten years,
+><sup>4</sup> Her sons took Moabite women as their wives: one was named Orpah (Ar-pah) (fawn) and the second was named Ruth. After they lived in Moab about ten years,
 
 ><sup>5</sup> both Mahlon and Chilion also died, and the woman was left without her two children and without her husband.
 
 ><sup>6</sup> She and her daughters-in-law set out to return from the territory of Moab, because she had heard in Moab that the LORD had paid attention to his people’s need by providing them food.
 
 ><sup>7</sup> She left the place where she had been living, accompanied by her two daughters-in-law, and traveled along the road leading back to the land of Judah.
-
-><sup>8</sup> Naomi said to them, “Each of you go back to your mother’s home. May the LORD show kindness to you as you have shown to the dead and to me.
-
-><sup>9</sup> May the LORD grant each of you rest in the house of a new husband.” She kissed them, and they wept loudly.
-
-><sup>10</sup> They said to her, “We insist on returning with you to your people.”
-
-><sup>11</sup> But Naomi replied, “Return home, my daughters. Why do you want to go with me? Am I able to have any more sons who could become your husbands?
-
-><sup>12</sup> Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was still hope for me to have a husband tonight and to bear sons,
-
-><sup>13</sup> would you be willing to wait for them to grow up? Would you restrain yourselves from remarrying? No, my daughters, my life is much too bitter for you to share, because the LORD’s hand has turned against me.”
-
-><sup>14</sup> Again they wept loudly, and Orpah kissed her mother-in-law, but Ruth clung to her.
-
-><sup>15</sup> Naomi said, “Look, your sister-in-law has gone back to her people and to her gods. Follow your sister-in-law.”
-
-><sup>16</sup> But Ruth replied: Don’t plead with me to abandon you or to return and not follow you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.
-
-><sup>17</sup> Where you die, I will die, and there I will be buried. May the LORD punish me, and do so severely, if anything but death separates you and me.
-
-><sup>18</sup> When Naomi saw that Ruth was determined to go with her, she stopped talking to her.
-
-><sup>19</sup> The two of them traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was excited about their arrival and the local women exclaimed, “Can this be Naomi?”
-
-><sup>20</sup> “Don’t call me Naomi. Call me Mara,” she answered, “for the Almighty has made me very bitter.
-
-><sup>21</sup> I went away full, but the LORD has brought me back empty. Why do you call me Naomi, since the LORD has opposed me, and the Almighty has afflicted me?”
-
-><sup>22</sup> So Naomi came back from the territory of Moab with her daughter-in-law Ruth the Moabitess. They arrived in Bethlehem at the beginning of the barley harvest.
 
 <div style="page-break-after: always;"></div>
 
