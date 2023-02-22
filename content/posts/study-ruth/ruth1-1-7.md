@@ -122,6 +122,7 @@ Description of the Acts of the Apostles?
 ```text
 Since studying the Christ Key, where have you seen Christ in the Scriptures in where he is not explicitly mentioned? How has that helped you understand the Scriptures?
 ```
+
 To quote Dr Bird:
 
 >>Practically speaking, this means that reading Genesis in light of Colossians or Daniel in light of Revelation is not violating a chronological taboo but fully embracing the inspiration of the Scriptures. Yes, of course, we look at each work in its own historical, cultural, and linguistic context, but not to the exclusion of its canonical context. Bird. The Christ Key. 23.
@@ -208,11 +209,11 @@ In God's provision and predestination and leading and directing saves the people
 
 ```text
 Where have you seen evil done against you that God has turned into good? Can you believe that God allowed that to happen?
+```
 
 These are hard questions and the answers don't come easy. You might have had great evil done against you and you might not yet see how God has redeem you. But be careful and not grieve that moment, try to stuff your feelings and explain it away, "Whelp, God is sovereign." God is sovereign and we live in the post-Genesis 3 world. God is good and entire cosmos is broken.
 
 Is it any wonder then why God has chosen not leave nor forsake us but sent us only begotten Son to live and die for us and to save us from our sins?
-```
 
 ---
 
@@ -235,11 +236,17 @@ But out of this great desperation and great mingling of evilness, God will work 
 
 ```text
 Here's a more difficult question to ask yourself and be honest: where have you seen your own sins turned into redemption by God alone?
-
-These are hard questions and the answers don't come easy. You might have had great evil done against you and you might not yet see how God has redeem you. But be careful and not grieve that moment, try to stuff your feelings and explain it away, "Whelp, God is sovereign." God is sovereign and we live in the post-Genesis 3 world. God is good and entire cosmos is broken.
-
-Is it any wonder then why God has chosen not leave nor forsake us but sent us only begotten Son to live and die for us and to save us from our sins?
 ```
+
+I will never forget what one of my pastors said to me: "Christians have a hard time dealing with redemption. What they want is God to go back in the past, erase all of the sins we have committed and the sins committed against others and God like it never happened so that no bad things have ever happened."
+
+In terms of righteous in the eyes of the Lord, that is true. For he has washes away our sin "white as snow" (Isaiah 1:18) and "removed our trespasses as far as the east is from the west" (Psalm 103:12).
+
+But we sit here, as the people of God, righteous in his eyes because of Christ and yet, we still feel the effects of sin--even sins that happened to us long ago when we were younger. And we wish that sin never happened.
+
+And God saw all of that. And God knew that. That is why he sent his Son to live and die so that we are a new creation saved unto him forever and ever.
+
+We don't have to have an excuse. We don't have to blameshift. We don't have to hold on to our own bitterness. We get to rest in the presence of God where there is only fullness of joy and pleasures forevermore. (Psalm 16:11)
 
 ---
 
