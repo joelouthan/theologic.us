@@ -1,5 +1,5 @@
 ---
-title: 'Study: Ruth 1 God Predestined Us By His Goodness'
+title: 'Study: Ruth 1:1-7 God Predestined Us By His Goodness'
 author: Joseph Louthan
 publishDate: 2023-02-22T12:00:00-05:00
 categories:
