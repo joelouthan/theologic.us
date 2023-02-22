@@ -139,7 +139,6 @@ Because what they have heard preached in the synagogues and in tents and in thro
 
 They saw him revealed and rejoiced. We see him revealed and we are glad in it.
 
-
 <div style="page-break-after: always;"></div>
 
 ## God
