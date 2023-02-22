@@ -62,19 +62,19 @@ draft: false
 
 ## The Introduction
 
-### The two-fold of this Bible study
+My intention of this particular Bible Study series is two-fold:
 
-#### Help us study the Bible - Scriptures interpreting Scripture
+### Help us study the Bible - Scriptures interpreting Scripture
 
-I so appreciate and thankful to God for let me start this Bible while we are going through [The Christ Key: Unlocking the Centrality of Christ in the Old Testament](https://www.amazon.com/Christ-Key-Unlocking-Centrality-Testament/dp/1948969521?qid=1677077309&sr=8-1) with Troy teaching.
+I so appreciate and thankful to God and to the grace of the elders for letting me start this Bible while Troy is teaching [The Christ Key: Unlocking the Centrality of Christ in the Old Testament](https://www.amazon.com/Christ-Key-Unlocking-Centrality-Testament/dp/1948969521?qid=1677077309&sr=8-1) because I think it is a fantastic opportunity to put in practice what Dr. Bird is talking about. It is not simply theory but rather, and dare I say it, the primary way of reading Scriptures.
 
-In other words, it is not me trying to come into this church and this study with a brand new way of studying and explaining the Bible. But this way of reading and interpreting the Bible--the hermeneutic--is not only ancient but actually Biblical.
+In other words, I am not coming into this church and into this study with a brand new way of studying and explaining the Bible. This way of reading and interpreting the Bible--the hermeneutic--is not only ancient but actually Biblical.
 
 We saw it when declares in Roman 5:14: Adam was a foreshadow of Christ. To that end, Christ is the Second Adam.
 
-Today, this hermeneutic is called Historical Redemptive - we see the redemption of God in Christ throughout the whole Scriptures.
+Today, this hermeneutic is called **Historical Redemptive** - we see the redemption of God in Christ throughout the whole Scriptures.
 
-And we do so by relying on not on tradition or teachings that were assumed and then passed on but rather a tenet of our faith: **sola Scriptura**. A fancy Latin phrase that means "according to Scripture alone". To simplify that meaning that allow Scripture to interpret Scripture.
+And we do so by relying on not on tradition or teachings that were assumed and then passed on but rather a tenet of our faith. This is where the 16th century Reformers lived and died on the hill of **sola Scriptura**. That is a fancy Latin phrase that means "according to Scripture alone". To simplify that: letting Scripture to interpret Scripture.
 
 In other words, we would be in the right to interpret passage in light of another passage or through the lens of another passage. Case in point, read 1 John 4:10: **In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.** Keep 1 John 4:10 in mind while reading through Romans 8, for example.
 
@@ -99,7 +99,7 @@ And there is no stretch of the imagination when Christ called the Scriptures, "t
 
 From that end, I want us to ...
 
-#### See Christ in the book of Ruth
+### See Christ in the book of Ruth
 
 Christ declared that the Scriptures were all about him:
 
@@ -119,11 +119,23 @@ Description of the Acts of the Apostles?
 
 ```text
 Since studying the Christ Key, where have you seen Christ in the Scriptures in where he is not explicitly mentioned? How has that helped you understand the Scriptures?
-
-While it is true that the authors in the OT could not have seen the revealed Christ for he was not revealed as the Messiah yet, you best be sure when Moses wrote Genesis 3:15, he knew and believe the gospel of God. For Christ said
-
-John 8:56 (CSB) Your father Abraham rejoiced to see my day; he saw it and was glad.”
 ```
+To quote Dr Bird:
+
+>>Practically speaking, this means that reading Genesis in light of Colossians or Daniel in light of Revelation is not violating a chronological taboo but fully embracing the inspiration of the Scriptures. Yes, of course, we look at each work in its own historical, cultural, and linguistic context, but not to the exclusion of its canonical context. Bird. The Christ Key. 23.
+
+While it is true that the authors in the OT could not have seen the revealed Christ for he was not revealed as the Messiah yet, you best be sure when Moses wrote Genesis 3:15, he knew and believe the gospel of God. For Christ said:
+
+>John 8:56 (CSB) Your father Abraham rejoiced to see my day; he saw it and was glad.”
+
+And same goes for the author of Ruth. "Hmm, I already see how in the revealed Messiah that God has grafted in the Gentiles into the family of God. And of course, we are not born of the natural seed of Abraham but the spiritual seed that in the revealed Messiah." Of course the authors of the Old Testament could not see it.
+
+But on the day when Christ was finally revealed, Adam rejoice. Noah rejoiced. Abraham rejoiced. Sarah rejoiced. Moses rejoiced. Zipporah rejoiced. Naomi rejoiced. Ruth rejoiced.
+
+Because what they have heard preached in the synagogues and in tents and in throne rooms and around the tabernacle was finally and fully making sense.
+
+They saw him revealed and rejoiced. We see him revealed and we are glad in it.
+
 
 <div style="page-break-after: always;"></div>
 
@@ -143,9 +155,9 @@ John 8:56 (CSB) Your father Abraham rejoiced to see my day; he saw it and was gl
 
 Look at the predestination of God:
 
-#### Judges - Judges 19-21 **The people did what was right in their own eyes**; A people without a king (Judges 19:1) and yet they had a King
+#### Judges - Judges 19-21 **The people did what was right in their own eyes**; A people without a king (Judges 19:1) and yet they had a King. God saved but God does turn us over to our own understanding. (Romans 1:18-32). That is the sovereignty of God.
 
-#### Famine - Genesis 41 - The famine that brought the people of God into Egypt to save his people. A few generations later, they are in bondage to slavery 
+#### Famine - Genesis 41 - The famine that brought the people of God into Egypt to save his people. A few generations later, they are in bondage to slavery. That is the sovereignty of God.
 
 #### Moab (Genesis 19 the children of Lot)
 
