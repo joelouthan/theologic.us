@@ -158,11 +158,17 @@ They saw him revealed and rejoiced. We see him revealed and we are glad in it.
 
 Look at the predestination of God:
 
-#### Judges - Judges 19-21 **The people did what was right in their own eyes**; A people without a king (Judges 19:1) and yet they had a King. God saved but God does turn us over to our own understanding. (Romans 1:18-32). That is the sovereignty of God.
+#### Judgment  
 
-#### Famine - Genesis 41 - The famine that brought the people of God into Egypt to save his people. A few generations later, they are in bondage to slavery. That is the sovereignty of God.
+Judges 19-21 **The people did what was right in their own eyes**; A people without a king (Judges 19:1) and yet they had a King. God saved but God does turn us over to our own understanding. (Romans 1:18-32). That is the sovereignty of God.
 
-#### Moab (Genesis 19 the children of Lot)
+#### Famine
+
+Genesis 41 - The famine that brought the people of God into Egypt to save his people. A few generations later, they are in bondage to slavery. That is the sovereignty of God.
+
+#### Alien 
+
+Genesis 19 - the children of Lot
 
 Moabites were in worship of the demon Chemosh. "Now, wait a second, the people were innocent until proven guilty. There religion is just different than our religion?" The world wants us to be tolerate of other religions--and to extend, we get to do because all of us have been foolish and led astray and worship idols.
 
@@ -184,7 +190,9 @@ In order to provoke and appease their demon-god, their worship was to sit under 
 
 This is land of Moab. This is the demonic religion of Orpah and Ruth. The intermarrying of spouses from different countries was only forbidden bu God, not because God is racist, but rather we cannot marry those who do not worship the only God who is our Father in heaven.
 
-#### Loss of husband and sons-in-law (Ruth 1)
+#### Death
+
+Ruth 1
 
 In God's provision and predestination and leading and directing saves the people of God but then people of God end up in gross sins and wickedness (Judges), sins of slavery (Exodus), sins of incest (Genesis 41), or our deaths (Ruth 1), is God the author of evil?
 
