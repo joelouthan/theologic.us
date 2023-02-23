@@ -234,4 +234,3 @@ the Lord Jesus Christ.
 
 Amen.
 ```
-
