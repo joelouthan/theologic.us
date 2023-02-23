@@ -10,7 +10,7 @@ series:
   - "Psalms"
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Psalm
 
@@ -76,9 +76,40 @@ draft: true
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Forever
 </div>
 
 ```text
+My wars
+  I rage against you
+  I have trespasses against you
+  I have sin mightily against you
+  I have rejected everything that you are
+  I have thought, "I can sin but there is no God and he does not care."
 
+But you looked upon me
+  my foolishness
+  my iniquity
+  my rebellion
+  and did the only thing that you are capable of.
+
+You saved me
+  you spared my life
+  you revealed your Son
+  and you gave me your heart
+  and your Spirit
+  and your grace
+  and your mercy
+  and your glory
+  and repentance
+  and faith
+  and love.
+
+And you do it everyday
+  now until forever
+  because I am yours
+  you are mine
+  forevermore.
+
+Amen.
 ```
