@@ -1,13 +1,37 @@
 ---
 title: "Daily Prayer"
 author: Joseph Louthan
-publishDate: 2023-02-15T05:00:00-05:00
+publishDate: 2023-02-25T05:00:00-05:00
 url: /prayer/
 draft: false
 index: false
 css: "prayers"
 tocopen: false
 ---
+
+## Request
+
+Lord,
+
+I pray that every single person in the Restoration Movement would be saved by You alone. 
+
+Only You can do this.
+
+I pray that everyone that is in Wilmore in this time will be saved and will be sent to a local church.
+
+Only You can do this.
+
+Lord, send faithful preachers to Asbury to proclaim your Son's great name, His great gospel, and His great love for us.
+
+Only You can do this.
+
+Let me see your glory!
+
+And I pray that we will see revival and I bless you for being so gracious to bring it here to us. Only you. You are my Father in heaven. 
+
+Thank you. 
+
+Amen.
 
 ## Faith
 
@@ -45,30 +69,6 @@ tocopen: false
 ><sup>16</sup> But not all obeyed the gospel. For Isaiah says, Lord, who has believed our message?
 
 ><sup>17</sup> So faith comes from what is heard, and what is heard comes through the message about Christ.
-
-## Request
-
-Lord,
-
-I pray that every single person in the Restoration Movement would be saved by You alone. 
-
-Only You can do this.
-
-I pray that everyone that is in Wilmore in this time will be saved and will be sent to a local church.
-
-Only You can do this.
-
-Lord, send faithful preachers to Asbury to proclaim your Son's great name, His great gospel, and His great love for us.
-
-Only You can do this.
-
-Let me see your glory!
-
-And I pray that we will see revival and I bless you for being so gracious to bring it here to us. Only you. You are my Father in heaven. 
-
-Thank you. 
-
-Amen.
 
 ## One of the two witnesses
 
