@@ -83,11 +83,13 @@ In other words, the story of Ruth is about Christ. The story of Ruth is not abou
 
 When you read the Bible, ask yourself, "Is this the word of God prescribing something to me--should I move with my mother-in-law back to her country?" Or is this describing a moment of time and is Christ in it?
 
-Example: the book of Acts. I grew up a Charismatic and still consider myself a Charismatic to this day. Where I would boldly disagree with my camp on the book of Acts. It is not how-to guide on how to bring about revival, how to get everybody to speak in times (25% of those filled with the Holy Spirit in Acts spoke in tongues) and if we do the right things in the right, we can heal people with our shadow or handkerchief. That is the prescription.
+Example: the book of Acts. I grew up a Charismatic and still consider myself a Charismatic to this day. Where I would boldly disagree with my camp on the book of Acts. It is not how-to guide on how to bring about revival, how to get everybody to speak in times (25% of those filled with the Holy Spirit in Acts *did not* spoke in tongues) and if we do the right things in the right way, we can heal people with our shadow or handkerchief. To try to do what the Apostles did according to Acts, we would be prescribing. What we should be treating some text in a descriptive manner. 
 
 Description of the Acts of the Apostles?
 
 >Matthew 16:18-19 (CSB) And I also say to you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overpower it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth will have been bound in heaven, and whatever you loose on earth will have been loosed in heaven.”
+
+Description and prescription will play a crucial role in understanding Ruth. 
 
 ```text
 Since studying the Christ Key, where have you seen Christ in the Scriptures in where he is not explicitly mentioned? How has that helped you understand the Scriptures?
@@ -95,7 +97,9 @@ Since studying the Christ Key, where have you seen Christ in the Scriptures in w
 
 To quote Dr Bird:
 
->>Practically speaking, this means that reading Genesis in light of Colossians or Daniel in light of Revelation is not violating a chronological taboo but fully embracing the inspiration of the Scriptures. Yes, of course, we look at each work in its own historical, cultural, and linguistic context, but not to the exclusion of its canonical context. Bird. The Christ Key. 23.
+>>Practically speaking, this means that reading Genesis in light of Colossians or Daniel in light of Revelation is not violating a chronological taboo but fully embracing the inspiration of the Scriptures. Yes, of course, we look at each work in its own historical, cultural, and linguistic context, but not to the exclusion of its canonical context.
+>>
+>>Bird. The Christ Key. 23.
 
 While it is true that the authors in the OT could not have seen the revealed Christ for he was not revealed as the Messiah yet, you best be sure when Moses wrote Genesis 3:15, he knew and believe the gospel of God. For Christ said:
 
