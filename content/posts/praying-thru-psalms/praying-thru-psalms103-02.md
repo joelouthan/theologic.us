@@ -10,7 +10,7 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Psalm
 
@@ -19,9 +19,9 @@ draft: true
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-
+Lord
 </div>
 
 ```text
-
+I will bless the Lord for all times.
 ```
