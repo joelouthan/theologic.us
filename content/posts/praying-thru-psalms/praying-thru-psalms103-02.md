@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: 103:2"
 author: Joseph Louthan
-publishDate: 2023-02-26T00:00:00-05:00
+publishDate: 2023-03-04T00:00:00-05:00
 categories:
   - Prayers
 tags:
@@ -10,7 +10,7 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
 ---
 ## The Psalm
 
