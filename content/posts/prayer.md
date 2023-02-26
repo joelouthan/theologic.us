@@ -70,7 +70,7 @@ Amen.
 
 ><sup>17</sup> So faith comes from what is heard, and what is heard comes through the message about Christ.
 
-## One of the two witnesses
+## Witness
 
 <div style='font-variant: small-caps;'>
 My God,
