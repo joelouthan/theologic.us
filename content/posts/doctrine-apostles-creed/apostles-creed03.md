@@ -1,7 +1,7 @@
 ---
-title: "What Do We Believe: "
+title: "What Do We Believe: Jesus Christ"
 author: Joseph Louthan
-publishDate: 2023-02-24T00:00:00-05:00
+publishDate: 2023-03-09T00:00:00-05:00
 categories:
   - Creeds
 tags:
@@ -16,7 +16,12 @@ draft: true
 ## The Creed
 
 ```text
-
+and in Jesus Christ, His only Son, our Lord:
+Who was conceived of the Holy Spirit,
+born of the Virgin Mary,
+suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended into hell.
 ```
 
 <div style="page-break-after: always;"></div>
