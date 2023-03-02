@@ -43,6 +43,17 @@ Page 1, Book 1, Chapter 1, Verse 1:
 
 >Genesis 1:1 (CSB) In the beginning God created the heavens and the earth.
 
+##### God the Father, Creator
+
+- Genesis
+- Exodus
+- Leviticus
+- Numbers
+- Deuteronomy
+- Joshua
+- Judges
+- etc. 
+
 #### God did it with nothing
 
 >Hebrews 11:1-3 (CSB) Now faith is the reality of what is hoped for, the proof of what is not seen. For by this our ancestors were approved. **By faith we understand that the universe was created by the word of God, so that what is seen was made from things that are not visible.**
