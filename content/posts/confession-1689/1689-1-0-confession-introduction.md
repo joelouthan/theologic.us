@@ -12,8 +12,6 @@ series:
 tocopen: true
 css: prayers
 draft: false
-lastmod: 2023-03-04T18:31:38.002Z
-preview: https://theologic.us/images/banners/3-confession-1689.jpg
 ---
 ## The Introduction
 
