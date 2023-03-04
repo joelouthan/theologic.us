@@ -11,7 +11,7 @@ series:
   - "Reading: Trueman's The Creedal Imperative"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 ## The Resource

@@ -11,7 +11,7 @@ series:
   - "Reading: Bird's The Christ Key"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 ## The Resource
