@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith - Introduction and Resources"
+title: "1689 Baptist Confession of Faith: Introduction & Resources"
 author: Joseph Louthan
 publishDate: 2022-05-25T00:00:00-05:00
 categories:
@@ -8,10 +8,12 @@ categories:
 tags:
   - "1689"
 series:
-  - "1689 Baptist Confession of Faith"
+  - 1689 Baptist Confession of Faith
 tocopen: true
-css: "prayers"
+css: prayers
 draft: false
+lastmod: 2023-03-04T18:29:00.501Z
+preview: https://theologic.us/images/banners/3-confession-1689.png
 ---
 ## The Introduction
 
