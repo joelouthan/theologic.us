@@ -40,4 +40,5 @@ scratch.txt
 
 *.pdf
 
+.vscode/*
 settings.json
