@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: 103:22"
+title: "Praying Through: Psalms 103:22"
 author: Joseph Louthan
 publishDate: 2023-07-22T00:00:00-05:00
 categories:

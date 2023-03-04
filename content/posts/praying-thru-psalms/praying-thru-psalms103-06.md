@@ -1,5 +1,5 @@
 ---
-title: "Praying Through: 103:6"
+title: "Praying Through: Psalms 103:6"
 author: Joseph Louthan
 publishDate: 2023-04-01T00:00:00-05:00
 categories:
