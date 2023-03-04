@@ -1,0 +1,120 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "1 John",
+    "1 Timothy",
+    "1689",
+    "2 Timothy",
+    "Apostles' Creed",
+    "Asbury Revival",
+    "Books",
+    "Catechism",
+    "Daniel",
+    "Essays",
+    "Genesis",
+    "Links",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Personal",
+    "Prooftext",
+    "Psalms",
+    "Quotes",
+    "Reading Notes",
+    "Romans",
+    "Romans 8",
+    "Ruth",
+    "Soteriology",
+    "Survey: New Testament",
+    "Survey: Old Testament",
+    "The Expositors Academy",
+    "Theology",
+    "Titus",
+    "Westminster Confession of Faith",
+    "lyrics",
+    "reading notes"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "Books",
+    "Commentaries",
+    "Confession",
+    "Confessions",
+    "Creeds",
+    "Devotions",
+    "Doctrine",
+    "Doxology",
+    "Essays",
+    "Gospel NT",
+    "Gospel OT",
+    "Links",
+    "Memoir",
+    "Prayers",
+    "Preaching",
+    "Quotes",
+    "Reading",
+    "Revival",
+    "Scriptures",
+    "Sermons",
+    "Sources",
+    "Study",
+    "Study Notes",
+    "Survey NT",
+    "Survey OT",
+    "Theology",
+    "lyrics"
+  ]
+}

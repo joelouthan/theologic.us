@@ -7,5 +7,10 @@
   ],
   "githubPullRequests.ignoredPullRequestBranches": [
     "master"
-  ]
+  ],
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.preview.host": "http://localhost:1313/series/",
+  "frontMatter.framework.startCommand": "hugo server -D -F",
+  "[markdown]": {
+  }
 }
