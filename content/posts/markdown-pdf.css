@@ -11,6 +11,7 @@ body {
 
 pre {
 	background-color: #f8f8f8;
+  font-family: "Adobe Garamond Pro", Baskerville, "Big Caslon", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	border: 1px solid #cccccc;
 	border-radius: 3px;
 	overflow-x: auto;
@@ -26,6 +27,7 @@ pre:not(.hljs) {
 blockquote {
 	background: rgba(127, 127, 127, 0.1);
 	border-color: rgba(45, 51, 54, 0.5);
+  font-family: "Adobe Garamond Pro", Baskerville, "Big Caslon", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .emoji {
@@ -35,6 +37,7 @@ blockquote {
 code {
 	font-size: 16px;
 	line-height: 19px;
+  font-family: "Adobe Garamond Pro", Baskerville, "Big Caslon", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /* for inline code */
