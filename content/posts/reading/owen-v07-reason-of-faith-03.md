@@ -25,8 +25,7 @@ The Complete Works of John Owen
 
 ### We are the barbarians
 
->>This argument is pursued by many at large, as that which affords a great variety of historical and chronological observations. And it has been so scanned and improved that nothing but the giving of it a new dress remains for present or future diligence. But the real force of it lies in the consideration of the people by and among whom this revelation first commenced in the world, and the time wherein it did so. When some nations had so improved and cultivated the light of nature as greatly to excel others in wisdom and knowledge, they generally looked upon the people of the Jews as ignorant and barbarous. And the more wise any of them conceived themselves, the more they despised them. And, indeed, they were utter strangers unto all those arts and sciences whereby the faculties of men's minds are naturally enlightened and enlarged. Nor did they pretend unto any wisdom whereby to stand in competition with other nations, but only what they received by divine revelations. This alone God himself had taught them to look upon and esteem as their only wisdom before all the world (Deut. 4:6-8).
->> 99-100. 
+>>This argument is pursued by many at large, as that which affords a great variety of historical and chronological observations. And it has been so scanned and improved that nothing but the giving of it a new dress remains for present or future diligence. But the real force of it lies in the consideration of the people by and among whom this revelation first commenced in the world, and the time wherein it did so. When some nations had so improved and cultivated the light of nature as greatly to excel others in wisdom and knowledge, they generally looked upon the people of the Jews as ignorant and barbarous. And the more wise any of them conceived themselves, the more they despised them. And, indeed, they were utter strangers unto all those arts and sciences whereby the faculties of men's minds are naturally enlightened and enlarged. Nor did they pretend unto any wisdom whereby to stand in competition with other nations, but only what they received by divine revelations. This alone God himself had taught them to look upon and esteem as their only wisdom before all the world (Deut. 4:6-8). 99-100. 
 
 >Deuteronomy 4:6–8 (CSB)  
 ><sup>6</sup> Carefully follow them, for this will show your wisdom and understanding in the eyes of the peoples. When they hear about all these statutes, they will say, ‘This great nation is indeed a wise and understanding people.’ 
@@ -39,8 +38,7 @@ The Complete Works of John Owen
 
 ### First Design: To Reveal God to Us
 
->>(1) As it takes on itself to speak in the name and authority of God, and delivers nothing, commands nothing, but what becomes his infinite holiness, wisdom, and goodness; so it makes that declaration of him, in his nature, being, and subsistence, with the necessary properties and acts thereof, his will, with all his voluntary actings or works, wherein we may be or are concerned, so as that we may know him aright, and entertain true notions and apprehensions.
->> 103
+>>(1) As it takes on itself to speak in the name and authority of God, and delivers nothing, commands nothing, but what becomes his infinite holiness, wisdom, and goodness; so it makes that declaration of him, in his nature, being, and subsistence, with the necessary properties and acts thereof, his will, with all his voluntary actings or works, wherein we may be or are concerned, so as that we may know him aright, and entertain true notions and apprehensions. 103.
 
 ## The Resource
 
