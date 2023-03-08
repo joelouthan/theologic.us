@@ -1,5 +1,5 @@
 ---
-title: "Owen's The Reason of Faith. Ch 3: Sundry Convincing"
+title: "Owen. VII. The Reason of Faith. Ch 3: Sundry Convincing"
 author: Joseph Louthan
 publishDate: 2023-03-07
 categories:
@@ -16,10 +16,10 @@ draft: false
 
 ## The Title
 
-The Complete Works of John Owen  
-**Volume 7**: The Holy Spirit--The Helper.  
-**Book**: The Reason for Faith  
-**Chapter**: Sundry Convincing External Arguments for Divine Revelation
+**The Complete Works of John Owen**  
+Volume: **VII The Holy Spirit--The Helper**  
+Book: **The Reason for Faith**  
+Chapter: **Sundry Convincing External Arguments for Divine Revelation**
 
 ## The Notes
 
