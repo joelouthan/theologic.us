@@ -10,7 +10,7 @@ series:
   - "Doctrine: Apostles' Creed"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ## The Creed
@@ -27,6 +27,18 @@ He descended into hell.
 <div style="page-break-after: always;"></div>
 
 ## The Word
+
+### and in Jesus Christ, His only Son, our Lord:
+
+### Who was conceived of the Holy Spirit,
+
+### born of the Virgin Mary,
+
+### suffered under Pontius Pilate,
+
+### was crucified, died, and was buried.
+
+### He descended into hell.
 
 <div style="page-break-after: always;"></div>
 
