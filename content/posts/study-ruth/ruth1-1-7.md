@@ -30,6 +30,16 @@ draft: false
 
 ><sup>7</sup> She left the place where she had been living, accompanied by her two daughters-in-law, and traveled along the road leading back to the land of Judah.
 
+---
+
+## Some Considerations
+
+>Philippians 4:8 (CSB) Finally brothers and sisters, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable—if there is any moral excellence and if there is anything praiseworthy—dwell on these things.
+
+1. Since studying the Christ Key, where have you seen Christ in the Scriptures in where he is not explicitly mentioned? How has that helped you understand the Scriptures?
+2. Since studying the Christ Key, where have you seen Christ in the Scriptures in where he is not explicitly mentioned? How has that helped you understand the Scriptures?
+3. Here's a more difficult question to ask yourself and be honest: where have you seen your own sins turned into redemption by God alone?
+
 <div style="page-break-after: always;"></div>
 
 ## The Introduction
