@@ -44,9 +44,10 @@ The Complete Works of John Owen
 
 <p style="clear:both;">
 
-<img src="https://theologic.us/images/resources/book-owen-tcw-07-the-helper.jpg" align="left" width="200" style="padding-right: 10px" />  
+<img src="https://theologic.us/images/resources/book-owen-tcw-07-the-helper.jpg" align="left" width="200" style="padding-right: 10px" />  Volume 7. The Holy Spirit--The Helper.  
+The Complete Works.  
 by John Owen.  
-Crossway. November 8, 2022
+Crossway. November 8, 2022.   
 [Goodreads](https://www.goodreads.com/book/show/60354441-the-holy-spirit?from_search=true&from_srp=true&qid=nA4DypqmnH&rank=9)
 
 <p style="clear:both;">
