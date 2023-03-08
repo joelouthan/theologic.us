@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalms 38'
 author: Joseph Louthan
-publishDate: 2021-02-02T12:00:00-05:00
+publishDate: 2021-02-02
 categories:
   - Prayers
 tags:

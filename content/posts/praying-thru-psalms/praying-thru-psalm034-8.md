@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 34:8'
 author: Joseph Louthan
-publishDate: 2020-11-10T12:00:00-05:00
+publishDate: 2020-11-10
 categories:
   - Prayers
 tags:

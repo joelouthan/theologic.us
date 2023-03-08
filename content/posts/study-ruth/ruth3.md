@@ -1,7 +1,7 @@
 ---
 title: 'Study: Ruth 3 God Justified Us'
 author: Joseph Louthan
-publishDate: 2023-04-05T12:00:00-05:00
+publishDate: 2023-04-05
 categories:
   - Commentaries
   - Study

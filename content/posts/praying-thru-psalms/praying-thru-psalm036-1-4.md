@@ -2,7 +2,7 @@
 title: 'Praying Through: Psalm 36:1-4'
 author: Joseph Louthan
 type: post
-publishDate: 2020-12-29T12:00:00-05:00
+publishDate: 2020-12-29
 categories:
   - Prayers
 tags:

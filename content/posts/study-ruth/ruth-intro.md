@@ -1,7 +1,7 @@
 ---
 title: 'Study: Ruth, An Introduction'
 author: Joseph Louthan
-publishDate: 2023-02-06T12:00:00-05:00
+publishDate: 2023-02-06
 categories:
   - Commentaries
   - Study

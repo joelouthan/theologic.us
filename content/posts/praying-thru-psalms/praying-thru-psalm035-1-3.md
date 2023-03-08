@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 35:1-3'
 author: Joseph Louthan
-publishDate: 2020-11-12T12:00:00-05:00
+publishDate: 2020-11-12
 categories:
   - Prayers
 tags:

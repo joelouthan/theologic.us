@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 33:10'
 author: Joseph Louthan
-publishDate: 2020-11-06T12:00:00-05:00
+publishDate: 2020-11-06
 categories:
   - Prayers
 tags:

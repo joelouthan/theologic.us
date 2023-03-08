@@ -1,7 +1,7 @@
 ---
 title: 'Study: Ruth 2 God Called Us'
 author: Joseph Louthan
-publishDate: 2023-03-22T12:00:00-05:00
+publishDate: 2023-03-22
 categories:
   - Commentaries
   - Study

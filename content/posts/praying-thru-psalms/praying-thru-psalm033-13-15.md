@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 33:13-15'
 author: Joseph Louthan
-publishDate: 2020-11-07T12:00:00-05:00
+publishDate: 2020-11-07
 categories:
   - Prayers
 tags:
