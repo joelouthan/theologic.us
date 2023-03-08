@@ -116,5 +116,8 @@
     "Survey OT",
     "Theology",
     "lyrics"
-  ]
+  ],
+  "frontMatter.content.autoUpdateDate": false,
+  "frontMatter.framework.startCommand": "hugo server -F",
+  "frontMatter.preview.host": "http://localhost:1313"
 }
