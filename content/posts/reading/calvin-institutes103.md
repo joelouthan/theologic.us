@@ -1,5 +1,5 @@
 ---
-title: "Calvin's Institutes Ch 103: "
+title: "Calvin's Institutes Ch 103: The Knowledge of God Naturally Implanted in the Human Mind"
 author: Joseph Louthan
 publishDate: 2023-03-08
 categories:

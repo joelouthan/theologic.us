@@ -1,5 +1,5 @@
 ---
-title: "Calvin's Institutes Ch 104: "
+title: "Calvin's Institutes Ch 104: The Knowledge of God Stiffed or Corrupted"
 author: Joseph Louthan
 publishDate: 2023-03-08
 categories:
