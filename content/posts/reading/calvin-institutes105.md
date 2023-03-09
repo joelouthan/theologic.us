@@ -1,5 +1,5 @@
 ---
-title: "Calvin's Institutes Ch 105: "
+title: "Calvin's Institutes Ch 105: The Knowledge of God Conspicuous in the Creation"
 author: Joseph Louthan
 publishDate: 2023-03-08
 categories:
