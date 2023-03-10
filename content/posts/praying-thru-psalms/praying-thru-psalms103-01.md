@@ -19,7 +19,7 @@ draft: false
 ## The Prayer
 
 <div style="font-variant: small-caps;">
-God
+Lord
 </div>
 
 ```text
