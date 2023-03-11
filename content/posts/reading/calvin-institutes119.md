@@ -1,5 +1,5 @@
 ---
-title: "Calvin's Institutes" Ch "11""9":
+title: "Calvin's Institutes Ch 119: "
 author: Joseph Louthan
 publishDate: 2023-03-20
 categories:
