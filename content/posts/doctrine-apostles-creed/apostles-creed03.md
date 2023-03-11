@@ -26,13 +26,15 @@ He descended into hell.
 
 ## The Word
 
-### We believe in Jesus Christ
-
 >1 Corinthians 12:3 (CSB) Therefore I want you to know that no one speaking by the Spirit of God says, “Jesus is cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
 
 >John 3:3 (CSB) Jesus replied, “Truly I tell you, unless someone is born again, he cannot see the kingdom of God.”
 
 >Matthew 6:33 (CSB) But seek first the kingdom of God and his righteousness, and all these things will be provided for you.
+
+## The Belief
+
+### We believe in Jesus Christ
 
 A person with reasonable intelligence can be taught written and reading language. They can be taught math. They can be taught many things.
 
@@ -54,7 +56,8 @@ Rejoice on this day.
 
 ### His only Son
 
-1689:  
+The 1689 confesses:
+
 ```text
 the Son is eternally begotten of the Father
 ```
@@ -312,11 +315,7 @@ From the decree and the sovereign grace of the Father by the power of the Almigh
 >that Jesus Christ is Lord,  
 >to the glory of God the Father.
 
-<div style="page-break-after: always;"></div>
-
-## The Belief
-
-### 
+Amen
 
 ## The Resources
 
