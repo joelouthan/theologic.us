@@ -1,7 +1,7 @@
 ---
-title: "Calvin's Institutes Ch 106: "
+title: "Calvin's Institutes" Ch "11""4":
 author: Joseph Louthan
-publishDate: 2023-03-08
+publishDate: 2023-03-15
 categories:
   - Reading
   - Books
@@ -16,14 +16,13 @@ draft: true
 
 ## The Title
 
-Book: **Book First: Of the Knowledge of God the Creator**
-Chapter: 
+Book: Book First: Of the Knowledge of God the Creator
 
 ## The Sections
 
-## The Notes
+1.
 
-## The Resource
+## The Resources
 
 <p style="clear:both;">
 
@@ -37,3 +36,4 @@ Hendrickson Publishers. January 1, 2008.
 ---
 
 ## The Copy
+

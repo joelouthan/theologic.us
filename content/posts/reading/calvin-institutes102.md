@@ -11,7 +11,7 @@ series:
   - "Reading: Calvin's Institutes"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 ## The Title

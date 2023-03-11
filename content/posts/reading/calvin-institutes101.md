@@ -6,12 +6,12 @@ categories:
   - Reading
   - Books
 tags:
-  - "reading notes"
+  - "Reading Notes"
 series:
   - "Reading: Calvin's Institutes"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 ## The Title

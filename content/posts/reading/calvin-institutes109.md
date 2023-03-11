@@ -1,5 +1,5 @@
 ---
-title: "Calvin's Institutes Ch 104: The Knowledge of God Stiffed or Corrupted"
+title: "Calvin's Institutes Ch 109: "
 author: Joseph Louthan
 publishDate: 2023-03-08
 categories:
@@ -17,14 +17,9 @@ draft: true
 ## The Title
 
 Book: **Book First: Of the Knowledge of God the Creator**
-Chapter: **The Knowledge of God Stiffed or Corrupted, Ignorantly or Maliciously**
+Chapter: 
 
 ## The Sections
-
-1. The knowledge of God suppressed by ignorance, many falling away into superstition. Such persons, however, inexcusable, because their error is accompanied pride and stubbornness.
-2. Stubbornness the companion of impiety.
-3. No pretext can justify superstition. This proved, first, from reason; and, second, from Scripture.
-4. The wicked never willingly come into the presence of God. Hence their hypocrisy.Hence, too, their sense of deity leads to no good result.
 
 ## The Notes
 
@@ -40,3 +35,5 @@ Hendrickson Publishers. January 1, 2008.
 <p style="clear:both;">
 
 ---
+
+## The Copy
