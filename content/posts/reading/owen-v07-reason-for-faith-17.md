@@ -1,7 +1,7 @@
 ---
-title: "Owen. VII. The Reason of Faith. Ch 1: "
+title: "Owen. VII. The Reason of Faith. Ch 17: "
 author: Joseph Louthan
-publishDate: 2023-03-08
+publishDate: 2023-03-28
 categories:
   - Reading
   - Books
@@ -11,7 +11,7 @@ series:
   - "Reading: The Complete Works of John Owen"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 ## The Title
@@ -19,7 +19,7 @@ draft: false
 **The Complete Works of John Owen**  
 Volume: **VII The Holy Spirit--The Helper**  
 Book: **The Reason for Faith**  
-Chapter: ****
+Chapter: **17**
 
 ## The Notes
 
@@ -36,3 +36,6 @@ Crossway. November 8, 2022.
 <p style="clear:both;">
 
 ---
+
+## The Copy
+

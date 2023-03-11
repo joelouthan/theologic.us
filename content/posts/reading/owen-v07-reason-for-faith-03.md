@@ -11,7 +11,7 @@ series:
   - "Reading: The Complete Works of John Owen"
 tocopen: true
 css: "prayers"
-draft: false
+draft: true
 ---
 
 ## The Title
