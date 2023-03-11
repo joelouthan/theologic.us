@@ -1,7 +1,7 @@
 ---
 title: "What Do We Believe: Jesus Christ"
 author: Joseph Louthan
-publishDate: 2023-03-09T00:00:00-05:00
+publishDate: 2023-03-10T00:00:00-05:00
 categories:
   - Creeds
 tags:
