@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 11:16-32 Ours To Do: Be at Mercies of God"
+title: "Study: Romans 11:16-24 Ours To Do: Be in God's Mercies"
 author: Joseph Louthan
 publishDate: 2023-03-13T00:00:00-05:00
 categories:
