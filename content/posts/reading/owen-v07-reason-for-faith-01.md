@@ -1,7 +1,7 @@
 ---
-title: "Owen. VII. The Reason of Faith. Ch 1: "
+title: "Owen. VII. The Reason of Faith. Ch 1: The Subject Stated"
 author: Joseph Louthan
-publishDate: 2023-03-08
+publishDate: 2023-03-11
 categories:
   - Reading
   - Books
@@ -11,8 +11,9 @@ series:
   - "Reading: The Complete Works of John Owen"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+2023-03-11
 
 ## The Title
 
