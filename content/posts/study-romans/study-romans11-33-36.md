@@ -1,5 +1,5 @@
 ---
-title: "Study: "
+title: "Study: Romans 11:33-36 Ours To Do: Praise God"
 author: Joseph Louthan
 publishDate: 2023-03-20T00:00:00-05:00
 categories:
@@ -111,4 +111,3 @@ Kregel. 2003.
 [Goodreads](https://www.goodreads.com/book/show/1635020.Commentary_on_Romans?ac=1&from_search=true&qid=aIXX1icyNY&rank=5)
 
 <p style="clear:both;">
-
