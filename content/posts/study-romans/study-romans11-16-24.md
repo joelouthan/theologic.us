@@ -325,10 +325,15 @@ Nations wage war. People groups are birth and then go extinct. But God is the sa
 
 ### Be In God's Mercy! You Are In God!
 
-- 22 we are the vessels of mercy
-- 23 if you are far, you can be a part of this - you hear the assurance because of Christ has done - you can hve a part of this! This is for the taking. Even if you struggle with doubt and despair, that does not weaken the God's almighty double snatch grip of the Father and Son on your life
+Remember, we are not vessels of destruction! He has not harden our hearts. Our judgment is not final because why? We still breath his air.
 
-TODO:
+>Romans 9:23 (CSB) And what if he did this to make known the riches of his glory on objects of mercy that he prepared beforehand for glory—on us, the ones he also called, not only from the Jews but also from the Gentiles?
+
+The same grace that was extended to Jacob was extended to Esau. The same mercy that was given to Moses was available everyday for Pharaoh. The same steadfast love for the sons of the living God are widely available to the Gentile and Jew alike.
+
+We saw in the Bible and in our history that God has cut the natural branch and because "he has compassion on whom he has compassion" has grafted in the wild branch.
+
+The great pruner, the gardener of our souls, would love nothing more to graft in the Jews. There way in is the only way in: Jesus Christ our Lord.
 
 ## The Resources
 
