@@ -35,21 +35,63 @@ draft: true
 
 ## The Introduction
 
-Romans 2:4
+>Romans 2:4 (CSB) Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance?
+
+### Be in God's Kindness! 
+
+><sup>25</sup> I don’t want you to be ignorant of this mystery, brothers and sisters, so that you will not be conceited: A partial hardening has come upon Israel until the fullness of the Gentiles has come in. 
 
 Ruth 1 Naomi vs. Pharaoh
+
+---
 
 <div style="page-break-after: always;"></div>
 
 ## Our God
 
+><sup>26</sup> And in this way all Israel will be saved, as it is written, The Deliverer will come from Zion; he will turn godlessness away from Jacob. 
+
+### Be in God's Kindness! 
+
+---
+
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
 
+><sup>27</sup> And this will be my covenant with them when I take away their sins. 
+
+### Be in God's Kindness! 
+
+---
+
+><sup>28</sup> Regarding the gospel, they are enemies for your advantage, but regarding election, they are loved because of the patriarchs, 
+
+><sup>29</sup> since God’s gracious gifts and calling are irrevocable.
+
+### Be in God's Kindness! 
+
+---
+
 <div style="page-break-after: always;"></div>
 
 ## Our Response
+
+><sup>30</sup> As you once disobeyed God but now have received mercy through their disobedience, 
+
+### Be in God's Kindness! 
+
+---
+
+><sup>31</sup> so they too have now disobeyed, resulting in mercy to you, so that they also may now receive mercy. 
+
+### Be in God's Kindness! 
+
+---
+
+><sup>32</sup> For God has imprisoned all in disobedience so that he may have mercy on all.
+
+### Be in God's Kindness! 
 
 ## The Resources
 
