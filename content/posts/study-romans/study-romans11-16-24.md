@@ -41,16 +41,6 @@ draft: false
 
 ### Be In God's Mercy! He Is Holy
 
-- merciful because God gives his people his holiness
-  - there is no other holiness
-  - God alone with his angels are set apart from sin
-  - they never have to tolerate sin
-  - sin is in their presence
-  - he is far from, high above, rejects sin
-- God does not tolerate sin in his holy presence
-- but he sets a nation apart from other nations and calls them holy because he is holy
-- this was a foreshadow to the work of Christ--saving his people from their sin and unto holiness
-
 Right out the gate, starting off with this passage, in verse 16, we get to see where God is coming from. I use this verse to set the stage a verse coming up--where, out of context, if you did not have verse 16 or the rest of Romans 11 or the rest of the Bible, you swore that you could lose your salvation if you messed up.
 
 One, if you and I could lose our salvation, you and I would have already done so. We sin continuously. And that might trigger one of two responses. One, "I didn't do anything bad all week." Two, "I remember what Christ said--it is a matter of the heart--and that I know my heart is not always pure." This is why we as a people gather together in church to confess our sins together and then hear, sit under, receive the assurance of pardon and the gospel of the Almighty God that has done everything perfectly in his Son to save you from yours sins and adopted into his family.
