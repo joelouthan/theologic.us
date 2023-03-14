@@ -11,7 +11,7 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ## The Text
@@ -35,13 +35,27 @@ draft: true
 
 ## The Introduction
 
->Romans 2:4 (CSB) Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance?
-
-### Be in God's Kindness! 
-
 ><sup>25</sup> I don’t want you to be ignorant of this mystery, brothers and sisters, so that you will not be conceited: A partial hardening has come upon Israel until the fullness of the Gentiles has come in. 
 
-Ruth 1 Naomi vs. Pharaoh
+### Be in God's Kindness! We Truly Know God
+
+As John Calvin once said, "The finite mind cannot comprehend an infinite being."  What does this mean? Can we not know God?
+
+Not unless the Father of lights opens our eyes to see him. We know that God must make us a new creation in order for us to see the kingdom. So we are not ignorant to the mysteries of God. We do see clearly that the Gentiles will make up most of the church of Christ. The Jews will make up a small part. Some in part because they are a small nation. But also, another mystery is revealed: their hearts are partial hardening. Some translations: a partial blindness. 
+
+How can one be partially blind and half-harden heart? For the case of the Jews, they had the Law. More correctly stated, they have the Old Testament. 
+
+>Romans 3:1-2 (CSB) So what advantage does the Jew have? Or what is the benefit of circumcision? Considerable in every way. First, they were entrusted with the very words of God.
+
+They have the very words do God. Let it be known the same Christ whom they've hardened their hearts towards is the same Christ who knew their own Scriptures better than them. And how? All Scripture is inspired by him and all the Scriptures are about him. Ever but of it. 
+
+Israel has the Scriptures and yet refuse to see it. 
+
+>John 5:39-40 (CSB) You pore over the Scriptures because you think you have eternal life in them, and yet they testify about me. But you are not willing to come to me so that you may have life.
+
+This is where we Gentiles do not get to boast because we do the same thing. We can fall into the trap of knowing a lot of Scripture thinking that makes me holy unto God. Maybe compared to other people but not to God. 
+
+Israel TODO:
 
 ---
 
