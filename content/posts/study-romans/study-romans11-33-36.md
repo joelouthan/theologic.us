@@ -46,7 +46,7 @@ We are that widow! We are those orphans! We are the lost!
 
 Romans 1-11 is the systematic exposition of the Old Testament--the law will crush us but cannot save us.
 
-Roman 1-11 is the systematic expostion of the Gospels--but where law increased our sins by truly exposing who we really are, Christ Jesus gave even more grace than you can sin.
+Roman 1-11 is the systematic exposition of the Gospels--but where law increased our sins by truly exposing who we really are, Christ Jesus gave even more grace than you can sin.
 
 Take all of it--most heinous, most evil, most depraved, most dark, most denied--take the weight of that cancerous tumor and that diseased flesh and that rotten corpse and I dare you to place them on the flesh of Christ.
 
