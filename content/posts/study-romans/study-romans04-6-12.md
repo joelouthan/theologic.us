@@ -17,14 +17,20 @@ draft: false
 
 ## The Text
 
->Romans 4:6–12 (CSB) Just as David also speaks of the blessing of the person to whom God credits righteousness apart from works:
->
->Blessed are those whose lawless acts are forgiven  
->and whose sins are covered.  
->Blessed is the person  
->the Lord will never charge with sin.  
->
->Is this blessing only for the circumcised, then? Or is it also for the uncircumcised? For we say, Faith was credited to Abraham for righteousness. In what way, then, was it credited—while he was circumcised, or uncircumcised? It was not while he was circumcised, but uncircumcised. And he received the sign of circumcision as a seal of the righteousness that he had by faith while still uncircumcised. This was to make him the father of all who believe but are not circumcised, so that righteousness may be credited to them also. And he became the father of the circumcised, who are not only circumcised but who also follow in the footsteps of the faith our father Abraham had while he was still uncircumcised.
+>Romans 4:6–12 (CSB)  
+><sup>6</sup> Likewise, David also speaks of the blessing of the person to whom God credits righteousness apart from works: 
+
+><sup>7</sup> Blessed are those whose lawless acts are forgiven and whose sins are covered. 
+
+><sup>8</sup> Blessed is the person the Lord will never charge with sin. 
+
+><sup>9</sup> Is this blessing only for the circumcised, then? Or is it also for the uncircumcised? For we say, Faith was credited to Abraham for righteousness. 
+
+><sup>10</sup> In what way, then, was it credited—while he was circumcised, or uncircumcised? It was not while he was circumcised, but uncircumcised. 
+
+><sup>11</sup> And he received the sign of circumcision as a seal of the righteousness that he had by faith while still uncircumcised. This was to make him the father of all who believe but are not circumcised, so that righteousness may be credited to them also. 
+
+><sup>12</sup> And he became the father of the circumcised, who are not only circumcised but who also follow in the footsteps of the faith our father Abraham had while he was still uncircumcised.
 
 <div style="page-break-after: always;"></div>
 
