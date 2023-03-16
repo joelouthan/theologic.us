@@ -15,7 +15,27 @@ draft: true
 ---
 ## The Text
 
+>Romans 12:1–8 (CSB)  
+><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship. 
+
+><sup>2</sup> Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. 
+
+><sup>3</sup> For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one. 
+
+><sup>4</sup> Now as we have many parts in one body, and all the parts do not have the same function, 
+
+><sup>5</sup> in the same way we who are many are one body in Christ and individually members of one another. 
+
+><sup>6</sup> According to the grace given to us, we have different gifts: If prophecy, use it according to the proportion of one’s faith; 
+
+><sup>7</sup> if service, use it in service; if teaching, in teaching; 
+
+><sup>8</sup> if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.
+
 ## The Introduction
+
+Three users of the law
+
 
 <div style="page-break-after: always;"></div>
 
@@ -33,6 +53,23 @@ draft: true
 
 <p style="clear:both;">
 
+<img src="https://theologic.us/images/resources/book-calvin-beveridge-institutes.jpg" align="left" width="200" style="padding-right: 10px" />The Institutes of the Christian Religion.  
+by John Calvin.  Translated by Henry Beveridge  
+Hendrickson Publishers. January 1, 2008.  
+[Goodreads](https://www.goodreads.com/book/show/1155340.Institutes_of_the_Christian_Religion)
+
+<p style="clear:both;">
+
+---
+
+<img src="https://theologic.us/images/resources/bible-esv-reformation-study-sproul.jpg" align="left" width="200" style="padding-right: 10px" />ESV Reformation Study Bible  
+Commentary & Edited by R.C. Sproul.  
+Ligonier Ministries. March 16, 2015.  
+[Goodreads](https://www.goodreads.com/book/show/53529503-esv-reformation-study-bible?ac=1&from_search=true&qid=KXDsGlDfkm&rank=1)
+
+<p style="clear:both;">
+
+---
 <img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
 Baker. 2009.  
