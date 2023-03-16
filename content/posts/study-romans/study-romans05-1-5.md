@@ -17,7 +17,16 @@ draft: false
 
 ## The Text
 
->Romans 5:1–5 (CSB) Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. We have also obtained access through him by faith into this grace in which we stand, and we boast in the hope of the glory of God. And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, endurance produces proven character, and proven character produces hope. This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
+>Romans 5:1–5 (CSB)  
+><sup>1</sup> Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. 
+
+><sup>2</sup> We have also obtained access through him by faith into this grace in which we stand, and we boast in the hope of the glory of God. 
+
+><sup>3</sup> And not only that, but we also boast in our afflictions, because we know that affliction produces endurance, 
+
+><sup>4</sup> endurance produces proven character, and proven character produces hope. 
+
+><sup>5</sup> This hope will not disappoint us, because God’s love has been poured out in our hearts through the Holy Spirit who was given to us.
 
 <div style="page-break-after: always;"></div>
 
