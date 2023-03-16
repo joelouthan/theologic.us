@@ -16,27 +16,42 @@ draft: false
 
 ## The Text
 
->Romans 3:9–26 (CSB) What then? Are we any better off? Not at all! For we have already charged that both Jews and Greeks are all under sin, as it is written:
->
->There is no one righteous, not even one.  
->There is no one who understands;  
->there is no one who seeks God.  
->All have turned away;  
->all alike have become worthless.  
->There is no one who does what is good,  
->not even one.  
->Their throat is an open grave;  
->they deceive with their tongues.  
->Vipers’ venom is under their lips.  
->Their mouth is full of cursing and bitterness.  
->Their feet are swift to shed blood;  
->ruin and wretchedness are in their paths,  
->and the path of peace they have not known.  
->There is no fear of God before their eyes.
->
->Now we know that whatever the law says, it speaks to those who are subject to the law, so that every mouth may be shut and the whole world may become subject to God’s judgment. For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law.
->
->But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets. The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction. For all have sinned and fall short of the glory of God; they are justified freely by his grace through the redemption that is in Christ Jesus. God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
+>Romans 3:9–26 (CSB)  
+><sup>9</sup> What then? Are we any better off? Not at all! For we have already charged that both Jews and Greeks are all under sin, 
+
+><sup>10</sup> as it is written: There is no one righteous, not even one. 
+
+><sup>11</sup> There is no one who understands; there is no one who seeks God. 
+
+><sup>12</sup> All have turned away; all alike have become worthless. There is no one who does what is good, not even one. 
+
+><sup>13</sup> Their throat is an open grave; they deceive with their tongues. Vipers’ venom is under their lips. 
+
+><sup>14</sup> Their mouth is full of cursing and bitterness. 
+
+><sup>15</sup> Their feet are swift to shed blood; 
+
+><sup>16</sup> ruin and wretchedness are in their paths, 
+
+><sup>17</sup> and the path of peace they have not known. 
+
+><sup>18</sup> There is no fear of God before their eyes. 
+
+><sup>19</sup> Now we know that whatever the law says, it speaks to those who are subject to the law, so that every mouth may be shut and the whole world may become subject to God’s judgment. 
+
+><sup>20</sup> For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law. 
+
+><sup>21</sup> But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets. 
+
+><sup>22</sup> The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction. 
+
+><sup>23</sup> For all have sinned and fall short of the glory of God; 
+
+><sup>24</sup> they are justified freely by his grace through the redemption that is in Christ Jesus. 
+
+><sup>25</sup> God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. 
+
+><sup>26</sup> God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
 
 <div style="page-break-after: always;"></div>
 
