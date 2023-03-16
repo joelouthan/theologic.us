@@ -16,9 +16,38 @@ draft: false
 
 ## The Text
 
->Romans 2:1-16 (CSB) Therefore, every one of you who judges is without excuse. For when you judge another, you condemn yourself, since you, the judge, do the same things. Now we know that God’s judgment on those who do such things is based on the truth. Do you think—anyone of you who judges those who do such things yet do the same—that you will escape God’s judgment? Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance? Because of your hardened and unrepentant heart you are storing up wrath for yourself in the day of wrath, when God’s righteous judgment is revealed. He will repay each one according to his works: eternal life to those who by persistence in doing good seek glory, honor, and immortality; but wrath and anger to those who are self-seeking and disobey the truth while obeying unrighteousness. There will be affliction and distress for every human being who does evil, first to the Jew, and also to the Greek; but glory, honor, and peace for everyone who does what is good, first to the Jew, and also to the Greek. For there is no favoritism with God.
->
->For all who sin without the law will also perish without the law, and all who sin under the law will be judged by the law. For the hearers of the law are not righteous before God, but the doers of the law will be justified. So, when Gentiles, who do not by nature have the law, do what the law demands, you are a law to themselves even though you do not have the law. you show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them on the day when God judges what people have kept secret, according to my gospel through Christ Jesus.
+>Romans 2:1–16 (CSB)  
+><sup>1</sup> Therefore, every one of you who judges is without excuse. For when you judge another, you condemn yourself, since you, the judge, do the same things. 
+
+><sup>2</sup> Now we know that God’s judgment on those who do such things is based on the truth. 
+
+><sup>3</sup> Do you think—anyone of you who judges those who do such things yet do the same—that you will escape God’s judgment? 
+
+><sup>4</sup> Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance? 
+
+><sup>5</sup> Because of your hardened and unrepentant heart you are storing up wrath for yourself in the day of wrath, when God’s righteous judgment is revealed. 
+
+><sup>6</sup> He will repay each one according to his works: 
+
+><sup>7</sup> eternal life to those who by persistence in doing good seek glory, honor, and immortality; 
+
+><sup>8</sup> but wrath and anger to those who are self-seeking and disobey the truth while obeying unrighteousness. 
+
+><sup>9</sup> There will be affliction and distress for every human being who does evil, first to the Jew, and also to the Greek; 
+
+><sup>10</sup> but glory, honor, and peace for everyone who does what is good, first to the Jew, and also to the Greek. 
+
+><sup>11</sup> For there is no favoritism with God. 
+
+><sup>12</sup> For all who sin without the law will also perish without the law, and all who sin under the law will be judged by the law. 
+
+><sup>13</sup> For the hearers of the law are not righteous before God, but the doers of the law will be justified. 
+
+><sup>14</sup> So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law. 
+
+><sup>15</sup> They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them 
+
+><sup>16</sup> on the day when God judges what people have kept secret, according to my gospel through Christ Jesus.
 
 <div style="page-break-after: always;"></div>
 
