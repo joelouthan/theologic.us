@@ -17,9 +17,32 @@ draft: false
 
 ## The Text
 
->Romans 4:13-25 (CSB) For the promise to Abraham or to his descendants that he would inherit the world was not through the law, but through the righteousness that comes by faith. 14 If those who are of the law are heirs, faith is made empty and the promise nullified, 15 because the law produces wrath. And where there is no law, there is no transgression.
->
->16 This is why the promise is by faith, so that it may be according to grace, to guarantee it to all the descendants—not only to the one who is of the law but also to the one who is of Abraham’s faith. He is the father of us all. 17 As it is written: I have made you the father of many nations —in the presence of the God in whom he believed,the one who gives life to the dead and calls things into existence that do not exist. He believed, hoping against hope, so that he became the father of many nations according to what had been spoken: So will your descendants be. 19 He did not weaken in faith when he considered his own body to be already dead (since he was about a hundred years old) and also the deadness of Sarah’s womb. 20 He did not waver in unbelief at God’s promise but was strengthened in his faith and gave glory to God, 21 because he was fully convinced that what God had promised, he was also able to do. 22 Therefore, it was credited to him for righteousness. 23 Now it was credited to him was not written for Abraham alone, 24 but also for us. It will be credited to us who believe in him who raised Jesus our Lord from the dead. 25 He was delivered up for our trespasses and raised for our justification.
+>Romans 4:13–25 (CSB)  
+><sup>13</sup> For the promise to Abraham or to his descendants that he would inherit the world was not through the law, but through the righteousness that comes by faith. 
+
+><sup>14</sup> If those who are of the law are heirs, faith is made empty and the promise nullified, 
+
+><sup>15</sup> because the law produces wrath. And where there is no law, there is no transgression. 
+
+><sup>16</sup> This is why the promise is by faith, so that it may be according to grace, to guarantee it to all the descendants—not only to the one who is of the law but also to the one who is of Abraham’s faith. He is the father of us all. 
+
+><sup>17</sup> As it is written: I have made you the father of many nations— in the presence of the God in whom he believed, the one who gives life to the dead and calls things into existence that do not exist. 
+
+><sup>18</sup> He believed, hoping against hope, so that he became the father of many nations according to what had been spoken: So will your descendants be. 
+
+><sup>19</sup> He did not weaken in faith when he considered his own body to be already dead (since he was about a hundred years old) and also the deadness of Sarah’s womb. 
+
+><sup>20</sup> He did not waver in unbelief at God’s promise but was strengthened in his faith and gave glory to God, 
+
+><sup>21</sup> because he was fully convinced that what God had promised, he was also able to do. 
+
+><sup>22</sup> Therefore, it was credited to him for righteousness. 
+
+><sup>23</sup> Now it was credited to him was not written for Abraham alone, 
+
+><sup>24</sup> but also for us. It will be credited to us who believe in him who raised Jesus our Lord from the dead. 
+
+><sup>25</sup> He was delivered up for our trespasses and raised for our justification.
 
 <div style="page-break-after: always;"></div>
 
