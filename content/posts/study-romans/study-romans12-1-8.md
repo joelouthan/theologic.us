@@ -35,7 +35,9 @@ draft: true
 ## The Introduction
 
 Three users of the law
-
+- mirror Romans 3:21
+- civil - restrain pure evil (difference between Total and Utter Depravity--we are not as evil as we could be)
+- good works that loves others and pleases God - Eph 2:10
 
 <div style="page-break-after: always;"></div>
 
