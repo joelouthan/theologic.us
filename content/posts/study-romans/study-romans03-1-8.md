@@ -17,12 +17,22 @@ draft: false
 
 ## The Text
 
->Romans 3:1-8 (CSB) So what advantage does the Jew have? Or what is the benefit of circumcision? Considerable in every way. First, they were entrusted with the very words of God. What then? If some were unfaithful, will their unfaithfulness nullify God’s faithfulness? Absolutely not! Let God be true, even though everyone is a liar, as it is written:
->
->That you may be justified in your words
->and triumph when you judge.
->
->But if our unrighteousness highlights God’s righteousness, what are we to say? I am using a human argument: Is God unrighteous to inflict wrath? Absolutely not! Otherwise, how will God judge the world? But if by my lie God’s truth abounds to his glory, why am I also still being judged as a sinner? And why not say, just as some people slanderously claim we say, “Let us do what is evil so that good may come”? Their condemnation is deserved!
+>Romans 3:1–8 (CSB)  
+><sup>1</sup> So what advantage does the Jew have? Or what is the benefit of circumcision? 
+
+><sup>2</sup> Considerable in every way. First, they were entrusted with the very words of God. 
+
+><sup>3</sup> What then? If some were unfaithful, will their unfaithfulness nullify God’s faithfulness? 
+
+><sup>4</sup> Absolutely not! Let God be true, even though everyone is a liar, as it is written: That you may be justified in your words and triumph when you judge. 
+
+><sup>5</sup> But if our unrighteousness highlights God’s righteousness, what are we to say? I am using a human argument: Is God unrighteous to inflict wrath? 
+
+><sup>6</sup> Absolutely not! Otherwise, how will God judge the world? 
+
+><sup>7</sup> But if by my lie God’s truth abounds to his glory, why am I also still being judged as a sinner? 
+
+><sup>8</sup> And why not say, just as some people slanderously claim we say, “Let us do what is evil so that good may come”? Their condemnation is deserved!
 
 <div style="page-break-after: always;"></div>
 
