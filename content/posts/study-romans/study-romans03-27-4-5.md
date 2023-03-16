@@ -17,9 +17,26 @@ draft: false
 
 ## The Text
 
->Romans 3:27–4:5 (CSB) Where, then, is boasting? It is excluded. By what kind of law? By one of works? No, on the contrary, by a law of faith. For we conclude that a person is justified by faith apart from the works of the law. Or is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too, since there is one God who will justify the circumcised by faith and the uncircumcised through faith. Do we then nullify the law through faith? Absolutely not! On the contrary, we uphold the law.
->
->What then will we say that Abraham, our forefather according to the flesh, has found? If Abraham was justified by works, he has something to boast about—but not before God. For what does the Scripture say? Abraham believed God, and it was credited to him for righteousness. Now to the one who works, pay is not credited as a gift, but as something owed. But to the one who does not work, but believes on him who justifies the ungodly, his faith is credited for righteousness.
+>Romans 3:27–4:5 (CSB)  
+><sup>27</sup> Where, then, is boasting? It is excluded. By what kind of law? By one of works? No, on the contrary, by a law of faith. 
+
+><sup>28</sup> For we conclude that a person is justified by faith apart from the works of the law. 
+
+><sup>29</sup> Or is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too, 
+
+><sup>30</sup> since there is one God who will justify the circumcised by faith and the uncircumcised through faith. 
+
+><sup>31</sup> Do we then nullify the law through faith? Absolutely not! On the contrary, we uphold the law. 
+
+><sup>1</sup> What then will we say that Abraham, our forefather according to the flesh, has found? 
+
+><sup>2</sup> If Abraham was justified by works, he has something to boast about—but not before God. 
+
+><sup>3</sup> For what does the Scripture say? Abraham believed God, and it was credited to him for righteousness. 
+
+><sup>4</sup> Now to the one who works, pay is not credited as a gift, but as something owed. 
+
+><sup>5</sup> But to the one who does not work, but believes on him who justifies the ungodly, his faith is credited for righteousness.
 
 <div style="page-break-after: always;"></div>
 
