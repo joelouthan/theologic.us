@@ -38,9 +38,9 @@ He descended into hell.
 
 A person with reasonable intelligence can be taught written and reading language. They can be taught math. They can be taught many things.
 
-But I don't care how brilliant you are: you cannot to believe in God.
+But I don't care how brilliant you are: you cannot be taught to believe in God.
 
-It does not matter how often you went to church, how many Sunday Schools, Bible colleges, Seminaries you've attended. I don't care how many churches you pastored. I don't care how much you have given to the poor. I don't care what you do.
+It does not matter how often you went to church, how many Sunday Schools, Bible colleges, and seminaries you've attended. I don't care how many churches you pastored. I don't care how much you have given to the poor. I don't care what you do.
 
 The fact is for you to believe in God you must be born again.
 
