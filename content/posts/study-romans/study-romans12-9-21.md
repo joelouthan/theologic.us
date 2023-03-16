@@ -15,6 +15,33 @@ draft: true
 ---
 ## The Text
 
+>Romans 12:9–21 (CSB)  
+><sup>9</sup> Let love be without hypocrisy. Detest evil; cling to what is good. 
+
+><sup>10</sup> Love one another deeply as brothers and sisters. Take the lead in honoring one another. 
+
+><sup>11</sup> Do not lack diligence in zeal; be fervent in the Spirit; serve the Lord. 
+
+><sup>12</sup> Rejoice in hope; be patient in affliction; be persistent in prayer. 
+
+><sup>13</sup> Share with the saints in their needs; pursue hospitality. 
+
+><sup>14</sup> Bless those who persecute you; bless and do not curse. 
+
+><sup>15</sup> Rejoice with those who rejoice; weep with those who weep. 
+
+><sup>16</sup> Live in harmony with one another. Do not be proud; instead, associate with the humble. Do not be wise in your own estimation. 
+
+><sup>17</sup> Do not repay anyone evil for evil. Give careful thought to do what is honorable in everyone’s eyes. 
+
+><sup>18</sup> If possible, as far as it depends on you, live at peace with everyone. 
+
+><sup>19</sup> Friends, do not avenge yourselves; instead, leave room for God’s wrath, because it is written, Vengeance belongs to me; I will repay, says the Lord. 
+
+><sup>20</sup> But If your enemy is hungry, feed him. If he is thirsty, give him something to drink. For in so doing you will be heaping fiery coals on his head. 
+
+><sup>21</sup> Do not be conquered by evil, but conquer evil with good.
+
 ## The Introduction
 
 <div style="page-break-after: always;"></div>
