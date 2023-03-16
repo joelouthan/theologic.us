@@ -17,9 +17,32 @@ draft: false
 
 ## The Text
 
->Romans 2:17-29 (CSB) Now if you call yourself a Jew, and rely on the law, and boast in God, and know his will, and approve the things that are superior, being instructed from the law, and if you are convinced that you are a guide for the blind, a light to those in darkness, an instructor of the ignorant, a teacher of the immature, having the embodiment of knowledge and truth in the law— you then, who teach another, don’t you teach yourself? You who preach, “You must not steal”—do you steal? You who say, “You must not commit adultery”—do you commit adultery? You who detest idols, do you rob temples? You who boast in the law, do you dishonor God by breaking the law? For, as it is written: The name of God is blasphemed among the Gentiles because of you.
->
->Circumcision benefits you if you observe the law, but if you are a lawbreaker, your circumcision has become uncircumcision. So if an uncircumcised man keeps the law’s requirements, will not his uncircumcision be counted as circumcision? A man who is physically uncircumcised, but who keeps the law, will judge you who are a lawbreaker in spite of having the letter of the law and circumcision. For a person is not a Jew who is one outwardly, and true circumcision is not something visible in the flesh. On the contrary, a person is a Jew who is one inwardly, and circumcision is of the heart—by the Spirit, not the letter. That person’s praise is not from people but from God.
+>Romans 2:17–29 (CSB)  
+><sup>17</sup> Now if you call yourself a Jew, and rely on the law, and boast in God, 
+
+><sup>18</sup> and know his will, and approve the things that are superior, being instructed from the law, 
+
+><sup>19</sup> and if you are convinced that you are a guide for the blind, a light to those in darkness, 
+
+><sup>20</sup> an instructor of the ignorant, a teacher of the immature, having the embodiment of knowledge and truth in the law—
+
+><sup>21</sup> you then, who teach another, don’t you teach yourself? You who preach, “You must not steal”—do you steal? 
+
+><sup>22</sup> You who say, “You must not commit adultery”—do you commit adultery? You who detest idols, do you rob temples? 
+
+><sup>23</sup> You who boast in the law, do you dishonor God by breaking the law? 
+
+><sup>24</sup> For, as it is written: The name of God is blasphemed among the Gentiles because of you. 
+
+><sup>25</sup> Circumcision benefits you if you observe the law, but if you are a lawbreaker, your circumcision has become uncircumcision. 
+
+><sup>26</sup> So if an uncircumcised man keeps the law’s requirements, will not his uncircumcision be counted as circumcision? 
+
+><sup>27</sup> A man who is physically uncircumcised, but who keeps the law, will judge you who are a lawbreaker in spite of having the letter of the law and circumcision. 
+
+><sup>28</sup> For a person is not a Jew who is one outwardly, and true circumcision is not something visible in the flesh. 
+
+><sup>29</sup> On the contrary, a person is a Jew who is one inwardly, and circumcision is of the heart—by the Spirit, not the letter. That person’s praise is not from people but from God.
 
 <div style="page-break-after: always;"></div>
 
