@@ -35,23 +35,24 @@ What you do get is grace by God alone to be forgiven, cleansed, and sanctified a
 
 ## The Text
 
->Romans 6:15-23 (CSB) What then? Should we sin because we are not under the law but under grace? Absolutely not!
->
-><sup> 16 </sup>Don’t you know that if you offer yourselves to someone as obedient slaves, you are slaves of that one you obey—either of sin leading to death or of obedience leading to righteousness?
->
-><sup> 17 </sup>But thank God that, although you used to be slaves of sin, you obeyed from the heart that pattern of teaching to which you were handed over,
->
-><sup> 18 </sup>and having been set free from sin, you became enslaved to righteousness.
->
-><sup> 19 </sup>I am using a human analogy because of the weakness of your flesh. For just as you offered the parts of yourselves as slaves to impurity, and to greater and greater lawlessness, so now offer them as slaves to righteousness, which results in sanctification.
->
-><sup> 20 </sup>For when you were slaves of sin, you were free with regard to righteousness.
->
-><sup> 21 </sup>So what fruit was produced then from the things you are now ashamed of? The outcome of those things is death.
->
-><sup> 22 </sup>But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life!
->
-><sup> 23 </sup>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+>Romans 6:15–23 (CSB)  
+><sup>15</sup> What then? Should we sin because we are not under the law but under grace? Absolutely not! 
+
+><sup>16</sup> Don’t you know that if you offer yourselves to someone as obedient slaves, you are slaves of that one you obey—either of sin leading to death or of obedience leading to righteousness? 
+
+><sup>17</sup> But thank God that, although you used to be slaves of sin, you obeyed from the heart that pattern of teaching to which you were handed over, 
+
+><sup>18</sup> and having been set free from sin, you became enslaved to righteousness. 
+
+><sup>19</sup> I am using a human analogy because of the weakness of your flesh. For just as you offered the parts of yourselves as slaves to impurity, and to greater and greater lawlessness, so now offer them as slaves to righteousness, which results in sanctification. 
+
+><sup>20</sup> For when you were slaves of sin, you were free with regard to righteousness. 
+
+><sup>21</sup> So what fruit was produced then from the things you are now ashamed of? The outcome of those things is death. 
+
+><sup>22</sup> But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life! 
+
+><sup>23</sup> For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
 <div style="page-break-after: always;"></div>
 
