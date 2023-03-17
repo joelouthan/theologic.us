@@ -118,8 +118,8 @@ And
     <figcaption>Listen to Theologicus - What Do We Believe: Jesus Christ, Pt 1</figcaption>
     <audio
         controls
-        src="https://media.theologic.us/0316-creed-jesus-01.mp3">
-            <a href="https://media.theologic.us/0316-creed-jesus-01.mp3">
+        src="http://media.theologic.us/audio/20220316-creed-jesus-01.mp3">
+            <a href="http://media.theologic.us/audio/20220316-creed-jesus-01.mp3">
                 Download audio
             </a>
     </audio>
