@@ -327,7 +327,7 @@ Micah
 
 Matthew & Alisha, fam
 
-Derek & Nikki, fam
+Derek & Nikki, Lexi & baby
 
 Kelly
 
