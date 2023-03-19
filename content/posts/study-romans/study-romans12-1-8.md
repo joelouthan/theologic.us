@@ -39,6 +39,16 @@ Three users of the law
 - civil - restrain pure evil (difference between Total and Utter Depravity--we are not as evil as we could be)
 - good works that loves others and pleases God - Eph 2:10
 
+Preaching of the gospel not law Rom 1:15-17
+
+Here's the law 1-3
+We can't do anything 4-7
+Christ does it all 8-11
+Praise be to God 11:33-36
+Now go and love your neighbor 12-16
+
+  
+
 <div style="page-break-after: always;"></div>
 
 ## Our God
