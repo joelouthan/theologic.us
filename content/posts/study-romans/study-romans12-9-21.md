@@ -44,6 +44,11 @@ draft: true
 
 ## The Introduction
 
+Bookends
+
+- v9 Do no evil; do good
+- v21 Do no evil; do good
+
 <div style="page-break-after: always;"></div>
 
 ## Our God
