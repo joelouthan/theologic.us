@@ -1,0 +1,121 @@
+<div class='post_extra mb-2'>
+  <div class="mr-1">
+    {{ partialCached "podcast-subscribe.html" . }}
+  </div>
+  {{ partial "share.html" . }}
+</div>
+
+{{- $date := (dateFormat "02. January 2006" .Date) -}}
+<p class='post_date pale'>{{ $date }}</p>
+<h1 class='post_title'>#{{.Params.number}}: {{ .Title }}</h1>
+
+<div class="post_downloads mb-2 mr-2">
+  <div class="icon-mic">
+    <strong>Published:</strong>
+    <em>{{ .PublishDate.Format "Jan 02, 2006" }}</em>
+  </div>
+  <div class="icon-download"><strong>Download As:</strong> <a
+      href="{{.Site.Params.podcast.download_url}}{{.Params.aac.asset_link}}" class="download-link">AAC
+      M4A</a>, <a href="{{.Site.Params.podcast.download_url}}{{.Params.mp3.asset_link}}" class="download-link">MP3</a>
+  </div>
+  <div class="icon-download"><strong>Rate</strong> <a href="{{.Site.Params.podcast.itunes_url}}">on iTunes</a></div>
+</div>
+</div>
+
+<!-- Image -->
+<div class="post_thumb mr-2 mb-2">
+  {{ if .Params.image }}
+  {{ $originalImg := resources.Get .Params.image.url }}
+  {{ if $originalImg }}
+  {{ $thumbnailImg := $originalImg.Fit "800x600" }}
+  <figure>
+    <img class="post_thumbnail" alt="{{ .Params.image.alt | default .Title | markdownify | safeHTML }}"
+      src="{{$thumbnailImg.RelPermalink}}" />
+    <figcaption class="figure-caption">{{ .Params.image.alt | default .Title | markdownify | safeHTML }}
+    </figcaption>
+  </figure>
+  {{else}}
+  <a href="{{ .Site.Params.podcast.cdn_url }}images/logo_wide.png"><img
+      src="{{ .Site.Params.podcast.cdn_url }}images/logo_wide.png" alt="{{.Title}}" width="320"
+      class="post_thumbnail" /></a>
+  {{end}}
+  {{else}}
+  <a href="{{ .Site.Params.podcast.cdn_url }}images/logo_wide.png"><img
+      src="{{ .Site.Params.podcast.cdn_url }}images/logo_wide.png" alt="{{.Title}}" width="320"
+      class="post_thumbnail" /></a>
+  {{end}}
+</div>
+
+<!-- Player -->
+<div id="player" class="mb-2 mr-2"></div>
+<script src="https://cdn.podlove.org/web-player/5.x/embed.js"></script>
+<script>
+  (function () {
+    var episode = {
+      show: {
+        title: "{{ .Site.Title}}",
+        subtitle: "{{.Site.Params.podcast.tagline}}",
+        summary: "{{.Site.Params.podcast.description}}",
+        poster: "{{ .Site.Params.podcast.cdn_url }}images/logo_feed.png",
+        link: ""
+      },
+      /**
+      * Episode related Information
+      */
+      title: "{{ .Params.number }}. {{ .Params.title }}",
+      subtitle: "{{ .Params.short_description | plainify }}",
+      summary: "{{ .Content | plainify }}",
+      // ISO 8601 DateTime format, this is capable of adding a time offset, see https://en.wikipedia.org/wiki/ISO_8601
+      publicationDate: '{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}',
+      // ISO 8601 Duration format ([hh]:[mm]:[ss].[sss]), capable of add ing milliseconds, see https://en.wikipedia.org/wiki/ISO_8601
+      duration: "{{ .Params.duration }}",
+      link: "{{.Permalink}}",
+
+      /**
+      * Audio Assets
+      * - media Assets played by the audio player
+      * - format support depends on the used browser (https://en.wikipedia.org/wiki/HTML5_audio#Supported_audio_coding_formats)
+      * - also supports HLS streams
+      *
+      * Asset
+      * - url: absolute path to media asset
+      * - size: file size in  byte
+      * - (title): title to be displayed in download tab
+      * - mimeType: media asset mimeType
+      */
+      audio: [
+        {
+          url: "{{.Site.Params.podcast.download_url}}{{ .Params.aac.asset_link | safeHTML }}",
+          size: "{{ .Params.aac.length }}",
+          title: "MPEG-4 AAC Audio (m4a)",
+          mimeType: "audio/mp4"
+        },
+        {
+          url: "{{.Site.Params.podcast.download_url}}{{ .Params.mp3.asset_link | safeHTML }}",
+          size: "{{ .Params.mp3.length }}",
+          title: "MP3 Audio (mp3)",
+          mimeType: "audio/mpeg"
+        }
+      ],
+    };
+
+    var config = {
+      version: 5,
+      share: {
+        /**
+        * Share Channels:
+        * - list of available channels in share tab
+        */
+        channels: [
+          "facebook",
+          "twitter",
+          "mail",
+          "link"
+        ],
+        // share outlet, if not provided embed snippet is not available
+        // outlet: "/share.html",
+        sharePlaytime: true
+      }
+    };
+  })();
+</script>

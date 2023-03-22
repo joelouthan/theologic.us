@@ -25,22 +25,22 @@ minify:
 params:
     ShowPostNavLinks: true
 
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production
     title: Theologicus
     description: "Trying to waste my time with God. Preacher of the Gospel. Writing at Theologicus. StarCraft 2 Elderly."
     author: Joseph Louthan
     email: joe@theologic.us
-    # images: ["/content/images/"]
 
     mainSections:
+      - "podcasts"
       - "categories"
       - "series"
       - "tags"
 
     podcast:
-      description: "Daily devotions on the goodness of God. (Based on the writings at Theologicus.)"
-      tagline: trying to waste my time with God
-      download_url: https://theologic.us/categories/podcasts/
+      description: "Daily devotions on the goodness of God--based on the writings located at Theologicus."
+      tagline: "Trying to waste my time with God"
+      download_url: https://theologic.us/podcasts/
       cdn_url: http://media.theologic.us/audio/
       itunes_url: https://podcasts.apple.com/us/podcast/podcasts-on-theologicus/id1557102127
       itunes_id: id1557102127
@@ -169,11 +169,16 @@ menu:
           name: tags
           url: /tags/
           weight: 30
+        - identifier: 
+          name: episodes
+          url: /episodes/
+          weight: 40
 
 taxonomies:
     category: categories
     tag: tags
     series: series
+    podcasts: episodes
 
 Social:
     facebook: "joseph.louthan"
@@ -192,6 +197,14 @@ Social:
 #         style: monokai
 
 outputFormats:
+  aacfeed:
+    MediaType: "application/rss+xml"
+    BaseName: "index"
+    path: "/feed/aac"
+    IsHTML: false
+    IsPlainText: true
+    noUgly: true
+    Rel: "alternate"
   mp3feed:
     MediaType: "application/rss+xml"
     BaseName: "index"
@@ -201,11 +214,14 @@ outputFormats:
     noUgly: true
     Rel: "alternate"
 
+# Podcast Feed per https://brendamour.net/2021/04/18/how-to-publish-podcasts-with-the-hugo-static-site-generator/
+
 outputs:
   home:
     - HTML
     - AMP
     - RSS
+    - aacfeed
     - mp3feed
 
 markup:
