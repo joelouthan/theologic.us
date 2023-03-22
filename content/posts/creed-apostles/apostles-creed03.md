@@ -2,7 +2,7 @@
 title: "What Do We Believe: Jesus Christ, Pt 1"
 author: Joseph Louthan
 publishDate: 2023-03-16
-podcasts:
+episodes:
   - "Apostles' Creed"
 categories:
   - Creeds
@@ -13,6 +13,23 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+layout: episode
+eptype: full
+number: "20230316"
+duration: "35:25"
+date: 2023-03-16
+short_description: "Opponents to Christianity will often categorize us with the Jewish and Muslim faiths as Abrahamic. There are some similarities between our religions. But what distinguishes Christianity from those religion is a person--it is the Lord Jesus Christ."
+mp3:
+    asset_link: "20230316-creed-jesus-01.mp3"
+    length: "51129073"
+aac:
+    asset_link: "20230316-creed-jesus-01.m4a"
+    length: "51566453"
+url: /20230316-apostles-creed-jesus-christ
+image: 
+  url: images/metatag-theologicus-thor-622x.jpg
+  alt: "Source: Theologicus"
 ---
 
 ## The Audio
