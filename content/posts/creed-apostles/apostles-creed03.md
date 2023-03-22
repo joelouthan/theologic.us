@@ -2,9 +2,10 @@
 title: "What Do We Believe: Jesus Christ, Pt 1"
 author: Joseph Louthan
 publishDate: 2023-03-16
+podcasts:
+  - "Apostles' Creed"
 categories:
   - Creeds
-  - Podcasts
 tags:
   - "Apostles' Creed"
 series:
