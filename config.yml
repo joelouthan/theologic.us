@@ -25,21 +25,21 @@ minify:
 params:
     ShowPostNavLinks: true
 
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production
     title: Theologicus
     description: "Trying to waste my time with God. Preacher of the Gospel. Writing at Theologicus. StarCraft 2 Elderly."
     author: Joseph Louthan
     email: joe@theologic.us
-    # images: ["/content/images/"]
 
     mainSections:
+      - "podcasts"
       - "categories"
       - "series"
       - "tags"
 
     podcast:
-      description: "Daily devotions on the goodness of God. (Based on the writings at Theologicus.)"
-      tagline: trying to waste my time with God
+      description: "Daily devotions on the goodness of God--based on the writings located at Theologicus."
+      tagline: "Trying to waste my time with God"
       download_url: https://theologic.us/categories/podcasts/
       cdn_url: http://media.theologic.us/audio/
       itunes_url: https://podcasts.apple.com/us/podcast/podcasts-on-theologicus/id1557102127
