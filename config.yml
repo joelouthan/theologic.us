@@ -169,11 +169,16 @@ menu:
           name: tags
           url: /tags/
           weight: 30
+        - identifier: 
+          name: episodes
+          url: /episodes/
+          weight: 40
 
 taxonomies:
     category: categories
     tag: tags
     series: series
+    podcasts: episodes
 
 Social:
     facebook: "joseph.louthan"
