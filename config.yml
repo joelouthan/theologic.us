@@ -33,7 +33,6 @@ params:
     # images: ["/content/images/"]
 
     mainSections:
-      - "podcasts"
       - "categories"
       - "series"
       - "tags"
