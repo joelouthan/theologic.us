@@ -19,8 +19,8 @@
         <sy:updateFrequency>1</sy:updateFrequency>
         <language>en</language>
         <copyright>Copyright &#xA9; {{.Site.Title}}</copyright>
-        <managingEditor>{{.Site.Params.author.email}} ({{ .Site.Params.author.name }})</managingEditor>
-        <webMaster>{{.Site.Params.author.email}} ({{ .Site.Params.author.name }})</webMaster>
+        <managingEditor>{{.Site.Params.email}} ({{ .Site.Params.author }})</managingEditor>
+        <webMaster>{{.Site.Params.email}} ({{ .Site.Params.author }})</webMaster>
 
         <itunes:new-feed-url>{{.Site.BaseURL}}feed/{{$assetFormat}}/</itunes:new-feed-url>
         <itunes:type>episodic</itunes:type>
@@ -38,10 +38,10 @@
         </itunes:category>
         <itunes:category text="History"/>
 
-        <itunes:author>{{.Site.Params.author.name}}</itunes:author>
+        <itunes:author>{{.Site.Params.author}}</itunes:author>
         <itunes:owner>
-            <itunes:name>{{.Site.Params.author.name}}</itunes:name>
-            <itunes:email>{{.Site.Params.author.email}}</itunes:email>
+            <itunes:name>{{.Site.Params.author}}</itunes:name>
+            <itunes:email>{{.Site.Params.email}}</itunes:email>
         </itunes:owner>
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
@@ -61,7 +61,7 @@
                        length='{{ (.Scratch.Get "asset").length }}' type="audio/{{$assetFormat}}"/>
             <guid>{{.Site.BaseURL}}{{ if .Params.guid }}{{ .Params.guid }}{{ else }}{{ .Params.number }}{{ end }}/</guid>
 
-            <itunes:author>{{.Site.Params.author.name}}</itunes:author>
+            <itunes:author>{{.Site.Params.author}}</itunes:author>
             <itunes:episode>{{ .Params.number }}</itunes:episode>
             <itunes:title>{{ .Params.title }}</itunes:title>
             <itunes:summary>{{ .Content | plainify }}</itunes:summary>
