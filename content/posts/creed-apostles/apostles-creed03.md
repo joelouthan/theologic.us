@@ -14,6 +14,19 @@ css: "prayers"
 draft: false
 ---
 
+## The Audio
+
+<figure>
+    <figcaption>Listen to Theologicus - What Do We Believe: Jesus Christ, Pt 1</figcaption>
+    <audio
+        controls
+        src="http://media.theologic.us/audio/20220316-creed-jesus-01.mp3">
+            <a href="http://media.theologic.us/audio/20220316-creed-jesus-01.mp3">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Creed
 
 ```text
@@ -111,20 +124,6 @@ God personally belongs to me and I personally belong to him. For:
 And
 
 >Titus 2:11-14 (CSB) For the grace of God has appeared, bringing salvation for all people, instructing us to deny godlessness and worldly lusts and to live in a sensible, righteous, and godly way in the present age, while we wait for the blessed hope, the appearing of the glory of our great God and Savior, Jesus Christ. He gave himself for us to redeem us from all lawlessness and to cleanse for himself a people for his own possession, eager to do good works.
-
-## The Audio
-
-<figure>
-    <figcaption>Listen to Theologicus - What Do We Believe: Jesus Christ, Pt 1</figcaption>
-    <audio
-        controls
-        src="http://media.theologic.us/audio/20220316-creed-jesus-01.mp3">
-            <a href="http://media.theologic.us/audio/20220316-creed-jesus-01.mp3">
-                Download audio
-            </a>
-    </audio>
-</figure>
-
 
 ## The Resources
 
