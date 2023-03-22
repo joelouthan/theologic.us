@@ -192,6 +192,14 @@ Social:
 #         style: monokai
 
 outputFormats:
+  aacfeed:
+    MediaType: "application/rss+xml"
+    BaseName: "index"
+    path: "/feed/aac"
+    IsHTML: false
+    IsPlainText: true
+    noUgly: true
+    Rel: "alternate"
   mp3feed:
     MediaType: "application/rss+xml"
     BaseName: "index"
@@ -201,11 +209,14 @@ outputFormats:
     noUgly: true
     Rel: "alternate"
 
+# Podcast Feed per https://brendamour.net/2021/04/18/how-to-publish-podcasts-with-the-hugo-static-site-generator/
+
 outputs:
   home:
     - HTML
     - AMP
     - RSS
+    - aacfeed
     - mp3feed
 
 markup:
