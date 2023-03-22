@@ -11,7 +11,7 @@
     <channel>
         {{ $assetFormat := .Scratch.Get "asset-format" }}
         <title>{{ .Site.Title}}</title>
-        <atom:link href="{{.Site.BaseURL}}feed/{{$assetFormat}}/" rel="self" type="application/rss+xml"/>
+        <atom:link href="{{.Site.BaseURL}}/feed/{{$assetFormat}}/" rel="self" type="application/rss+xml"/>
         <link>{{.Site.BaseURL}}</link>
         <description>{{.Site.Params.podcast.description}}</description>
         <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
@@ -37,7 +37,7 @@
         </itunes:owner>
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{ .Site.Params.podcast.cdn_url }}images/metatag-theologicus-thor-622x.jpg"/>
+        <itunes:image href="{{.Site.BaseURL}}/images/metatag-theologicus-thor-622x.jpg"/>
         {{ range (where .Site.RegularPages "Params.layout" "episode")}}
         {{ .Scratch.Set "asset" .Params.aac }}
         {{if eq $assetFormat "mp3"}}
