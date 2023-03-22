@@ -29,7 +29,22 @@ params:
     title: Theologicus
     description: "Trying to waste my time with God. Preacher of the Gospel. Writing at Theologicus. StarCraft 2 Elderly."
     author: Joseph Louthan
+    email: joe@theologic.us
     # images: ["/content/images/"]
+
+    mainSections:
+      - "podcasts"
+      - "categories"
+      - "series"
+      - "tags"
+
+    podcast:
+      description: "Daily devotions on the goodness of God. (Based on the writings at Theologicus.)"
+      tagline: trying to waste my time with God
+      download_url: https://theologic.us/categories/podcasts/
+      cdn_url: http://media.theologic.us/audio/
+      itunes_url: https://podcasts.apple.com/us/podcast/podcasts-on-theologicus/id1557102127
+      itunes_id: id1557102127
 
     defaultTheme: auto # dark, light
     disableThemeToggle: false
