@@ -27,17 +27,8 @@
         <itunes:subtitle>{{.Site.Params.podcast.tagline}}</itunes:subtitle>
         <itunes:summary>{{.Site.Params.podcast.description}}</itunes:summary>
         <itunes:keywords></itunes:keywords>
-        <itunes:category text="Arts">
-            <itunes:category text="Food"/>
-        </itunes:category>
-        <itunes:category text="Health &amp; Fitness">
-            <itunes:category text="Nutrition"/>
-        </itunes:category>
-        <itunes:category text="Education">
-            <itunes:category text="Courses"/>
-        </itunes:category>
-        <itunes:category text="History"/>
-
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Christianity"/>
         <itunes:author>{{.Site.Params.author}}</itunes:author>
         <itunes:owner>
             <itunes:name>{{.Site.Params.author}}</itunes:name>
@@ -45,7 +36,7 @@
         </itunes:owner>
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{ .Site.Params.podcast.cdn_url }}images/logo_feed.png"/>
+        <itunes:image href="{{ .Site.Params.podcast.cdn_url }}images/metatag-theologicus-thor-622x.jpg"/>
         {{ range (where .Site.RegularPages "Params.layout" "episode")}}
         {{ .Scratch.Set "asset" .Params.aac }}
         {{if eq $assetFormat "mp3"}}
