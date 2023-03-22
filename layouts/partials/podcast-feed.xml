@@ -45,7 +45,7 @@
         {{end}}
         <item>
             <link>{{.Permalink}}</link>
-            <title>Episode {{ .Params.number }} {{ .Params.title }}</title>
+            <title>Episode {{ .Params.number }} - {{ .Params.title }}</title>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
             <description>{{ .Params.short_description }}</description>
 
