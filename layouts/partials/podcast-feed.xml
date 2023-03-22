@@ -15,7 +15,7 @@
         <link>{{.Site.BaseURL}}</link>
         <description>{{.Site.Params.podcast.description}}</description>
         <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updatePeriod>daily</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <language>en</language>
         <copyright>Copyright &#xA9; {{.Site.Title}}</copyright>
@@ -29,6 +29,7 @@
         <itunes:keywords></itunes:keywords>
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
+        </itunes:category>
         <itunes:author>{{.Site.Params.author}}</itunes:author>
         <itunes:owner>
             <itunes:name>{{.Site.Params.author}}</itunes:name>
@@ -55,26 +56,7 @@
             <itunes:author>{{.Site.Params.author}}</itunes:author>
             <itunes:episode>{{ .Params.number }}</itunes:episode>
             <itunes:title>{{ .Params.title }}</itunes:title>
-            <itunes:summary>{{ .Content | plainify }}</itunes:summary>
-            <itunes:subtitle>{{ .Params.short_description | plainify }}</itunes:subtitle>
-            <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}</content:encoded>
-            {{ $scratch := newScratch }}
-            {{ if isset .Params "image" }}
-            {{ $originalImg := resources.Get .Params.image.url }}
-            {{ if $originalImg }}
-                {{ $thumbnailImg := $originalImg.Fit "3000x3000" }}
-                {{ $scratch.Set "image" $thumbnailImg.RelPermalink }}
-            {{else}}
-                {{ $scratch.Set "image"  "images/thumbnail.svg" }}
-            {{end}}
-            {{ else }}
-                {{ $scratch.Set "image" (printf "%simages/logo_feed.png" .Site.Params.podcast.cdn_url) }}
-            {{ end }}
-            {{ $image := $scratch.Get "image" }}
-            <itunes:image
-                    href="{{ (absURL $image) }}"/>
             <itunes:duration>{{ .Params.duration }}</itunes:duration>
-            <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
             <itunes:episodeType>{{ .Params.eptype }}</itunes:episodeType>
         </item>
 
