@@ -109,6 +109,16 @@ Now for the rest of Romans:
 
 - Romans 12-16: Go and love your neighbor
 
+There is no gospel from here on out--just the law of loving your neighbor as yourself. Paul wrote to the church in Rome not as unbelievers. He knows that they are they are in Christ. For:
+
+>Romans 1:5–7 (CSB) Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles, including you who are also called by Jesus Christ. To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+He wrote to the church and the elders would have preached this letter to the congregation because they are sheep of the Good Shepherds. We do not entertain goats but feed, care, and love the lambs. (John 21:15-19)
+
+Paul is giving the law to the followers of Christ so that they can live righteously *because* they belong to God.
+
+It is never the opposite--we do not and cannot obey God to then belong to God.
+
 <div style="page-break-after: always;"></div>
 
 ## Our God
