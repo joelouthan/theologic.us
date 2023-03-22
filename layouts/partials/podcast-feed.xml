@@ -22,7 +22,7 @@
         <managingEditor>{{.Site.Params.email}} ({{ .Site.Params.author }})</managingEditor>
         <webMaster>{{.Site.Params.email}} ({{ .Site.Params.author }})</webMaster>
 
-        <itunes:new-feed-url>{{.Site.BaseURL}}feed/{{$assetFormat}}/</itunes:new-feed-url>
+        <itunes:new-feed-url>{{.Site.BaseURL}}/feed/{{$assetFormat}}/</itunes:new-feed-url>
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle>{{.Site.Params.podcast.tagline}}</itunes:subtitle>
         <itunes:summary>{{.Site.Params.podcast.description}}</itunes:summary>
