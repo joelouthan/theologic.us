@@ -40,8 +40,8 @@ params:
     podcast:
       description: "Daily devotions on the goodness of God--based on the writings located at Theologicus."
       tagline: "Trying to waste my time with God"
-      download_url: https://theologic.us/podcasts/
-      cdn_url: http://media.theologic.us/audio/
+      download_url: http://media.theologic.us/audio/
+      cdn_url: hhttps://theologic.us/images/
       itunes_url: https://podcasts.apple.com/us/podcast/podcasts-on-theologicus/id1557102127
       itunes_id: id1557102127
 
