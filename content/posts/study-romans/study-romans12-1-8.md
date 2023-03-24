@@ -123,11 +123,11 @@ It is never the opposite--we do not and cannot obey God to then belong to God.
 
 ## Our God
 
-TODO:
-
 ### Worship God
 
 ><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
+
+TODO:
 
 <div style="page-break-after: always;"></div>
 
