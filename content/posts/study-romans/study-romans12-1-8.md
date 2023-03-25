@@ -123,9 +123,19 @@ It is never the opposite--we do not and cannot obey God to then belong to God.
 
 ## Our God
 
+><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
+
 ### Worship God
 
-><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
+If the gospel is the power of God in salvation ( Romans 1:16), if his righteousness is revealed to us from faith to faith (17), we once suppressed the truth of God (18-25), we were once counted among the wicked? Worship God.
+
+If the law was written upon our hearts (2:15), and the law was given to the Jews (12-14), and our disobedience was building up the just wrath of God upon us (5-10) even though God is slow to anger and his kindness was meant for our repentance (4)? Worship God.
+
+If we were all not righteous (3:10-12) and all have fallens short of his glory (23) but God has given the righteousness of Christ to all of those who believe in his Son? Worship God.
+
+If we cannot possibly pay back God nor put God in debt because our good works are only done in self-righteousness and therefore filthy rags in his sight (Romans 4)? Worship God.
+
+If, because of Christ alone, we have been justified by faith, at peace with the Almighty God (1), access to the Almighty God, stand in the grace of God, get to boast in the hope of the glory of God (2), no matter what the world, Satan, and sin might come our way (3), be built up to look like Christ (4), and we shall never be disappointed in this hope because God's sweetest love has been poured out in our hearts in the Holy Spirit that God has given each one of us? Worship God.
 
 TODO:
 
