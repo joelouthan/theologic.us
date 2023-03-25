@@ -129,8 +129,6 @@ It is never the opposite--we do not and cannot obey God to then belong to God.
 
 TODO:
 
-TODO:
-
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
