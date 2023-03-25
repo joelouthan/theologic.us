@@ -137,7 +137,7 @@ If we cannot possibly pay back God nor put God in debt because our good works ar
 
 If, because of Christ alone, we have been justified by faith, at peace with the Almighty God (1), access to the Almighty God, stand in the grace of God, get to boast in the hope of the glory of God (2), no matter what the world, Satan, and sin might come our way (3), be built up to look like Christ (4), and we shall never be disappointed in this hope because God's sweetest love has been poured out in our hearts in the Holy Spirit that God has given each one of us? Worship God.
 
-TODO:
+TODO: Consider to make Romans 12:1 or 1-2 a standalone verse
 
 <div style="page-break-after: always;"></div>
 
