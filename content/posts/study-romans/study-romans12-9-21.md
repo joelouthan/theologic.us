@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 12:9-21 Ours to Do: Know God is Good"
 author: Joseph Louthan
-publishDate: 2023-04-10
+publishDate: 2023-04-24
 categories:
   - Commentaries
   - Study

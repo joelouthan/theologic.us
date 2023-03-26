@@ -1,7 +1,7 @@
 ---
-title: "Study: Romans 12:1-8 Ours to Do: Love God"
+title: "Study: Romans 12:3-8 Ours to Do: Love One Another"
 author: Joseph Louthan
-publishDate: 2023-04-03
+publishDate: 2023-04-17
 categories:
   - Commentaries
   - Study
@@ -15,11 +15,7 @@ draft: true
 ---
 ## The Text
 
->Romans 12:1–8 (CSB)  
-><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship. 
-
-><sup>2</sup> Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. 
-
+>Romans 12:3-8 (CSB)  
 ><sup>3</sup> For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one. 
 
 ><sup>4</sup> Now as we have many parts in one body, and all the parts do not have the same function, 
@@ -33,6 +29,8 @@ draft: true
 ><sup>8</sup> if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.
 
 ## The Introduction
+
+TODO:
 
 We have spent the the first eleven chapters of Romans extolling and magnifying and praising our great God and gone to the greatest details--within our finite wisdom and understanding0--on how Christ has saved his people from their sins.
 
