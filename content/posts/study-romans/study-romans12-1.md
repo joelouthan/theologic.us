@@ -112,47 +112,39 @@ It is never the opposite--we do not and cannot obey God to then belong to God.
 
 ### Worship God
 
-If the gospel is the power of God in salvation ( Romans 1:16), if his righteousness is revealed to us from faith to faith (17), we once suppressed the truth of God (18-25), we were once counted among the wicked? Worship God.
+If the gospel is the power of God in salvation ( Romans 1:16), if his righteousness is revealed to us from faith to faith (17), we once suppressed the truth of God (18-25), we were once counted among the wicked? Therefore, worship God.
 
-If the law was written upon our hearts (2:15), and the law was given to the Jews (12-14), and our disobedience was building up the just wrath of God upon us (5-10) even though God is slow to anger and his kindness was meant for our repentance (4)? Worship God.
+If the law was written upon our hearts (2:15), and the law was given to the Jews (12-14), and our disobedience was building up the just wrath of God upon us (5-10) even though God is slow to anger and his kindness was meant for our repentance (4)? Therefore, worship God.
 
-If we were all not righteous (3:10-12) and all have fallens short of his glory (23) but God has given the righteousness of Christ to all of those who believe in his Son? Worship God.
+If we were all not righteous (3:10-12) and all have fallens short of his glory (23) but God has given the righteousness of Christ to all of those who believe in his Son? Therefore, worship God.
 
-If we cannot possibly pay back God nor put God in debt because our good works are only done in self-righteousness and therefore filthy rags in his sight (Romans 4)? Worship God.
+If we cannot possibly pay back God nor put God in debt because our good works are only done in self-righteousness and therefore filthy rags in his sight (Romans 4)? Therefore, worship God.
 
-If, because of Christ alone, we have been justified by faith, at peace with the Almighty God (1), access to the Almighty God, stand in the grace of God, get to boast in the hope of the glory of God (2), no matter what the world, Satan, and sin might come our way (3), be built up to look like Christ (4), and we shall never be disappointed in this hope because God's sweetest love has been poured out in our hearts in the Holy Spirit that God has given each one of us? Worship God.
+If, because of Christ alone, we have been justified by faith, at peace with the Almighty God (5:1), access to the Almighty God, stand in the grace of God, get to boast in the hope of the glory of God (2), no matter what the world, Satan, and sin might come our way (3), be built up to look like Christ (4), and we shall never be disappointed in this hope because God's sweetest love has been poured out in our hearts in the Holy Spirit that God has given each one of us? Therefore, worship God.
 
-TODO: Consider to make Romans 12:1 or 1-2 a standalone verse
+We are helpless in our sin and we are ungodly! But God loved us so much that while we were yet sinner, Christ died for us! (Romans 5:6-8) Therefore, worship God!
+
+While yet we were enemies towards God, Christ with his own life, saved us and reconciled us to God. (Romans 5:9-11) Therefore, worship God!
+
+If we were born into sin because of our original father, Adam, and all our born-thoughts and actions are away from God and not towards God and yet, the Second Adam, came into this world not to condemn it but to save sinners, and his righteousness and eternal life to us? (Romans 5:12-19) Therefore, worship God!
+
+TODO:
 
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
 
-### Be Sanctified by God
-
-><sup>2</sup> Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. 
+Romans 8-11
 
 <div style="page-break-after: always;"></div>
 
 ## Our Response
 
-### Humble Yourself
+>bodies as a living sacrifice, holy and pleasing to God
 
-><sup>3</sup> For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one. 
+Therefore, with our bodies as living sacrifices, because we have been made truly and fully alive to God (1 John 5:1), we get to sing, dance, boast, exalt, magnify, glorify, adore and love God. Therefore, with our bodies as living sacrifices, we get to do the good works that God had in stored for us (Ephesians 2:10). Not unto God because God does not need our good works (Acts 17:24-25), As living sacrifices, we step into the good works that God has for us and we get to love, care, share, give, weep, rejoice, pray for, speak truth, and point one another to Christ who alone is good, who saves, who died and resurrected, who gave his life and a ransom for you me.
 
-### We Are Saved to One Another
-
-><sup>4</sup> Now as we have many parts in one body, and all the parts do not have the same function, 
-
-><sup>5</sup> in the same way we who are many are one body in Christ and individually members of one another. 
-
-### Love One Another
-
-><sup>6</sup> According to the grace given to us, we have different gifts: If prophecy, use it according to the proportion of one’s faith; 
-
-><sup>7</sup> if service, use it in service; if teaching, in teaching; 
-
-><sup>8</sup> if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.
+Therefore, worship God today!
 
 ## The Resources
 
