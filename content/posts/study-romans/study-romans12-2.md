@@ -1,7 +1,7 @@
 ---
-title: "Study: Romans 12:1 Ours to Do: Worship God"
+title: "Study: Romans 12:2 Ours to Do: Discern What is Good"
 author: Joseph Louthan
-publishDate: 2023-04-03
+publishDate: 2023-04-10
 categories:
   - Commentaries
   - Study
@@ -17,145 +17,21 @@ draft: true
 
 >Romans 12:2 (CSB) Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. 
 
-
 ## The Introduction
-
-TODO:
-
-We have spent the the first eleven chapters of Romans extolling and magnifying and praising our great God and gone to the greatest details--within our finite wisdom and understanding0--on how Christ has saved his people from their sins.
-
-Romans 1-11, with the utmost authority, primacy and beginning of what I would call: a systematic theology. Romans is essentially an exposition on the Old Testament and the life, ministry, words, death, burial resurrection, and ascension of Jesus Christ our Lord. You want to know why those of who love theology love the book of Romans. Because Paul goes into the greatest detail on the power of the gospel.
-
-The gospel is the power of God in salvation for those who believe. It is the only thing that saves us. Nothing else by God--not our minds, hearts, works, his laws, his provision, his creation--can save us. Just this gospel which is Jesus Christ and him crucified. What Paul does in Romans is being able to supernaturally describe this power. It is simply amazing. And for the people of God, it takes our breath away in awe and gives us breath to worship and sing and praise his holy name.
-
-We have done great work in dissecting the law from the God using the book of Romans. Paul has gone to great lengths to distinguish the law of God from the gospel of God.
-
-In summation, the law cannot save. It was never designed to saved.
-
->Romans 8:3–4 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering, in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
-
-Not only that, you and I have already broken the law. When we have broken one law, we have broken it all.
-
->James 2:10 (CSB) For whoever keeps the entire law, and yet stumbles at one point, is guilty of breaking it all.
-
-And it is not that we keep breaking the law of God since it does not save us. No!
-
->Romans 6:1-2 (CSB) What should we say then? Should we continue in sin so that grace may multiply? Absolutely not! How can we who died to sin still live in it?
-
-Why am I belaboring the point? For the rest of our time in Romans, God is going to lay out a series of commands for you and me. Romans is not to be bifurcated. It is not to be cut into two--focus on one and ignore the other. Romans 12-16 is in context for Romans 1-11 and because we interpret Scripture using Scripture (*sola Scriptura*), Romans must remain in context of the Bible.
-
-John Calvin in his Institutes, Book 2, Chapter 7, he lays out three uses of the law that I find very helpful when reading the command of God.
-
-### Three Uses of the Law
-
-- **Mirror of ourselves** - when we read the law of God in the Bible, we examine ourselves and see that we are found wanting
-
->Romans 3:23 (CSB) For all have sinned and fall short of the glory of God;
-
-The law of God is the holy standard of requirements that you and I must achieve perfectly with every second of our lives in order to be with God. But that is just it, God demands perfection and we have fallen way short of that--think of it as a infinite gap.
-
-Here's where it really gets nuts: there are some unbelievers and believer think that they can still do enough works and somehow bridge that infinite gap. Here's a short math lesson: infinite gap minus one is still infinity. In other words, we are infinity distance from the glory of God. Do you honestly think that one of your or a million of your "good" works is going to close that gap?
-
-That is what the Catholics believe. That is what the Muslims believe. That is what the Mormons believe. That is what most of the world believes. They believe and that they hope that God grades on a curve. "I might be bad but I am not as bad of Hitler." But all have sinned and fallen short of the glory of God. The glory of God is infinite and you and I have fallen short of that.
-
-- **Civil law to restrain pure evil** - difference between Total and Utter Depravity--we are not as evil as we could be
-
-It could be way worse. See Genesis 5 and 6. See the Dark Ages from 500AD to 1500AD. See our world today. The law of God--whether carved on stone tablets for the Jews or written on the conscience of Gentiles' hearts, keeps us from fully going utter depravity--so wicked and evil that we could not be saved.
-
-One more use of the law:
-
-- **Good works that loves others and pleases God** - it is not that God needs anything from us but our neighbors do:
-
->Matthew 22:37-40 (CSB) He said to him, “Love the Lord your God with all your heart, with all your soul, and with all your mind. 38 This is the greatest and most important command. 39 The second is like it: Love your neighbor as yourself. 40 All the Law and the Prophets depend on these two commands.”
-
->Ephesians 2:10 (CSB) For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
-
-We have the law as a way of living a righteous life unto God. We have Christ. The Father has given us his heart and the Spirit. Now we get to obey the laws of God because of Christ's perfect obedience to the law. 
-
-The law does not save anyone but condemns everyone.
-
->Romans 3:20 (CSB) For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law
-
-Christ came into the world not to condemn but to save the world through him.
-
->John 3:16-17 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him.
-
-The writers of the Bible did not come to give more law but to give the great gospel of God--since the Genesis 3:15.
-
-Paul was not eager to preach more law but rather the gospel:
-
->Romans 1:15 (CSB) So I am eager to preach the gospel to you also who are in Rome.
-
-Let us sum up Romans this way:
-
-- Romans 1-3: Here's us compared to the law
-- Romans 4-7: There is nothing you can do
-- Romans 8-11: Christ does it all
-- Romans 11:33-36: Praise be to God!
-
-Now for the rest of Romans:
-
-- Romans 12-16: Go and love your neighbor
-
-There is no gospel from here on out--just the law of loving your neighbor as yourself. Paul wrote to the church in Rome not as unbelievers. He knows that they are they are in Christ. For:
-
->Romans 1:5–7 (CSB) Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles, including you who are also called by Jesus Christ. To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ.
-
-He wrote to the church and the elders would have preached this letter to the congregation because they are sheep of the Good Shepherds. We do not entertain goats but feed, care, and love the lambs. (John 21:15-19)
-
-Paul is giving the law to the followers of Christ so that they can live righteously *because* they belong to God.
-
-It is never the opposite--we do not and cannot obey God to then belong to God.
 
 <div style="page-break-after: always;"></div>
 
 ## Our God
 
-><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
-
-### Worship God
-
-If the gospel is the power of God in salvation ( Romans 1:16), if his righteousness is revealed to us from faith to faith (17), we once suppressed the truth of God (18-25), we were once counted among the wicked? Worship God.
-
-If the law was written upon our hearts (2:15), and the law was given to the Jews (12-14), and our disobedience was building up the just wrath of God upon us (5-10) even though God is slow to anger and his kindness was meant for our repentance (4)? Worship God.
-
-If we were all not righteous (3:10-12) and all have fallens short of his glory (23) but God has given the righteousness of Christ to all of those who believe in his Son? Worship God.
-
-If we cannot possibly pay back God nor put God in debt because our good works are only done in self-righteousness and therefore filthy rags in his sight (Romans 4)? Worship God.
-
-If, because of Christ alone, we have been justified by faith, at peace with the Almighty God (1), access to the Almighty God, stand in the grace of God, get to boast in the hope of the glory of God (2), no matter what the world, Satan, and sin might come our way (3), be built up to look like Christ (4), and we shall never be disappointed in this hope because God's sweetest love has been poured out in our hearts in the Holy Spirit that God has given each one of us? Worship God.
-
-TODO: Consider to make Romans 12:1 or 1-2 a standalone verse
+### Ours to Do: Discern What is Good
 
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
 
-### Be Sanctified by God
-
-><sup>2</sup> Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. 
-
 <div style="page-break-after: always;"></div>
 
 ## Our Response
-
-### Humble Yourself
-
-><sup>3</sup> For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one. 
-
-### We Are Saved to One Another
-
-><sup>4</sup> Now as we have many parts in one body, and all the parts do not have the same function, 
-
-><sup>5</sup> in the same way we who are many are one body in Christ and individually members of one another. 
-
-### Love One Another
-
-><sup>6</sup> According to the grace given to us, we have different gifts: If prophecy, use it according to the proportion of one’s faith; 
-
-><sup>7</sup> if service, use it in service; if teaching, in teaching; 
-
-><sup>8</sup> if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.
 
 ## The Resources
 
