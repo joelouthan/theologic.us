@@ -19,7 +19,7 @@ draft: false
 
 ## The Introduction
 
-We have spent the the first eleven chapters of Romans extolling and magnifying and praising our great God and gone to the greatest details--within our finite wisdom and understanding0--on how Christ has saved his people from their sins.
+We have spent the the first eleven chapters of Romans extolling and magnifying and praising our great God and gone to the greatest details--within our finite wisdom and understanding--on how Christ has saved his people from their sins.
 
 Romans 1-11, with the utmost authority, primacy and beginning of what I would call: a systematic theology. Romans is essentially an exposition on the Old Testament and the life, ministry, words, death, burial resurrection, and ascension of Jesus Christ our Lord. You want to know why those of who love theology love the book of Romans. Because Paul goes into the greatest detail on the power of the gospel.
 
@@ -51,7 +51,7 @@ John Calvin in his Institutes, Book 2, Chapter 7, he lays out three uses of the 
 
 The law of God is the holy standard of requirements that you and I must achieve perfectly with every second of our lives in order to be with God. But that is just it, God demands perfection and we have fallen way short of that--think of it as a infinite gap.
 
-Here's where it really gets nuts: there are some unbelievers and believer think that they can still do enough works and somehow bridge that infinite gap. Here's a short math lesson: infinite gap minus one is still infinity. In other words, we are infinity distance from the glory of God. Do you honestly think that one of your or a million of your "good" works is going to close that gap?
+Here's where it really gets nuts: there are some unbelievers and believers think that they can still do enough works and somehow bridge that infinite gap. Here's a short math lesson: infinite gap minus one is still infinity. In other words, we are infinity distance from the glory of God. Do you honestly think that one of your or a million of your "good" works is going to close that gap?
 
 That is what the Catholics believe. That is what the Muslims believe. That is what the Mormons believe. That is what most of the world believes. They believe and that they hope that God grades on a curve. "I might be bad but I am not as bad of Hitler." But all have sinned and fallen short of the glory of God. The glory of God is infinite and you and I have fallen short of that.
 
@@ -280,6 +280,19 @@ Feel free to worship our great King!
 
 Call upon the name of the Lord. Be saved by God! Worship his Majesty!
 
+>>Majesty, worship His Majesty.  
+>>Unto Jesus be all glory, honor and praise!  
+>>Majesty, Kingdom Authority,  
+>>Flow from His throne, unto His own  
+>>His anthem raise!  
+>>  
+>>So exalt, lift up on high the Name of Jesus!  
+>>Magnify, come glorify, Christ Jesus the King.  
+>>Majesty, worship His Majesty;  
+>>Jesus who died, now glorified, King of all kings! [^hayford]
+
+[^hayford]: Jack Hayford. Majesty.
+
 If you have heard the preaching of the gospel, the feebleness and weakness of the preacher who preached it, yet in the insurmountable and unstoppable power of God that is his gospel, you believe?
 
 What can you do but sing His praises!
@@ -294,36 +307,18 @@ God has made us a part of the greatest plan of redemption. We have sin much but 
 
 Adopted children of God, worship His holy name!
 
->>He is exalted the King is exalted on High
->>I will praise Him
->>He is exalted forever exalted
->>And I will praise His name
->>
->>He is the Lord
->>Forever His truth shall reign
->>Heaven and Earth
->>Rejoice in His holy name
->>He is exalted the King is exalted on high
->>
->>He is exalted, the King is on High
->>I will praise Him
->>He is exalted, forever exalted
->>And I will praise His name
->>
->>He is the Lord
->>Forever His truth shall reign
->>Heaven and Earth
->>Rejoice in His holy name
->>He is exalted the King is exalted on high
->>
->>He is the Lord
->>Forever His truth shall reign
->>Heaven and Earth
->>Rejoice in His holy name
->>He is exalted the King is exalted on high
+>>He is exalted the King is exalted on High  
+>>I will praise Him  
+>>He is exalted forever exalted  
+>>And I will praise His name  
+>>  
+>>He is the Lord  
+>>Forever His truth shall reign  
+>>Heaven and Earth  
+>>Rejoice in His holy name  
 >>He is exalted the King is exalted on high [^paris]
 
-[^paris]: Written by Twila Paris
+[^paris]: Twila Paris. He is Exalted.
 
 Our Deliverer have comes from Zion! He has separated our godlessness away from the sons of Abraham! God has fulfilled his promise that he has taken away all of our sins.
 
