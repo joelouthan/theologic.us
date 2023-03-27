@@ -128,7 +128,15 @@ While yet we were enemies towards God, Christ with his own life, saved us and re
 
 If we were born into sin because of our original father, Adam, and all our born-thoughts and actions are away from God and not towards God and yet, the Second Adam, came into this world not to condemn it but to save sinners, and his righteousness and eternal life to us? (Romans 5:12-19) Therefore, worship God!
 
-TODO:
+If the law came in only to perfectly expose our infinite distance from God and increased and highlight the sin in our lives, therefore, worship God!
+
+But if the grace of God through Jesus Christ multiplied exponentially over our sin, therefore, worship God!
+
+Do we get to sin more? No! Sin has been put to death because Christ has died for our sins as sinners! We are dead to sin and alive to God! We are divorced from death and in union with Christ, therefore, worship Christ!
+
+And we live this life unto Christ and residual sin from within our sick yet recovering hearts still surfaces and takes actions, there is no despair. For Christ Almighty saves our wretched self from our bodies of death.
+
+Now we are free to obey God and walk in newness with him!
 
 <div style="page-break-after: always;"></div>
 
