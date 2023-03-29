@@ -168,7 +168,11 @@ So that you would love the Lord your God. So that you would love your neighbor a
 
 Do not fret or worry or be anxious on how to love your neighbor. It will come to you. The Holy Spirit dwells in you. You are a child of God. He will lead you in the path you should go. He has set out the good works that you should do so that someone would be blessed by God through you.
 
-Trust in the Lord and in his work in you. And his work in you to change your mind about what you once were. Now, we a mind by God, you can discern what is good, pleasing and the perfect will of God. And then you get to go do those things.
+Trust in the Lord and in his work in you. And his work in you to change your mind about what you once were. 
+
+>1 Corinthians 2:16 (CSB) For who has known the Lord’s mind, that he may instruct him? **But we have the mind of Christ.**
+
+Now, we a mind by God, you can discern what is good, pleasing and the perfect will of God. And then you get to go do those things.
 
 Praise be to God. He has it all figured out. Just be in him and worship him today.
 
