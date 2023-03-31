@@ -1,5 +1,5 @@
 ---
-title: "What Do We Believe: Jesus Christ, Crucified, Died, and Buried"
+title: "What Do We Believe: Jesus Christ--Crucified, Died, and Buried"
 author: Joseph Louthan
 publishDate: 2023-04-06
 categories:
