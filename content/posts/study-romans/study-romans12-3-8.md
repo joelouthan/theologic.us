@@ -60,6 +60,8 @@ Let's start from the jump: humble yourself. For:
 
 Friends, we see in the word of God that you have done nothing but receive the favor and grace of God. You have not done anything to earn so you cannot boast. TODO:
 
+Humble 
+
 Personality tests, etc.
 
 In the end, where is the focus? How many of us worry less and do less overthinking and stumble less when we focus more on ourselves. Nobody does. And the real evil: become so enthrall with yourself, you start to believe that this your world and everything and everyone revolves around you.
