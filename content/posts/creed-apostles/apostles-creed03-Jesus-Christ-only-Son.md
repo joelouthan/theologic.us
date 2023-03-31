@@ -1,5 +1,5 @@
 ---
-title: "What Do We Believe: Jesus Christ, Pt 1"
+title: "What Do We Believe: Jesus Christ, His Only Son, Our Lord"
 author: Joseph Louthan
 publishDate: 2023-03-16
 episodes:
