@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalms 103:6"
 author: Joseph Louthan
-publishDate: 2023-04-01T00:00:00-05:00
+publishDate: 2023-04-01
 categories:
   - Prayers
 tags:
@@ -12,6 +12,7 @@ showtoc: false
 css: "prayers"
 draft: false
 ---
+
 ## The Psalm
 
 >Psalm 103:6 (CSB) The LORD executes acts of righteousness and justice for all the oppressed. 
