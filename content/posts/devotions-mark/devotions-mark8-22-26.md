@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 8:22–26 Jesus Opens Our Eyes So That We Would See God"
 author: Joseph Louthan
-publishDate: 2021-12-06T00:00:00-05:00
+publishDate: 2021-12-06
 categories:
   - Commentaries
   - Devotions

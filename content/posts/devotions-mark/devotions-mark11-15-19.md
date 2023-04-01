@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 11:15-19 So That We Might Live and Be Saved"
 author: Joseph Louthan
-publishDate: 2022-01-19T00:00:00-05:00
+publishDate: 2022-01-19
 categories:
   - Commentaries
   - Devotions

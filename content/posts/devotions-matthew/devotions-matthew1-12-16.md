@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 1:12-16 Jesus Christ is Our Messiah"
 author: Joseph Louthan
-publishDate: 2022-02-12T00:00:00-05:00
+publishDate: 2022-02-12
 categories:
   - Commentaries
   - Devotions

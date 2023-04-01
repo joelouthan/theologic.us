@@ -1,7 +1,7 @@
 ---
 title: "Survey Genesis: Christ is Our Beginning"
 author: Joseph Louthan
-publishDate: 2022-10-11T00:00:00-05:00
+publishDate: 2022-10-11
 categories:
   - Survey OT
 tags:

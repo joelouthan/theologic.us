@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 7:14-23 The Word of God is Righteousness"
 author: Joseph Louthan
-publishDate: 2021-11-20T00:00:00-05:00
+publishDate: 2021-11-20
 categories:
   - Commentaries
   - Devotions

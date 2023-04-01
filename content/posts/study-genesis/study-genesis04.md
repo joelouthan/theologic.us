@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 4 The Gospel Meeting"
 author: Joseph Louthan
-publishDate: 2021-08-12T00:00:00-05:00
+publishDate: 2021-08-12
 categories:
   - Commentaries
   - Study

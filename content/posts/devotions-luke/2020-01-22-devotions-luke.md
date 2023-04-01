@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 2:8-21 God Becomes Man [Part 2]'
 author: Joseph Louthan
-publishDate: 2020-01-22T00:00:00-05:00
+publishDate: 2020-01-22
 categories:
   - Devotions
 tags:

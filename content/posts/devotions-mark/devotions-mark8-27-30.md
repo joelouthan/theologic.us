@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 8:27–30 Jesus Opens the Only Way to God"
 author: Joseph Louthan
-publishDate: 2021-12-07T00:00:00-05:00
+publishDate: 2021-12-07
 categories:
   - Commentaries
   - Devotions

@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 5:21-24 Jesus is the Lord of Prayers"
 author: Joseph Louthan
-publishDate: 2021-11-09T00:00:00-05:00
+publishDate: 2021-11-09
 categories:
   - Commentaries
   - Devotions

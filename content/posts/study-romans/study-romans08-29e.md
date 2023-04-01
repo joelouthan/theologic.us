@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:29e To Whom Are We Saved?"
 author: Joseph Louthan
-publishDate: 2022-10-03T00:00:00-05:00
+publishDate: 2022-10-03
 categories:
   - Commentaries
   - Study

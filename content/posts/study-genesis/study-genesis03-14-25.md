@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 3:14-24 The Gospel Proclaimed"
 author: Joseph Louthan
-publishDate: 2021-08-05T00:00:00-05:00
+publishDate: 2021-08-05
 categories:
   - Commentaries
   - Study

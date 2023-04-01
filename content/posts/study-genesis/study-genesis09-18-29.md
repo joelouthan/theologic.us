@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 9:18-29 The Gospel Certainty: The Glory of God"
 author: Joseph Louthan
-publishDate: 2021-10-28T00:00:00-05:00
+publishDate: 2021-10-28
 categories:
   - Commentaries
   - Study

@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 61"
 author: Joseph Louthan
-publishDate: 2021-03-08T00:00:00-05:00
+publishDate: 2021-03-08
 categories:
   - Prayers
 tags:

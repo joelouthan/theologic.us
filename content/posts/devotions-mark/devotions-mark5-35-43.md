@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 5:35-43	Jesus is the Lord over Death"
 author: Joseph Louthan
-publishDate: 2021-11-11T00:00:00-05:00
+publishDate: 2021-11-11
 categories:
   - Commentaries
   - Devotions

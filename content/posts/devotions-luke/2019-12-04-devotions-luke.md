@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 1:18-25 Can We Keep Secrets From God?'
 author: Joseph Louthan
-publishDate: 2019-12-04T00:00:00-05:00
+publishDate: 2019-12-04
 categories:
   - Devotions
 tags:

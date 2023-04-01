@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 11 The Gospel Tongue"
 author: Joseph Louthan
-publishDate: 2022-05-12T00:00:00-05:00
+publishDate: 2022-05-12
 categories:
   - Commentaries
   - Study

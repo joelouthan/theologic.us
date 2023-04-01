@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalms 103:19"
 author: Joseph Louthan
-publishDate: 2023-07-01T00:00:00-05:00
+publishDate: 2023-07-01
 categories:
   - Prayers
 tags:

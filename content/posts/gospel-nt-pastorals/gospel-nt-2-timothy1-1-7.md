@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 2 Timothy 1:1-7 Thanks Be To God!"
 author: Joseph Louthan
-publishDate: 2021-06-16T00:00:00-05:00
+publishDate: 2021-06-16
 categories:
   - Commentaries
   - "Gospel NT"

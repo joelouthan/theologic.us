@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 8:1-10 Jesus Feeds Us So We May Have Life"
 author: Joseph Louthan
-publishDate: 2021-11-23T00:00:00-05:00
+publishDate: 2021-11-23
 categories:
   - Commentaries
   - Devotions

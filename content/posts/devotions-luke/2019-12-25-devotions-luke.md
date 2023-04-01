@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 1:46–55 What is Your Song?'
 author: Joseph Louthan
-publishDate: 2019-12-25T00:00:00-05:00
+publishDate: 2019-12-25
 categories:
   - Devotions
 tags:

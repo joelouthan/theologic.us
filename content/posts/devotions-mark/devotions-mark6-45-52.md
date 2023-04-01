@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 6:45-52 Jesus is the Lord over Sin"
 author: Joseph Louthan
-publishDate: 2021-11-16T00:00:00-05:00
+publishDate: 2021-11-16
 categories:
   - Commentaries
   - Devotions

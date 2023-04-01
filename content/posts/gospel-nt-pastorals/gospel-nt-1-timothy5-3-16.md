@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 5:3-16 Christ our Bridegroom"
 author: Joseph Louthan
-publishDate: 2021-04-28T00:00:00-05:00
+publishDate: 2021-04-28
 categories:
   - Commentaries
   - "Gospel NT"

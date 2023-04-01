@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 10:46-52 God Alone Receives The Poor"
 author: Joseph Louthan
-publishDate: 2022-01-12T00:00:00-05:00
+publishDate: 2022-01-12
 categories:
   - Commentaries
   - Devotions

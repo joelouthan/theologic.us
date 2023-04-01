@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 74 Redeemer"
 author: Joseph Louthan
-publishDate: 2021-05-18T00:00:00-05:00
+publishDate: 2021-05-18
 categories:
   - Prayers
 tags:

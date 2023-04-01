@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 1.6 The Whole Counsel of God Within Scripture"
 author: Joseph Louthan
-publishDate: 2022-10-19T00:00:00-05:00
+publishDate: 2022-10-19
 categories:
   - Confessions
 tags:

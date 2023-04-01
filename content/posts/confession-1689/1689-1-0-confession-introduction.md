@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith: Introduction & Resources"
 author: Joseph Louthan
-publishDate: 2022-05-25T00:00:00-05:00
+publishDate: 2022-05-25
 categories:
   - Confessions
   - Books

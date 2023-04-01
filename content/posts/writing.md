@@ -1,7 +1,7 @@
 ---
 title: "Writing Statuses"
 author: Joseph Louthan
-publishDate: 2022-06-25T05:00:00-05:00
+publishDate: 2022-06-25
 url: /writing/
 index: true
 draft: true

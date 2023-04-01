@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 12:18-27 So That We Might Live and Be With Him Forever"
 author: Joseph Louthan
-publishDate: 2022-01-28T00:00:00-05:00
+publishDate: 2022-01-28
 categories:
   - Commentaries
   - Devotions

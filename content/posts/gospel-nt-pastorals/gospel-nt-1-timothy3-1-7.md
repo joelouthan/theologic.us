@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 3:1-7 Assemble in Christ"
 author: Joseph Louthan
-publishDate: 2021-03-17T00:00:00-05:00
+publishDate: 2021-03-17
 categories:
   - Commentaries
   - "Gospel NT"

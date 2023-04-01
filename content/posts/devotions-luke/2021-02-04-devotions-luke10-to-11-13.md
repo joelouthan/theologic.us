@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 10-11:13 What is Christ Inviting Us To Do?'
 author: Joseph Louthan
-publishDate: 2021-02-04T00:00:00-05:00
+publishDate: 2021-02-04
 categories:
   - Devotions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 3:1–20 Who Heralds The Kingdom of God?'
 author: Joseph Louthan
-publishDate: 2020-05-21T00:00:00-05:00
+publishDate: 2020-05-21
 categories:
   - Devotions
 tags:

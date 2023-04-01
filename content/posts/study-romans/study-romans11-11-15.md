@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 11:11-15 Ours To Do: Be Saved by God"
 author: Joseph Louthan
-publishDate: 2023-03-06T00:00:00-05:00
+publishDate: 2023-03-06
 categories:
   - Commentaries
   - Study

@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 6:30-44 Jesus is the Lord of Provision"
 author: Joseph Louthan
-publishDate: 2021-11-15T00:00:00-05:00
+publishDate: 2021-11-15
 categories:
   - Commentaries
   - Devotions

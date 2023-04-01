@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 98 Wonder"
 author: Joseph Louthan
-publishDate: 2023-01-21T00:00:00-05:00
+publishDate: 2023-01-21
 categories:
   - Prayers
 tags:

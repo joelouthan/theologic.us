@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 15:42-47 Every Step Is Joy: Christ Is Buried For Us"
 author: Joseph Louthan
-publishDate: 2023-01-20T00:00:00-05:00
+publishDate: 2023-01-20
 categories:
   - Commentaries
   - Devotions

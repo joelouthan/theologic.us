@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 5:14-20	Jesus is the Lord of Salvation"
 author: Joseph Louthan
-publishDate: 2021-11-08T00:00:00-05:00
+publishDate: 2021-11-08
 categories:
   - Commentaries
   - Devotions

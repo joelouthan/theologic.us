@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 15:1-5 Every Step is Joy: Christ Does Not Defend Himself For Us"
 author: Joseph Louthan
-publishDate: 2022-12-16T00:00:00-05:00
+publishDate: 2022-12-16
 categories:
   - Commentaries
   - Devotions

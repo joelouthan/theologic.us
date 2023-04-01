@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 57"
 author: Joseph Louthan
-publishDate: 2021-03-04T00:00:00-05:00
+publishDate: 2021-03-04
 categories:
   - Prayers
 tags:

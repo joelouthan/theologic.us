@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 3:21-22 How Did Jesus Began His Ministry?'
 author: Joseph Louthan
-publishDate: 2020-05-28T00:00:00-05:00
+publishDate: 2020-05-28
 categories:
   - Devotions
 tags:

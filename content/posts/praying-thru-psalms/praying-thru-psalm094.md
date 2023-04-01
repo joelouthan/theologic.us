@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 94 Vengeance"
 author: Joseph Louthan
-publishDate: 2022-12-24T00:00:00-05:00
+publishDate: 2022-12-24
 categories:
   - Prayers
 tags:

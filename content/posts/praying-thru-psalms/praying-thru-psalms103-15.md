@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalms 103:15"
 author: Joseph Louthan
-publishDate: 2023-06-03T00:00:00-05:00
+publishDate: 2023-06-03
 categories:
   - Prayers
 tags:

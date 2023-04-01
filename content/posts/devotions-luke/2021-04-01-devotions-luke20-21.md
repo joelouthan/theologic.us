@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 20-21 Christ Has All Authority'
 author: Joseph Louthan
-publishDate: 2021-04-01T00:00:00-05:00
+publishDate: 2021-04-01
 categories:
   - Devotions
 tags:

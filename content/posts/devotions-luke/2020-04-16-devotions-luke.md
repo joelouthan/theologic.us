@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 2:22-24 Christ Grew In Wisdom and Stature [Part 1]'
 author: Joseph Louthan
-publishDate: 2020-04-16T00:00:00-05:00
+publishDate: 2020-04-16
 categories:
   - Devotions
 tags:

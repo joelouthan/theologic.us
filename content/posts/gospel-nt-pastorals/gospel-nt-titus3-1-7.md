@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: Titus 3:1-7 Live Like This: Christ Appeared"
 author: Joseph Louthan
-publishDate: 2022-09-13T00:00:00-05:00
+publishDate: 2022-09-13
 categories:
   - Commentaries
   - "Gospel NT"

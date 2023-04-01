@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 6:53-56 Jesus is the Lord of Time"
 author: Joseph Louthan
-publishDate: 2021-11-17T00:00:00-05:00
+publishDate: 2021-11-17
 categories:
   - Commentaries
   - Devotions

@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 14:66-72 Every Step is Joy: God Will Be Denied For Us"
 author: Joseph Louthan
-publishDate: 2022-12-09T00:00:00-05:00
+publishDate: 2022-12-09
 categories:
   - Commentaries
   - Devotions

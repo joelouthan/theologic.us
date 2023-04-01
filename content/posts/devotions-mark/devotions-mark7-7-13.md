@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 7:7-13 The Word of God is Law"
 author: Joseph Louthan
-publishDate: 2021-11-19T00:00:00-05:00
+publishDate: 2021-11-19
 categories:
   - Commentaries
   - Devotions

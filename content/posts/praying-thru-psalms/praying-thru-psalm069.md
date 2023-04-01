@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 69 Savior"
 author: Joseph Louthan
-publishDate: 2021-04-13T00:00:00-05:00
+publishDate: 2021-04-13
 categories:
   - Prayers
 tags:

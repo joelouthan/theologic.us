@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Luke 1:1-4 To Be Called A Witness"
 author: Joseph Louthan
-publishDate: 2019-11-06T00:00:00-05:00
+publishDate: 2019-11-06
 categories:
   - Devotions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 33:6'
 author: Joseph Louthan
-publishDate: 2020-11-05T00:00:00-05:00
+publishDate: 2020-11-05
 categories:
   - Prayers
 tags:

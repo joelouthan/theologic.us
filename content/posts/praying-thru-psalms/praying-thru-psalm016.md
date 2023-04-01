@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 16'
 author: Joseph Louthan
-date: 2013-04-09T00:00:00-05:00
+date: 2013-04-09
 categories:
   - Prayers
 tags:

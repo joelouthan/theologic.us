@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 7 The Responses of Mankind'
 author: Joseph Louthan
-publishDate: 2020-08-06T00:00:00-05:00
+publishDate: 2020-08-06
 categories:
   - Devotions
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 6:14-29 Jesus is the Lord over Humanity"
 author: Joseph Louthan
-publishDate: 2021-11-14T00:00:00-05:00
+publishDate: 2021-11-14
 categories:
   - Commentaries
   - Devotions

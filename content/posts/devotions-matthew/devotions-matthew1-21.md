@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 1:21 Jesus Christ is Our Savior"
 author: Joseph Louthan
-publishDate: 2022-04-02T00:00:00-05:00
+publishDate: 2022-04-02
 categories:
   - Commentaries
   - Devotions

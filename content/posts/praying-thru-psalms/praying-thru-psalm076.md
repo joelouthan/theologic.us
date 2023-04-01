@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 76 Righteous"
 author: Joseph Louthan
-publishDate: 2021-06-01T00:00:00-05:00
+publishDate: 2021-06-01
 categories:
   - Prayers
 tags:

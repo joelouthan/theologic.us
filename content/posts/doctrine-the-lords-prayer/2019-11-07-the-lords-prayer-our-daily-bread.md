@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: John 6:22-71 Pray Like This: Give Us This Day Our Daily Bread"
 author: Joseph Louthan
-publishDate: 2019-11-07T00:00:00-05:00
+publishDate: 2019-11-07
 categories:
   - Prayers
   - Doctrine

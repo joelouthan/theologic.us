@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 1:26-38 God Calls Us To Him'
 author: Joseph Louthan
-publishDate: 2019-12-11T00:00:00-05:00
+publishDate: 2019-12-11
 categories:
   - Devotions
 tags:

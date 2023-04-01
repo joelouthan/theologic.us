@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 9:33-37 God Alone Receives All Who Would Come"
 author: Joseph Louthan
-publishDate: 2021-12-15T00:00:00-05:00
+publishDate: 2021-12-15
 categories:
   - Commentaries
   - Devotions

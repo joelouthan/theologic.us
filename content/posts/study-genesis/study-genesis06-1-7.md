@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 6:1-7 The Gospel Certainty: The Wickedness of Man"
 author: Joseph Louthan
-publishDate: 2021-08-26T00:00:00-05:00
+publishDate: 2021-08-26
 categories:
   - Commentaries
   - Study

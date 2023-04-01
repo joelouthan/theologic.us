@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 12:41-44 What Does Christ Want? Our Everything"
 author: Joseph Louthan
-publishDate: 2022-05-13T00:00:00-05:00
+publishDate: 2022-05-13
 categories:
   - Commentaries
   - Devotions

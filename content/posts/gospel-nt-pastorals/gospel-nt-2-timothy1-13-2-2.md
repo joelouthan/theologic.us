@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 2 Timothy 1:13-2:2 Taught By God"
 author: Joseph Louthan
-publishDate: 2021-06-30T00:00:00-05:00
+publishDate: 2021-06-30
 categories:
   - Commentaries
   - "Gospel NT"

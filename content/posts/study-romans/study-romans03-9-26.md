@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 3:9–26 No One Does Good'
 author: Joseph Louthan
-publishDate: 2021-03-11T00:00:00-05:00
+publishDate: 2021-03-11
 categories:
   - Commentaries
   - Study

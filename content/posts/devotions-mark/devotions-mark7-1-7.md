@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 7:1-7 The Word of God is Love"
 author: Joseph Louthan
-publishDate: 2021-11-18T00:00:00-05:00
+publishDate: 2021-11-18
 categories:
   - Commentaries
   - Devotions

@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 13'
 author: Joseph Louthan
-date: 2013-02-05T00:00:00-05:00
+date: 2013-02-05
 categories:
   - Prayers
 tags:

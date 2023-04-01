@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 9:23-33 Great is His Faithfulness"
 author: Joseph Louthan
-publishDate: 2023-01-30T00:00:00-05:00
+publishDate: 2023-01-30
 categories:
   - Commentaries
   - Study

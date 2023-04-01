@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 4:12-17 Jesus Christ is Our Preacher"
 author: Joseph Louthan
-publishDate: 2022-07-02T00:00:00-05:00
+publishDate: 2022-07-02
 categories:
   - Commentaries
   - Devotions

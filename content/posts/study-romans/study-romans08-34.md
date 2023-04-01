@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:34 Romans 8:34 Christ Raised For Us"
 author: Joseph Louthan
-publishDate: 2022-11-28T00:00:00-05:00
+publishDate: 2022-11-28
 categories:
   - Commentaries
   - Study

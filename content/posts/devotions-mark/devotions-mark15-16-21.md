@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 15:16-21 Every Step Is Joy: Christ Was Put To Shame For Us"
 author: Joseph Louthan
-publishDate: 2022-12-30T00:00:00-05:00
+publishDate: 2022-12-30
 categories:
   - Commentaries
   - Devotions

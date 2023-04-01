@@ -1,7 +1,7 @@
 ---
 title: "Doctrine: Romans 8:14-17 Pray Like This, Our Father in Heaven"
 author: Joseph Louthan
-date: 2018-07-26T00:00:00-05:00
+date: 2018-07-26
 categories:
   - Prayers
   - Doctrine

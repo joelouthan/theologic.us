@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 11:25-32 Ours To Do: Be in God's Kindness"
 author: Joseph Louthan
-publishDate: 2023-03-20T00:00:00-05:00
+publishDate: 2023-03-20
 categories:
   - Commentaries
   - Study

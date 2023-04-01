@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 14:17-24 The Gospel Blessing"
 author: Joseph Louthan
-publishDate: 2022-11-28T00:00:00-05:00
+publishDate: 2022-11-28
 categories:
   - Commentaries
   - Study

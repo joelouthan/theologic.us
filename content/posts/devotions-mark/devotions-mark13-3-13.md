@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 13:3-13 What Does Christ Want? Our Hearts"
 author: Joseph Louthan
-publishDate: 2022-05-27T00:00:00-05:00
+publishDate: 2022-05-27
 categories:
   - Commentaries
   - Devotions

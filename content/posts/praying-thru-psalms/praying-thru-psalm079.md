@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 79 Faith"
 author: Joseph Louthan
-publishDate: 2021-06-22T00:00:00-05:00
+publishDate: 2021-06-22
 categories:
   - Prayers
 tags:

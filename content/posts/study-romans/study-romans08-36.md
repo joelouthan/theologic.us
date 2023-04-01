@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:36 Christ Died For Us"
 author: Joseph Louthan
-publishDate: 2022-12-12T00:00:00-05:00
+publishDate: 2022-12-12
 categories:
   - Commentaries
   - Study

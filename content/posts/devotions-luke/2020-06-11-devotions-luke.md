@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 4:1-13 How Did Jesus Face Temptations?'
 author: Joseph Louthan
-publishDate: 2020-06-11T00:00:00-05:00
+publishDate: 2020-06-11
 categories:
   - Devotions
 tags:

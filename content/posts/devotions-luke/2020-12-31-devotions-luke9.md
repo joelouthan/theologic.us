@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 9 What is Christ Calling Us To?'
 author: Joseph Louthan
-publishDate: 2020-12-31T00:00:00-05:00
+publishDate: 2020-12-31
 categories:
   - Devotions
 tags:

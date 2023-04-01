@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 24 Christ Lives'
 author: Joseph Louthan
-publishDate: 2021-04-29T00:00:00-05:00
+publishDate: 2021-04-29
 categories:
   - Devotions
 tags:

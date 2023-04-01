@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 36:10-12'
 author: Joseph Louthan
-publishDate: 2021-01-05T20:00:00-05:00
+publishDate: 2021-01-05
 categories:
   - Prayers
 tags:

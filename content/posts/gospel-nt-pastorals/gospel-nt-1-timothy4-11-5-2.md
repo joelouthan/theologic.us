@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 4:11-5:2 Minister in Christ"
 author: Joseph Louthan
-publishDate: 2021-04-21T00:00:00-05:00
+publishDate: 2021-04-21
 categories:
   - Commentaries
   - "Gospel NT"

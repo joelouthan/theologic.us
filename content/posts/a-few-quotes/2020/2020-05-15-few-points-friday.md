@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Prayer"
 author: Joseph Louthan
-publishDate: 2020-05-15T00:00:00-05:00
+publishDate: 2020-05-15
 categories:
   - Quotes
 tags:

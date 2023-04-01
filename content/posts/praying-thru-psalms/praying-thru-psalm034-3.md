@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 34:3'
 author: Joseph Louthan
-publishDate: 2020-11-08T20:00:00-05:00
+publishDate: 2020-11-08
 categories:
   - Prayers
 tags:

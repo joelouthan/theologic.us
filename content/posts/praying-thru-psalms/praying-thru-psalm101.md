@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 101 Worthy"
 author: Joseph Louthan
-publishDate: 2023-02-11T00:00:00-05:00
+publishDate: 2023-02-11
 categories:
   - Prayers
 tags:

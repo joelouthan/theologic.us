@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 16:1-8 Every Step Is Joy: Christ Freed Us From Sin"
 author: Joseph Louthan
-publishDate: 2023-01-27T00:00:00-05:00
+publishDate: 2023-01-27
 categories:
   - Commentaries
   - Devotions

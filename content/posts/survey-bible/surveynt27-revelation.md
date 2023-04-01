@@ -1,7 +1,7 @@
 ---
 title: "Survey of the New Testament"
 author: Joseph Louthan
-publishDate: 2024-01-09T00:00:00-05:00
+publishDate: 2024-01-09
 categories:
   - Survey NT
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans - A Few Resources'
 author: Joseph Louthan
-publishDate: 2021-01-07T00:00:00-05:00
+publishDate: 2021-01-07
 categories:
   - Commentaries
   - Study

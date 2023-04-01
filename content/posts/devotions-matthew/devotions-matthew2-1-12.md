@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 2:1-12 Jesus Christ is Our King"
 author: Joseph Louthan
-publishDate: 2022-05-07T00:00:00-05:00
+publishDate: 2022-05-07
 categories:
   - Commentaries
   - Devotions

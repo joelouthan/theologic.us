@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 2 Timothy 2:3-14 Life by God"
 author: Joseph Louthan
-publishDate: 2021-07-07T00:00:00-05:00
+publishDate: 2021-07-07
 categories:
   - Commentaries
   - "Gospel NT"

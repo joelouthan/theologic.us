@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 1:39-45 Jump For Joy'
 author: Joseph Louthan
-publishDate: 2019-12-18T00:00:00-05:00
+publishDate: 2019-12-18
 categories:
   - Devotions
 tags:

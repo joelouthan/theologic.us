@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 16:12-13 Every Step Is Joy: Christ Has Saved His People From Their Sins"
 author: Joseph Louthan
-publishDate: 2023-02-10T00:00:00-05:00
+publishDate: 2023-02-10
 categories:
   - Commentaries
   - Devotions

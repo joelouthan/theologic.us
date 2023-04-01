@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 35:6'
 author: Joseph Louthan
-publishDate: 2021-01-05T00:00:00-05:00
+publishDate: 2021-01-05
 categories:
   - Prayers
 tags:

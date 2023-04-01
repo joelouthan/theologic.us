@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 1:24-25 Jesus Christ is Our Grace"
 author: Joseph Louthan
-publishDate: 2022-04-30T00:00:00-05:00
+publishDate: 2022-04-30
 categories:
   - Commentaries
   - Devotions

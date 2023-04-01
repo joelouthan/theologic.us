@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 42'
 author: Joseph Louthan
-publishDate: 2021-02-09T20:00:00-05:00
+publishDate: 2021-02-09
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 20'
 author: Joseph Louthan
-date: 2014-01-21T00:00:00-05:00
+date: 2014-01-21
 categories:
   - Prayers
 tags:

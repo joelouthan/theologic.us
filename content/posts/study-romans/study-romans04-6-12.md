@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 4:6-12 God Justifies, Not Us'
 author: Joseph Louthan
-publishDate: 2021-03-13T00:00:00-05:00
+publishDate: 2021-03-13
 categories:
   - Commentaries
   - Study

@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 6:20-21 Be With Christ"
 author: Joseph Louthan
-publishDate: 2021-06-09T00:00:00-05:00
+publishDate: 2021-06-09
 categories:
   - Commentaries
   - "Gospel NT"

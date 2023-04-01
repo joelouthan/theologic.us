@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 14:10-11 Every Step Is Joy: Christ Is Betrayed Unto Death For Us"
 author: Joseph Louthan
-publishDate: 2022-10-21T00:00:00-05:00
+publishDate: 2022-10-21
 categories:
   - Commentaries
   - Devotions

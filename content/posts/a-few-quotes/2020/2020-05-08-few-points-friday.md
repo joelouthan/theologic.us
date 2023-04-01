@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Hardships"
 author: Joseph Louthan
-publishDate: 2020-05-08T00:00:00-05:00
+publishDate: 2020-05-08
 categories:
   - Quotes
 tags:

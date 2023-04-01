@@ -1,7 +1,7 @@
 ---
 title: "Survey of the Old Testament"
 author: Joseph Louthan
-publishDate: 2022-10-25T00:00:00-05:00
+publishDate: 2022-10-25
 categories:
   - Survey OT
 tags:

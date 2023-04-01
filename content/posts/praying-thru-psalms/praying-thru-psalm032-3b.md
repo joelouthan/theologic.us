@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 32:3b'
 author: Joseph Louthan
-publishDate: 2020-11-01T00:00:00-05:00
+publishDate: 2020-11-01
 categories:
   - Prayers
 tags:

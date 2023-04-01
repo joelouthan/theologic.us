@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 2:17-29 Everything Belongs to God'
 author: Joseph Louthan
-publishDate: 2021-03-09T00:00:00-05:00
+publishDate: 2021-03-09
 categories:
   - Commentaries
   - Study

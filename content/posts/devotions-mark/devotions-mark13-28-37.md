@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 13:28-37 What Does Christ Want? Our Moment in Time"
 author: Joseph Louthan
-publishDate: 2022-09-30T00:00:00-05:00
+publishDate: 2022-09-30
 categories:
   - Commentaries
   - Devotions

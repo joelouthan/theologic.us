@@ -1,7 +1,7 @@
 ---
 title: "Gospel OT: Daniel 1:1-7 World vs God: Who Chooses Us?"
 author: Joseph Louthan
-publishDate: 2022-01-21T00:00:00-05:00
+publishDate: 2022-01-21
 categories:
   - Commentaries
   - "Gospel OT"

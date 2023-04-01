@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:35 Christ Defined Us"
 author: Joseph Louthan
-publishDate: 2022-12-05T00:00:00-05:00
+publishDate: 2022-12-05
 categories:
   - Commentaries
   - Study

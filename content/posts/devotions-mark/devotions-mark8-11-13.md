@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 8:11–13 Jesus Changes Our Minds So We Now Understand God"
 author: Joseph Louthan
-publishDate: 2021-11-24T00:00:00-05:00
+publishDate: 2021-11-24
 categories:
   - Commentaries
   - Devotions

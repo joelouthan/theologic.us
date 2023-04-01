@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:29d Why Did God Save Us?"
 author: Joseph Louthan
-publishDate: 2022-09-26T00:00:00-05:00
+publishDate: 2022-09-26
 categories:
   - Commentaries
   - Study

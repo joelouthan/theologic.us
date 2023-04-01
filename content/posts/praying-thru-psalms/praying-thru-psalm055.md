@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 55"
 author: Joseph Louthan
-publishDate: 2021-03-02T00:00:00-05:00
+publishDate: 2021-03-02
 categories:
   - Prayers
 tags:

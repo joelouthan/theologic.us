@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 3:1-8 All Goodness and Glory Belongs to God"
 author: Joseph Louthan
-publishDate: 2021-03-10T00:00:00-05:00
+publishDate: 2021-03-10
 categories:
   - Commentaries
   - Study

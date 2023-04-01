@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 39'
 author: Joseph Louthan
-publishDate: 2021-02-02T20:00:00-05:00
+publishDate: 2021-02-02
 categories:
   - Prayers
 tags:

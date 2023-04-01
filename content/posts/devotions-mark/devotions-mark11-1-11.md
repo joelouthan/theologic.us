@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 11:1-11 So That We Might Live"
 author: Joseph Louthan
-publishDate: 2022-01-13T00:00:00-05:00
+publishDate: 2022-01-13
 categories:
   - Commentaries
   - Devotions

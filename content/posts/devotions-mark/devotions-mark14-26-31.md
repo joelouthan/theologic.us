@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 14:26-31 Every Step is Joy: Christ Is Struck For Us"
 author: Joseph Louthan
-publishDate: 2022-11-11T00:00:00-05:00
+publishDate: 2022-11-11
 categories:
   - Commentaries
   - Devotions

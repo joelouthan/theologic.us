@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 14:3-9 Every Step Is Joy: Christ Is Anointed For Us"
 author: Joseph Louthan
-publishDate: 2022-10-14T00:00:00-05:00
+publishDate: 2022-10-14
 categories:
   - Commentaries
   - Devotions

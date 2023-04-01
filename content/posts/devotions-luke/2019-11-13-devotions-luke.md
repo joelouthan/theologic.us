@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 1:5–7 How Can We Be Righteous Before God?'
 author: Joseph Louthan
-publishDate: 2019-11-13T00:00:00-05:00
+publishDate: 2019-11-13
 categories:
   - Devotions
 tags:

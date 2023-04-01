@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 65"
 author: Joseph Louthan
-publishDate: 2021-03-16T00:00:00-05:00
+publishDate: 2021-03-16
 categories:
   - Prayers
 tags:

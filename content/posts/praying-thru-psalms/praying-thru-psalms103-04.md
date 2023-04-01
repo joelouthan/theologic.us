@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalms 103:4"
 author: Joseph Louthan
-publishDate: 2023-03-18T00:00:00-05:00
+publishDate: 2023-03-18
 categories:
   - Prayers
 tags:

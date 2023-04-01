@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark - A Few Resources"
 author: Joseph Louthan
-date: 2012-07-25T00:00:00-05:00
+date: 2012-07-25
 categories:
   - Commentaries
   - Devotions

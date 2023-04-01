@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 3:1-13 The Gospel Needed"
 author: Joseph Louthan
-publishDate: 2021-07-29T00:00:00-05:00
+publishDate: 2021-07-29
 categories:
   - Commentaries
   - Study

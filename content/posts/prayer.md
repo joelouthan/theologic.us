@@ -1,7 +1,7 @@
 ---
 title: "Daily Prayer"
 author: Joseph Louthan
-publishDate: 2023-02-25T05:00:00-05:00
+publishDate: 2023-02-25
 url: /prayer/
 draft: false
 index: false

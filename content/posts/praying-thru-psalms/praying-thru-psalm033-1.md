@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 33:1'
 author: Joseph Louthan
-publishDate: 2020-11-03T20:00:00-05:00
+publishDate: 2020-11-03
 categories:
   - Prayers
 tags:

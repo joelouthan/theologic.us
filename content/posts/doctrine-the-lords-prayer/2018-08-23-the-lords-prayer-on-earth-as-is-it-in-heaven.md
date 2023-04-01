@@ -1,7 +1,7 @@
 ---
 title: 'Doctrine: Psalms 73:21-28 Pray Like This: On Earth As It Is In Heaven'
 author: Joseph Louthan
-date: 2018-08-23T00:00:00-05:00
+date: 2018-08-23
 categories:
   - Prayers
   - Doctrine

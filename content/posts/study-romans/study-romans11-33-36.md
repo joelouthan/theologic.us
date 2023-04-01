@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 11:33-36 Ours To Do: Praise God"
 author: Joseph Louthan
-publishDate: 2023-03-27T00:00:00-05:00
+publishDate: 2023-03-27
 categories:
   - Commentaries
   - Study

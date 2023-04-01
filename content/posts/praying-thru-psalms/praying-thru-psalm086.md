@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 86 Protector"
 author: Joseph Louthan
-publishDate: 2022-10-29T00:00:00-05:00
+publishDate: 2022-10-29
 categories:
   - Prayers
 tags:

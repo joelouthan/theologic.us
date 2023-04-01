@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 11:12-14 So That We Might Live and Never Die"
 author: Joseph Louthan
-publishDate: 2022-01-18T00:00:00-05:00
+publishDate: 2022-01-18
 categories:
   - Commentaries
   - Devotions

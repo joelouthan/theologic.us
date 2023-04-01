@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 90 Eternity"
 author: Joseph Louthan
-publishDate: 2022-11-26T00:00:00-05:00
+publishDate: 2022-11-26
 categories:
   - Prayers
 tags:

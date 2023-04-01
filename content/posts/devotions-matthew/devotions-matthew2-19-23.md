@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 2:19-23 Jesus Christ is the Number of Our Days"
 author: Joseph Louthan
-publishDate: 2022-05-28T00:00:00-05:00
+publishDate: 2022-05-28
 categories:
   - Commentaries
   - Devotions

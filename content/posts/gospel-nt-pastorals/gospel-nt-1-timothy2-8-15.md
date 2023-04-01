@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 2:8-15 Worship in Christ"
 author: Joseph Louthan
-publishDate: 2021-03-10T00:00:00-05:00
+publishDate: 2021-03-10
 categories:
   - Commentaries
   - "Gospel NT"

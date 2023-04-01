@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Living"
 author: Joseph Louthan
-publishDate: 2020-05-29T00:00:00-05:00
+publishDate: 2020-05-29
 categories:
   - Quotes
 tags:

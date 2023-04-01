@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 14:1-16 The Gospel Rescue"
 author: Joseph Louthan
-publishDate: 2022-11-14T00:00:00-05:00
+publishDate: 2022-11-14
 categories:
   - Commentaries
   - Study

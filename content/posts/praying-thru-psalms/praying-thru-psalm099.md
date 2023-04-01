@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 99 Awe"
 author: Joseph Louthan
-publishDate: 2023-01-28T00:00:00-05:00
+publishDate: 2023-01-28
 categories:
   - Prayers
 tags:

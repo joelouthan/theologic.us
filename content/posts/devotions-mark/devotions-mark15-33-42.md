@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 15:33-42 Every Step Is Joy: Christ Died For Us"
 author: Joseph Louthan
-publishDate: 2023-01-13T00:00:00-05:00
+publishDate: 2023-01-13
 categories:
   - Commentaries
   - Devotions

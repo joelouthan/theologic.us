@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 22-23 Christ Descends'
 author: Joseph Louthan
-publishDate: 2021-04-08T00:00:00-05:00
+publishDate: 2021-04-08
 categories:
   - Devotions
 tags:

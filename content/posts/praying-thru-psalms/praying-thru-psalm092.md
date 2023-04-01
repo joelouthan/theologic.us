@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 92 Faithfulness"
 author: Joseph Louthan
-publishDate: 2022-12-10T00:00:00-05:00
+publishDate: 2022-12-10
 categories:
   - Prayers
 tags:

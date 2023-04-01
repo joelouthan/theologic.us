@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 4:1-11 Jesus Christ is Our Word"
 author: Joseph Louthan
-publishDate: 2022-06-25T00:00:00-05:00
+publishDate: 2022-06-25
 categories:
   - Commentaries
   - Devotions

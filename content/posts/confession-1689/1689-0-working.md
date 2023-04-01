@@ -1,7 +1,7 @@
 ---
 title: "1689 Second London Baptist Confession of Faith With Scripture Proofs"
 author: Joseph Louthan
-publishDate: 2022-05-18T00:00:00-05:00
+publishDate: 2022-05-18
 categories:
 - Confessions
 - Books

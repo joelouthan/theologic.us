@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 2 Timothy 3:1-12 Refined By God"
 author: Joseph Louthan
-publishDate: 2021-07-28T00:00:00-05:00
+publishDate: 2021-07-28
 categories:
   - Commentaries
   - "Gospel NT"

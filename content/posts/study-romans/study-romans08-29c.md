@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:29c By Whom We Are Saved?"
 author: Joseph Louthan
-publishDate: 2022-09-19T00:00:00-05:00
+publishDate: 2022-09-19
 categories:
   - Commentaries
   - Study

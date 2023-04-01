@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 12:35-37 So That We Might Live and Be Glorified"
 author: Joseph Louthan
-publishDate: 2022-02-03T00:00:00-05:00
+publishDate: 2022-02-03
 categories:
   - Commentaries
   - Devotions

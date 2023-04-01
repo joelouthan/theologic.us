@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 9:14-23 His Mercies Are New Every Morning"
 author: Joseph Louthan
-publishDate: 2023-01-23T00:00:00-05:00
+publishDate: 2023-01-23
 categories:
   - Commentaries
   - Study

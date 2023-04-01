@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 4:18-22 Jesus Christ is Our Calling"
 author: Joseph Louthan
-publishDate: 2022-07-09T00:00:00-05:00
+publishDate: 2022-07-09
 categories:
   - Commentaries
   - Devotions

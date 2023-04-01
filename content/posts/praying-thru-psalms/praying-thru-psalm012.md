@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 12'
 author: Joseph Louthan
-date: 2013-01-29T00:00:00-05:00
+date: 2013-01-29
 categories:
   - Prayers
 tags:

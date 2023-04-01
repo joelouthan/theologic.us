@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 8:31-33 Jesus Must Die"
 author: Joseph Louthan
-publishDate: 2021-12-08T00:00:00-05:00
+publishDate: 2021-12-08
 categories:
   - Commentaries
   - Devotions

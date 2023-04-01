@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 11:27-33 So That We Might Live and Know Him"
 author: Joseph Louthan
-publishDate: 2022-01-25T00:00:00-05:00
+publishDate: 2022-01-25
 categories:
   - Commentaries
   - Devotions

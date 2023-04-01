@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 71 Refuge"
 author: Joseph Louthan
-publishDate: 2021-04-27T00:00:00-05:00
+publishDate: 2021-04-27
 categories:
   - Prayers
 tags:

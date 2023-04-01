@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 5:6–11 God Loves, Not Us'
 author: Joseph Louthan
-publishDate: 2021-03-16T00:00:00-05:00
+publishDate: 2021-03-16
 categories:
   - Commentaries
   - Study

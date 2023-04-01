@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 2:41-52 Christ Grew In Wisdom and Stature [Part 5]'
 author: Joseph Louthan
-publishDate: 2020-05-14T00:00:00-05:00
+publishDate: 2020-05-14
 categories:
   - Devotions
 tags:

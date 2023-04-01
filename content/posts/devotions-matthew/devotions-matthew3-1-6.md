@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 3:1-6 Jesus Christ is Our Proclamation"
 author: Joseph Louthan
-publishDate: 2022-06-04T00:00:00-05:00
+publishDate: 2022-06-04
 categories:
   - Commentaries
   - Devotions

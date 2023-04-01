@@ -1,7 +1,7 @@
 ---
 title: "Praying Through: Psalm 89 Security"
 author: Joseph Louthan
-publishDate: 2022-11-19T00:00:00-05:00
+publishDate: 2022-11-19
 categories:
   - Prayers
 tags:

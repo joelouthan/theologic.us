@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 2.3 The Triune God"
 author: Joseph Louthan
-publishDate: 2023-02-08T00:00:00-05:00
+publishDate: 2023-02-08
 categories:
   - Confessions
 tags:

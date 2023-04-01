@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 1.9 The Interpretation of Holy Scripture"
 author: Joseph Louthan
-publishDate: 2022-11-09T00:00:00-05:00
+publishDate: 2022-11-09
 categories:
   - Confessions
 tags:

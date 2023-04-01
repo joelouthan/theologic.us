@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 3:8-13 Serve in Christ"
 author: Joseph Louthan
-publishDate: 2021-03-24T00:00:00-05:00
+publishDate: 2021-03-24
 categories:
   - Commentaries
   - "Gospel NT"

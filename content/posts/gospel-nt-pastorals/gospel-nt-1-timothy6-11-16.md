@@ -1,7 +1,7 @@
 ---
 title: "Gospel NT: 1 Timothy 6:11-16 Contend in Christ"
 author: Joseph Louthan
-publishDate: 2021-05-26T00:00:00-05:00
+publishDate: 2021-05-26
 categories:
   - Commentaries
   - "Gospel NT"

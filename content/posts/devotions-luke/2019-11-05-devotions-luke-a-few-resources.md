@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Luke - A Few Resources"
 author: Joseph Louthan
-publishDate: 2019-11-05T00:00:00-05:00
+publishDate: 2019-11-05
 categories:
   - Devotions
   - Books

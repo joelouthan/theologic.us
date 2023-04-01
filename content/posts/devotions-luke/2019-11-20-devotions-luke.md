@@ -1,7 +1,7 @@
 ---
 title: 'Devotions: Luke 1:8–10 How Can We Worship God Everyday?'
 author: Joseph Louthan
-publishDate: 2019-11-20T00:00:00-05:00
+publishDate: 2019-11-20
 categories:
   - Devotions
 tags:

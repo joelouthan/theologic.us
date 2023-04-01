@@ -1,7 +1,7 @@
 ---
 title: "Ministry Resume"
 author: Joseph Louthan
-publishDate: 2022-11-26T05:00:00-05:00
+publishDate: 2022-11-26
 url: /resume/
 index: false
 draft: false

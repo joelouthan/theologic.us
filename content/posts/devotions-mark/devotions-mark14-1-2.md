@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 14:1-2 Every Step Is Joy: Christ Will Give Up His Life For Us"
 author: Joseph Louthan
-publishDate: 2022-10-07T00:00:00-05:00
+publishDate: 2022-10-07
 categories:
   - Commentaries
   - Devotions

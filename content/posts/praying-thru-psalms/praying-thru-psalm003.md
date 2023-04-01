@@ -1,7 +1,7 @@
 ---
 title: 'Praying Through: Psalm 3'
 author: Joseph Louthan
-date: 2012-10-16T00:00:00-05:00
+date: 2012-10-16
 categories:
   - Prayers
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 8:32 Christ Is For Us"
 author: Joseph Louthan
-publishDate: 2022-11-14T00:00:00-05:00
+publishDate: 2022-11-14
 categories:
   - Commentaries
   - Study

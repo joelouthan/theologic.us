@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: Bavinck and Ortlund"
 author: Joseph Louthan
-publishDate: 2020-05-01T00:00:00-05:00
+publishDate: 2020-05-01
 categories:
   - Quotes
 tags:

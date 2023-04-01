@@ -1,7 +1,7 @@
 ---
 title: "A Few Points for Friday "
 author: Joseph Louthan
-publishDate: T00:00:00-05:00
+publishDate: 
 categories:
   - Links
 tags:

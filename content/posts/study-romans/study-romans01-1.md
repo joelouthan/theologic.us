@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 1:1 God Alone Saves'
 author: Joseph Louthan
-publishDate: 2021-03-01T00:00:00-05:00
+publishDate: 2021-03-01
 categories:
   - Commentaries
   - Study

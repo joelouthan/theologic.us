@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 14:43-52 Every Step is Joy: Christ Is Despised For Us"
 author: Joseph Louthan
-publishDate: 2022-11-25T00:00:00-05:00
+publishDate: 2022-11-25
 categories:
   - Commentaries
   - Devotions

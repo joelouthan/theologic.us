@@ -1,7 +1,7 @@
 ---
 title: "Study: Genesis 6:8-9 The Gospel Certainty: The Grace of God"
 author: Joseph Louthan
-publishDate: 2021-09-02T00:00:00-05:00
+publishDate: 2021-09-02
 categories:
   - Commentaries
   - Study

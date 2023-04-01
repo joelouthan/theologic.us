@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Mark 7:24-30 The Word of God Saves"
 author: Joseph Louthan
-publishDate: 2021-11-21T00:00:00-05:00
+publishDate: 2021-11-21
 categories:
   - Commentaries
   - Devotions

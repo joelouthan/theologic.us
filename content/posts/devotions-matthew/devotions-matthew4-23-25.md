@@ -1,7 +1,7 @@
 ---
 title: "Devotions: Matthew 4:23-25 Jesus Christ is Our Ministry"
 author: Joseph Louthan
-publishDate: 2022-07-16T00:00:00-05:00
+publishDate: 2022-07-16
 categories:
   - Commentaries
   - Devotions

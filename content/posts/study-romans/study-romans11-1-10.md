@@ -1,7 +1,7 @@
 ---
 title: "Study: Romans 11:1-10 God Preserves"
 author: Joseph Louthan
-publishDate: 2023-02-27T00:00:00-05:00
+publishDate: 2023-02-27
 categories:
   - Commentaries
   - Study

@@ -1,7 +1,7 @@
 ---
 title: 'Doctrine: Isaiah 6:1-7 Pray Like This, Hallowed Be Your Name'
 author: Joseph Louthan
-date: 2018-08-02T00:00:00-05:00
+date: 2018-08-02
 categories:
   - Prayers
   - Doctrine

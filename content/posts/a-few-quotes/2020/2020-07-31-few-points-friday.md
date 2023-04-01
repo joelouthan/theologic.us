@@ -1,7 +1,7 @@
 ---
 title: "A Few Quotes: On Praying for Wolves"
 author: Joseph Louthan
-publishDate: 2020-07-31T00:00:00-05:00
+publishDate: 2020-07-31
 categories:
   - Quotes
 tags:

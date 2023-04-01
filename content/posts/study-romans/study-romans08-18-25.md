@@ -1,7 +1,7 @@
 ---
 title: 'Study: Romans 8:18-25 Who Defines Us?'
 author: Joseph Louthan
-publishDate: 2022-05-02T00:00:00-05:00
+publishDate: 2022-05-02
 categories:
   - Commentaries
   - Study
