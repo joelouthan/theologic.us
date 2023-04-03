@@ -37,7 +37,7 @@
         </itunes:owner>
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{.Site.BaseURL}}/images/metatag-theologicus-thor-622x.jpg"/>
+        <itunes:image href="{{.Site.BaseURL}}/images/apple-thor-logo-1600x.jpg"/>
         {{ range (where .Site.RegularPages "Params.layout" "episode")}}
         {{ .Scratch.Set "asset" .Params.aac }}
         {{if eq $assetFormat "mp3"}}

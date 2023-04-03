@@ -28,7 +28,7 @@ aac:
     length: "51566453"
 url: /20230316-apostles-creed-jesus-christ
 image: 
-  url: images/metatag-theologicus-thor-622x.jpg
+  url: images/apple-thor-logo-1600x.jpg
   alt: "Source: Theologicus"
 ---
 
