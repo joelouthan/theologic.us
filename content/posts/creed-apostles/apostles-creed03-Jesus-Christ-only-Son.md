@@ -16,7 +16,8 @@ draft: false
 
 layout: episode
 eptype: full
-number: "20230316"
+season: "2023"
+number: "0316"
 duration: "35:25"
 date: 2023-03-16
 short_description: "Opponents to Christianity will often categorize us with the Jewish and Muslim faiths as Abrahamic. There are some similarities between our religions. But what distinguishes Christianity from those religion is a person--it is the Lord Jesus Christ."

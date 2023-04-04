@@ -45,15 +45,16 @@
         {{end}}
         <item>
             <link>{{.Permalink}}</link>
-            <title>Episode {{ .Params.number }} - {{ .Params.title }}</title>
+            <title>Season {{ .Params.year }} Episode {{ .Params.number }} - {{ .Params.title }}</title>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
             <description>{{ .Params.short_description }}</description>
 
             <enclosure url='{{.Site.Params.podcast.download_url}}{{ (.Scratch.Get "asset").asset_link | safeHTML }}'
                        length='{{ (.Scratch.Get "asset").length }}' type="audio/{{$assetFormat}}"/>
-            <guid>{{.Site.BaseURL}}/{{ if .Params.guid }}{{ .Params.guid }}{{ else }}{{ .Params.number }}{{ end }}/</guid>
+            <guid>{{.Site.BaseURL}}/{{ if .Params.guid }}{{ .Params.guid }}{{ else }}{{ .Params.year }}{{ .Params.number }}{{ end }}/</guid>
 
             <itunes:author>{{.Site.Params.author}}</itunes:author>
+            <itunes:season>{{ .Params.season }}</itunes:season>
             <itunes:episode>{{ .Params.number }}</itunes:episode>
             <itunes:title>{{ .Params.title }}</itunes:title>
             <itunes:duration>{{ .Params.duration }}</itunes:duration>
