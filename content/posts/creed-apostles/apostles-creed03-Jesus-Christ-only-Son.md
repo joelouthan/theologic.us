@@ -23,9 +23,6 @@ short_description: "Opponents to Christianity will often categorize us with the 
 mp3:
     asset_link: "20230316-creed-jesus-01.mp3"
     length: "51129073"
-aac:
-    asset_link: "20230316-creed-jesus-01-02.m4a"
-    length: "51566453"
 url: /20230316-apostles-creed-jesus-christ
 image: 
   url: images/apple-thor-logo-1600x.jpg
