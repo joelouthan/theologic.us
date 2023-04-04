@@ -84,12 +84,14 @@
       * - mimeType: media asset mimeType
       */
       audio: [
+      /**
         {
           url: "{{.Site.Params.podcast.download_url}}{{ .Params.aac.asset_link | safeHTML }}",
           size: "{{ .Params.aac.length }}",
           title: "MPEG-4 AAC Audio (m4a)",
           mimeType: "audio/mp4"
         },
+        **/
         {
           url: "{{.Site.Params.podcast.download_url}}{{ .Params.mp3.asset_link | safeHTML }}",
           size: "{{ .Params.mp3.length }}",
