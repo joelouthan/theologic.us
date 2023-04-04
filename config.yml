@@ -213,7 +213,6 @@ outputs:
     - HTML
     - AMP
     - RSS
-    - aacfeed
     - mp3feed
 
 markup:
