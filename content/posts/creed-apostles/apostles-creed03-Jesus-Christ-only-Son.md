@@ -22,9 +22,9 @@ duration: "35:25"
 date: 2023-03-16
 short_description: "Opponents to Christianity will often categorize us with the Jewish and Muslim faiths as Abrahamic. There are some similarities between our religions. But what distinguishes Christianity from those religion is a person--it is the Lord Jesus Christ."
 mp3:
-    asset_link: "20230316-creed-jesus-01.mp3"
+    asset_link: "2023-03-16-creed-jesus-01.mp3"
     length: "51129073"
-url: /20230316-apostles-creed-jesus-christ
+url: /2023-03-16-apostles-creed-jesus-christ
 image: 
   url: images/apple-thor-logo-1600x.jpg
   alt: "Source: Theologicus"
@@ -36,8 +36,8 @@ image:
     <figcaption>Listen to Theologicus - What Do We Believe: Jesus Christ, Pt 1</figcaption>
     <audio
         controls
-        src="https://media.theologic.us/audio/20230316-creed-jesus-01.mp3">
-            <a href="https://media.theologic.us/audio/20230316-creed-jesus-01.mp3">
+        src="https://media.theologic.us/audio/2023-03-16-creed-jesus-01.mp3">
+            <a href="https://media.theologic.us/audio/2023-03-16-creed-jesus-01.mp3">
                 Download audio
             </a>
     </audio>
