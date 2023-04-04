@@ -11,7 +11,7 @@ series:
   - "Study: Ruth"
 tocopen: true
 css: "questions"
-draft: true
+draft: false
 ---
 
 ## The Text
@@ -206,7 +206,7 @@ Think of a time this week where God has provided for you. Give him praise for he
 
 ><sup>4</sup> Later, when Boaz arrived from Bethlehem, he said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.
 
-### God Has Called Us: To Bless Others
+### God Has Called Us: Bless
 
 TODO: 
 
