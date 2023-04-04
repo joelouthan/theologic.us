@@ -42,6 +42,6 @@ I thought and prayed about this for a while. I have decided to switch gears and 
 
 (Be prepare for some transitioning. 1689/WCF section might be a little messy for a moment. -Ed.)
 
-## Pastorals: FINISHED
+## FINISHED: Pastoral Epistles
 
 **Thursday, September 8, 2022** - First volumes on the [Epistles to Timothy & Titus](/series/gospel-nt-pastorals/) is done! Praise be to my God.
