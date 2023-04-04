@@ -11,7 +11,7 @@
     <channel>
         {{ $assetFormat := .Scratch.Get "asset-format" }}
         <title>{{ .Site.Title}}</title>
-        <atom:link href="{{.Site.BaseURL}}/feed/{{$assetFormat}}/" rel="self" type="application/rss+xml"/>
+        <atom:link href="{{.Site.BaseURL}}/feed/{{$assetFormat}}/index.xml" type="application/rss+xml"/>
         <link>{{.Site.BaseURL}}</link>
         <description>{{.Site.Params.podcast.description}}</description>
         <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
@@ -22,7 +22,7 @@
         <managingEditor>{{.Site.Params.email}} ({{ .Site.Params.author }})</managingEditor>
         <webMaster>{{.Site.Params.email}} ({{ .Site.Params.author }})</webMaster>
 
-        <itunes:new-feed-url>{{.Site.BaseURL}}/feed/{{$assetFormat}}/</itunes:new-feed-url>
+        <itunes:new-feed-url>{{.Site.BaseURL}}/feed/{{$assetFormat}}/index.xml</itunes:new-feed-url>
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle>{{.Site.Params.podcast.tagline}}</itunes:subtitle>
         <itunes:summary>{{.Site.Params.podcast.description}}</itunes:summary>
