@@ -18,7 +18,7 @@
         <sy:updatePeriod>daily</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <language>en</language>
-        <copyright>Copyright &#xA9;{{ .Params.season }} by {{ .Site.Params.author }}</copyright>
+        <copyright>Copyright &#xA9;{{ .Date.Format "2006" | safeHTML }} by {{ .Site.Params.author }}</copyright>
         <managingEditor>{{.Site.Params.email}} ({{ .Site.Params.author }})</managingEditor>
         <webMaster>{{.Site.Params.email}} ({{ .Site.Params.author }})</webMaster>
 
