@@ -197,14 +197,6 @@ Social:
 #         style: monokai
 
 outputFormats:
-  aacfeed:
-    MediaType: "application/rss+xml"
-    BaseName: "index"
-    path: "/feed/aac"
-    IsHTML: false
-    IsPlainText: true
-    noUgly: true
-    Rel: "alternate"
   mp3feed:
     MediaType: "application/rss+xml"
     BaseName: "index"
