@@ -39,6 +39,8 @@ draft: false
 - How have you been verbally blessed by others? Has it ever happened outside of church?
 - Take the time to trace your life and see how God has been at work so that "you might seek God, and perhaps you might reach out and find him, though he is not far from each one of us."
 
+<div style="page-break-after: always;"></div>
+
 ## The Introduction
 
 ><sup>1</sup> Now Naomi had a relative on her husband’s side. He was a prominent man of noble character from Elimelech’s family. His name was Boaz.
@@ -73,9 +75,7 @@ God is not calling us to have your stuff together so you can be ready to be bles
 How would you describe your life right at this moment? Like the sadness of Naomi, the desperation of Ruth or this stability of Boaz? Or something else entirely?
 ```
 
----
-
-## God
+<div style="page-break-after: always;"></div>
 
 ><sup>2</sup> Ruth the Moabitess asked Naomi, “Will you let me go into the fields and gather fallen grain behind someone with whom I find favor?” Naomi answered her, “Go ahead, my daughter.”
 
@@ -129,7 +129,7 @@ There are going to be times where we will be so desperate for God and yet God no
 Think of a time this week where God has been gracious, kind, and merciful to you. Give him praise for he is good.
 ```
 
----
+<div style="page-break-after: always;"></div>
 
 ><sup>3</sup> So Ruth left and entered the field to gather grain behind the harvesters. She happened to be in the portion of the field belonging to Boaz, who was from Elimelech’s family.
 
@@ -163,7 +163,7 @@ But work is just part of God's provision. Don't we all know this? The right job 
 Think of a time this week where God has provided for you. Give him praise for he is good.
 ```
 
----
+<div style="page-break-after: always;"></div>
 
 ><sup>4</sup> Later, when Boaz arrived from Bethlehem, he said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.
 
@@ -191,7 +191,7 @@ Of all the passages concerning our employment, I am first reminded of Philemon. 
 How have you been verbally blessed by others? Has it ever happened outside of church?
 ```
 
----
+<div style="page-break-after: always;"></div>
 
 ><sup>5-6</sup> Boaz asked his servant who was in charge of the harvesters, “Whose young woman is this?” The servant answered, “She is the young Moabite woman who returned with Naomi from the territory of Moab.
 
