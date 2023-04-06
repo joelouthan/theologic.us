@@ -12,7 +12,22 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+layout: episode
+eptype: full
+season: "2021"
+number: "0302"
+duration: "0:47:32"
+date: "2021-03-02"
+short_description: ""
+mp3: 
+    asset_link: "2021-03-02-study-romans1-1-7.mp3"
+    length: "68955670"
+image:
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
 ## The Introduction
 
 ## The Text
