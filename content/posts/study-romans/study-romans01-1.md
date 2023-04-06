@@ -12,8 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0301"
+duration: "0:26:35"
+date: 2021-03-01
+short_description: "The good news is this: that there is nothing that you could have ever done or will ever do that will keep you from be saved by God for God from God unto God. Make no mistake: without a faith in Christ Jesus as your Lord and Savior, you will not be saved. At the exact same time, salvation is not dependent on you but Him. This is grace."
+mp3:
+    asset_link: "2021-03-01-study-romans1_1.2.mp3"
+    length: "38787376"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
