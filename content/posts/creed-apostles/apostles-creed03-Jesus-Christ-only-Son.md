@@ -32,11 +32,11 @@ image:
 ## The Audio
 
 <figure>
-    <figcaption>Listen to Theologicus - What Do We Believe: Jesus Christ, Pt 1</figcaption>
+    <figcaption>Listen to {{< title >}}</figcaption>
     <audio
         controls
-        src="https://media.theologic.us/audio/2023-03-16-creed-jesus-01.mp3">
-            <a href="https://media.theologic.us/audio/2023-03-16-creed-jesus-01.mp3">
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
                 Download audio
             </a>
     </audio>
