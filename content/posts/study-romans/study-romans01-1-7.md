@@ -13,12 +13,14 @@ tocopen: true
 css: "prayers"
 draft: false
 
+episodes:
+  - "Romans"
 layout: episode
 eptype: full
 season: "2021"
 number: "0302"
 duration: "0:47:32"
-date: "2021-03-02"
+date: 2021-03-02
 short_description: ""
 mp3: 
     asset_link: "2021-03-02-study-romans1-1-7.mp3"
@@ -28,7 +30,18 @@ image:
   alt: "Source: Theologicus"
 ---
 
-## The Introduction
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
