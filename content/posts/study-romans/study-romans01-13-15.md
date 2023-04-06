@@ -11,9 +11,37 @@ series:
   - "Study: Romans"
 tocopen: true
 css: "prayers"
-draft: false 
+draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0517"
+duration: "0:34:07"
+date: 2021-05-17
+short_description: "Why was Paul restricted from going to and ministering in Rome? Not circumstances but God who is sovereign."
+mp3:
+    asset_link: "2021-05-17-study-romans1-13-15.mp3"
+    length: "49637178"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 

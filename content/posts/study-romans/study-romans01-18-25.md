@@ -12,8 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0607"
+duration: "0:30:42"
+date: 2021-06-07
+short_description: "And I wonder if some of us recoil at the thought of someone knowing us deeply because either a past sin that you don’t want to reveal or you are in the deep pit of sin right now. You must know that God knows all of that. All of it. Even that gross sin. Even at that sin you are trapped within right now. And God does not recoil. He comes to you and sits with you and calls you out. How do I know this? He sent His Son. He knows you cannot do this. He knows you cannot be perfect because He knew you in your sin and depravity. And then He sent His Son to live and die for you."
+mp3:
+    asset_link: "2021-06-07-study-romans1-18-25.mp3"
+    length: "44705051"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
