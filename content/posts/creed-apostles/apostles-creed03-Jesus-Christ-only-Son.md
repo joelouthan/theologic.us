@@ -2,8 +2,6 @@
 title: "What Do We Believe: Jesus Christ--His Only Son, Our Lord"
 author: Joseph Louthan
 publishDate: 2023-03-16
-episodes:
-  - "Apostles' Creed"
 categories:
   - Creeds
 tags:
@@ -14,6 +12,8 @@ tocopen: true
 css: "prayers"
 draft: false
 
+episodes:
+  - "Apostles' Creed"
 layout: episode
 eptype: full
 season: "2023"
