@@ -20,7 +20,6 @@ eptype: full
 season: "2021"
 number: "0303"
 duration: "0:32:14"
-date: 2021-03-03
 short_description: "God is worthy of all our praise and thanksgiving. God is alone is our witness. God alone empowers us for ministry. "
 mp3:
     asset_link: "2021-03-03-study-romans1_8-12.mp3"

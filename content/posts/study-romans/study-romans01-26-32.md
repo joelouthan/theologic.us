@@ -20,7 +20,6 @@ eptype: full
 season: "2021"
 number: "0614"
 duration: "0:41:19"
-date: 2021-06-14
 short_description: "I don't know what else Adam and Eve also thought and felt but I cannot imagine that Adam and Eve thought that their new death-life was going to get so bad that one of their sons would kill the other in a jealous rage. Cain was furious that his heartless worship to God did not please the Lord. Cain was so enraged that he had to kill his brother."
 mp3:
     asset_link: "2021-06-14-study-romans1-26-32.mp3"

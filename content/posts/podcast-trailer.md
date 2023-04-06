@@ -1,5 +1,5 @@
 ---
-title: 'Trailer: Theologicus'
+title: 'Theologicus, A Podcast'
 author: Joseph Louthan
 publishDate: 2021-02-26
 categories:
@@ -19,7 +19,6 @@ eptype: trailer
 season: "2021"
 number: "0001"
 duration: "0:06:36"
-date: 2021-02-26
 short_description: "Based on the writings at Theologicus, here are some daily devotions on the kindness and goodness of God."
 mp3:
     asset_link: "2021-06-01-trailer.mp3"
