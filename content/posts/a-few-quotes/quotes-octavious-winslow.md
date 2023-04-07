@@ -11,6 +11,16 @@ series:
 draft: false
 ---
 
+## On Good Friday
+
+Little did they dream, as they bound the fatal wood upon His shoulder, by whose power that tree was made to grow, and from whom the beings who bore Him to the death drew their existence. So completely was Jesus bent upon saving sinners by the sacrifice of Himself, He created the tree upon which He was to die, and nurtured from infancy the men who were to nail Him to the accursed wood. Oh the depth of Jesus's love to sinners!
+
+Octavius Winslow. The Foot of the Cross.
+
+So completely was Jesus bent upon saving sinners by the sacrifice of himself, he created the tree upon which he was to die, and nurtured from infancy the men who were to nail him to the accursed wood.
+
+Octavius Winslow.
+
 ## On the Fullness of Joy
 
 Oh close and blessed union! Justified by God, accepted in Christ, condemnation there cannot be. I stand in the Divine presence as Joshua stood before the Lord, or as the woman stood before the Savior, charged, accused, guilty; but I am in the presence of him who, though now he sits upon the throne as my Judge, once hung upon the cross as my Savior. And, investing me with his own spotless robe, he proceeds to pronounce the sentence- "NO CONDEMNATION!"
