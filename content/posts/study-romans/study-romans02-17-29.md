@@ -13,7 +13,6 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
-## The Introduction
 
 ## The Text
 
