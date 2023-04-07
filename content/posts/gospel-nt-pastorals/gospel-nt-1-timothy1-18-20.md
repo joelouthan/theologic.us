@@ -12,8 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Pastorals"
+layout: episode
+eptype: full
+season: "2021"
+number: "0519"
+duration: "0:43:49"
+short_description: "If you love the Lord your God, you are called to ministry. But we need to examine the intersection where faith and ministry actually meet. Through the Pastoral epistles, Paul is giving "these things" to Timothy and Titus. I need you command and teach these things. I don't want to get ahead because we will examine what Paul gave pastors and ministers in due time."
+mp3:
+    asset_link: "2021-05-19-gospel-1timothy1-18-20.mp3"
+    length: "63606001"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
