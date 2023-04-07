@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0705"
+duration: "0:28:47"
+short_description: "God is glorious. His glory is not dependent on anything we are, say, do or do not. God is simply glorious. He is not a mixture of holiness or love; of righteousness or mercy; or just or grace. He is not a complex mix of different moods or emotions on any given day or what we are doing or not doing. No! He is simply glorious."
+mp3:
+    asset_link: "2021-07-05-study-romans3-1-8.mp3"
+    length: "41941505"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
