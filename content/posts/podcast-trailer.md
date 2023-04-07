@@ -21,7 +21,7 @@ number: "0001"
 duration: "0:06:36"
 short_description: "Based on the writings at Theologicus, here are some daily devotions on the kindness and goodness of God."
 mp3:
-    asset_link: "2021-06-01-trailer.mp3"
+    asset_link: "2021-02-26-theologicus-trailer.mp3"
     length: "9998974"
 image: 
   url: images/apple-thor-logo-1600x.jpg
