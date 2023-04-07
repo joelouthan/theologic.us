@@ -12,8 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Pastorals"
+layout: episode
+eptype: full
+season: "2021"
+number: "0512"
+duration: "0:28:58"
+short_description: "But the tax collector, standing far off, would not even raise his eyes to heaven but kept striking his chest and saying, ‘God, have mercy on me, a sinner!’"
+mp3:
+    asset_link: "2021-05-12-gospel-1timothy1-12-17.mp3"
+    length: "42203565"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -32,6 +59,8 @@ draft: false
 >“But the tax collector, standing far off, would not even raise his eyes to heaven but kept striking his chest and saying, ‘God, have mercy on me, a sinner!’ I tell you, this one went down to his house justified rather than the other, because everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”
 
 ## The Gospel
+
+TODO:
 
 ## The Prayer
 
