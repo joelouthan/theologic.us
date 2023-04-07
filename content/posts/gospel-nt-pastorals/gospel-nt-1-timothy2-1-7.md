@@ -12,7 +12,36 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Pastorals"
+layout: episode
+eptype: full
+season: "2021"
+number: "0602"
+duration: "0:33:09"
+short_description: "The unbeliever and worthless man cannot go to God. Not until God changes that man. Only then can mankind know that they are in desperate need of the only Savior who is able, willing, and power to save them from the death and sin."
+mp3:
+    asset_link: "2021-06-02-gospel-1timothy2-1-7-trim.mp3"
+    length: "48236597"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 Just in previous chapter, Paul exhorts Timothy to remember the prophecies made about Timothy in order to keep the good fight--because apart from the grace of God, we are a plethora of tiny, micro decisions from shipwrecking our faith.
@@ -52,28 +81,28 @@ But Jesus tells us to have this mindset and attitude when approaching our Good F
 
 But guess what, you cannot "bug" nor "bother" the God of the universe whose Son actively in his mind actively holds together the molecules of the universe:
 
->Colossians 1:15-20 (CSB) He is the image of the invisible God,
-the firstborn over all creation.
-For everything was created by him,
-in heaven and on earth,
-the visible and the invisible,
-whether thrones or dominions
-or rulers or authorities —
-all things have been created through him and for him.
-He is before all things,
-and by him all things hold together.
-He is also the head of the body, the church;
-he is the beginning,
-the firstborn from the dead,
-so that he might come to have
-first place in everything.
-For God was pleased to have
-all his fullness dwell in him,
-and through him to reconcile
-everything to himself,
-whether things on earth or things in heaven,
-by making peace
-through his blood, shed on the cross.
+>Colossians 1:15-20 (CSB) He is the image of the invisible God,  
+>the firstborn over all creation.  
+>For everything was created by him,  
+>in heaven and on earth,  
+>the visible and the invisible,  
+>whether thrones or dominions  
+>or rulers or authorities —  
+>all things have been created through him and for him.  
+>He is before all things,  
+>and by him all things hold together.  
+>He is also the head of the body, the church;  
+>he is the beginning,  
+>the firstborn from the dead,  
+>so that he might come to have  
+>first place in everything.  
+>For God was pleased to have  
+>all his fullness dwell in him,  
+>and through him to reconcile  
+>everything to himself,  
+>whether things on earth or things in heaven,  
+>by making peace  
+>through his blood, shed on the cross.
 
 ... the same God of the universe who infinitely does everything and all infinite things all at the same time from past to present to future at all times infinitely and maxed out good and perfect. If he does that, does he not devote his undivided attention to you?
 
