@@ -12,7 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0723"
+duration: "0:07:43"
+short_description: "If we come to God, pray to God, ask God for God, he will always, completely, perfectly give us Himself. No exception."
+mp3:
+    asset_link: "2021-07-23-devotions-mark1-40-45.mp3"
+    length: "11608326"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
