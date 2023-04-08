@@ -11,8 +11,36 @@ series:
   - 'Devotions: Mark'
 css: "prayers"
 showtoc: true
+
 draft: false
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0604"
+duration: "0:14:56"
+short_description: "The Father, Son, and Spirit communicate perfectly, know perfectly, love perfectly, and therefore have one perfect will. They never have to argue, fight, or disagree. They can certainly discuss anything (and Father and Son do) but they all want the same thing and want the same way to get to that same thing. This is most evident by the cross of Christ."
+mp3:
+    asset_link: "2021-06-04-devotions-mark1-9-11.mp3"
+    length: "21994194"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
