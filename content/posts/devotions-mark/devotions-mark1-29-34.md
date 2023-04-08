@@ -12,7 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0709"
+duration: "0:21:33"
+short_description: "Were our bodies suppose to get hurt? Were we suppose to get sick? Why do we get sick? Why do we get bad dreams? Why does our tummies hurt?"
+mp3:
+    asset_link: "2021-07-09-devotions-mark1-29-34.mp3"
+    length: "31531186"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -51,7 +79,7 @@ draft: false
   
 >Mark 1:32-34 (CSB) When evening came, after the sun had set, they brought to him all those who were sick and demon-possessed. The whole town was assembled at the door, and he healed many who were sick with various diseases and drove out many demons. And he would not permit the demons to speak, because they knew him.
 
-All healing is God alone
+All healing is God alone.
 
 ### If you are healed when you take medicine, where did the medicine come from?
 
