@@ -12,7 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0514"
+duration: "0:18:02"
+short_description: "John was special in that he was the last prophet before the coming of Christ. But he was no more special than any believer in the Bible that is called to point our words, actions and our lives back to Christ."
+mp3:
+    asset_link: "2021-05-14-devotions-mark1-2-6.mp3"
+    length: "26471163"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
