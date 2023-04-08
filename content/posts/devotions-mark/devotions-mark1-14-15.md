@@ -12,7 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0618"
+duration: "0:21:23"
+short_description: "Because Christ has arrived, the kingdom of God has arrived. Because Christ proclaimed the gospel of God, the kingdom of God is at hand."
+mp3:
+    asset_link: "2021-06-18-devotions-mark1-14-15.mp3"
+    length: "31296084"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -24,7 +52,7 @@ When you read the other gospels, such as Matthew, you will get more of John the 
 
 Yet, when John was done with paving the way for Christ, and then Christ started ministering--only with the fullness of the Holy Spirit.
 
-Because Christ has arrived, the kingdom of God has arrived. In other words, when Christ started his ministry, that was the start of the kingdom of God.
+Because Christ has arrived, the kingdom of God has arrived. Because Christ proclaimed the gospel of God, the kingdom of God is at hand.
 
 >Matthew 16:13-20 (CSB) When Jesus came to the region of Caesarea Philippi, he asked his disciples, “Who do people say that the Son of Man is?”
 >
