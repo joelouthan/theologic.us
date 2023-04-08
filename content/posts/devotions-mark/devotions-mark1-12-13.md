@@ -12,7 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0611"
+duration: "0:24:17"
+short_description: "Is Jesus human? Is Jesus God? Is Jesus Son of God? Answer. Yes. Jesus is fully God and fully human and fully Son of God."
+mp3:
+    asset_link: "2021-06-11-devotions-mark1-12-13.mp3"
+    length: "35479647"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
