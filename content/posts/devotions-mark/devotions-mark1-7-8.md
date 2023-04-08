@@ -12,7 +12,35 @@ series:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0521"
+duration: "0:21:12"
+short_description: "Does being baptized mean you are saved? Some churches say, "Yes!" But baptism is not a guarantee of what is going on in the heart but rather, bearing witness to what God has done in us."
+mp3:
+    asset_link: "2021-05-21-devotions-mark1-7-8.mp3"
+    length: "31031516"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -24,11 +52,11 @@ There are things we do in the church that are so important and so sacred. They a
 
 Communion is something that our church does every week. But do all people in the church take communion? No. Only those who believe, trust, and obey Jesus Christ as their God and Savior.
 
-Likewise, does everybody in the church end up being baptized? No. Look at what Paul writes in Romans 6 about what it means to be baptized:
+Likewise, does being baptized mean you are saved? Some churches say, "Yes!" But baptism is not a guarantee of what is going on in the heart but rather, bearing witness to what God has done in us. Look at what Paul writes in Romans 6 about what it means to be baptized:
 
 >Romans 6:1-5 (CSB) What should we say then? Should we continue in sin so that grace may multiply? Absolutely not! How can we who died to sin still live in it? Or are you unaware that all of us who were baptized into Christ Jesus were baptized into his death? Therefore we were buried with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, so we too may walk in newness of life. For if we have been united with him in the likeness of his death, we will certainly also be in the likeness of his resurrection.
 
-To put your faith, trust, belief, and obedience into Christ means that all of yours sins--past, present, future--are placed on the death of Jesus Christ on the cross. When Jesus was then buried in the tomb, he took those sins with him.
+Being saved by God is what God has done for you and in you. To put your faith, trust, belief, and obedience into Christ means that all of yours sins--past, present, future--are placed on the death of Jesus Christ on the cross. When Jesus was then buried in the tomb, he took those sins with him.
 
 >Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
