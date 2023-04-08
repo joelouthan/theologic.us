@@ -8,11 +8,39 @@ categories:
 tags:
   - Mark
 series:
-  - 'Devotions: Mark'
+  - "Devotions: Mark"
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0507"
+duration: "0:23:45"
+short_description: "What we will see in Mark is basically little bitty tightly wounded passages that speak of all that God has done. Now, if you have read any part of the Old Testament, these little passages in Mark are merely the OT in bite size chicken nuggets, except they are much more tasty and actually good for you. In other words, you are going to see these little passages of what Jesus did with his life, death, resurrection, and ascension was solidifying what God did in the OT."
+mp3:
+    asset_link: "2021-05-07-devotions-mark1-1.mp3"
+    length: "34694719"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -49,7 +77,7 @@ This is the good news—that God has done everything to save His people to Himse
 
 The real question is:
 
-`Do you want in on the fun? Do you wanna come play and be in continuous awe, wonder, joy and love of His glory? Come on. Let's go!`
+`Do you want in on the fun? Do you wanna come play and be in continuous awe, wonder, joy and love of His glory? Come on. Let"s go!`
 
 ### Jesus Christ
 
@@ -87,7 +115,7 @@ If you believe and trust in Him, what He said, what His Son did, then yes, you a
 
 <p style="clear:both;">
 
-<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin"s Commentaries.  
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
@@ -116,7 +144,7 @@ Baker. 1981.
 
 <img src="/images/resources/commentary-mark-lane.jpg" align="left" width="150" style="padding-right: 10px" />The Gospel according to Mark: The English Text With Introduction, Exposition, and Notes (The New International Commentary on the New Testament)  
 by William L. Lane.  
-Eerdman's. 1974.  
+Eerdman"s. 1974.  
 [Goodreads](https://www.goodreads.com/book/show/978619.The_Gospel_of_Mark?from_search=true&from_srp=true&qid=UOUMUiJ7z4&rank=2)
 
 <p style="clear:both;">
