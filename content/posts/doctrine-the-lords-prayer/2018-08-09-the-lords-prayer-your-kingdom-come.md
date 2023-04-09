@@ -11,8 +11,35 @@ series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
 css: "prayers"
-draft: false
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0629"
+duration: "0:26:46"
+short_description: "Christ, the Passion Week, has broken Satan, demons, sin, hell, and death. His kingdom is now."
+mp3:
+    asset_link: "2021-06-29-doctrine-prayer-matthew-16.mp3"
+    length: "39048182"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
