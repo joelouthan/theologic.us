@@ -11,8 +11,35 @@ series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
 css: "prayers"
-draft: false
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0706"
+duration: "0:14:25"
+short_description: "For the good and bad influence that Charles Finney has on today's Christians, this much is certain: there are many of our brothers and sisters who adamantly believe if you prayed hard enough, prayed long enough, believed hard enough, did the right things, and have enough faith, that you could change the mind of God and get God to do your will. Yet, that is not how prayer works according to the Son of God."
+mp3:
+    asset_link: "2021-07-06-doctrine-prayer-ephesians1-11-14.mp3"
+    length: "21250644"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
@@ -26,14 +53,14 @@ draft: false
 
 ### This is not making God do what we want him to do
 
-19th Century American Evangelist Charles Finney has been through a few doctrines in his lifetime--like any Christian who has seriously thought through the Bible. Now, depending on how well you pay attention in church, this might not be the first time hearing his name. In mentioning in his name, I usually gets two polarizing responses:
+19th Century American Evangelist Charles Finney studied a few doctrines in his lifetime--like any Christian who has seriously thought through the Bible. Now, depending on how well you pay attention in church, this might not be the first time hearing his name. In mentioning in his name, I usually gets two polarizing responses:
 
 - **"Greatest Christian since Paul"** mostly from more big movements within 20th century Evangelicalism and definitely, within the non-denomination megachurches and places like Bethel
 - **"The worst heretic since Judas and is a poison to all of Evangelicalism"** - Those statements usually come from more orthodox camps
 
 I have heard both opinions and yes, my own opinions tend to land on one side. My opinions on the man is not important. For a more excellent summary on the ministry of Charles Finney, check out chapter 2 from Iain Murray's book on revival, "[Pentecost Today?](https://amzn.to/3ywEDLc)".
 
-For the good and bad influence that Finney has on today's Christians, this much is certain: there are many of our brothers and sisters who adamantly believe if you prayed hard enough, prayed long enough, believed hard enough, did the right things, and have enough faith, that you could change the mind of God and get God to do your will. 
+For the good and bad influence that Charles Finney has on today's Christians, this much is certain: there are many of our brothers and sisters who adamantly believe if you prayed hard enough, prayed long enough, believed hard enough, did the right things, and have enough faith, that you could change the mind of God and get God to do your will.
 
 Now, let me be fair: defenders of this belief would not claim to thwart the will of God. But ultimately, that is what you end up trying to do. Why is that so damaging is not because it is a feeble attempt at changing the will of God but because it assumes you are in control, which ultimately ends in the sin of witchcraft. Beyond that and more importantly, that is the very definition of legalism--the same back breaking yoke that Jesus Christ came to remove. In other words, let me do the right things in order to get the blessings of God that I want.
 
