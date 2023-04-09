@@ -11,8 +11,42 @@ series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
 css: "prayers"
-draft: false
+
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0720"
+duration: "0:21:58"
+short_description: "God knows what we need before we ask. He is our good Father in heaven. He provides for the birds in the air and the flowers in the field. How are we any less?
+
+He knows that we need food and water and housing.
+
+But that is to survive for the day.
+
+What about to live forever and never die?"
+mp3:
+    asset_link: "2021-07-20-doctrine-prayer-john6.mp3"
+    length: "32135555"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
