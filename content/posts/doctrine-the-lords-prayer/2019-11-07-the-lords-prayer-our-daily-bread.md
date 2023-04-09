@@ -12,7 +12,6 @@ series:
 showtoc: true
 css: "prayers"
 
-
 episodes:
   - "The Lord's Prayer"
 layout: episode
