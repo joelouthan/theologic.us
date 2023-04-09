@@ -11,8 +11,35 @@ series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
 css: "prayers"
-draft: false
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0622"
+duration: "0:24:38"
+short_description: "God is holy. And because of Christ, we are holy."
+mp3:
+    asset_link: "2021-06-22-doctrine-prayer-isaiah-6.mp3"
+    length: "35981825"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
