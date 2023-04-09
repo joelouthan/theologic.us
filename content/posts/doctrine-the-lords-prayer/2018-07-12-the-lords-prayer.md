@@ -20,7 +20,7 @@ eptype: full
 season: "2021"
 number: "0601"
 duration: "0:25:43"
-short_description: "TODO:"
+short_description: "It does not matter how eloquent or loud or wordy your prayers might be. They are your words to God's ears. Think about that."
 mp3:
     asset_link: "2021-06-01-doctrine-prayer-matt6.mp3"
     length: "37525348"
