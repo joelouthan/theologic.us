@@ -11,8 +11,36 @@ series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
 css: "prayers"
-draft: false
+
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0608"
+duration: "0:40:46"
+short_description: "In praying as Christ has instructed us, we must believe and trust in God. How do you do that? First, God has to do the work in order for you to believe and trust in him."
+mp3:
+    asset_link: "2021-06-08-doctrine-prayer-ezekiel11-19-20.mp3"
+    length: "59214295"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
