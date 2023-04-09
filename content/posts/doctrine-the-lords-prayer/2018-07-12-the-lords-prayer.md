@@ -12,7 +12,35 @@ series:
 showtoc: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0601"
+duration: "0:25:43"
+short_description: "TODO:"
+mp3:
+    asset_link: "2021-06-01-doctrine-prayer-matt6.mp3"
+    length: "37525348"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
