@@ -11,8 +11,35 @@ series:
   - "Praying Through: The Lord's Prayer"
 showtoc: true
 css: "prayers"
-draft: false
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0803"
+duration: "0:28:10"
+short_description: "All sin is evil because it is treason against God who is good and holy. And there is sin so destructive that it will kill you immediately. But sin is chaotic in this way--if you continue down that path, it will consume you and leave you for dead."
+mp3:
+    asset_link: "2021-08-03-doctrine-prayer-james1-13-15.mp3"
+    length: "41063791"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## Pray Then Like This
 
