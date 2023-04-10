@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0927"
+duration: "0:32:51"
+short_description: "We see what God is willing to do to save each of his children. It is hard work and the cost was so great--starting with the death of his Son Jesus Christ. But if you think that is the end of it--you don't know squat. In fact, if I can contend for this point: this is where the real work begins. Slow. Painful. Methodical. Refinement by fire. Brought low. Walking with God. Conforming to the image of His Son. It ain't easy. But it wasn't fast nor cheap to begin with."
+mp3:
+    asset_link: "2021-09-27-study-romans7-14-25.mp3"
+    length: "47811533"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 The chaptering of Romans is a little bit off. I am not saying I could have done a better job--I definitely could not. But Romans 6-7:7 seems to be grouped together and I taught it as so:
@@ -27,7 +56,7 @@ But if you think that is the end of it--the moment that God called you and gave 
 
 In fact, if I can contend for this point: this is where the real work begins. Slow. Painful. Methodical. Refinement by fire. Brought low. Walking with God. Conforming to the image of His Son.
 
-It ain't easy. But it was fast nor cheap to begin with.
+It ain't easy. But it wasn't fast nor cheap to begin with.
 
 In last week's teaching on Romans 7:7-13, we that once God dwells in you, starts to work in you. You are now in forever open heart surgery: God is the surgeon and his law is the scalpel and you are going to be fully alive during the entire ordeal.
 
