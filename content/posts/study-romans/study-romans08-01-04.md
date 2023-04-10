@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "1004"
+duration: "0:34:16"
+short_description: "'Now, by the sacrifice of Christ all the sins of the Church are entirely put away. He, the sinless Lamb of God, took them up and bore them away into a land of oblivion, whence even the Divine mind fails to recall them.' Octavius Winslow"
+mp3:
+    asset_link: "2021-10-04-study-romans8-1-4.mp3"
+    length: "49845949"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 >>Now, by the sacrifice of Christ all the sins of the Church are entirely put away. He, the sinless Lamb of God, took them up and bore them away into a land of oblivion, whence even the Divine mind fails to recall them.
