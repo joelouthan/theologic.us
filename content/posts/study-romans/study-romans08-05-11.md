@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "1010"
+duration: "0:18:30"
+short_description: "You can think or contend or go easy and say, 'All paths lead to God.' To which I would absolutely agree. All paths do lead to God but only one path is under the protection of the Lord Jesus Christ."
+mp3:
+    asset_link: "2021-10-10-study-romans8-5-11.mp3"
+    length: "27152019"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
