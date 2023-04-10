@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2022"
+number: "0110"
+duration: "0:13:04"
+short_description: "So let’s suppose that we find ourselves in the same shoes as Paul. We see our sin and we even try to wrestle it and overcome it and try to choke the life out of it but we all know that our strength is neither perfect nor mighty. It wanes day to day and even moment to moment. We are not as strong as the Almighty Savior who counted it as all joy to ascend to the cross and hand over his life as a ransom for many. What shall we do? Do we give up hope? Do we scream out “Forget this! This is too much for me to handle. I will never succeed! Why even try?”"
+mp3:
+    asset_link: "2022-01-10-study-romans8-26.mp3"
+    length: "19309642"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 When coming to the full acknowledgment of the pain and anguish of sin that he seems to never be able to overcome, Paul cries the same incredible prayer in the same spirit as the tax collector in the synagogue:
