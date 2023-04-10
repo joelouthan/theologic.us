@@ -12,7 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0628"
+duration: "31:15"
+short_description: "Again, we can pick and choose what Bible verses we like, and because they require such little effort on our parts, we obey them because they are easy. But our ignorance of the word does not exempt us from judgment."
+mp3:
+    asset_link: "2021-06-28-study-romans-2-17-29.mp3"
+    length: "45015793"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -85,7 +113,7 @@ And to our little sinful hearts who maybe bent to do the bare minimum, that kind
 
 ## God
 
-God is perfect. Perfect is a over-used term in the English language because we tend to use it subjectively, that is, based on opinion, rather than objectivel, that is, based on absolute truth.
+God is perfect. Perfect is a over-used term in the English language because we tend to use it subjectively, that is, based on opinion, rather than objectively, that is, based on absolute truth.
 
 Mankind is not perfect. And because of our fall into sin, God gives us his holy law to show just how far we are from sin:
 
