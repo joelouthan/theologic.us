@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0920"
+duration: "0:31:37"
+short_description: "Let me state the obvious: you cannot be a believer and a non-believer at the same time. You cannot be a Christian and an heathen at the same time. You cannot claim that the Lord is your God and King and you continue to slander, gossip, steal, kill, dabble in sexual immorality, or disclaim a sin not a sin and go on with little remorse. You cannot be an unrepentant Christian."
+mp3:
+    asset_link: "2021-09-20-study-romans7-7-13.mp3"
+    length: "46020996"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 I think one of the most remarkable things that God, through his word, teaches us two things:
 
