@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0725"
+duration: "0:33:04"
+short_description: "Nowhere in the Bible did God promise a easy life. He did promise suffering--mostly because you are called to be holy in a fallen world."
+mp3:
+    asset_link: "2021-07-25-study-romans4-6-12.mp3"
+    length: "48118106"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
