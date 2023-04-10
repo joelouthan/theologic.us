@@ -12,6 +12,36 @@ series:
 showtoc: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "The Lord's Prayer"
+layout: episode
+eptype: full
+season: "2021"
+number: "0615"
+duration: "36:10"
+short_description: "So this teaching in prayer is assuming that you do believe and trust in the Holy One of God. Otherwise, your prayers are nothing but babble."
+mp3:
+    asset_link: "20210615-doctrine-romans8-14-17.mp3"
+    length: "52077632"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
+---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ---
 
 ## Pray Then Like This
