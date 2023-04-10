@@ -12,12 +12,41 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "1018"
+duration: "0:18:30"
+short_description: "If Jesus was obedient, even unto death on the cross, to become our sin by the power of the Holy Spirit, how do you think we are suppose to be killing off sin?  Understand, this is not out of your own sincerity and strength but Christ in you and the Spirit in you. And if we are to understand Jesus' own declaration, then that would Father dwells in you as well."
+mp3:
+    asset_link: "2021-10-18-study-romans8-12-13.mp3"
+    length: "59950321"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
+## The Introduction
+
 If Jesus was obedient, even unto death on the cross, to become our sin by the power of the Holy Spirit, how do you think we are suppose to be killing off sin?
 
 In other words, if the mighty men of David had to continue slaying giants in the land, what do you think the brothers and sisters are Christ are called to do with their sin?
-
-## The Introduction
 
 So through prayer and reading the word, I pray that you are working out your own salvation with an actual fear, reverence, awe, worship, and love for our great King.
 
