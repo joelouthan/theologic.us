@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0816"
+duration: "0:21:11"
+short_description: "Christ did not wait for you to clean up your act and choose you. Christ was mindful of you before the foundations of the world were in place. He was mindful of you--saw your wickedness, depravity, sinfulness, and rebellion--and loved you. God loved and desired you so much that the Father and the Son decided to rescue you. The Son went out to rescue his bride--but he will need the fullness of the Spirit to do so."
+mp3:
+    asset_link: "2021-08-16-study-romans5-6-11.mp3"
+    length: "31008319"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
