@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "1227"
+duration: "0:26:40"
+short_description: "God is the only one with all power. His judgment is right and just and falls on the wicked, depravity, evilness, sin and treasonous on this land. But Christ calls and commands you and me to give over the only thing you have, your sin, so that he can give you his seal, his mark, his righteousness, his love, his Spirit, and his Father."
+mp3:
+    asset_link: "2021-12-27-study-romans8-18-25.mp3"
+    length: "38889567"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 The last time we were in Romans, we examined that if we are in Christ, who will bear witness for us in the sight of God.
