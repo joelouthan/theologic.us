@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Romans"
+layout: episode
+eptype: full
+season: "2021"
+number: "0913"
+duration: "0:26:55"
+short_description: "License. Amoral. Immoral. Depravity. What it is, straight up, is sin. Wickedness. Evilness. Treasonous acts against the only Holy One of God. And isn't that the titanic grip of sin on our lives? It has a crushing grasp of our hearts and minds to the point where you will start believing the snares and traps of the enemy."
+mp3:
+    asset_link: "2021-09-13-study-romans7-1-6.mp3"
+    length: "39258834"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 Licentiousness - I am not going to use this word too often because mostly I cannot say it well enough to use it often.
 
@@ -23,7 +50,7 @@ It will kill you and it doesn't work.
 
 When we get to chapter 5, after Paul lets you know where you are at in Christ and who gets credit for your salvation (hint: it's not you), Paul must answer the flip side of the coin of righteousness and holiness and salvation. We can call it the flip side, the ditch on the other side of the narrow path through the narrow gate: licentiousness.
 
-License. Amoral. Immoral. Depravity. What it is straight up is sin. Wickedness. Evilness. Treasonous acts against the only Holy One of God.
+License. Amoral. Immoral. Depravity. What it is, straight up, is sin. Wickedness. Evilness. Treasonous acts against the only Holy One of God.
 
 And isn't that the titanic grip of sin on our lives? It has a crushing grasp of our hearts and minds to the point where you will start believing the snares and traps of the enemy:
 
