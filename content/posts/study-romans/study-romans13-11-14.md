@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 13:11-14 Ours to Do: Be Holy"
+title: "Study: Romans 13:11-14 Ours to Do: Behold Your God!"
 author: Joseph Louthan
 publishDate: 2023-05-15
 categories:
