@@ -54,7 +54,7 @@ ___
 
 I don't have a personal insightful recommendation on the following. I just wanted to have a stack of resources that I can check by and draw from if I need to.
 
-<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries  
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)

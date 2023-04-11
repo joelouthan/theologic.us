@@ -24,7 +24,7 @@ Here just the very small list of resources on Genesis that I have found most hel
 
 ## It Goes Without Say
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="200" style="padding-right: 10px" />The Holy Bible](https://amzn.to/3FbGqbM)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/91DXb+atXsL.jpg" align="left" width="100" style="padding-right: 10px" />The Holy Bible](https://amzn.to/3FbGqbM)
 
 Many times, many teachers, preachers, and small group leaders (myself included) will "cut straight to the chase" and engage the commentary instead of engaging the Word of God. Remember, the commentaries are not without error—they are the observations of the author.
 
@@ -37,7 +37,7 @@ ___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="200" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)
 Crossway. 2016.
 
 Incredible resource.

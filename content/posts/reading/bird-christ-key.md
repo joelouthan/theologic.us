@@ -18,7 +18,7 @@ draft: true
 
 <p style="clear:both;">
 
-<img src="https://theologic.us/images/resources/book-bird-christ-key.jpg" align="left" width="200" style="padding-right: 10px" />  
+<img src="https://theologic.us/images/resources/book-bird-christ-key.jpg" align="left" width="100" style="padding-right: 10px" />  
 by Chad Bird.  
 1517 Publishing. July 20, 2021.  
 [Goodreads](https://www.goodreads.com/book/show/58373755-the-christ-key)

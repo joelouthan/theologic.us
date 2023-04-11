@@ -18,7 +18,7 @@ draft: true
 
 <p style="clear:both;">
 
-<img src="https://theologic.us/images/resources/book-trueman-creedal-imperative.jpg" align="left" width="200" style="padding-right: 10px" />  
+<img src="https://theologic.us/images/resources/book-trueman-creedal-imperative.jpg" align="left" width="100" style="padding-right: 10px" />  
 by Carl Trueman.  
 Crossway. September 2012.  
 [Goodreads](https://www.goodreads.com/book/show/14452976-the-creedal-imperative)

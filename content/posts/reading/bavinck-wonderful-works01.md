@@ -18,7 +18,7 @@ draft: true
 
 <p style="clear:both;">
 
-<img src="https://theologic.us/images/resources/book-bavinck-wonderful-works.jpg" align="left" width="200" style="padding-right: 10px" />  
+<img src="https://theologic.us/images/resources/book-bavinck-wonderful-works.jpg" align="left" width="100" style="padding-right: 10px" />  
 by Herman Bavinck.  
 Westminster Seminary Press. December 1, 2019.  
 [Goodreads](https://www.goodreads.com/book/show/49092754-the-wonderful-works-of-god)

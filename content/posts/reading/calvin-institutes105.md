@@ -57,7 +57,7 @@ Hence that immense flood of error with which the whole world is overflowed. Ever
 
 <p style="clear:both;">
 
-<img src="https://theologic.us/images/resources/book-calvin-beveridge-institutes.jpg" align="left" width="200" style="padding-right: 10px" />The Institutes of the Christian Religion.  
+<img src="https://theologic.us/images/resources/book-calvin-beveridge-institutes.jpg" align="left" width="100" style="padding-right: 10px" />The Institutes of the Christian Religion.  
 by John Calvin.  Translated by Henry Beveridge  
 Hendrickson Publishers. January 1, 2008.  
 [Goodreads](https://www.goodreads.com/book/show/1155340.Institutes_of_the_Christian_Religion)

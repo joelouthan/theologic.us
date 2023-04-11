@@ -111,7 +111,7 @@ And He never stops thinking about you because He loves you.
 
 <p style="clear:both;">
 
-<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)

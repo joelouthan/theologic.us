@@ -180,7 +180,7 @@ Praise be to God. He has it all figured out. Just be in him and worship him toda
 
 <p style="clear:both;">
 
-<img src="https://theologic.us/images/resources/book-calvin-beveridge-institutes.jpg" align="left" width="200" style="padding-right: 10px" />The Institutes of the Christian Religion.  
+<img src="https://theologic.us/images/resources/book-calvin-beveridge-institutes.jpg" align="left" width="100" style="padding-right: 10px" />The Institutes of the Christian Religion.  
 by John Calvin.  Translated by Henry Beveridge  
 Hendrickson Publishers. January 1, 2008.  
 [Goodreads](https://www.goodreads.com/book/show/1155340.Institutes_of_the_Christian_Religion)
@@ -189,7 +189,7 @@ Hendrickson Publishers. January 1, 2008.
 
 ---
 
-<img src="https://theologic.us/images/resources/bible-esv-reformation-study-sproul.jpg" align="left" width="200" style="padding-right: 10px" />ESV Reformation Study Bible  
+<img src="https://theologic.us/images/resources/bible-esv-reformation-study-sproul.jpg" align="left" width="100" style="padding-right: 10px" />ESV Reformation Study Bible  
 Commentary & Edited by R.C. Sproul.  
 Ligonier Ministries. March 16, 2015.  
 [Goodreads](https://www.goodreads.com/book/show/53529503-esv-reformation-study-bible?ac=1&from_search=true&qid=KXDsGlDfkm&rank=1)
@@ -197,7 +197,7 @@ Ligonier Ministries. March 16, 2015.
 <p style="clear:both;">
 
 ---
-<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)

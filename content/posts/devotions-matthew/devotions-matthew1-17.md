@@ -77,7 +77,7 @@ Yet Christ is our God!
 
 <p style="clear:both;">
 
-<img src="/images/resources/commentary-calvin-set.png" align="left" width="200" style="padding-right: 10px" />Calvin's Commentaries.  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
@@ -95,7 +95,7 @@ Ligonier Ministries. October 29, 2019.
 
 ---
 
-<img src="/images/resources/commentary-esv-expository-set.jpg" align="left" width="200" style="padding-right: 10px" />ESV Expository Commentary: Matthew–Luke (Volume 8)  
+<img src="/images/resources/commentary-esv-expository-set.jpg" align="left" width="100" style="padding-right: 10px" />ESV Expository Commentary: Matthew–Luke (Volume 8)  
 Dan Doriani (Author)  
 Iain M. Duguid, James M. Hamilton Jr., & Jay Sklar (Editors)  
 Crossway. September 7, 2021.  
