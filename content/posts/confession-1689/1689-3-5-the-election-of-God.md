@@ -22,25 +22,37 @@ draft: false
 Those of mankind that are predestinated to life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ unto everlasting glory, out of his mere free grace and love, without any other thing in the creature as a condition or cause moving him thereunto.
 ```
 
->Ephesians 1:4–11 (CSB) For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding. He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him. In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
-
->Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
-
->2 Timothy 1:9 (CSB) He has saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before time began.
-
->1 Thessalonians 5:9 (CSB) For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ,
-
->Romans 9:13 (CSB) As it is written: I have loved Jacob, but I have hated Esau.
-
->Romans 9:16 (CSB) So then, it does not depend on human will or effort but on God who shows mercy.
-
->Ephesians 2:5–12 (CSB) made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do. So, then, remember that at one time you were Gentiles in the flesh—called “the uncircumcised” by those called “the circumcised,” which is done in the flesh by human hands. At that time you were without Christ, excluded from the citizenship of Israel, and foreigners to the covenants of promise, without hope and without God in the world.
-
 <div style="page-break-after: always;"></div>
 
 ## The Confession
 
-### 
+### Those of mankind that are predestinated to life, God, before the foundation of the world was laid
+
+>Ephesians 1:3–12 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding. He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time—to bring everything together in Christ, both things in heaven and things on earth in him. In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will, so that we who had already put our hope in Christ might bring praise to his glory.
+
+### according to his eternal and immutable purpose
+
+>Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+### and the secret counsel and good pleasure of his will
+
+>2 Timothy 1:9 (CSB) He has saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before time began.
+
+### hath chosen in Christ unto everlasting glory
+
+>1 Thessalonians 5:9 (CSB) For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ,
+
+### out of his mere free grace and love
+
+>Romans 9:13 (CSB) As it is written: I have loved Jacob, but I have hated Esau.
+
+### without any other thing in the creature as a condition or cause moving him thereunto.
+
+>Romans 9:16 (CSB) So then, it does not depend on human will or effort but on God who shows mercy.
+
+### cause moving him thereunto.
+
+>Ephesians 2:1-13 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift — not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do. So, then, remember that at one time you were Gentiles in the flesh — called “the uncircumcised” by those called “the circumcised,” which is done in the flesh by human hands. At that time you were without Christ, excluded from the citizenship of Israel, and foreigners to the covenants of promise, without hope and without God in the world. But now in Christ Jesus, you who were far away have been brought near by the blood of Christ.
 
 ## The Resources
 
