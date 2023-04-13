@@ -12,8 +12,9 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
-2023-04-13
 ## The Text
+
+>Ephesians 1:3–6 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
 
 <div style="page-break-after: always;"></div>
 
@@ -31,9 +32,39 @@ God hath decreed in himself, from all eternity, by the most wise and holy counse
 
 >Isaiah 46:10 (CSB) I declare the end from the beginning, and from long ago what is not yet done, saying: my plan will take place, and I will do all my will.
 
+It is one thing to read and observe the attributes of God which are just found in the previous chapter of the 1689 confession. And not to make little of who God is, the question begs, "So what?" In other words, God is a being of all power, all knowing and wisdom, and ever present everywhere.
+
+What does a being like that do?
+
+Throughout the history of mankind, we have told stories: legends, folklore, mythos, tall tales, comics, video games and literature. Some are historical. Some are dramatized. Some are exaggerated in order to tell the tale.
+
+You could, with unopened eyes and unrenewed mind, read the Bible and read about God and chalk it up as though it as another grand work of fiction, not unlike The Illiad, The Lord of the Rings or the X-Men. God of the Bible seems so fantastic that then how could the Bible be real. How could God of the Bible be so real?
+
+When you know of the Bible, the descriptions of who God is written and communicated by himself, then you know not only who God is but what he does.
+
+From the jump, we know that **God hath decreed in himself from all eternity**.
+
+**In himself** is to simply state that God has not sought the counsel of another being, another time, another space, and another existence. From eternity to eternity, he has always been God and whatever he decrees to do, he has made the decision from within himself.
+
+>Romans 5:8 (CSB) But God proves his own love for us in that while we were still sinners, Christ died for us.
+
+When I have preached and taught this text, I have often said, "God has looked down the corridors and time and space, saw that you were not obeying him, you were sinning against him, that you were trespassing against him and you were running away from him. He saw that and sent his Son Jesus Christ to save you."
+
+That is absolutely and wonderfully true. But I want to be a tad more careful. I don't want to give the impression that something that mankind does makes God do something. That is borders on paganism. But the fact is that we are created by God and we have fallen away from God. God is not a reactionary god as though he is the ambulance that comes and rescues us. But before we could sin, God had already determined he was going to create you, love you, and rescue you through his only begotten Son, the Lord Jesus Christ.
+
 ### by the most wise and holy counsel of his own will
 
 >Ephesians 1:11 (CSB) In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
+
+From within God, there is not nothing. Where as we are made up of parts of our personality, will, intelligence, wisdom, knowledge, and emotions, God is simply all things that he is include all holy and all wisdom. For:
+
+>Job 9:4 (CSB) God is wise and all-powerful. Who has opposed him and come out unharmed?
+
+And:
+
+>Isaiah 6:3 (CSB) And one called to another: Holy, holy, holy is the LORD of Armies; his glory fills the whole earth.
+
+TODO: Thanos and the power of the will
 
 ### freely and unchangeably
 
@@ -65,7 +96,7 @@ God hath decreed in himself, from all eternity, by the most wise and holy counse
 
 ### and power and faithfulness in accomplishing his decree.
 
->Ephesians 1:3–5 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
+>Ephesians 1:3–6 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
 
 ## The Resources
 
