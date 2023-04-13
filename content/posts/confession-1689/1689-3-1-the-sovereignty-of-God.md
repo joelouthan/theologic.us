@@ -102,7 +102,7 @@ But God, in everything he has and will do, he has the will to do it because he i
 
 And herein lies the rub: we are not free to do as we please. And when the Almighty God, who possesses all power and strength, does something that we don't want to do or one step further, does something that interferes with our little lives, we become upset. We become upset that we can't do as we please and we are limited by sin at all times.
 
-God, in his compassion and mercy, willfully saved us from our sins. The book of Exodus summed up in the 9th chapter of Romans demonstrates one thing clear: God is not above building up an empire and a king and bring it low unto death so that his people are saved to the glory of his name.
+God, in his compassion and mercy, willfully saved us from our sins. The book of Exodus summed up in the 9th chapter of Romans demonstrates one thing clear: God is not above building up an empire and a king and bringing it low unto death so that his people are saved to the glory of his name.
 
 What did these particular set of people of do?
 
@@ -132,15 +132,59 @@ And whatever freedoms and rights we possessed as humans were never violated.
 
 >Romans 1:21–25 (CSB) For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. Claiming to be wise, they became fools and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles. Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves. They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen.
 
-God does not violate our sinful selves. TODO:
+God does not violate our sinful selfs nor our sinful wills that longs to suppress the truth that is a God. He simply gives some over to what exactly what we want.
+
+That is what he did with Pharaoh. That is what he did with Esau. That is what he did with Judas Iscariot. That is what he does for every child of destruction.
 
 ### but rather established; in which appears his wisdom in disposing all things
 
 >Numbers 23:19 (CSB) God is not a man, that he might lie, or a son of man, that he might change his mind. Does he speak and not act, or promise and not fulfill?
 
+With no violation of mankind's will, he sets the foundations and boundaries and the motion of all things by his most wisdom, intelligence and knowledge.
+
+And if you think He is not considerate of the most mundane details of your life, consider:
+
+>Acts 17:24-28 (CSB) The God who made the world and everything in it — he is Lord of heaven and earth — does not live in shrines made by hands. Neither is he served by human hands, as though he needed anything, since he himself gives everyone life and breath and all things. **From one man he has made every nationality to live over the whole earth and has determined their appointed times and the boundaries of where they live.** He did this so that they might seek God, and perhaps they might reach out and find him, though he is not far from each one of us. **For in him we live and move and have our being**, as even some of your own poets have said, ‘For we are also his offspring.’
+
+The year and place of where you were born? That lease or mortgage you signed? That is not only the provision of God but the decree of God. Why? So that we seek him, might reach out and find him because the earth is filled with his glory.
+
+It is in him that we live, move and have our being.
+
 ### and power and faithfulness in accomplishing his decree.
 
 >Ephesians 1:3–6 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
+
+We have spoken about the power and ability of God in his decree. We have spoken about the will of God in his decree. But what about his faithfulness?
+
+>2 Corinthians 1:20 (CSB) For every one of God’s promises is “Yes” in him. Therefore, through him we also say “Amen” to the glory of God.
+
+God does not reveal all of what he will do to us. That is the right of the Creator over his creation. But if God has told us, his creation, that he will do something, then because of who he is, it is as good as done.
+
+God cannot lie. He lacks the ability to lie because he is the source of all truth.
+
+And it started when we broke our promise to God that we would obey him so we could enjoy him forever.
+
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+God's response was not death or un-create and start over. But rather a promise that he alone will make all things right.
+
+And the Bible through the Old Testament was a unveiling of this great good promise that he will redeem what we broke.
+
+And the fulfillment of that promise was Jesus Christ our Lord.
+
+Consider that God is the only being ever in existence that will state what he intends to do and has the power, ability, will, and faithfulness to see it to completion.
+
+>Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+Paul's use of the past tense, "glorified", was not a grammatical mistake. Because Christ has died, we ere saved unto him. Our salvation happened on Golgotha over 2,000 years ago.
+
+>>Let us muse upon the fact that Jesus was conducted without the gates of the city. It was the common place of death. That little rising ground, which perhaps was called Golgotha, the place of a skull, from its somewhat resembling the crown of a man's skull, was the common place of execution. It was one of Death's castles; here he stored his gloomiest trophies; he was the grim lord of that stronghold. Our great hero, the destroyer of Death, bearded the lion in his den, slew the monster in his own castle, and dragged the dragon captive from his own den. Methinks Death thought it a splendid triumph when he saw the Master impaled and bleeding in the dominions of destruction; little did he know that the grave was to be rifled, and himself destroyed, by that crucified Son of man.
+>>
+>>Charles Spurgeon. The Procession of Sorrow. [Sermon 497](https://archive.spurgeon.org/sermons/0497.php). March 1, 1863.
+
+My beloved, we were saved on Good Friday.
+
+Therefore, we will be glorified because of all that Christ has done.
 
 ## The Resources
 
