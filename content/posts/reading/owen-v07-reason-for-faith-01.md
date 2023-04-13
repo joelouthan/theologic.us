@@ -47,10 +47,6 @@ THE PRINCIPAL DESIGN of that discourse whereof the ensuing treatise is a part, i
 
 >1 Peter 2:9 (CSB) But you are a chosen race, a royal priesthood, a holy nation, a people for his possession, so that you may proclaim the praises of the one who called you out of darkness into his marvelous light.
 
-## The Notes
-
-TODO:
-
 ## The Resource
 
 <p style="clear:both;">
