@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.4 The Certainty of God When It Comes To His People"
 author: Joseph Louthan
-publishDate: 2023-05-17
+publishDate: 2023-05-10
 categories:
   - Confessions
 tags:
