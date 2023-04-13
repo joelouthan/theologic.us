@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.3 The Predestination & Foreordination of God"
 author: Joseph Louthan
-publishDate: 2023-02-08
+publishDate: 2023-05-03
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -19,8 +19,22 @@ draft: true
 ## The Chapter
 
 ```text
-
+By the decree of God, for the manifestation of his glory, some men and angels are predestinated, or foreordained to eternal life through Jesus Christ, to the praise of his glorious grace; others being left to act in their sin to their just condemnation, to the praise of his glorious justice.
 ```
+
+>1 Timothy 5:21 (CSB) I solemnly charge you before God and Christ Jesus and the elect angels to observe these things without prejudice, doing nothing out of favoritism.
+
+>Matthew 25:34 (CSB) Then the King will say to those on his right, ‘Come, you who are blessed by my Father; inherit the kingdom prepared for you from the foundation of the world.
+
+>Ephesians 1:5 (CSB) He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
+
+>Ephesians 1:6 (CSB) to the praise of his glorious grace that he lavished on us in the Beloved One.
+
+>Romans 9:22 (CSB) And what if God, wanting to display his wrath and to make his power known, endured with much patience objects of wrath prepared for destruction?
+
+>Romans 9:23 (CSB) And what if he did this to make known the riches of his glory on objects of mercy that he prepared beforehand for glory—
+
+>Jude 4 (CSB) For some people, who were designated for this judgment long ago, have come in by stealth; they are ungodly, turning the grace of our God into sensuality and denying Jesus Christ, our only Master and Lord.
 
 <div style="page-break-after: always;"></div>
 

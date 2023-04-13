@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.6 The Free Purpose of the Will of God"
 author: Joseph Louthan
-publishDate: 2023-03-01
+publishDate: 2023-05-24
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -19,8 +19,26 @@ draft: true
 ## The Chapter
 
 ```text
-
+As God hath appointed the elect unto glory, so he hath, by the eternal and most free purpose of his will, foreordained all the means thereunto; wherefore they who are elected, being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ, by his Spirit working in due season, are justified, adopted, sanctified, and kept by his power through faith unto salvation; neither are any other redeemed by Christ, or effectually called, justified, adopted, sanctified, and saved, but the elect only.
 ```
+
+>1 Peter 1:2 (CSB) according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient and to be sprinkled with the blood of Jesus Christ. May grace and peace be multiplied to you.
+
+>2 Thessalonians 2:13 (CSB) But we ought to thank God always for you, brothers and sisters loved by the Lord, because from the beginning God has chosen you for salvation through sanctification by the Spirit and through belief in the truth.
+
+>1 Thessalonians 5:9–10 (CSB) For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ, who died for us, so that whether we are awake or asleep, we may live together with him.
+
+>Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
+>2 Thessalonians 2:13 (CSB) But we ought to thank God always for you, brothers and sisters loved by the Lord, because from the beginning God has chosen you for salvation through sanctification by the Spirit and through belief in the truth.
+
+>1 Peter 1:5 (CSB) You are being guarded by God’s power through faith for a salvation that is ready to be revealed in the last time.
+
+>John 10:26 (CSB) But you don’t believe because you are not of my sheep.
+
+>John 17:9 (CSB) “I pray for them. I am not praying for the world but for those you have given me, because they are yours.
+
+>John 6:64 (CSB) But there are some among you who don’t believe.” (For Jesus knew from the beginning those who did not believe and the one who would betray him.)
 
 <div style="page-break-after: always;"></div>
 

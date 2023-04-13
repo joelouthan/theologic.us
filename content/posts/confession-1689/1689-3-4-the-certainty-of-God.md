@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.4 The Certainty of God When It Comes To His People"
 author: Joseph Louthan
-publishDate: 2023-02-15
+publishDate: 2023-05-17
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -19,8 +19,12 @@ draft: true
 ## The Chapter
 
 ```text
-
+These angels and men thus predestinated and foreordained, are particularly and unchangeably designed, and their number so certain and definite, that it cannot be either increased or diminished.
 ```
+
+>2 Timothy 2:19 (CSB) Nevertheless, God’s solid foundation stands firm, bearing this inscription: The Lord knows those who are his, and let everyone who calls on the name of the Lord turn away from wickedness.
+
+>John 13:18 (CSB) “I’m not speaking about all of you; I know those I have chosen. But the Scripture must be fulfilled: The one who eats my bread has raised his heel against me.
 
 <div style="page-break-after: always;"></div>
 

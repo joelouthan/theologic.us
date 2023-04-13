@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.2 The Decretive Will of God"
 author: Joseph Louthan
-publishDate: 2023-02-01
+publishDate: 2023-04-26
 categories:
   - Confessions
 tags:
@@ -10,7 +10,7 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
@@ -19,8 +19,12 @@ draft: true
 ## The Chapter
 
 ```text
-
+Although God knoweth whatsoever may or can come to pass, upon all supposed conditions, yet hath he not decreed anything, because he foresaw it as future, or as that which would come to pass upon such conditions.
 ```
+
+>Acts 15:15–18 (CSB) And the words of the prophets agree with this, as it is written: After these things I will return and rebuild David’s fallen tent. I will rebuild its ruins and set it up again, so that the rest of humanity may seek the Lord— even all the Gentiles who are called by my name— declares the Lord who makes these things known from long ago.
+
+>Romans 9:11–18 (CSB) For though her sons had not been born yet or done anything good or bad, so that God’s purpose according to election might stand—not from works but from the one who calls—she was told, The older will serve the younger. As it is written: I have loved Jacob, but I have hated Esau. What should we say then? Is there injustice with God? Absolutely not! For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. So then, it does not depend on human will or effort but on God who shows mercy. For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
 
 <div style="page-break-after: always;"></div>
 

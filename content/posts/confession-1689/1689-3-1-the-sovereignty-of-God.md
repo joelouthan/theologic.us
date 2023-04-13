@@ -1,7 +1,7 @@
 ---
 title: "1689 Baptist Confession of Faith, Chapter 3.1 The Sovereignty of God"
 author: Joseph Louthan
-publishDate: 2023-01-25
+publishDate: 2023-04-19
 categories:
   - Confessions
 tags:
@@ -10,8 +10,9 @@ series:
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
+2023-04-13
 ## The Text
 
 <div style="page-break-after: always;"></div>
