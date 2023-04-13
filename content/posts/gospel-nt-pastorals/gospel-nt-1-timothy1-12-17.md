@@ -54,13 +54,12 @@ image:
 
 >Ephesians 2:1-10 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace! He also raised us up with him and seated us with him in the heavens in Christ Jesus, so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. For you are saved by grace through faith, and this is not from yourselves; it is God’s gift— not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
 
+## The Gospel
+
 >Luke 18:9-14 (CSB) He also told this parable to some who trusted in themselves that they were righteous and looked down on everyone else: “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee was standing and praying like this about himself: ‘God, I thank you that I’m not like other people—greedy, unrighteous, adulterers, or even like this tax collector. I fast twice a week; I give a tenth of everything I get.’
 >
 >“But the tax collector, standing far off, would not even raise his eyes to heaven but kept striking his chest and saying, ‘God, have mercy on me, a sinner!’ I tell you, this one went down to his house justified rather than the other, because everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”
 
-## The Gospel
-
-TODO:
 
 ## The Prayer
 
