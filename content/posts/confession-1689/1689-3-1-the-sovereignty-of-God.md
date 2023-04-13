@@ -64,19 +64,47 @@ And:
 
 >Isaiah 6:3 (CSB) And one called to another: Holy, holy, holy is the LORD of Armies; his glory fills the whole earth.
 
-TODO: Thanos and the power of the will
+One thing that is remarkable through out the Bible is the will of God.
 
-### freely and unchangeably
+>>The hardest choices require the strongest wills.
+>>
+>>Thanos
 
->Hebrews 6:17 (CSB) Because God wanted to show his unchangeable purpose even more clearly to the heirs of the promise, he guaranteed it with an oath,
+It is one thing for any being--mythological or otherwise--having the power and the ability to do what they want to do but do they possess the will to do so.
+
+From his most holy and most wise counsel, God is not just powerful enough to do and able to do, he wants to do. God is the only being in the world that has the freedom to do as he will.
+
+>Ephesians 1:5 (CSB) He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will,
 
 ### all things
 
 >Romans 8:28–30 (CSB) We know that all things work together for the good of those who love God, who are called according to his purpose. For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters. And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
+For all of mankind's accomplishments, what makes us so unremarkable in this way--even if we wanted to save ourselves, we cannot. The argument for the freedom of will in mankind is invalid and lost because mankind is tinctured, fractured, broken and marred with sin. Even in trying to understand our sinful selves is broken--we can never see just how sinful we really are because we are sinful. Sin has broken not only minds, hearts, souls, and bodies but also our wills.
+
+We might want to save ourselves but for what reason? In of ourselves, if we could save ourselves, we would not want to save ourselves to God but rather to our own selves. And because we are fractured by sin, we would un-save ourselves just as quickly.
+
+But God, in everything he has and will do, he has the will to do it because he is sinless and perfect and holy.
+
+### freely and unchangeably
+
+>Hebrews 6:17 (CSB) Because God wanted to show his unchangeable purpose even more clearly to the heirs of the promise, he guaranteed it with an oath,
+
+For all of mankind's accomplishments, what makes us so unremarkable in this way--even if we wanted to save ourselves, we cannot. The argument for the freedom of will in mankind is invalid and lost because mankind is tinctured, fractured, broken and marred with sin. Even in trying to understand our sinful selves is broken--we can never see just how sinful we really are because we are sinful. Sin has broken not only minds, hearts, souls, and bodies but also our wills.
+
+We might want to save ourselves but for what reason? In of ourselves, if we could save ourselves, we would not want to save ourselves to God but rather to our own selves. And because we are fractured by sin, we would un-save ourselves just as quickly.
+
+But God, in everything he has and will do, he has the will to do it because he is sinless and perfect and holy.
+
 ### whatsoever comes to pass
 
 >Romans 9:15–18 (CSB) For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion. So then, it does not depend on human will or effort but on God who shows mercy. For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
+
+And herein lies the rub: we are not free to do as we please. And when the Almighty God, who possesses all power and strength, does something that we don't want to do or one step further, does something that interferes with our little lives, we become upset. We become upset that we can't do as we please and we are limited by sin at all times.
+
+God, in his compassion and mercy, willfully saved us from our sins. The book of Exodus summed up in the 9th chapter of Romans demonstrates one thing clear: God is not above building up an empire and a king and bring it low unto death so that his people are saved to the glory of his name.
+
+What did these particular set of people of do?
 
 ### yet so as thereby is God neither the author of sin nor hath fellowship with any therein nor is violence offered to the will of the creature
 
@@ -84,11 +112,27 @@ TODO: Thanos and the power of the will
 
 >1 John 1:5 (CSB) This is the message we have heard from him and declare to you: God is light, and there is absolutely no darkness in him.
 
+Only the sin to crucify the Son of Man.
+
+God, in his perfection and holiness and might, did what he wanted to do and did so without sinning, helping sin, or disrupting our own wills.
+
+Even when we lose a love one, you might be tempted to feel that God has done you wrong. But he has not because he is the source of all good. Our own sin and the sins of others is what took the life of your loved one. We were never met to die--when mankind was created, we were made in the image of God and we were to enjoy his presence forever and never to die.
+
+We were never met to die. God knows that. That is why he sent his Son to live and to die in our place for our sin so that we can enjoy him forever. For:
+
+>Psalm 16:11 (CSB) You reveal the path of life to me; in your presence is abundant joy; at your right hand are eternal pleasures.
+
 ### nor yet is the liberty or contingency of second causes taken away
 
 >Acts 4:27–28 (CSB) “For, in fact, in this city both Herod and Pontius Pilate, with the Gentiles and the people of Israel, assembled together against your holy servant Jesus, whom you anointed, to do whatever your hand and your will had predestined to take place.
 
 >John 19:11 (CSB) “You would have no authority over me at all,” Jesus answered him, “if it hadn’t been given you from above. This is why the one who handed me over to you has the greater sin.”
+
+And whatever freedoms and rights we possessed as humans were never violated. 
+
+>Romans 1:21–25 (CSB) For though they knew God, they did not glorify him as God or show gratitude. Instead, their thinking became worthless, and their senseless hearts were darkened. Claiming to be wise, they became fools and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles. Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves. They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen.
+
+God does not violate our sinful selves. TODO:
 
 ### but rather established; in which appears his wisdom in disposing all things
 
