@@ -468,7 +468,7 @@ The doctrine of the high mystery of predestination is to be handled with special
 
 ## Chapter 4: Of Creation
 
-### 
+### 4.1 The Manifestation of the Glory of God
 
 ```text
 In the beginning it pleased God the Father, Son, and Holy Spirit, for the manifestation of the glory of his eternal power, wisdom, and goodness, to create or make the world, and all things therein, whether visible or invisible, in the space of six days, and all very good.
@@ -488,7 +488,7 @@ In the beginning it pleased God the Father, Son, and Holy Spirit, for the manife
 
 ---
 
-### 
+### 4.2 The Imagebearers of God
 
 ```text
 After God had made all other creatures, he created man, male and female, with reasonable and immortal souls, rendering them fit unto that life to God for which they were created; being made after the image of God, in knowledge, righteousness, and true holiness; having the law of God written in their hearts, and power to fulfil it, and yet under a possibility of transgressing, being left to the liberty of their own will, which was subject to change.
@@ -508,7 +508,7 @@ After God had made all other creatures, he created man, male and female, with re
 
 ---
 
-### 
+### 4.3 The Law of God
 
 ```text
 Besides the law written in their hearts, they received a command not to eat of the tree of knowledge of good and evil, which whilst they kept, they were happy in their communion with God, and had dominion over the creatures.
