@@ -14,6 +14,8 @@ draft: false
 ---
 ## The Text
 
+>Romans 5:12 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.
+
 <div style="page-break-after: always;"></div>
 
 ## The Chapter
