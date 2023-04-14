@@ -14,6 +14,8 @@ draft: false
 ---
 ## The Text
 
+>Luke 12:7 (CSB) Indeed, the hairs of your head are all counted. Don’t be afraid; you are worth more than many sparrows.
+
 <div style="page-break-after: always;"></div>
 
 ## The Chapter
