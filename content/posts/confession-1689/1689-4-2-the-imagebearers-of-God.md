@@ -6,7 +6,7 @@ publishDate: 2023-06-14
 tags:
   - "1689"
 series:
-  - "1689."
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: true
@@ -21,27 +21,27 @@ After God had made all other creatures, he created man, male and female, with re
 
 # The Confession
 
-### Mankind: 
+### After God had made all other creatures, he created man, male and female
 
 >Genesis 1:27 (CSB) So God created man in his own image; he created him in the image of God; he created them male and female.
 
-### Mankind: 
+### with reasonable and immortal souls
 
 >Genesis 2:7 (CSB) Then the LORD God formed the man out of the dust from the ground and breathed the breath of life into his nostrils, and the man became a living being.
 
-### Mankind: 
+### rendering them fit unto that life to God for which they were created
 
 >Ecclesiastes 7:29 (CSB) Only see this: I have discovered that God made people upright, but they pursued many schemes.”
 
-### Mankind: 
+### being made after the image of God, in knowledge, righteousness, and true holiness
 
 >Genesis 1:26 (CSB) Then God said, “Let us make man in our image, according to our likeness. They will rule the fish of the sea, the birds of the sky, the livestock, the whole earth, and the creatures that crawl on the earth.”
 
-### Mankind: 
+### having the law of God written in their hearts, and power to fulfil it
 
 >Romans 2:14–15 (CSB) So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law. They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them
 
-### Mankind: 
+### and yet under a possibility of transgressing, being left to the liberty of their own will, which was subject to change
 
 >Genesis 3:6 (CSB) The woman saw that the tree was good for food and delightful to look at, and that it was desirable for obtaining wisdom. So she took some of its fruit and ate it; she also gave some to her husband, who was with her, and he ate it.
 
