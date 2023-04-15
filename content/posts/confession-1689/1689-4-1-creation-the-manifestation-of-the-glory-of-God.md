@@ -6,12 +6,14 @@ publishDate: 2023-06-07
 tags:
   - "1689"
 series:
-  - "1689."
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
+
+>Genesis 1:1-2 (CSB) In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness covered the surface of the watery depths, and the Spirit of God was hovering over the surface of the waters.
 
 ## The Chapter
 
@@ -21,27 +23,27 @@ In the beginning it pleased God the Father, Son, and Holy Spirit, for the manife
 
 ## The Confession
 
-### Creation: 
+### In the beginning it pleased God the Father, Son, and Holy Spirit
 
 >John 1:2–3 (CSB) He was with God in the beginning. All things were created through him, and apart from him not one thing was created that has been created.
 
-### Creation: 
+### for the manifestation of the glory of his eternal power, wisdom, and goodness
 
 >Hebrews 1:2 (CSB) In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
 
-### Creation: 
+### to create or make the world
 
 >Job 26:13 (CSB) By his breath the heavens gained their beauty; his hand pierced the fleeing serpent.
 
-### Creation: 
+### and all things therein
 
 >Romans 1:20 (CSB) For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse.
 
-### Creation: 
+### whether visible or invisible
 
 >Colossians 1:16 (CSB) For everything was created by him, in heaven and on earth, the visible and the invisible, whether thrones or dominions or rulers or authorities— all things have been created through him and for him.
 
-### Creation: 
+### in the space of six days, and all very good
 
 >Genesis 1:31 (CSB) God saw all that he had made, and it was very good indeed. Evening came and then morning: the sixth day.
 
