@@ -6,7 +6,7 @@ publishDate: 2023-06-21
 tags:
   - "1689"
 series:
-  - "1689."
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: true
@@ -21,11 +21,11 @@ Besides the law written in their hearts, they received a command not to eat of t
 
 ## The Confession
 
-### The Command: 
+### Besides the law written in their hearts, they received a command not to eat of the tree of knowledge of good and evil
 
 >Genesis 2:17 (CSB) but you must not eat from the tree of the knowledge of good and evil, for on the day you eat from it, you will certainly die.”
 
-### The Command: 
+### which whilst they kept, they were happy in their communion with God, and had dominion over the creatures
 
 >Genesis 1:26–28 (CSB) Then God said, “Let us make man in our image, according to our likeness. They will rule the fish of the sea, the birds of the sky, the livestock, the whole earth, and the creatures that crawl on the earth.” So God created man in his own image; he created him in the image of God; he created them male and female. God blessed them, and God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Rule the fish of the sea, the birds of the sky, and every creature that crawls on the earth.”
 
