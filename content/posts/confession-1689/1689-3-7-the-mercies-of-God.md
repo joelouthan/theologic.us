@@ -8,6 +8,7 @@ tags:
   - "1689"
 series:
   - "1689.3 Of God's Decree"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
