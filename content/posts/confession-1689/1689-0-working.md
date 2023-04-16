@@ -523,27 +523,7 @@ Besides the law written in their hearts, they received a command not to eat of t
 
 ## Chapter 5: Of Divine Providence
 
-### 
-
-```text
-God the good Creator of all things, in his infinite power and wisdom doth uphold, direct, dispose, and govern all creatures and things, from the greatest even to the least, by his most wise and holy providence, to the end for the which they were created, according unto his infallible foreknowledge, and the free and immutable counsel of his own will; to the praise of the glory of his wisdom, power, justice, infinite goodness, and mercy.
-```
-
->Hebrews 1:3 (CSB) The Son is the radiance of God’s glory and the exact expression of his nature, sustaining all things by his powerful word. After making purification for sins, he sat down at the right hand of the Majesty on high.
-
->Job 38:11 (CSB) when I declared, “You may come this far, but no farther; your proud waves stop here”?
-
->Isaiah 46:10–11 (CSB) I declare the end from the beginning, and from long ago what is not yet done, saying: my plan will take place, and I will do all my will. I call a bird of prey from the east, a man for my purpose from a far country. Yes, I have spoken; so I will also bring it about. I have planned it; I will also do it.
-
->Psalm 135:6 (CSB) The LORD does whatever he pleases in heaven and on earth, in the seas and all the depths.
-
->Matthew 10:29–31 (CSB) Aren’t two sparrows sold for a penny? Yet not one of them falls to the ground without your Father’s consent. But even the hairs of your head have all been counted. So don’t be afraid; you are worth more than many sparrows.
-
->Ephesians 1:11 (CSB) In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
-
----
-
-### 
+### 5.1 The Causes of All Things
 
 ```text
 Although in relation to the foreknowledge and decree of God, the first cause, all things come to pass immutably and infallibly; so that there is not anything befalls any by chance, or without his providence; yet by the same providence he ordereth them to fall out according to the nature of second causes, either necessarily, freely, or contingently.
@@ -557,7 +537,7 @@ Although in relation to the foreknowledge and decree of God, the first cause, al
 
 ---
 
-### 
+### 5.2 The Freedom of God
 
 ```text
 God, in his ordinary providence maketh use of means, yet is free to work without, above, and against them at his pleasure.
@@ -575,7 +555,7 @@ God, in his ordinary providence maketh use of means, yet is free to work without
 
 ---
 
-### 
+### 5.3 The Goodness of God
 
 ```text
 The almighty power, unsearchable wisdom, and infinite goodness of God, so far manifest themselves in his providence, that his determinate counsel extendeth itself even to the first fall, and all other sinful actions both of angels and men; and that not by a bare permission, which also he most wisely and powerfully boundeth, and otherwise ordereth and governeth, in a manifold dispensation to his most holy ends; yet so, as the sinfulness of their acts proceedeth only from the creatures, and not from God, who, being most holy and righteous, neither is nor can be the author or approver of sin.
@@ -603,7 +583,7 @@ The almighty power, unsearchable wisdom, and infinite goodness of God, so far ma
 
 ---
 
-### 
+### 5.4 The Discipline of God
 
 ```text
 The most wise, righteous, and gracious God doth oftentimes leave for a season his own children to manifold temptations and the corruptions of their own hearts, to chastise them for their former sins, or to discover unto them the hidden strength of corruption and deceitfulness of their hearts, that they may be humbled; and to raise them to a more close and constant dependence for their support upon himself; and to make them more watchful against all future occasions of sin, and for other just and holy ends. So that whatsoever befalls any of his elect is by his appointment, for his glory, and their good.
@@ -617,7 +597,7 @@ The most wise, righteous, and gracious God doth oftentimes leave for a season hi
 
 ---
 
-### 
+### 5.5 The Rendering of God
 
 ```text
 As for those wicked and ungodly men whom God, as the righteous judge, for former sin doth blind and harden; from them he not only withholdeth his grace, whereby they might have been enlightened in their understanding, and wrought upon their hearts; but sometimes also withdraweth the gifts which they had, and exposeth them to such objects as their corruption makes occasion of sin; and withal, gives them over to their own lusts, the temptations of the world, and the power of Satan, whereby it comes to pass that they harden themselves, under those means which God useth for the softening of others.
@@ -647,7 +627,7 @@ As for those wicked and ungodly men whom God, as the righteous judge, for former
 
 ---
 
-### 
+### 5.6 The Latitude of God
 
 ```text
 As the providence of God doth in general reach to all creatures, so after a more special manner it taketh care of his church, and disposeth of all things to the good thereof.
