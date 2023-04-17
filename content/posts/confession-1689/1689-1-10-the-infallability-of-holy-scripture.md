@@ -59,6 +59,8 @@ Christians know, without a shadow of a doubt, *theologically* that God created t
 
 ## The Resources
 
+[Doctrine & Devotion](http://www.doctrineanddevotion.com/): [The 1689 Baptist Confession of Faith](https://www.the1689confession.com/) with Scriptural References
+
 <img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
 by James Renihan.  
 Founders Press. 2022.  
