@@ -2,14 +2,16 @@
 title: "1689 Baptist Confession of Faith, Chapter 4.2 The Imagebearers of God"
 author: Joseph Louthan
 publishDate: 2023-06-14
+categories:
   - Confessions
 tags:
   - "1689"
 series:
+  - "1689.4 Of Creation"
   - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Text
 
