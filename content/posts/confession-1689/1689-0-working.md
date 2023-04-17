@@ -523,6 +523,24 @@ Besides the law written in their hearts, they received a command not to eat of t
 
 ## Chapter 5: Of Divine Providence
 
+### 5.1 The Governance of All Things
+
+```text
+God the good Creator of all things, in His infinite power and wisdom does uphold, direct, dispose, and govern all creatures and things, from the greatest even to the least, by His most wise and holy providence, to the end for the which they were created, according unto His infallible foreknowledge, and the free and immutable counsel of His own will; to the praise of the glory of His wisdom, power, justice, infinite goodness, and mercy.
+```
+
+>Hebrews 1:3 (CSB) The Son is the radiance of God’s glory and the exact expression of his nature, sustaining all things by his powerful word. After making purification for sins, he sat down at the right hand of the Majesty on high.
+
+>Job 38:11 (CSB) when I declared, “You may come this far, but no farther; your proud waves stop here”?
+
+>Isaiah 46:10–11 (CSB) I declare the end from the beginning, and from long ago what is not yet done, saying: my plan will take place, and I will do all my will. I call a bird of prey from the east, a man for my purpose from a far country. Yes, I have spoken; so I will also bring it about. I have planned it; I will also do it.
+
+>Psalm 135:6 (CSB) The LORD does whatever he pleases in heaven and on earth, in the seas and all the depths.
+
+>Matthew 10:29–31 (CSB) Aren’t two sparrows sold for a penny? Yet not one of them falls to the ground without your Father’s consent. But even the hairs of your head have all been counted. So don’t be afraid; you are worth more than many sparrows.
+
+>Ephesians 1:11 (CSB) In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
+
 ### 5.1 The Causes of All Things
 
 ```text

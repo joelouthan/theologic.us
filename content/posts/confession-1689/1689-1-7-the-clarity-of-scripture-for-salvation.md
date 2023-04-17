@@ -213,4 +213,3 @@ Crossway, 2012.
 [Goodreads](https://www.goodreads.com/book/show/14452976-the-creedal-imperative?ac=1&from_search=true&qid=GTaJVGWwOY&rank=1)
 
 <p style="clear:both;">
-
