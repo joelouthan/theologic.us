@@ -171,8 +171,6 @@ I will read this through as we are going through the series.
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 ## The Prayer
 
 <div style='font-variant: small-caps;'>

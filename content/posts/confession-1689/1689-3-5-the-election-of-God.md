@@ -17,15 +17,11 @@ draft: false
 
 >Isaiah 42:6–9 (CSB) “I am the LORD. I have called you for a righteous purpose, and I will hold you by your hand. I will watch over you, and I will appoint you to be a covenant for the people and a light to the nations, in order to open blind eyes, to bring out prisoners from the dungeon, and those sitting in darkness from the prison house. I am the LORD. That is my name, and I will not give my glory to another or my praise to idols. The past events have indeed happened. Now I declare new events; I announce them to you before they occur.”
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text
 Those of mankind that are predestinated to life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ unto everlasting glory, out of his mere free grace and love, without any other thing in the creature as a condition or cause moving him thereunto.
 ```
-
-<div style="page-break-after: always;"></div>
 
 ## The Confession
 

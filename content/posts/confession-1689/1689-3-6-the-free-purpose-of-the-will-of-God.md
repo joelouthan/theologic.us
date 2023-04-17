@@ -17,15 +17,11 @@ draft: false
 
 >Romans 5:12 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text
 As God hath appointed the elect unto glory, so he hath, by the eternal and most free purpose of his will, foreordained all the means thereunto; wherefore they who are elected, being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ, by his Spirit working in due season, are justified, adopted, sanctified, and kept by his power through faith unto salvation; neither are any other redeemed by Christ, or effectually called, justified, adopted, sanctified, and saved, but the elect only.
 ```
-
-<div style="page-break-after: always;"></div>
 
 ## The Confession
 

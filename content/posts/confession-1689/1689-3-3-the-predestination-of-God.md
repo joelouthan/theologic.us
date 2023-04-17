@@ -17,15 +17,11 @@ draft: false
 
 >1 Timothy 1:17 (CSB) Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text
 By the decree of God, for the manifestation of his glory, some men and angels are predestinated, or foreordained to eternal life through Jesus Christ, to the praise of his glorious grace; others being left to act in their sin to their just condemnation, to the praise of his glorious justice.
 ```
-
-<div style="page-break-after: always;"></div>
 
 ## The Confession
 

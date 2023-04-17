@@ -44,15 +44,11 @@ draft: false
 
 ><sup> 14  </sup>May the words of my mouth and the meditation of my heart be acceptable to you, LORD, my rock and my Redeemer.
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text
 The authority of the Holy Scripture, for which it ought to be believed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the author thereof; therefore it is to be received because it is the Word of God.
 ```
-
-<div style="page-break-after: always;"></div>
 
 ## The Confession
 

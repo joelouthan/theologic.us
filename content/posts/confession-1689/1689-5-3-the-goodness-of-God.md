@@ -15,8 +15,6 @@ draft: false
 ---
 ## The Text
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text

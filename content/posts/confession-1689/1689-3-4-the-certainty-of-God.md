@@ -17,15 +17,11 @@ draft: false
 
 >Luke 12:7 (CSB) Indeed, the hairs of your head are all counted. Don’t be afraid; you are worth more than many sparrows.
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text
 These angels and men thus predestinated and foreordained, are particularly and unchangeably designed, and their number so certain and definite, that it cannot be either increased or diminished.
 ```
-
-<div style="page-break-after: always;"></div>
 
 ## The Confession
 

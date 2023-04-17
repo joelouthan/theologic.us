@@ -19,8 +19,6 @@ draft: false
 >and to him are all things.  
 >To him be the glory forever. Amen.
 
-<div style="page-break-after: always;"></div>
-
 ## The Chapter
 
 ```text
