@@ -2,16 +2,22 @@
 title: "1689 Baptist Confession of Faith, Chapter 5.1 The Causes of All Things"
 author: Joseph Louthan
 publishDate: 2023-07-05
+categories:
   - Confessions
 tags:
   - "1689"
 series:
-  - "1689."
+  - "1689.5 Of Divine Providence"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
 ---
 ## The Text
+
+>Romans 11:36 (CSB) For from him and through him  
+>and to him are all things.  
+>To him be the glory forever. Amen.
 
 <div style="page-break-after: always;"></div>
 
