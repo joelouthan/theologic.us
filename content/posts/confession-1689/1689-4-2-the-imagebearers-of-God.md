@@ -15,6 +15,8 @@ draft: false
 ---
 ## The Text
 
+>Romans 1:20 (CSB) For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse.
+
 ## The Chapter
 
 ```text
