@@ -27,6 +27,8 @@ Although in relation to the foreknowledge and decree of God, the first cause, al
 
 >Acts 2:23 (CSB) Though he was delivered up according to God’s determined plan and foreknowledge, you used lawless people to nail him to a cross and kill him.
 
+TODO:
+
 ### so that there is not anything befalls any by chance or without his providence
 
 >Proverbs 16:33 (CSB) The lot is cast into the lap, but its every decision is from the LORD.
