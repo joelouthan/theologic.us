@@ -202,6 +202,11 @@ God is sovereign. Which means that God is free to do what he pleases--and he doe
 
 ### New Daily Mercies: God is perfectly Creator
 
+#### Consider
+
+>>“If God is eternally righteous, then it is unthinkable that He would ever sin. If it is unthinkable for God to sin, and if He created all things, how can there be evil in the world? Why, within His universe and under His sovereignty, are creatures like us running loose and doing evil? The confession says that God not only permits us to sin, but in His sovereignty He ordains that we sin. Paul anticipates this objection from the creature: “You will say to me then, ‘Why does he still find fault? For who can resist his will?’ But who are you, O man, to answer back to God? Will what is molded say to its molder, ‘Why have you made me like this?’” (Rom. 9:19–20).”
+>>R. C. Sproul. [Truths We Confess](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0). 
+
 Our desire for autonomy is at war with the One who created us and everything around us.
 
 In Genesis 2, God gave mankind dominion over his creation. In Genesis 3, because we sinned and disobey God, we lost that dominion. 
