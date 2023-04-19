@@ -541,7 +541,7 @@ God the good Creator of all things, in His infinite power and wisdom does uphold
 
 >Ephesians 1:11 (CSB) In him we have also received an inheritance, because we were predestined according to the plan of the one who works out everything in agreement with the purpose of his will,
 
-### 5.1 The Causes of All Things
+### 5.2 The Causes of All Things
 
 ```text
 Although in relation to the foreknowledge and decree of God, the first cause, all things come to pass immutably and infallibly; so that there is not anything befalls any by chance, or without his providence; yet by the same providence he ordereth them to fall out according to the nature of second causes, either necessarily, freely, or contingently.
@@ -555,7 +555,7 @@ Although in relation to the foreknowledge and decree of God, the first cause, al
 
 ---
 
-### 5.2 The Freedom of God
+### 5.3 The Freedom of God
 
 ```text
 God, in his ordinary providence maketh use of means, yet is free to work without, above, and against them at his pleasure.
@@ -573,7 +573,7 @@ God, in his ordinary providence maketh use of means, yet is free to work without
 
 ---
 
-### 5.3 The Goodness of God
+### 5.4 The Goodness of God
 
 ```text
 The almighty power, unsearchable wisdom, and infinite goodness of God, so far manifest themselves in his providence, that his determinate counsel extendeth itself even to the first fall, and all other sinful actions both of angels and men; and that not by a bare permission, which also he most wisely and powerfully boundeth, and otherwise ordereth and governeth, in a manifold dispensation to his most holy ends; yet so, as the sinfulness of their acts proceedeth only from the creatures, and not from God, who, being most holy and righteous, neither is nor can be the author or approver of sin.
@@ -601,7 +601,7 @@ The almighty power, unsearchable wisdom, and infinite goodness of God, so far ma
 
 ---
 
-### 5.4 The Discipline of God
+### 5.5 The Discipline of God
 
 ```text
 The most wise, righteous, and gracious God doth oftentimes leave for a season his own children to manifold temptations and the corruptions of their own hearts, to chastise them for their former sins, or to discover unto them the hidden strength of corruption and deceitfulness of their hearts, that they may be humbled; and to raise them to a more close and constant dependence for their support upon himself; and to make them more watchful against all future occasions of sin, and for other just and holy ends. So that whatsoever befalls any of his elect is by his appointment, for his glory, and their good.
@@ -615,7 +615,7 @@ The most wise, righteous, and gracious God doth oftentimes leave for a season hi
 
 ---
 
-### 5.5 The Rendering of God
+### 5.6 The Rendering of God
 
 ```text
 As for those wicked and ungodly men whom God, as the righteous judge, for former sin doth blind and harden; from them he not only withholdeth his grace, whereby they might have been enlightened in their understanding, and wrought upon their hearts; but sometimes also withdraweth the gifts which they had, and exposeth them to such objects as their corruption makes occasion of sin; and withal, gives them over to their own lusts, the temptations of the world, and the power of Satan, whereby it comes to pass that they harden themselves, under those means which God useth for the softening of others.
@@ -645,7 +645,7 @@ As for those wicked and ungodly men whom God, as the righteous judge, for former
 
 ---
 
-### 5.6 The Latitude of God
+### 5.7 The Latitude of God
 
 ```text
 As the providence of God doth in general reach to all creatures, so after a more special manner it taketh care of his church, and disposeth of all things to the good thereof.
