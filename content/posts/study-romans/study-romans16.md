@@ -74,7 +74,7 @@ draft: false
 
 >Romans 16:1–16 (CSB) I commend to you our sister Phoebe, who is a servant of the church in Cenchreae. So you should welcome her in the Lord in a manner worthy of the saints and assist her in whatever matter she may require your help. For indeed she has been a benefactor of many—and of me also. Give my greetings to Prisca and Aquila, my coworkers in Christ Jesus, who risked their own necks for my life. Not only do I thank them, but so do all the Gentile churches. Greet also the church that meets in their home. Greet my dear friend Epaenetus, who is the first convert to Christ from Asia. Greet Mary, who has worked very hard for you. Greet Andronicus and Junia, my fellow Jews and fellow prisoners. They are noteworthy in the eyes of the apostles, and they were also in Christ before me. Greet Ampliatus, my dear friend in the Lord. Greet Urbanus, our coworker in Christ, and my dear friend Stachys. Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus. Greet Herodion, my fellow Jew. Greet those who belong to the household of Narcissus who are in the Lord. Greet Tryphaena and Tryphosa, who have worked hard in the Lord. Greet my dear friend Persis, who has worked very hard in the Lord. Greet Rufus, chosen in the Lord; also his mother—and mine. Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters who are with them. Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them. Greet one another with a holy kiss. All the churches of Christ send you greetings.
 
-### God Has Overcome: We are saved to one another
+### God Has Overcome: Christ has saved us to one another
 
 Consider these Christians in Acts 16:
 
@@ -109,9 +109,27 @@ Amen.
 
 ---
 
+><sup>13</sup> Greet Rufus, chosen in the Lord; also his mother—and mine.
+
+### God Has Overcome: Christ has brought us together
+
+>Mark 15:20-21 (CSB) After they had mocked him, they stripped him of the purple robe and put his clothes on him. They led him out to crucify him. They forced a man coming in from the country, who was passing by, to carry Jesus’s cross. He was **Simon of Cyrene, the father of Alexander and Rufus**.
+
+Where we cannot be absolutely sure, most Bible scholars have determined that Mark's Gospel was the first gospel to be written, finished and distributed (in around 60AD). This means that Mark's (secretary of Peter) account, more than likely got into the hands of the other Gospel writers, (Matthew, Luke, and John) as well as the Apostles Paul and the writer of Hebrews. 
+
+Now why is that so important. The writing style of Mark was very action-oriented, almost a journalistic style of writing--documenting what Christ has actively done in his ministry. In other words, the actions of Christ. Think of that as a news report.
+
+When Mark alone reports of Simon of Cyrene being forced by the Roman army to help Jesus carry his cross, he adds this tidbit: He was Simon of Cyrene, the father of Alexander and Rufus.
+
+Mark mentions this because this was the same Simon, who was the father of Rufus who was doing the work of the Lord in the church in Rome in whom Paul tells them to greet. How amazing is it, that timely visit of Simon crossing paths with our Lord as he is descending unto saving his people from their sins would save Simon in that moment--then would save Simon's wife, and sons, Alexander and Rufus.
+
+Praise be to God!
+
+---
+
 ><sup>17-18</sup> Now I urge you, brothers and sisters, to watch out for those who create divisions and obstacles contrary to the teaching that you learned. Avoid them, because such people do not serve our Lord Christ but their own appetites. They deceive the hearts of the unsuspecting with smooth talk and flattering words. 
 
-### God Has Overcome: We protect one another
+### God Has Overcome: Christ shepherds us
 
 >John 21:15–19 (CSB) When they had eaten breakfast, Jesus asked Simon Peter, “Simon, son of John, do you love me more than these?” “Yes, Lord,” he said to him, “you know that I love you.” “Feed my lambs,” he told him. A second time he asked him, “Simon, son of John, do you love me?” “Yes, Lord,” he said to him, “you know that I love you.” “Shepherd my sheep,” he told him. He asked him the third time, “Simon, son of John, do you love me?” Peter was grieved that he asked him the third time, “Do you love me?” He said, “Lord, you know everything; you know that I love you.” “Feed my sheep,” Jesus said. “Truly I tell you, when you were younger, you would tie your belt and walk wherever you wanted. But when you grow old, you will stretch out your hands and someone else will tie you and carry you where you don’t want to go.” He said this to indicate by what kind of death Peter would glorify God. After saying this, he told him, “Follow me.”
 
@@ -141,7 +159,7 @@ But go ahead and build that little kingdom. That is on your neck when you stand 
 
 ><sup>19</sup> The report of your obedience has reached everyone. Therefore I rejoice over you, but I want you to be wise about what is good, and yet innocent about what is evil. 
 
-### God Has Overcome: The Lord will grow and mature us
+### God Has Overcome: Christ will grow and mature us
 
 >Matthew 10:16 (CSB) “Look, I’m sending you out like sheep among wolves. Therefore be as shrewd as serpents and as innocent as doves.
 
@@ -181,7 +199,7 @@ I think Octavius Winslow says it best:
 
 ><sup>21</sup> Timothy, my coworker, and Lucius, Jason, and Sosipater, my fellow countrymen, greet you. I, Tertius, who wrote this letter, greet you in the Lord. Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus greet you.
 
-### God Has Overcome: We are not alone
+### God Has Overcome: Christ is always with us
 
 >Philippians 1:3–6 (CSB) I give thanks to my God for every remembrance of you, always praying with joy for all of you in my every prayer, because of your partnership in the gospel from the first day until now. I am sure of this, that he who started a good work in you will carry it on to completion until the day of Christ Jesus.
 
@@ -189,9 +207,9 @@ I know that we love the stories of startup businesses that started in their gara
 
 That's all fine and great except in the case of Apple, it is just a myth.
 
->>“The garage is a bit of a myth. It’s overblown,” Wozniak told [Bloomberg BusinessWeek on Thursday](http://www.bloomberg.com/video/steve-wozniak-on-steve-jobs-geekiness-and-starting-apple-GVS_jUoTQtGYj9fwLg8dbQ.html). “The garage represents us better than anything else, but we did no designs there. We would drive the finished products to the garage, make them work and then we’d drive them down to the store that paid us cash.” [^washpost20141205]
+>>“The garage is a bit of a myth. It’s overblown,” Wozniak told [Bloomberg BusinessWeek on Thursday](http://www.bloomberg.com/video/steve-wozniak-on-steve-jobs-geekiness-and-starting-apple-GVS_jUoTQtGYj9fwLg8dbQ.html). “The garage represents us better than anything else, but we did no designs there. We would drive the finished products to the garage, make them work and then we’d drive them down to the store that paid us cash.” [^wp20141205]
 
-[^washpost20141205]: [Washington Post: Steve Wozniak refutes Apple’s creation story: ‘The garage is a bit of a myth’](https://www.washingtonpost.com/news/morning-mix/wp/2014/12/05/steve-wozniak-refutes-apples-creation-story-the-garage-is-a-bit-of-a-myth/)
+[^wp20141205]: [Washington Post: Steve Wozniak refutes Apple’s creation story: ‘The garage is a bit of a myth’](https://www.washingtonpost.com/news/morning-mix/wp/2014/12/05/steve-wozniak-refutes-apples-creation-story-the-garage-is-a-bit-of-a-myth/)
 
 Much like successful business, every large, seemingly success church started in the living room of the church planter. Too often, the full story never really gets told. Sure, we hear stories that spin into sometimes myths about the charismatic leader but what about the not-as-charismatic people around that leader.
 
