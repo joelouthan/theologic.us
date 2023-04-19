@@ -8,6 +8,24 @@ draft: false
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68eb3540-2cf6-42c3-be87-cac7f1289a57/deploy-status)](https://app.netlify.com/sites/festive-hopper-1abe84/deploys)
 
+## FINISHED: Study of Romans
+
+**Wednesday, April 13, 2023**
+
+By God's magnificent grace, I got to take considerable time off from work. With that time, I decide to go all gas no brakes and turn it into a writing sabbatical. Within the first two days of the time off, I was able to finish off the last 10 chapters of the Romans Study, covering Romans 13-16.
+
+My Romans posts will continue to be published every Monday and finishing around early July. If you can't wait, head over to my [git](https://github.com/joelouthan/theologic.us/tree/main/content/posts/study-romans) repo and read them all now.
+
+Now my complete focus will be on the [1689](https://theologic.us/tags/1689/).
+
+## Podcast Posting
+
+**Monday, March 27, 2023**
+
+In 2021, I did a huge multiple podcast series covering most of my writing here at Theologicus--almost like an audio format of my blog. I was finally able to post the podcasts episodes into this site. You can catch those episodes as they get listed here on the [Podcast](https://theologic.us/episodes/) page. If you do you listen to podcasts, subscribe here at [Apple Podcasts](https://podcasts.apple.com/us/podcast/theologicus/id1551000009).
+
+To that end, I am not sure if I will pick back up and simply continue doing audio version of the blog or rather, short devotions inspired from the same materials. I think, in the interest of workload and time, I am leaning towards the later. More to come.
+
 ## New Series: Ruth
 
 **Monday, February 20, 2023**
