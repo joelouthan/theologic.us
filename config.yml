@@ -135,6 +135,8 @@ params:
           url: "https://instagram.com/josephlouthan"
         - name: youtube
           url: "http://youtube.theologic.us"
+        - name: applepodcasts
+          url: "https://podcasts.apple.com/us/podcast/theologicus/id1680606952"
 
 #    analytics:
 #        google:
