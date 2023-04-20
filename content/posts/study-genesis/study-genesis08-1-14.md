@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0930"
+duration: "0:38:38"
+short_description: "In the eradication of sin upon the earth, God has not just made a neutral ground for all believers. He has not just taken away the negative parts and leaves us in limbo. When God saves you, it is not a one shot deal. In that faithful moment, God has only just begun."
+mp3:
+    asset_link: "2021-09-30-study-genesis8-1-14.mp3"
+    length: "56124741"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 The salvation of God can explained in a myriad of ways.
