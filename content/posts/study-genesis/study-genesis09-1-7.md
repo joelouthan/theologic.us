@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "1014"
+duration: "0:25:54"
+short_description: "There is no doubt that God is personal and he responds personally to us as individuals. He cares for us, speaks to us, answers are prayers and provides for us. God certainly acts very intimately and personally. But throughout the Bible, what we see is a consistent God--the only God who is the same yesterday, today, and forever.And the story of Noah is beyond the judgment and wrath by God on sin and unbelievers. "Be like Noah, do your best, and don't be caught outside the ark and you will be saved." I think that misses the entire point of Noah story because it misses the gospel of Christ."
+mp3:
+    asset_link: "2021-10-14-study-genesis9-1-7.mp3"
+    length: "37798066"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 There is no doubt that God is personal and he responds personally to us as individuals. He cares for us, speaks to us, answers are prayers and provides for us.
