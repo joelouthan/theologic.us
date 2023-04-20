@@ -12,12 +12,41 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2022"
+number: ""0105"
+duration: "0:38:20"
+short_description: "Genealogies are important. But not in the way you might think. It might help to know where we came from, who are our ancestors, or what's in our DNA But our lineage ain't worth anything if we are not saved by God. Let us examine the passage and get into it."
+mp3:
+    asset_link: "2022-01-05-study-genesis10.mp3"
+    length: "55695288"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 Genealogies are important. But not in the way you might think.
 
-It might help to know where we came from, who are our ancestors, or what's in our DN But our lineage ain't worth anything if we are not saved by God.
+It might help to know where we came from, who are our ancestors, or what's in our DNA But our lineage ain't worth anything if we are not saved by God.
 
 Let us examine the passage and get into it.
 
