@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0812"
+duration: "0:39:09"
+short_description: "If you are in Christ, there is no limit to his forgiveness for your sins. So stop counting your sins. God has infinitely placed all of your sins upon his Son if you believe and trust in him."
+mp3:
+    asset_link: "2021-08-12-study-genesis4.mp3"
+    length: "56872052"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
