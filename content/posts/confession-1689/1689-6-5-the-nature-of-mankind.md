@@ -2,6 +2,7 @@
 title: "1689 Baptist Confession of Faith, Chapter 6.5 The Nature of Mankind"
 author: Joseph Louthan
 publishDate: 2023-09-20
+categories:
   - Confessions
 tags:
   - "1689"

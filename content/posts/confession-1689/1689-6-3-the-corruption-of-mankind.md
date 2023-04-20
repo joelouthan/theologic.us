@@ -2,6 +2,7 @@
 title: "1689 Baptist Confession of Faith, Chapter 6.3 The Corruption of Mankind"
 author: Joseph Louthan
 publishDate: 2023-09-06
+categories:
   - Confessions
 tags:
   - "1689"

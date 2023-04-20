@@ -2,6 +2,7 @@
 title: "1689 Baptist Confession of Faith, Chapter 6.4 The Inclination of Mankind"
 author: Joseph Louthan
 publishDate: 2023-09-13
+categories:
   - Confessions
 tags:
   - "1689"

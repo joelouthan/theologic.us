@@ -2,6 +2,7 @@
 title: "1689 Baptist Confession of Faith, Chapter 6.2 The Death of Mankind"
 author: Joseph Louthan
 publishDate: 2023-08-30
+categories:
   - Confessions
 tags:
   - "1689"
