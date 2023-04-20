@@ -12,8 +12,37 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0202"
+duration: "0:32:13"
+short_description: "Despite modern thinking, the gospel is the only thing that can fix mankind. And you and I know that gospel of Jesus Christ is both fully divine and fully supernatual. In other words, to save anyone is completely outside of you and me, and completely depends on whatever God does and does not do."
+mp3:
+    asset_link: "2022-01-12-study-genesis11.mp3"
+    length: "46903098"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Support
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
+## The Introduction
 
 >Colossians 2:4-10 (CSB) I am saying this so that no one will deceive you with arguments that sound reasonable. For I may be absent in body, but I am with you in spirit, rejoicing to see how well ordered you are and the strength of your faith in Christ. So then, just as you have received Christ Jesus as Lord, continue to walk in him, being rooted and built up in him and established in the faith, just as you were taught, and overflowing with gratitude. Be careful that no one takes you captive through philosophy and empty deceit based on human tradition, based on the elements of the world, rather than Christ. For the entire fullness of God’s nature dwells bodily in Christ, and you have been filled by him, who is the head over every ruler and authority.
 
