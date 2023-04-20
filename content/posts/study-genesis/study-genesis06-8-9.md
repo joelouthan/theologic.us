@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0826"
+duration: "0:28:26"
+short_description: "Do you think that something in space and time didn't break? Could you even imagine when sin came into our existence, that the departure of the spirit, the cracking of the mind, the depletion of strength, hardening of the heart, and the infection of the will? Did it happen all at once or over time? I think the answer is yes."
+mp3:
+    asset_link: "2021-08-26-study-genesis6-1-7.mp3"
+    length: "41444342"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 Genesis chapters 3 through the beginning of 6 starts to unveil and unravel the destructive nearly unceasing power of sin and corruptness. Our wickedness and transgression against the Holy God was not without the most severe consequences. To call it, "consequences", is an understatement. The best phrase I have heard said, "the breaking of the cosmos".
