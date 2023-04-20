@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0617"
+duration: "0:42:01"
+short_description: "Our forever home was never about the dirt underneath our feet, the roof over our heads, or even the family we do or don't have, it was always the presence of the Almighty God."
+mp3:
+    asset_link: "2021-06-17-study-genesis1-6-13.mp3"
+    length: "60994801"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
