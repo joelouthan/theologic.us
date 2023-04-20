@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0624"
+duration: "0:28:21"
+short_description: "The Christian Life means you get all of Romans 6: You don't get to sin all the more just because of grace; we are dead to sin; when we are baptized, we are baptized unto his death; because Christ has risen from death, we get to walk in the newness of life and because we are united with him in death, we are united in him in life."
+mp3:
+    asset_link: "2021-06-24-study-genesis1-14-19.mp3"
+    length: "41326478"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
