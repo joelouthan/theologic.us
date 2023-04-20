@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 5.7 The Latitude of God"
+title: "1689 Baptist Confession of Faith, Chapter 5.7 The Goodness of God"
 author: Joseph Louthan
 publishDate: 2023-08-09
 categories:
