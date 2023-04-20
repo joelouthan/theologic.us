@@ -126,7 +126,7 @@ If God the one true living God, within the immortality of God, not only will he 
 
 >John 1:1-5 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. All things were created through him, and apart from him not one thing was created that has been created. **In him was life, and that life was the light of men. That light shines in the darkness, and yet the darkness did not overcome it.**
 
-Because we have been born into and choose to sin, we can approach God. We cannot come to him on our own. John Stott in his book, *The Cross of Christ*, gave five descriptions on how God is far from our sin. One of those descriptions: God is light. God shines brightest and in our wickedness and sin, we cannot dare approach him just in the light of his glory and goodness.[^stott-brightest]
+Because we have been born into and choose to sin, we cannot approach God. We cannot come to him on our own. John Stott in his book, *The Cross of Christ*, gave five descriptions on how God is far from our sin. One of those descriptions: God is light. God shines brightest and in our wickedness and sin, we cannot dare approach him just in the light of his glory and goodness.[^stott-brightest]
 
 [^stott-brightest]: John Stott. The Cross of Christ. 109. 
 
