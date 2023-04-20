@@ -99,7 +99,13 @@ Where we live in, the New Testament church, we cannot execute false teachers and
 God has spoken. He command each ones of us to trust in Him alone. Trust in him. Sit under the preaching of the word. Test the Scriptures. This is the calling of the people of God for all of their days.
 ## The Resources
 
-[Doctrine & Devotion](http://www.doctrineanddevotion.com/): [The 1689 Baptist Confession of Faith](https://www.the1689confession.com/) with Scriptural References
+<img src="/images/resources/dnd-1689-site-logo.png" align="left" width="100" style="padding-right: 10px" />Site: [Doctrine & Devotion](http://www.doctrineanddevotion.com/)  
+[The 1689 Baptist Confession of Faith](https://www.the1689confession.com/)  
+with Scriptural References
+
+<p style="clear:both;">
+
+---
 
 <img src="/images/resources/confession-1689-judacious-reader-renihan.png" align="left" width="100" style="padding-right: 10px" />To the Judicious and Impartial Reader: Baptist Symbolics Volume 2.  
 by James Renihan.  
