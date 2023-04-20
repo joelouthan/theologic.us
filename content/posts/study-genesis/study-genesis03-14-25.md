@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0805"
+duration: "0:35:51"
+short_description: "Because of our sin, we are cursed. But this is not where the story ends. God is not done!"
+mp3:
+    asset_link: "2021-08-05-study-genesis3-14-24.mp3"
+    length: "52128633"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
@@ -126,31 +153,9 @@ One side note: I don't know why Complementarians use this as a way to defend the
 
 And yet, Christ subjected himself to that same suffering--even to the point of death.
 
->Isaiah 53:3-5 (CSB) He was despised and rejected by men,
-a man of suffering who knew what sickness was.
-He was like someone people turned away from;
-he was despised, and we didn’t value him.
-4 Yet he himself bore our sicknesses,
-and he carried our pains;
-but we in turn regarded him stricken,
-struck down by God, and afflicted.
-5 But he was pierced because of our rebellion,
-crushed because of our iniquities;
-punishment for our peace was on him,
-and we are healed by his wounds.
+>Isaiah 53:3–5 (CSB) He was despised and rejected by men, a man of suffering who knew what sickness was. He was like someone people turned away from; he was despised, and we didn’t value him. Yet he himself bore our sicknesses, and he carried our pains; but we in turn regarded him stricken, struck down by God, and afflicted. But he was pierced because of our rebellion, crushed because of our iniquities; punishment for our peace was on him, and we are healed by his wounds.
 
->Philippians 2:5-8 (CSB)
-Adopt the same attitude as that of Christ Jesus,
-6 who, existing in the form of God,
-did not consider equality with God
-as something to be exploited.
-7 Instead he emptied himself
-by assuming the form of a servant,
-taking on the likeness of humanity.
-And when he had come as a man,
-8 he humbled himself by becoming obedient
-to the point of death—
-even to death on a cross.
+>Philippians 2:5–8 (CSB) Adopt the same attitude as that of Christ Jesus, who, existing in the form of God, did not consider equality with God as something to be exploited. Instead he emptied himself by assuming the form of a servant, taking on the likeness of humanity. And when he had come as a man, he humbled himself by becoming obedient to the point of death— even to death on a cross.
 
 ### God still blesses us despite the curse
 
