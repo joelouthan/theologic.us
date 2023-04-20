@@ -51,7 +51,7 @@ For your sin, you are that author. It is your heart, born in the depravity and w
 
 ### for former sin doth blind and harden
 
->Romans 11:7–8 (CSB) What then? Israel did not find what it was looking for, but the elect did find it. The rest were hardened, as it is written, God gave them a spirit of stupor, eyes that cannot see and ears that cannot hear, to this day.
+>Romans 11:7–8 (CSB) What then? Israel did not find what it was looKing for, but the elect did find it. The rest were hardened, as it is written, God gave them a spirit of stupor, eyes that cannot see and ears that cannot hear, to this day.
 
 One of the greatest mysteries is the mystery of sin. The foremost reason why, because of sin and because we are not God, we cannot fully understand and comprehend the depth of destruction that sin has or will caused. Sometimes, we know after it happens. In some sin, like in traumatic sin against you, it will blind you in such a way you will not see the sin that was even committed against you. And in the worst cases, you will commit sin against others because of the sin that has blinded you and hardened your heart.
 
@@ -61,7 +61,7 @@ It is like you dig into a manure pit and the more you dig, all you find is more 
 
 >Deuteronomy 29:4 (CSB) Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.
 
->Isaiah 6:9–10 (CSB) And he replied: Go! Say to these people: Keep listening, but do not understand; keep looking, but do not perceive. Make the minds of these people dull; deafen their ears and blind their eyes; otherwise they might see with their eyes and hear with their ears, understand with their minds, turn back, and be healed.
+>Isaiah 6:9–10 (CSB) And he replied: Go! Say to these people: Keep listening, but do not understand; keep looKing, but do not perceive. Make the minds of these people dull; deafen their ears and blind their eyes; otherwise they might see with their eyes and hear with their ears, understand with their minds, turn back, and be healed.
 
 If God alone has to exchange your heart, deposit his Spirit, give you his only begotten Son, give you faith to believe, repentance of sin, a renewed mind, opened eyes, new soul, and ears to hear just for your to be saved, then by the Scriptures alone, for the wicked and ungodly, God will not only not give them his grace and not unveil his glory but rather, give them over to their own sin.
 
@@ -99,7 +99,7 @@ It is the same God who shines the sun on the good and evil, and rains on just an
 
 ### but sometimes also withdraweth the gifts which they had
 
->2 Kings 8:12–13 (CSB) and Hazael asked, “Why is my lord weeping?” He replied, “Because I know the evil you will do to the people of Israel. You will set their fortresses on fire. You will kill their young men with the sword. You will dash their children to pieces. You will rip open their pregnant women.” Hazael said, “How could your servant, a mere dog, do such a mighty deed?” Elisha answered, “The LORD has shown me that you will be king over Aram.”
+>2 Kings 8:12–13 (CSB) and Hazael asked, “Why is my lord weeping?” He replied, “Because I know the evil you will do to the people of Israel. You will set their fortresses on fire. You will kill their young men with the sword. You will dash their children to pieces. You will rip open their pregnant women.” Hazael said, “How could your servant, a mere dog, do such a mighty deed?” Elisha answered, “The LORD has shown me that you will be King over Aram.”
 
 This doctrine is not to be confused with:
 
@@ -113,7 +113,7 @@ There are some of us, within our churches in the past, present, and future, will
 
 This should not be a mystery to any of us. Our Lord Jesus Christ already taught on this:
 
->Matthew 13:18-23 (CSB) “So listen to the parable of the sower: When anyone hears the word about the kingdom and doesn’t understand it, the evil one comes and snatches away what was sown in his heart. This is the one sown along the path. And the one sown on rocky ground — this is one who hears the word and immediately receives it with joy. But he has no root and is short-lived. When distress or persecution comes because of the word, immediately he falls away. Now the one sown among the thorns — this is one who hears the word, but the worries of this age and the deceitfulness of wealth choke the word, and it becomes unfruitful. But the one sown on the good ground — this is one who hears and understands the word, who does produce fruit and yields: some a hundred, some sixty, some thirty times what was sown.”
+>Matthew 13:18-23 (CSB) “So listen to the parable of the sower: When anyone hears the word about the Kingdom and doesn’t understand it, the evil one comes and snatches away what was sown in his heart. This is the one sown along the path. And the one sown on rocky ground — this is one who hears the word and immediately receives it with joy. But he has no root and is short-lived. When distress or persecution comes because of the word, immediately he falls away. Now the one sown among the thorns — this is one who hears the word, but the worries of this age and the deceitfulness of wealth choke the word, and it becomes unfruitful. But the one sown on the good ground — this is one who hears and understands the word, who does produce fruit and yields: some a hundred, some sixty, some thirty times what was sown.”
 
 Christ already taught that just because of preached word of God by the power of the Holy Spirit, some will hear and either don't understand it; think it is fantastic but tap out when life gets too difficult; or circumstances of this life are too good and they haven't figured out how to make God for them--so they fall away.
 
@@ -165,7 +165,7 @@ God sent Moses and Aaron to preach the gospel, "You are not a god but I am. And 
 
 ### the temptations of the world, and the power of Satan
 
->Isaiah 6:9–10 (CSB) And he replied: Go! Say to these people: Keep listening, but do not understand; keep looking, but do not perceive. Make the minds of these people dull; deafen their ears and blind their eyes; otherwise they might see with their eyes and hear with their ears, understand with their minds, turn back, and be healed.
+>Isaiah 6:9–10 (CSB) And he replied: Go! Say to these people: Keep listening, but do not understand; keep looKing, but do not perceive. Make the minds of these people dull; deafen their ears and blind their eyes; otherwise they might see with their eyes and hear with their ears, understand with their minds, turn back, and be healed.
 
 And it is God who hardened the heart of Pharaoh and Pharaoh, driven with madness from sin, caused the death of his firstborn son, his army, and himself.
 
@@ -187,13 +187,29 @@ Paul in Romans 9 pulls back the curtain a little bit on the sovereignty of God i
 
 >Romans 9:16-19 (CSB) So then, it does not depend on human will or effort but on God who shows mercy. For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden. You will say to me, therefore, “Why then does he still find fault? For who resists his will? ”
 
-In other words, God is not above raising and lowering and even marking someone as an object of wrath in order to save his people who were marked as objects of mercy.
+In other words, God is not above raising and lowering and even marKing someone as an object of wrath in order to save his people who were marked as objects of mercy.
 
 God alone gives mercy. God alone gives grace. God alone is compassionate. God alone saves.
 
 Pharaoh in his own sin turned over to the deepest desires of his heart. To the people of God, he saved them for nothing they have done but rather everything he is--good, glory, and grace.
 
-Do you not think that the hardening of Pharaoh's heart was on full display not only to Moses and his people but to the people of Egypt as well? God was aptly proclaiming, "Choose on this day whom you will serve!"
+Do you not think that the hardening of Pharaoh's heart was on full display not only to Moses and his people but to the people of Egypt as well? God was aptly proclaiming, "Choose on this day whom you will serve!" The God of the greatest power is the same God who is the greatest redeemer. He had stopped at nothing in order to rescue his people from the bondage of sin and death.
+
+The rising and lower of another King happened again in the Bible. But this King was not wicked nor cruel nor narcissistic. This King loved the Lord his God and he loved his people with all of his might. His people were wicked and not did love God. They have turned away from God and they worshipped their own gods. But this King was not moved by the sins of his people but rather mercies and compassion and the steadfast love he had for them. For they were his and he was theirs.
+
+And this King was not made to lower after being in glory forever past but rather "for the joy that lay before him, he endured the cross, despising the shame". (Hebrews 12:2) 
+
+And at the same time, the King was being lowered unto death on the cross, God raised him up, for:
+
+>John 3:14-15 (CSB) Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, so that everyone who believes in him may have eternal life.
+
+And:
+
+>John 12:32 (CSB) As for me, if I am lifted up from the earth I will draw all people to myself.”
+
+The Pharaoh was a king who was low as a baby, brought high by God and then brought low unto for his own sins in order the name of God would be glorified and the salvation of his people would be made known.
+
+Jesus is the Son of God who is God was always in glory with the Father and the Spirit. He was low as a baby, lived the perfect life that the people of God should have lived. But he too was brought low unto death on the cross not for his own sins but rather the sins of his people in order the name of God would be glorified and the salvation of his people not only be made known but also be perfectly, eternally, completely, and fully accomplished. And now Jesus is glorified by the Father as King of kings and Lord of lords forever and ever. Amen.
 
 ## The Resources
 
