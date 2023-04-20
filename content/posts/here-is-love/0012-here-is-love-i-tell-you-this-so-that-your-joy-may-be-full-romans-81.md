@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: I Tell You This So That Your Joy May Be Full – Romans 8:1'
+title: 'Here is Love: Romans 8:1 I Tell You This So That Your Joy May Be Full'
 author: Joseph Louthan
 date: 2012-11-05T15:00:53+00:00
 categories:

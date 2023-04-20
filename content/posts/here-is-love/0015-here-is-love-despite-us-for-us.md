@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Despite Us For Us – Romans 8:5-6'
+title: 'Here is Love: Romans 8:5-6 Despite Us For Us'
 author: Joseph Louthan
 date: 2012-12-17T15:00:42+00:00
 categories:

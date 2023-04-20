@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Why Did God Save Us? – Romans 8:29d'
+title: 'Here is Love: Romans 8:29d Why Did God Save Us?'
 author: Joseph Louthan
 date: 2018-05-28T12:00:26+00:00
 categories:

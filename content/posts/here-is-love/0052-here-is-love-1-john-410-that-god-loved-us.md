@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: That God Loved Us - 1 John 4:10'
+title: 'Here is Love: 1 John 4:10 That God Loved Us'
 author: Joseph Louthan
 date: 2019-10-31
 publishDate: 2019-11-04

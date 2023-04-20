@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: What Shall Separate? - Romans 8:35'
+title: 'Here is Love: Romans 8:35 What Shall Separate?'
 author: Joseph Louthan
 date: 2018-08-06T12:00:32+00:00
 categories:

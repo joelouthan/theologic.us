@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Called by God - Romans 8:30b'
+title: 'Here is Love: Romans 8:30b Called by God'
 author: Joseph Louthan
 date: 2018-06-18T12:00:43+00:00
 categories:

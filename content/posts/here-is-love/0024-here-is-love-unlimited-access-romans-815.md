@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Unlimited Access–Romans 8:15'
+title: 'Here is Love: Romans 8:15 Unlimited Access'
 author: Joseph Louthan
 date: 2013-04-22T14:00:44+00:00
 categories:

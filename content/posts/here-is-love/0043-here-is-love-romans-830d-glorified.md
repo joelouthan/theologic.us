@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Glorified by God- Romans 8:30d'
+title: 'Here is Love: Romans 8:30d Glorified by God'
 author: Joseph Louthan
 date: 2018-07-02T12:00:09+00:00
 categories:

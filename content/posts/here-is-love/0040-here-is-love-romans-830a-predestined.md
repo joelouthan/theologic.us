@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Predestined by God - Romans 8:30a'
+title: 'Here is Love: Romans 8:30a Predestined by God'
 author: Joseph Louthan
 date: 2018-06-11T12:00:41+00:00
 categories:

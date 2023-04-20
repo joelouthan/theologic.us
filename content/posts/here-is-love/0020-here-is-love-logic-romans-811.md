@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Logic – Romans 8:11'
+title: 'Here is Love: Romans 8:11 Logic'
 author: Joseph Louthan
 date: 2013-02-18T15:00:18+00:00
 categories:

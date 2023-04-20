@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: For Your Consideration - Romans 8:37'
+title: 'Here is Love: Romans 8:37 For Your Consideration'
 author: Joseph Louthan
 date: 2018-08-20T12:00:38+00:00
 categories:

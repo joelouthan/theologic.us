@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Never Alone- Romans 8:14'
+title: 'Here is Love: Romans 8:14 Never Alone'
 author: Joseph Louthan
 date: 2013-04-15T14:00:44+00:00
 categories:

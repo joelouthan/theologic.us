@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: We Get Everything—Romans 8:17, Pt. 1'
+title: 'Here is Love: Romans 8:17, Pt. 1 We Get Everything'
 author: Joseph Louthan
 date: 2013-07-01T14:00:04+00:00
 categories:

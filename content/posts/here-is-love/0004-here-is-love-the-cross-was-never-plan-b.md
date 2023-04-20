@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: The Cross Was Never Plan B—Genesis 3:15'
+title: 'Here is Love: Genesis 3:15 The Cross Was Never Plan B'
 author: Joseph Louthan
 date: 2012-08-29T14:00:09+00:00
 categories:

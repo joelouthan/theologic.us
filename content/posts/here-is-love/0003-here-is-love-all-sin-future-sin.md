@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: All Sin Future Sin—Romans 5:8'
+title: 'Here is Love: Romans 5:8 All Sin Future Sin'
 author: Joseph Louthan
 date: 2012-08-27T14:00:27+00:00
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Never Alone, Can’t Do It Alone – Romans 8:9'
+title: 'Here is Love: Romans 8:9 Never Alone, Can’t Do It Alone'
 author: Joseph Louthan
 date: 2013-01-28T15:00:54+00:00
 categories:

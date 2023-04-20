@@ -1,5 +1,5 @@
 ---
-title: Here is Love
+title: Here is Love, A Hymn of Praise
 author: Joseph Louthan
 date: 2012-08-22T15:00:43+00:00
 categories:

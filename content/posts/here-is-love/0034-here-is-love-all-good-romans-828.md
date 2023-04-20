@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: All Good – Romans 8:28'
+title: 'Here is Love: Romans 8:28 All Good'
 author: Joseph Louthan
 date: 2018-04-30T12:00:32+00:00
 categories:

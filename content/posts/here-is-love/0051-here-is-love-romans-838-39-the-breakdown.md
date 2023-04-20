@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: What Heights or Depths - Romans 8:38-39'
+title: 'Here is Love: Romans 8:38-39 What Heights or Depth'
 author: Joseph Louthan
 date: 2018-08-27T12:00:21+00:00
 categories:

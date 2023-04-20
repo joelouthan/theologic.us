@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: For All Time—Psalm 103:15-18'
+title: 'Here is Love: Psalm 103:15-18 For All Time'
 author: Joseph Louthan
 date: 2012-09-19T14:00:10+00:00
 categories:

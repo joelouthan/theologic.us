@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Who Can Condemn? - Romans 8:34'
+title: 'Here is Love: Romans 8:34 Who Can Condemn?'
 author: Joseph Louthan
 date: 2018-07-30T12:00:40+00:00
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Necessary Surgery—Ezekiel 36:22-28'
+title: 'Here is Love: Ezekiel 36:22-28 Necessary Surgery'
 author: Joseph Louthan
 date: 2012-10-15T15:40:54+00:00
 excerpt: 'This is how He will save: the Skilled Physician performs open heart surgery on each and every one of his precious children and places His life-giving Spirit into every heart opened by Him.'

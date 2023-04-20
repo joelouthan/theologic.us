@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Perfectly—Matthew 1:21'
+title: 'Here is Love: Matthew 1:21 Perfectly'
 author: Joseph Louthan
 date: 2012-10-01T14:02:58+00:00
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Sheep to the Slaughter - Romans 8:36'
+title: 'Here is Love: Romans 8:36 Sheep to the Slaughter'
 author: Joseph Louthan
 date: 2018-08-13T12:00:13+00:00
 categories:

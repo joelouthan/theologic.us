@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: You Have Everything– Romans 8:17, Pt. 2'
+title: 'Here is Love: Romans 8:17, Pt. 2 You Have Everything'
 author: Joseph Louthan
 date: 2013-08-19T14:00:51+00:00
 categories:

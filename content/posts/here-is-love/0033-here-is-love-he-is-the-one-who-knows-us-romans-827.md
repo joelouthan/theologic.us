@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: He is the One Who Knows Us – Romans 8:27'
+title: 'Here is Love: Romans 8:27 He is the One Who Knows Us'
 author: Joseph Louthan
 date: 2018-04-23T12:00:37+00:00
 categories:

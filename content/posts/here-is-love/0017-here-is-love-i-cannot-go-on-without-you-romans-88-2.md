@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: I Cannot Go On Without You – Romans 8:8'
+title: 'Here is Love: Romans 8:8 I Cannot Go On Without You'
 author: Joseph Louthan
 date: 2013-01-14T15:00:24+00:00
 categories:

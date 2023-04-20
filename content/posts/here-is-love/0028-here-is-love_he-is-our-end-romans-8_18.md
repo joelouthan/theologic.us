@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: He is Our End – Romans 8:18'
+title: 'Here is Love: Romans 8:18 He is Our End'
 author: Joseph Louthan
 date: 2013-08-26T13:00:30+00:00
 categories:

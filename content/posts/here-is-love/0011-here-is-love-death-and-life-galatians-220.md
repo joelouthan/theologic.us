@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Death and Life – Galatians 2:20'
+title: 'Here is Love: Galatians 2:20 Death and Life'
 author: Joseph Louthan
 date: 2012-10-29T14:00:13+00:00
 excerpt: I was in full decay. My soul was in furthest most depths of the ocean. The weighty, freezing water on top of me was my own sin crushing my own soul.
@@ -32,6 +32,6 @@ Now I trust in what Christ has done, is doing and will do by the power of His Sp
 
 Christ saw my sin, depravity, wickedness, deceit, anger, lust, frustration, perversion, ignorance, treachery, and blasphemy. He wasn’t stupid. He wasn’t ignorant. He saw of that and loved me. I was far from him and in his almighty power, he exchange his place near to God for my place far away from God so I can be near God forever.
 
-Galatians 2:20 **I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.**
+>Galatians 2:20 (CSB) I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
 That is love.

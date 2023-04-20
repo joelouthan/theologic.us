@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: What God Saw In Us – Romans 8:29a'
+title: 'Here is Love: Romans 8:29a What God Saw In Us'
 author: Joseph Louthan
 date: 2018-05-07T12:00:14+00:00
 categories:

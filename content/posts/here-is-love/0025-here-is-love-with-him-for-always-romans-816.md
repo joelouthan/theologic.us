@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: With Him For Always—Romans 8:16'
+title: 'Here is Love: Romans 8:16 With Him For Always'
 author: Joseph Louthan
 date: 2013-04-29T14:00:35+00:00
 categories:

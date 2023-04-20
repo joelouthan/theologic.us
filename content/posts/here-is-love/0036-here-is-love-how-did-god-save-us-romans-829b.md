@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: How Did God Save Us? – Romans 8:29b'
+title: 'Here is Love: Romans 8:29b How Did God Save Us?'
 author: Joseph Louthan
 date: 2018-05-14T12:00:32+00:00
 categories:

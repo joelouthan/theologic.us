@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: God Has Given Us Everything - Romans 8:32'
+title: 'Here is Love: Romans 8:32 God Has Given Us Everything'
 author: Joseph Louthan
 date: 2018-07-16T12:00:33+00:00
 categories:

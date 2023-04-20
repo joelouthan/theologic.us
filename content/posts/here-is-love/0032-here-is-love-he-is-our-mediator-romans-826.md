@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: He is Our Mediator – Romans 8:26'
+title: 'Here is Love: Romans 8:26 He is Our Mediator'
 author: Joseph Louthan
 date: 2018-04-16T12:00:00+00:00
 categories:

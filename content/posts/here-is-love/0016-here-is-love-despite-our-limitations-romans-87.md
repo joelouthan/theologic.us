@@ -1,5 +1,5 @@
 ---
-title: 'Here is Love: Despite Our Limitations – Romans 8:7'
+title: 'Here is Love: Romans 8:7 Despite Our Limitations'
 author: Joseph Louthan
 date: 2013-01-07T15:00:31+00:00
 categories:
