@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 
 ## The Chapter
 
