@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "1021"
+duration: "0:26:03"
+short_description: "Redemption? You know why I think this is not so easy to explain? Because I see way way too many Christians who, by the grace of God, get saved by God and then spend the rest of their lives trying to be their own redeemer when Christ alone is our redeemer. But let me ask you this: what is redemption?"
+mp3:
+    asset_link: "2021-10-21-study-genesis9-8-17.mp3"
+    length: "38002448"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 It is one thing to wrap our minds around the continuous work of God in redemption. It is whole other thing to sit and think and meditate on the permeance of God's work in redemption.
