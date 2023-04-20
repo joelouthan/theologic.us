@@ -12,8 +12,35 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0729"
+duration: "0:38:04"
+short_description: "In this particular study, I was tempted in breaking my usual template and wanted to step away from examining God first. But the more I read the passage,  the more we can see what the passage does proclaim God in the light of the lies and the schemes of devil. In other words, the more you know God and his word, the more that your mind and heart can reject the lies of Satan and the philosophies of this world."
+mp3:
+    asset_link: "2021-07-29-study-genesis3-1-13.mp3"
+    length: "55305959"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
-## The Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 ## The Text
 
