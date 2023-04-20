@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>Romans 7:24 (CSB) What a wretched man I am! Who will rescue me from this body of death?
 
 ## The Chapter
 
