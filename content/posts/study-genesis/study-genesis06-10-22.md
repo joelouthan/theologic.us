@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0909"
+duration: "0:38:40"
+short_description: "A Christian will always cry out for mercy and salvation in the midst of their sin--when the temptation is overwhelming and they will surely drown if God does not save them. The unbeliever has no clue of the impending doom on their lives. Yet, not even Noah cried out for mercy and grace. But God extended to him."
+mp3:
+    asset_link: "2021-09-09-study-genesis6-10-22.mp3"
+    length: "56171761"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 In Genesis 1 & 2, God created the heavens and the earth, we were introduced to the omnipotence, omniscient, and omnipresent of God. And please don't be put off by these big fancy words.
@@ -39,9 +68,9 @@ So many people say we cannot judge someone else's salvation even though Jesus cl
 
 You want to know how you can tell the difference between a believer and unbeliever? Between the Christian and the sinner?
 
-The true Christian will always cry out for mercy and salvation in the midst of their sin--when the temptation is overwhelming and they will surely drown if God does not save them. The unbeliever has no clue of the impending doom on their lives.
+A Christian will always cry out for mercy and salvation in the midst of their sin--when the temptation is overwhelming and they will surely drown if God does not save them. The unbeliever has no clue of the impending doom on their lives.
 
-Not even Noah cried out for mercy and grace. But God extended to him.
+Yet, not even Noah cried out for mercy and grace. But God extended to him.
 
 And not even the salvation of Noah was a big enough warning to everybody else around Noah that something is terribly wrong and it is coming for them.
 
