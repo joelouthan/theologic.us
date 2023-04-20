@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0923"
+duration: "0:41:57"
+short_description: "And throughout the annuals of history, you have seen the will of man--under the barrage of temptation, the hubris of the soul, and the sin infection of the heart--will fool themselves into thinking that they can take on the will of God. And man does so by altering and twisting right theology so that mankind can do what is right in their own eyes."
+mp3:
+    asset_link: "2021-09-23-study-genesis7-11-24.mp3"
+    length: "60912672"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 Make no mistake: everybody who has a opinion of God is a theologian. The question remains are you a good or bad theologian.
