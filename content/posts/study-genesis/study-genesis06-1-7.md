@@ -12,7 +12,38 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0819"
+duration: "0:19:45"
+short_description: "If I tried to write a book on sin, I would feel like it would be wholly incomplete. Because of my mortal nature and not fully glorified on this side of heaven, I would miss so much.
+
+Because of the nature of sin, if I am tempted by sin and give into that sin, I cannot see the full effects of sin."
+mp3:
+    asset_link: "2021-08-19-study-genesis5.mp3"
+    length: "28933779"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 **Hamartiology** (ha mar tee ology). Incredibly huge word. If I would take a guess, I would say that maybe just a few people in here today has ever heard this word before--fewer still have even used it in a sentence. Hamartiology (ha mar tee ology) is simply "the study of sin." Undoubtedly, anybody who would undertake such a discipline would be, most likely, from a Christian perspective and within that perspective, "the study of sin and its effects."
