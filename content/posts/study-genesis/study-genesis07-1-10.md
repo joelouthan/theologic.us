@@ -12,7 +12,36 @@ series:
 tocopen: true
 css: "prayers"
 draft: false
+
+episodes:
+  - "Genesis"
+layout: episode
+eptype: full
+season: "2021"
+number: "0916"
+duration: "0:26:36"
+short_description: "We might be so tempted as the world and some progressive Christians would like to think that Christ has the simple authority to declare you freed from sin and that is it. Like Jesus Christ has the magical power of hocus pocus and boom, your sins are forgiven. Which is sounds amazing except we have the rest of the Bible to tell us in what power, promise, and authority can do such things."
+mp3:
+    asset_link: "2021-09-16-study-genesis7-1-10.mp3"
+    length: "38814334"
+image: 
+  url: images/apple-thor-logo-1600x.jpg
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Introduction
 
 When you read Genesis 4 and 5, you might be tempted to follow the section headings within the chapters--The Line of Cain, The Line of Seth, so on and so forth.
@@ -84,7 +113,7 @@ And to the woman caught in the middle of adultery, what does Christ say to her?
 >
 >11 “No one, Lord,” she answered.
 >
->“Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”]
+>“Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”
 
 And to Mary, sister of Martha and Lazarus and close friend of Jesus, who began that friendship not as someone who cleaned themselves up and approached in self-righteousness, but in the midst of shame and ridicule of church folks as she desperately came to worship Christ and anointed his feet with oil as he inched closer to his death and burial:
 
@@ -96,7 +125,7 @@ And to Mary, sister of Martha and Lazarus and close friend of Jesus, who began t
 
 We might be so tempted as the world and some progressive Christians would like to think that Christ has the simple authority to declare you freed from sin and that is it. Like Jesus Christ has the magical power of hocus pocus and boom, your sins are forgiven.
 
-Which is sounds amazing accept we have the rest of the Bible to tell us in what power, promise, and authority can do such things. The Pharisees could not believe that this simple man named Jesus could utter the words, "your sins are forgiven" and rightfully, in their own eyes, call it blasphemous. Except in that statement, we see the hardness of their cold, dead hearts--they did not believe in God. If they did, they would have known this was the Son of God who is God.
+Which is sounds amazing except we have the rest of the Bible to tell us in what power, promise, and authority can do such things. The Pharisees could not believe that this simple man named Jesus could utter the words, "your sins are forgiven" and rightfully, in their own eyes, call it blasphemous. Except in that statement, we see the hardness of their cold, dead hearts--they did not believe in God. If they did, they would have known this was the Son of God who is God.
 
 And according to the Scriptures alone, Christ came to our world and he was set out to do one thing:
 
