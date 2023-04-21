@@ -46,8 +46,6 @@ We outright reject fatalism--that our predetermined actions are inevitable and t
 
 Make no mistake: there is a choice to be made. Follow God or descend into death.
 
->Joshua 24:15 (CSB) But if it doesn’t please you to worship the LORD, choose for yourselves today: Which will you worship—the gods your ancestors worshiped beyond the Euphrates River or the gods of the Amorites in whose land you are living? As for me and my family, we will worship the LORD.”
-
 ## The Resources
 
 <img src="/images/resources/dnd-1689-site-logo.png" align="left" width="100" style="padding-right: 10px" />Site: [Doctrine & Devotion](http://www.doctrineanddevotion.com/)  
