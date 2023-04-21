@@ -662,7 +662,7 @@ As the providence of God doth in general reach to all creatures, so after a more
 
 ## Chapter 6: Of the Fall of Man, Of Sin, And of the Punishment Thereof
 
-### 
+### 6.1 The Fall of Mankind
 
 ```text
 Although God created man upright and perfect, and gave him a righteous law, which had been unto life had he kept it, and threatened death upon the breach thereof, yet he did not long abide in this honour; Satan using the subtlety of the serpent to subdue Eve, then by her seducing Adam, who, without any compulsion, did willfully transgress the law of their creation, and the command given unto them, in eating the forbidden fruit, which God was pleased, according to his wise and holy counsel to permit, having purposed to order it to his own glory.
@@ -676,7 +676,7 @@ Although God created man upright and perfect, and gave him a righteous law, whic
 
 ---
 
-### 
+### 6.2 The Death of Mankind
 
 ```text
 Our first parents, by this sin, fell from their original righteousness and communion with God, and we in them whereby death came upon all: all becoming dead in sin, and wholly defiled in all the faculties and parts of soul and body.
@@ -696,7 +696,7 @@ Our first parents, by this sin, fell from their original righteousness and commu
 
 ---
 
-###
+### 6.3 The Corruption of Mankind
 
 ```text
 They being the root, and by God's appointment, standing in the room and stead of all mankind, the guilt of the sin was imputed, and corrupted nature conveyed, to all their posterity descending from them by ordinary generation, being now conceived in sin, and by nature children of wrath, the servants of sin, the subjects of death, and all other miseries, spiritual, temporal, and eternal, unless the Lord Jesus set them free.
@@ -722,7 +722,7 @@ They being the root, and by God's appointment, standing in the room and stead of
 
 ---
 
-### 
+### 6.4 The Inclination of Mankind
 
 ```text
 From this original corruption, whereby we are utterly indisposed, disabled, and made opposite to all good, and wholly inclined to all evil, do proceed all actual transgressions.
@@ -738,7 +738,7 @@ From this original corruption, whereby we are utterly indisposed, disabled, and 
 
 ---
 
-### 
+### 6.5 The Nature of Mankind
 
 ```text
 The corruption of nature, during this life, doth remain in those that are regenerated; and although it be through Christ pardoned and mortified, yet both itself, and the first motions thereof, are truly and properly sin.
