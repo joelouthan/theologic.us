@@ -30,6 +30,26 @@ The Son of God, the second person in the Holy Trinity, being very and eternal Go
 
 >Galatians 4:4 (CSB) When the time came to completion, God sent his Son, born of a woman, born under the law,
 
+I am writing this particular exposition on 1689 Chapter 9 Paragraph 2 on April 21, 2023. Why is that important?
+
+Back on February 9, 2023, I posted my expositing on the [1689 2.3 Of The Triune God](https://theologic.us/posts/confession-1689/1689-2-3-the-triune-god/#who-is-not-to-be-divided-in-nature-and-being-but-distinguished-by-several-peculiar-relative-properties-and-personal-relations). In that exposition, I wrote:
+
+>>There is a new-old heresy being circulated around that fired up about ten years ago then sort of fizzled like a fart in church, called the Eternal Submission of the Son (ESS). Those who are spouting out such nonsense are always those who fall so far into hard **Complementarianism** camp (those who believe genders of mankind are different but equal) that they are indistinguishable from Patriarchy (men are always right and women need to shut up and stay quiet.) There one verse that they have built their house of cards upon is 1 Corinthians 11:3.
+>>
+>>Now, I hope you can tell from reading the last paragraph, that I have zero grace towards people who keep teaching *ESS* like it is a real and Biblical thing. Those are false teachers and I will not stand for it. Come into my church shooting that nonsense and you will be handled promptly and according. (Not a threat but a fact.)
+
+Little did I know that what I was writing ended up being prophetic. At the same time I posted that, I am sad to say that my former church, a large Evangelical non-denomination, had made a hard pivot into not only preaching and teaching ESS but go as far as to double-down on the heretic doctrine. This heresy, in my former church, has already disqualified my best friend from leadership because he, being a former church planter, an ordained pastor and a well-educated, Ph.D from a conservative Baptist seminary, would not affirm ESS as true. My friend could not affirm ESS as true because it is not true. It is crap. It is a heresy because the Bible does not teach it. It is outside the Bible.
+
+Everything in my flesh wants to fire shots. Everything in me wants to call that church to repent of their false teaching, apologize and tell them to change course today. And because I am not here to divide his church, I sit and grieve for my friends who still attend that church.
+
+This is the humble reminder that Christ is the Bridegroom. Christ alone will open and close the doors of his church where he sees fit because he alone is the Head Pastor.
+
+In the last month of praying for my precious friends, one friend, whom another I call a best friend still faithfully attends that church. I prayed that God would do something, anything to spare him from that heretic teaching. But in God's provision, this same friend is considering moving to my part of the country. God is in the business of answering prayers.
+
+This is why we need Confessions. We need the work of those who came before us hundreds of years ago who tirelessly worked out the details of the right orthodox Christian doctrine. Confessions and Creeds never supersede the authority of the Bible--that strawman argument is tired and dead. Please put it to rest.
+
+The 1689, both in Chapters 2 and 8, carefully and clearly lays out the doctrine of the Trinity. I am not a well-learned scholar. I graduated high school with a 1.70 GPA. So I am utterly dependent on my brothers and sisters before me who has done the work to point me back to Christ. I will not waste one byte of data, not one bit of ink speaking about heresies. I am here to the preach Christ and him crucified.
+
 ### yet without sin
 
 >Romans 8:3 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,
@@ -38,9 +58,33 @@ The Son of God, the second person in the Holy Trinity, being very and eternal Go
 
 >Hebrews 4:15 (CSB) For we do not have a high priest who is unable to sympathize with our weaknesses, but one who has been tempted in every way as we are, yet without sin.
 
+Since Christ was not born of Adam because he was conceived by the Holy Spirit, he did not get Adam's sinful nature. Christ alone was born into the world without sin. That is why is the Perfect Spotless Lamb of God. That is why his death is worthy to cleanse us from our sins.
+
+If one person bore witness to Christ committed one sin, then the cultish belief surrounding a carpenter's son from Galilee over 2,000 would be nothing more than a night time story or at least, worth a couple books with the Apocrypha.
+
+But the truth is that no one bore witness to the sins of Jesus because he committed none.
+
+Take this all the way. Surely, the family of Jesus bore witness.
+
+His half-brother, James, who went on to pen the Epistle of his name. This is what the famous Roman historian, Josephus, wrote of James, the brother of Jesus:
+
+>>Ananus, who, as we have told you already, took the high priesthood, was a bold man in his temper, and very insolent; he was also of the sect of the Sadducees, who are very rigid in judging offenders, above all the rest of the Jews, as we have already observed; when, therefore, Ananus was of this disposition, he thought he had now a proper opportunity [to exercise his authority]. Festus was now dead, and Albinus was but upon the road; so he assembled the Sanhedrin of judges, and brought before them the brother of Jesus, who was called Christ, whose name was James, and some others, [or, some of his companions]; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned
+>>
+>>Flavius Josephus: Antiquities of the Jews, Book 20, Chapter 9, 1, based on the translation of Louis H. Feldman, The Loeb Classical Library.
+
+Have you met of one sibling in all of the history of the world who willing let themselves be killed in the name of their brother who claimed to be Son of God who is God? Never in the their right mind.
+
+Yet, all the disciples of Christ laid their lives down in order for the gospel of their Christ reached to ends of the world.
+
 ### being conceived by the Holy Spirit in the womb of the Virgin Mary, the Holy Spirit coming down upon her: and the power of the Most High overshadowing her; and so was made of a woman of the tribe of Judah, of the seed of Abraham and David according to the Scriptures
 
 >Matthew 1:22–23 (CSB) Now all this took place to fulfill what was spoken by the Lord through the prophet: See, the virgin will become pregnant and give birth to a son, and they will name him Immanuel, which is translated “God is with us.”
+
+>Matthew 1:1 (CSB) An account of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:
+
+Christ, never taking on the nature of Adam, but conceived righteously by the Holy Spirit from the sovereign grace of the Father, to be perfectly born of as the double-son of David. This is to say, Christ is the Son of David by adoption by Joseph and the Son of David by nature through Mary. This is to fulfill the covenant that God made with David:
+
+>2 Samuel 7:11-16 (CSB) “ ‘The LORD declares to you: The LORD himself will make a house for you. When your time comes and you rest with your ancestors, I will raise up after you your descendant, who will come from your body, and I will establish his kingdom. He is the one who will build a house for my name, and I will establish the throne of his kingdom forever. I will be his father, and he will be my son. When he does wrong, I will discipline him with a rod of men and blows from mortals. But my faithful love will never leave him as it did when I removed it from Saul, whom I removed from before you. Your house and kingdom will endure before me forever, and your throne will be established forever.’ ”
 
 ### so that two whole, perfect, and distinct natures were inseparably joined together in one person, without conversion, composition, or confusion; which person is very God and very man, yet one Christ, the only mediator between God and man
 
@@ -49,6 +93,20 @@ The Son of God, the second person in the Holy Trinity, being very and eternal Go
 >Romans 9:5 (CSB) The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen.
 
 >1 Timothy 2:5 (CSB) For there is one God and one mediator between God and mankind, the man Christ Jesus,
+
+God is immutable--that is God does not change. Not inside out. Not outside in. God is the same yesterday, today, and tomorrow.
+
+But yet, herein lies the mystery of the Christ. Because Christ is fully God. He is spirit. He is invisible because God is immutable, spirit, and invisible. And yet, the Son became Jesus Christ, very much flesh, very much visible and at first glance, very much changed.
+
+But the Son of God changed nothing about himself in order to take on the flesh to become fully man. All his glory, might, wisdom, goodness, and love which he was simply and in whole, remained unchanged as he took on the flesh as Jesus Christ, the Son of God and the son of Mary and Joseph. He takes this on and he will never discard it. It pleased him to do so. A quick examination of the Gospels and you will soon see that his favorite title for himself was the Son of Man.
+
+And we know he has never discard his flesh, for:
+
+>John 20:27 (CSB) Then he said to Thomas, “Put your finger here and look at my hands. Reach out your hand and put it into my side. Don’t be faithless, but believe.”
+
+>Revelation 12:11 (CSB) They conquered him by the blood of the Lamb and by the word of their testimony; for they did not love their lives to the point of death.
+
+Jesus Christ is our Savior forever. Amen.
 
 ## The Resources
 
