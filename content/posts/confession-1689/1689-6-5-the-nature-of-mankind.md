@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
 ## The Chapter
 
@@ -33,6 +33,10 @@ The corruption of nature, during this life, doth remain in those that are regene
 >Ecclesiastes 7:20 (CSB) There is certainly no one righteous on the earth who does good and never sins.
 
 >1 John 1:8 (CSB) If we say, “We have no sin,” we are deceiving ourselves, and the truth is not in us.
+
+The Reformer Martin Luther called this state of the saved believer: Simul Justus et Peccator. In other words, the people of God are both justified and sinner at the same time.
+
+I cannot account for all of Christian history, but seemingly, especially in Evangelistic circles, the debate surrounding Romans 7:7-25. And the debate is attempting to answer this: TODO:
 
 ### and although it be through Christ pardoned and mortified, yet both itself, and the first motions thereof, are truly and properly sin
 
