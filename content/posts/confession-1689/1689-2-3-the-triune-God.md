@@ -184,7 +184,7 @@ So what can we say about these things? Indeed.
 
 ### who is not to be divided in nature and being but distinguished by several peculiar relative properties and personal relations
 
-There is a new-old heresy being circulated around that fired up about ten years ago then sort of fizzled like a fart in church, called the Eternal Submission of the Son (ESS). Those who are spouting out such nonsense are always those who fall so far into hard **Complementarianism** camp(those who believe genders of mankind are different but equal) that they are indistinguishable from Patriarchy (men are always right and women need to shut up stay quiet.) There one verse that they have built their house of cards upon is:
+There is a new-old heresy being circulated around that fired up about ten years ago then sort of fizzled like a fart in church, called the Eternal Submission of the Son (ESS). Those who are spouting out such nonsense are always those who fall so far into hard **Complementarianism** camp (those who believe genders of mankind are different but equal) that they are indistinguishable from Patriarchy (men are always right and women need to shut up and stay quiet.) There one verse that they have built their house of cards upon is:
 
 >1 Corinthians 11:3 (CSB) But I want you to know that Christ is the head of every man, and the man is the head of the woman, and God is the head of Christ.
 
@@ -196,7 +196,7 @@ Call it Western thinking. Call it whatever you want: just because the Father is 
 
 [^Gen6-1-7]: Read Genesis 6:1-7. Stay put on verse 4. For my own exposition on this passage, see [Genesis 6:1-7 The Gospel Certainty: The Wickedness of Man](https://theologic.us/posts/study-genesis/study-genesis06-1-7/)
 
-So, because of being born of Adam, indwelling of sin, and the fact we cannot help but be nurtured by the philosophies of our time, we read *into* passages like 1 Corinthians 11:3 and we put our own spin and interpretation on it. Go back to all of chapter in the context of 1 Corinthians and look me dead in the eye and tell me that is how you would interpret verse 3? Nah, I didn' think so.
+So, because of being born of Adam, indwelling of sin, and the fact we cannot help but be nurtured by the philosophies of our time, we read *into* passages like 1 Corinthians 11:3 and we put our own spin and interpretation on it. Go back to all of chapter in the context of 1 Corinthians and look me dead in the eye and tell me that is how you would interpret verse 3? Nah, I didn't think so.
 
 **Protip**: Don't take verses out of context. Now what does that mean? Don't take a standalone verse or passage out of the Bible and try to make it mean what you want it to mean and ignore the text before and after and all of Scripture. Cherry picking verses is how sects, cults, and false religions get started. See Mormons, Jehovah's Witnesses, Restoration Movement, and a whole lot of fruit from the Second Great Awakening.
 
