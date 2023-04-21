@@ -761,191 +761,397 @@ The corruption of nature, during this life, doth remain in those that are regene
 
 ## Chapter 7: Of God's Covenant
 
-### 
+### 7.1 The Infiniteness of Righteousness
 
 ```text
 The distance between God and the creature is so great, that although reasonable creatures do owe obedience to him as their creator, yet they could never have attained the reward of life but by some voluntary condescension on God's part, which he hath been pleased to express by way of covenant.
 ```
 
-Luke 17:10; Job 35:7-8
+>Luke 17:10 (CSB) In the same way, when you have done all that you were commanded, you should say, ‘We are unworthy servants; we’ve only done our duty.’ ”
+
+>Job 35:7–8 (CSB) If you are righteous, what do you give him, or what does he receive from your hand? Your wickedness affects a person like yourself, and your righteousness, a son of man.
 
 ---
 
-### 
+### 7.2 The Covenant of Grace
 
 ```text
 Moreover, man having brought himself under the curse of the law by his fall, it pleased the Lord to make a covenant of grace, wherein he freely offereth unto sinners life and salvation by Jesus Christ, requiring of them faith in him, that they may be saved; and promising to give unto all those that are ordained unto eternal life, his Holy Spirit, to make them willing and able to believe.
 ```
 
-Genesis 2:17; Galatians 3:10; Romans 3:20-21; Romans 8:3; Mark 16:15-16; John 3:16; Ezekiel 36:26-27; John 6:44-45; Psalms 110:3
+>Genesis 2:17 (CSB) but you must not eat from the tree of the knowledge of good and evil, for on the day you eat from it, you will certainly die.”
+
+>Galatians 3:10 (CSB) For all who rely on the works of the law are under a curse, because it is written, Everyone who does not do everything written in the book of the law is cursed.
+
+>Romans 3:20–21 (CSB) For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law. But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets.
+
+>Romans 8:3 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,
+
+>Mark 16:15–16 (CSB) Then he said to them, “Go into all the world and preach the gospel to all creation. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
+
+>John 3:16 (CSB) For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+
+>Ezekiel 36:26–27 (CSB) I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. I will place my Spirit within you and cause you to follow my statutes and carefully observe my ordinances.
+
+>John 6:44–45 (CSB) No one can come to me unless the Father who sent me draws him, and I will raise him up on the last day. It is written in the Prophets: And they will all be taught by God. Everyone who has listened to and learned from the Father comes to me—
+
+>Psalm 110:3 (CSB) Your people will volunteer on your day of battle. In holy splendor, from the womb of the dawn, the dew of your youth belongs to you.
 
 ---
 
-### 
+### 7.3 The Preaching of the First Gospel
 
 ```text
 This covenant is revealed in the gospel; first of all to Adam in the promise of salvation by the seed of the woman, and afterwards by farther steps, until the full discovery thereof was completed in the New Testament; and it is founded in that eternal covenant transaction that was between the Father and the Son about the redemption of the elect; and it is alone by the grace of this covenant that all the posterity of fallen Adam that ever were saved did obtain life and blessed immortality, man being now utterly incapable of acceptance with God upon those terms on which Adam stood in his state of innocency.
 ```
 
-Genesis 3:15; Hebrews 1:1; 2 Timothy 1:9; Titus 1:2; Hebrews 11;6-13; Romans 4:1-2; Acts 4:12; John 8:56
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+>Hebrews 1:1 (CSB) Long ago God spoke to our ancestors by the prophets at different times and in different ways.
+
+>2 Timothy 1:9 (CSB) He has saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before time began.
+
+>Titus 1:2 (CSB) in the hope of eternal life that God, who cannot lie, promised before time began.
+
+>Hebrews 11:6 (CSB) Now without faith it is impossible to please God, since the one who draws near to him must believe that he exists and that he rewards those who seek him.
+
+>Hebrews 11:13 (CSB) These all died in faith, although they had not received the things that were promised. But they saw them from a distance, greeted them, and confessed that they were foreigners and temporary residents on the earth.
+
+>Romans 4:1–2 (CSB) What then will we say that Abraham, our forefather according to the flesh, has found? If Abraham was justified by works, he has something to boast about—but not before God.
+
+>Acts 4:12 (CSB) There is salvation in no one else, for there is no other name under heaven given to people by which we must be saved.”
+
+>John 8:56 (CSB) Your father Abraham rejoiced to see my day; he saw it and was glad.”
 
 ---
 ---
 
 ## Chapter 8: Of Christ the Mediator
 
-### 
+### 8.1 The Pleasure of God
 
 ```text
 It pleased God, in His eternal purpose, to choose and ordain the Lord Jesus, his only begotten Son, according to the covenant made between them both, to be the mediator between God and man; the prophet, priest, and king; head and saviour of the church, the heir of all things, and judge of the world; unto whom he did from all eternity give a people to be his seed and to be by him in time redeemed, called, justified, sanctified, and glorified.
 ```
 
-Isaiah 42:1; 1 Peter 1:19-20; Acts 3:22; Hebrews 5:5-6; Psalms 2:6; Luke 1:33; Ephesians 1:22-23; Hebrews 1:2; Acts 17:31; Isaiah 53:10; John 17:6; Romans 8:30
+>Isaiah 42:1 (CSB) “This is my servant; I strengthen him, this is my chosen one; I delight in him. I have put my Spirit on him; he will bring justice to the nations.
+
+>1 Peter 1:19–20 (CSB) but with the precious blood of Christ, like that of an unblemished and spotless lamb. He was foreknown before the foundation of the world but was revealed in these last times for you.
+
+>Acts 3:22 (CSB) Moses said: The Lord your God will raise up for you a prophet like me from among your brothers. You must listen to everything he tells you.
+
+>Hebrews 5:5–6 (CSB) In the same way, Christ did not exalt himself to become a high priest, but God who said to him, You are my Son; today I have become your Father, also says in another place, You are a priest forever according to the order of Melchizedek.
+
+>Psalm 2:6 (CSB) “I have installed my king on Zion, my holy mountain.”
+
+>Luke 1:33 (CSB) He will reign over the house of Jacob forever, and his kingdom will have no end.”
+
+>Ephesians 1:22–23 (CSB) And he subjected everything under his feet and appointed him as head over everything for the church, which is his body, the fullness of the one who fills all things in every way.
+
+>Hebrews 1:2 (CSB) In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him.
+
+>Acts 17:31 (CSB) because he has set a day when he is going to judge the world in righteousness by the man he has appointed. He has provided proof of this to everyone by raising him from the dead.”
+
+>Isaiah 53:10 (CSB) Yet the LORD was pleased to crush him severely. When you make him a guilt offering, he will see his seed, he will prolong his days, and by his hand, the LORD’s pleasure will be accomplished.
+
+>John 17:6 (CSB) “I have revealed your name to the people you gave me from the world. They were yours, you gave them to me, and they have kept your word.
+
+>Romans 8:30 (CSB) And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
 ---
 
-### 
+### 8.2 The Son of God
 
 ```text
 The Son of God, the second person in the Holy Trinity, being very and eternal God, the brightness of the Father's glory, of one substance and equal with him who made the world, who upholdeth and governeth all things he hath made, did, when the fullness of time was come, take upon him man's nature, with all the essential properties and common infirmities thereof, yet without sin; being conceived by the Holy Spirit in the womb of the Virgin Mary, the Holy Spirit coming down upon her: and the power of the Most High overshadowing her; and so was made of a woman of the tribe of Judah, of the seed of Abraham and David according to the Scriptures; so that two whole, perfect, and distinct natures were inseparably joined together in one person, without conversion, composition, or confusion; which person is very God and very man, yet one Christ, the only mediator between God and man.
 ```
 
-John 1:14; Galatians 4;4; Romans 8:3; Hebrews 2:14-17; Hebrews 4:15; Matthew 1:22-23; Luke 1:27-35; Romans 9:5; 1 Timothy 2:5
+>John 1:14 (CSB) The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
+
+>Galatians 4:4 (CSB) When the time came to completion, God sent his Son, born of a woman, born under the law,
+
+>Romans 8:3 (CSB) For what the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,
+
+>Hebrews 2:14–17 (CSB) Now since the children have flesh and blood in common, Jesus also shared in these, so that through his death he might destroy the one holding the power of death—that is, the devil—and free those who were held in slavery all their lives by the fear of death. For it is clear that he does not reach out to help angels, but to help Abraham’s offspring. Therefore, he had to be like his brothers and sisters in every way, so that he could become a merciful and faithful high priest in matters pertaining to God, to make atonement for the sins of the people.
+
+>Hebrews 4:15 (CSB) For we do not have a high priest who is unable to sympathize with our weaknesses, but one who has been tempted in every way as we are, yet without sin.
+
+>Matthew 1:22–23 (CSB) Now all this took place to fulfill what was spoken by the Lord through the prophet: See, the virgin will become pregnant and give birth to a son, and they will name him Immanuel, which is translated “God is with us.”
+
+>Luke 1:27–35 (CSB) to a virgin engaged to a man named Joseph, of the house of David. The virgin’s name was Mary. And the angel came to her and said, “Greetings, favored woman! The Lord is with you.” But she was deeply troubled by this statement, wondering what kind of greeting this could be. Then the angel told her, “Do not be afraid, Mary, for you have found favor with God. Now listen: You will conceive and give birth to a son, and you will name him Jesus. He will be great and will be called the Son of the Most High, and the Lord God will give him the throne of his father David. He will reign over the house of Jacob forever, and his kingdom will have no end.” Mary asked the angel, “How can this be, since I have not had sexual relations with a man?” The angel replied to her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore, the holy one to be born will be called the Son of God.
+
+>Romans 9:5 (CSB) The ancestors are theirs, and from them, by physical descent, came the Christ, who is God over all, praised forever. Amen.
+
+>1 Timothy 2:5 (CSB) For there is one God and one mediator between God and mankind, the man Christ Jesus,
 
 ---
 
-### 
+### 8.3 The Son of Man
 
 ```text
 The Lord Jesus, in his human nature thus united to the divine, in the person of the Son, was sanctified and anointed with the Holy Spirit above measure, having in Him all the treasures of wisdom and knowledge; in whom it pleased the Father that all fullness should dwell, to the end that being holy, harmless, undefiled, and full of grace and truth, he might be throughly furnished to execute the office of mediator and surety; which office he took not upon himself, but was thereunto called by his Father; who also put all power and judgement in his hand, and gave him commandment to execute the same.
 ```
 
-Psalms 45:7; Acts 10:38; John 3:34; Colossians 2:3; Colossians 1:19; Hebrews 7:26; John 1:14; Hebrews 7:22; Hebrews 5:5; John 5:22-27; Matthew 28:18; Acts 2:36
+>Psalm 45:7 (CSB) You love righteousness and hate wickedness; therefore God, your God, has anointed you with the oil of joy more than your companions.
+
+>Acts 10:38 (CSB) how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how he went about doing good and healing all who were under the tyranny of the devil, because God was with him.
+
+>John 3:34 (CSB) For the one whom God sent speaks God’s words, since he gives the Spirit without measure.
+
+>Colossians 2:3 (CSB) In him are hidden all the treasures of wisdom and knowledge.
+
+>Colossians 1:19 (CSB) For God was pleased to have all his fullness dwell in him,
+
+>Hebrews 7:26 (CSB) For this is the kind of high priest we need: holy, innocent, undefiled, separated from sinners, and exalted above the heavens.
+
+>John 1:14 (CSB) The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
+
+>Hebrews 7:22 (CSB) Because of this oath, Jesus has also become the guarantee of a better covenant.
+
+>Hebrews 5:5 (CSB) In the same way, Christ did not exalt himself to become a high priest, but God who said to him, You are my Son; today I have become your Father,
+
+>John 5:22–27 (CSB) The Father, in fact, judges no one but has given all judgment to the Son, so that all people may honor the Son just as they honor the Father. Anyone who does not honor the Son does not honor the Father who sent him. “Truly I tell you, anyone who hears my word and believes him who sent me has eternal life and will not come under judgment but has passed from death to life. “Truly I tell you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live. For just as the Father has life in himself, so also he has granted to the Son to have life in himself. And he has granted him the right to pass judgment, because he is the Son of Man.
+
+>Matthew 28:18 (CSB) Jesus came near and said to them, “All authority has been given to me in heaven and on earth.
+
+>Acts 2:36 (CSB) “Therefore let all the house of Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Messiah.”
 
 ---
 
-### 
+### 8.4 The Obedience of Christ
 
 ```text
 This office the Lord Jesus did most willingly undertake, which that he might discharge he was made under the law, and did perfectly fulfil it, and underwent the punishment due to us, which we should have borne and suffered, being made sin and a curse for us; enduring most grievous sorrows in his soul, and most painful sufferings in his body; was crucified, and died, and remained in the state of the dead, yet saw no corruption: on the third day he arose from the dead with the same body in which he suffered, with which he also ascended into heaven, and there sitteth at the right hand of his Father making intercession, and shall return to judge men and angels at the end of the world.
 ```
 
-Psalms 40:7-8; Hebrews 10:5-10; John 10:18; Gal 4:4; Matthew 3:15; Galatians 3:13; Isaiah 53:6; 1 Peter 3:18; 2 Corinthians 5:21; Matthew 26:37-38; Luke 22:44; Matthew 27:46; Acts 13:37; 1 Corinthians 15:3-4; John 20:25-27; Mark 16:19; Acts 1:9-11; Romans 8:34; Hebrews 9:24; Acts 10:42; Romans 14:9-10; Acts 1:11; 2 Peter 2:4
+>Psalm 40:7–8 (CSB) Then I said, “See, I have come; in the scroll it is written about me. I delight to do your will, my God, and your instruction is deep within me.”
+
+>Hebrews 10:5–10 (CSB) Therefore, as he was coming into the world, he said: You did not desire sacrifice and offering, but you prepared a body for me. You did not delight in whole burnt offerings and sin offerings. Then I said, “See— it is written about me in the scroll— I have come to do your will, God.” After he says above, You did not desire or delight in sacrifices and offerings, whole burnt offerings and sin offerings (which are offered according to the law), he then says, See, I have come to do your will. He takes away the first to establish the second. By this will, we have been sanctified through the offering of the body of Jesus Christ once for all time.
+
+>John 10:18 (CSB) No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”
+
+>Galatians 4:4 (CSB) When the time came to completion, God sent his Son, born of a woman, born under the law,
+
+>Matthew 3:15 (CSB) Jesus answered him, “Allow it for now, because this is the way for us to fulfill all righteousness.” Then John allowed him to be baptized.
+
+>Galatians 3:13 (CSB) Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, Cursed is everyone who is hung on a tree.
+
+>Isaiah 53:6 (CSB) We all went astray like sheep; we all have turned to our own way; and the LORD has punished him for the iniquity of us all.
+
+>1 Peter 3:18 (CSB) For Christ also suffered for sins once for all, the righteous for the unrighteous, that he might bring you to God. He was put to death in the flesh but made alive by the Spirit,
+
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
+>Matthew 26:37–38 (CSB) Taking along Peter and the two sons of Zebedee, he began to be sorrowful and troubled. He said to them, “I am deeply grieved to the point of death. Remain here and stay awake with me.”
+
+>Luke 22:44 (CSB) Being in anguish, he prayed more fervently, and his sweat became like drops of blood falling to the ground.
+
+>Matthew 27:46 (CSB) About three in the afternoon Jesus cried out with a loud voice, “Elí, Elí, lemá sabachtháni?” that is, “My God, my God, why have you abandoned me?”
+
+>Acts 13:37 (CSB) but the one God raised up did not decay.
+
+>1 Corinthians 15:3–4 (CSB) For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures,
+
+>John 20:25–27 (CSB) So the other disciples were telling him, “We’ve seen the Lord!” But he said to them, “If I don’t see the mark of the nails in his hands, put my finger into the mark of the nails, and put my hand into his side, I will never believe.” A week later his disciples were indoors again, and Thomas was with them. Even though the doors were locked, Jesus came and stood among them and said, “Peace be with you.” Then he said to Thomas, “Put your finger here and look at my hands. Reach out your hand and put it into my side. Don’t be faithless, but believe.”
+
+>Mark 16:19 (CSB) So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God.
+
+>Acts 1:9–11 (CSB) After he had said this, he was taken up as they were watching, and a cloud took him out of their sight. While he was going, they were gazing into heaven, and suddenly two men in white clothes stood by them. They said, “Men of Galilee, why do you stand looking up into heaven? This same Jesus, who has been taken from you into heaven, will come in the same way that you have seen him going into heaven.”
+
+>Romans 8:34 (CSB) Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us.
+
+>Hebrews 9:24 (CSB) For Christ did not enter a sanctuary made with hands (only a model of the true one) but into heaven itself, so that he might now appear in the presence of God for us.
+
+>Acts 10:42 (CSB) He commanded us to preach to the people and to testify that he is the one appointed by God to be the judge of the living and the dead.
+
+>Romans 14:9–10 (CSB) Christ died and returned to life for this: that he might be Lord over both the dead and the living. But you, why do you judge your brother or sister? Or you, why do you despise your brother or sister? For we will all stand before the judgment seat of God.
+
+>Acts 1:11 (CSB) They said, “Men of Galilee, why do you stand looking up into heaven? This same Jesus, who has been taken from you into heaven, will come in the same way that you have seen him going into heaven.”
+
+>2 Peter 2:4 (CSB) For if God didn’t spare the angels who sinned but cast them into hell and delivered them in chains of utter darkness to be kept for judgment;
 
 ---
 
-### 
+### 8.5 The Slaying of the Lamb
 
 ```text
 The Lord Jesus, by his perfect obedience and sacrifice of himself, which he through the eternal Spirit once offered up unto God, hath fully satisfied the justice of God, procured reconciliation, and purchased an everlasting inheritance in the kingdom of heaven, for all those whom the Father hath given unto Him.
 ```
 
-Hebrews 9:14; Hebrews 10:14; Romans 3:25-26; John 17:2; Hebrews 9:15
+>Hebrews 9:14 (CSB) how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, cleanse our consciences from dead works so that we can serve the living God?
+
+>Hebrews 10:14 (CSB) For by one offering he has perfected forever those who are sanctified.
+
+>Romans 3:25–26 (CSB) God presented him as the mercy seat by his blood, through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed. God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
+
+>John 17:2 (CSB) since you gave him authority over all people, so that he may give eternal life to everyone you have given him.
+
+>Hebrews 9:15 (CSB) Therefore, he is the mediator of a new covenant, so that those who are called might receive the promise of the eternal inheritance, because a death has taken place for redemption from the transgressions committed under the first covenant.
 
 ---
 
-### 
+### 8.6 The Eternalness of the Messiah
 
 ```text
-Although the price of redemption was not actually paid by Christ till after his incarnation, yet the virtue,
-
-efficacy, and benefit thereof were communicated to the elect in all ages, successively from the beginning of the world, in and by those promises, types, and sacrifices wherein he was revealed, and signified to be the seed which should bruise the serpent's head; and the Lamb slain from the foundation of the world, being the same yesterday, and to-day and for ever.
+Although the price of redemption was not actually paid by Christ till after his incarnation, yet the virtue, efficacy, and benefit thereof were communicated to the elect in all ages, successively from the beginning of the world, in and by those promises, types, and sacrifices wherein he was revealed, and signified to be the seed which should bruise the serpent's head; and the Lamb slain from the foundation of the world, being the same yesterday, and to-day and for ever.
 ```
 
-1 Corinthians 4:10; Hebrews 4:2; 1 Peter 1:10-11; Revelation 13:8; Hebrews 13:8
+>1 Corinthians 4:10 (CSB) We are fools for Christ, but you are wise in Christ! We are weak, but you are strong! You are distinguished, but we are dishonored!
+
+>Hebrews 4:2 (CSB) For we also have received the good news just as they did. But the message they heard did not benefit them, since they were not united with those who heard it in faith.
+
+>1 Peter 1:10–11 (CSB) Concerning this salvation, the prophets, who prophesied about the grace that would come to you, searched and carefully investigated. They inquired into what time or what circumstances the Spirit of Christ within them was indicating when he testified in advance to the sufferings of Christ and the glories that would follow.
+
+>Revelation 13:8 (CSB) All those who live on the earth will worship it, everyone whose name was not written from the foundation of the world in the book of life of the Lamb who was slaughtered.
+
+>Hebrews 13:8 (CSB) Jesus Christ is the same yesterday, today, and forever.
 
 ---
 
-### 
+### 8.7 The Two Natures of Jesus
 
 ```text
 Christ, in the work of mediation, acteth according to both natures, by each nature doing that which is proper to itself; yet by reason of the unity of the person, that which is proper to one nature is sometimes in Scripture, attributed to the person denominated by the other nature.
 ```
 
-John 3:13; Acts 20:28
+>John 3:13 (CSB) No one has ascended into heaven except the one who descended from heaven—the Son of Man.
+
+>Acts 20:28 (CSB) Be on guard for yourselves and for all the flock of which the Holy Spirit has appointed you as overseers, to shepherd the church of God, which he purchased with his own blood.
 
 ---
 
-### 
+### 8.8 The Work of the Lord
 
 ```text
 To all those for whom Christ hath obtained eternal redemption, he doth certainly and effectually apply and communicate the same, making intercession for them; uniting them to himself by his Spirit, revealing unto them, in and by his Word, the mystery of salvation, persuading them to believe and obey, governing their hearts by his Word and Spirit, and overcoming all their enemies by his almighty power and wisdom, in such manner and ways as are most consonant to his wonderful and unsearchable dispensation; and all of free and absolute grace, without any condition foreseen in them to procure it.
 ```
 
-John 6:37; John 10:15-16; John 17:9; Romans 5:10; John 17:6; Ephesians 1:9; 1 John 5:20; Romans 8:9-14; Psalms 110:1; 1 Corinthians 15:25-26; John 3:8; Ephesians 1:8
+>John 6:37 (CSB) Everyone the Father gives me will come to me, and the one who comes to me I will never cast out.
+
+>John 10:15–16 (CSB) just as the Father knows me, and I know the Father. I lay down my life for the sheep. But I have other sheep that are not from this sheep pen; I must bring them also, and they will listen to my voice. Then there will be one flock, one shepherd.
+
+>John 17:9 (CSB) “I pray for them. I am not praying for the world but for those you have given me, because they are yours.
+
+>Romans 5:10 (CSB) For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life.
+
+>John 17:6 (CSB) “I have revealed your name to the people you gave me from the world. They were yours, you gave them to me, and they have kept your word.
+
+>Ephesians 1:9 (CSB) He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ
+
+>1 John 5:20 (CSB) And we know that the Son of God has come and has given us understanding so that we may know the true one. We are in the true one—that is, in his Son, Jesus Christ. He is the true God and eternal life.
+
+>Romans 8:9–14 (CSB) You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him. Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness. And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you. So then, brothers and sisters, we are not obligated to the flesh to live according to the flesh, because if you live according to the flesh, you are going to die. But if by the Spirit you put to death the deeds of the body, you will live. For all those led by God’s Spirit are God’s sons.
+
+>Psalm 110:1 (CSB) This is the declaration of the LORD to my Lord: “Sit at my right hand until I make your enemies your footstool.”
+
+>1 Corinthians 15:25–26 (CSB) For he must reign until he puts all his enemies under his feet. The last enemy to be abolished is death.
+
+>John 3:8 (CSB) The wind blows where it pleases, and you hear its sound, but you don’t know where it comes from or where it is going. So it is with everyone born of the Spirit.”
+
+>Ephesians 1:8 (CSB) that he richly poured out on us with all wisdom and understanding.
 
 ---
 
-### 
+### 8.9 The Office of the Mediator
 
 ```text
 This office of mediator between God and man is proper only to Christ, who is the prophet, priest, and king of the church of God; and may not be either in whole, or any part thereof, transferred from him to any other.
 ```
 
-1 Timothy 2:5
+>1 Timothy 2:5 (CSB) For there is one God and one mediator between God and mankind, the man Christ Jesus,
 
 ---
 
-### 
+### 8.10 The Prophet, Priest and King
 
 ```text
 This number and order of offices is necessary; for in respect of our ignorance, we stand in need of his prophetical office; and in respect of our alienation from God, and imperfection of the best of our services, we need his priestly office to reconcile us and present us acceptable unto God; and in respect to our averseness and utter inability to return to God, and for our rescue and security from our spiritual adversaries, we need his kingly office to convince, subdue, draw, uphold, deliver, and preserve us to his heavenly kingdom.
 ```
 
-John 1:18; Colossians 1:21; Galatians 5:17; John 16:8; Psalms 110:3; Luke 1:74-75
+>John 1:18 (CSB) No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
+
+>Colossians 1:21 (CSB) Once you were alienated and hostile in your minds as expressed in your evil actions.
+
+>Galatians 5:17 (CSB) For the flesh desires what is against the Spirit, and the Spirit desires what is against the flesh; these are opposed to each other, so that you don’t do what you want.
+
+>John 16:8 (CSB) When he comes, he will convict the world about sin, righteousness, and judgment:
+
+>Psalm 110:3 (CSB) Your people will volunteer on your day of battle. In holy splendor, from the womb of the dawn, the dew of your youth belongs to you.
+
+>Luke 1:74–75 (CSB) since we have been rescued from the hand of our enemies, to serve him without fear in holiness and righteousness in his presence all our days.
 
 ---
 ---
 
 ## Chapter 9: Of Free Will
 
-### 
+### 9.1 The Freedom of the Will
 
 ```text
 God hath endued the will of man with that natural liberty and power of acting upon choice, that it is neither forced, nor by any necessity of nature determined to do good or evil.
 ```
 
-Matthew 17:12; James 1:14; Deuteronomy 30:19
+>Matthew 17:12 (CSB) “But I tell you: Elijah has already come, and they didn’t recognize him. On the contrary, they did whatever they pleased to him. In the same way the Son of Man is going to suffer at their hands.”
+
+>James 1:14 (CSB) But each person is tempted when he is drawn away and enticed by his own evil desire.
+
+>Deuteronomy 30:19 (CSB) I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and curse. Choose life so that you and your descendants may live,
 
 ---
 
-### 
+### 9.2 The Power of the Will
 
 ```text
 Man, in his state of innocency, had freedom and power to will and to do that which was good and well- pleasing to God, but yet was unstable, so that he might fall from it.
 ```
 
-Ecclesiastes 7:29; Genesis 3:6
+>Ecclesiastes 7:29 (CSB) Only see this: I have discovered that God made people upright, but they pursued many schemes.”
+
+>Genesis 3:6 (CSB) The woman saw that the tree was good for food and delightful to look at, and that it was desirable for obtaining wisdom. So she took some of its fruit and ate it; she also gave some to her husband, who was with her, and he ate it.
 
 ---
 
-### 
+### 9.3 The Bondage of the Will
 
 ```text
 Man, by his fall into a state of sin, hath wholly lost all ability of will to any spiritual good accompanying salvation; so as a natural man, being altogether averse from that good, and dead in sin, is not able by his own strength to convert himself, or to prepare himself thereunto.
 ```
 
-Romans 5:6; Romans 8:7; Ephesians 2:1-5; Titus 3:3-5; John 6:44
+>Romans 5:6 (CSB) For while we were still helpless, at the right time, Christ died for the ungodly.
+
+>Romans 8:7 (CSB) The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so.
+
+>Ephesians 2:1–5 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. But God, who is rich in mercy, because of his great love that he had for us, made us alive with Christ even though we were dead in trespasses. You are saved by grace!
+
+>Titus 3:3–5 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another. But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit.
+
+>John 6:44 (CSB) No one can come to me unless the Father who sent me draws him, and I will raise him up on the last day.
 
 ---
 
-### 
+### 9.4 The Rescue of the Will
 
 ```text
 When God converts a sinner, and translates him into the state of grace, he freeth him from his natural bondage under sin, and by his grace alone enables him freely to will and to do that which is spiritually good; yet so as that by reason of his remaining corruptions, he doth not perfectly, nor only will, that which is good, but doth also will that which is evil.
 ```
 
-Colossians 1:13; John 8:36; Philippians 2:13; Romans 7:15-23
+>Colossians 1:13 (CSB) He has rescued us from the domain of darkness and transferred us into the kingdom of the Son he loves.
+
+>John 8:36 (CSB) So if the Son sets you free, you really will be free.
+
+>Philippians 2:13 (CSB) For it is God who is working in you both to will and to work according to his good purpose.
+
+>Romans 7:15–23 (CSB) For I do not understand what I am doing, because I do not practice what I want to do, but I do what I hate. Now if I do what I do not want to do, I agree with the law that it is good. So now I am no longer the one doing it, but it is sin living in me. For I know that nothing good lives in me, that is, in my flesh. For the desire to do what is good is with me, but there is no ability to do it. For I do not do the good that I want to do, but I practice the evil that I do not want to do. Now if I do what I do not want, I am no longer the one that does it, but it is the sin that lives in me. So I discover this law: When I want to do what is good, evil is present with me. For in my inner self I delight in God’s law, but I see a different law in the parts of my body, waging war against the law of my mind and taking me prisoner to the law of sin in the parts of my body.
 
 ---
 
-### 
+### 9.5 The Glorification of the Will
 
 ```text
 This will of man is made perfectly and immutably free to good alone in the state of glory only.
 ```
 
-Ephesians 4:13
+>Ephesians 4:13 (CSB) until we all reach unity in the faith and in the knowledge of God’s Son, growing into maturity with a stature measured by Christ’s fullness.
 
 ---
 ---
