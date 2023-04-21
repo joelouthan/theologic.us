@@ -48,7 +48,9 @@ In the last month of praying for my precious friends, one friend, whom another I
 
 This is why we need Confessions. We need the work of those who came before us hundreds of years ago who tirelessly worked out the details of the right orthodox Christian doctrine. Confessions and Creeds never supersede the authority of the Bible--that strawman argument is tired and dead. Please put it to rest.
 
-The 1689, both in Chapters 2 and 8, carefully and clearly lays out the doctrine of the Trinity. I am not a well-learned scholar. I graduated high school with a 1.70 GPA. So I am utterly dependent on my brothers and sisters before me who has done the work to point me back to Christ. I will not waste one byte of data, not one bit of ink speaking about heresies. I am here to the preach Christ and him crucified.
+The 1689, both in Chapters 2 and 8, carefully and clearly lays out the doctrine of the Trinity. I am not a well-learned scholar. I graduated high school with a 1.70 GPA. So I am utterly dependent on my brothers and sisters before me who has done the work to point me back to Christ. We cannot use the Doctrine of the Trinity to invent new hierarchal in dealing with male and females. 
+
+I will not waste one byte of data, not one bit of ink speaking about this heresy. I am here to the preach Christ and him crucified.
 
 ### yet without sin
 
