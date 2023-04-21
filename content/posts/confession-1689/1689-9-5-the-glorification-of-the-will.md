@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>Psalm 17:15 (CSB) But I will see your face in righteousness; when I awake, I will be satisfied with your presence.
 
 ## The Chapter
 

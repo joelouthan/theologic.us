@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>Genesis 1:27 (CSB) So God created man in his own image; he created him in the image of God; he created them male and female.
 
 ## The Chapter
 

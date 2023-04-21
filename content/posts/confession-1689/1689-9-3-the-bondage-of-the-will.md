@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>Hosea 6:6–7 (CSB) For I desire faithful love and not sacrifice, the knowledge of God rather than burnt offerings. But they, like Adam, have violated the covenant; there they have betrayed me.
 
 ## The Chapter
 

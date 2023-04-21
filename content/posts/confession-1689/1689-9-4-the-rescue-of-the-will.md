@@ -14,7 +14,7 @@ draft: false
 ---
 ## The Text
 
-TODO:
+>Romans 8:20-21 (CSB) For the creation was subjected to futility — not willingly, but because of him who subjected it — in the hope that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.
 
 ## The Chapter
 
