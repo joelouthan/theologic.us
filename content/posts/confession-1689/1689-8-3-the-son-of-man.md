@@ -12,6 +12,13 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 ## The Text
 
 >Daniel 7:9-14 (CSB)  
@@ -62,9 +69,105 @@ The Lord Jesus, in his human nature thus united to the divine, in the person of 
 
 >John 3:34 (CSB) For the one whom God sent speaks God’s words, since he gives the Spirit without measure.
 
+Second chapter of the 1689 deals with the Attributes of God. So by the time you got to the Chapter 8 on the Person of Christ, you would have seen this statement from Chapter 2 Paragraph 1:
+
+>>...whose subsistence is in and of himself, infinite in being and perfection; whose essence cannot be comprehended by any but himself; a most pure spirit, invisible, without body, parts...
+
+The authors of the 1689 broke a little from the Westminster in that instead of their use of the word, "essence", we use the word, "subsistence", which is defined as, "the quality or state of being self-derived or self-originated specifically **the absolute self-sufficiency, independence, and autonomy of God**." (Merriam-Webster)
+
+Now why is that so important. In the humanity of Christ, it could be easily not remembered that, in everything that Christ is, he is absolutely fully God. So within that, Christ, who is God, is eternal, immutable (does not change), impassible (without passions) and co-equal with Father and Spirit.
+
+In and around the 4th century, a bishop named Arian was attempting to solve the issue: how can Christ be God and man? His erroneous conclusion was that since that:
+
+- Christ was human
+- Christ was therefore created
+- Christ was therefore not eternal
+- Christ was therefore not co-equal with the Father and Spirit
+- Christ is submitted to the Father
+- Then, Christ cannot be fully God. 
+
+Arianism was a heresy that denied the full deity of Christ. It was a heresy that was condemned by the Council of Nicaea in 325 AD and is heresy in all of Christianity.
+
+One may think, like myself, that this is one and done, and we never have to deal with this again. But I, playing the role of the sweet, summer child, will always have to be reminded that new revelations are just old heresies for "there is nothing new under the sun." (Ecclesiastes 1:9)
+
+In the 19th centuries, two sects of Christianity arose out of the Arian heretic weed growth. One, the Mormons. The believe that God the Father was an mortal being in another universe but came to our universe as a immortal being and thus created the heavens and the earth. From the Father, he created both Jesus, his Son, and Satan, Jesus' brother. In essence, they teach that Jesus was a created being. If created, then he is not co-equal with the Father but rather, in submission to the Father.
+
+The other was Jehovah's Witness, who like the Muslims, flat out deny that Christ is God and tht whom we would call Father is the one and true God.
+
+In our current age, we are dealing with yet another erroneous teaching that has sprung up out of the Arian heresy: Eternal Submission of the Son to the Father (or ESS, for short). In the pervious times I have spoken about ESS, I spoke about my fiercest opposition to the heresy of ESS but I never explained why. So, let me take a moment to explain why now.
+
+ESS is a clever heresy in that, it never denies:
+
+- Jesus is fully God
+- Jesus is fully human
+- Jesus is co-equal with the Father and Spirit
+- Jesus is eternal
+
+Because those would give you red flags and booted out of Christianity.
+
+But here is the flaming hot red flag: because of the incarnation of Christ, that is, he took on flesh. <r>Because Christ took on flesh</r>, Christ is subordinate to the Father. And because Christ is eternal, therefore, Christ is eternally subordinate to the Father for all of eternity past and future.
+
+Proponents of the ESS would insist that Christ does not change because Christ is God and does not change. But because he took on flesh, the incarnation of Christ makes Christ subordinate to the Father.
+
+Why the confusion when [the Bible is so clear especially on matters concerning salvation](https://theologic.us/posts/confession-1689/1689-1-7-the-clarity-of-scripture-for-salvation/)? Defenders of this heresy is trying to overlay the Doctrine of the Trinity onto gender roles based on an eisegesis of 1 Corinthians 11:3 and Ephesians 5:21-33 which was inspired by the work of John Piper and Wayne Grudem in their book, *Recovering Biblical Manhood and Womanhood*.
+
+I don't need to tell you that superimposing the a view of gender roles onto the Doctrine of the Trinity is most unhelpful and unwise. If you are doing this, please stop.
+
+ESS, in short, is having to talk out both sides of your mouth.
+
+Fighting for the truth in the theology of Christ has gone back to the first century church. The Earliest Church already fought this fight and won. We don't need to fight it again only to defend. Out of the Arian controversy, two distinct Creeds were formed to combat this heresy.
+
+Nicene Creed's excerpt on the Jesus Christ as fully God and fully human:
+
+```text
+I believe in one Lord Jesus Christ,
+the Only Begotten Son of God,
+born of the Father before all ages.
+God from God, Light from Light,
+true God from true God,
+begotten, not made, consubstantial with the Father;
+through him all things were made.
+For us men and for our salvation
+he came down from heaven,
+and by the Holy Spirit was incarnate of the Virgin Mary,
+and became man.
+```
+
+And the same from the Athanasian Creed:
+
+```text
+That we believe and confess
+ that our Lord Jesus Christ, God's Son,
+ is both God and human, equally.
+
+He is God from the essence of the Father,
+ begotten before time;
+ and he is human from the essence of his mother,
+ born in time;
+ completely God, completely human,
+ with a rational soul and human flesh;
+ equal to the Father as regards divinity,
+ less than the Father as regards humanity.
+
+Although he is God and human,
+ yet Christ is not two, but one.
+ He is one, however,
+ not by his divinity being turned into flesh,
+ but by God's taking humanity to himself.
+ He is one,
+ certainly not by the blending of his essence,
+ but by the unity of his person.
+ For just as one human is both rational soul and flesh,
+ so too the one Christ is both God and human.
+```
+
+The fight was long won by the grace of God. But we must be vigilant and fight the good fight of faith. We must be ready to give an answer for the hope that is within us. We must be ready to defend the faith once for all delivered to the saints.
+
 ### having in Him all the treasures of wisdom and knowledge
 
 >Colossians 2:3 (CSB) In him are hidden all the treasures of wisdom and knowledge.
+
+TODO:
 
 ### in whom it pleased the Father that all fullness should dwell
 
