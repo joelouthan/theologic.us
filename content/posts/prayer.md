@@ -351,6 +351,10 @@ Andrew & Blythe, baby
 
 Randy & Laquita, son
 
+### New
+
+Kathryn (from Connecticut)
+
 ---
 
 ## Lexington
