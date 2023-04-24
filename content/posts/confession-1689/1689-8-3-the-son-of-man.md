@@ -167,6 +167,14 @@ The fight was long won by the grace of God. But we must be vigilant and fight th
 
 >Colossians 2:3 (CSB) In him are hidden all the treasures of wisdom and knowledge.
 
+>1 Corinthians 1:18-25 (CSB) For the word of the cross is foolishness to those who are perishing, but it is the power of God to us who are being saved. For it is written,
+>
+>**I will destroy the wisdom of the wise, and I will set aside the intelligence of the intelligent.**
+>
+>Where is the one who is wise? Where is the teacher of the law? Where is the debater of this age? Hasn’t God made the world’s wisdom foolish? For since, in God’s wisdom, the world did not know God through wisdom, God was pleased to save those who believe through the foolishness of what is preached. For the Jews ask for signs and the Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles. Yet to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God, because God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength.
+
+AND
+
 TODO:
 
 ### in whom it pleased the Father that all fullness should dwell
