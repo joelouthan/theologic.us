@@ -173,13 +173,32 @@ The fight was long won by the grace of God. But we must be vigilant and fight th
 >
 >Where is the one who is wise? Where is the teacher of the law? Where is the debater of this age? Hasn’t God made the world’s wisdom foolish? For since, in God’s wisdom, the world did not know God through wisdom, God was pleased to save those who believe through the foolishness of what is preached. For the Jews ask for signs and the Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles. Yet to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God, because God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength.
 
-AND
+At this point, I could have just quoted 1 Corinthians chapters one to three.
 
-TODO:
+>Romans 8:5-6 (CSB) For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit. Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace.
+
+This passage in Romans 8 is an exposition of the ministry of Christ in Mark 8. In other words what God must do in order for us to be believe and trust in his Son. This is not an intelligence or knowledge ascent--all the Christian schooling and seminary won't save you. And this is not an emotional ascent--feel all the good feels to make you feel like you are in the presence of God. God literally has to open your eyes (Mark 8:22–26), open your ears (Mark 7:31-37), swap out your heart (Mark 8:14–21), renew your mind (Mark 8:11–13), and feed us his word (Mark 8:1-10) so that we might be made fully alive (1 John 5:1) and believe in Christ.
+
+Apart from God doing any of that, you and I cannot hope to believe and trust in his Son.
+
+>Romans 8:8 (CSB) Those who are in the flesh cannot please God.
+
+However:
+
+>Romans 8:9-11 (CSB) You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him. Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness. And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
+
+My Beloved, Christ dwells in you. The Spirit who raised Christ from the dead dwells in you. The Father has made his home in you. Because of what God has done, we have the mindset of Christ to truly know him and love him:
+
+>1 Corinthians 2:16 (CSB) For  
+>**who has known the Lord’s mind,**  
+>**that he may instruct him?**  
+>But we have the mind of Christ.
 
 ### in whom it pleased the Father that all fullness should dwell
 
 >Colossians 1:19 (CSB) For God was pleased to have all his fullness dwell in him,
+
+TODO:
 
 ### to the end that being holy, harmless, undefiled
 
