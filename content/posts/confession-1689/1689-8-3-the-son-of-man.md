@@ -198,7 +198,7 @@ My Beloved, Christ dwells in you. The Spirit who raised Christ from the dead dwe
 
 >Colossians 1:19 (CSB) For God was pleased to have all his fullness dwell in him,
 
-TODO:
+TODO: I need to do a study on the fullness of God.
 
 ### to the end that being holy, harmless, undefiled
 
