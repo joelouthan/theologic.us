@@ -198,23 +198,82 @@ My Beloved, Christ dwells in you. The Spirit who raised Christ from the dead dwe
 
 >Colossians 1:19 (CSB) For God was pleased to have all his fullness dwell in him,
 
-TODO: I need to do a study on the fullness of God.
+And:
+
+>Colossians 2:9-10 (CSB) For the entire fullness of God’s nature dwells bodily in Christ, and you have been filled by him, who is the head over every ruler and authority.
+
+When we speak of the fullness of God, it would be easy to think of only the Father. Yet, it is the Spirit, the fullness of God as well, that dwells in the Son, as well. For:
+
+>John 3:34-35 (CSB) For the one whom God sent speaks God’s words, since he gives the Spirit without measure. The Father loves the Son and has given all things into his hands.
+
+The Son of Man, fully God and fully man, descended into his Creation, to live perfectly unto his Father. But Jesus, for all of his divine and glory, did not do this by himself. Himself, fully God, having the Father, fully God, and the Spirit, fully God, dwelling in him fully at all times. For:
+
+>John 1:1–2 (CSB) In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning.
+
+Father, Son, and Spirit were always together from eternity past. They are in perfect love and community and fellowship and relationship and presence with each other. They are in the fullness of joy and pleasures evermore with one another. (Psalm 16:11)
+
+If Christ came to our world to minister to others, why would we think he did this by himself? If he has called us to love God and love our neighbors, did he think we could do that without the Triune God? Absolutely not. That is why he came to us was so the Son, Father, and the Spirit could make their home in us so we could we be with him forever.
 
 ### to the end that being holy, harmless, undefiled
 
 >Hebrews 7:26 (CSB) For this is the kind of high priest we need: holy, innocent, undefiled, separated from sinners, and exalted above the heavens.
 
+When the Bible speaks of the spotless Lamb, it is referring to Jesus Christ, the Worthy Lamb that was Slain.
+
+>1 Peter 1:18–20 (CSB) For you know that you were redeemed from your empty way of life inherited from your ancestors, not with perishable things like silver or gold, but with the precious blood of Christ, like that of an unblemished and spotless lamb. He was foreknown before the foundation of the world but was revealed in these last times for you.
+
+He is the Passover Lamb that has saved us from death:
+
+>Exodus 12:5-7 (CSB) You must have an unblemished animal, a year-old male; you may take it from either the sheep or the goats. You are to keep it until the fourteenth day of this month; then the whole assembly of the community of Israel will slaughter the animals at twilight. They must take some of the blood and put it on the two doorposts and the lintel of the houses where they eat them.
+
+He is the Lamb that was slain for our sins:
+
+>John 1:29 (CSB) The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world!
+
+Christ is perfect in his obedience to the law of God. But Christ is holy because he is God who is holy.
+
 ### and full of grace and truth
 
 >John 1:14 (CSB) The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth.
+
+For:
+
+>Psalm 85:10 (ESV) Steadfast love and faithfulness meet; righteousness and peace kiss each other.
+
+When Christ came to live and die upon the cross, this meeting, joining, melding, and intertwining of all that is God--steadfast love, faithfulness, righteousness, and peace--was made manifest in the person of Jesus Christ for us upon the cross.
+
+It was only because of what Christ did so that we could be made holy, harmless, and undefiled. It is only because of what Christ did that we could be made righteous and at peace with God.
+
+>Romans 1:17 (CSB) For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
+
+>2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
+
 
 ### He might be throughly furnished to execute the office of mediator and surety
 
 >Hebrews 7:22 (CSB) Because of this oath, Jesus has also become the guarantee of a better covenant.
 
+All of what and who Jesus is the guarantee of a better covenant.
+
+The Better Adam: he is the Second Adam who upheld the covenant of works forever.
+
+The Better Noah: he has bore the wrath of God for our sins and saved us from our sins forever.
+
+The Better Abraham: it is not a piece of land that we seek to dwell with God. Yet, God has made is home in us and he dwells with us forever.
+
+The Better David: he is the King of Kings and Lord of Lords who sits on the throne forever and ever.
+
+All the Old Testament Covenants were perfectly, distinctly, completely, totally fulfilled by Christ and Christ alone for us forever and ever.
+
+Now we lavish in the Covenant of Grace--which was established before the foundation of the world between the Father and the Son, sealed with the Holy Spirit, to save his people from their sins forever.
+
+The previous covenants were good and holy. But they were for a moment in time until Christ came to fulfilled what God preached the good news starting in Genesis 3:15--I will rescue my people.
+
 ### which office He took not upon himself, but was thereunto called by His Father
 
 >Hebrews 5:5 (CSB) In the same way, Christ did not exalt himself to become a high priest, but God who said to him, You are my Son; today I have become your Father,
+
+Christ did not do this alone. He did not ascend to any of the offices on his own. He was sent here by the Father and he did only what he saw his Father do. Christ is perfectly and eternally begotten of the Father. The Father and the Son are always in perfect lock step and they glorify one another.
 
 ### who also put all power and judgement in His hand, and gave Him commandment to execute the same
 
@@ -223,6 +282,24 @@ TODO: I need to do a study on the fullness of God.
 >Matthew 28:18 (CSB) Jesus came near and said to them, “All authority has been given to me in heaven and on earth.
 
 >Acts 2:36 (CSB) “Therefore let all the house of Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Messiah.”
+
+And because Christ, the Son of Man, was perfect in his execution of the salvation of the people of God, God the Father has now given him all authority, power and dominion, glory and honor forever.
+
+>Matthew 28:18 (CSB) Jesus came near and said to them, “All authority has been given to me in heaven and on earth.
+
+And:
+
+>Daniel 7:13–14 (CSB) I continued watching in the night visions, and suddenly one like a son of man was coming with the clouds of heaven. He approached the Ancient of Days and was escorted before him. He was given dominion and glory and a kingdom, so that those of every people, nation, and language should serve him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will not be destroyed.
+
+That is why we sing:
+
+>Romans 11:33–36 (CSB) Oh, the depth of the riches and the wisdom and the knowledge of God! How unsearchable his judgments and untraceable his ways! For who has known the mind of the Lord? Or who has been his counselor? And who has ever given to God, that he should be repaid? For from him and through him and to him are all things. To him be the glory forever. Amen.
+
+And:
+
+>Revelation 5:12 (CSB) They said with a loud voice, Worthy is the Lamb who was slaughtered to receive power and riches and wisdom and strength and honor and glory and blessing!
+
+Amen!
 
 ## The Resources
 
