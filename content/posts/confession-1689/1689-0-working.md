@@ -918,7 +918,7 @@ The Lord Jesus, in his human nature thus united to the divine, in the person of 
 
 ---
 
-### 8.4 The Obedience of Christ
+### 8.4 The Cross of Christ
 
 ```text
 This office the Lord Jesus did most willingly undertake, which that he might discharge he was made under the law, and did perfectly fulfil it, and underwent the punishment due to us, which we should have borne and suffered, being made sin and a curse for us; enduring most grievous sorrows in his soul, and most painful sufferings in his body; was crucified, and died, and remained in the state of the dead, yet saw no corruption: on the third day he arose from the dead with the same body in which he suffered, with which he also ascended into heaven, and there sitteth at the right hand of his Father making intercession, and shall return to judge men and angels at the end of the world.
