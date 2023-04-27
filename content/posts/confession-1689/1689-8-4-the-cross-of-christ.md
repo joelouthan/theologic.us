@@ -1,5 +1,5 @@
 ---
-title: "1689 Baptist Confession of Faith, Chapter 8.4 The Obedience of Christ"
+title: "1689 Baptist Confession of Faith, Chapter 8.4 The Cross of Christ"
 author: Joseph Louthan
 publishDate: 2023-11-22
 categories:
@@ -32,11 +32,45 @@ This office the Lord Jesus did most willingly undertake, which that he might dis
 
 >John 10:18 (CSB) No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”
 
+We have made a lot about the power and the ability and the will of God to save his people. But what can never be forgotten nor missed is that God wanted to save his people.
+
+Much in life, we are reminded of our limitations because we are created creatures. I am not even speaking about our mortality--for our souls last forever. Think about the angels and demons: created creation all, eternal, and varying levels of power. But one thing they cannot do: take on flesh. They cannot appear in our material plane unless God wills it do be so. So even an angel could not save us, even if they wanted to, because they lack the power to do so.
+
+But many of us want to save our loved ones but in the end, for all of our wealth, knowledge, and wisdom, we are futile in truly saving our selves and our loved ones from the sin of death.
+
+God alone has the power and wants to save us--despite our deadness, and depravity, and tragic ways.
+
+And within the office of Savior, Messiah, King, Lord, and Christ, the Son of God took on flesh to become the Son of Man, that is Jesus, willing to live an entire life, full obedience to God, and descended unto the cross with great joy.
+
+>Hebrews 12:2b For the joy that lay before him, he endured the cross, despising the shame, and sat down at the right hand of the throne of God.
+
 ### which that He might discharge He was made under the law
 
 >Galatians 4:4 (CSB) When the time came to completion, God sent his Son, born of a woman, born under the law,
 
 >Matthew 3:15 (CSB) Jesus answered him, “Allow it for now, because this is the way for us to fulfill all righteousness.” Then John allowed him to be baptized.
+
+The prophecy that God would send a Messiah to come and rescue and redeem us is, in itself, the limitation. From the word go, for the moment sin entered into the world, God preaches the gospel and to our feeble minds, he handicaps himself:
+
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+This protoevagelion is just that: the first instance of the preached gospel. This declaration of God did not come after the Covenants or the Law or the Prophets but rather from the start--however God was going to save his people, he would do so through a man that is born of Eve.
+
+Before Christ, one can read the Old Testament or even the Apocrypha [^Apocrypha], the people of God experienced mighty and good rescuers from God--but they all came up way short of being the Chosen One whom was the begotten Son of God. Not only did they fall short, they knew they were not the Christ. For:
+
+[^Apocrypha]: See [Chapter 1.3 On the Apocrypha of the Holy Scriptures](https://theologic.us/posts/confession-1689/1689-1-3-the-apocrypha-of-holy-scripture/)
+
+>John 1:20 (CSB) He didn’t deny it but confessed, “I am not the Messiah.”
+
+Not only that, the saints of old rejoiced in seeing the day of Christ arrived:
+
+>John 8:56 (CSB) Your father Abraham rejoiced to see my day; he saw it and was glad.”
+
+>Hebrews 11:26 (CSB) For he considered reproach for the sake of Christ to be greater wealth than the treasures of Egypt, since he was looking ahead to the reward.
+
+>John 3:29-30 (CSB) He who has the bride is the groom. But the groom’s friend, who stands by and listens for him, rejoices greatly at the groom’s voice. So this joy of mine is complete. He must increase, but I must decrease.
+
+The prophecy of the Christ is fully contingent on he was being born as mankind. Whatever God was going to do, he would do so in the flesh.
 
 ### and did perfectly fulfill it, and underwent the punishment due to us, which we should have born and suffered
 
@@ -58,17 +92,65 @@ This office the Lord Jesus did most willingly undertake, which that he might dis
 
 >Matthew 27:46 (CSB) About three in the afternoon Jesus cried out with a loud voice, “Elí, Elí, lemá sabachtháni?” that is, “My God, my God, why have you abandoned me?”
 
+This is what Christ did to save his people from their sins: he perfectly took on the sins of his people and completely bore the wrath of God for our sins. Once and for all, forever.
+
+This is propitiation.
+
+>1 John 2:2 (ESV) He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.
+
+>1 John 4:10 (ESV) In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
+
+>Hebrews 2:17 (CSB) Therefore, he had to be like his brothers and sisters in every way, so that he could become a merciful and faithful high priest in matters pertaining to God, to make atonement for the sins of the people.
+
+This is the love of God, the grace of God, the mercy of God and the justice, holiness, and righteousness of God all in one fell swoop.
+
+>Psalm 85:10 (CSB) Faithful love and truth will join together; righteousness and peace will embrace.
+
+This embrace and the kiss of God is the cross of Christ.
+
+All the saints before and the all the saints since have been finally, definitely, completely, perfectly, effectively, and eternally saved by God for God by God from God through the blood-drained, broken body of Jesus Christ our Lord and Savior.
+
 ### was crucified, and died, and remained in the state of the dead, yet saw no corruption
 
 >Acts 13:37 (CSB) but the one God raised up did not decay.
+
+>Psalm 16:10 (CSB) For you will not abandon me to Sheol; you will not allow your faithful one to see decay.
+
+Jesus Christ, perfectly God and perfectly holy and perfectly righteousness, was crucified and did died and was dead, but did not see decay. Why? Because he is perfect, holy, and good.
+
+In the religions of the world, we have two of that are close to Christianity: Jewish and Muslim. The Jews flat out deny that Christ is the Messiah. The fact that Christ died on the cross is a stumbling block for them. For:
+
+>1 Corinthians 1:22-23 (CSB) For the Jews ask for signs and the Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles.
+
+The foolishness of the Gentiles: the theories and myths are endless. For myth of the the Muslim in order to make sense of Jesus, who to them is a great and mighty prophet, to die on the cross only means one thing to them. That Jesus didn't actually die but suffer for three days. The Muslim contradict the Scriptures say that Jesus did die and did not see decay.
 
 ### on the third day He arose from the dead
 
 >1 Corinthians 15:3–4 (CSB) For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures,
 
+>Acts 2:24 (CSB) God raised him up, ending the pains of death, because it was not possible for him to be held by death.
+
+>Acts 2:32 (CSB) “God has raised this Jesus; we are all witnesses of this.
+
+This is the resurrection of our Lord. This is Easter.
+
+For all that Christ did in his death on the cross, the proof of what this particular dead man accomplished was literally brought to light when Christ rose from the dead.
+
+The proof was delayed--three days. Christ told the disciples:
+
+>Matthew 12:40 (CSB) For as Jonah was in the belly of the huge fish three days and three nights, so the Son of Man will be in the heart of the earth three days and three nights.
+
+>Mark 10:33-34 (CSB) “See, we are going up to Jerusalem. The Son of Man will be handed over to the chief priests and the scribes, and they will condemn him to death. Then they will hand him over to the Gentiles, and they will mock him, spit on him, flog him, and kill him, and he will rise after three days.”
+
+He told them that he would have to die. He told them he will rise. The death part came. The disciples saw it happen. But they couldn't believe it came to past. But it did. And for a moment, they were in despair even though Christ told them of his own resurrection. For:
+
+>Romans 8:11 (CSB) And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
+
 ### with the same body in which He suffered
 
 >John 20:25–27 (CSB) So the other disciples were telling him, “We’ve seen the Lord!” But he said to them, “If I don’t see the mark of the nails in his hands, put my finger into the mark of the nails, and put my hand into his side, I will never believe.” A week later his disciples were indoors again, and Thomas was with them. Even though the doors were locked, Jesus came and stood among them and said, “Peace be with you.” Then he said to Thomas, “Put your finger here and look at my hands. Reach out your hand and put it into my side. Don’t be faithless, but believe.”
+
+TODO: lamb slained
 
 ### with which He also ascended into heaven
 
@@ -91,6 +173,10 @@ This office the Lord Jesus did most willingly undertake, which that he might dis
 >Acts 1:11 (CSB) They said, “Men of Galilee, why do you stand looking up into heaven? This same Jesus, who has been taken from you into heaven, will come in the same way that you have seen him going into heaven.”
 
 >2 Peter 2:4 (CSB) For if God didn’t spare the angels who sinned but cast them into hell and delivered them in chains of utter darkness to be kept for judgment;
+
+TODO:
+
+>Hebrews 12:1-2 (CSB) Therefore, since we also have such a large cloud of witnesses surrounding us, let us lay aside every hindrance and the sin that so easily ensnares us. Let us run with endurance the race that lies before us, keeping our eyes on Jesus, the pioneer and perfecter of our faith. **For the joy that lay before him, he endured the cross, despising the shame, and sat down at the right hand of the throne of God.**
 
 ## The Resources
 
