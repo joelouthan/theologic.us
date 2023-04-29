@@ -1,7 +1,7 @@
 ---
 title: "What Do We Believe: Jesus Christ--Crucified, Died, and Buried"
 author: Joseph Louthan
-publishDate: 2023-04-06
+publishDate: 2023-04-29
 categories:
   - Creeds
 tags:
