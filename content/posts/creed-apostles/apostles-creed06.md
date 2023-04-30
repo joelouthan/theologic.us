@@ -1,7 +1,7 @@
 ---
-title: "What Do We Believe: "
+title: "What Do We Believe: Jesus Christ, The Resurrected"
 author: Joseph Louthan
-publishDate: 2023-03-17
+publishDate: 2023-05-06
 categories:
   - Creeds
 tags:
