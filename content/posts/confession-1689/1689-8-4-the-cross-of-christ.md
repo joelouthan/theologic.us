@@ -142,15 +142,15 @@ The proof was delayed--three days. Christ told the disciples:
 
 >Mark 10:33-34 (CSB) “See, we are going up to Jerusalem. The Son of Man will be handed over to the chief priests and the scribes, and they will condemn him to death. Then they will hand him over to the Gentiles, and they will mock him, spit on him, flog him, and kill him, and he will rise after three days.”
 
-He told them that he would have to die. He told them he will rise. The death part came. The disciples saw it happen. But they couldn't believe it came to past. But it did. And for a moment, they were in despair even though Christ told them of his own resurrection. For:
-
->Romans 8:11 (CSB) And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
+He told them that he would have to die. He told them he will rise. The death part came. The disciples saw it happen. But they couldn't believe it came to past. But it did. And for a moment, they were in despair even though Christ told them of his own resurrection. 
 
 ### with the same body in which He suffered
 
 >John 20:25–27 (CSB) So the other disciples were telling him, “We’ve seen the Lord!” But he said to them, “If I don’t see the mark of the nails in his hands, put my finger into the mark of the nails, and put my hand into his side, I will never believe.” A week later his disciples were indoors again, and Thomas was with them. Even though the doors were locked, Jesus came and stood among them and said, “Peace be with you.” Then he said to Thomas, “Put your finger here and look at my hands. Reach out your hand and put it into my side. Don’t be faithless, but believe.”
 
-TODO: lamb slained
+The same physical body that Jesus died in is the same body he was resurrected in. Jesus did not shed his earthly body in order to be more glorious. He was already glorious because he is God. He came not to do away or replace creation but rather to redeem to redeem creation, starting with mankind and starting with our physical bodies. For:
+
+>Romans 8:11 (CSB) And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
 
 ### with which He also ascended into heaven
 
@@ -158,11 +158,47 @@ TODO: lamb slained
 
 >Acts 1:9–11 (CSB) After he had said this, he was taken up as they were watching, and a cloud took him out of their sight. While he was going, they were gazing into heaven, and suddenly two men in white clothes stood by them. They said, “Men of Galilee, why do you stand looking up into heaven? This same Jesus, who has been taken from you into heaven, will come in the same way that you have seen him going into heaven.”
 
+Since Christ, fully God and fully man, lived among us, died, and rose all as the Son of Man, he ascended to heaven not as the Eternal God but as the Resurrected Man--together as one and now forever at the right hand of the Father with all dominion and power and glory forever, interceding for his people forever.
+
+With his life, he fulfills the covenant of works as the Second Adam--the Son of Man.
+
+With his death, he fulfills the covenant of redemption as the Son of God.
+
+With his resurrection, he fulfills the covenant of grace as the Worthy Lamb of God
+
+With his ascension, he is glorified as King of kings and Lord of lords.
+
 ### and there sits at the right hand of His Father making intercession
 
 >Romans 8:34 (CSB) Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us.
 
 >Hebrews 9:24 (CSB) For Christ did not enter a sanctuary made with hands (only a model of the true one) but into heaven itself, so that he might now appear in the presence of God for us.
+
+Make no mistake: since Christ has perfect saved his people from their sins, what does he do? He makes intercession for them along with the Spirit:
+
+>Romans 8:26-27 (CSB) In the same way the Spirit also helps us in our weakness, because we do not know what to pray for as we should, but the Spirit himself intercedes for us with inexpressible groanings. And he who searches our hearts knows the mind of the Spirit, because he intercedes for the saints according to the will of God.
+
+What would it look like in your life if you knew that both Christ and the Spirit was in the next room, praying to the Father on your behalf?
+
+>>If I could hear Christ praying for me in the next room, I would not fear a million enemies. Yet distance makes no difference. He is praying for me.
+>>
+>>Robert Murray M'Cheyne.
+
+When we say loudly proclaim and celebrate that we have God, that is to be taken literally. God has us and by his grace alone, we get to behold the Risen God. Just as nothing will ever be broken in the Triune God, so too, nothing will ever be broken with us.
+
+It is the covenant with Adam that was broken by Adam. From that point on, notice the covenants he makes with men.
+
+None of them were dependent of them but rather on God alone.
+
+>Genesis 15:12-17 (CSB) As the sun was setting, a deep sleep came over Abram, and suddenly great terror and darkness descended on him. Then the LORD said to Abram, “Know this for certain: Your offspring will be resident aliens for four hundred years in a land that does not belong to them and will be enslaved and oppressed. However, I will judge the nation they serve, and afterward they will go out with many possessions. But you will go to your ancestors in peace and be buried at a good old age. In the fourth generation they will return here, for the iniquity of the Amorites has not yet reached its full measure.” When the sun had set and it was dark, a smoking fire pot and a flaming torch appeared and passed between the divided animals.
+
+Think of that. What about Noahic was dependent on Noah. What about the Davidic covenant was dependent on David or his descendants? What about the New Covenant is dependent on us?
+
+None of it. All dependent on God. Therefore it is unbreakable.
+
+Christ, as the Risen Lord, intercedes for you forever and ever. He is always praying for you because you are his forever.
+
+>Romans 8:38–39 (CSB) For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.
 
 ### and shall return to judge men and angels at the end of the world
 
@@ -174,9 +210,29 @@ TODO: lamb slained
 
 >2 Peter 2:4 (CSB) For if God didn’t spare the angels who sinned but cast them into hell and delivered them in chains of utter darkness to be kept for judgment;
 
-TODO:
+Since all dominion, power, and glory is given to Christ because he has fulfilled all the promises, he will return to judge the living and the dead.
 
->Hebrews 12:1-2 (CSB) Therefore, since we also have such a large cloud of witnesses surrounding us, let us lay aside every hindrance and the sin that so easily ensnares us. Let us run with endurance the race that lies before us, keeping our eyes on Jesus, the pioneer and perfecter of our faith. **For the joy that lay before him, he endured the cross, despising the shame, and sat down at the right hand of the throne of God.**
+This is why we preach Christ and him crucified. For:
+
+>John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
+
+And:
+
+>2 Timothy 4:1–2 (CSB) I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and because of his appearing and his kingdom: **Preach the word**; be ready in season and out of season; correct, rebuke, and encourage with great patience and teaching.
+
+And the most important thing to remember is that: this office, this duty, this assignment, this task this rescue, this redemption? The Lord Jesus did most willingly undertake. For:
+
+>John 10:17–18 (CSB) This is why the Father loves me, because I lay down my life so that I may take it up again. No one takes it from me, but I lay it down on my own. I have the right to lay it down, and I have the right to take it up again. I have received this command from my Father.”
+
+Let us be reminded from the author of Hebrews of what to do now everything that Christ has done for us perfectly.
+
+>Hebrews 12:1-2 (CSB) Therefore, since we also have such a large cloud of witnesses surrounding us, let us lay aside every hindrance and the sin that so easily ensnares us. Let us run with endurance the race that lies before us, keeping our eyes on Jesus, the pioneer and perfecter of our faith.
+
+We give over our sin to him, the bearer of all of our sin and the author and finisher of our faith.
+
+This is the office Christ most willingly undertook. And never forget, he undertook in saving you not in despair, or fear, or regret, or anger, or frustration, or annoyance, or impatience, or sadness. He undertook all of it with joy.
+
+>**For the joy that lay before him, he endured the cross, despising the shame, and sat down at the right hand of the throne of God.**
 
 ## The Resources
 
