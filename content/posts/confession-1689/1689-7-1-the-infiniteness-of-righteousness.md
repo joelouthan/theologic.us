@@ -8,6 +8,7 @@ tags:
   - "1689"
 series:
   - "1689.7 Of God's Covenant"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
