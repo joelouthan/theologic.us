@@ -8,6 +8,7 @@ tags:
   - "1689"
 series:
   - "1689.9 Of Free Will"
+  - "1689 Baptist Confession of Faith"
 tocopen: true
 css: "prayers"
 draft: false
