@@ -1,5 +1,5 @@
 ---
-title: 'Study: Ruth 4 God Glorified Us'
+title: "Study: Ruth 4 God Glorified Us"
 author: Joseph Louthan
 publishDate: 2023-04-19
 categories:
