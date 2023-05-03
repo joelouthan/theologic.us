@@ -1,5 +1,5 @@
 ---
-title: 'Study: Ruth 2:1-6 God Has Called Us'
+title: 'Study: Ruth 2:1-6 God's Calling for His People'
 author: Joseph Louthan
 publishDate: 2023-04-05
 categories:
