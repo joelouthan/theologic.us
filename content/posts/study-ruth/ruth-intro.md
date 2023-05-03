@@ -1,5 +1,5 @@
 ---
-title: 'Study: Ruth, An Introduction'
+title: "Study: Ruth, An Introduction"
 author: Joseph Louthan
 publishDate: 2023-02-06
 categories:
