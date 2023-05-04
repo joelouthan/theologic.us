@@ -1,5 +1,5 @@
 ---
-title: "What Do We Believe: Jesus Christ--Fully Man"
+title: "What Do We Believe: Jesus Christ Fully Man"
 author: Joseph Louthan
 publishDate: 2023-03-23
 categories:

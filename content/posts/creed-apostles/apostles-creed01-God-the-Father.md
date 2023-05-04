@@ -1,5 +1,5 @@
 ---
-title: "What Do We Believe: God, the Father Almighty"
+title: "What Do We Believe: God the Father Almighty"
 author: Joseph Louthan
 publishDate: 2023-02-17
 categories:

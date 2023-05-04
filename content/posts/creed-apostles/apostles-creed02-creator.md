@@ -1,5 +1,5 @@
 ---
-title: "What Do We Believe: God is the Creator of Heaven and Earth"
+title: "What Do We Believe: God the Creator of Heaven and Earth"
 author: Joseph Louthan
 publishDate: 2023-03-02
 categories:
