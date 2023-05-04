@@ -1,7 +1,7 @@
 ---
-title: "What Do We Believe: "
+title: "What Do We Believe: The Holy Spirit"
 author: Joseph Louthan
-publishDate: 2023-03-24
+publishDate: 2023-05-10
 categories:
   - Creeds
 tags:
@@ -10,13 +10,13 @@ series:
   - "Doctrine: Apostles' Creed"
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 ---
 
 ## The Creed
 
 ```text
-
+I believe in the Holy Spirit
 ```
 
 <div style="page-break-after: always;"></div>
