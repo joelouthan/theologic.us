@@ -10,7 +10,7 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
 ---
 ## The Psalm
 
@@ -23,5 +23,59 @@ Lord
 </div>
 
 ```text
+You are high
+  far above the earth
+  you alone are exalted
+  far above
+  all of my idols
 
+But infinite distance
+  that you are from me
+  because of my sin
+  and wickedness
+  and trespasses
+  and iniquities
+  and the thoughts
+  that are in my mind
+  and the pull
+  in my heart
+  continually
+  to pull away from you
+  and do evil consistently
+
+But that infinite measurement
+  is the exact amount
+  of your faithful love
+  towards me
+
+How do I know?
+  You sent your Son
+  and he traveled the distance
+  and he bridges the gap
+  so that I will be saved by you
+  adopted by you
+  loved by you
+  and be with you
+  forever
+
+My Lord
+  you are high
+  above all the earth
+  you are exalted
+  far above
+  all of my gods
+
+And I will worship you
+I will exalt you
+I will love you
+
+And with everything
+  within me
+  I will praise
+  your glorious name
+  forever
+  and 
+  ever
+
+Amen
 ```
