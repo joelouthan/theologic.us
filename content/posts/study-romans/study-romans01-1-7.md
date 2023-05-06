@@ -29,6 +29,8 @@ image:
   alt: "Source: Theologicus"
 ---
 
+![Study: Romans](/images/banners/bible-study-romans.png)
+
 ## The Audio
 
 <figure>
