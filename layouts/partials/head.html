@@ -161,6 +161,7 @@
 </noscript>
 
 {{- partial "extend_head.html" . -}}
+{{- partial "meta.html" . -}}
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
