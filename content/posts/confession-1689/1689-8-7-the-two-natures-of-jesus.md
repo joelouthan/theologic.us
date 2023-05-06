@@ -29,6 +29,8 @@ Christ, in the work of mediation, acteth according to both natures, by each natu
 
 >John 3:13 (CSB) No one has ascended into heaven except the one who descended from heaven—the Son of Man.
 
+TODO: Doo-doo 
+
 ### that which is proper to one nature is sometimes in Scripture, attributed to the person denominated by the other nature
 
 >Acts 20:28 (CSB) Be on guard for yourselves and for all the flock of which the Holy Spirit has appointed you as overseers, to shepherd the church of God, which he purchased with his own blood.
