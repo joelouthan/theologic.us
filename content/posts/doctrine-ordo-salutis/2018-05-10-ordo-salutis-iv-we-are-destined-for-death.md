@@ -9,6 +9,8 @@ tags:
   - Soteriology
 series:
   - 'Ordo Salutis'
+cover:
+  image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
 draft: false
