@@ -9,6 +9,7 @@ tags:
   - "Romans"
 series:
   - "Study: Romans"
+banner: /images/banners/romans.png
 tocopen: true
 css: "prayers"
 draft: false
@@ -28,8 +29,6 @@ image:
   url: images/apple-thor-logo-1600x.jpg
   alt: "Source: Theologicus"
 ---
-
-![Study: Romans](/images/banners/bible-study-romans.png)
 
 ## The Audio
 
