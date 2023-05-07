@@ -10,11 +10,12 @@ tags:
 series:
   - "Study: Romans"
 cover:
-  image: '/images/banners/romans.png'
+  image: images/banners/romans.png
 tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Introduction
 
 <div style="page-break-after: always;"></div>
