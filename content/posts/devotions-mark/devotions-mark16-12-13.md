@@ -9,8 +9,10 @@ tags:
   - "Mark"
 series:
   - "Devotions: Mark"
-tocopen: true
+cover:
+  image: '/images/banners/mark.png'
 css: "prayers"
+showtoc: true
 draft: false
 ---
 

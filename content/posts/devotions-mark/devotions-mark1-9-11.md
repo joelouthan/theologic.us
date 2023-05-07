@@ -8,7 +8,9 @@ categories:
 tags:
   - Mark
 series:
-  - 'Devotions: Mark'
+  - "Devotions: Mark"
+cover:
+  image: '/images/banners/mark.png'
 css: "prayers"
 showtoc: true
 
