@@ -9,6 +9,8 @@ tags:
 series:
   - "1689.6 Of the Fall of Man, Of Sin, And of the Punishment Thereof"
   - "1689 Baptist Confession of Faith"
+cover:
+  image: '/images/banners/1689.png'
 tocopen: true
 css: "prayers"
 draft: false

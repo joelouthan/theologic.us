@@ -8,6 +8,8 @@ tags:
   - "Westminster Confession of Faith"
 series:
   - "Westminster Confession of Faith"
+cover:
+  image: '/images/banners/1689.png'
 tocopen: true
 css: "prayers"
 draft: true

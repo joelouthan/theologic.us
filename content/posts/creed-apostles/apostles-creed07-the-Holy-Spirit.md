@@ -8,6 +8,8 @@ tags:
   - "Apostles' Creed"
 series:
   - "Doctrine: Apostles' Creed"
+cover:
+  image: '/images/banners/apostles.png'
 tocopen: true
 css: "prayers"
 draft: false

@@ -9,6 +9,8 @@ tags:
   - "Ruth"
 series:
   - "Study: Ruth"
+cover:
+  image: '/images/banners/ruth.png'
 tocopen: true
 css: "prayers"
 draft: false
