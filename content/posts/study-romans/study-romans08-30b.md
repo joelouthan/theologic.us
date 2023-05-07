@@ -1,5 +1,5 @@
 ---
-title: "Study: Romans 8:30b Loved & Called by God"
+title: 'Study: Romans 8:30b Loved & Called by God'
 author: Joseph Louthan
 publishDate: 2022-10-17
 categories:
