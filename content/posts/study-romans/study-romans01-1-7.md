@@ -9,7 +9,8 @@ tags:
   - "Romans"
 series:
   - "Study: Romans"
-images: ["images/banners/romans.png"]
+cover:
+  images: "images/banners/romans.png"
 tocopen: true
 css: "prayers"
 draft: false
