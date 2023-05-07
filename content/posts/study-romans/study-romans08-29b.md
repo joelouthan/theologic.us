@@ -15,6 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Introduction
 
 So we have firmly established that God did not look into the future and see that I was good enough to be saved. I did not make the right decision to be saved or do a bunch of “good” works to be saved. We now know that from eternally past, God looked upon me and saw my wickedness, my evilness, my sins, and trespasses and graciously, sovereignly, completely, and mightily decided to save me if for no other reason other than for His glory.

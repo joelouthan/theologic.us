@@ -15,6 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Introduction
 
 >Romans 8:33 (CSB) Who can bring an accusation against God’s elect? God is the one who justifies.

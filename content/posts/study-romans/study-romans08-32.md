@@ -15,6 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Introduction
 
 >Romans 8:32 (CSB) He did not even spare his own Son but gave him up for us all. How will he not also with him grant us everything?

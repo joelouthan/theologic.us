@@ -15,6 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Introduction
 
 This entire series has been trying to pit the world’s definition of love versus God’s definition of love. And perhaps up until this moment, we have never taken that to actual task. What I mean by that is that comparatively speaking, if I speak of God’s love, we can still find something like that in on earth.

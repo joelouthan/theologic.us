@@ -15,6 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Introduction
 
 >Romans 8:36 (CSB) As it is written: Because of you we are being put to death all day long; we are counted as sheep to be slaughtered.
