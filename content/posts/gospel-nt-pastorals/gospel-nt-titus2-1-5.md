@@ -9,8 +9,10 @@ tags:
   - "Titus"
 series:
   - "Gospel NT: Pastorals"
-tocopen: true
+cover:
+  image: '/images/banners/pastorals.png'
 css: "prayers"
+showtoc: true
 draft: false
 ---
 ## The Introduction

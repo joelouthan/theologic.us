@@ -9,6 +9,8 @@ tags:
   - "2 Timothy"
 series:
   - "Gospel NT: Pastorals"
+cover:
+  image: '/images/banners/pastorals.png'
 css: "prayers"
 showtoc: true
 draft: false
