@@ -19,16 +19,12 @@ draft: false
 
 ## The Introduction
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 8:27 (CSB)
 >And he who searches our hearts knows the mind of the Spirit, because he intercedes for the saints according to the will of God. 
 
 ## The Support
-
-<div style="page-break-after: always;"></div>
 
 ```text
 Where do you see God in the text? What does the text say about God?
@@ -82,8 +78,6 @@ Because he loves you.
 
 Oh, the mighty love of God be will with us all today and forever. Amen.
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 But what if you don’t know God like this? What if this is all foreign to you? Just know that our precious God made sure there is more than ample room at the foot of the cross of Christ for you.
@@ -119,8 +113,6 @@ I pray that everyone who reads these words would know that God didn’t create y
 ```text
 
 ```
-
-<div style="page-break-after: always;"></div>
 
 
 ## The Resources
