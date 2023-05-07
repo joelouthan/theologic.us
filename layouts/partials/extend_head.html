@@ -1,7 +1,7 @@
-<!-- Head custom content area start -->
-<!--
-Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. Can be overwritten by partial with the same name in the global layouts.
--->
+{{- /* Head custom content area start */ -}}
+{{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
+{{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
+
 <a rel="me" href="https://bibly.com/@joseph"></a>
 <a rel="me" href="https://puritan.pub/@joe"></a>
 <!-- Head custom content area end -->
@@ -27,3 +27,5 @@ Insert any custom code (web-analytics, resources, etc.) - it will appear in the 
 <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
 {{ end }}
+
+{{- /* Head custom content area end */ -}}
