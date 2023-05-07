@@ -9,6 +9,8 @@ tags:
   - Matthew
 series:
   - "Praying Through: The Lord's Prayer"
+cover:
+  image: '/images/banners/prayer.png'
 showtoc: true
 css: "prayers"
 
