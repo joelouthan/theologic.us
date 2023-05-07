@@ -62,8 +62,6 @@ How many times I have said this? God knows we have fallen short. God knows we ca
 
 Christ fulfills the law for us. In his righteousness, we now have the freedom to obey God because we are his children. Paul will expound on the teachings of Christ what it means to love one another.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>9</sup> Let love be without hypocrisy. Detest evil; cling to what is good. 

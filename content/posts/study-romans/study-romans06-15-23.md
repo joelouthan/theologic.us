@@ -62,8 +62,6 @@ So far, Paul answers one part, "We don't have grace to sin all the more because 
 
 What you do get is grace by God alone to be forgiven, cleansed, and sanctified all the time.
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 6:15–23 (CSB)  
@@ -84,8 +82,6 @@ What you do get is grace by God alone to be forgiven, cleansed, and sanctified a
 ><sup>22</sup> But now, since you have been set free from sin and have become enslaved to God, you have your fruit, which results in sanctification—and the outcome is eternal life! 
 
 ><sup>23</sup> For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
-
-<div style="page-break-after: always;"></div>
 
 ## The Support
 
@@ -167,7 +163,7 @@ Prisoners might be content and happy in where they are at. But if you want real 
 
 We might be enslaved to God. But we get to be with Him and enjoy him forever.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -181,8 +177,6 @@ Who is that? Who is going to bring good news to the poor? Who has come to heal o
 
 Christ Jesus is his name.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 We don't get to sin more because we are in bondage to sin. That is something we have to realize about unbelievers: the best that they can do is sin. Because they are not in Christ, everything they do is in sin.
@@ -194,8 +188,6 @@ Just because you behave better does not make a believer.
 I cannot do the work of the Holy Spirit. But there are people listening and reading this Bible Study who are entertaining sin and not really wanting to change their mind about it and definitely have no interested in changing their lives. They want to go to church, be a member, read the Bible, memorize verses, sing songs, volunteer in Kid's Ministry, even be on staff of church still thinking that they have done enough to be consider a Christian. And some sin doesn't lead to immediate death so the consequences are little. But some of you are playing with such sins that if you get caught, it will completely blow up your entire lives. But I think that you have convinced yourself when that happens, you are going to be really sorry, there might be tears, and you will try really hard.
 
 And you will still be under the wrath of God for your unbelief in the Lord Jesus Christ.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -251,8 +243,6 @@ Savior and Redeemer
 Draw me in. Rescue me. And never let me go.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

@@ -83,15 +83,13 @@ image:
 
 ><sup>26</sup> God presented him to demonstrate his righteousness at the present time, so that he would be just and justify the one who has faith in Jesus.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### The Fall of Mankind is consistent--nothing has changed
 
 >Genesis 6:5-7 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved. Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.”
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -145,8 +143,6 @@ I was introduced to porn when I was about 7 years old. But what am I going to do
 
 This is not so.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Here is the gospel: there is one way only to get through our own sin.
@@ -187,8 +183,6 @@ Now who is we? **The righteousness of God is through faith in Jesus Christ to al
 
 But why would God need to save His people from their sins? **For all have sinned and fall short of the glory of God**
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 What is ours to do? The Bible and especially the book of Romans is going to start making clear and distinct marks: either you are in Christ or you are not in Christ. There is no middle ground.
@@ -209,8 +203,6 @@ Examine me. Test me. Am I yours?
 Do you bear witness with my spirit that I am a child of God?
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

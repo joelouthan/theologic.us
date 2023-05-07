@@ -63,8 +63,6 @@ But to that end, they are not automatically saved. They were born in sin when Ad
 
 I tell you this for those of us who will dare to explore eschatology--the theology of the end times--be sure that you theology is rock solid and your doctrine is rock solid. That is, that your theology and your doctrine is based and about and through and revealed in the Lord Jesus Christ!
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 Now watch this. In this Romans 10 passage, starting at verse 14, let us see how Christ is revealed to the Jew first and also to the Greek. (Romans 1:16b)
@@ -157,8 +155,6 @@ Don't you know that believing the gospel and having faith in the one that saves 
 
 >John 1:12–13 (CSB) But to all who did receive him, he gave them the right to be children of God, to those who believe in his name, who were born, **not of natural descent, or of the will of the flesh, or of the will of man, but of God**.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ><sup>17</sup> So faith comes from what is heard, and what is heard comes through the message about Christ.  
@@ -194,8 +190,6 @@ And you hear this for the first time and you yell back, "How do I receive this g
 And what does God say?
 
 Ask for him. Call upon his name. You will be saved.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

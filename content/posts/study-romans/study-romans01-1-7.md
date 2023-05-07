@@ -61,8 +61,6 @@ image:
 
 ><sup>7</sup> To all who are in Rome, loved by God, called as saints. Grace to you and peace from God our Father and the Lord Jesus Christ.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God—
@@ -138,7 +136,7 @@ Ultimately:
 
 Compare the love for the world versus the tender, affectionate, personal, relational love that God has for his people--those who believe and trust in him--those who are called saints (Ephesians 4:11-16) - Grace to you and peace from God our Father and the Lord Jesus Christ. Amen.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -150,8 +148,6 @@ All the promises of God are yes and amen:
 
 All of the promises in the Old Testament, starting from Genesis 3:15, through the law and the prophets, through songs and wisdom, all culminating that God would save his people. In other words, we will be his people and he will forever be our God.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Here is the gospel proclamation:
@@ -161,8 +157,6 @@ Here is the gospel proclamation:
 What about those who do not believe in Christ Jesus:
 
 >John 3:36 (CSB) The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

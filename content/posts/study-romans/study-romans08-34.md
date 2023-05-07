@@ -60,8 +60,6 @@ And that’s just the ancient patriarchs of our faith!
 
 David- This one is a keeper. Whom God called “a man after my own heart,” who cheated on his wife, got the girl pregnant, and then murdered her husband to cover it up. Hence, we get the 51st Psalm  out of it.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 And yet, look at what Paul says about all the sins of the Old Testament saints:
@@ -75,8 +73,6 @@ The old saints never knew Jesus Christ. They didn’t even know his name. But th
 What the Old Testament saints didn’t know (except John the Baptizer) is that Someone was going to be God himself, becoming fully man and staying fully God, in Jesus Christ His Son.
 
 So, because of Jesus Christ, who lived, died, buried, and rose again to save his people from their sins, His people will face NO CONDEMNATION because of God who loves us.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -99,8 +95,6 @@ Do you think your King and your God and your Lord who is Almighty and powerful a
 He does because He is God.
 
 And He never stops thinking about you because He loves you.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

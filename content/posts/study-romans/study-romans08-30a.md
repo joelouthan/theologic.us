@@ -31,8 +31,6 @@ And we know that God saved us because He is glorious. In other words, He didn’
 
 God saved us because He simply saw us and He chose us to be with Him forever.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 >Ephesians 1:3–10 (CSB)  
@@ -107,8 +105,6 @@ Father: Let’s do it.
 BOOM!
 
 >Genesis 1:1 (CSB)  In the beginning God created the heavens and the earth.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

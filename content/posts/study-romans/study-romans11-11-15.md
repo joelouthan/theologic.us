@@ -34,8 +34,6 @@ Since we have departed Romans 8, I have worked diligently to counter the mistake
 
 As we finish the heavy doctrinal position of Romans 1 through 11, let us continue to see the glory of God and who He is.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 The gospel of Christ is perfectly this: God does it all and we do nothing but receive. And just like every Trinitarian analogy fails to properly teach the doctrine of Trinity, so too that every analogy of the salvation of God fails in a certain way. But I don't think it is the teaching but rather the listener is at fault.
@@ -104,8 +102,6 @@ We are not saved by God because of our sinful racist views. For:
 
 We are saved by God and God alone.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ><sup>13-14</sup> Now I am speaking to you Gentiles. Insofar as I am an apostle to the Gentiles, I magnify my ministry, if I might somehow make my own people jealous and save some of them. 
@@ -123,8 +119,6 @@ The gospel is this: God saves sinners. And the gospel is in the power of God in 
 And that power in salvation of God was for Jew and Gentile alike:
 
 >Romans 1:16 (CSB) For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

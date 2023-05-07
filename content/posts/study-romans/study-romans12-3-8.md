@@ -48,8 +48,6 @@ How do we do this? There are nearly infinite ways of showing the love of God tow
 
 Go and give mercy--not because this other person is your friend. Go and give mercy to everyone because God has given you great mercy. Not only to be thankful but to be empowered to give the same mercy to others in the way he has given it to you.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>3b</sup>I tell everyone among you not to think of himself more highly than he should think.
@@ -156,8 +154,6 @@ Christ is the head of us. He is our chief. He is our Lord. In the same way that 
 If we are called to love one another, then we belong to one another. The world might do its best to love each other but that is where the similarities begin and end there. The world does not belong to one another. We, as the church, belong to one another. And out of the belonging, because of what Christ has done, we get to not only love each other but love our neighbors in the world.
 
 In our ministry and love in that, think of the grace of GOd and think of us belonging to one another. From there, love each other.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

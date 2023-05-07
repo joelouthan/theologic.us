@@ -61,8 +61,6 @@ image:
 
 ><sup>12</sup> And he became the father of the circumcised, who are not only circumcised but who also follow in the footsteps of the faith our father Abraham had while he was still uncircumcised.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### Old Testament saints were justified by God because they believed--not because they fulfilled a checklist of duties
@@ -90,7 +88,7 @@ I know you have this before. Let me put it in another way:
 
 >John 3:36 The one who believes in the Son has eternal life, but the one who rejects the Son will not see life; instead, the wrath of God remains on him.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -163,8 +161,6 @@ Look at the words of Christ as he quotes the prophet Hosea:
 
 >Matthew 9:13 (CSB) Go and learn what this means: I desire mercy and not sacrifice. For I didn’t come to call the righteous, but sinners.”
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ### Once God has your heart, you are saved to God and not a moment before
@@ -210,8 +206,6 @@ Or to sum it up in another way:
 
 >Ephesians 2:8–10 (CSB) For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—not from works, so that no one can boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 ### Obey the gospel command: repent and believe
@@ -254,8 +248,6 @@ Open my eyes to see, my ears to hear, my tongue to speak, and the life in my bod
 Be my Savior.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

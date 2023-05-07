@@ -67,8 +67,6 @@ image:
 
 ><sup>5</sup> But to the one who does not work, but believes on him who justifies the ungodly, his faith is credited for righteousness.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 You cannot earn a gift. It is no longer a gift but payment owed.
@@ -143,7 +141,7 @@ It is a posture of the heart. And the heart is wicked and desperately sick. Do y
 
 Christ only came to heal the sick and save sinners.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -209,8 +207,6 @@ And still many of you believe at a young age thinking if you did all the right t
 
 God is not a little god to be bargain with.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Maybe you are guilty of this. I grew up this way. Thinking if I believe hard enough, trusted hard enough, pray hard enough, and didn't have sex before marriage, that God was going to give me the good life. Never mind the fact I didn't trust God, didn't obey him, lied all the time, was violent and had a crippling porn addiction years before the Internet became a household utility.
@@ -228,8 +224,6 @@ The second best time would be right this second. Listen, you might try to hold o
 >2 Timothy 2:24-26 (CSB) The Lord’s servant must not quarrel, but must be gentle to everyone, able to teach, and patient, instructing his opponents with gentleness. Perhaps God will grant them repentance leading them to the knowledge of the truth. Then they may come to their senses and escape the trap of the devil, who has taken them captive to do his will.
 
 >Romans 2:4 (CSB) Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance?
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -258,8 +252,6 @@ The Only God
 Give me the gift of repentance so I can turn away from sin and turn back to you.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

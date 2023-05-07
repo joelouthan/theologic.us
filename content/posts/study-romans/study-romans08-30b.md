@@ -28,8 +28,6 @@ There is a war in our world to determine the value of a human’s life. Life tod
 
 But even biologically speaking, life of a human is determined by lungs breathing air, heart pumping blood. We could take it one step further that a life being lived to it’s capacity is one that is functioning on a brain or muscle capacity. And even further still, one that contributes to society.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 But I am here to tell you that without the mark of the Spirit of God upon our lives as sons and daughters of God the Father, we are not fully made alive.
@@ -47,8 +45,6 @@ or this in Paul's letter to Pastor Titus:
 >Titus 3:3 (CSB)  For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 
 Because of sin, we are dead. We are nothing more than spirit-less corpses toiling around until we fully expire. But the world wants to convince us all that there is actually life apart from God. And not only the world, but we ourselves as believers are strongly tempted to sin and stray outside the grace of God.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -97,8 +93,6 @@ We might think that Satan, demons, hell, and especially Death absolutely believe
 But no! It was when Christ died and gave up his life as ransom for many is the precise moment that Satan was crushed, demons were lorded over, hell was controlled, our sins abolished, and Death defeated once and for all.
 
 That is a love that is simply unfathomable but that is exactly the fullest of God’s love for us.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

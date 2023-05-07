@@ -17,8 +17,6 @@ draft: false
 
 ---
 
-## The Introduction
-
 ## The Text
 
 >Romans 8:27 (CSB)
@@ -103,17 +101,6 @@ I pray that everyone who reads these words would know that God didn’t create y
 ```text
 4. Do you know God like this? 
 ```
-
-## The Prayer
-
-<div style='font-variant: small-caps;'>
-
-</div>
-
-```text
-
-```
-
 
 ## The Resources
 

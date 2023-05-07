@@ -74,8 +74,6 @@ If you do not, this declaration is not right for you--the wrath of God remains u
 
 Now, we believe? How are we to live? Paul will go on...
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 6:1–14 (CSB)  
@@ -185,8 +183,6 @@ There is no middle way. There is no neutral way. There is no easy peasy soft way
 >
 >“Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”]
 
-<div style="page-break-after: always;"></div>
-
 ## God
 
 ### Christ has completely taken care of sin
@@ -208,8 +204,6 @@ Per John Stott, God is high above, far from, exposes, burns, and vomits out sin.
 ### Jesus Christ is perfectly that for us
 
 >Hebrews 7:26-28 (CSB) For this is the kind of high priest we need: holy, innocent, undefiled, separated from sinners, and exalted above the heavens. 27 He doesn’t need to offer sacrifices every day, as high priests do—first for their own sins, then for those of the people. He did this once for all time when he offered himself. 28 For the law appoints as high priests men who are weak, but the promise of the oath, which came after the law, appoints a Son, who has been perfected forever.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -241,8 +235,6 @@ But your mercy, grace, and steadfast love is always upon me.
 Continue your work in. Draw me closer to you. Keep the world dim to my sight as I continue to try to see you with bleared eyes.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

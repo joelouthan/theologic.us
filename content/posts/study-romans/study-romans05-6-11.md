@@ -59,8 +59,6 @@ image:
 
 ><sup> 11 </sup> And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 >Ephesians 1:3–14 (CSB)  
@@ -88,7 +86,7 @@ image:
 
 ><sup> 14 </sup> The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -125,8 +123,6 @@ Who loved whom first? Was it God or you?
 
 Did God start loving you when you decided to clean yourself up, presented yourself a pretty good person or did God love you when you were yet a sinner?
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 >Titus 3:3–7 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
@@ -134,8 +130,6 @@ Did God start loving you when you decided to clean yourself up, presented yourse
 >But when the kindness of God our Savior and his love for mankind appeared, he saved us—not by works of righteousness that we had done, but according to his mercy—through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
 
 Are we saved by our good works? Are saved to God by ourselves first? How did God save us?
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -190,8 +184,6 @@ My Wonderful Counselor
 Call me to you. Ask of me and save me!
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

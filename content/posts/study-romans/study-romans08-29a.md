@@ -16,10 +16,6 @@ css: "prayers"
 draft: false
 ---
 
-## The Introduction
-
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
@@ -57,8 +53,6 @@ And.
 
 ><sup> 14 </sup> The Holy Spirit is the down payment of our inheritance, until the redemption of the possession, to the praise of his glory.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 In order to understand God and his love for his people, we can take this little verse, walk through it, and answer the following questions:
@@ -72,8 +66,6 @@ We teach our kids the story on how God saved Noah:
 And because of our philosophies born out of the world in which we live today, we surmised that it was Noah, first, that lived a righteous life and it was only then God saved Noah.
 
 But does that line up with any story of salvation that you ever heard in the Bible or is Paul correct when he says:
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -106,8 +98,6 @@ As old dead white guys would say two hundred years ago, let us lay an axe to our
 Should we be audacious before the throne of grace? As the Spirit of God bears witness with our spirits, then yes! But as a child of wrath with no thoughts or convictions about our own sin or zero affections and love towards the Saviour of the world? No! For the child of wrath is declared by the all-knowing God to be unknowable.
 
 And you might say to me, “This foreknowledge to too much for me to dwell on. How can I comprehend it?” My friend, it is not a belief in foreknowledge of God that would save you but it is faith and belief in the one who lived a life that we could not possibly live, the one who died dying a death that we should have death, resurrected back into life by which we have no power over unto the glory that belongs to God alone. I ask you to comprehend and trust the risen Christ! It is Christ alone who came into the world as a baby and to grow in a man faced every type of temptation just like you or me. But unlike us, he never sinned. For in that glorious work of Christ by the power of the Holy Spirit, we are now able to see the Father!
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -154,8 +144,6 @@ Save me.
 
 Amen.
 ```
-
-<div style="page-break-after: always;"></div>
 
 
 ## The Resources

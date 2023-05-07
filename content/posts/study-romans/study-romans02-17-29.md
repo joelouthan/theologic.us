@@ -73,8 +73,6 @@ image:
 
 ><sup>29</sup> On the contrary, a person is a Jew who is one inwardly, and circumcision is of the heart—by the Spirit, not the letter. That person’s praise is not from people but from God.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 As we descend into the end of Romans 3 "all have sinned and fallen short of the glory of God", Paul has taken ever possible argument and pushback from naysayers in his time. How does this apply to us?
@@ -109,7 +107,7 @@ Here's the kick to the crotch: you and I are not perfect. You and I are infected
 
 And to our little sinful hearts who maybe bent to do the bare minimum, that kinda sucks. That is literally God-awful. To be Christian, you are proclaiming that you worship God who doesn't want empty praise or for you to do a bunch of stuff for him--Christians worships the Creator God of the heavens and the earth who only wants the heart of the worshiper.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -128,8 +126,6 @@ Again, we can pick and choose what Bible verses we like, and because they requir
 God is the only God who gives the whole law to be obeyed perfectly who, at the same time, rightfully demands your whole heart. All of your heart and everything in it.  
 
 If you can see yourself honestly, you know your heart it is jacked up and have jacked up things in it. But that is what makes the gospel of Christ such good news: God wants your heart and all the sin within it.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -219,8 +215,6 @@ One received a new heart and the Spirit of God. The other was really good at try
 
 Only one's works were obedient to God because the believer has no righteousness apart from Jesus Christ. For the unbeliever, his works are but filthy rags in the sight of God.
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 The call is always to believe and put your trust in God.  It is literally the only way you can be saved.
@@ -238,8 +232,6 @@ Here is the call directly from Christ:
 
 >“Go, and from now on do not sin anymore.”
 
-<div style="page-break-after: always;"></div>
-
 ## Pray
 
 <div style="font-variant: small-caps;">
@@ -252,8 +244,6 @@ Call upon me. Call me to be yours. Give me you. Give me your Spirit. Give me lif
 So that I will go and sin no more.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

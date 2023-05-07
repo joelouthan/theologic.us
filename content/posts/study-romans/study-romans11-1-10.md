@@ -50,8 +50,6 @@ But this is where I am changing my mind and I hope you are too. I hope you are s
 
 In using Israel as an example, we are seeing just how, it is not God that rejects unbelievers but it is God who preserves and keeps his people. And if we are to believe the Bible, God has kept his people since before the foundation of the world.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>1-2a</sup> I ask, then, has God rejected his people? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin. God has not rejected his people whom he foreknew.  
@@ -118,8 +116,6 @@ I will say this about the mark of the beast. I have seen a generation of Christi
 
 Let me tell you something about the clear, wonderful grace of the Almighty God.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ><sup>5-6</sup> In the same way, then, there is also at the present time a remnant chosen by grace. Now if by grace, then it is not by works; otherwise grace ceases to be grace.
@@ -149,8 +145,6 @@ For those who are saved by God, listen to what John hears:
 Brothers and sisters, it is time to rest. God has done the work. Rest in Christ. Sleep well for you belong to the only God who saves.
 
 >Matthew 11:28–30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

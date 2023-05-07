@@ -111,8 +111,6 @@ Not all the nation of Israel is elect. Some are. Not all the nation of the Unite
 
 Since we have fully established the salvation of God in his people, let us talk about our God.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>18</sup> do not boast that you are better than those branches. But if you do boast—you do not sustain the root, but the root sustains you. 
@@ -207,8 +205,6 @@ For:
 
 You need to praise our God through Jesus Christ our Lord!
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ><sup>18-19</sup> do not boast that you are better than those branches. But if you do boast—you do not sustain the root, but the root sustains you. Then you will say, “Branches were broken off so that I might be grafted in.” 
@@ -278,8 +274,6 @@ If you are Jewish and reading this, you can get grafted into Christ. How? Repent
 If you are not Jewish and reading this, you can get grafted into Christ. How? Repent and believe! Ask God for God you will get God!
 
 All who have called upon the name of the Lord shall be saved!
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

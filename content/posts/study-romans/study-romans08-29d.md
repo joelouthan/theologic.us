@@ -24,8 +24,6 @@ For example, the laughter of a tiny infant to their parents’ goo-goo and gah-g
 
 We could come up good lists of what different loves look like but none would be as complete as the love of God. I contend that the reason why is because while we do things out of love, God does something even greater than that—He does everything out of his glory.
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
@@ -74,8 +72,6 @@ God’s even in the death of Jesus Christ upon the cross:
 
 >Luke 24:26 Was it not necessary that the Christ should suffer these things and enter into his glory?”
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Why did God save? Because he loves us but more so than that, because He is glorious!
@@ -106,8 +102,6 @@ the whole earth is full of his glory!”
 >And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the LORD of hosts!”
 >
 >Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. And he touched my mouth and said: “Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.”
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

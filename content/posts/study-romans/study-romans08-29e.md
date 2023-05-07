@@ -15,6 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 ---
+
 ## The Text
 
 >Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
@@ -30,8 +31,6 @@ How did God save us? We now see that it was by the perfect life, sacrificial dea
 By whom we are saved? Again, from the sovereign grace of the Father, through the blood-drained and broken body of Christ upon the cross, by the power and might of the Spirit. In other words, God.
 
 Why did God save us? Again, it was not because we were good or made the right decision or merely born into the right family, but for the glory of God which is the fullest, maximum infinite display of everything that God is—holiness, love, righteousness, just, mercy, and grace, just to name a few.
-
-<div style="page-break-after: always;"></div>
 
 ## Our God
 
@@ -68,8 +67,6 @@ That once belong to Him, no one can take us away from him:
 
 >John 10:28-30 (CSB) I give them eternal life, and they will never perish. No one will snatch them out of my hand. My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Forever, there is no condemnation for those who are in Christ and no separation for those who are in Christ.
@@ -89,8 +86,6 @@ We are to meet together not to throw guilt, shame, and condemnation at one anoth
 Let us not neglect the meeting of the saints so that we can encourage and lift up one another and we do so not just by sincere encouragement, and prophesy that is tested by the word of God but primarily by the exposing of our sin by the law of God and the ocean of grace and love that awaits for us within the gospel of His blessed Son, Jesus Christ.
 
 On the flip side of that: when the church fails to do that, in other words, when it fails to be a safe place for the saints, what are we to do? Then neglect meeting with one another.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

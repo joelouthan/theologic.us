@@ -92,8 +92,6 @@ This week, we are going to see the ongoing recovery from that surgery.
 ><sup> 25 </sup> Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.
 
 
-<div style="page-break-after: always;"></div>
-
 ## God
 
 ### God is at work: you will begin to see the difference between the spiritual and the flesh
@@ -107,8 +105,6 @@ This week, we are going to see the ongoing recovery from that surgery.
 ### God is at work: you will begin to feel the pain of the cutting of the law on your life
 
 ><sup> 16 </sup> Now if I do what I do not want to do, I agree with the law that it is good. <sup> 17 </sup> So now I am no longer the one doing it, but it is sin living in me. 
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -177,8 +173,6 @@ This week, we are going to see the ongoing recovery from that surgery.
 
 >Song of Solomon 8:6 (CSB) Set me as a seal on your heart, as a seal on your arm. For love is as strong as death; jealousy is as unrelenting as Sheol. Love’s flames are fiery flames— an almighty flame!
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 ### Praise his name: We were once dead
@@ -200,8 +194,6 @@ This week, we are going to see the ongoing recovery from that surgery.
 ### Praise be his name: go and sin no more
 
 >So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.
-
-
 ## Pray
 
 <div style="font-variant: small-caps;">
@@ -212,8 +204,6 @@ My Spotless Lamb
 Take all of my sins.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

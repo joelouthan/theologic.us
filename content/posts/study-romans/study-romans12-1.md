@@ -106,8 +106,6 @@ Paul is giving the law to the followers of Christ so that they can live righteou
 
 It is never the opposite--we do not and cannot obey God to then belong to God.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>1</sup> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
@@ -143,8 +141,6 @@ Do we get to sin more? No! Sin has been put to death because Christ has died for
 And we live this life unto Christ and residual sin from within our sick yet recovering hearts still surfaces and takes actions, there is no despair. For Christ Almighty saves our wretched self from our bodies of death.
 
 Now we are free to obey God and walk in newness with him! Therefore, worship God!
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -235,8 +231,6 @@ Death nor life, nor angels nor rulers, nor things present nor things to come, no
 >>Charles Spurgeon
 
 I have one thing to tell you on this day: Worship God!
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

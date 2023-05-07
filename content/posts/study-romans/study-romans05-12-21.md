@@ -66,8 +66,6 @@ In today's passage, we get to examine the metaphysical in order to answer the qu
 
 Let us get into it.
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 5:12–21 (CSB)  
@@ -91,8 +89,6 @@ Let us get into it.
 
 ><sup> 21 </sup> so that, just as sin reigned in death, so also grace will reign through righteousness, resulting in eternal life through Jesus Christ our Lord.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### We have inherited Adam's sin--Adam's sin is imputed to us
@@ -111,7 +107,7 @@ Let us get into it.
 - Murder, pride, sexual immorality--mankind is far far worse than Genesis 6.
 - We are not responsible for Adam's sin but we are certainly affected by Adam's sin--down to our core. And the wages of sin--Adam's sin, my dad's sin, your sin, my sin, all sin, everybody's sin--is death.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -134,8 +130,6 @@ Let us get into it.
 - Adam and Eve were once fully alive because they were automatically right-standing in God.
 
 >2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -172,8 +166,6 @@ Because of the righteousness of Christ who was joyfully obedient to the point of
 We have put our trust in the one who has championed over Death. Christ Jesus is his name!
 
 It is an absolute fact: "You shall name Him, Jesus, for he will save His people from their sins."
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -235,8 +227,6 @@ My Only Lord
 I believe in you. Save me!
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

@@ -59,8 +59,6 @@ This is where we Gentiles do not get to boast because we do the same thing. We c
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>26</sup> And in this way all Israel will be saved, as it is written, The Deliverer will come from Zion; he will turn godlessness away from Jacob. 
@@ -80,8 +78,6 @@ We have not wasted a moment of his patience. But you say, "What about those time
 But what does the Bible say? We were once all foolish and led astray. We were all dead in our trespasses and sins. But look at God! Sending his only Son. And the Son appeared in our lives like he did for Paul, and the Ethiopian Eunuch and Lydia and the Philippian Jailer and for you and for me! He saved us and washed us clean and renewed us by the power of the Holy Spirit.
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -176,8 +172,6 @@ God is unlimited and he alone gives eternal life. God is steadfast and he gives 
 God is the same yesterday, today, and forever. God's love and mercy and grace and patience and kindness towards his people is the same yesterday (see the Bible), today (see the Church), and tomorrow (see God)!
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

@@ -73,8 +73,6 @@ image:
 
 ><sup>25</sup> He was delivered up for our trespasses and raised for our justification.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 So you might be asking, "Joseph, why are you beating down these gospel points. We get it--we cannot earn our salvation."
@@ -124,7 +122,7 @@ And don't get thrown off by Paul's writing:
 
 He is not even suggesting that there are two ways of being saved. No. Remember earlier in Romans 2? Who are the people who received the law of God? The Jews. Who are the people who didn't receive the law? Us, the Gentiles. No matter what, if we have the faith of God we have the faith of Abraham and both Jew and Gentile claim Abraham as the father of our faith.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -166,8 +164,6 @@ In other words...
 
 ### God alone fulfills his promises
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 That is the good news. What God said will gloriously come to pass. For those whom God predestined, God glorified. (Romans 8:30) Past tense. Good as done.
@@ -183,8 +179,6 @@ Let us get back into Romans 4:
 Paul will sum up all of the first half of Romans in this precious way:
 
 >Romans 8:24-25 (CSB) Now in this hope we were saved, but hope that is seen is not hope, because who hopes for what he sees? 25 Now if we hope for what we do not see, we eagerly wait for it with patience.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -222,8 +216,6 @@ My Sin Remover
 Wash me clean. Make me your child.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

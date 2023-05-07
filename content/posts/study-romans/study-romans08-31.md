@@ -28,8 +28,6 @@ Yet, if we are not careful or perhaps we just do not know any better, we can let
 
 John so boldly stated that God is love but we have no right nor authority to redefine what love is in light of our past experiences and current situation. In order to find out what good and perfect love is, we have to go to the One who is love.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 How do we do that? How can we go to God and define what love actually is. We can certainly go by what he said. But when it comes to God’s love for us, we see time and time again in the Bible that God does not use just mere words but concretely and certainly backs up those words with real action. Namely:
@@ -92,8 +90,6 @@ Let us walk through from Romans 1:1 to where we are at now in 8:37 for the strai
 - Romans 8:30b For every single person he called, he justified.
 - Romans 8:30c For every single person he justified, he glorified.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 So what shall we say to all of these things?
@@ -141,8 +137,6 @@ And
 **Not even Hell itself nor Death itself**:
 
 >Revelation 20:13–14 (CSB) Then the sea gave up the dead that were in it, and death and Hades gave up the dead that were in them; each one was judged according to their works. Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

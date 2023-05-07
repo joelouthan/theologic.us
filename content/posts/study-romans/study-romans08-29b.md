@@ -20,8 +20,6 @@ draft: false
 
 So we have firmly established that God did not look into the future and see that I was good enough to be saved. I did not make the right decision to be saved or do a bunch of “good” works to be saved. We now know that from eternally past, God looked upon me and saw my wickedness, my evilness, my sins, and trespasses and graciously, sovereignly, completely, and mightily decided to save me if for no other reason other than for His glory.
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 8:29 (CSB) For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
@@ -30,7 +28,7 @@ So we have firmly established that God did not look into the future and see that
 
 >Isaiah 48:9–11 (CSB) I will delay my anger for the sake of my name, and I will restrain myself for your benefit and for my praise, so that you will not be destroyed.  Look, I have refined you, but not as silver; I have tested you in the furnace of affliction.  I will act for my own sake, indeed, my own, for how can I be defiled? I will not give my glory to another.
 
-<div style="page-break-after: always;"></div>
+
 
 ```text
 Where do you see God in the text? What does the text say about God?
@@ -55,8 +53,6 @@ Furthermore, to be buried in a tomb for three days, and by that same Spirit of G
 Was all of that enough for Jesus Christ to save His people?
 
 Anybody who has grown up in church all of their lives will shout the answer, “You must believe in Jesus Christ in order to be saved!” That is the answer. Just believe in the one who lived and died for you and you shall be saved.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -119,8 +115,6 @@ God saves us
 - Might not as in mere possibility but based on the strength of the love our God our Father by the power of the Holy Spirit through the broken body of Jesus Christ our Lord and Savior.
 
 There is no greater news than this because there is no greater love than this.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

@@ -53,8 +53,6 @@ image:
 
 ><sup>15</sup> So I am eager to preach the gospel to you also who are in Rome.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### Now I don’t want you to be unaware, brothers and sisters, that I often planned to come to you (but was prevented until now) in order that I might have a fruitful ministry among you, just as I have had among the rest of the Gentiles
@@ -70,7 +68,7 @@ Where we live and minister and proclaim Christ in on God's sovereign grace.
 >Those who were not told about him will see,
 >and those who have not heard will understand.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -100,8 +98,6 @@ We also know that Paul could not make it Rome, he sent this letter. Praise God f
 
 Paul does make it to Rome eventually--not of his own volition but as a prisoner sentenced to death for the preaching of the gospel of Christ.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ### So I am eager to preach the gospel to you also who are in Rome
@@ -127,8 +123,6 @@ The other reaction: God gives you a new heart with new desires. I think, it is a
 [^5]: John 1:12-12
 [^6]: John 3:36 (CSB)
 [^7]: Ezekiel 36:26-27. See also, Romans 7:7-25
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -173,8 +167,6 @@ Kill our cold hearts.
   for you alone.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

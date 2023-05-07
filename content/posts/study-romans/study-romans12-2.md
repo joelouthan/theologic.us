@@ -33,8 +33,6 @@ Verse 2, Paul here is giving us another command:
 
 >Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 For some of us who grew up this way, we memorized the Ten Commandments. I do not have them memorized but when I hear one of them, I know for a fact of the source: Exodus 20.
@@ -74,8 +72,6 @@ Might I submit to you that this should quickly fall under, "easier said than don
 I am not here to condemn. I am here to say to obey this command it is easier said than done. Give yourself a lot of grace. Give others--whom you think is your political and ideological enemies--even more grace than you would give yourself.
 
 So, I have written sixty-nine chapters expositing Romans and you think all of sudden I have no hope for you to obey this law? You are right. You and I can't hope to perfectly buffer the thinking of this world and the schemes of the devil. Where is our hope for those who want to obey?
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -147,8 +143,6 @@ My friend, tell me something, if you actually did all of those things, then why 
 Reading your Bible, praying, sitting under the preaching of the word of God, giving thanks to God, abstaining from the world, and strive not to think like the world doesn't guarantee you that you are a Christian. You just look good to mankind but God sees the hearts and he knows whom he has placed his heart and his Spirit into.
 
 But doing the what you suggest? I promise you that this person you speak of is not a Christian because we see the opposite of the fruit of the Spirit.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

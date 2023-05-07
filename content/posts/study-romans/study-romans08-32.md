@@ -62,8 +62,6 @@ But you see, if we think of money or houses or jobs or things, then our thinking
 
 And I tell you, when my thinking of His perfect provision more right-standing with Him and His word, you cannot convince me otherwise that He has blessed me more than any other person who has ever lived or will ever live.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 For you see, my friend, He has given me His Son, Jesus Christ.
@@ -75,8 +73,6 @@ And what's even more incredible than that? Jesus Christ wanted to give his life 
 >Galatians 2:20 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
 
 And Christ went to the cross and hung himself there with great joy for my sake so that I would be set free in Him.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

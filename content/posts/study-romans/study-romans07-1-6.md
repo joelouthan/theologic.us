@@ -72,8 +72,6 @@ You wanna be a Christian but you wanna keep sinning. Sorry, you can't have both.
 
 And are not quite done. Paul has one more comparison and for those of you who have been through the loss of a spouse--whether by death or by divorce, which is nearly the same thing--this might be the hardest one to hear yet.
 
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 7:1–6 (CSB)  
@@ -89,13 +87,11 @@ And are not quite done. Paul has one more comparison and for those of you who ha
 
 ><sup> 6 </sup> But now we have been released from the law, since we have died to what held us, so that we may serve in the newness of the Spirit and not in the old letter of the law.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 >Mark 10:1–12 (CSB) He set out from there and went to the region of Judea and across the Jordan. Then crowds converged on him again, and as was his custom he taught them again.  Some Pharisees came to test him, asking, “Is it lawful for a man to divorce his wife?”  He replied to them, “What did Moses command you?”  They said, “Moses permitted us to write divorce papers and send her away.”  But Jesus told them, “He wrote this command for you because of the hardness of your hearts.  But from the beginning of creation God made them male and female.  For this reason a man will leave his father and mother  and the two will become one flesh. So they are no longer two, but one flesh.  Therefore what God has joined together, let no one separate.”  When they were in the house again, the disciples questioned him about this matter.  He said to them, “Whoever divorces his wife and marries another commits adultery against her.  Also, if she divorces her husband and marries another, she commits adultery.”
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -162,8 +158,6 @@ Why are there so many passages in the Bible speaking about God cleanses us from 
 
 And if you have made up your little mind that something that God clearly called sin and you judge it not a sin, listen, I am not the one you should be debating with. I am not God. You have judged what was right in your own eyes. You need to take that up with God. He said it in his world. Sexual immorality. Slander. Gossip. Lying. Stealing. Anger and Rage. What else you got? Those don't get you the kingdom of heaven. God does.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ### But God kills our sin
@@ -179,8 +173,6 @@ Want something that will give you life? Dwell, meditate, and memorize verse 11--
 Here's another one:
 
 >Galatians 2:17-21 (CSB) But if we ourselves are also found to be “sinners” while seeking to be justified by Christ, is Christ then a promoter of sin? Absolutely not! 18 If I rebuild those things that I tore down, I show myself to be a lawbreaker. 19 For through the law I died to the law, so that I might live for God. 20 I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me. 21 I do not set aside the grace of God, for if righteousness comes through the law, then Christ died for nothing.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -200,8 +192,6 @@ Kill my sins. Kill my masters.
 Give me life!
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

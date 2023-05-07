@@ -95,8 +95,6 @@ So is for the people of God who were saved before the foundation of the world. N
 
 You believe now, trust him now, repent now, you have God now. That is the only guarantee I got. Turn to God, ask for God, God will give himself to you. It's the only set guarantee because he sent his Son to save his people 2000 years ago. The salvation is done. Come to him now.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 It is this desperate plea to you is the desperate plea that cut Paul to the bone. He so wish that the Israelites, those who were physically born of Abraham, Isaac, and Jacob, there fathers, would just to turn to Christ. For:
@@ -139,8 +137,6 @@ Those who beat and kill the people of Christ was the same people that Paul was s
 
 And their own racist beliefs--the belief that they were born naturally into the family of God--was going to send them straight to hell unless Christ saved their wicked souls.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ><sup>9</sup> For this is the statement of the promise: At this time I will come, and Sarah will have a son. 
@@ -182,8 +178,6 @@ Go and read the life of Jacob. You know what his name means? Trickster. He was a
 And God came to him, brought him to the end of his life, and broke his life and pride--to make him walk with a limp for the rest of his life.
 
 Before Isaac could do anything, he was called. Before Jacob could obey God, God justified. Before you and I can even begin to do one thing good unto the Lord, God must save us.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

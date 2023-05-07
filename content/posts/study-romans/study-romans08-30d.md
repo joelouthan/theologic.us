@@ -34,8 +34,6 @@ The salvation and *thus*, glorification of the people of God are wholly dependen
 
 Do you believe and trust in God? Don’t give me the response, “Well, not perfectly.” But do you ever? Did you ever weep with grief at your sin before God but cried with joy that He is the God who is mighty to save?
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 “But there is often I don’t seek or chase after him. Am I saved?”
@@ -49,8 +47,6 @@ It is the salvation and glorification is what I call the sheer madness of God. F
 For you see, it is not just that God thought of us before the foundations of the world. It is not just that he spoke and cut through the darkness of my sin and my death so that I would be *fully* alive. It wasn’t just that He would send His only begotten Son to live for me, die for me, raised from death for me, and then glorified for me.
 
 No! My Lord and my God, who is the perfect maximum of everything, is completely, all-time, and never ever suppressing Himself, has the wherewithal and the audacity to glorify me with him.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

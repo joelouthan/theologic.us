@@ -57,8 +57,6 @@ image:
 
 ><sup>12</sup> that is, to be mutually encouraged by each other’s faith, both yours and mine.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 The Great Commission as mentioned in Matthew 26, Mark 16, Luke 24, and Acts 1.
@@ -67,7 +65,7 @@ Yet, simplified:
 
 >1 Thessalonians 2:8b (NIV) Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -93,8 +91,6 @@ Yet, simplified:
 
 >Ephesians 6:10 (CSB) Finally, be strengthened by the Lord and by his vast strength.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 The gospel is about His Son, Jesus Christ.
@@ -102,8 +98,6 @@ The gospel is about His Son, Jesus Christ.
 >whom I serve with my spirit in telling the good news about his Son
 
 >1 Corinthians 15:3-8 (CSB) For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, then to the Twelve. Then he appeared to over five hundred brothers and sisters at one time; most of them are still alive, but some have fallen asleep. Then he appeared to James, then to all the apostles. Last of all, as to one born at the wrong time, he also appeared to me.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -152,8 +146,6 @@ My God,
 Blessed be the glorious name of the Lord,
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

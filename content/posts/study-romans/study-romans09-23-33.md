@@ -65,8 +65,6 @@ Obviously, my question would be rhetorical. Romans 9, 10, and 11 do pertain to a
 
 But I will say this, where Paul makes the distinction about the Jewish people (as he did in Romans 2), then he is very much talking about the Jewish people. Don't get those confused. (That was a quick reminder for me as well.)
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 To remind us of the context of verses 23-24, let us read the passage:
@@ -92,8 +90,6 @@ Lets get back to the passage:
 What if he did? Guess what. Paul is asking a rhetorical question. Because the answer is: God did do this. Romans 9 lays it all out. We see where God explicitly raised up Pharaoh to power and turned him over to the wickedness of his own narcissistic sin-filled heart to his own destruction just so he would be able to save his people from slavery?
 
 Do you not think that God would send his only begotten Son, to raise him up on a cross just to save his people from sin?
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -144,8 +140,6 @@ Show of hands, who has met a Philistine? Nobody. God wiped them from the face of
 The Jewish person, who wrestles with the complete Bible, reads it, and by the grace and the understanding of the Holy Spirit alone, "if not by God, there go I".
 
 And the Jewish people will always be preserved no matter how many attempts are made to wipe them from the face of the earth. See God's preserving hand on them. But if they do not turn to Christ, they will thrown into the fire where there is weeping and gnashing of teeth--just like Jesus Christ preached to them when he was here on earth.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

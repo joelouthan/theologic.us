@@ -68,8 +68,6 @@ Then perhaps you might be asking, "If Romans 8:1-4 declares that for those in Ch
 
 >Romans 8:12–13 (CSB) So then, brothers and sisters, we are not obligated to the flesh to live according to the flesh,  because if you live according to the flesh, you are going to die. But if by the Spirit you put to death the deeds of the body, you will live.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 >1 Samuel 17:48–51 (CSB) When the Philistine started forward to attack him, David ran quickly to the battle line to meet the Philistine.  David put his hand in the bag, took out a stone, slung it, and hit the Philistine on his forehead. The stone sank into his forehead, and he fell facedown to the ground.  David defeated the Philistine with a sling and a stone. David overpowered the Philistine and killed him without having a sword.  David ran and stood over him. He grabbed the Philistine’s sword, pulled it from its sheath, and used it to kill him. Then he cut off his head. When the Philistines saw that their hero was dead, they fled.
@@ -84,7 +82,7 @@ Whoa, there were even more giants in the land? Why didn't we ever hear about thi
 
 We are to kill off our own sin.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -97,8 +95,6 @@ But if you think you are going to do this alone, you are gloriously mistaken.
 >Ephesians 6:10–13 (CSB) Finally, be strengthened by the Lord and by his vast strength.  Put on the full armor of God so that you can stand against the schemes of the devil.  For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens.  For this reason take up the full armor of God, so that you may be able to resist in the evil day, and having prepared everything, to take your stand.
 
 David could not don Saul's armor to slay Goliath. This wasn't just mere flesh and blood but David stood "against rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens." Why would the anything man could do or invent to help us wage ware in the spirtual? Man cannot!
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -204,8 +200,6 @@ God has to give you six things in order for you to battle spiritually and agains
 
 >Luke 24:25-27 (CSB) He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! Wasn’t it necessary for the Messiah to suffer these things and enter into his glory?” Then beginning with Moses and all the Prophets, he interpreted for them the things concerning himself in all the Scriptures.
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 1\. Pray for all the saints:
@@ -226,8 +220,6 @@ My Lord
 Every day, give me you. I need all of you. Not in what you give but you.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

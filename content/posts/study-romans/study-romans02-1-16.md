@@ -79,8 +79,6 @@ image:
 
 ><sup>16</sup> on the day when God judges what people have kept secret, according to my gospel through Christ Jesus.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### We are not to judge others in their sin and where we think they are at
@@ -99,7 +97,7 @@ The end of Romans 1 exposes our hearts' bent towards license--that is, somehow w
 
 The beginning of Romans 2 exposes our hearts to legalism--that is, earning righteousness by what we do. But God is not like that.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -129,8 +127,6 @@ All who were born of Adam have no righteousness within us. We are born to die an
 
 The day of judgment, reckoning and the wrath of God is soon coming. And Jesus Christ both in the Gospels and in his Revelation makes it painfully clear: the wrath of God that remains on those who do not trust and obey comes from the Son of God himself.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 In all of my conversations with unbelievers and perhaps well-intentioned Christians are sometimes too focus on humanity. What I mean by that is that you are so fixated on trying to save people who want nothing to do with God but do not want to perish and suffer in hell.
@@ -152,8 +148,6 @@ I say to you all: those who are sick of your own heart. You know the thoughts yo
 If that is you, then take a few seconds to listen how the Almighty, Wrathful, Just, Righteous, and Holy God responds to you right now and every second of your life:
 
 >Matthew 11:28-30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest. Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -181,8 +175,6 @@ All of my wickedness, immorality, perversion, treasonous acts, foolishness, and 
 Give me your righteousness so I can be with you forever.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

@@ -51,8 +51,6 @@ image:
 
 ><sup>17</sup> For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 >Galatians 3:11–14 (CSB) Now it is clear that no one is justified before God by the law, because **the righteous will live by faith.**  But the law is not based on faith; instead, the one who does these things will live by them.  Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, Cursed is everyone who is hung on a tree.  The purpose was that the blessing of Abraham would come to the Gentiles by Christ Jesus, so that we could receive the promised Spirit through faith.
@@ -61,7 +59,7 @@ image:
 
 >Habakkuk 2:2–5 (CSB) The LORD answered me: Write down this vision; clearly inscribe it on tablets so one may easily read it.  For the vision is yet for the appointed time; it testifies about the end and will not lie. Though it delays, wait for it, since it will certainly come and not be late.  Look, his ego is inflated; he is without integrity. **But the righteous one will live by his faith.**  Moreover, wine betrays; an arrogant man is never at rest. He enlarges his appetite like Sheol, and like Death he is never satisfied. He gathers all the nations to himself; he collects all the peoples for himself.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -80,8 +78,6 @@ God is the only justifier of the law, not the law itself
 God is the only Savior
 
 >Hebrews 10:38-39 "But my righteous one will live by faith; and if he draws back, I have no pleasure in him.  But we are not those who draw back and are destroyed, but those who have faith and are saved."
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -104,8 +100,6 @@ And the real kick to the pants is this: notice what the Scriptures never say. It
 Or think about John 3:16. It never says, "For God so loved the world that he gave his only begotten Son that whosoever believes *and does not believe* shall never perish but have everlasting life.
 
 The gospel saves only those who believe. The gospel saves only to those who call upon the name of the Lord. The gospel saves only to those who have been given the faith to believe and trust in him.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -171,8 +165,6 @@ Help us to be faithful
 
 Amen
 ```
-
-
 ## The Resources
 
 <p style="clear:both;">

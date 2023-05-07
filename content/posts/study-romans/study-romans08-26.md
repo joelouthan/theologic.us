@@ -168,8 +168,6 @@ Led me to the Father. All in what the Son has done for me.
 Amen.
 ```
 
-<div style="page-break-after: always;"></div>
-
 
 ## The Resources
 

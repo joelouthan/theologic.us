@@ -27,8 +27,6 @@ When we speak of Romans 8, most Christians rightfully cling to the verse 1: **Th
 >Romans 7:24–25 (CSB) What a wretched man I am! Who will rescue me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.
 
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 Seem familiar? Don’t we hear the same desperation in anyone, who by the grace of God, see their own sins as an affront and treason against holy and loving God? It is the great cry of the tax collector, “standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’” [^1]
@@ -46,8 +44,6 @@ Even more than that, it seems to be the same question Isaiah asked:
 >and all our righteous acts are like a polluted garment;  
 >all of us wither like a leaf,  
 >and our iniquities carry us away like the wind.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -107,8 +103,6 @@ Jesus Christ is the literal crux where God’s steadfast love and God’s faithf
 
 [^5]: Psalm 85:10
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 Because of all that he has done and because of what he is doing now and will do, there will be one fine day that I will stand in the presence of my Savior, just as Joshua did before the Commander of the Most High or as the adulteress caught red-handed and thrown before this King of Kings. I saw my Savior’s beautiful face but can I approach him? I can say nothing. But I fall to the ground in worship and in true awe before the one who saved me.
@@ -122,8 +116,6 @@ And upon that declarative state, Christ descends from his rightful throne, lifts
 NO CONDEMNATION! Come and enter in the joy of your master.
 
 It is then and only then that I will have a chance to hold my lovely Saviour’s face, look deeply into his eyes and kiss him a thousand kisses all because of what He has done for me.
-
-
 ## The Resources
 
 <p style="clear:both;">

@@ -81,7 +81,7 @@ God is the only one with all power. His judgment is right and just and falls on 
 
 ><sup> 25 </sup> Now if we hope for what we do not see, we eagerly wait for it with patience.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -106,8 +106,6 @@ How can I be so sure? That is repentance! Christ has commanded each of us to rep
 Yet, because of the Fall of Mankind, we will continue to twist the law of God to redefine what he calls sin not sin. All of that Scripture twisting is foolishness and tiring. It wears me down and grinds my bones to dust just thinking of that.
 
 Take the easy route: repent of your sin, trust in God, and He will be your identity.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -163,8 +161,6 @@ You are going to see change in your heart. Don't fight it nor resist it. Give in
 >
 >Therefore, we are ambassadors for Christ, since God is making his appeal through us. We plead on Christ’s behalf, “Be reconciled to God.” He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 ### Christ defines us: remember your adoption by the Father
@@ -212,8 +208,6 @@ Make me alive in you.
 
 Amen.
 ```
-
-<div style="page-break-after: always;"></div>
 
 
 ## The Resources

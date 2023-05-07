@@ -62,8 +62,6 @@ Redirect those who have entered the narrow gate of life away of the masses on th
 
 >Matthew 7:13–14 (CSB)  “Enter through the narrow gate. For the gate is wide and the road broad that leads to destruction, and there are many who go through it. 14 How narrow is the gate and difficult the road that leads to life, and few find it.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Justification is often referred to as a legal term because one, it is and two, a trial actually occurred.
@@ -83,8 +81,6 @@ We are guilty as sin. Yet, Christ stood in our place to satisfy the just and hol
 And here is love, the cross of Christ! Psalm 85 says it best:
 
 >Psalm 85:10 (ESV)  Steadfast love and faithfulness meet; righteousness and peace kiss each other.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

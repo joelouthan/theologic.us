@@ -63,8 +63,6 @@ image:
 
 ><sup>8</sup> And why not say, just as some people slanderously claim we say, “Let us do what is evil so that good may come”? Their condemnation is deserved!
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 ### Those who are raised from birth to know the love of God have every advantage of those who don't
@@ -120,7 +118,7 @@ That proverb is our a charge to all Christian parents: to raise and parent our k
 >for how can I be defiled?  
 >I will not give my glory to another.  
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -157,8 +155,6 @@ There are no moving parts with God. There are no lies or deceit within the gospe
 What does the gospel of John tell us?
 
 >John 1:14-18 (CSB) The Word became flesh and dwelt among us. We observed his glory, the glory as the one and only Son from the Father, full of grace and truth. (John testified concerning him and exclaimed, “This was the one of whom I said, ‘The one coming after me ranks ahead of me, because he existed before me.’”) Indeed, we have all received grace upon grace from his fullness, for the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God. The one and only Son, who is himself God and is at the Father’s side—he has revealed him.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -246,8 +242,6 @@ In fact, if we worshipped a god was changed his mind when he wanted to or said o
 
 But because God does not change, that all of his promises are yes and amen, that He alone is the only promise keeper and the fact that how much more amazing and wonderful He is because He does not possess the sin to lie and break his promises, He is glorious!
 
-<div style="page-break-after: always;"></div>
-
 ## Our Response
 
 Read your Bible. Know your God.
@@ -259,8 +253,6 @@ God does not need us to try to change his word to justify our sin.
 What has God commanded all of us to do?
 
 Repent of sin. Take all of your sins and hand them over to Christ Jesus and let His Son lovingly lay his daily mercies, saving grace upon grace, and his righteousness upon your life so you can be with God forever and ever. Amen.
-
-<div style="page-break-after: always;"></div>
 
 ## Pray
 
@@ -276,8 +268,6 @@ Holy Spirit, the word of God is too much for me to understand. I cannot comprehe
 Write your Scriptures upon my heart so that I will not sin against you. You alone are my Rock and my Redeemer.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

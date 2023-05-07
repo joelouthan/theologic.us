@@ -30,8 +30,6 @@ So tribulation and distress and persecution and famine and nakedness and danger 
 
 But I can tell you one thing: nothing of those things matter—not in the sheer comparison of the love of God that is in Christ Jesus our Lord.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 Now, the Lord’s love is strong and powerful and mighty and tender and never-ending and continuously gracious and kind and slow to anger. But we might hear these words, and because of the past hurt and trauma and broken hearts, we tend to think maybe that the Lord’s love is strong, but it is not infinitely strong. Each of us can be fooled into thinking that while the Lord’s love is tender, he might not care about what I went through because I have been hurt too bad and he didn’t stop it from happening. We might hear the Lord’s love is never-ending but why is it when I go my own way and do my own thing, God seems to be so far away from me. Or even better yet, when I did everything that God asked me to do, bad stuff keeps happening to me.
@@ -40,8 +38,6 @@ I am here to advise and encourage you saints to live by faith in the Son of God 
 
 >John 10:25–30 (CSB) “I did tell you and you don’t believe,” Jesus answered them. “The works that I do in my Father’s name testify about me. But you don’t believe because you are not of my sheep. My sheep hear my voice, I know them, and they follow me. I give them eternal life, and they will never perish. No one will snatch them out of my hand. My Father, who has given them to me, is greater than all. No one is able to snatch them out of the Father’s hand. I and the Father are one.”
 
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -61,8 +57,6 @@ Let me contend one possibility: is it possible that even though they experienced
 [^3]: Hebrews 6:4-6
 
 And I cannot begin to judge the heart for only God can see and judge the heart.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

@@ -32,8 +32,6 @@ And.
 
 >Matthew 12:46–50 (CSB) While he was still speaking with the crowds, his mother and brothers were standing outside wanting to speak to him. Someone told him, “Look, your mother and your brothers are standing outside, wanting to speak to you.” He replied to the one who was speaking to him, “Who is my mother and who are my brothers?” Stretching out his hand toward his disciples, he said, “Here are my mother and my brothers! For whoever does the will of my Father in heaven is my brother and sister and mother.”
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 Right away, you know that choosing Christ as your God and Savior and Lord might put you at odds with your own flesh and blood. I have had normal visitation with my oldest son since his mother and I separated and divorced when he was about two years old. On that day, he was 16 years old. And as much as I have tried to get him into church and share as much as I can with him about the gospel of Jesus Christ, he calls Christianity “a mythology”. My faith puts me at odds with my son who says it is impossible to know if there is life after death. This is the same young man who passionately wants to be in control of his own destiny (until death), make choices for himself, accepts the rewards and consequences of his own actions but for the life of him, cannot figure out why he has always felt like he is in shackles.
@@ -91,8 +89,6 @@ Nakedness, that is, the loss of basic material possessions, is coming for those 
 
 Sword, terrible violence, is coming for those who love, believe, trust and follow Christ.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 And it is so easy to be like David in Psalm 44: on the one hand, only God saves but then immediately yells to God, “you have made us sheep to be slaughtered... Wake up, Lord! Why are you sleeping?
@@ -111,8 +107,6 @@ More so than that: God gave us everything. Why do I know that? Because God gave 
 >Isaiah 53:7 (CSB) He was oppressed and afflicted, yet he did not open his mouth. Like a lamb led to the slaughter and like a sheep silent before her shearers, he did not open his mouth.
 
 God gave us Christ to not only live for us and die for us but ascended to the cross in perfect obedience and joy.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

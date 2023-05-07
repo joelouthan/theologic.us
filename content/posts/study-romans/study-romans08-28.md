@@ -16,18 +16,10 @@ css: "prayers"
 draft: false
 ---
 
-## The Introduction
-
-<div style="page-break-after: always;"></div>
-
 ## The Text
 
 >Romans 8:28 (CSB)
 ><sup> 28 </sup> We know that all things work together for the good of those who love God, who are called according to his purpose.
-
-## The Support
-
-<div style="page-break-after: always;"></div>
 
 ## Our God
 
@@ -55,8 +47,6 @@ Or here:
 
 Paul is simply going into a more detailed explanation of what Christ said.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 Why is this so important? All the promises of God are both yes and amen, but the promises for you, if you are a child of God, go many more AND deeper, more meaningful, more lovely and beautiful than anything we could have imagined.
@@ -74,8 +64,6 @@ That God knows the heart and that is such good news that he looks and sees us in
 So, what are _all things_? That circumstances and sin and wickedness do not dictate the statuses and the faiths of the children of God. Abuse does not. Trauma does not. Being ignored does not. Being betrayed does not. Being tempted does not. Being poor does not.
 
 Let the world take everything-my innocence, my money, my family, my job, my education-everything that I could put all of my identity in and fall into idol worship. But because I have God, I have everything.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -138,9 +126,6 @@ God, set me on fire so the rest of the world can watch me burn.
 
 God will because He loves me and will keep me forever.
 ```
-
-<div style="page-break-after: always;"></div>
-
 
 ## The Resources
 

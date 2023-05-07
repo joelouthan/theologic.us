@@ -88,7 +88,7 @@ If you think it is possible to continue in sin as a Christian, then you have no 
 
 ><sup> 13 </sup> Therefore, did what is good become death to me? Absolutely not! But, sin, in order to be recognized as sin, was producing death in me through what is good, so that through the commandment, sin might become sinful beyond measure.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -163,8 +163,6 @@ Let me assure you that monster, when exposed to the light of Christ, shrivels up
 
 But you are not left as a shell of a person with a gaping hole in your heart from where God pulled the cancer. No! God fills you with his Spirit; the Son and the Father make their home in you and dwell there all the days of your life. We just read in Jeremiah where he puts his word and law into our hearts forever.
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ### You can trust the work of God on your heart
@@ -180,8 +178,6 @@ But you have to let go of the sin you are holding on to.
 But you have to engage God and his word and in prayer to expose those little sin tumors that you can't see because you never been trained to see.
 
 And yes, I do believe you need to get therapy for our physical, mental, and emotional health--but find yourself a good therapist that will not just give you a bunch of diagnoses that sound close to the truth but points you to Christ and by the power of the Spirit to take the word of God and help you examine what is going on within you.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -201,8 +197,6 @@ My Spotless Lamb
 Do your work in us.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

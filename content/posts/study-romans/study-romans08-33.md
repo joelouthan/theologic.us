@@ -44,8 +44,6 @@ Was Paul is the chief of sinners?  Try again, chief! Paul couldn’t out sin me 
 
 And I had Satan, and his demons, and the world to constantly remind me of my failures and sins—those still remain against God alone.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 But in his great love for me, God saw my wickedness, my depravity, my continuous evil thoughts and actions, and traitorous acts and definitely and defiantly declared, “That is my son! I want him in my family! And I will do so sacrificing my only begotten Son to make it happen!”
@@ -55,8 +53,6 @@ Let the charges pile up. Let the accusations come. I stand accused as the adulte
 But in the furious flames of charges that are poured upon me, Christ alone is my Rock of Ages that protects me as I rest on the cool side as His elect.
 
 I have not sinned against the Devil, demons, hell, death, or even the world. I have sinned against God alone! All of my sins—past, present, and future—was a clear statement that I have hated God and his people.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -75,8 +71,6 @@ And it was God who stepped into creation, called my name and raised me from the 
 While I was doing nothing but evil:
 
 >Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

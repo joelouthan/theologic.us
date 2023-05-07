@@ -61,8 +61,6 @@ image:
 
 ><sup>32</sup> Although they know God’s just sentence—that those who practice such things deserve to die—they not only do them, but even applaud others who practice them.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 >Genesis 3:6 (CSB) The woman saw that the tree was good for food and delightful to look at, and that it was desirable for obtaining wisdom. So she took some of its fruit and ate it; she also gave some to her husband, who was with her, and he ate it.
@@ -79,7 +77,7 @@ I don't know what else Adam and Eve also thought and felt but I cannot imagine t
 
 >Ephesians 2:1–3 (CSB) And you were dead in your trespasses and sins in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -190,8 +188,6 @@ Or even a bit stronger language to his letter to the church in Ephesus:
 
 >Ephesians 2:1-3 (ESV) And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 To those who disobey, the wrath of God would remain on them.
@@ -207,8 +203,6 @@ Christ was simply prophesying:
 >Revelation 6:15–17 (CSB) Then the kings of the earth, the nobles, the generals, the rich, the powerful, and every slave and free person hid in the caves and among the rocks of the mountains. And they said to the mountains and to the rocks, “Fall on us and hide us from the face of the one seated on the throne and from the wrath of the Lamb, because the great day of their wrath has come! And who is able to stand?”
 
 God is Absolute Judge. He sees the the depths of our hearts and how we think and the reasons why we do the things we do and fail to do it. He knows it. He ain't scared of it. In fact, driven not by holiness, righteousness, or even justice but rather with a heart that sees our shame and wickedness and despair and He is drawn closer.  He does this in sending His only begotten Son to save His people from their sins.  For only those who believe and trust and obey the Son, they will never perish.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -232,8 +226,6 @@ My Surgeon
 Give me your soft heart so I can desire you alone.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

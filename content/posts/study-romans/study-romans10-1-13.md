@@ -104,8 +104,6 @@ What does save us?
 
 How about if we obey God? That's it. That is trick right?
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 ><sup>4</sup> For Christ is the end of the law for righteousness to everyone who believes, <sup>5</sup> since Moses writes about the righteousness that is from the law: The one who does these things will live by them. 
@@ -143,8 +141,6 @@ That road of feeling good and good intentions are just suppressing the truth and
 But what if you could open your heart, feel the feels within and be honest with your feelings? Learn to be sadden by loneliness. Or grieve at death. Or anger at abuse.
 
 There is no salvation in doing the right thing nor appearing to do the right thing.
-
-<div style="page-break-after: always;"></div>
 
 ## The Gospel
 
@@ -205,8 +201,6 @@ The one guarantee in this life, and it ain't by me but by the Almighty Creator G
 How do I know this? A little over 2,000 years ago, he sent his only begotten Son, Jesus Christ, to be born of the Virgin Mary, to grow in stature and wisdom, to perfectly obey the law of God, to preach the gospel of God, to suffer under Pontius Pilate, to die illegally only to be resurrected unto life and then ascended to the right hand of the Father where he now rules and reigns forever and ever.
 
 Disbelieve God at his word. Sure. Disobey him. Continuous. Rebel against his sovereignty? All day every day. But do not be so foolish and say there is not God. Because all that Jesus Christ did to save his people from their sins is a historical fact. If you hold an ounce of eduacation, you cannot deny this.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 

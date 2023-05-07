@@ -63,8 +63,6 @@ image:
 
 ><sup>25</sup> They exchanged the truth of God for a lie, and worshiped and served what has been created instead of the Creator, who is praised forever. Amen.
 
-<div style="page-break-after: always;"></div>
-
 ## The Support
 
 Paul speaks twice about "exchanged":
@@ -125,7 +123,7 @@ I am going to go out on a limb here. When you heard me say, "someone who knows y
 
 Our sin is too much. It weighs so much that it will eventually kills us. By birth and by nature and choice, we have all exchanged God for our idols, philosophies, desires, and ourselves.
 
-<div style="page-break-after: always;"></div>
+
 
 **Where do you see God in the text? What does the text say about God?**
 
@@ -206,8 +204,6 @@ But look at what God has in store for you. Continue with verse 29.
 >they will run and not become weary,  
 >they will walk and not faint.  
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 What is the Good News? There are no other gods. You cannot fashion some other god in order to control your own destiny.
@@ -229,8 +225,6 @@ If you do trust and obey Christ as your Savior and Lord, here is what God predes
 God knows that sin breaks us because it already has broken us. If we let it continue, it will kill us. Christ commands each and every one of us to give Him our sin in a final exchange for his righteousness:
 
 >Matthew 11:28–30 (CSB) “Come to me, all of you who are weary and burdened, and I will give you rest.  Take up my yoke and learn from me, because I am lowly and humble in heart, and you will find rest for your souls.  For my yoke is easy and my burden is light.”
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -260,8 +254,6 @@ I have played with my sin all of my life and it has only lead to death.
 Take away my sin and lead me to life, fullness of joy, and blissful, satisfying pleasures forevermore.
 
 Amen.
-
-
 ## The Resources
 
 <p style="clear:both;">

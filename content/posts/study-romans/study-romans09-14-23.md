@@ -146,8 +146,6 @@ Well, that is just Paul who talks about that. He doesn't really mean predestined
 
 We can do this all day.
 
-<div style="page-break-after: always;"></div>
-
 ## Our God
 
 >Romans 9:17–18 (CSB) For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth. So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
@@ -255,8 +253,6 @@ Choose on this day whom you will serve.
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 ## The Gospel
 
 ><sup>23</sup> And what if he did this to make known the riches of his glory on objects of mercy that he prepared beforehand for glory—
@@ -282,8 +278,6 @@ God is compassionate.
 God is merciful.
 
 And there is no one like him.
-
-<div style="page-break-after: always;"></div>
 
 ## Our Response
 
@@ -343,8 +337,6 @@ He saved us because he knows we are made from dust--we are just mere mortals.
 We know this because we have His Son, Jesus Christ, dwelling in our hearts forever.
 
 Amen
-
-
 ## The Resources
 
 <p style="clear:both;">
