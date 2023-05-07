@@ -2,27 +2,10 @@
 
 <article class="post-single">
   <header class="post-header">
-    {{- if (.Param "ShowBreadCrumbs")}}
-    <div class="breadcrumbs">
-      {{- $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-      {{- $lang_url := replace $url ( printf "%s" .Lang) "" }}
-
-      <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home"}}</a>
-      {{- range $index, $element := split $lang_url "/" }}
-
-      {{- $.Scratch.Add "path" (printf "%s/" $element )}}
-      {{- $bc_pg := $.Site.GetPage ($.Scratch.Get "path") -}}
-
-      {{- if (and ($bc_pg) (gt (len . ) 0))}}
-      {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
-      {{- end }}
-
-      {{- end }}
-    </div>
-    {{- end }}
+    {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title">
       {{ .Title }}
-      {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h1>
     {{- if .Description }}
     <div class="post-description">
@@ -32,74 +15,38 @@
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
-      {{- if .IsTranslated -}}
-      {{- if or .Params.author $.Site.Params.author (.Param "ShowReadingTime") (not .Date.IsZero) }}&nbsp;|&nbsp;{{- end -}}
-      <ul class="i18n_list">
-        {{- i18n "translations" | default "Translations"}}:
-        {{- range .Translations }}
-        <li>
-          <a href="{{ .Permalink }}">
-            {{- if (and $.Site.Params.displayFullLangName (.Language.LanguageName)) }}
-            {{- .Language.LanguageName | emojify | humanize -}}
-            {{- else }}
-            {{- .Lang | humanize -}}
-            {{- end -}}
-          </a>
-        </li>
-        {{- end }}
-      </ul>
-      {{- end }}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
     </div>
-    {{- end}}
+    {{- end }}
   </header>
-  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden}}
+  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
-  <div class="toc">
-    <details {{if (.Param "TocOpen") }} open{{ end }}>
-      <summary accesskey="c" title="(Alt + C)">
-        <div class="details">{{- i18n "toc" | default "Table of Contents" }}</div>
-      </summary>
-      <div class="inner">
-        {{- partial "toc.html" . }}
-      </div>
-    </details>
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
-  <div class="post-content">
-    {{- partial "anchored_headings.html" .Content -}}
-  </div>
+
   <footer class="post-footer">
-    {{- if .Params.series }}
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
-      {{- range ($.GetTerms "series") }}
+      {{- range ($.GetTerms $tags) }}
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
     {{- end }}
-    {{- if .Site.Params.ShowPostNavLinks }}
-    {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{- if and (gt (len $pages) 1) (in $pages . ) }}
-    <nav class="paginav">
-      {{- with $pages.Next . }}
-      <a class="prev" href="{{.Permalink}}">
-        <span class="title">« {{ i18n "prev_page" }}</span>
-        <br>
-        <span>{{- .Name -}}</span>
-      </a>
-      {{- end}}
-      {{- with $pages.Prev . }}
-      <a class="next" href="{{.Permalink}}">
-        <span class="title">{{ i18n "next_page" }} »</span>
-        <br>
-        <span>{{- .Name -}}</span>
-      </a>
-      {{- end}}
-    </nav>
-    {{- end }}
-    {{- end }}
-    {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true) ) }}
-    {{- partial "share_icons.html" . }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
 
@@ -108,4 +55,4 @@
   {{- end }}
 </article>
 
-{{- end  }}{{/* end main */}}
+{{- end }}{{/* end main */}}
