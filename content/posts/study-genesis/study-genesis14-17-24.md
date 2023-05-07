@@ -9,6 +9,8 @@ tags:
   - "Genesis"
 series:
   - "Study: Genesis"
+cover:
+  image: '/images/banners/genesis.png'
 tocopen: true
 css: "prayers"
 draft: true
