@@ -21,7 +21,7 @@ eptype: full
 season: "2021"
 number: "0706"
 duration: "0:14:25"
-short_description: "For the good and bad influence that Charles Finney has on today's Christians, this much is certain: there are many of our brothers and sisters who adamantly believe if you prayed hard enough, prayed long enough, believed hard enough, did the right things, and have enough faith, that you could change the mind of God and get God to do your will. Yet, that is not how prayer works according to the Son of God."
+description: "For the good and bad influence that Charles Finney has on today's Christians, this much is certain: there are many of our brothers and sisters who adamantly believe if you prayed hard enough, prayed long enough, believed hard enough, did the right things, and have enough faith, that you could change the mind of God and get God to do your will. Yet, that is not how prayer works according to the Son of God."
 mp3:
     asset_link: "2021-07-06-doctrine-prayer-ephesians1-11-14.mp3"
     length: "21250644"

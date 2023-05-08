@@ -21,7 +21,7 @@ eptype: full
 season: "2021"
 number: "0720"
 duration: "0:21:58"
-short_description: "God knows what we need before we ask. He is our good Father in heaven. He provides for the birds in the air and the flowers in the field. How are we any less?
+description: "God knows what we need before we ask. He is our good Father in heaven. He provides for the birds in the air and the flowers in the field. How are we any less?
 
 He knows that we need food and water and housing.
 

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0609"
 duration: "0:35:30"
-short_description: "It is really hard to read this today's passage with American eyes. Isn't it? Especially when the culture that we live in celebrates authority, power, leadership, and self-reliance. We can read the 2nd chapter of 1 Timothy and instead of rightfully respond in worshipping God in Christ by the power of the Spirit, we can instead make this chapter or passage about something it might not be."
+description: "It is really hard to read this today's passage with American eyes. Isn't it? Especially when the culture that we live in celebrates authority, power, leadership, and self-reliance. We can read the 2nd chapter of 1 Timothy and instead of rightfully respond in worshipping God in Christ by the power of the Spirit, we can instead make this chapter or passage about something it might not be."
 mp3:
     asset_link: "2021-06-09-gospel-1timothy2-8-15-001.mp3"
     length: "51611409"

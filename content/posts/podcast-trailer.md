@@ -19,7 +19,7 @@ eptype: trailer
 season: "2021"
 number: "0001"
 duration: "0:06:36"
-short_description: "Based on the writings at Theologicus, here are some daily devotions on the kindness and goodness of God."
+description: "Based on the writings at Theologicus, here are some daily devotions on the kindness and goodness of God."
 mp3:
     asset_link: "2021-02-26-theologicus-trailer.mp3"
     length: "9998974"

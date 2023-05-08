@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0709"
 duration: "0:21:33"
-short_description: "Were our bodies suppose to get hurt? Were we suppose to get sick? Why do we get sick? Why do we get bad dreams? Why does our tummies hurt?"
+description: "Were our bodies suppose to get hurt? Were we suppose to get sick? Why do we get sick? Why do we get bad dreams? Why does our tummies hurt?"
 mp3:
     asset_link: "2021-07-09-devotions-mark1-29-34.mp3"
     length: "31531186"

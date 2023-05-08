@@ -21,7 +21,7 @@ eptype: full
 season: "2021"
 number: "0629"
 duration: "0:26:46"
-short_description: "Christ, the Passion Week, has broken Satan, demons, sin, hell, and death. His kingdom is now."
+description: "Christ, the Passion Week, has broken Satan, demons, sin, hell, and death. His kingdom is now."
 mp3:
     asset_link: "2021-06-29-doctrine-prayer-matthew-16.mp3"
     length: "39048182"

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0826"
 duration: "0:28:26"
-short_description: "Do you think that something in space and time didn't break? Could you even imagine when sin came into our existence, that the departure of the spirit, the cracking of the mind, the depletion of strength, hardening of the heart, and the infection of the will? Did it happen all at once or over time? I think the answer is yes."
+description: "Do you think that something in space and time didn't break? Could you even imagine when sin came into our existence, that the departure of the spirit, the cracking of the mind, the depletion of strength, hardening of the heart, and the infection of the will? Did it happen all at once or over time? I think the answer is yes."
 mp3:
     asset_link: "2021-08-26-study-genesis6-1-7.mp3"
     length: "41444342"

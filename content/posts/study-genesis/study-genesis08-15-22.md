@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "1007"
 duration: "0:17:10"
-short_description: "I am not trying to preach your best life now. Because you if you think you believe there is a God and don't obey him, this is the best that life gets. Because your way is straight to a place where there is weeping and gnashing of teeth. If you have put your sins and trust and faith into the Holy One of God that is Christ Jesus our Lord, this is the by far the worst your life can ever get."
+description: "I am not trying to preach your best life now. Because you if you think you believe there is a God and don't obey him, this is the best that life gets. Because your way is straight to a place where there is weeping and gnashing of teeth. If you have put your sins and trust and faith into the Holy One of God that is Christ Jesus our Lord, this is the by far the worst your life can ever get."
 mp3:
     asset_link: "2021-10-07-study-genesis8-15-22.mp3"
     length: "25222301"

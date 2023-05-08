@@ -21,7 +21,7 @@ eptype: full
 season: "2021"
 number: "0726"
 duration: "0:20:49"
-short_description: "My once literal thought: 'Okay, for everyone who has hurt and betrayed me, let me see, 70 times 7 is 490 times... so, if I forgive them once a day for about a year and a season (because they have the audacity to exist and never say they are sorry), then I can stop forgiving them.'
+description: "My once literal thought: 'Okay, for everyone who has hurt and betrayed me, let me see, 70 times 7 is 490 times... so, if I forgive them once a day for about a year and a season (because they have the audacity to exist and never say they are sorry), then I can stop forgiving them.'
 
 Oh, I am a simple and wicked little man."
 mp3:

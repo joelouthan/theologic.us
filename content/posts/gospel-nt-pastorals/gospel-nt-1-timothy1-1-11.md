@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0505"
 duration: "0:48:43"
-short_description: "Once upon a time, in my own lifetime, I feel like either we didn’t face such misinformation or I was too young or naïve to pay attention. But as we descend into the Age of Information, we are certainly not becoming wiser, smarter, or more moral. The Age of Information has proven one thing to be true: most of us have already decided what is good, true, and right and we will only seek sources of information that confirms and coddles what is right in our own minds. Some of us would dare to use God’s name in vain to try to convince ourselves that we know is right and good is actually right and good."
+description: "Once upon a time, in my own lifetime, I feel like either we didn’t face such misinformation or I was too young or naïve to pay attention. But as we descend into the Age of Information, we are certainly not becoming wiser, smarter, or more moral. The Age of Information has proven one thing to be true: most of us have already decided what is good, true, and right and we will only seek sources of information that confirms and coddles what is right in our own minds. Some of us would dare to use God’s name in vain to try to convince ourselves that we know is right and good is actually right and good."
 mp3:
     asset_link: "2021-05-05-gospel-1timothy1-1-11.mp3"
     length: "70656555"

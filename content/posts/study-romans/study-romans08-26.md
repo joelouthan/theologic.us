@@ -22,7 +22,7 @@ eptype: full
 season: "2022"
 number: "0110"
 duration: "0:13:04"
-short_description: "So let’s suppose that we find ourselves in the same shoes as Paul. We see our sin and we even try to wrestle it and overcome it and try to choke the life out of it but we all know that our strength is neither perfect nor mighty. It wanes day to day and even moment to moment. We are not as strong as the Almighty Savior who counted it as all joy to ascend to the cross and hand over his life as a ransom for many. What shall we do? Do we give up hope? Do we scream out “Forget this! This is too much for me to handle. I will never succeed! Why even try?”"
+description: "So let’s suppose that we find ourselves in the same shoes as Paul. We see our sin and we even try to wrestle it and overcome it and try to choke the life out of it but we all know that our strength is neither perfect nor mighty. It wanes day to day and even moment to moment. We are not as strong as the Almighty Savior who counted it as all joy to ascend to the cross and hand over his life as a ransom for many. What shall we do? Do we give up hope? Do we scream out “Forget this! This is too much for me to handle. I will never succeed! Why even try?”"
 mp3:
     asset_link: "2022-01-10-study-romans8-26.mp3"
     length: "19309642"

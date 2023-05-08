@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0913"
 duration: "0:26:55"
-short_description: "License. Amoral. Immoral. Depravity. What it is, straight up, is sin. Wickedness. Evilness. Treasonous acts against the only Holy One of God. And isn't that the titanic grip of sin on our lives? It has a crushing grasp of our hearts and minds to the point where you will start believing the snares and traps of the enemy."
+description: "License. Amoral. Immoral. Depravity. What it is, straight up, is sin. Wickedness. Evilness. Treasonous acts against the only Holy One of God. And isn't that the titanic grip of sin on our lives? It has a crushing grasp of our hearts and minds to the point where you will start believing the snares and traps of the enemy."
 mp3:
     asset_link: "2021-09-13-study-romans7-1-6.mp3"
     length: "39258834"

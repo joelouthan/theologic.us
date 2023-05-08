@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0531"
 duration: "0:41:38"
-short_description: "Think about that. Mere words. Mere words strung together. No other piece of literature. No poem. No mere conversation. No random set of data. No social media post will contain the power of God for salvation to everyone who believes. No other words will be able to reveal the righteousness of God from faith, which is a gift of God and not of yourself, to faith you now receive."
+description: "Think about that. Mere words. Mere words strung together. No other piece of literature. No poem. No mere conversation. No random set of data. No social media post will contain the power of God for salvation to everyone who believes. No other words will be able to reveal the righteousness of God from faith, which is a gift of God and not of yourself, to faith you now receive."
 mp3:
     asset_link: "2021-05-31-study-romans1-16-17.mp3"
     length: "60461903"

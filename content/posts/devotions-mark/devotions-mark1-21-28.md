@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0702"
 duration: "0:19:01"
-short_description: "God cannot sin. Therefore, God cannot lie. Be careful not to tempt your thinking that somehow you having the ability to sin gives you greater power than the Almighty God. The wages of sin is death. Christ gives eternal life. Do you see the difference?"
+description: "God cannot sin. Therefore, God cannot lie. Be careful not to tempt your thinking that somehow you having the ability to sin gives you greater power than the Almighty God. The wages of sin is death. Christ gives eternal life. Do you see the difference?"
 mp3:
     asset_link: "2021-07-02-devotions-mark1-21-25.mp3"
     length: "27893061"

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0512"
 duration: "0:28:58"
-short_description: "But the tax collector, standing far off, would not even raise his eyes to heaven but kept striking his chest and saying, ‘God, have mercy on me, a sinner!’"
+description: "But the tax collector, standing far off, would not even raise his eyes to heaven but kept striking his chest and saying, ‘God, have mercy on me, a sinner!’"
 mp3:
     asset_link: "2021-05-12-gospel-1timothy1-12-17.mp3"
     length: "42203565"

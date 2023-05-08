@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0602"
 duration: "0:33:09"
-short_description: "The unbeliever and worthless man cannot go to God. Not until God changes that man. Only then can mankind know that they are in desperate need of the only Savior who is able, willing, and power to save them from the death and sin."
+description: "The unbeliever and worthless man cannot go to God. Not until God changes that man. Only then can mankind know that they are in desperate need of the only Savior who is able, willing, and power to save them from the death and sin."
 mp3:
     asset_link: "2021-06-02-gospel-1timothy2-1-7-trim.mp3"
     length: "48236597"

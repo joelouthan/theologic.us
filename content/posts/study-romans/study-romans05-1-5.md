@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0807"
 duration: "0:31:56"
-short_description: "But here is the one of the things I don't mention much in my testimony that I have to confessed. When I was serving in my church plant, I was single. And oh how I sucked at being single. I was the worst. And just like a dog returning to its vomit or the Israelites trying to go back to Egypt, I kept tried to flirt with porn again. (Praise be to God that I was too cheap and broke to get decent Internet.) And I just convinced myself that if I didn't get married soon, that my sin was going to consume me. No one else was saying that. Not the church, not the Bible, not God, not nobody. Instead of turning to God wholeheartedly, I instead try to fix my own problem."
+description: "But here is the one of the things I don't mention much in my testimony that I have to confessed. When I was serving in my church plant, I was single. And oh how I sucked at being single. I was the worst. And just like a dog returning to its vomit or the Israelites trying to go back to Egypt, I kept tried to flirt with porn again. (Praise be to God that I was too cheap and broke to get decent Internet.) And I just convinced myself that if I didn't get married soon, that my sin was going to consume me. No one else was saying that. Not the church, not the Bible, not God, not nobody. Instead of turning to God wholeheartedly, I instead try to fix my own problem."
 mp3:
     asset_link: "2021-08-07-study-romans5-1-5.mp3"
     length: "46484303"

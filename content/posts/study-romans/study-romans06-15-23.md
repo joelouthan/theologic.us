@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0906"
 duration: "0:21:21"
-short_description: "So, you are reading and studying Romans. You are convicted and comforted by the fact that you could have not done anything good enough to be saved by God. You convicted and comforted in the fact that God in his grace must save you to him. You cannot boast in other than God. You cannot earn your salvation--you can only receive God's gift of salvation, grace, mercy, faith, and love."
+description: "So, you are reading and studying Romans. You are convicted and comforted by the fact that you could have not done anything good enough to be saved by God. You convicted and comforted in the fact that God in his grace must save you to him. You cannot boast in other than God. You cannot earn your salvation--you can only receive God's gift of salvation, grace, mercy, faith, and love."
 mp3:
     asset_link: "2021-09-06-study-romans6-15-23.mp3"
     length: "31245929"

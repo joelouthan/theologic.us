@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0608"
 duration: "0:40:46"
-short_description: "In praying as Christ has instructed us, we must believe and trust in God. How do you do that? First, God has to do the work in order for you to believe and trust in him."
+description: "In praying as Christ has instructed us, we must believe and trust in God. How do you do that? First, God has to do the work in order for you to believe and trust in him."
 mp3:
     asset_link: "2021-06-08-doctrine-prayer-ezekiel11-19-20.mp3"
     length: "59214295"

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0507"
 duration: "0:23:45"
-short_description: "What we will see in Mark is basically little bitty tightly wounded passages that speak of all that God has done. Now, if you have read any part of the Old Testament, these little passages in Mark are merely the OT in bite size chicken nuggets, except they are much more tasty and actually good for you. In other words, you are going to see these little passages of what Jesus did with his life, death, resurrection, and ascension was solidifying what God did in the OT."
+description: "What we will see in Mark is basically little bitty tightly wounded passages that speak of all that God has done. Now, if you have read any part of the Old Testament, these little passages in Mark are merely the OT in bite size chicken nuggets, except they are much more tasty and actually good for you. In other words, you are going to see these little passages of what Jesus did with his life, death, resurrection, and ascension was solidifying what God did in the OT."
 mp3:
     asset_link: "2021-05-07-devotions-mark1-1.mp3"
     length: "34694719"

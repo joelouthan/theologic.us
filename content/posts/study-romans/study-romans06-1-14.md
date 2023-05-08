@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0830"
 duration: "0:37:26"
-short_description: "Call each other to true repentance and know that the moment we give our sins over to Christ, he is just as quick to forgive our sins. Why would you let your loved one be burden with soul crushing load of sin? When the sweetest relief is right there--in the loving arms of Jesus Christ."
+description: "Call each other to true repentance and know that the moment we give our sins over to Christ, he is just as quick to forgive our sins. Why would you let your loved one be burden with soul crushing load of sin? When the sweetest relief is right there--in the loving arms of Jesus Christ."
 mp3:
     asset_link: "2021-08-30-study-romans6-1-14.mp3"
     length: "54392509"

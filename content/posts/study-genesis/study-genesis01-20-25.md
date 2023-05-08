@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0701"
 duration: "0:22:38"
-short_description: "I will say this again: to be a Christian is to believe that Christ is your Savior and Lord and from within that belief, we believe that God is Creator of everything. The whole of Scripture declares this rightly. From that belief, here are two doctrinal implications. In other words, according to Scripture, since you must believe that God created everything, here are two results of that belief."
+description: "I will say this again: to be a Christian is to believe that Christ is your Savior and Lord and from within that belief, we believe that God is Creator of everything. The whole of Scripture declares this rightly. From that belief, here are two doctrinal implications. In other words, according to Scripture, since you must believe that God created everything, here are two results of that belief."
 mp3:
     asset_link: "2021-07-01-study-genesis1-20-25.mp3"
     length: "33080352"

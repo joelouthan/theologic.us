@@ -21,7 +21,7 @@ eptype: full
 season: "2023"
 number: "0316"
 duration: "35:25"
-short_description: "Opponents to Christianity will often categorize us with the Jewish and Muslim faiths as Abrahamic. There are some similarities between our religions. But what distinguishes Christianity from those religion is a person--it is the Lord Jesus Christ."
+description: "Opponents to Christianity will often categorize us with the Jewish and Muslim faiths as Abrahamic. There are some similarities between our religions. But what distinguishes Christianity from those religion is a person--it is the Lord Jesus Christ."
 mp3:
     asset_link: "2023-03-16-creed-jesus-01.mp3"
     length: "51129073"

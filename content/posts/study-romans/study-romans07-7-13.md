@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0920"
 duration: "0:31:37"
-short_description: "Let me state the obvious: you cannot be a believer and a non-believer at the same time. You cannot be a Christian and an heathen at the same time. You cannot claim that the Lord is your God and King and you continue to slander, gossip, steal, kill, dabble in sexual immorality, or disclaim a sin not a sin and go on with little remorse. You cannot be an unrepentant Christian."
+description: "Let me state the obvious: you cannot be a believer and a non-believer at the same time. You cannot be a Christian and an heathen at the same time. You cannot claim that the Lord is your God and King and you continue to slander, gossip, steal, kill, dabble in sexual immorality, or disclaim a sin not a sin and go on with little remorse. You cannot be an unrepentant Christian."
 mp3:
     asset_link: "2021-09-20-study-romans7-7-13.mp3"
     length: "46020996"

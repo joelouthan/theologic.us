@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0611"
 duration: "0:24:17"
-short_description: "Is Jesus human? Is Jesus God? Is Jesus Son of God? Answer. Yes. Jesus is fully God and fully human and fully Son of God."
+description: "Is Jesus human? Is Jesus God? Is Jesus Son of God? Answer. Yes. Jesus is fully God and fully human and fully Son of God."
 mp3:
     asset_link: "2021-06-11-devotions-mark1-12-13.mp3"
     length: "35479647"

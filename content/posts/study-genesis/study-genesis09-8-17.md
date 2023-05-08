@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "1021"
 duration: "0:26:03"
-short_description: "Redemption? You know why I think this is not so easy to explain? Because I see way way too many Christians who, by the grace of God, get saved by God and then spend the rest of their lives trying to be their own redeemer when Christ alone is our redeemer. But let me ask you this: what is redemption?"
+description: "Redemption? You know why I think this is not so easy to explain? Because I see way way too many Christians who, by the grace of God, get saved by God and then spend the rest of their lives trying to be their own redeemer when Christ alone is our redeemer. But let me ask you this: what is redemption?"
 mp3:
     asset_link: "2021-10-21-study-genesis9-8-17.mp3"
     length: "38002448"

@@ -21,7 +21,7 @@ eptype: full
 season: "2021"
 number: "0622"
 duration: "0:24:38"
-short_description: "God is holy. And because of Christ, we are holy."
+description: "God is holy. And because of Christ, we are holy."
 mp3:
     asset_link: "2021-06-22-doctrine-prayer-isaiah-6.mp3"
     length: "35981825"

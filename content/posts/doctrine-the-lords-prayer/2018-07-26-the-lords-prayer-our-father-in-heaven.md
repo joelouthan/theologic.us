@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0615"
 duration: "36:10"
-short_description: "So this teaching in prayer is assuming that you do believe and trust in the Holy One of God. Otherwise, your prayers are nothing but babble."
+description: "So this teaching in prayer is assuming that you do believe and trust in the Holy One of God. Otherwise, your prayers are nothing but babble."
 mp3:
     asset_link: "20210615-doctrine-romans8-14-17.mp3"
     length: "52077632"

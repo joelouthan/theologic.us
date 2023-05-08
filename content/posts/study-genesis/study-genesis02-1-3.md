@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0715"
 duration: "0:20:48"
-short_description: "God is Creator. We are his creation. We are to always obey our Creator. The call to obedience to God is always present: from Creation through the Garden through the Law all the way to the Gospel. One thing has always been consistent: we are to obey our Creator and we are to rest like our Creator."
+description: "God is Creator. We are his creation. We are to always obey our Creator. The call to obedience to God is always present: from Creation through the Garden through the Law all the way to the Gospel. One thing has always been consistent: we are to obey our Creator and we are to rest like our Creator."
 mp3:
     asset_link: "2021-07-15-study-genesis2-1-3.mp3"
     length: "30449090"

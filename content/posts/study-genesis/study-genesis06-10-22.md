@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0909"
 duration: "0:38:40"
-short_description: "A Christian will always cry out for mercy and salvation in the midst of their sin--when the temptation is overwhelming and they will surely drown if God does not save them. The unbeliever has no clue of the impending doom on their lives. Yet, not even Noah cried out for mercy and grace. But God extended to him."
+description: "A Christian will always cry out for mercy and salvation in the midst of their sin--when the temptation is overwhelming and they will surely drown if God does not save them. The unbeliever has no clue of the impending doom on their lives. Yet, not even Noah cried out for mercy and grace. But God extended to him."
 mp3:
     asset_link: "2021-09-09-study-genesis6-10-22.mp3"
     length: "56171761"

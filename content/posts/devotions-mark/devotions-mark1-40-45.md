@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0723"
 duration: "0:07:43"
-short_description: "If we come to God, pray to God, ask God for God, he will always, completely, perfectly give us Himself. No exception."
+description: "If we come to God, pray to God, ask God for God, he will always, completely, perfectly give us Himself. No exception."
 mp3:
     asset_link: "2021-07-23-devotions-mark1-40-45.mp3"
     length: "11608326"

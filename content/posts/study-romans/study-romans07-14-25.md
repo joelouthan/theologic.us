@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0927"
 duration: "0:32:51"
-short_description: "We see what God is willing to do to save each of his children. It is hard work and the cost was so great--starting with the death of his Son Jesus Christ. But if you think that is the end of it--you don't know squat. In fact, if I can contend for this point: this is where the real work begins. Slow. Painful. Methodical. Refinement by fire. Brought low. Walking with God. Conforming to the image of His Son. It ain't easy. But it wasn't fast nor cheap to begin with."
+description: "We see what God is willing to do to save each of his children. It is hard work and the cost was so great--starting with the death of his Son Jesus Christ. But if you think that is the end of it--you don't know squat. In fact, if I can contend for this point: this is where the real work begins. Slow. Painful. Methodical. Refinement by fire. Brought low. Walking with God. Conforming to the image of His Son. It ain't easy. But it wasn't fast nor cheap to begin with."
 mp3:
     asset_link: "2021-09-27-study-romans7-14-25.mp3"
     length: "47811533"

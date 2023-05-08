@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0603"
 duration: "0:41:27"
-short_description: "What was God doing before he created the heavens and the earth? In other words, what was God doing before Genesis 1:1?"
+description: "What was God doing before he created the heavens and the earth? In other words, what was God doing before Genesis 1:1?"
 mp3:
     asset_link: "2021-06-03-study-genesis1-1.mp3"
     length: "60191066"

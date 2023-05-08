@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0823"
 duration: "0:27:36"
-short_description: "Because of the sin of our original father, Adam, sin and death reigned and ruled over all of of mankind. Because of the righteousness of Christ who was joyfully obedient to the point of death--even death on the cross, his people were saved from their sins and death. We have put our trust in the one who has championed over Death. Christ Jesus is his name!"
+description: "Because of the sin of our original father, Adam, sin and death reigned and ruled over all of of mankind. Because of the righteousness of Christ who was joyfully obedient to the point of death--even death on the cross, his people were saved from their sins and death. We have put our trust in the one who has championed over Death. Christ Jesus is his name!"
 mp3:
     asset_link: "2021-08-23-study-romans5-12-21.mp3"
     length: "40233724"

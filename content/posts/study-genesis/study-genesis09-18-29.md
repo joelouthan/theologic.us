@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "1028"
 duration: "0:31:45"
-short_description: "We are here at the end of the story of Noah. We are completing his life here in Genesis. We have seen him be spared and saved by the grace of God alone, declared righteous, blameless, and one who walked with God. We have seen him and his family walk through the greatest catastrophe on the earth that displayed the righteousness, holiness, wrath and judgment of the omniscient, omnipotent, and omnipresent God of the Universe. After that, we see God being with Noah and declaring an unbreakable promise that his wrath will not pour out like this any again. Noah's response was correct: worship our great God."
+description: "We are here at the end of the story of Noah. We are completing his life here in Genesis. We have seen him be spared and saved by the grace of God alone, declared righteous, blameless, and one who walked with God. We have seen him and his family walk through the greatest catastrophe on the earth that displayed the righteousness, holiness, wrath and judgment of the omniscient, omnipotent, and omnipresent God of the Universe. After that, we see God being with Noah and declaring an unbreakable promise that his wrath will not pour out like this any again. Noah's response was correct: worship our great God."
 mp3:
     asset_link: "2021-10-28-study-genesis-9-18-29.mp3"
     length: "46231020"

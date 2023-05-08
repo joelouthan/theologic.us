@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0302"
 duration: "0:47:32"
-short_description: "All the promises that God made to his people starting in Genesis 3:15 throughout the Old Testament have been fulfilled in the Son of David--that is, Jesus Christ, for: Hebrews 1:2 (CSB) In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him."
+description: "All the promises that God made to his people starting in Genesis 3:15 throughout the Old Testament have been fulfilled in the Son of David--that is, Jesus Christ, for: Hebrews 1:2 (CSB) In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him."
 mp3: 
     asset_link: "2021-03-02-study-romans1-1-7.mp3"
     length: "68955670"

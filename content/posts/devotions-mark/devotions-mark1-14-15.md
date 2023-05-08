@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0618"
 duration: "0:21:23"
-short_description: "Because Christ has arrived, the kingdom of God has arrived. Because Christ proclaimed the gospel of God, the kingdom of God is at hand."
+description: "Because Christ has arrived, the kingdom of God has arrived. Because Christ proclaimed the gospel of God, the kingdom of God is at hand."
 mp3:
     asset_link: "2021-06-18-devotions-mark1-14-15.mp3"
     length: "31296084"

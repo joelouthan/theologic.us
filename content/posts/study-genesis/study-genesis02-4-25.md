@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0722"
 duration: "0:42:28"
-short_description: "God is our forever righteousness. The way God designed, loved, and created all of mankind, his own creation, his own image, and Adam and Eve, his originally created son and daughter was in righteousness--that is, right-standing with him forever and ever. The fall of mankind is not God's fault. Sin is high treason and rebellion against our great God. And by birth and by choice, we are continue to rebel against this great and holy God."
+description: "God is our forever righteousness. The way God designed, loved, and created all of mankind, his own creation, his own image, and Adam and Eve, his originally created son and daughter was in righteousness--that is, right-standing with him forever and ever. The fall of mankind is not God's fault. Sin is high treason and rebellion against our great God. And by birth and by choice, we are continue to rebel against this great and holy God."
 mp3:
     asset_link: "2021-07-22-study-genesis2-4-25.mp3"
     length: "61653714"

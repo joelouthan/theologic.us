@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0712"
 duration: "0:26:12"
-short_description: "'Repent for the kingdom of God is at hand!' Yet, we are caught up in modern thinking. Forget terms like post-modernism. Let us talk about how we got here. Somewhere, mankind thinks that they can take and receive the good things of God and understand the good things of God without God and worshipping God. We have been fooled by the way of thinking in our time that with enough smarts, money, time, manpower, will, and action, we can fix our own problems and the consequences of our own actions. But here is the hubris and pride of man: we are not so quick to think that sin is the problem of humanity"
+description: "'Repent for the kingdom of God is at hand!' Yet, we are caught up in modern thinking. Forget terms like post-modernism. Let us talk about how we got here. Somewhere, mankind thinks that they can take and receive the good things of God and understand the good things of God without God and worshipping God. We have been fooled by the way of thinking in our time that with enough smarts, money, time, manpower, will, and action, we can fix our own problems and the consequences of our own actions. But here is the hubris and pride of man: we are not so quick to think that sin is the problem of humanity"
 mp3:
     asset_link: "2021-07-12-study-romans3-9-26.mp3"
     length: "38236297"

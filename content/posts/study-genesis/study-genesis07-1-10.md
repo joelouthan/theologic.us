@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0916"
 duration: "0:26:36"
-short_description: "We might be so tempted as the world and some progressive Christians would like to think that Christ has the simple authority to declare you freed from sin and that is it. Like Jesus Christ has the magical power of hocus pocus and boom, your sins are forgiven. Which is sounds amazing except we have the rest of the Bible to tell us in what power, promise, and authority can do such things."
+description: "We might be so tempted as the world and some progressive Christians would like to think that Christ has the simple authority to declare you freed from sin and that is it. Like Jesus Christ has the magical power of hocus pocus and boom, your sins are forgiven. Which is sounds amazing except we have the rest of the Bible to tell us in what power, promise, and authority can do such things."
 mp3:
     asset_link: "2021-09-16-study-genesis7-1-10.mp3"
     length: "38814334"

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0716"
 duration: "0:18:31"
-short_description: "We get to talk to our Father in heaven. We get to spend time with him. We get to kick it with him."
+description: "We get to talk to our Father in heaven. We get to spend time with him. We get to kick it with him."
 mp3:
     asset_link: "2021-07-16-devotions-mark1-35-39.mp3"
     length: "27166439"

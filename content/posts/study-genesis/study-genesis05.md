@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0819"
 duration: "0:19:45"
-short_description: "The gospel was always the plan. It is still always the plan. Everything that God is, it would be well within his rights to do as he please: wipe the earth and start over (Genesis 6) or wipe a nation and start over (Exodus 33). He can do whatever he wants and he does as he pleased."
+description: "The gospel was always the plan. It is still always the plan. Everything that God is, it would be well within his rights to do as he please: wipe the earth and start over (Genesis 6) or wipe a nation and start over (Exodus 33). He can do whatever he wants and he does as he pleased."
 mp3:
     asset_link: "2021-08-19-study-genesis5.mp3"
     length: "28933779"

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0802"
 duration: "0:28:38"
-short_description: "So you might be asking, 'Joseph, why are you beating down these gospel points. We get it--we cannot earn our salvation.' Let me approach it from the flip side. Not the flip side of legalism, which is license but the flip side of the assurance of the gospel of Christ."
+description: "So you might be asking, 'Joseph, why are you beating down these gospel points. We get it--we cannot earn our salvation.' Let me approach it from the flip side. Not the flip side of legalism, which is license but the flip side of the assurance of the gospel of Christ."
 mp3:
     asset_link: "2021-08-02-study-romans4-13-25.mp3"
     length: "41731480"

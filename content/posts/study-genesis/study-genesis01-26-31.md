@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0708"
 duration: "0:25:59"
-short_description: "So many of the laws of God deals with how we are to treat other humans. Do not steal. Do not covet. Do not kill. Invite the immigrant in. Care for the widow, orphan, and the poor. Even when we take those laws lightly, God takes them ultra serious. When we try to turn a blind eye, God sees all. When we are faithless, He is faithful. (2 Timothy 2:13)"
+description: "So many of the laws of God deals with how we are to treat other humans. Do not steal. Do not covet. Do not kill. Invite the immigrant in. Care for the widow, orphan, and the poor. Even when we take those laws lightly, God takes them ultra serious. When we try to turn a blind eye, God sees all. When we are faithless, He is faithful. (2 Timothy 2:13)"
 mp3:
     asset_link: "2021-07-08-study-genesis1-26-31.mp3"
     length: "37909662"

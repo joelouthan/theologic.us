@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0521"
 duration: "0:21:12"
-short_description: "Does being baptized mean you are saved? Some churches say, 'Yes!' But baptism is not a guarantee of what is going on in the heart but rather, bearing witness to what God has done in us."
+description: "Does being baptized mean you are saved? Some churches say, 'Yes!' But baptism is not a guarantee of what is going on in the heart but rather, bearing witness to what God has done in us."
 mp3:
     asset_link: "2021-05-21-devotions-mark1-7-8.mp3"
     length: "31031516"

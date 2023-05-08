@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0625"
 duration: "0:12:24"
-short_description: "When we are saved, when we accept Jesus into our hearts and trust in Him and trust what he says, there are a ton of things that God did before we could even know who God is. God knew you. God loved you. God created you. God pursued you. And God called you."
+description: "When we are saved, when we accept Jesus into our hearts and trust in Him and trust what he says, there are a ton of things that God did before we could even know who God is. God knew you. God loved you. God created you. God pursued you. And God called you."
 mp3:
     asset_link: "2021-06-25-devotions-mark1-16-20-1.mp3"
     length: "18362964"

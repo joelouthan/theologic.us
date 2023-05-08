@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0719"
 duration: "0:34:51"
-short_description: "Take a unbeliever and a believer. Both do the exact same thing: go to church, become a pastor, read the Bible, give to the poor. Both of them have sinned and fallen way short of the glory of God. Yet, by grace of God alone, only one saw the glory of God with their opened eyes. Our good works do not put God into our debt when God has paid the debt and prepared those good works for us. How? He sent Jesus Christ our Lord."
+description: "Take a unbeliever and a believer. Both do the exact same thing: go to church, become a pastor, read the Bible, give to the poor. Both of them have sinned and fallen way short of the glory of God. Yet, by grace of God alone, only one saw the glory of God with their opened eyes. Our good works do not put God into our debt when God has paid the debt and prepared those good works for us. How? He sent Jesus Christ our Lord."
 mp3:
     asset_link: "2021-07-19-study-romans3-27-4-5.mp3"
     length: "50696078"

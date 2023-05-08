@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0819"
 duration: "0:19:45"
-short_description: "If I tried to write a book on sin, I would feel like it would be wholly incomplete. Because of my mortal nature and not fully glorified on this side of heaven, I would miss so much.
+description: "If I tried to write a book on sin, I would feel like it would be wholly incomplete. Because of my mortal nature and not fully glorified on this side of heaven, I would miss so much.
 
 Because of the nature of sin, if I am tempted by sin and give into that sin, I cannot see the full effects of sin."
 mp3:

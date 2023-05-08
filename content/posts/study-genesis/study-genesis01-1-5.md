@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0610"
 duration: "0:40:19"
-short_description: "In the beginning, there was God. God made the heavens and the earth. But all that God did was by his wisdom. God's wisdom was meant for all of creation for all time. Let us see how the wisdom of God was there in beginning. And despite our fallen world, we can see where the wisdom of God permeated unscathed throughout all of time."
+description: "In the beginning, there was God. God made the heavens and the earth. But all that God did was by his wisdom. God's wisdom was meant for all of creation for all time. Let us see how the wisdom of God was there in beginning. And despite our fallen world, we can see where the wisdom of God permeated unscathed throughout all of time."
 mp3:
     asset_link: "2021-06-10-study-genesis1-1-5.mp3"
     length: "58554129"

@@ -21,7 +21,7 @@ eptype: full
 season: "2021"
 number: "0713"
 duration: "0:36:23"
-short_description: "We have esteemed our wills more highly than we ought. In other words, what we want and desire takes precedence over others' desires. Common in conflict for one side to win over the other. But because of sin, quite often we don't consider the other person's desires. That leads to pride, haughtiness, and narcissism--the universe revolves around me. The world is a movie about me and I am the star of the show."
+description: "We have esteemed our wills more highly than we ought. In other words, what we want and desire takes precedence over others' desires. Common in conflict for one side to win over the other. But because of sin, quite often we don't consider the other person's desires. That leads to pride, haughtiness, and narcissism--the universe revolves around me. The world is a movie about me and I am the star of the show."
 mp3:
     asset_link: "2021-07-13-doctrine-prayer-psalms73.mp3"
     length: "52881587"

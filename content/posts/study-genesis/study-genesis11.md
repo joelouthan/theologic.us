@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0202"
 duration: "0:32:13"
-short_description: "Despite modern thinking, the gospel is the only thing that can fix mankind. And you and I know that gospel of Jesus Christ is both fully divine and fully supernatual. In other words, to save anyone is completely outside of you and me, and completely depends on whatever God does and does not do."
+description: "Despite modern thinking, the gospel is the only thing that can fix mankind. And you and I know that gospel of Jesus Christ is both fully divine and fully supernatual. In other words, to save anyone is completely outside of you and me, and completely depends on whatever God does and does not do."
 mp3:
     asset_link: "2022-01-12-study-genesis11.mp3"
     length: "46903098"

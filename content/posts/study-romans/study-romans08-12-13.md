@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "1018"
 duration: "0:18:30"
-short_description: "If Jesus was obedient, even unto death on the cross, to become our sin by the power of the Holy Spirit, how do you think we are suppose to be killing off sin?  Understand, this is not out of your own sincerity and strength but Christ in you and the Spirit in you. And if we are to understand Jesus' own declaration, then that would Father dwells in you as well."
+description: "If Jesus was obedient, even unto death on the cross, to become our sin by the power of the Holy Spirit, how do you think we are suppose to be killing off sin?  Understand, this is not out of your own sincerity and strength but Christ in you and the Spirit in you. And if we are to understand Jesus' own declaration, then that would Father dwells in you as well."
 mp3:
     asset_link: "2021-10-18-study-romans8-12-13.mp3"
     length: "59950321"

@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0805"
 duration: "0:35:51"
-short_description: "Because of our sin, we are cursed. But this is not where the story ends. God is not done!"
+description: "Because of our sin, we are cursed. But this is not where the story ends. God is not done!"
 mp3:
     asset_link: "2021-08-05-study-genesis3-14-24.mp3"
     length: "52128633"

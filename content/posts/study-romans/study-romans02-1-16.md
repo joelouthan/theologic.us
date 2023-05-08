@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "0621"
 duration: "0:22:50"
-short_description: "God is kind. We clearly see the heart of God towards wickedness and sin: the gospel of Christ who takes away our sin on the cross and gives us his righteousness. But we also clearly see the heart of God towards legalism and self-righteousness. Most of us agree that it is bad. And we might all pass that theological pop quiz–self-righteous is bad. Check. Legalism is bad. Double check."
+description: "God is kind. We clearly see the heart of God towards wickedness and sin: the gospel of Christ who takes away our sin on the cross and gives us his righteousness. But we also clearly see the heart of God towards legalism and self-righteousness. Most of us agree that it is bad. And we might all pass that theological pop quiz–self-righteous is bad. Check. Legalism is bad. Double check."
 mp3:
     asset_link: "2021-06-21-study-romans2-1-16.mp3"
     length: "33373133"

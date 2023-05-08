@@ -22,7 +22,7 @@ eptype: full
 season: "2021"
 number: "1025"
 duration: "0:26:18"
-short_description: "Trust in Christ.Believe in Christ. If you do, then know it is because His Holy Spirit dwells in you. Then it won't be just you trying to justify yourself before God."
+description: "Trust in Christ.Believe in Christ. If you do, then know it is because His Holy Spirit dwells in you. Then it won't be just you trying to justify yourself before God."
 mp3:
     asset_link: "2021-10-25-study-romans8-14-17.mp3"
     length: "38377985"
