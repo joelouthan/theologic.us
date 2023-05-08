@@ -14,7 +14,7 @@ tocopen: true
 css: "prayers"
 draft: false
 
-description: "John 20:17 (CSB) 'Don’t cling to me,' Jesus told her, 'since I have not yet ascended to the Father. But go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God.'"
+description: "Go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God."
 ---
 
 ## The Creed
