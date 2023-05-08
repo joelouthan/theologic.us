@@ -13,6 +13,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Matthew 24:24-25 (CSB) For false messiahs and false prophets will arise and perform great signs and wonders to lead astray, if possible, even the elect. Take note: I have told you in advance"
 ---
 
 ## The Text

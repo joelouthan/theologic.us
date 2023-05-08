@@ -13,6 +13,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Jesus Christ born of the Virgin Mary is a supernatural, Godly, out-of-this-world, almost fantasy-fiction yet absolute, theological fact is a base, primary tenet of the Christian faith. Believe everything else but this? Congrats, you are not a Christian. You are some historical cult or sect (and not a new disbelief) but you cannot call yourself a Christian."
 ---
 
 ## The Creed

@@ -13,6 +13,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Right from the get go Page 1, Book 1, Chapter 1, Verse 1: Genesis 1:1 In the beginning God created the heavens and the earth."
 ---
 
 ## The Creed

@@ -13,6 +13,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Not when Christ lived on the earth. Not when he was resurrected. But Christ, Son of God, who is God, died on that cross in Golgotha, that was the precise moment that the sins for his people--past, present, and future--were all taken away forever. And therefore his people, that's you and me, were made righteous in the sight of God."
 ---
 
 ## The Creed

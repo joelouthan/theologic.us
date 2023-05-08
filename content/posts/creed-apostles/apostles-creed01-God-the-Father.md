@@ -13,6 +13,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "This creed is not just something to recite. For you to recite it means you must believe. We might be able to recite it and not give it a second thought. But back in those days, if you said this with your lips, that might mean you are accepting the most brutal persecution by the Roman government--the same government who crucified our Christ were persecuting Christians and throwing them to lions to be devoured or taking their corpses, dipping in tar, placing them on a pole to to be the source of light for nighttime parties."
 ---
 
 ## The Creed
