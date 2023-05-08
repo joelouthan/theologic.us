@@ -63,7 +63,7 @@
       * Episode related Information
       */
       title: "{{ .Params.year }}{{ .Params.number }}. {{ .Params.title }}",
-      subtitle: "{{ .Params.short_description | plainify }}",
+      subtitle: "{{ .Params.description | plainify }}",
       summary: "{{ .Content | plainify }}",
       // ISO 8601 DateTime format, this is capable of adding a time offset, see https://en.wikipedia.org/wiki/ISO_8601
       publicationDate: '{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}',
