@@ -47,7 +47,7 @@
             <link>{{.Permalink}}</link>
             <title>{{ .Params.title }}</title>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
-            <description>{{ .Params.short_description }}</description>
+            <description>{{ .Params.description }}</description>
 
             <enclosure url='{{.Site.Params.podcast.download_url}}{{ (.Scratch.Get "asset").asset_link | safeHTML }}'
                        length='{{ (.Scratch.Get "asset").length }}' type="audio/{{$assetFormat}}"/>
