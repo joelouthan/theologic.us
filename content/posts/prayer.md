@@ -294,6 +294,8 @@ Crystal
 
 Bruce & Suzanne
 
+> Suzanne getting her butt kick due to gluten 
+
 > Our children:. Tommy
 
 > Ashley and her husband Ollie, 
