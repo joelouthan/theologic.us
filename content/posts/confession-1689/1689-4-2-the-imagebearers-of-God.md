@@ -49,7 +49,7 @@ It was God that formed you in your mother's womb. He stitched you and fashioned 
 
 Your life was a blessing from God on this earth to us. Every part of you. The brokenness does not lie in your body parts but rather, what is going on in your soul and the empty, infinite void in your heart.
 
-Transgenders seek a world where they are not discriminated against, never hated, and accepted as they are. So this also the world I want as well--not just for me but for transgender people as well. Yet, let us use our imaginary: imagine a world where we had the technology to change who you are on the outside. But what about on the inside? What in your heart? Would you be happy? Are you happy and satisified?
+Transgenders seek a world where they are not discriminated against, never hated, and accepted as they are. So this also the world I want as well--not just for me but for transgender people as well. Yet, let us use our imagination: imagine a world where we had the technology to change who you are on the outside. But what about on the inside? What in your heart? Would you be happy? Are you happy and satisified?
 
 >Matthew 23:27-28 (CSB) “Woe to you, scribes and Pharisees, hypocrites! You are like whitewashed tombs, which appear beautiful on the outside, but inside are full of the bones of the dead and every kind of impurity. In the same way, on the outside you seem righteous to people, but inside you are full of hypocrisy and lawlessness.
 
