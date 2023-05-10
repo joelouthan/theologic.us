@@ -287,7 +287,8 @@ Jim & Victoria
 
 Tricia
 
-> Pray for the girl Crystal who has been coming to church.
+> Pray for the girl Crystal who has been coming to church. **PRAISE BE TO God!**
+> Pam bone marrow transplant
 
 Crystal
 
@@ -297,9 +298,11 @@ Bruce & Suzanne
 
 > Ashley and her husband Ollie, 
 
->my youngest son, who calls himself Kiley now, and his wife Meggie.
+> my youngest son, who calls himself Kiley now, and his wife Meggie.
 
 Chuck & Debbie, Nathaniel, Garrett, Katherine
+
+Paulette & Charity
 
 Rayny & Ty
 
@@ -347,6 +350,8 @@ Carter & Stella
 
 Zach & Toni Tincher, kids (Maria, Paul, Jack, Abel, Isaac & Carli)
 
+- Jen tumor surgery
+
 Andrew & Blythe, baby
 
 Randy & Laquita, son
@@ -358,6 +363,10 @@ Chris (green shirt)
 Kathryn (from Connecticut)
 
 Grace & Dillon (Annie's sis)
+
+Paul & Anne
+
+- Charlotte due with 2nd kiddo praying it ain't late!
 
 ---
 
