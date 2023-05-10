@@ -129,7 +129,7 @@ params:
           url: "https://linkedin.com/in/joelouthan"
         - name: discord
           url: "https://discord.gg/DntJ4rh5eN"
-        - name: calendar
+        - name: googlecalendar
           url: "https://calendar.app.google/hMeh4vnexCW29jX46"
         - name: instagram
           url: "https://instagram.com/josephlouthan"
