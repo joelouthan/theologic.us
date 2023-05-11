@@ -30,7 +30,7 @@ US Air Force Veteran - Still Photographer
 
 ## Technical Project Manager
 
-### Red Hat, Inc., Remote, July 2019 to Present
+### Red Hat 2019-Now
 
 Noteworthy Projects include but not limited to:
 
