@@ -88,7 +88,7 @@ Noteworthy Projects include but not limited to:
 
 ## Linux Systems Administrator
 
-### Mirum Agency (J. Walter Thompson) 2015-2019
+### Mirum Agency 2015-2019
 
 - Configuration management experience with Ansible as an implemented and administered solution
 - In addition, using Ansible, conducted regular General Computer Checks (GCC) to assess the security posture and overall health of IT systems, including review of security policies and procedures, scanning for vulnerabilities, analyzing monitoring data for potential security incidents, reviewing user access controls, assessing data backup and recovery procedures, and reviewing physical security measures.
@@ -97,13 +97,13 @@ Noteworthy Projects include but not limited to:
 - Proficient within SLDC using Agile Methodology with a focus on continuous integration/continuous deployment (CICD) to drive faster development cycles and higher-quality deliverables
 - Deployed to AWS, Azure, and Rackspace Cloud environments
 
-### Apptricity, Inc 2014-2015
+### Apptricity 2014-2015
 
 - Successfully completed large-scale implementation and upgrade projects for PCI-DSS compliance, Active Directory (AD) upgrades, and implementation of JIRA, Nagios, and Fortinet to improve system performance and security.
 - Maintained day-to-day administration of critical systems, including Apache Tomcat, HTTP Proxy, KVM, and Chef, and developed and implemented bash scripts to automate tasks and improve efficiency.
 - Proficient in cloud environments, including Azure, Amazon Web Services (AWS), Internap, and Openstack, and adept at configuring, deploying, and managing cloud infrastructure to support business needs.
 
-### Dell, 2012-2014
+### Dell 2012-2014
 
 - Led a team of internal UNIX PCI auditors to prepare for official PCI Audit for Dell@Hilton, including assessing twelve categories of compliance for four UNIX types through bash shell scripts, coordinating and assigning changes to steady state team for remediation, and documenting time for Certified Information Systems Auditor (CISA) certification.
 - Served as team lead for 300+ RHEL, Solaris, and AIX servers for Dell CoreLogic Operational Transition Team, implementing best practices such as policy manuals and standard operating procedures, training in OPAS (Remedy), processes, procedures, inventory, KACE, monitoring, storage, and backup, and executing successful physical-to-virtual (VMware vCenter) and geographic relocation of data centers.
