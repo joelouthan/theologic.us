@@ -140,3 +140,37 @@ Noteworthy Projects include but not limited to:
 ### Microsoft 2004
 
 - Provided comprehensive support for Internet Information Services across operating systems, including developer, performance, security, and integration issues
+
+### Nationwide Internet 2003-04
+
+**Network Operations Manager**
+
+- Managed 50 Red Hat Linux servers (CentOS, Fedora Core), provided technical support, administered web servers, and handled WAN connectivity for dial-up, ISDN, DSL, and T-1 customers.
+
+### C I Host 2002-03
+
+**Network Operations Manager**
+
+- Managed and maintained a diverse server infrastructure comprising 2500+ shared, dedicated, co-located, and internal servers running Red Hat Linux, CentOS, Fedora Core, FreeBSD, and Windows 2000, serving over 175,000 customers. Held multiple titles including Manager of the NOC team, Linux Systems Administrator, Windows Systems Administrator, Security Administrator, and member of the Abuse Response Team. Led a team that successfully deployed an average of 10 servers per day.
+
+### Invision Marketing Group 2001-02
+
+- Supported and administered a network infrastructure for an advertising and market firm
+
+### HP 2000-01
+
+- Supported and provided technical assistance for a web-based developer community as a Systems Administrator and Technical Support. Administered a network of 10 Linux servers and implemented backup procedures, tape maintenance, backup scheduling, and file and system recovery. Took the lead in enhancing security measures, including physical access controls, password improvements, and hardening techniques. 
+
+### Virtuoso 1996-2000
+
+- Finished my tenure as a Systems Administrator overseeing Windows, Novell, Solaris, AIX, and Linux servers
+
+### PrimeCo 1996
+
+- Desktop Support for Windows 95 and Windows NT Workstations
+
+## Combat Photographer
+
+### United States Air Force 1993-96
+
+Still Photographer
