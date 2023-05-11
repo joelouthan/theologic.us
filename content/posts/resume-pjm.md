@@ -3,19 +3,20 @@ title: "Joseph Louthan, Technical Project Manager"
 author: Joseph Louthan
 date: 2023-05-11
 url: /pm-resume/
-index: false
+index: true
 draft: false
-tocopen: false
+tocopen: true
 css: home-devos
 ---
+
+<img style="float: left; padding-right: 20px" src="/images/jlouthan-ai-starry-back-500-01.png" width="400px">**JOSEPH LOUTHAN**  
+Versailles, Kentucky  
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
 [![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
 [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
-[![Twitter](https://img.shields.io/badge/Twitter-josephlouthan-blue?style=for-the-badge&logo=twitter)](https://twitter.com/josephlouthan)
-[![Instagram](https://img.shields.io/badge/Instagram-josephlouthan-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/josephlouthan/)
 
 ## Summary
 

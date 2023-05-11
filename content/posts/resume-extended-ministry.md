@@ -14,7 +14,6 @@ tocopen: false
 Versailles, Kentucky 40383  
 cell: 817.707.1486  
 email: [joe@theologic.us](mailto:joe@theologic.us)  
-twitter: [@joelouthan](https://twitter.com/JosephLouthan)  
 linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)  
 youtube: [Theologicus](http://youtube.theologic.us)  
 podcast: [Theologicus](http://apple.theologic.us)
