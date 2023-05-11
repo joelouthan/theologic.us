@@ -8,6 +8,7 @@ draft: false
 tocopen: true
 css: home-devos
 ---
+## About
 
 <img style="float: left; padding-right: 20px" src="/images/jlouthan-ai-starry-back-500-01.png" width="400px">**JOSEPH LOUTHAN**  
 Versailles, Kentucky  
@@ -17,6 +18,8 @@ Versailles, Kentucky
 [![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
 [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
+
+<p style="clear:both;">
 
 ## Summary
 
@@ -33,53 +36,53 @@ Noteworthy Projects include but not limited to:
 
 #### Automotive Industry - DCS/SRE OpenShift Backstage Deploy
 
-- Goals: Creating Developer Enablement Platform
-- Scope: Development of DEP which includes evaluating and backlog of product features
-- Key Challenges: Demonstrated strong leadership skills in guiding new team members through the onboarding process and integrating them into the project team; Effectively collaborated with cross-functional teams to overcome challenges in developing for cutting-edge technologies such as Backstage
-- Technologies: OpenShift, Tekton, Quay, Backstage, GitHub Enterprise
-- Role: Project Manager
-- Budget: $3,300,000
-- Outcomes: Enabled client developer teams to code more efficiently and consistently by providing all developers with standardized tools, frameworks, and code across the entire organization
+- **Goals**: Creating Developer Enablement Platform
+- **Scope**: Development of DEP which includes evaluating and backlog of product features
+- **Key Challenges**: Demonstrated strong leadership skills in guiding new team members through the onboarding process and integrating them into the project team; Effectively collaborated with cross-functional teams to overcome challenges in developing for cutting-edge technologies such as Backstage
+- **Technologies**: OpenShift, Tekton, Quay, Backstage, GitHub Enterprise
+- **Role**: Project Manager
+- **Budget**: $3,300,000
+- **Outcomes**: Enabled client developer teams to code more efficiently and consistently by providing all developers with standardized tools, frameworks, and code across the entire organization
 
 #### Banking Industry - Networking Configuration Drift
 
-- Goals: Manage configuration drift for 40000 routers
-- Scope: Setup Ansible Automation Platform Cluster for Networking teams; Build Playbooks for Network Devs to build upon
-- Key Challenges: Telnet not SSH used to access Router configs
-- Technologies: Ansible, Ansible Tower, Telnet
-- Role: Project Manager
-- Budget: $1,200,000
-- Outcomes: Kept all networking devices from entering into config creep, thus quickening troubleshooting issues
+- **Goals**: Manage configuration drift for 40000 routers
+- **Scope**: Setup Ansible Automation Platform Cluster for Networking teams; Build Playbooks for Network Developers to build upon
+- **Key Challenges**: Telnet not SSH used to access Router configs
+- **Technologies**: Ansible, Ansible Tower, Telnet
+- **Role**: Project Manager
+- **Budget**: $1,200,000
+- **Outcomes**: Kept all networking devices from entering into config creep, thus quickening troubleshooting issues
 
 #### Insurance Industry - Docker Migration
 
-- Goals: Docker Migration to OpenShift
-- Scope: Docker Migration to OpenShift
-- Key Challenges: Leveraged strong project management skills to manage complex project structures and maintain project momentum despite challenges with subcontractor coordination through a third-party vendor; Effectively communicated project progress and risks to stakeholders during periods of client unavailability
-- Technologies: OpenShift
-- Role: Project Manager
-- Budget: $645,000
-- Outcomes: Provided client with enterprise orchestration of containers and avoided engaging Kubernetes on their own
+- **Goals**: Docker Migration to OpenShift
+- **Scope**: Docker Migration to OpenShift
+- **Key Challenges**: Leveraged strong project management skills to manage complex project structures and maintain project momentum despite challenges with subcontractor coordination through a third-party vendor; Effectively communicated project progress and risks to stakeholders during periods of client unavailability
+- **Technologies**: OpenShift
+- **Role**: Project Manager
+- **Budget**: $645,000
+- **Outcomes**: Provided client with enterprise orchestration of containers and avoided engaging Kubernetes on their own
 
 #### Energy Industry - Community of Practice (CoP)
 
-- Goals: OpenShift; Web Development
-- Scope: Setup CoP with Web Portal for Communication
-- Key Challenges: Proactively identified and addressed challenges in client communication to mitigate project risks; Effectively communicated project goals and benefits to C-level executives, resulting in successful project sponsorship
-- Technologies: Web; OpenShift
-- Role: Project Manager
-- Budget: $360,000
-- Outcomes: CoP adopted and standardized containers and OpenShift deployments across the entire organization
+- **Goals**: OpenShift; Web Development
+- **Scope**: Setup CoP with Web Portal for Communication
+- **Key Challenges**: Proactively identified and addressed challenges in client communication to mitigate project risks; Effectively communicated project goals and benefits to C-level executives, resulting in successful project sponsorship
+- **Technologies**: Web; OpenShift
+- **Role**: Project Manager
+- **Budget**: $360,000
+- **Outcomes**: CoP adopted and standardized containers and OpenShift deployments across the entire organization
 
 #### Various - Dedicated Engineers
 
-- Goals: Deployed Engineers with RH Support access
-- Scope: Backoffice and communications
-- Key Challenges: Demonstrated strong leadership skills in guiding new team members through the onboarding process and integrating them into the project team
-- Technologies: OpenShift, Ansible
-- Role: Project Manager
-- Budget: $500,000+
-- Outcomes: Gave clients a dedicated RH engineer at their disposal for team support
+- **Goals**: Deployed Engineers with RH Support access
+- **Scope**: Backoffice and communications
+- **Key Challenges**: Demonstrated strong leadership skills in guiding new team members through the onboarding process and integrating them into the project team
+- **Technologies**: OpenShift, Ansible
+- **Role**: Project Manager
+- **Budget**: $500,000+
+- **Outcomes**: Gave clients a dedicated RH engineer at their disposal for team support
 
 ---
 
