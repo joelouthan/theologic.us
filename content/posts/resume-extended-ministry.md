@@ -2,7 +2,7 @@
 title: "Ministry Resume: Joseph Louthan"
 author: Joseph Louthan
 publishDate: 2022-06-25
-url: /resume-extended/
+url: /ministry-resume-extended/
 index: false
 draft: false
 css: "home-devos"
