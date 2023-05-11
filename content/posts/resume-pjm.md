@@ -3,21 +3,22 @@ title: "Joseph Louthan, Technical Project Manager"
 author: Joseph Louthan
 date: 2023-05-11
 url: /pm-resume/
-index: true
+index: false
 draft: false
 tocopen: true
 css: home-devos
 ---
 ## About
 
-<img style="float: left; padding-right: 20px" src="/images/jlouthan-ai-starry-back-500-01.png" width="400px">**JOSEPH LOUTHAN**  
-Versailles, Kentucky  
+<img style="float: left; padding-right: 20px" src="/images/jlouthan-ai-starry-back-500-01.png" width="330px">**JOSEPH LOUTHAN**  
+Versailles, Kentucky
 
-[![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
-[![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
-[![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
-[![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
-[![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
+  [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
+  [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
+  [![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
+  [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
+  [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
 <p style="clear:both;">
 
