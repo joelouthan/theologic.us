@@ -8,9 +8,40 @@ draft: false
 tocopen: true
 css: home-devos
 ---
+<style>
+
+.container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.text {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.logos {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-csm {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 0px;
+}
+
+.logo-csa {
+  width: 43px;
+  height: 50px;
+  margin-bottom: 0px;
+}
+
+</style>
+
 ## About
 
-<img style="float: left; padding-right: 20px" src="/images/jlouthan-ai-starry-back-500-01.png" width="330px">**JOSEPH LOUTHAN**  
+<img style="float:left; padding-right: 20px" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="330px">**JOSEPH LOUTHAN**  
 Versailles, Kentucky
 
   [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
@@ -24,10 +55,18 @@ Versailles, Kentucky
 
 ## Summary
 
-Nearly 30 years IT experience  
-Certified Scrum Master & Certified SAFe 6 Agilist  
-Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft  
-US Air Force Veteran - Still Photographer
+<div class="container">
+  <div class="text">
+    Nearly 30 years IT experience<br>
+    Certified Scrum Master & Certified SAFe 6 Agilistx<br>
+    Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft<br>
+    US Air Force Veteran - Still Photographer
+  </div>
+  <div class="logos">
+    <img src="https://theologic.us/logos/logo-csm-98x98.png" alt="Certified Scrum Master" class="logo-csa">
+    <img src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb.png" alt="Certified SAFe 6 Agilist" class="logo-csa">
+  </div>
+</div>
 
 ## Technical Project Manager
 
@@ -175,3 +214,14 @@ Noteworthy Projects include but not limited to:
 ### United States Air Force 1993-96
 
 Still Photographer
+
+## Skills
+
+Agile, Atlassian, Scaled, Agile, Trello, Salesforce, Jira, Excel, Sheets, VS Code, git, Markdown, GitHub, AsciiDoc, CICD, Linux, Ansible, OpenShift, Hugo
+
+## Education
+
+Associate of Arts in Philosophy
+Dallas County Community College
+June 2011
+GPA 4.0
