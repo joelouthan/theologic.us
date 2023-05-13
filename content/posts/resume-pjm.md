@@ -39,13 +39,13 @@ css: home-devos
 }
 
 .logo-csm {
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
 }
 
 .logo-csa {
-  width: 43px;
-  height: 50px;
+  width: 52px;
+  height: 60px;
 }
 
 </style>
