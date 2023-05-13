@@ -3,7 +3,7 @@ title: "Joseph Louthan, Technical Project Manager"
 author: Joseph Louthan
 date: 2023-05-11
 url: /pm-resume/
-index: false
+index: true
 draft: false
 tocopen: true
 css: home-devos
