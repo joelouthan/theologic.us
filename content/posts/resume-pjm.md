@@ -17,7 +17,7 @@ css: home-devos
 
 .text {
   flex: 1;
-  margin-right: 10px;
+  margin-left: 20px;
 }
 
 .logos {
@@ -30,12 +30,19 @@ css: home-devos
   text-align: center;
 }
 
+.logos a {
+  text-decoration: none !important;
+  border:0px !important;
+  outline: none;
+  border-width: 0px;
+  outline-width:0px;
+  border-bottom: none;
+  box-shadow: 0 0px;
+}
+
 .logos img {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin: 0rem 0;
+  margin-left: 5px;
 }
 
 .logo-csm {
@@ -67,15 +74,19 @@ Versailles, Kentucky
 ## Summary
 
 <div class="container">
+    <div class="logos">
+      <a href="https://bcert.me/sqqjyozaw" target="_blank">
+        <img class="logo-csm" src="https://theologic.us/logos/logo-csm-98x98-1.png" alt="Certified Scrum Master">
+      </a>
+      <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">
+        <img class="logo-csa" src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb.png" alt="Certified SAFe 6 Agilist">
+      </a>
+  </div>
   <div class="text">
     Nearly 30 years IT experience<br>
     Certified Scrum Master & Certified SAFe 6 Agilistx<br>
     Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft<br>
     US Air Force Veteran - Still Photographer
-  </div>
-  <div class="logos">
-    <img src="https://theologic.us/logos/logo-csm-98x98.png" alt="Certified Scrum Master" class="logo-csm">
-    <img src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb.png" alt="Certified SAFe 6 Agilist" class="logo-csa">
   </div>
 </div>
 
