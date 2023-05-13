@@ -28,7 +28,7 @@ css: home-devos
 .logo-csm {
   width: 50px;
   height: 50px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
 }
 
 .logo-csa {
@@ -63,7 +63,7 @@ Versailles, Kentucky
     US Air Force Veteran - Still Photographer
   </div>
   <div class="logos">
-    <img src="https://theologic.us/logos/logo-csm-98x98.png" alt="Certified Scrum Master" class="logo-csa">
+    <img src="https://theologic.us/logos/logo-csm-98x98.png" alt="Certified Scrum Master" class="logo-csm">
     <img src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb.png" alt="Certified SAFe 6 Agilist" class="logo-csa">
   </div>
 </div>
