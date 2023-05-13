@@ -22,19 +22,30 @@ css: home-devos
 
 .logos {
   display: flex;
+  align-items: flex-start;
+  vertical-align: top;
   flex-direction: column;
+  margin: auto;
+  padding: 0px;
+  text-align: center;
+}
+
+.logos img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .logo-csm {
   width: 50px;
   height: 50px;
-  margin-bottom: 5px;
 }
 
 .logo-csa {
   width: 43px;
   height: 50px;
-  margin-bottom: 0px;
 }
 
 </style>
