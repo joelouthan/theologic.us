@@ -1,7 +1,7 @@
 ---
 title: "Joseph Louthan, Technical Project Manager"
 author: Joseph Louthan
-date: 2023-05-11
+date: 2023-05-13
 url: /pm-resume/
 index: true
 draft: false
@@ -9,6 +9,10 @@ tocopen: true
 css: home-devos
 ---
 <style>
+
+.contact-info img {
+  margin: 0rem 0;
+}
 
 .container {
   display: flex;
@@ -51,15 +55,35 @@ css: home-devos
 
 ## About
 
-<img style="float:left; padding-right: 20px" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="330px">**JOSEPH LOUTHAN**  
+<img style="float:left; padding-right: 20px; padding-left: 20px; margin: 0rem 0;" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="300px">**JOSEPH LOUTHAN**  
 Versailles, Kentucky
 
-  [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
-  [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
-  [![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
-  [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
-  [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
+<div class="contact-info">
+  <a href="sms:8177071486" target="_blank">
+    <img src="https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple">
+  </a>
+
+  <a href="mailto:joe@theologic.us" target="_blank">
+    <img src="https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer">
+  </a>
+
+  <a href="https://github.com/joelouthan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub">
+  </a>
+
+  <a href="https://linkedin.com/in/joelouthan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://bibly.com/@joseph" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon">
+  </a>
+
+  <a href="https://starcraft2.com/en-us/profile/1/1/9753175" target="_blank">
+    <img src="https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge">
+  </a>
+
+</div>
 
 <p style="clear:both;">
 
