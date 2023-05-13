@@ -79,7 +79,7 @@ Versailles, Kentucky
         <img class="logo-csm" src="https://theologic.us/logos/logo-csm-98x98-1.png" alt="Certified Scrum Master">
       </a>
       <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">
-        <img class="logo-csa" src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb.png" alt="Certified SAFe 6 Agilist">
+        <img class="logo-csa" src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb-1.png" alt="Certified SAFe 6 Agilist">
       </a>
   </div>
   <div class="text">
