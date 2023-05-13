@@ -9,18 +9,59 @@ tocopen: false
 css: home-devos
 ---
 
-<img style="float: left; padding-right: 20px" src="/images/1-smile-no-braces-portrait-bright-noback.png" width="400px">
+<style>
 
-<div align="left">
-  <span style="font-size:xx-large;">**Joseph Louthan**</span>  
-  Versailles, Kentucky  
+.container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.text {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.logos {
+  display: flex;
+  align-items: flex-start;
+  vertical-align: top;
+  flex-direction: column;
+  margin: auto;
+  padding: 0px;
+  text-align: center;
+}
+
+.logos img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.logo-csm {
+  width: 60px;
+  height: 60px;
+}
+
+.logo-csa {
+  width: 52px;
+  height: 60px;
+}
+
+</style>
+
+## About
+
+<img style="float:left; padding-right: 20px" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="330px">**JOSEPH LOUTHAN**  
+Versailles, Kentucky
 
   [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
   [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
   [![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
   [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
   [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
-</div>
+  [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
 <p style="clear:both;">
 

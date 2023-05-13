@@ -9,16 +9,64 @@ css: "home-devos"
 tocopen: false
 ---
 
-<img src="/images/1-smile-no-braces-portrait-bright.jpg">**JOSEPH LOUTHAN**  
-1380 Gastineau Lane  
-Versailles, Kentucky 40383  
-cell: 817.707.1486  
-email: [joe@theologic.us](mailto:joe@theologic.us)  
-linkedin: [joelouthan](https://www.linkedin.com/in/joelouthan/)  
-youtube: [Theologicus](http://youtube.theologic.us)  
-podcast: [Theologicus](http://apple.theologic.us)
+<style>
+
+.container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.text {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.logos {
+  display: flex;
+  align-items: flex-start;
+  vertical-align: top;
+  flex-direction: column;
+  margin: auto;
+  padding: 0px;
+  text-align: center;
+}
+
+.logos img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.logo-csm {
+  width: 60px;
+  height: 60px;
+}
+
+.logo-csa {
+  width: 52px;
+  height: 60px;
+}
+
+</style>
+
+## About
+
+<img style="float:left; padding-right: 20px" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="330px">**JOSEPH LOUTHAN**  
+Versailles, Kentucky
+
+  [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
+  [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
+  [![GitHub](https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub)](https://github.com/joelouthan)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
+  [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
+  [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
+
+<p style="clear:both;">
 
 ## Ministry Vision
+
 Seeking to glorify Christ by serving his Bride by, first and foremost, preaching and teaching his word. My desire is to serve your church as an Interim Pastor in a bi-vocational capacity. I do this by faithfully preaching Christ crucified, teaching the Scriptures, and under-shepherd your congregation until God provides you with your next pastor.
 
 ## Testimony

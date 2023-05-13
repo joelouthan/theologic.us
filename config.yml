@@ -83,7 +83,9 @@ params:
             - name: What Is It Not?
               url: /not-about/
             - name: Ministry Resume
-              url: /resume/
+              url: /ministry-resume/
+            - name: Work Resume
+              url: /pm-resume/
             - name: Updates
               url: updates
             - name: Recent Posts
