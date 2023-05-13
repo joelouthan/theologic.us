@@ -43,15 +43,7 @@ css: home-devos
 .logos img {
   margin: 0rem 0;
   margin-left: 5px;
-}
-
-.logo-csm {
   width: 60px;
-  height: 60px;
-}
-
-.logo-csa {
-  width: 52px;
   height: 60px;
 }
 
@@ -76,10 +68,10 @@ Versailles, Kentucky
 <div class="container">
     <div class="logos">
       <a href="https://bcert.me/sqqjyozaw" target="_blank">
-        <img class="logo-csm" src="https://theologic.us/logos/logo-csm-98x98-1.png" alt="Certified Scrum Master">
+        <img src="https://theologic.us/logos/logo-csm-98x98-1.png" alt="Certified Scrum Master">
       </a>
       <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">
-        <img class="logo-csa" src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb-1.png" alt="Certified SAFe 6 Agilist">
+        <img src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb-1.png" alt="Certified SAFe 6 Agilist">
       </a>
   </div>
   <div class="text">
