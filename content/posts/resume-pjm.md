@@ -5,7 +5,7 @@ date: 2023-05-13
 url: /pm-resume/
 index: true
 draft: false
-tocopen: true
+tocopen: false
 css: home-devos
 ---
 <style>
@@ -60,7 +60,7 @@ Versailles, Kentucky
 
 <div class="contact-info">
   <a href="sms:8177071486" target="_blank">
-    <img src="https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple">
+    <img src="https://img.shields.io/badge/SMS-Joseph-437790?style=for-the-badge&logo=Apple">
   </a>
 
   <a href="mailto:joe@theologic.us" target="_blank">
@@ -68,7 +68,7 @@ Versailles, Kentucky
   </a>
 
   <a href="https://github.com/joelouthan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-joseph-171515?style=for-the-badge&logo=GitHub">
+    <img src="https://img.shields.io/badge/GitHub-joelouthan-171515?style=for-the-badge&logo=GitHub">
   </a>
 
   <a href="https://linkedin.com/in/joelouthan" target="_blank">
@@ -100,7 +100,7 @@ Versailles, Kentucky
   </div>
   <div class="text">
     Nearly 30 years IT experience<br>
-    Certified Scrum Master & Certified SAFe 6 Agilistx<br>
+    <a href="https://bcert.me/sqqjyozaw" target="_blank">Certified Scrum Master</a> & <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">Certified SAFe 6 Agilist</a><br>
     Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft<br>
     US Air Force Veteran - Still Photographer
   </div>
