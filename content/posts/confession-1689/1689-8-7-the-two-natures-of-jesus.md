@@ -31,11 +31,67 @@ Christ, in the work of mediation, acteth according to both natures, by each natu
 
 >John 3:13 (CSB) No one has ascended into heaven except the one who descended from heaven—the Son of Man.
 
-TODO: Doo-doo 
+The Athanasian Creed--which some modern scholars contend was not written by Athanasius himself but rather, because in the same way he defended the doctrine of the Trinity, this creed likewise.
+
+And because of the times in which I write this exposition, I must explicitly protest and contest the modern-day revival of the heresy we call the Eternal Subordination (or Submission) of the Son. Whatever you want to call it, my friend calls it heterodoxy because he is a gracious and kind man. I call it heresy because it stands in contrast to the Nicene and Athanasian Creeds.
+
+>Luke 22:42 (CSB) “Father, if you are willing, take this cup away from me — nevertheless, not my will, but yours, be done.”
+
+Teachers of the ESS heresy are trying to deal with that passage. Their erroneous conclusions state that "Well, the Son must have always been submitted to the Father." when we pair that up with:
+
+>1 Corinthians 11:3 (CSB) But I want you to know that Christ is the head of every man, and the man is the head of the woman, and God is the head of Christ.
+
+Which in itself is harmful because it is not Orthodox Christianity. But then, if that wasn't well enough, they apply the Doctrine of the Trinity to the their hierarchial views on gender roles. It is not enough that we live in an age where people struggle with gender identity, but some churches want to double down and apply what is meant for the Godhead as a back-breaking burden upon the people of God.
+
+I have said often: ESS goes against the Creeds. In case you are not familiar, in dealing with the two natures of Christ, here is what the Athanasian Creed says:
+
+```text
+  That we believe and confess
+  that our Lord Jesus Christ, God's Son,
+  is both God and human, equally.
+
+  He is God from the essence of the Father,
+  begotten before time;
+  and he is human from the essence of his mother,
+  born in time;
+  completely God, completely human,
+  with a rational soul and human flesh;
+  equal to the Father as regards divinity,
+  less than the Father as regards humanity.
+
+  Although he is God and human,
+  yet Christ is not two, but one.
+```
+
+I would love to exposit the Athanasian Creed, but that is another book for another day. The point I am driving here is that we **do not** have to re-toil the work of the relationship between the Father and the Son because we have over 2,000 years of Historical Orthodox Christianity to draw from. And the ESS heresy is not Orthodox Christianity.
+
+Our forefathers in the faith already did the hard work. Why would we replow the field when we are bountiful in their harvest?
 
 ### that which is proper to one nature is sometimes in Scripture, attributed to the person denominated by the other nature
 
 >Acts 20:28 (CSB) Be on guard for yourselves and for all the flock of which the Holy Spirit has appointed you as overseers, to shepherd the church of God, which he purchased with his own blood.
+
+This is what is so amazing about the two natures of Christ.
+
+Christ, eternally begotten of the Father, was and is and forever shall be. Since Christ is God, and God is immutable, Christ did not change one single bit when he became incarnate.
+
+When he was born of Mary, he took on flesh. He himself unchanged but he took on humanity as his own.
+
+Let me explain it this way. The first instance we see of this was all the way back in Genesis 3. Remember the first preaching of the gospel?
+
+>Genesis 3:15 (CSB) I will put hostility between you and the woman, and between your offspring and her offspring. He will strike your head, and you will strike his heel.
+
+Adam and Eve, sinful and corrupted to the core, yet in the presence of the God, heard the good news. Like every Christian born again, they were saved by grace through faith. They believed the gospel of Christ and it was counted to them as righteousness.
+
+We know this because just a few verses down:
+
+>Genesis 3:21 (CSB) The LORD God made clothing from skins for the man and his wife, and he clothed them.
+
+Stop me when you've heard this before. God slays an animal and clothes us with what he does.
+
+Yet, Christ takes on humanity. Now you have two wills of Christ. But in the two wills, divine and humanity, both reside in the one Jesus Christ. The divine of Christ was going to carry out what God does because Christ is God. But the human will of Christ will also carry out and fulfill the covenant of works because Adam failed to do so.
+
+When we see the will of Christ, you must distinguished, "Is this the divine or human will of the Son?" But do not worry if you get it right--distinguishing is not a test of faith. Just know that you are in Christ and because he perfectly obeyed the covenant of works, you are saved.
 
 ## The Resources
 
