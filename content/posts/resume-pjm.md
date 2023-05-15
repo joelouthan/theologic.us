@@ -211,7 +211,7 @@ Noteworthy Projects include but not limited to:
 
 - Managed 50+ Linux servers integrated into Windows AD; migrated ASP.NET to open source web solutions.
 
-### Layered Tech, Oct 2004 - Nov 2005
+### Layered Technologies, Oct 2004 - Nov 2005
 
 - Managed 50,000 standalone Linux-based servers, built and deployed 30 servers per day, and managed a team of 15 employees in Tech Support, Data Entry, and Development.
 
@@ -233,7 +233,7 @@ Noteworthy Projects include but not limited to:
 
 ### Invision Marketing Group 2001-02
 
-- Supported and administered a network infrastructure for an advertising and market firm
+- Supported and administered a network infrastructure for an advertising and marketing firm
 
 ### HP 2000-01
 
