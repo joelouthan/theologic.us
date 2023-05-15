@@ -102,17 +102,17 @@ Versailles, Kentucky
     Nearly 30 years IT experience<br>
     <a href="https://bcert.me/sqqjyozaw" target="_blank">Certified Scrum Master</a> & <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">Certified SAFe 6 Agilist</a><br>
     Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft<br>
-    US Air Force Veteran - Still Photographer
+    US Air Force Veteran, Still Photographer
   </div>
 </div>
 
 ## Technical Project Manager
 
-### Red Hat 2019-Now
+### Red Hat, Jul 2019-Now
 
 Noteworthy Projects include but not limited to:
 
-#### Automotive Industry - DCS/SRE OpenShift Backstage Deploy
+#### Automotive Industry, DCS/SRE OpenShift Backstage Deploy
 
 - **Goals**: Creating Developer Enablement Platform
 - **Scope**: Development of DEP which includes evaluating and backlog of product features
@@ -122,7 +122,7 @@ Noteworthy Projects include but not limited to:
 - **Budget**: $3,300,000
 - **Outcomes**: Enabled client developer teams to code more efficiently and consistently by providing all developers with standardized tools, frameworks, and code across the entire organization
 
-#### Banking Industry - Networking Configuration Drift
+#### Banking Industry, Networking Configuration Drift
 
 - **Goals**: Manage configuration drift for 40000 routers
 - **Scope**: Setup Ansible Automation Platform Cluster for Networking teams; Build Playbooks for Network Developers to build upon
@@ -132,7 +132,7 @@ Noteworthy Projects include but not limited to:
 - **Budget**: $1,200,000
 - **Outcomes**: Kept all networking devices from entering into config creep, thus quickening troubleshooting issues
 
-#### Insurance Industry - Docker Migration
+#### Insurance Industry, Docker Migration
 
 - **Goals**: Docker Migration to OpenShift
 - **Scope**: Docker Migration to OpenShift
@@ -142,7 +142,7 @@ Noteworthy Projects include but not limited to:
 - **Budget**: $645,000
 - **Outcomes**: Provided client with enterprise orchestration of containers and avoided engaging Kubernetes on their own
 
-#### Energy Industry - Community of Practice (CoP)
+#### Energy Industry, Community of Practice (CoP)
 
 - **Goals**: OpenShift; Web Development
 - **Scope**: Setup CoP with Web Portal for Communication
@@ -152,7 +152,7 @@ Noteworthy Projects include but not limited to:
 - **Budget**: $360,000
 - **Outcomes**: CoP adopted and standardized containers and OpenShift deployments across the entire organization
 
-#### Various - Dedicated Engineers
+#### Various, Dedicated Engineers
 
 - **Goals**: Deployed Engineers with RH Support access
 - **Scope**: Backoffice and communications
@@ -166,7 +166,7 @@ Noteworthy Projects include but not limited to:
 
 ## Linux Systems Administrator
 
-### Mirum Agency 2015-2019
+### Mirum Agency, Jun 2015 - Jul 2019
 
 - Configuration management experience with Ansible as an implemented and administered solution
 - In addition, using Ansible, conducted regular General Computer Checks (GCC) to assess the security posture and overall health of IT systems, including review of security policies and procedures, scanning for vulnerabilities, analyzing monitoring data for potential security incidents, reviewing user access controls, assessing data backup and recovery procedures, and reviewing physical security measures.
@@ -175,47 +175,47 @@ Noteworthy Projects include but not limited to:
 - Proficient within SLDC using Agile Methodology with a focus on continuous integration/continuous deployment (CICD) to drive faster development cycles and higher-quality deliverables
 - Deployed to AWS, Azure, and Rackspace Cloud environments
 
-### Apptricity 2014-2015
+### Apptricity, Oct 2014 - Jun 2015
 
 - Successfully completed large-scale implementation and upgrade projects for PCI-DSS compliance, Active Directory (AD) upgrades, and implementation of JIRA, Nagios, and Fortinet to improve system performance and security.
 - Maintained day-to-day administration of critical systems, including Apache Tomcat, HTTP Proxy, KVM, and Chef, and developed and implemented bash scripts to automate tasks and improve efficiency.
 - Proficient in cloud environments, including Azure, Amazon Web Services (AWS), Internap, and Openstack, and adept at configuring, deploying, and managing cloud infrastructure to support business needs.
 
-### Dell 2012-2014
+### Dell, Nov 2012 - Oct 2014
 
 - Led a team of internal UNIX PCI auditors to prepare for official PCI Audit for Dell@Hilton, including assessing twelve categories of compliance for four UNIX types through bash shell scripts, coordinating and assigning changes to steady state team for remediation, and documenting time for Certified Information Systems Auditor (CISA) certification.
 - Served as team lead for 300+ RHEL, Solaris, and AIX servers for Dell CoreLogic Operational Transition Team, implementing best practices such as policy manuals and standard operating procedures, training in OPAS (Remedy), processes, procedures, inventory, KACE, monitoring, storage, and backup, and executing successful physical-to-virtual (VMware vCenter) and geographic relocation of data centers.
 
-### IBM, 2012
+### IBM, Feb 2012 - Dec 2012
 
 - Provided final level of support for 500 Mac OS X, Linux (RHEL, SuSE, Gentoo), and AIX servers, engineering and configuring new virtual AIX and RHEL/CentOS environments, and migrating AIX and Linux servers to virtual environments running IBM HMC 7.3.0 and VMWare VCenter Server 5.0, respectively.
 - Demonstrated expertise in resolving disaster recovery issues for Linux servers running CA ESP System Agent, ensuring compliance for all Linux and Mac servers, and conducting day-to-day administration and migration projects using bash shell scripting. Also provided hardware support for System i servers, RAID, SAN, and networking to maintain optimal performance, uptime, capacity, and security.
 
-### Vertis Communications 2010-12
+### Vertis Communications, Oct 2010 - Jan 2012
 
 - Delivered exceptional end-user support to 5000+ Mac and Windows users, wrote IT articles, and projected yearly budgets.
 
-### Apple 2010
+### Apple, Jun - Oct 2010
 
 - Generated $350,000+ in retail sales by providing customers with complete Mac-based solutions, and served as the Mac OS X Server expert for the business team at Apple Retail.
 
-### Think Fixed 2008-10
+### Think Fixed, Jan 2008 - May 2010
 
 - Designed and deployed Linux, Mac, and Windows solutions for infrastructure providers, including SAN for video editing and web development servers using RHEL.
 
-### Digital Works 2007
+### Digital Works, Aug 2007 - Dec 2007
 
 - Conducted security audit for KwaZulu-Natal government using Nessus, GFI Languard, Helix, Wireshark, Airmagnet, EnCase, Forensic Toolkit, Acronis, and bash scripting.
 
-### Click Here 2005-07
+### Click Here, Nov 2005 - Jul 2007
 
 - Managed 50+ Linux servers integrated into Windows AD; migrated ASP.NET to open source web solutions.
 
-### Layered Tech 2004-05
+### Layered Tech, Oct 2004 - Nov 2005
 
 - Managed 50,000 standalone Linux-based servers, built and deployed 30 servers per day, and managed a team of 15 employees in Tech Support, Data Entry, and Development.
 
-### Microsoft 2004
+### Microsoft, May - Oct 2004
 
 - Provided comprehensive support for Internet Information Services across operating systems, including developer, performance, security, and integration issues
 
