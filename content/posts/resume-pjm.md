@@ -94,13 +94,13 @@ Versailles, Kentucky
       <a href="https://bcert.me/sqqjyozaw" target="_blank">
         <img src="https://theologic.us/logos/logo-csm-98x98-1.png" alt="Certified Scrum Master">
       </a>
-      <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">
+      <a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank">
         <img src="https://theologic.us/logos/logo-SAFe-6-0-SA-Badge-rgb-1.png" alt="Certified SAFe 6 Agilist">
       </a>
   </div>
   <div class="text">
     Nearly 30 years IT experience<br>
-    <a href="https://bcert.me/sqqjyozaw" target="_blank">Certified Scrum Master</a> & <a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank">Certified SAFe 6 Agilist</a><br>
+    <a href="https://bcert.me/sqqjyozaw" target="_blank">Certified Scrum Master</a> & <a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank">Certified SAFe 6 Agilist</a><br>
     Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft<br>
     US Air Force Veteran, Still Photographer
   </div>
