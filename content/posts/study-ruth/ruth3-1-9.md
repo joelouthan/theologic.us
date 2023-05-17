@@ -41,7 +41,9 @@ draft: false
 
 >Philippians 4:8 (CSB) Finally brothers and sisters, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable—if there is any moral excellence and if there is anything praiseworthy—dwell on these things.
 
-- 
+- Let us praise him for he has redeemed us from sin and death.
+
+---
 
 <div style="page-break-after: always;"></div>
 
@@ -52,6 +54,8 @@ draft: false
 ### God's Redeeming Work: Christ is Our Final Rest
 
 - Continuous work not sustainable
+- Why God ended his work on the Sabbath
+- Why did Adam begin his life on the Sabbath
 - Consider physical fitness - lift all weights in the world but without rest, it was as though you never lifted--the work doesn't count
 
 >Matthew 11:28 (CSB) Come to me, all of you who are weary and burdened, and I will give you rest.
@@ -60,15 +64,25 @@ draft: false
 >in your presence is abundant joy;  
 >at your right hand are eternal pleasures.
 
+---
+
 <div style="page-break-after: always;"></div>
 
 ><sup>2-3</sup> Now isn’t Boaz our relative? Haven’t you been working with his female servants? This evening he will be winnowing barley on the threshing floor. Wash, put on perfumed oil, and wear your best clothes. Go down to the threshing floor, but don’t let the man know you are there until he has finished eating and drinking.
 
 ### God's Redeeming Work: He Does The Work
 
+This is not unlike:
+
+>Revelation 19:7-8 (CSB) Let us be glad, rejoice, and give him glory,  
+>because the marriage of the Lamb has come,  
+>and his bride has prepared herself.  
+>She was given fine linen to wear, bright and pure.
+
+- He does the work
 - He dresses you in his righteousness
 - He anoints you with oil
-- 
+
 But where we are commanded by God to do this and yet cannot, he sent his Son to come do this for us so that we might live!
 
 >Matthew 5:17-18 (CSB) “Don’t think that I came to abolish the Law or the Prophets. I did not come to abolish but to fulfill. For truly I tell you, until heaven and earth pass away, not the smallest letter or one stroke of a letter will pass away from the law until all things are accomplished.
@@ -76,6 +90,11 @@ But where we are commanded by God to do this and yet cannot, he sent his Son to 
 >Luke 15:22 (CSB) “But the father told his servants, ‘Quick! Bring out the best robe and put it on him; put a ring on his finger and sandals on his feet.
 
 >Titus 3:4-7 (CSB) But when the kindness of God our Savior and his love for mankind appeared, he saved us —not by works of righteousness that we had done, but according to his mercy — through the washing of regeneration and renewal by the Holy Spirit. He poured out his Spirit on us abundantly through Jesus Christ our Savior so that, having been justified by his grace, we may become heirs with the hope of eternal life.
+
+- **Hyper/Fake Calvinism (Determinism)** - whatever happens happens while I sit and do nothing
+-  **Real Calvinism (Sovereignty)** - I do all that I have been given grace to do and he is the beginning, means, and ends of his will.
+
+---
 
 <div style="page-break-after: always;"></div>
 
@@ -103,47 +122,95 @@ But where we are commanded by God to do this and yet cannot, he sent his Son to 
 
 >Matthew 23:37-39 (CSB) “Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her. How often I wanted to gather your children together, as a hen gathers her chicks under her wings, but you were not willing! See, your house is left to you desolate. For I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord’! ”
 
+---
+
 <div style="page-break-after: always;"></div>
 
 ## The Gospel
 
-><sup>5</sup> So Ruth said to her, “I will do everything you say.”
+><sup>5-6</sup> So Ruth said to her, “I will do everything you say.” She went down to the threshing floor and did everything her mother-in-law had charged her to do.
 
 ### God's Redeeming Work: He Gives Faith
 
-- Romans 4 & James 2
+#### The shrewdness of the two widows
+
+- Christ preaches the persistent widow (Luke 18--God will answer speedily)
+- Christ preaches the shrewdness of the dishonest manager
+
+>Luke 16:8-11 (CSB) “The master praised the unrighteous manager because he had acted shrewdly. **For the children of this age are more shrewd than the children of light in dealing with their own people.** And I tell you, make friends for yourselves by means of worldly wealth so that when it fails, they may welcome you into eternal dwellings. Whoever is faithful in very little is also faithful in much, and whoever is unrighteous in very little is also unrighteous in much. So if you have not been faithful with worldly wealth, who will trust you with what is genuine?
+
+- The tension between Romans 4 & James 2
+
+#### Righteousness before God
+
+>Romans 4:3-4 (CSB) For what does the Scripture say? Abraham believed God, and it was credited to him for righteousness. Now to the one who works, pay is not credited as a gift, but as something owed.
+
+#### Righteousness before men
+
+>James 2:21–24 (CSB) Wasn’t Abraham our father justified by works in offering Isaac his son on the altar? You see that faith was active together with his works, and by works, faith was made complete, and the Scripture was fulfilled that says, Abraham believed God, and it was credited to him as righteousness, and he was called God’s friend. You see that a person is justified by works and not by faith alone.
+
+>Matthew 5:16 (CSB) In the same way, let your light shine before others, so that they may see your good works and give glory to your Father in heaven.
+
+>1 Peter 3:14-16 (CSB) But even if you should suffer for righteousness, you are blessed. Do not fear them or be intimidated, but in your hearts regard Christ the Lord as holy, ready at any time to give a defense to anyone who asks you for a reason for the hope that is in you. Yet do this with gentleness and reverence, keeping a clear conscience, so that when you are accused, those who disparage your good conduct in Christ will be put to shame.
 
 <div style="page-break-after: always;"></div>
 
-><sup>6</sup> She went down to the threshing floor and did everything her mother-in-law had charged her to do.
+><sup>7-9</sup> After Boaz ate, drank, and was in good spirits, he went to lie down at the end of the pile of barley, and she came secretly, uncovered his feet, and lay down. At midnight, Boaz was startled, turned over, and there lying at his feet was a woman! So he asked, “Who are you?” “I am Ruth, your servant,” she replied. “Take me under your wing, for you are a family redeemer.”
 
-### God's Redeeming Work: He Gives the Work
+### God's Redeeming Work: The Shrewdness of God
 
-- Stuff
+In every hero story--comic book, movies, epic tales, myths, fables--the hero always rises up in *response* and *reaction* to something that has already happened. That is just being human--we are restrict to time. We cannot respond to something until that something happens. When it occurs, the hero rises up to the occasion.
 
-<div style="page-break-after: always;"></div>
+### God's Redeeming Work: He is the Only One Who Can Redeem Us
 
-><sup>7</sup> After Boaz ate, drank, and was in good spirits, he went to lie down at the end of the pile of barley, and she came secretly, uncovered his feet, and lay down.
-
-### God's Redeeming Work: He Fulfills the Work
-
-- TODO:
-
-<div style="page-break-after: always;"></div> 
-
-><sup>8</sup> At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!
-
-### God's Redeeming Work: He Knows Us
+This is the shrewdness of God: he alone knows the ends from the beginning. Christ's death on the cross was not a reaction to the sin that already happened. He knew that his creation was going to break. But instead of uncreating, wiping, starting over fresh or just undoing everything, Christ chose to redeem his creation. He chose to redeem us.
 
 - not surprised by our works of sin
 - expected you not to come
 - he has sent his Son to save us, to cover us, and bring us into the family
 
+>Ephesians 1:4-6 (CSB) For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
+
+>Romans 5:8 (CSB) But God proves his own love for us in that while we were still sinners, Christ died for us.
+
+The sin still occurs. Christ makes us right-standing with the Father. That is redemption. And that is a hard concept to grasp. For the pain and misery we have endure and the sin we have done, we wish we could all go back in time and undo it. Go back and stop ourselves from sinning. Go back and protects us from being hurt.
+
+But we can't. But the Triune God was in eternity past--the Father and Son with the Spirit--made a covenant between two beings that cannot never break a promise to save us from our sins. Adam failed. The Second Adam redeems and makes whole.
+
+Naomi and Ruth conspired a bold, risky, and shrewd plan to hopefully fix what was wrong. God's law provided a way for a man to redeem his brother's widow to save her and her children from certain poverty and death. But the law was not enough in this case because we will soon find out that there was a closer relative than Boaz. Naomi contrived a plan that risky and the implications were great and it counted on Ruth to do her part and for Boaz to be man of valor to do his part.
+
+But God's plan? The Father, Son, and Spirit, perfect in their selves and with each other, would perfectly execute and fulfill the promise of redemption that they set out to do before Genesis 1:1
+
+## The Closing
+
+>Psalm 32 (CSB)  
+>Of David. A Maskil. 
+
+><sup>1</sup> How joyful is the one whose transgression is forgiven, whose sin is covered! 
+
+><sup>2</sup> How joyful is a person whom the LORD does not charge with iniquity and in whose spirit is no deceit! 
+
+><sup>3</sup> When I kept silent, my bones became brittle from my groaning all day long. 
+
+><sup>4</sup> For day and night your hand was heavy on me; my strength was drained as in the summer’s heat. Selah 
+
+><sup>5</sup> Then I acknowledged my sin to you and did not conceal my iniquity. I said, “I will confess my transgressions to the LORD,” and you forgave the guilt of my sin. Selah 
+
+><sup>6</sup> Therefore let everyone who is faithful pray to you immediately. When great floodwaters come, they will not reach him. 
+
+><sup>7</sup> You are my hiding place; you protect me from trouble. You surround me with joyful shouts of deliverance. Selah 
+
+><sup>8</sup> I will instruct you and show you the way to go; with my eye on you, I will give counsel. 
+
+><sup>9</sup> Do not be like a horse or mule, without understanding, that must be controlled with bit and bridle or else it will not come near you. 
+
+><sup>10</sup> Many pains come to the wicked, but the one who trusts in the LORD will have faithful love surrounding him. 
+
+><sup>11</sup> Be glad in the LORD and rejoice, you righteous ones; shout for joy, all you upright in heart.
+
+---
+
 <div style="page-break-after: always;"></div>
-
-><sup>9</sup> So he asked, “Who are you?” “I am Ruth, your servant,” she replied. “Take me under your wing, for you are a family redeemer.”
-
-### God's Redeeming Work: He is the Only One Who Can Redeem Us
 
 ## The Resources
 
