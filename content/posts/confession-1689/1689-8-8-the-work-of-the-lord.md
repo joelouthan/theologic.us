@@ -37,6 +37,8 @@ To all those for whom Christ hath obtained eternal redemption, he doth certainly
 
 >Romans 5:10 (CSB) For if, while we were enemies, we were reconciled to God through the death of his Son, then how much more, having been reconciled, will we be saved by his life.
 
+TODO:
+
 ### uniting them to Himself by His Spirit, revealing to them, in and by His Word, the mystery of salvation, persuading them to believe and obey
 
 >John 17:6 (CSB) “I have revealed your name to the people you gave me from the world. They were yours, you gave them to me, and they have kept your word.
