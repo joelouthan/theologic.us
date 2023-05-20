@@ -63,6 +63,9 @@
       "titleBar.inactiveBackground": "#f4000099",
       "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#f40000"
+    "peacock.color": "#f40000",
+    "githubPullRequests.ignoredPullRequestBranches": [
+      "main"
+    ]
   }
 }

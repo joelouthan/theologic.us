@@ -25,8 +25,7 @@
       "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#215732",
-    "frontMatter.content.autoUpdateDate": true,
-    "frontMatter.preview.host": "http://localhost:1313/",
-    "frontMatter.framework.startCommand": "hugo server --buildFuture"
-  }
+    "githubPullRequests.ignoredPullRequestBranches": [
+      "main"
+    ]
 }
