@@ -155,6 +155,16 @@ Don't get geared up against your fellow man. Get geared up to go against Satan a
 
 We know of the story of David and Goliath. But do you know of the other giants in the land? Read 2 Samuel 21. When David was older and could not fight the giants, the mighty men of David stepped in and slew the other giants.
 
+We are to fight against our enemies in the spiritual war.
+
+>>We are more than conquerors through his grace who loved us in the very circumstances that threaten to overwhelm. Fear not, then, the darkest cloud, nor the proudest waves, nor the deepest needs- in these very things you shall, through Christ, prove triumphant. Nor shrink from the battle with the "last enemy." Death received a death-wound when Christ died. You face a conquered foe. He stands at your side a crownless king, and waving a broken scepter. Your death shall be another victory over the believer's last foe. Planting your foot of faith upon his prostrate neck, you shall spring into glory, more than a conqueror, through him that loved you. Thus passing to glory in triumph, you shall go to swell the ranks of the "noble army of martyrs"- those Christian heroes of whom it is recorded, "THEY OVERCAME HIM BY THE BLOOD Of THE LAMB."
+>>
+>>Octavius Winslow. No Condemnation in Christ Jesus. 229.
+
+Even if we die, we win for to live is Christ but to die is behold the risen Christ!
+
+We cannot lose! We are more than conquerors!
+
 Christ has put Satan and demons to open shame. The war is won. The satanic forces are in retreat. Christ who has conquered has made us more than conquerers. So stop fighting against people who are not your enemy but love them. And wage war against the enemy of your soul.
 
 ### in such manner and ways as are most consonant to His wonderful and unsearchable dispensation; and all of free and absolute grace, without any condition foreseen in them to procure it
