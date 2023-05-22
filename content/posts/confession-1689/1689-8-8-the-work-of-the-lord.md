@@ -173,7 +173,58 @@ Christ has put Satan and demons to open shame. The war is won. The satanic force
 
 >Ephesians 1:8 (CSB) that he richly poured out on us with all wisdom and understanding.
 
-TODO:
+In short, none of us can earn the grace of God.
+
+Consider the story of Noah:
+
+>Genesis 6:1–7 (CSB)  
+><sup>1</sup> When mankind began to multiply on the earth and daughters were born to them, 
+
+><sup>2</sup> the sons of God saw that the daughters of mankind were beautiful, and they took any they chose as wives for themselves. 
+
+><sup>3</sup> And the LORD said, “My Spirit will not remain with mankind forever, because they are corrupt. Their days will be 120 years.” 
+
+><sup>4</sup> The Nephilim were on the earth both in those days and afterward, when the sons of God came to the daughters of mankind, who bore children to them. They were the powerful men of old, the famous men. 
+
+><sup>5</sup> When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, 
+
+><sup>6</sup> the LORD regretted that he had made man on the earth, and he was deeply grieved. 
+
+><sup>7</sup> Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.”
+
+Before we can even mention Noah, answer some basic, non-trick questions:
+
+- Was Noah a man?
+- Was Noah a sinner?
+- Was Noah wicked?
+- Did every inclination of Noah's mind was nothing but evil all the time
+- Did the Lord regretted that had made Noah?
+
+There is one right answer: Yes. You might be tempted to give me a, "Yes, but..." because we have gotten to the next verse. Fair enough.
+
+>Genesis 6:8 (CSB) Noah, however, found favor with the LORD.
+
+Oh, you might say, "The Lord gave Noah favor because Noah was good and righteous! **Read the next verse, Joseph!**" Okay.
+
+>Genesis 6:9 (CSB) These are the family records of Noah. Noah was a righteous man, blameless among his contemporaries; Noah walked with God.
+
+I see what it says. But put it altogether and read it:
+
+>Genesis 6:5–9 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved. Then the LORD said, “I will wipe mankind, whom I created, off the face of the earth, together with the animals, creatures that crawl, and birds of the sky—for I regret that I made them.” Noah, however, found favor with the LORD. These are the family records of Noah. Noah was a righteous man, blameless among his contemporaries; Noah walked with God.
+
+Noah was given grace. He found favor with the Lord. **Then** was righteous.
+
+The order of events is important. Read in the right order is the gospel of Christ.
+
+>Romans 1:17 (CSB) For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
+
+Get the order mixed up and you have the classic heresy of mankind: works based on self-righteousness.
+
+We cannot earn the grace of God. We cannot earn the favor of God. We cannot earn the righteousness of God. We cannot earn the salvation of God.
+
+God gives grace.
+
+In other words, God saves sinners.
 
 ## The Resources
 
