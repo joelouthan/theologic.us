@@ -92,7 +92,7 @@ The books commonly called Apocrypha, not being of divine inspiration, are no par
 The authority of the Holy Scripture, for which it ought to be believed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the author thereof; therefore it is to be received because it is the Word of God.
 ```
 
->2 Peter 1:19–21 (CSB)  We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts. 20 Above all, you know this: No prophecy of Scripture comes from the prophet’s own interpretation, 21 because no prophecy ever came by the will of man; instead, men spoke from God as they were carried along by the Holy Spirit.
+>2 Peter 1:19–21 (CSB)  We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts. Above all, you know this: No prophecy of Scripture comes from the prophet’s own interpretation, because no prophecy ever came by the will of man; instead, men spoke from God as they were carried along by the Holy Spirit.
 
 >2 Timothy 3:16 (CSB)  All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness,
 
