@@ -177,6 +177,10 @@ menu:
           name: episodes
           url: /episodes/
           weight: 40
+        - identifier: 
+          name: search
+          url: /search/
+          weight: 50
 
 taxonomies:
     category: categories
@@ -218,6 +222,7 @@ outputs:
     - AMP
     - RSS
     - mp3feed
+    - JSON # is necessary
 
 markup:
   goldmark:
