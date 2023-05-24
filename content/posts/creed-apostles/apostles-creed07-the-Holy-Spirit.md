@@ -50,7 +50,7 @@ I believe in the Holy Spirit
 
 >>In this divine and infinite Being there are three subsistences, the Father, the Word or Son, and Holy Spirit, of one substance, power, and eternity, each having the whole divine essence, yet the essence undivided: the Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Spirit proceeding from the Father and the Son; all infinite, without beginning, therefore but one God, who is not to be divided in nature and being, but distinguished by several peculiar relative properties and personal relations; which doctrine of the Trinity is the foundation of all our communion with God, and comfortable dependence on him.
 >>
->>[1689.2.3. The Trinue God](https://theologic.us/posts/confession-1689/1689-2-3-the-triune-god/)
+>>[1689.2.3. The Triune God](https://theologic.us/posts/confession-1689/1689-2-3-the-triune-god/)
 
 ### Believe in the Holy Spirit: What Christ has said
 
