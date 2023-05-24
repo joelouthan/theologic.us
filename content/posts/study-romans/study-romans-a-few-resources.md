@@ -31,26 +31,10 @@ Note: I use the [Christian Standard Bible](https://csbible.com) version on this 
 
 ___
 
-<p style="clear:both;">
-
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)[<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-left: 10px" />](https://www.olivetree.com)
 Crossway. 2016.
 
-Incredible resource.
-
-I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
-
-[<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
-
-___
-
-<p style="clear:both;">
-
-## Personal
-
-[Here is Love: Exposition on Romans 8](/series/here-is-love/) This is the work that really started it all. And by all I mean, all of reading, writing, studying, teaching, and preaching. I worked on this from 2012 to 2018.  I cannot begin to tell you the agonizing and cripplingly darkness I went through while writing this book. At the end, it ended up being my worshipful testimony of the heights and depths of the beauty of God's grace alone.  Even outside of Romans 8 in the Bible, I will unashamedly often refer to Romans 8. Why? Romans 8 is contains the entire gospel.
-
-You can certainly do worse than to memorize it, write songs about it, and even write books about it.  There are too many rightful references to Romans 8 being Mount Everest of any chapter in the Bible.  Martin Luther called it, "The clearest gospel of all."
+Incredible resource. I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up. If I had to pick just one format (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.
 
 ___
 
@@ -58,15 +42,16 @@ ___
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
-Baker. 2009.
+Baker. 2009.  
+[Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
 
-[<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com)I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
-
-___
+<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-left: 10px" />I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40 from Olive Tree.
 
 <p style="clear:both;">
+
+___
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51utvezkAcL._SX323_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />No Condemnation in Christ Jesus: As Unfolded in the Eighth Chapter of the Epistle to the Romans](https://amzn.to/3zDFiMZ).  
 by Octavius Winslow.  
@@ -162,4 +147,3 @@ I would be remiss if I didn't mention Luther's commentary. It was his desperate 
 ___
 
 <p style="clear:both;">
-

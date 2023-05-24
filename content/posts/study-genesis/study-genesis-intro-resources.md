@@ -37,16 +37,10 @@ Note: I use the [Christian Standard Bible](https://csbible.com) version on this 
 
 ___
 
-<p style="clear:both;">
-
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41nNWgurO3L._SX394_BO1,204,203,200_.jpg" align="left" width="100" style="padding-right: 10px" />ESV Study Bible](https://amzn.to/3FbGs38)[<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-left: 10px" />](https://www.olivetree.com)
 Crossway. 2016.
 
-Incredible resource.
-
-I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
-
-[<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com) If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
+Incredible resource. I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up. If I had to pick just one format (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.
 
 ___
 
@@ -56,13 +50,16 @@ I don't have a personal insightful recommendation on the following. I just wante
 
 <p style="clear:both;">
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41mjq2lbVJL._SX330_BO1,204,203,200_.jpg" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries](https://www.olivetree.com/store/product.php?productid=17517).  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
-Baker. 2009.
+Baker. 2009.  
+[Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
 
-[<img src="https://www.toolsandapplications.com/wp-content/uploads/2011/08/Bible+-by-Olive-Tree-app-icon.png" align="right" width="100" style="padding-right: 10px" />](https://www.olivetree.com)I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
+<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-left: 10px" />I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40 from Olive Tree.
 
 <p style="clear:both;">
+
+---
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/416Q2TDAMKL.jpg" align="left" width="150" style="padding-right: 10px" />Genesis](https://www.amazon.com/Genesis-James-Montgomery-Boice/dp/0801066492/ref=sr_1_5?crid=111YG16YMHH51&keywords=Boice+Genesis&qid=1662635493&sprefix=boice+genesi%2Caps%2C195&sr=8-5).  
 by James Montgomery Boice.  

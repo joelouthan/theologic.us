@@ -44,7 +44,7 @@ Incredible resource.
 
 I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
 
-<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-right: 10px" />If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
+<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-right: 10px" />If I had to pick just one format (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
 
 <p style="clear:both;">
 

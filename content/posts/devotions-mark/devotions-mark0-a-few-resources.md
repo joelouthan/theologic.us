@@ -43,7 +43,7 @@ Incredible resource.
 
 I have purchased this resource multiple times over for myself and friends. If you want one and can't afford one, hit me up.
 
-<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-right: 10px" />If I had to pick just one resource (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
+<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-left: 10px" />If I had to pick just one format (hardcover vs. leather vs. paperback vs. digital), I use it way more in my [Olive Tree Study Bible](https://www.olivetree.com) than anything else.  
 
 <p style="clear:both;">
 
@@ -53,14 +53,12 @@ ___
 
 <p style="clear:both;">
 
-<img src="/images/resources/commentary-calvin-set.png" align="left" width="100" style="padding-right: 10px" />Calvin's Commentaries.  
+<img src="/images/resources/commentary-calvin-set.png" align="left" width="150" style="padding-right: 10px" />Calvin's Commentaries.  
 by John Calvin.  
 Baker. 2009.  
 [Olive Tree](https://www.olivetree.com/store/product.php?productid=17517)
 
-<p style="clear:both;">
-
-<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="150" style="padding-right: 10px" />I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about ~~$40~~ **$19.99** from Olive Tree!
+<img src="/images/resources/icon-bible-olive-tree.png" align="right" width="100" style="padding-left: 10px" />I mention this because in my go-to mobile Bible Study App, [Olive Tree](https://www.olivetree.com), Calvin's Commentaries are my go-to Commentary text of choice when I need clarification on the go. You can get the entire digital set for your phone (and computer) for about $40 from Olive Tree.
 
 <p style="clear:both;">
 
