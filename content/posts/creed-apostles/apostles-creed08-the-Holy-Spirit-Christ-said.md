@@ -1,5 +1,5 @@
 ---
-title: "What Do We Believe: The Holy Spirit--What Christ Said"
+title: "What Do We Believe: The Holy Spirit as Taught by Christ"
 author: Joseph Louthan
 publishDate: 2023-05-31
 categories:
@@ -12,9 +12,9 @@ cover:
   image: '/images/banners/apostles.png'
 tocopen: true
 css: "prayers"
-draft: true
+draft: false
 
-description: "TODO:"
+description: "In Evangelicalism, there are usually two perspectives of Christians. Either, there has been too little taught about the Holy Spirit and on the other, there has been too much said about the Holy Spirit. Both are usually overcorrections and more often than not, a great deal of harm to Evangelical theology as a whole.. But may I submit that we should go to Someone who has been with the Spirit from before the beginning. Let us examine what Christ has said about the Holy Spirit."
 
 ---
 
@@ -26,14 +26,13 @@ I believe in the Holy Spirit
 
 ## The Word
 
+>Romans 8:9-11 (CSB) You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him. Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness. And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
+
 ## The Belief
 
 ### Believe in the Holy Spirit: What Christ has said
 
->John 3:3-9 (CSB) Jesus replied, “Truly I tell you, unless someone is born again, he cannot see the kingdom of God.”  
->“How can anyone be born when he is old? ” Nicodemus asked him. “Can he enter his mother’s womb a second time and be born? ”  
->Jesus answered, “Truly I tell you, unless someone is born of water and the Spirit, he cannot enter the kingdom of God. Whatever is born of the flesh is flesh, and whatever is born of the Spirit is spirit. Do not be amazed that I told you that you must be born again. The wind blows where it pleases, and you hear its sound, but you don’t know where it comes from or where it is going. So it is with everyone born of the Spirit.”  
->“How can these things be? ” asked Nicodemus.
+>John 3:3–9 (CSB) Jesus replied, “Truly I tell you, unless someone is born again, he cannot see the kingdom of God.” “How can anyone be born when he is old?” Nicodemus asked him. “Can he enter his mother’s womb a second time and be born?” Jesus answered, “Truly I tell you, unless someone is born of water and the Spirit, he cannot enter the kingdom of God. Whatever is born of the flesh is flesh, and whatever is born of the Spirit is spirit. Do not be amazed that I told you that you must be born again. The wind blows where it pleases, and you hear its sound, but you don’t know where it comes from or where it is going. So it is with everyone born of the Spirit.” “How can these things be?” asked Nicodemus.
 
 #### On Christ: The Spirit births us into the Kingdom of God
 
