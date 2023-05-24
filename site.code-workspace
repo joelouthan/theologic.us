@@ -27,6 +27,7 @@
     "peacock.color": "#fbdf0f28",
     "githubPullRequests.ignoredPullRequestBranches": [
       "main"
-    ]
+    ],
+    "ansible.python.interpreterPath": "/usr/bin/python3"
   }
 }
