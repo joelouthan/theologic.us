@@ -1,7 +1,7 @@
 ---
-title: "Study: Ruth 4 God Glorified Us"
+title: "Study: Ruth 4 God Brings Us All The Way Home"
 author: Joseph Louthan
-publishDate: 2023-04-19
+publishDate: 2023-04-14
 categories:
   - Commentaries
   - Study
@@ -13,7 +13,7 @@ cover:
   image: '/images/banners/ruth.png'
 tocopen: true
 css: "questions"
-draft: true
+draft: false
 ---
 ## The Text
 
