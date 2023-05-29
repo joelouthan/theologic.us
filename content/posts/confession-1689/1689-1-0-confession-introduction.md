@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: prayers
 draft: false
+
+description: "I feel like I became Calvinist before I met any other Calvinist or Reformed. But once I went all in the doctrines of grace, I got to meet my Confessional brothers and sisters: Presbyterian, Reformed Baptist, and Anglican among others. In public, there wasn't a lot of talk about confessional but amongst themselves, the often referred to the Westminster, 1689, Three Forms of Unity and Thirty-Nine Articles were constantly mentioned. And I am over here going, 'wut?'"
+
 ---
+
 ## The Introduction
 
 I am brand new to Historical Christian Confessions. So why Confessional and why the Westminster Confession of Faith before settling on the 1689? To answer that is to give the long answer.
@@ -39,7 +43,7 @@ But I digress.
 
 Fast-forward my life some time later, through marriages, divorces, porn addictions, working in porn and all of that, God saved me. In the midst of my sorrow, sin, and depravity, God saved me. And by God's grace and in his provision of the internet, I got to meet so many other Christians outside of AoG. Oh my heart. Oh what joy.
 
-I feel like I became Calvinist before I met any other Calvinist or Reformed. But once I went all in the doctrines of grace, I got to meet my Confessional brothers and sisters: Presbyterian, Reformed Baptist, and Anglican among others. In public, there wasn't a lot of talk about confessional but amongst themselves, Westminster, 1689, Three Forms of Unity and Thirty-Nine Articles were constantly mentioned. And I am over here going, "wut?"
+I feel like I became Calvinist before I met any other Calvinist or Reformed. But once I went all in the doctrines of grace, I got to meet my Confessional brothers and sisters: Presbyterian, Reformed Baptist, and Anglican among others. In public, there wasn't a lot of talk about confessional but amongst themselves, the often referred to the Westminster, 1689, Three Forms of Unity and Thirty-Nine Articles were constantly mentioned. And I am over here going, "wut?"
 
 I didn't grow up liturgical or in high church. I didn't grow up reciting creeds or catechism. But every time I did, my heart jump with joy because I got to do the same thing that the people of God got to do for centuries. Those are my brothers and sisters. I wanna see what they do because we are both family.
 
