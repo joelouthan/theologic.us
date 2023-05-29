@@ -15,7 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 
-description: "'Is God the author of sin?' But let us not be quick to forget and we need to be oft reminded: God is all powerful, all knowing, and holy, holy, holy. God is perfectly might, fullest of wisdom, and the only source of good. God is almighty power, unsearchable wisdom, and infinite goodness. To engage with such a titillating question of "God as author of sin?" to be aptly and forever reminder of who God is. There is no exception."
+description: "'Is God the author of sin?' But let us not be quick to forget and we need to be oft reminded: God is all powerful, all knowing, and holy, holy, holy. God is perfectly might, fullest of wisdom, and the only source of good. God is almighty power, unsearchable wisdom, and infinite goodness. To engage with such a titillating question of 'God as author of sin?' to be aptly and forever reminder of who God is. There is no exception."
 
 ---
 
