@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "This is not a forced decision. This is a not a reprogramming or a flip of the switches. Again, our wills are corrupted. Our souls are in decay. Our minds follow the flesh. Our hearts are cold as rocks. Try reprogramming a rock. Doesn't make sense, does it? Then why would God flip a couple switches in our minds, hearts, and wills as though we are some kind of robots?"
+
 ---
+
 ## The Text
 
 >Genesis 1:27 (CSB) So God created man in his own image; he created him in the image of God; he created them male and female.

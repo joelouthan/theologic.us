@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "I have asked this question before and I will ask it again: How can we honestly believe that in all the devastation in the wake of sin, down to our very core, that somehow Adam and Eve, now dead in their sins, were able to choose God as they had the moment before they were tempted."
+
 ---
+
 ## The Text
 
 >Hosea 6:6–7 (CSB) For I desire faithful love and not sacrifice, the knowledge of God rather than burnt offerings. But they, like Adam, have violated the covenant; there they have betrayed me.

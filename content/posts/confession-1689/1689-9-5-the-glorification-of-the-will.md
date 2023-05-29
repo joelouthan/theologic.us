@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "We started off in resting in the Lord. Sin marred and messed it up so bad that work works against us and we have no rest. But Christ came. He worked so we could rest in him. And one day, we will get to perfectly, finally, definitely rest all because of what God has done for us in Christ."
+
 ---
+
 ## The Text
 
 >Psalm 17:15 (CSB) But I will see your face in righteousness; when I awake, I will be satisfied with your presence.

@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Your will, before the intervention of God in your life, was a free as a prisoner in their cell. You had freedom to roam the confines of your own sin."
+
 ---
+
 ## The Text
 
 >Romans 8:20-21 (CSB) For the creation was subjected to futility — not willingly, but because of him who subjected it — in the hope that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.

@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Within that freedom comes boundaries and boundaries come in the form of the law of God. In our original free will, we could choose to go to the left or the right or straight ahead. We do not know how long Adam and Eve lived in perfection--chosen to go ahead straight--but they always had the ability to go left or right of center."
+
 ---
+
 ## The Text
 
 >Joshua 24:15 (CSB) But if it doesn’t please you to worship the LORD, **choose for yourselves today: Which will you worship** — the gods your ancestors worshiped beyond the Euphrates River or the gods of the Amorites in whose land you are living? As for me and my family, we will worship the LORD.
