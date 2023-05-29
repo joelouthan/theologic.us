@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-06-04-devotions-mark1-9-11.mp3"
     length: "21994194"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/mark.png'
   alt: "Source: Theologicus"
 ---
 
