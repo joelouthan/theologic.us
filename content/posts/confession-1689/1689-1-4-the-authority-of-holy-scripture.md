@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "But rather, God himself has spoken. And his words were not merely touch upon the ears of man for one time. But those words were instructed by the same great God to be written down for his people in the ages to come."
+
 ---
+
 ## The Text
 
 >Psalm 19 (CSB)  

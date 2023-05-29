@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "In the Reformed doctrine of sola Scriptura, one key teaching remains primary: that the Scripture remains infallible in all matters. Faith and practice to be sure. What about the areas of science, philosophy, and history and the like?"
+
 ---
+
 ## The Text
 
 >Galatians 1:6–10 (CSB) I am amazed that you are so quickly turning away from him who called you by the grace of Christ and are turning to a different gospel—not that there is another gospel, but there are some who are troubling you and want to distort the gospel of Christ. But even if we or an angel from heaven should preach to you a gospel contrary to what we have preached to you, a curse be on him! As we have said before, I now say again: If anyone is preaching to you a gospel contrary to what you received, a curse be on him! For am I now trying to persuade people, or God? Or am I striving to please people? If I were still trying to please people, I would not be a servant of Christ.

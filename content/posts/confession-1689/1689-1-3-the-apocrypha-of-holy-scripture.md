@@ -14,6 +14,9 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Yet, time and time again, God will say one thing and mankind will take it upon themselves to add on or to take away from what God has said. If the preaching ministry of Jesus did nothing else, he came to preach the good news that belief and trust in God was not as back-breaking as man will make it out to be."
+
 ---
 
 ## The Text

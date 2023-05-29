@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The Reformers would call this tenet, sola Scriptura, in Latin, meaning, 'according to Scriptures alone.' Not prooftexting or taking out of context, but all 66 books, every word, every jot, every tittle perfectly and completely explaining what God has said to us."
+
 ---
+
 ## The Text
 
 >1 John 2:2 (CSB) He himself is the atoning sacrifice for our sins, and not only for ours, but also for those of the whole world.
@@ -49,7 +53,7 @@ Man, I want to do that. But when we do that, without consider what the Bible tea
 
 500 years ago, the Reformers saw this abuse widespread through out the church. They taught and defended that we must use Scripture to interpret Scripture. All the commentaries we write, the sermons we teach, the classes we teach are not the authority of interpreting the meaning of Scripture. Only Scripture interprets Scripture.
 
-The Reformers would call this tenet, sola Scriptura, in Latin, meaning, "according to Scriptues alone." Not prooftexting or taking out of context, but all 66 books, every word, every jot, every tittle perfectly and completely explaining what God has said to us.
+The Reformers would call this tenet, sola Scriptura, in Latin, meaning, "according to Scriptures alone." Not prooftexting or taking out of context, but all 66 books, every word, every jot, every tittle perfectly and completely explaining what God has said to us.
 
 Now, what if, we do our homework, and we cannot find the meaning of something that is "hard to understand" (as Peter describes some of Paul's writing in 2 Peter 3:16)?
 

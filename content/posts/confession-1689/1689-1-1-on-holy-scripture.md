@@ -14,6 +14,9 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Christ came in as a nobody yet, the entire basis of the Jewish faith prophesied that this was to be start. Starting with Genesis and ending with Malachi. Over 200 prophecies about the upcoming Messiah."
+
 ---
 
 ## The Text

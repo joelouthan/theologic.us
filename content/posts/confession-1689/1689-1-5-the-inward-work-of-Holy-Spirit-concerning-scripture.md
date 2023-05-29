@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "When you, as a mortal man, even arming yourself with your grasp on logic and reason approach something supernatural as natural, you are going to fall short of understanding it."
+
 ---
+
 ## The Text
 
 >John 16:13 (CSB)  When the Spirit of truth comes, he will guide you into all the truth. For he will not speak on his own, but he will speak whatever he hears. He will also declare to you what is to come.

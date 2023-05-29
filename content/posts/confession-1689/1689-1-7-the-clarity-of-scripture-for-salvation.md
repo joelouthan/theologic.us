@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "We assume that we are mature and that can we demystified the mysteries of God. I am not saying don't study. Do study. But do so with your brothers and sisters. Dig deep into the salvation of God and his great grace and mercy and love for us."
+
 ---
+
 ## The Text
 
 >Luke 23:32–43 (CSB)  

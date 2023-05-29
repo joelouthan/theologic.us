@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The Puritans called this clear and understanding of Scripture in as it pertains to matters of salvation: the perspicuity of Scripture. Let us reason and debate on matters of secondary importance. Let us unified as sons of God on matters of primary importance."
+
 ---
+
 ## The Text
 
 >John 6:30–46 (CSB)  

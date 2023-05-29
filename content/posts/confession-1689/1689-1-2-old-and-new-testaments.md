@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "And if you don't know your Bible well, you might be tempted to dismiss this altogether by saying, 'Well, the Bible contradict itself so what does it matter.' Let me consider that you, probably not a Biblical scholar, little to no knowledge of the ancient Biblical languages, are going to make such baseless claims not because you know (which you don't) but rather, is it, are you afraid of what is in this Bible might be true. Because if it is true, then you have to decide--do you want to live or do you want to die?"
+
 ---
+
 ## The Text
 
 >2 Timothy 3:16 - 4:5 (CSB) All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, so that the man of God may be complete, equipped for every good work.

@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "What is mind boggling about the Hebrew and the Greek manuscripts is that despite the minor differences and errors, no, none, zero primary and secondary doctrines were changed and affected. The gospel is always the gospel. Christ is still Christ. The Triune God is still Triune. Creeds are still the Creeds. Confessions (that came 1200 years after the Creeds) are still Confessional. You and I don't have to worry that we have missed something. We have God. We haven't missed a thing."
+
 ---
+
 ## The Text
 
 >Psalms 119:72 (CSB) Instruction from your lips is better for me than thousands of gold and silver pieces.
