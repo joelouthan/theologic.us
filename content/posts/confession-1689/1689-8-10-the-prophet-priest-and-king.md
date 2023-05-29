@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: ""
+
 ---
+
 ## The Text
 
 TODO:

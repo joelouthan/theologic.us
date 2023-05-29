@@ -14,6 +14,9 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "In the humanity of Christ, it could be easily not remembered that, in everything that Christ is, he is absolutely fully God. So within that, Christ, who is God, is eternal, immutable (does not change), impassible (without passions) and co-equal with Father and Spirit. Why is this so important?"
+
 ---
 
 <style>

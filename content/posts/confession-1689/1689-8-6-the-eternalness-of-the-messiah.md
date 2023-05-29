@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Our Lord who is all wise and all knowing and therefore is incapable of learning or discovering anything additional because he knows all things."
+
 ---
+
 ## The Text
 
 >Revelation 1:8 (CSB) “I am the Alpha and the Omega,” says the Lord God, “the one who is, who was, and who is to come, the Almighty.”

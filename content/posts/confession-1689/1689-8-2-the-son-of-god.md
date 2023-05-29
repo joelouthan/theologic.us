@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Since Christ was not born of Adam because he was conceived by the Holy Spirit, he did not get Adam's sinful nature. Christ alone was born into the world without sin. That is why is the Perfect Spotless Lamb of God. That is why his death is worthy to cleanse us from our sins."
+
 ---
+
 ## The Text
 
 >Matthew 1:21 (CSB) She will give birth to a son, and you are to name him Jesus, because he will save his people from their sins.”

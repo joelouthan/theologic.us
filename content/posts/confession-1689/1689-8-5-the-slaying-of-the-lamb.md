@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "And for the doctrine of atonement--that Christ died once for all time to cover the sins of his people and to satisfy the wrath of God--Latimer and Ridley were willing to die"
+
 ---
+
 ## The Text
 
 >Revelation 5:12-13 (CSB) They said with a loud voice,  

@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: ""
+
 ---
+
 ## The Text
 
 >Hebrews 9:15 (CSB) Therefore, he is the mediator of a new covenant, so that those who are called might receive the promise of the eternal inheritance, because a death has taken place for redemption from the transgressions committed under the first covenant.

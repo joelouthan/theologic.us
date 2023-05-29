@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "And because of the times in which I write this exposition, I must explicitly protest and contest the modern-day revival of the heresy we call the Eternal Subordination (or Submission) of the Son. Whatever you want to call it, my friend calls it heterodoxy because he is a gracious and kind man. I call it heresy because it stands in contrast to the Nicene and Athanasian Creeds."
+
 ---
+
 ## The Text
 
 >John 3:14-18 (CSB) “Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, so that everyone who believes in him may have eternal life. For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Anyone who believes in him is not condemned, but anyone who does not believe is already condemned, because he has not believed in the name of the one and only Son of God.
@@ -65,7 +69,7 @@ I have said often: ESS goes against the Creeds. In case you are not familiar, in
 
 I would love to exposit the Athanasian Creed, but that is another book for another day. The point I am driving here is that we **do not** have to re-toil the work of the relationship between the Father and the Son because we have over 2,000 years of Historical Orthodox Christianity to draw from. And the ESS heresy is not Orthodox Christianity.
 
-Our forefathers in the faith already did the hard work. Why would we replow the field when we are bountiful in their harvest?
+Our forefathers in the faith already did the hard work. Why would we re-plow the field when we are bountiful in their harvest?
 
 ### that which is proper to one nature is sometimes in Scripture, attributed to the person denominated by the other nature
 

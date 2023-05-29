@@ -14,7 +14,13 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The priests of old had to stand continuous for the work of cleansing the people from their sins was never ending. And, not only that, what they did only ceremoniously did so--those animal sacrifices didn't cleansed them once bit. What made all the people of God was their faith and trust in the Messiah.
+
+But Christ, the Priest forever, has sat down."
+
 ---
+
 ## The Text
 
 >Psalm 16 (CSB)  

@@ -14,6 +14,9 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The Bible never says the birth, the work, the cross, the resurrection, and the ascension of Christ made salvation possible."
+
 ---
 
 <style type="text/css">

@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "We have made a lot about the power and the ability and the will of God to save his people. But what can never be forgotten nor missed is that God wanted to save his people."
+
 ---
+
 ## The Text
 
 >1 John 4:10 (ESV) In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.
