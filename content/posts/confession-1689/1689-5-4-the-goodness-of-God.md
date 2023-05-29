@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "'Is God the author of sin?' But let us not be quick to forget and we need to be oft reminded: God is all powerful, all knowing, and holy, holy, holy. God is perfectly might, fullest of wisdom, and the only source of good. God is almighty power, unsearchable wisdom, and infinite goodness. To engage with such a titillating question of "God as author of sin?" to be aptly and forever reminder of who God is. There is no exception."
+
 ---
+
 ## The Text
 
 >Ephesians 3:14-21 (CSB) For this reason I kneel before the Father from whom every family in heaven and on earth is named. I pray that he may grant you, according to the riches of his glory, to be strengthened with power in your inner being through his Spirit, and that Christ may dwell in your hearts through faith. I pray that you, being rooted and firmly established in love, may be able to comprehend with all the saints what is the length and width, height and depth of God’s love, and to know Christ’s love that surpasses knowledge, so that you may be filled with all the fullness of God.

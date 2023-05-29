@@ -14,6 +14,9 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "God created the heavens and the earth. There is no contesting this among Christians. But what is might be contested is the idea that God is actively involved in the day to day affairs of the world. It is the oft debate of the neo-atheists that, if God exists, then surely he just created the world and let it go on its own as thought God is some sort of divine watchmaker who wound up the world like a clock."
+
 ---
 
 ## The Text

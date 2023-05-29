@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The God of details of all logistics of the providence. But what about the actions and events. We know that God is the first cause of all things and even when we sin against him, his first cause still caused the good and evil without being responsible for the sinful action of the rebels of God."
+
 ---
+
 ## The Text
 
 >Ephesians 1:9-10 (CSB) He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ as a plan for the right time — to bring everything together in Christ, both things in heaven and things on earth in him.

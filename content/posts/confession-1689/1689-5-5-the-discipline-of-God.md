@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The mystery of iniquity sometimes intertwines with the mystery of providence and of God's discipline. It is sometimes difficult to imagine that God would almost put us in harm's way when it comes to sin and danger in order to what? To test us? To discover what is in our hearts? To humble us? To make us more watchful against all future occasions of sin? To withdraw hidden sin in our hearts. Upon the examining of the Scriptures, the answer is clearly yes."
+
 ---
+
 ## The Text
 
 >2 Chronicles 7:14 (CSB) and my people, who bear my name, humble themselves, pray and seek my face, and turn from their evil ways, then I will hear from heaven, forgive their sin, and heal their land.

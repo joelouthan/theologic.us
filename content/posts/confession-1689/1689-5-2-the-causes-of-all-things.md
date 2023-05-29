@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "We have seen this His bringing about all of Creation. But what happens when sin breaks the world? Is the God still the first cause? Yes. Does everything he wants to happen, happen? Yes. Does everything he wants to happen, happen without fail? Yes. Does it happen without being altered or changed in anyway or failing in anyway? Yes."
+
 ---
+
 ## The Text
 
 >Romans 11:36 (CSB) For from him and through him  
