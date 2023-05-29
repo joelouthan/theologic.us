@@ -15,7 +15,7 @@ tocopen: true
 css: "prayers"
 draft: false
 
-description: "Your one misstep? Your millionth misstep? (It's me.) You can't get the will of God wrong because you don't dictate the will of God wrong. And miss me with that, "What if I choose sin?" Have you heard the gospel response when Adam and Eve introduced sin into our perfect universe? How did God ultimately answer that? Jesus Christ our Lord."
+description: "Your one misstep? Your millionth misstep? (It's me.) You can't get the will of God wrong because you don't dictate the will of God wrong. And miss me with that, 'What if I choose sin?' Have you heard the gospel response when Adam and Eve introduced sin into our perfect universe? How did God ultimately answer that? Jesus Christ our Lord."
 ---
 
 ## The Text
