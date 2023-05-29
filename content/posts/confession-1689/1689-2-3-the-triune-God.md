@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "And it was when Jesus Christ began his ministry on the earth that he massively unveils one of the greatest mysteries of the Old Testament, second only to how will God finally rescue his people. The answer to greatest mystery of the gospel of God in the OT is the Lord Jesus Christ. And with the revealing of the Lord Jesus Christ and the proclamation from his mouth, he reveals that God is three subsistences or three hypostases or three real beings: God the Father, God the Holy Spirit and himself, the Word, that is, God the Son."
+
 ---
+
 ## The Text
 
 >Matthew 28:16–20 (CSB) The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them. When they saw him, they worshiped, but some doubted. Jesus came near and said to them, **“All authority has been given to me in heaven and on earth. Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age.”**

@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "I am not sure if we, Christians, still believe this or not. But for the sake of covering my bases, let me state this. God does not need anything. And just so we are clear: God does not need us."
+
 ---
+
 ## The Text
 
 >Romans 11:33–36 (CSB)  
@@ -37,7 +41,7 @@ God, having all life, glory, goodness, blessedness, in and of himself, is alone 
 
 ### God, having all life, glory, goodness, blessedness, in and of himself, is alone in and unto himself
 
-I am not sure if we, Evangelicals, still believe this or not. But for the sake of covering my bases, let me state this.
+I am not sure if we, Christians, still believe this or not. But for the sake of covering my bases, let me state this.
 
 God does not need anything.
 

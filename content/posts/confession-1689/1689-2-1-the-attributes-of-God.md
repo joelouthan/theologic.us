@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "This is loaded chapter. Because right out out the gate, after solidifying the confessions on the Scriptures, we go right into answering the question: Who is God?"
+
 ---
+
 ## The Text
 
 >Psalm 97:9 (CSB) For you, LORD, are the Most High over the whole earth; you are exalted above all the gods.
