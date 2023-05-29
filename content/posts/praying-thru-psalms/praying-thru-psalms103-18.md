@@ -10,8 +10,12 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
+
+description: ""
+
 ---
+
 ## The Psalm
 
 >Psalm 103:18 (CSB) of those who keep his covenant, who remember to observe his precepts. 

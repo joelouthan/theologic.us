@@ -10,8 +10,12 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
+
+description: ""
+
 ---
+
 ## The Psalm
 
 >Psalm 103:15 (CSB) As for man, his days are like grass— he blooms like a flower of the field; 

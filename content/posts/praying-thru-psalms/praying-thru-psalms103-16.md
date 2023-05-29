@@ -10,8 +10,12 @@ series:
 - 'Praying Through: Psalms'
 showtoc: false
 css: "prayers"
-draft: true
+draft: false
+
+description: ""
+
 ---
+
 ## The Psalm
 
 >Psalm 103:16 (CSB) when the wind passes over it, it vanishes, and its place is no longer known. 
