@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-05-12-gospel-1timothy1-12-17.mp3"
     length: "42203565"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/pastorals.png'
   alt: "Source: Theologicus"
 ---
 

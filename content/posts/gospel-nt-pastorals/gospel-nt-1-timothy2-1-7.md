@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-06-02-gospel-1timothy2-1-7-trim.mp3"
     length: "48236597"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/pastorals.png'
   alt: "Source: Theologicus"
 ---
 

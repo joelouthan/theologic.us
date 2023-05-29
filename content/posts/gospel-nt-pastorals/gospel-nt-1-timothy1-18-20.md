@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-05-19-gospel-1timothy1-18-20.mp3"
     length: "63606001"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/pastorals.png'
   alt: "Source: Theologicus"
 ---
 

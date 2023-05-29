@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-06-09-gospel-1timothy2-8-15-001.mp3"
     length: "51611409"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/pastorals.png'
   alt: "Source: Theologicus"
 ---
 
