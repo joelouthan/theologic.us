@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-08-02-study-romans4-13-25.mp3"
     length: "41731480"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/romans.png'
   alt: "Source: Theologicus"
 ---
 
