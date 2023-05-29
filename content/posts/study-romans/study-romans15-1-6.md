@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "For those who are struggling with doubt, weakened by sin, destroyed by the sin of others, or simply overwhelmed by the world, this is where we get to weep with those who weep. It might be an encouraging word or a simple act of love. It might just sit and hang out in silence and not knowing what tomorrow holds but just the fact we know that we have each other and we are not alone."
 ---
+
 ## The Text
 
 >Romans 15:1–6 (CSB)  
