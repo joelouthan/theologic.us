@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "The judgment and the punishment and the everlasting wrath of the Son upon the wicked and the cursed and the damn is still to the praise of the glorious grace of God. Sin is what broke God's good creation. And in the end, it will be eradicated with extreme prejudice."
+
 ---
+
 ## The Text
 
 >1 Timothy 1:17 (CSB) Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever. Amen.

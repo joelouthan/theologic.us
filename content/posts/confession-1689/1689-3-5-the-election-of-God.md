@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "I have heard so many weird explanations from well-intended Christians try to do their best to explain away words like predestination and foreknew when it comes to God. We don’t have a frame for knowing before existing. We don’t have a mindset of loving before we were alive. But for the God was is from everlasting to everlasting, this is who he is and nothing more nor less."
+
 ---
+
 ## The Text
 
 >Isaiah 42:6–9 (CSB) “I am the LORD. I have called you for a righteous purpose, and I will hold you by your hand. I will watch over you, and I will appoint you to be a covenant for the people and a light to the nations, in order to open blind eyes, to bring out prisoners from the dungeon, and those sitting in darkness from the prison house. I am the LORD. That is my name, and I will not give my glory to another or my praise to idols. The past events have indeed happened. Now I declare new events; I announce them to you before they occur.”

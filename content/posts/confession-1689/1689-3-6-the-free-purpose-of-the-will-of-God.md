@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "It is this point, I want to jump on a table and yell, 'Have you not known!' No! We have not known because we don't know who is elect! Who all has God chosen? We don't know. Who has God chosen thus far? Ah, it is you and me because we believe in the Holy One of God."
+
 ---
+
 ## The Text
 
 >Romans 5:12 (CSB) Therefore, just as sin entered the world through one man, and death through sin, in this way death spread to all people, because all sinned.

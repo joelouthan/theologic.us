@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "So, what now Historical, orthodox Christianity has this wonderful, blessed doctrine of assurance for the Church since the Law was penned by Moses. The hubris of the modern age has a host of Christians assume that the predestination of God does not actually mean what God said it means. We have had to soften the edges a bit because predestination does not fit within our humanistic, secular, rationalist, experiential worldview, culture and defacto mindset. Somehow, someway we have to make it more palatable to the modern mind because our minds cannot fathom a God that has the absolute freedom of choice and we do not. It is inconceivable and a bit offensive if we are honest with ourselves."
+
 ---
+
 ## The Text
 
 >John 21:17 (CSB) He asked him the third time, “Simon, son of John, do you love me?” Peter was grieved that he asked him the third time, “Do you love me?” He said, “Lord, you know everything; you know that I love you.” “Feed my sheep,” Jesus said.
@@ -31,7 +35,7 @@ The doctrine of the high mystery of predestination is to be handled with special
 
 >1 Thessalonians 1:4-5 (CSB) For we know, brothers and sisters loved by God, that he has chosen you, because our gospel did not come to you in word only, but also in power, in the Holy Spirit, and with full assurance. You know how we lived among you for your benefit,
 
-So, what now.
+So, what now?
 
 Historical, orthodox Christianity has this wonderful, blessed doctrine of assurance for the Church since the Law was penned by Moses. The hubris of the modern age has a host of Christians assume that the predestination of God does not actually mean what God said it means. We have had to soften the edges a bit because predestination does not fit within our humanistic, secular, rationalist, experiential worldview, culture and defacto mindset. Somehow, someway we have to make it more palatable to the modern mind because our minds cannot fathom a God that has the absolute freedom of choice and we do not. It is inconceivable and a bit offensive if we are honest with ourselves.
 

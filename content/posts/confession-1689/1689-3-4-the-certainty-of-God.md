@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "We know that salvation is of the Lord. That means every facet of salvation--from election to calling to atonement to justification to adoption to sanctification to glorification is on the Lord alone."
+
 ---
+
 ## The Text
 
 >Luke 12:7 (CSB) Indeed, the hairs of your head are all counted. Don’t be afraid; you are worth more than many sparrows.

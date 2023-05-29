@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "It is one thing to read and observe the attributes of God which are just found in the previous chapter of the 1689 confession. And not to make little of who God is, the question begs, 'So what?' In other words, God is a being of all power, all knowing and wisdom, and ever present everywhere. What does a being like that do?"
+
 ---
+
 ## The Text
 
 >Ephesians 1:3–6 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One.
