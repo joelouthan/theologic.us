@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-09-30-study-genesis8-1-14.mp3"
     length: "56124741"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/genesis.png'
   alt: "Source: Theologicus"
 ---
 
