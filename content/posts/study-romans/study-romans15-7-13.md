@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Now that we are know absolute truth, now that the have heard the good news, repented, and believe in the Son of God, now that we have the indwelling of the Holy Spirit, now God is our Father in heaven, now that Jesus Christ is our Savior and Eldest brother, what is your response?"
 ---
+
 ## The Text
 
 >Romans 15:7–13 (CSB)  
