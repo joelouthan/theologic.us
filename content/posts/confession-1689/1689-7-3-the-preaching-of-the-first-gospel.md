@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Our original parents failed and fallen. They introduced sin into our existence and broke everything. The cosmos descends into ruins. Murder, rape, abuse, trauma, stealing, disobedience and a myriad of other negative words will become familiar in our world as the air we breath.  But our God was not phased by this. Not shook. Not scared. Not angry. Not frightened. He took his stand in the garden, stared Satan right between the eyes, and proclaimed defiantly, 'My Son is coming and he will smash your head.'"
+
 ---
+
 ## The Text
 
 >Ephesians 1:3-8 (CSB) Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavens in Christ. For he chose us in him, before the foundation of the world, to be holy and blameless in love before him. He predestined us to be adopted as sons through Jesus Christ for himself, according to the good pleasure of his will, to the praise of his glorious grace that he lavished on us in the Beloved One. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace that he richly poured out on us with all wisdom and understanding.

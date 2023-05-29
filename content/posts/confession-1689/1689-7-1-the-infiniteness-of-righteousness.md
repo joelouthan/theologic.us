@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "It is because of our fallen state and in sin, each child of Adam is wholly presumptuous that we, somehow, bridge an infinite gap between us and God. This sin in us clouds our judgment, keeps us blind, and fills us with hubris to fool ourselves that we are have done enough good not be damned to hell, that God grades on a curve because we are certainly not as bad as 'that guy', or worst yet, bet our entire existence on the asinine notion that there is no God."
+
 ---
+
 ## The Text
 
 >Psalms 97:9 (CSB) For you, LORD,  

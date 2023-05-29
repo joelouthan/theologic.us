@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "See what God has done for the world. Hear what God has proclaimed since the moment sin entered into the world. Reach out for this free gift of God!"
+
 ---
+
 ## The Text
 
 >Romans 6:23 (CSB) For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
