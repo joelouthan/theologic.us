@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Who is on your list? Who do you get to be thankful for? Take the moment right now to give thanks to God for them. And the next time you see them, greet them with a holy kiss and encourage them with the words of God."
 ---
+
 ## The Text
 
 >Romans 16 (CSB)  

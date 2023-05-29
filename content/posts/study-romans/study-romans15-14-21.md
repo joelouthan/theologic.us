@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "No one said preach a 30 minute sermon. No one said go and preach on street corners. Do you know some of the word? Share that word. Do you know how to pray for others? Pray for others. Can you give a little of your time and money and gifts? Give. You have God, you have everything because God has given us his Son."
 ---
+
 ## The Text
 
 >Romans 15:14–21 (CSB)  
