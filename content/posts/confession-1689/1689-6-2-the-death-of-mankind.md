@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Just as the Spirit of God left Adam--the one who held dominion over the earth--so too did the Spirit of God leave Saul--who held dominion over all of Israel. But in the same sense, when the King of kings, who now holds dominion all over creation,took on all of our sins upon the cross, his spirit left him."
+
 ---
+
 ## The Text
 
 >Romans 7:24 (CSB) What a wretched man I am! Who will rescue me from this body of death?

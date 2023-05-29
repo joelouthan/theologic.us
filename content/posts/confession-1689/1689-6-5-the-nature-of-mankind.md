@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "I cannot account for all of Christian history, but seemingly, especially in Evangelistic circles, the debate surrounding Romans 7:7-25. And the debate is attempting to answer this: In this passage, is Paul describing the Christian life, or is he describing the life of the unbeliever? The answer lies in verse 22."
+
 ---
+
 ## The Text
 
 >2 Corinthians 5:21 (CSB) He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God.

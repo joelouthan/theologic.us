@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Let me contend to you that God is giving the consequences of breaking his holy law because those are the consequences. In other words, God didn't make up a law and then randomly assigned a consequence to breaking said law. The breaking of his law is disobedience of the Holy and Eternal God. This is not a random, arbitrary consequence.God was telling us about sin and death from the beginning."
+
 ---
+
 ## The Text
 
 >Matthew 4:8-10 (CSB) Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor. And he said to him, “I will give you all these things if you will fall down and worship me.” Then Jesus told him, “Go away, Satan! For it is written: Worship the Lord your God, and serve only him.”

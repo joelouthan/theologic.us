@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "We, as humans, as the only sons of Adam, cannot hope on our best day, be able to approach the holy throne of God. We are infected, tinctured, shaped, molded, and developed in sin by sin."
+
 ---
+
 ## The Text
 
 >Genesis 6:5-6 (CSB) When the LORD saw that human wickedness was widespread on the earth and that every inclination of the human mind was nothing but evil all the time, the LORD regretted that he had made man on the earth, and he was deeply grieved.

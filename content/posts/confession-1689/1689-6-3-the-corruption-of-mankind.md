@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "There are too paths for mankind to proceed after sin entered the world: reproduce or die. There is no third option. Despite the brokenness of the world, there are some couples who have been blessed by God to have babies. But these babies born, since we are all born sons and daughters of Adam, have been conceived with indwelling sin."
+
 ---
+
 ## The Text
 
 >Titus 3:3 (CSB) For we too were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
