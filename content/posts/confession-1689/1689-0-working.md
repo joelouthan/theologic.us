@@ -14,6 +14,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Adopted by the Ministers and Messengers of the general assembly which met in London in 1689"
 ---
 
 ## Prelude
