@@ -14,7 +14,36 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0806"
+duration: "0:21:19"
+description: "What must I do to be saved?"
+mp3:
+    asset_link: "2021-08-06-devotions-mark2-1-12.mp3"
+    length: "33886595"
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Text
 
 >Mark 2:1-12 (CSB) When he entered Capernaum again after some days, it was reported that he was at home. So many people gathered together that there was no more room, not even in the doorway, and he was speaking the word to them. They came to him bringing a paralytic, carried by four of them. Since they were not able to bring him to Jesus because of the crowd, they removed the roof above him, and after digging through it, they lowered the mat on which the paralytic was lying. Seeing their faith, Jesus told the paralytic, “Son, your sins are forgiven.”

@@ -14,7 +14,36 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0720"
+duration: "0:12:14"
+description: "There are two ways of knowing this. One, in our heads but our hearts will either question it or deny it. Or two, we believe this to our core and we need God."
+mp3:
+    asset_link: "2021-07-20-devotions-mark2-13-17.mp3"
+    length: "18105919"
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Text
 
 >Mark 2:13-17 (CSB) Jesus went out again beside the sea. The whole crowd was coming to him, and he was teaching them. 14 Then, passing by, he saw Levi the son of Alphaeus sitting at the tax office, and he said to him, “Follow me,” and he got up and followed him.

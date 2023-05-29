@@ -14,7 +14,36 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "0813"
+duration: "0:13:54"
+description: "Is Jesus with us physically? Jesus is physically not here. He is with us in spirit along with the Father and the Holy Spirit. Also, he is in heaven ruling and reigning, personally mindful of us all and praying for each of us."
+mp3:
+    asset_link: "2021-08-13-devotions-mark2-18-22.mp3"
+    length: "20514618"
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Text
 
 >Mark 2:18-22 (CSB) Now John’s disciples and the Pharisees were fasting. People came and asked him, “Why do John’s disciples and the Pharisees’ disciples fast, but your disciples do not fast?”
