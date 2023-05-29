@@ -14,7 +14,36 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: "1112"
+duration: "0:21:19"
+description: "This being the case, then why don't the inhabitants of the earth bow and worship God? The oft-automatic answer to this from most American Christians is the answer of free will. When good-intended Christians give this pat answer, I suspect they do answer with a sense of mercy and grace for those who do not believe and obey God. Mercy and grace is kind and wonderful. But that isn't the correct answer at all. The real answer is sin--because we are born of Adam, we are born into sin and we continuously sin."
+mp3:
+    asset_link: "2021-11-12-devotions-mark4-35-41.mp3"
+    length: "31192012"
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Text
 
 >Mark 4:35–41 (CSB)  

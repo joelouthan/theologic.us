@@ -14,8 +14,37 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: ""
+duration: ""
+description: ""
+mp3:
+    asset_link: ""
+    length: ""
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
-## Introduction
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
+## The Introduction
 
 Jesus did all things with the fullness of the Spirit.
 

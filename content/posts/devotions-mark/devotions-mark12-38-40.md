@@ -14,7 +14,36 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: ""
+duration: ""
+description: ""
+mp3:
+    asset_link: ""
+    length: ""
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Text
 
 ><sup> 38 </sup> He also said in his teaching, “Beware of the scribes, who want to go around in long robes and who want greetings in the marketplaces, 

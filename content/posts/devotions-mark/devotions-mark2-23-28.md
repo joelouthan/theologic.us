@@ -14,7 +14,36 @@ cover:
 css: "prayers"
 showtoc: true
 draft: false
+
+episodes:
+  - "Mark"
+layout: episode
+eptype: full
+season: "2021"
+number: ""
+duration: ""
+description: ""
+mp3:
+    asset_link: ""
+    length: ""
+image: 
+  url: '/images/banners/mark.png'
+  alt: "Source: Theologicus"
 ---
+
+## The Audio
+
+<figure>
+    <figcaption>Listen to {{< title >}}</figcaption>
+    <audio
+        controls
+        src="{{< download_url >}}{{< asset_link >}}">
+            <a href="{{< download_url >}}{{< asset_link >}}">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 ## The Text
 
 >Mark 2:23-28 (CSB) On the Sabbath he was going through the grainfields, and his disciples began to make their way, picking some heads of grain. 24 The Pharisees said to him, “Look, why are they doing what is not lawful on the Sabbath?”
