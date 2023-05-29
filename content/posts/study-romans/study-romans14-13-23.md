@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Let me put it this way: you can't control other people. I know that might come as a shock. But the moment that you grasp the truth and the moment you know that the Spirit alone convicts us of sin, then moment you are living the freedom of the glory of the children of God. Amen."
 ---
+
 ## The Text
 
 >Romans 14:13–23 (CSB)  
