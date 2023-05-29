@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "To say God created the world or us out of the overflow of his love is selling God short. It is here that the 1689 rightfully says that it pleased the Triune God to speak the creation into existence. Why did the Father, Son, and Spirit created the heavens and earth? Because it pleased him. It was his will. It was his desire. It was his pleasure. Why for?"
+
 ---
+
 ## The Text
 
 >Genesis 1:1-2 (CSB) In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness covered the surface of the watery depths, and the Spirit of God was hovering over the surface of the waters.

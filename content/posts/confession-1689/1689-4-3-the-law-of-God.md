@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "This is what we call the Covenant of Works. The covenant of God to Adam, 'do this and you shall live' was in perpetuity. So long as both God and Adam held up the covenant, we would enjoy the benefits of the covenant forever: live in perfection, righteousness, holiness, love, worship--in perfect community--unto God forever. And in addition, we would hold complete dominion over all the creatures of the earth."
+
 ---
+
 ## The Text
 
 >Romans 2:14-16 (CSB) So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law. They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them on the day when God judges what people have kept secret, according to my gospel through Christ Jesus.

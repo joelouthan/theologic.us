@@ -14,7 +14,11 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Mankind. Human. These are the only creation of God that carries the title, 'imagebearers of God'. In other words, we are made to look like him. And it pleased the Father, Son, and Spirit for the manifestation of the glory of his eternal power, wisdom, and goodness to create mankind in his image and from the start, created us two genders, male and female."
+
 ---
+
 ## The Text
 
 >Romans 1:20 (CSB) For his invisible attributes, that is, his eternal power and divine nature, have been clearly seen since the creation of the world, being understood through what he has made. As a result, people are without excuse.
