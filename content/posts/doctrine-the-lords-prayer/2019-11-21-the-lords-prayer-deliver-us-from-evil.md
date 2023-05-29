@@ -26,7 +26,7 @@ mp3:
     asset_link: "2021-08-03-doctrine-prayer-james1-13-15.mp3"
     length: "41063791"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

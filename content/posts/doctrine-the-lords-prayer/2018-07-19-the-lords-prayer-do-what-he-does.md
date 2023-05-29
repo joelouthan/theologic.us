@@ -27,7 +27,7 @@ mp3:
     asset_link: "2021-06-08-doctrine-prayer-ezekiel11-19-20.mp3"
     length: "59214295"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

@@ -26,7 +26,7 @@ mp3:
     asset_link: "2021-06-22-doctrine-prayer-isaiah-6.mp3"
     length: "35981825"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

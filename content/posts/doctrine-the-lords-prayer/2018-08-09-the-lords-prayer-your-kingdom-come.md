@@ -26,7 +26,7 @@ mp3:
     asset_link: "2021-06-29-doctrine-prayer-matthew-16.mp3"
     length: "39048182"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

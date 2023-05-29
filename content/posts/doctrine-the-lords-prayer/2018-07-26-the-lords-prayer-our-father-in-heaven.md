@@ -27,7 +27,7 @@ mp3:
     asset_link: "20210615-doctrine-romans8-14-17.mp3"
     length: "52077632"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

@@ -26,7 +26,7 @@ mp3:
     asset_link: "2021-07-06-doctrine-prayer-ephesians1-11-14.mp3"
     length: "21250644"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

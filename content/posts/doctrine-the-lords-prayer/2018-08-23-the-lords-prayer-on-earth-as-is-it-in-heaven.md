@@ -26,7 +26,7 @@ mp3:
     asset_link: "2021-07-13-doctrine-prayer-psalms73.mp3"
     length: "52881587"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 

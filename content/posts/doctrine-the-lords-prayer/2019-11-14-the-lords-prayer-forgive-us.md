@@ -28,7 +28,7 @@ mp3:
     asset_link: "2021-07-26-doctrine-prayer-luke23-32-34.mp3"
     length: "30472914"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 
