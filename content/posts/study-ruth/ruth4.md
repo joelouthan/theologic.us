@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "questions"
 draft: false
+
+description: "Matthew 1:5–6a (CSB) Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, Obed fathered Jesse, and Jesse fathered King David."
 ---
+
 ## The Text
 
 >Ruth 4 (CSB)  

@@ -14,6 +14,8 @@ cover:
 tocopen: true
 css: "prayers"
 draft: false
+
+description: "Just to show that this was God's plan all along, we have the story of Ruth. Ruth is young Moabite widow, whose people originated with incest and continued into the demonic worship of the Moabite god, Chemosh, brings her to a figurative fork in the road: one leading back to her old way of life or one leading her into unfamiliar path of salvation."
 ---
 
 >Matthew 1:5–6a (CSB) Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, Obed fathered Jesse, and Jesse fathered King David.

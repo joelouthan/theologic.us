@@ -14,6 +14,8 @@ cover:
 tocopen: true
 css: "questions"
 draft: false
+
+description: "This is the shrewdness of God: he alone knows the ends from the beginning. Christ's death on the cross was not a reaction to the sin that already happened. He knew that his creation was going to break. But instead of uncreating, wiping, starting over fresh or just undoing everything, Christ chose to redeem his creation. He chose to redeem us."
 ---
 
 ## The Text

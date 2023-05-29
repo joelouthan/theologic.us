@@ -14,6 +14,8 @@ cover:
 tocopen: true
 css: "questions"
 draft: false
+
+description: "God has called us to be faithful. But dear Christian, know that he has not called us to do anything that he has not already provided for. Naomi and Ruth need provision. Not just any provision--more so than just a place to sleep. They need a home that is more than a building. They need the family of God. They need one another. We need one another."
 ---
 
 ## The Text

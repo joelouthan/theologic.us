@@ -14,7 +14,10 @@ cover:
 tocopen: true
 css: "questions"
 draft: false
+
+description: "The Bible is all about Jesus Christ. As it has been said famously before, 'Old Testament is Christ concealed while the New Testament is Christ revealed.' In other words, the story of Ruth is about Christ. The story of Ruth is not about how a single girl can get her future husband."
 ---
+
 ## The Text
 
 >Ruth 1:1-7 (CSB)  
