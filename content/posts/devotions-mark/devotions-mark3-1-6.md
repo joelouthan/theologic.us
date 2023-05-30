@@ -20,12 +20,12 @@ episodes:
 layout: episode
 eptype: full
 season: "2021"
-number: ""
-duration: ""
-description: ""
+number: "0827"
+duration: "0:18:02"
+description: "Faith, which is a gift from God, brings the love and salvation of God"
 mp3:
-    asset_link: ""
-    length: ""
+    asset_link: "2021-08-27-devotions-mark3-1-6.mp3"
+    length: "34033299"
 image: 
   url: '/images/banners/mark.png'
   alt: "Source: Theologicus"

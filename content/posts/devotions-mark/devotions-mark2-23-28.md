@@ -20,12 +20,12 @@ episodes:
 layout: episode
 eptype: full
 season: "2021"
-number: ""
-duration: ""
-description: ""
+number: "0820"
+duration: "0:18:02"
+description: "Did God rest?"
 mp3:
-    asset_link: ""
-    length: ""
+    asset_link: "2021-08-20-devotions-mark2-23-28.mp3"
+    length: "26456744"
 image: 
   url: '/images/banners/mark.png'
   alt: "Source: Theologicus"
