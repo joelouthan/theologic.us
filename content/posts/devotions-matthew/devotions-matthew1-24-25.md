@@ -9,9 +9,14 @@ tags:
   - "Matthew"
 series:
   - "Devotions: Matthew"
+cover:
+  image: '/images/banners/matthew.png'
 tocopen: true
 css: "prayers"
 draft: false
+
+description: ""
+
 ---
 
 ## The Text
