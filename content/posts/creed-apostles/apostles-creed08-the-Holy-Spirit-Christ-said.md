@@ -14,7 +14,7 @@ tocopen: true
 css: "prayers"
 draft: false
 
-description: "In Evangelicalism, there are usually two perspectives of Christians. Either, there has been too little taught about the Holy Spirit and on the other, there has been too much said about the Holy Spirit. Both are usually overcorrections and more often than not, a great deal of harm to Evangelical theology as a whole.. But may I submit that we should go to Someone who has been with the Spirit from before the beginning. Let us examine what Christ has said about the Holy Spirit."
+description: "In Evangelicalism, there are usually two perspectives of Christians. Either, there has been too little taught about the Holy Spirit and on the other, there has been too much said about the Holy Spirit. Both are usually over-corrections and more often than not, a great deal of harm to Evangelical theology as a whole. But may I submit that we should go to Someone who has been with the Spirit from before the beginning. Let us examine what Christ has said about the Holy Spirit."
 
 ---
 
