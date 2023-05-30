@@ -8,9 +8,14 @@ tags:
   - "Psalms"
 series:
 - 'Praying Through: Psalms'
-showtoc: false
+cover:
+  image: '/images/banners/psalms.png'
+tocopen: true
 css: "prayers"
 draft: false
+
+description: ""
+
 ---
 ## The Psalm
 
