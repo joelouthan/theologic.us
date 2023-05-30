@@ -8,8 +8,14 @@ tags:
   - Luke
 series:
   - 'Devotions: Luke'
+cover:
+  image: '/images/banners/luke.png'
+tocopen: true
 css: "prayers"
 draft: false
+
+description: ""
+
 ---
 
 ## 🏠Luke 8:1-3

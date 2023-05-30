@@ -9,8 +9,14 @@ tags:
   - Luke
 series:
   - 'Devotions: Luke'
+cover:
+  image: '/images/banners/luke.png'
+tocopen: true
 css: "prayers"
 draft: false
+
+description: ""
+
 ---
 *Updated: January 30, 2022 - Fixed formatting, links, images, and order of preference. -Ed.*
 
