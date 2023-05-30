@@ -1,7 +1,7 @@
 ---
 title: "What Do We Believe: The Holy Spirit as Taught by Christ"
 author: Joseph Louthan
-publishDate: 2023-05-31
+publishDate: 2023-05-30
 categories:
   - Creeds
 tags:
