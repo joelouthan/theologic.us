@@ -1,7 +1,7 @@
 ---
 title: "Study: Ruth 4 God Brings Us All The Way Home"
 author: Joseph Louthan
-publishDate: 2023-04-14
+publishDate: 2023-06-14
 categories:
   - Commentaries
   - Study
