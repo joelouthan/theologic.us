@@ -20,12 +20,12 @@ episodes:
 layout: episode
 eptype: full
 season: "2021"
-number: ""
-duration: ""
-description: ""
+number: "0917"
+duration: "0:25:59"
+description: "Why is Christ the only authority on the spiritual? Because He alone is God."
 mp3:
-    asset_link: ""
-    length: ""
+    asset_link: "2021-09-17-devotions-mark3-28-30.mp3"
+    length: "37917185"
 image: 
   url: '/images/banners/mark.png'
   alt: "Source: Theologicus"

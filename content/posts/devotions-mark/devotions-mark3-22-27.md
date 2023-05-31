@@ -20,12 +20,12 @@ episodes:
 layout: episode
 eptype: full
 season: "2021"
-number: ""
-duration: ""
-description: ""
+number: "0910"
+duration: "0:16:23"
+description: "For his people and his people alone, he has come to bring peace within us. No matter what goes on in this post-Genesis 3 world and no matter what afflictions and persecution we might face, we will be okay because we will have God."
 mp3:
-    asset_link: ""
-    length: ""
+    asset_link: "2021-09-10-devotions-mark3-20-27.mp3"
+    length: "24081273"
 image: 
   url: '/images/banners/mark.png'
   alt: "Source: Theologicus"

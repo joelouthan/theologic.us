@@ -20,12 +20,12 @@ episodes:
 layout: episode
 eptype: full
 season: "2021"
-number: ""
-duration: ""
-description: ""
+number: "0903"
+duration: "0:14:03"
+description: "Christ was no ordinary man who did a bunch of great and even supernatural things. Christ is the Son of God who was God. And while he was here ministering on earth, he was filled with the Holy Spirit."
 mp3:
-    asset_link: ""
-    length: ""
+    asset_link: "2021-09-03-devotions-mark3-6-21.mp3"
+    length: "20724643"
 image: 
   url: '/images/banners/mark.png'
   alt: "Source: Theologicus"
@@ -52,7 +52,7 @@ We have read where Jesus heals, prays, accepts sinners, forgive sinners, heals h
 
 But Christ was no ordinary man who did a bunch of great and even supernatural things. Christ is the Son of God who was God. And while he was here ministering on earth, he was filled with the Holy Spirit.
 
-But did Christ come on his own. No. He didn't minister on his own. But he did not come on his own. 
+But did Christ come on his own? No. He didn't minister on his own. But he did not come on his own. 
 
 The Father, our Father in Heaven, sent Christ here. And it wasn't a casual vacation. It was a mission not to heal a bunch of people, rebuke legalists, or even to preach the gospel--although, Christ did all of that and then some.
 

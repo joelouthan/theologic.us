@@ -20,12 +20,12 @@ episodes:
 layout: episode
 eptype: full
 season: "2021"
-number: ""
-duration: ""
-description: ""
+number: "0924"
+duration: "0:21:57"
+description: "Toughest news: those who believe in Christ have far less relationally with family members who do not believe in Christ. Good news: because Christ has saved us from our sins, we are now chosen and adopted by God"
 mp3:
-    asset_link: ""
-    length: ""
+    asset_link: "2021-09-24-devotions-mark3-31-35.mp3"
+    length: "32110478"
 image: 
   url: '/images/banners/mark.png'
   alt: "Source: Theologicus"
@@ -59,15 +59,11 @@ image:
 
 ## The Devotion
 
-### Toughest news: if some family obey Christ and some don't, they have less in common than Christians do
+### Toughest news: those who believe in Christ have far less relationally with family members who do not believe in Christ.
 
->Matthew 10:32-39 (CSB) “Therefore, everyone who will acknowledge me before others, I will also acknowledge him before my Father in heaven. 33 But whoever denies me before others, I will also deny him before my Father in heaven. 34 Don’t assume that I came to bring peace on the earth. I did not come to bring peace, but a sword. 35 For I came to turn
-a man against his father,
-a daughter against her mother,
-a daughter-in-law against her mother-in-law;
-36 and a man’s enemies will be
-the members of his household.
-37 The one who loves a father or mother more than me is not worthy of me; the one who loves a son or daughter more than me is not worthy of me. 38 And whoever doesn’t take up his cross and follow me is not worthy of me. 39 Anyone who finds his life will lose it, and anyone who loses his life because of me will find it.
+>Matthew 10:32–39 (CSB) “Therefore, everyone who will acknowledge me before others, I will also acknowledge him before my Father in heaven. But whoever denies me before others, I will also deny him before my Father in heaven. Don’t assume that I came to bring peace on the earth. I did not come to bring peace, but a sword. For I came to turn a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law; and a man’s enemies will be the members of his household. The one who loves a father or mother more than me is not worthy of me; the one who loves a son or daughter more than me is not worthy of me. And whoever doesn’t take up his cross and follow me is not worthy of me. Anyone who finds his life will lose it, and anyone who loses his life because of me will find it.
+
+
 
 ### Good news: because Christ saved us from our sins, he has inherited the world
 
