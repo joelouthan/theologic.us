@@ -19,11 +19,24 @@ description: "Right from the get go Page 1, Book 1, Chapter 1, Verse 1: Genesis 
 
 ## The Creed
 
-```text
-the Creator of heaven and earth
-```
-
-<div style="page-break-after: always;"></div>
+>>I believe in God, the Father Almighty,  
+>>**the Creator of heaven and earth,**  
+>>and in Jesus Christ, His only Son, our Lord:  
+>>Who was conceived of the Holy Spirit,  
+>>born of the Virgin Mary,  
+>>suffered under Pontius Pilate,  
+>>was crucified, died, and was buried.  
+>>He descended into hell.  
+>>  
+>>The third day He arose again from the dead.  
+>>He ascended into heaven and sits at the right hand of God the Father Almighty,  
+>>whence He shall come to judge the living and the dead.  
+>>  
+>>I believe in the Holy Spirit, the holy catholic church,  
+>>the communion of saints, the forgiveness of sins,  
+>>the resurrection of the body, and life everlasting.  
+>>  
+>>Amen.
 
 ## The Word
 
@@ -33,9 +46,6 @@ the Creator of heaven and earth
 ><sup>2</sup> Before the mountains were born, before you gave birth to the earth and the world, from eternity to eternity, you are God. 
 
 ><sup>3</sup> You return mankind to the dust, saying, “Return, descendants of Adam.”
-
-
-<div style="page-break-after: always;"></div>
 
 ## The Belief
 

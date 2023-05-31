@@ -19,18 +19,28 @@ description: "Not when Christ lived on the earth. Not when he was resurrected. B
 
 ## The Creed
 
-```text
-was crucified, died, and was buried.
-He descended into hell.
-```
-
-<div style="page-break-after: always;"></div>
+>>I believe in God, the Father Almighty,  
+>>the Creator of heaven and earth,  
+>>and in Jesus Christ, His only Son, our Lord:  
+>>Who was conceived of the Holy Spirit,  
+>>born of the Virgin Mary,  
+>>suffered under Pontius Pilate,  
+>>**was crucified, died, and was buried.**  
+>>**He descended into hell.**  
+>>  
+>>The third day He arose again from the dead.  
+>>He ascended into heaven and sits at the right hand of God the Father Almighty,  
+>>whence He shall come to judge the living and the dead.  
+>>  
+>>I believe in the Holy Spirit, the holy catholic church,  
+>>the communion of saints, the forgiveness of sins,  
+>>the resurrection of the body, and life everlasting.  
+>>  
+>>Amen.
 
 ## The Word
 
 >1 Corinthians 1:21–25 (CSB) For since, in God’s wisdom, the world did not know God through wisdom, God was pleased to save those who believe through the foolishness of what is preached. **For the Jews ask for signs and the Greeks seek wisdom, but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles.** Yet to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God, because God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength.
-
-<div style="page-break-after: always;"></div>
 
 ## The Belief
 

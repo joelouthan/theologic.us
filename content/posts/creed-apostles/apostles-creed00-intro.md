@@ -57,13 +57,9 @@ the resurrection of the body, and life everlasting.
 Amen.
 ```
 
-<div style="page-break-after: always;"></div>
-
 ## The Word
 
 >Matthew 24:24-25 (CSB) For false messiahs and false prophets will arise and perform great signs and wonders to lead astray, if possible, even the elect. Take note: I have told you in advance.
-
-<div style="page-break-after: always;"></div>
 
 ## The Belief
 
