@@ -73,6 +73,10 @@ description: "Matthew 1:5–6a (CSB) Salmon fathered Boaz by Rahab, Boaz fathere
 
 ## The Gospel
 
+---
+
+<div style="page-break-after: always;"></div>
+
 ## Our Response
 
 ## The Resources
