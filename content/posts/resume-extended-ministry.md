@@ -4,7 +4,7 @@ author: Joseph Louthan
 publishDate: 2022-06-25
 url: /ministry-resume-extended/
 index: false
-draft: false
+draft: true
 css: "home-devos"
 tocopen: false
 ---
