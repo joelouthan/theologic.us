@@ -95,7 +95,31 @@ Stop me when you've heard this before. God slays an animal and clothes us with w
 
 Yet, Christ takes on humanity. Now you have two wills of Christ. But in the two wills, divine and humanity, both reside in the one Jesus Christ. The divine of Christ was going to carry out what God does because Christ is God. But the human will of Christ will also carry out and fulfill the covenant of works because Adam failed to do so.
 
-When we see the will of Christ, you must distinguished, "Is this the divine or human will of the Son?" But do not worry if you get it right--distinguishing is not a test of faith. Just know that you are in Christ and because he perfectly obeyed the covenant of works, you are saved.
+In the sharpest contrast, how Christ models this is exactly what is going on in us. When Christ put on flesh, he had two wills and two desires. The difference between Christ has us is that his wills were in submission to the Holy God. While the Spirit bears witness with our Spirit that we are children of God, our flesh is still at war with our spirit on this side of heaven.
+
+>Romans 7:18-20 (CSB) For I know that nothing good lives in me, that is, in my flesh. For the desire to do what is good is with me, but there is no ability to do it. For I do not do the good that I want to do, but I practice the evil that I do not want to do. Now if I do what I do not want, I am no longer the one that does it, but it is the sin that lives in me.
+
+How do we know we are in Christ with this war waging inside of us?
+
+>Romans 7:22 (CSB) For in my inner self I delight in God’s law,
+
+Listen to me: unbelievers do not delight in God's law. They do not want to obey God's law. For:
+
+>Romans 8:7-8 (CSB) The mindset of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so. Those who are in the flesh cannot please God.
+
+Okay. But we still struggle. We still sin. 
+
+>Romans 7:23-24 (CSB) but I see a different law in the parts of my body, waging war against the law of my mind and taking me prisoner to the law of sin in the parts of my body. What a wretched man I am! Who will rescue me from this body of death?
+
+Who is going to rescue me from this body of death and sin? The only answer is the only Man whose both divine and human will was in perfect submission to the Father. That is Christ Jesus our Lord.
+
+>Romans 7:25 (CSB) Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.
+
+When we see the will of Christ, you must distinguished, "Is this the divine or human will of the Son?" But do not worry if you get it right--distinguishing is not a test of faith. Just know that you are in Christ and because he perfectly obeyed the covenant of works, you are saved. And because of what Christ has done, you have zero condemnation coming your way.
+
+>Romans 8:1-2 (CSB) Therefore, there is now no condemnation for those in Christ Jesus, because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death.
+
+Praise be to God!
 
 ## The Resources
 
