@@ -9,6 +9,7 @@ tags:
   - Soteriology
 series:
   - Thanksgiving
+draft: true
 
 ---
 John 14:18-21

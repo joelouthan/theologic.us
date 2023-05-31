@@ -9,6 +9,7 @@ tags:
   - Soteriology
 series:
   - Thanksgiving
+draft: true
 
 ---
 Isaiah 64:6

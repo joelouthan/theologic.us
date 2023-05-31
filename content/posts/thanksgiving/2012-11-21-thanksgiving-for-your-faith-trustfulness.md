@@ -9,6 +9,7 @@ tags:
   - Soteriology
 series:
   - Thanksgiving
+draft: true
 
 ---
 Genesis 24:27

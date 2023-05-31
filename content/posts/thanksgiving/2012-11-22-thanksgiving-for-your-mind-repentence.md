@@ -9,6 +9,7 @@ tags:
   - Soteriology
 series:
   - Thanksgiving
+draft: true
 
 ---
 Numbers 23:19

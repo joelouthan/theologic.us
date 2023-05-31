@@ -9,6 +9,7 @@ tags:
   - Soteriology
 series:
   - Thanksgiving
+draft: true
 
 ---
 Leviticus 18:24-22:31

@@ -5,6 +5,11 @@ date: 2012-11-12
 categories:
   - Doxology
   - Scriptures
+tags:
+  - Soteriology
+series:
+  - Thanksgiving
+draft: true
 
 ---
 Genesis 3:15

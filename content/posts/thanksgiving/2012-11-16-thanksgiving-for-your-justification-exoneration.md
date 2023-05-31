@@ -9,7 +9,9 @@ tags:
   - Soteriology
 series:
   - Thanksgiving
+draft: true
 
+---
 ---
 Psalm 51:4
   
