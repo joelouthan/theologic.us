@@ -3,7 +3,7 @@
 ## finished manuscripts
 
 [The Gospel of Mark](https://theologic.us/series/devotions-mark/)  
-[The Pastoral Epistles](https://theologic.us/series/gospel-nt-pastorals/)
+[The Pastoral Epistles](https://theologic.us/series/gospel-nt-pastorals/)  
 [The Epistle to the Church in Rome](https://theologic.us/series/study-romans/)
 
 ## writing using
