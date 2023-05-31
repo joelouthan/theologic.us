@@ -8,21 +8,21 @@
     "workbench.colorCustomizations": {
       "activityBar.activeBackground": "#fce64128",
       "activityBar.background": "#fce64128",
-      "activityBar.foreground": "#ffffff",
-      "activityBar.inactiveForeground": "#ffffff",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
       "activityBarBadge.background": "#029d8b",
       "activityBarBadge.foreground": "#e7e7e7",
-      "commandCenter.border": "#ffffff",
+      "commandCenter.border": "#15202b99",
       "sash.hoverBorder": "#fce64128",
       "statusBar.background": "#fbdf0f28",
-      "statusBar.foreground": "#ffffff",
+      "statusBar.foreground": "#15202b",
       "statusBarItem.hoverBackground": "#d3bb0428",
       "statusBarItem.remoteBackground": "#fbdf0f28",
-      "statusBarItem.remoteForeground": "#ffffff",
+      "statusBarItem.remoteForeground": "#15202b",
       "titleBar.activeBackground": "#fbdf0f28",
-      "titleBar.activeForeground": "#ffffff",
+      "titleBar.activeForeground": "#15202b",
       "titleBar.inactiveBackground": "#fbdf0f99",
-      "titleBar.inactiveForeground": "#ffffff"
+      "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#fbdf0f28",
     "githubPullRequests.ignoredPullRequestBranches": [
