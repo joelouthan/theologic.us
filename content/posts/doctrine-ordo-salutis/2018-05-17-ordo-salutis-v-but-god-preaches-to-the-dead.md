@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 ## The Introduction
 

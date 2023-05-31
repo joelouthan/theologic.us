@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 >Psalm 97:9 (CSB) For you, LORD, are the Most High over the whole earth; you are exalted above all the gods.
 

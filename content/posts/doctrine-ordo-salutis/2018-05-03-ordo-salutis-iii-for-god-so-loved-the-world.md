@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 Now that we have established who we are in the sight of God, let us tackle the bigger, nay impossible question:
 

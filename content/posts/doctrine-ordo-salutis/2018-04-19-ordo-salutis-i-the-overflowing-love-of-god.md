@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 To proclaim ourselves as Christians is to proclaim that we believe and trust upon Christ as our Saviour and Lord.
 

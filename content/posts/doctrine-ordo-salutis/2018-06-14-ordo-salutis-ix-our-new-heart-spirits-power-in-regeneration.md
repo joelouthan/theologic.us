@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 When God saved us from eternity past, His saving work was not finished when Christ lived, died, buried, and rose again, as though there is nothing for him for his people.
 

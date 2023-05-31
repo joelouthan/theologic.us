@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 We have fully established that we are not fully alive despite being biologically alive. Throughout the Bible, starting in Genesis 2, God states that sin separates the soul of man from the spirit of God. And without God, we are dead.
 

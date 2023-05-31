@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 Many people tried to say that the God of the Old Testament and the God of the New Testament are completely two different gods. 
 

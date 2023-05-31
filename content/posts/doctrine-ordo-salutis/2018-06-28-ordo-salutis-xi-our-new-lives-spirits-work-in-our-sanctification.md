@@ -13,7 +13,8 @@ cover:
   image: '/images/banners/ordo.png'
 showtoc: false
 css: "prayers"
-draft: false
+draft: true
+
 ---
 >Isaiah 48:9–11 (CSB)  
 ><sup> 9 </sup> I will delay my anger for the sake of my name, and I will restrain myself for your benefit and for my praise, so that you will not be destroyed. 
