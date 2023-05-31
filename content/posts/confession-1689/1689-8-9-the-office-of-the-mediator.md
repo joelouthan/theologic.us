@@ -33,6 +33,14 @@ This office of mediator between God and man is proper only to Christ, who is the
 
 >1 Timothy 2:5 (CSB) For there is one God and one mediator between God and mankind, the man Christ Jesus,
 
+In recent times, from usually Christians, will balk at the audacity of the preached word. Here is what I mean. If the preacher dares to declare, "This is what the word of God says!", sometimes the listener will either retort, debate, reject or downright ignore.
+
+And to be honest, I see their point. We have so many preachers and teachers who have mishandled the word of God, used the Scriptures for their own ill-gotten gains, and wrap up their gross sin by aptly declaring, "this is the word of God declares", and secretly hoping you don't read the word of God for yourself and you don't test every prophecy (1 Thessalonians 5:20-21).
+
+What is true about false teachers now is always been true since Genesis 3. False shepherds, exactly like their father, Satan, will not outright deny the Bible but in fact, twist it in order to deceive you. Unless these false preachers repent of their wickedness, they will burn in hell. And they, like their father Satan, will try to hurt the children of God along the way.
+
+
+
 ## The Resources
 
 <img src="/images/resources/dnd-1689-site-logo.png" align="left" width="100" style="padding-right: 10px" />Site: [Doctrine & Devotion](http://www.doctrineanddevotion.com/)  
