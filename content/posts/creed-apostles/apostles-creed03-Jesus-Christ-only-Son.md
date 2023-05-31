@@ -30,6 +30,13 @@ image:
   alt: "Source: Theologicus"
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Audio
 
 <figure>
@@ -47,7 +54,7 @@ image:
 
 >>I believe in God, the Father Almighty,  
 >>the Creator of heaven and earth,  
->>**and in Jesus Christ, His only Son, our Lord:**  
+>><bgy> **and in Jesus Christ, His only Son, our Lord** </bgy>:  
 >>Who was conceived of the Holy Spirit,  
 >>born of the Virgin Mary,  
 >>suffered under Pontius Pilate,  

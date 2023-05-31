@@ -17,10 +17,17 @@ draft: false
 description: "Right from the get go Page 1, Book 1, Chapter 1, Verse 1: Genesis 1:1 In the beginning God created the heavens and the earth."
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Creed
 
 >>I believe in God, the Father Almighty,  
->>**the Creator of heaven and earth,**  
+>><bgy> **the Creator of heaven and earth,** </bgy>  
 >>and in Jesus Christ, His only Son, our Lord:  
 >>Who was conceived of the Holy Spirit,  
 >>born of the Virgin Mary,  

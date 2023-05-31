@@ -17,6 +17,13 @@ draft: false
 description: "Not when Christ lived on the earth. Not when he was resurrected. But Christ, Son of God, who is God, died on that cross in Golgotha, that was the precise moment that the sins for his people--past, present, and future--were all taken away forever. And therefore his people, that's you and me, were made righteous in the sight of God."
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Creed
 
 >>I believe in God, the Father Almighty,  
@@ -25,8 +32,8 @@ description: "Not when Christ lived on the earth. Not when he was resurrected. B
 >>Who was conceived of the Holy Spirit,  
 >>born of the Virgin Mary,  
 >>suffered under Pontius Pilate,  
->>**was crucified, died, and was buried.**  
->>**He descended into hell.**  
+>><bgy> **was crucified, died, and was buried.** </bgy>  
+>><bgy> **He descended into hell.** </bgy>  
 >>  
 >>The third day He arose again from the dead.  
 >>He ascended into heaven and sits at the right hand of God the Father Almighty,  

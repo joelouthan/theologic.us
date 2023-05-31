@@ -17,6 +17,13 @@ draft: false
 description: "I believe in God."
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Creed
 
 >>I believe in God, the Father Almighty,  

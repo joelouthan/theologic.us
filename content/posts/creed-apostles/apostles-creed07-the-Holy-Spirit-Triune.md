@@ -18,6 +18,13 @@ description: "So much has been said and written and preached about the Holy Spir
 
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Creed
 
 >>I believe in God, the Father Almighty,  
@@ -33,7 +40,7 @@ description: "So much has been said and written and preached about the Holy Spir
 >>He ascended into heaven and sits at the right hand of God the Father Almighty,  
 >>whence He shall come to judge the living and the dead.  
 >>  
->>**I believe in the Holy Spirit**, the holy catholic church,  
+>><bgy> **I believe in the Holy Spirit** </bgy>, the holy catholic church,  
 >>the communion of saints, the forgiveness of sins,  
 >>the resurrection of the body, and life everlasting.  
 >>  

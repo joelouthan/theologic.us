@@ -17,6 +17,13 @@ draft: false
 description: "Go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God."
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Creed
 
 >>I believe in God, the Father Almighty,  
@@ -28,9 +35,9 @@ description: "Go to my brothers and tell them that I am ascending to my Father a
 >>was crucified, died, and was buried.  
 >>He descended into hell.  
 >>  
->>**The third day He arose again from the dead.**  
->>**He ascended into heaven and sits at the right hand of God the Father Almighty,**  
->>**whence He shall come to judge the living and the dead.**  
+>><bgy> **The third day He arose again from the dead.** </bgy>  
+>><bgy> **He ascended into heaven and sits at the right hand of God the Father Almighty,** </bgy>  
+>><bgy> **whence He shall come to judge the living and the dead.** </bgy>  
 >>  
 >>I believe in the Holy Spirit, the holy catholic church,  
 >>the communion of saints, the forgiveness of sins,  

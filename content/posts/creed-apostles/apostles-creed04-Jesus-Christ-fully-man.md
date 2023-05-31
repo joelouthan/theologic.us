@@ -17,14 +17,21 @@ draft: false
 description: "Jesus Christ born of the Virgin Mary is a supernatural, Godly, out-of-this-world, almost fantasy-fiction yet absolute, theological fact is a base, primary tenet of the Christian faith. Believe everything else but this? Congrats, you are not a Christian. You are some historical cult or sect (and not a new disbelief) but you cannot call yourself a Christian."
 ---
 
+<style>
+bgy { 
+  background-color: yellow;
+  color: black;
+  }
+</style>
+
 ## The Creed
 
 >>I believe in God, the Father Almighty,  
 >>the Creator of heaven and earth,  
 >>and in Jesus Christ, His only Son, our Lord:  
->>**Who was conceived of the Holy Spirit,**  
->>**born of the Virgin Mary,**  
->>**suffered under Pontius Pilate,**  
+>><bgy> **Who was conceived of the Holy Spirit,** </bgy>  
+>><bgy> **born of the Virgin Mary,** </bgy>  
+>><bgy> **suffered under Pontius Pilate,** </bgy>  
 >>was crucified, died, and was buried.  
 >>He descended into hell.  
 >>  
