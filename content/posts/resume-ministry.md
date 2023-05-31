@@ -220,7 +220,15 @@ Isaiah 50:2a (CSB)
 
 It is like I ask my kids, "Does God have T-Rex arms?" Of course He doesn't. He is the mighty one who saves.
 
-### MINISTRY POSITIONS
+### DOCTRINAL STATEMENT
+
+I am Creedal and abide in the [Apostles' Creed](/series/doctrine-apostles-creed/), Nicene, Chalcedonian, and Athanasian Creed.
+
+I am Confessional and confess the 1689 Second London Baptist Confession. My exposition of the 1689 Confession is [here](/series/1689-baptist-confession-of-faith/) with new chapters released every Wednesday.
+
+To that end, I am a Reformed Baptist and therefore, credobaptist. My local church, [Reforming Truth Church](https://reformingtruth.church/), will be a part of the [Grace Reformed Network](https://gracereformednetwork.org/).
+
+### MINISTRY EXPERIENCE
 
 <div style='font-variant: small-caps; font-weight: bold'>current</div>  
 
@@ -278,7 +286,7 @@ Layperson
 
 <div style='font-variant: small-caps; font-weight: bold'>Current</div>
 
-Project Manager at Red Hat, Inc.
+Technical Project Manager at Red Hat, Inc.
 
 <div style='font-variant: small-caps; font-weight: bold'>Past</div>
 
@@ -352,7 +360,7 @@ Project Management
 
 [Doctrine: Ordo Salutis or Doctrine on the Order of Salvation](/series/ordo-salutis/)
 
-<hr>
+---
 
 <div style='font-variant: small-caps; font-weight: bold'>Works in Progress</div>
 
@@ -364,11 +372,7 @@ Project Management
 
 [Bible Study in Genesis](/series/bible-study-genesis/)
 
-<hr>
-
-<div style='font-variant: small-caps; font-weight: bold'>Current Writing Projects</div>
-
-<iframe class="clickup-embed" src="https://sharing.clickup.com/25749688/c/rhu5r-144/calendar" onwheel="" width="100%" height="700px" style="background: transparent; border: 1px solid #ccc;"></iframe>
+---
 
 ### REFERENCES
 
