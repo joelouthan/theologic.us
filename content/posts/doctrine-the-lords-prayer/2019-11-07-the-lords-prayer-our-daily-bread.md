@@ -32,7 +32,7 @@ mp3:
     asset_link: "2021-07-20-doctrine-prayer-john6.mp3"
     length: "32135555"
 image: 
-  url: images/apple-thor-logo-1600x.jpg
+  url: '/images/banners/prayer.png'
   alt: "Source: Theologicus"
 ---
 
