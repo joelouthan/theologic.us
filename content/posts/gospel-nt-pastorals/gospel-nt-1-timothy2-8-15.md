@@ -128,9 +128,17 @@ That is where I land: men and women of the body, don't become disruptive nor unr
 
 ### For Adam was formed first, then Eve. And Adam was not deceived, but the woman was deceived and transgressed. But she will be saved through childbearing, if they continue in faith, love, and holiness, with good sense
 
-We keep this in mind with Romans 5:12-21. In other words, no one in their right mind would suggest that Paul is saying that Adam did not sin. Woman was deceived and transgressed. Adam was passively not protecting his wife and transgressed. I know because of Genesis 3 and Romans 5:12-21.
+We keep this in mind with Romans 5:12-21. In other words, no one in their right mind would suggest that Paul is saying that Adam did not sin. Woman was deceived and transgressed. Paul is not saying anything controversial here. He is quoting Eve:
 
-As far as being saved through childbearing. That isn't exclusive for women. That is exclusively for all believers. This ties right back to the first proclamation of the gospel:
+>Genesis 3:13 (CSB) So the LORD God asked the woman, “What have you done? ” And the woman said, “The serpent deceived me, and I ate.”
+
+Adam was passively not protecting his wife and transgressed. I know because of Genesis 3 and Romans 5:12-21.
+
+As far as being saved through childbearing. This ties straight back to Genesis 3:
+
+>Genesis 3:20 (CSB) The man named his wife Eve because she was the mother of all the living.
+
+That is exclusively for all believers. This ties right back to the first proclamation of the gospel:
 
 >Genesis 3:15 (CSB)
 > I will put hostility between you and the woman,  
@@ -145,6 +153,10 @@ And
 What is the Bible about? Jesus Christ. When in doubt, ask yourself, "What does this say about God?"
 
 ### if they continue in faith, love, and holiness, with good sense
+
+How do we know that Adam and Eve were saved?
+
+>Genesis 3:21 (CSB) The LORD God made clothing from skins for the man and his wife, and he clothed them.
 
 This is the mark of the every believer. There is one thing to struggle with faith, love, holiness, and good sense. But there is one other thing not to display those traits as all. This is why I keep coming back to you and pleading with you to let yourself be known by loved and friends. Married couples, don't tune me out. I meet married people all the time who have been married years and yet, they really don't know each other. God calls us to community. God has called us to search out others that are safe and invite them into your life. This is to be done in mutuality--that is, you look into my life and I will look in yours and let us see if there is something in us that doesn't look like God. You won't get this in isolation. Yep, it is scary as heck. But as much as God as saved us to Himself, he has saved us to each other--from believer to believer.
 
