@@ -55,7 +55,7 @@ css: home-devos
 
 ## About
 
-<img style="float:left; padding-right: 20px; padding-left: 20px; margin: 0rem 0;" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="300px">**JOSEPH LOUTHAN**  
+<img style="float:left; padding-right: 20px; padding-left: 20px; margin: 0rem 0; border-radius: 50%" src="https://theologic.us/images/jlouthan-ai-starry-back-500-01.png" width="300px">**JOSEPH LOUTHAN**  
 Versailles, Kentucky
 
 <div class="contact-info">
