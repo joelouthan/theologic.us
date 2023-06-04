@@ -65,19 +65,11 @@ description: "Matthew 1:5–6a (CSB) Salmon fathered Boaz by Rahab, Boaz fathere
 
 ><sup>22</sup> Obed fathered Jesse, and Jesse fathered David.
 
-## The Introduction
-
-## The Passage
+## Some Considerations
 
 ## God
 
-## The Gospel
-
----
-
-<div style="page-break-after: always;"></div>
-
-## Our Response
+### God Does:
 
 ## The Resources
 
