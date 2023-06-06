@@ -14,7 +14,7 @@ tocopen: true
 css: "prayers"
 draft: false
 
-description: "If you want an opinion on the church and what she should be doing, just look at your window. Everybody in the world has super hot takes about who and what church is. But those opinions don't count. The Church is catholic, invisible, a sermon preached, the bride, and headed by none other by the King of kings."
+description: "If you want an opinion on the church and what she should be doing, just look at your window. Everybody in the world has super hot takes about who and what church is. But those opinions don't count. At a minimum, the Church is catholic, invisible, a sermon preached, the bride, and headed by none other by the King of kings."
 ---
 
 <style>
