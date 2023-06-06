@@ -77,7 +77,7 @@ bgy {
 
 >Ephesians 5:23–32 (CSB) because the husband is the head of the wife as Christ is the head of the church. He is the Savior of the body. Now as the church submits to Christ, so also wives are to submit to their husbands in everything. Husbands, love your wives, just as Christ loved the church and gave himself for her to make her holy, cleansing her with the washing of water by the word. He did this to present the church to himself in splendor, without spot or wrinkle or anything like that, but holy and blameless. In the same way, husbands are to love their wives as their own bodies. He who loves his wife loves himself. For no one ever hates his own flesh but provides and cares for it, just as Christ does for the church, since we are members of his body. For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh. This mystery is profound, but I am talking about Christ and the church.
 
-### The Holy Catholic Church: is the bride of Christ
+### The Holy Catholic Church is the bride of Christ
 
 >Revelation 19:6-9 (CSB) Then I heard something like the voice of a vast multitude, like the sound of cascading waters, and like the rumbling of loud thunder, saying,  
 >Hallelujah, because our Lord God, the Almighty,  
