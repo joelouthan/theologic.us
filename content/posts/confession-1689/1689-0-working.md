@@ -1923,7 +1923,10 @@ Hebrews 12:23; Colossians 1:18; Ephesians 1:10-23; Ephesians 5:23-32
 ### 
 
 ```text
-All persons throughout the world, professing the faith of the gospel, and obedience unto God by Christ according unto it, not destroying their own profession by any errors everting the foundation, or unholiness of conversation, are and may be called visible saints; and of such ought all particular congregations to be constituted. ( 1 Corinthians 1:2; Acts 11:26; Romans 1:7; Ephesians 1:20-22
+All persons throughout the world, professing the faith of the gospel, and obedience unto God by Christ according unto it, not destroying their own profession by any errors everting the foundation, or unholiness of conversation, are and may be called visible saints; and of such ought all particular congregations to be constituted.
+```
+
+1 Corinthians 1:2; Acts 11:26; Romans 1:7; Ephesians 1:20-22
 
 ---
 
